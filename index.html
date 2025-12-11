@@ -6,41 +6,38 @@
     <title>The Daily Objective | AI News Analyst</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
     <style>
-        /* BASE STYLES */
+        /* DESIGN VARS (Koverra-inspired dark theme) */
         :root {
-            --color-bg: #1a1a1a;
+            --color-bg: #101010; /* Darker background */
             --color-text: #f0f0f0;
-            --color-card: #282828;
-            --color-accent: #00bcd4; /* Teal */
-            --color-neutral: #555555;
-            --color-positive: #4caf50; /* Green */
-            --color-negative: #f44336; /* Red */
+            --color-card: #1f1f1f; /* Card darker than BG */
+            --color-accent: #00bcd4; /* Teal Accent */
+            --color-neutral: #a0a0a0;
+            --color-positive: #4caf50;
+            --color-negative: #f44336;
         }
         body { 
             font-family: 'Montserrat', sans-serif; 
             background-color: var(--color-bg); 
             color: var(--color-text); 
             margin: 0; 
-            padding: 30px 20px; 
+            padding: 40px 20px; 
             line-height: 1.6;
         }
-        .container { 
-            max-width: 900px; 
-            margin: 0 auto; 
-            padding: 0 10px;
-        }
+        .container { max-width: 900px; margin: 0 auto; padding: 0 10px; }
         h1 { 
             text-align: center; 
             color: var(--color-text); 
-            font-size: 2.5em; 
+            font-size: 3em; 
             font-weight: 800;
+            letter-spacing: -1px;
             margin-bottom: 5px;
         }
         p.subtitle {
             text-align: center; 
             color: var(--color-neutral); 
             font-weight: 400;
-            margin-bottom: 30px;
+            margin-bottom: 40px;
         }
 
         /* SEARCH & FILTER STYLES */
@@ -48,69 +45,62 @@
         #search-input { 
             width: 100%; 
             padding: 15px 25px; 
-            border: 2px solid var(--color-accent); 
+            border: 1px solid var(--color-neutral); 
             background: var(--color-card);
-            border-radius: 10px; 
+            border-radius: 5px; 
             box-sizing: border-box; 
             font-size: 1.1em; 
             color: var(--color-text);
             transition: border-color 0.3s, box-shadow 0.3s;
         }
-        #search-input::placeholder { color: var(--color-neutral); }
-        #search-input:focus { border-color: #0097a7; box-shadow: 0 0 10px rgba(0, 188, 212, 0.5); outline: none; }
+        #search-input:focus { border-color: var(--color-accent); box-shadow: 0 0 10px rgba(0, 188, 212, 0.4); outline: none; }
         
-        #keyword-filter-container { margin-bottom: 20px; text-align: center; }
+        #keyword-filter-container { margin-bottom: 30px; text-align: center; }
         .tag-title { color: var(--color-neutral); font-size: 0.9em; margin-bottom: 10px; display: block; }
         .tag {
             display: inline-block;
-            background-color: var(--color-card);
+            background-color: #333333; /* Darker tag background */
             color: var(--color-accent);
             padding: 6px 14px;
             margin: 0 7px 7px 0;
-            border-radius: 20px;
+            border-radius: 3px;
             font-size: 0.85em;
             font-weight: 600;
             cursor: pointer;
-            border: 1px solid var(--color-neutral);
             transition: all 0.3s ease;
         }
         .tag:hover {
             background-color: var(--color-accent);
             color: var(--color-card);
-            border-color: var(--color-accent);
-            transform: translateY(-2px);
+            transform: translateY(-1px);
         }
 
         /* CARD STYLES */
         .card { 
             background: var(--color-card); 
-            border-radius: 15px; 
+            border-radius: 5px; 
             padding: 25px; 
             margin-bottom: 30px; 
-            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4); 
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5); 
             display: flex; 
             flex-direction: column;
+            border-left: 3px solid var(--color-accent); /* Accent stripe */
             transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.5s;
-            opacity: 0; /* Initial state for fade-in */
+            opacity: 0; 
         }
         .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 12px 25px rgba(0, 0, 0, 0.6);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
         }
-        .card.visible { opacity: 1; } /* Final state after loading */
+        .card.visible { opacity: 1; }
 
-        .card-header { 
-            display: flex; 
-            align-items: flex-start; 
-            margin-bottom: 20px; 
-        }
+        .card-header { display: flex; align-items: flex-start; margin-bottom: 20px; }
         .article-image { 
-            width: 150px; /* Increased size for visual impact */
+            width: 150px; 
             height: 100px; 
             object-fit: cover; 
-            border-radius: 10px; 
+            border-radius: 3px; 
             margin-right: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
             flex-shrink: 0; 
         }
         .text-content { flex-grow: 1; }
@@ -132,7 +122,7 @@
         }
         .headline:hover { color: var(--color-accent); }
         .summary { 
-            color: var(--color-text); 
+            color: var(--color-neutral); 
             line-height: 1.5; 
             font-size: 0.9em; 
             margin-top: 15px; 
@@ -140,14 +130,13 @@
         
         /* INFOGRAPHIC STYLES */
         .stats-box { 
-            background: #333333; 
+            background: #282828; 
             padding: 15px; 
             margin-top: 20px; 
-            border-radius: 10px; 
+            border-radius: 5px; 
             display: flex; 
             justify-content: space-between; 
             flex-wrap: wrap;
-            border-left: 5px solid var(--color-accent);
         }
         .stat { width: 48%; margin-bottom: 5px; }
         .label { 
@@ -157,26 +146,16 @@
             margin-bottom: 5px; 
             color: var(--color-text);
         }
-        .meter-bg { background: var(--color-neutral); height: 8px; border-radius: 4px; overflow: hidden; }
+        .meter-bg { background: #333333; height: 8px; border-radius: 4px; overflow: hidden; }
         .meter-fill { 
             height: 100%; 
             border-radius: 4px; 
-            transition: width 1s ease-out; /* Smooth Bar Animation */
-            width: 0; /* Initial width for animation */
+            transition: width 1s ease-out; 
+            width: 0; 
         }
-        .meter-fill.loaded { width: var(--score-width); } /* Final width after JS loads */
-        
-        /* ADS & RESPONSIVE */
-        .ad-space { 
-            background: #282828; 
-            border: 1px dashed var(--color-accent); 
-            padding: 20px; 
-            text-align: center; 
-            margin-bottom: 30px; 
-            border-radius: 10px;
-            color: var(--color-neutral);
-        }
+        .meter-fill.loaded { width: var(--score-width); }
 
+        /* Responsive */
         @media (max-width: 600px) {
             .card-header { flex-direction: column; align-items: center; }
             .article-image { margin-right: 0; margin-bottom: 15px; width: 100%; height: auto; }
@@ -187,16 +166,16 @@
 <body>
 
     <div class="container">
-        <h1>The Daily Objective</h1>
+        <h1>THE DAILY OBJECTIVE</h1>
         <p class="subtitle">AI-Powered Bias & Sentiment Analysis</p>
         
         <div id="search-container">
-            <input type="text" id="search-input" placeholder="Search headlines, summaries, or sources..." autocomplete="off">
+            <input type="text" id="search-input" placeholder="Search headlines, keywords, or sources..." autocomplete="off">
         </div>
         
         <div id="keyword-filter-container">
             <span class="tag-title">Popular Topics:</span>
-            </div>
+        </div>
 
         <div id="news-container">
             <p style="text-align:center; color: var(--color-neutral);">Loading and analyzing news...</p>
@@ -205,36 +184,31 @@
 
     <script>
         let allArticles = []; 
-        let articleIndex = 0; // Global counter for staggered load
+        let articleIndex = 0; 
 
-        // --- Image Fallback Logic (IMPROVED) ---
+        // --- Image Fallback Logic (Stable) ---
         function getImageURL(article) {
             let imageUrl = article.image_url;
             
-            // 1. If RSS provided an image, use it directly (best quality)
             if (imageUrl) {
                 return imageUrl;
             }
 
-            // 2. Use Unsplash Source (Free, No Key, but prone to broken links)
+            // Fallback to Unsplash Source with cache-buster seed
             if (article.keywords && article.keywords.length > 0) {
                 const keywordForImage = article.keywords[0].replace(/\s/g, '+'); 
-                // Using a date-based seed guarantees a new image daily, 
-                // preventing cached broken images from sticking around.
                 const seed = new Date().toDateString() + keywordForImage;
-                // Using Unsplash source with a "seed" query for a slightly better random image
+                // Use a dedicated API endpoint for randomness
                 return `https://source.unsplash.com/random/150x100/?${keywordForImage}&sig=${seed}`; 
             }
             
-            // 3. Final Fallback
             return `https://source.unsplash.com/random/150x100/?news&sig=${new Date().toDateString()}`;
         }
         
-        // --- Core Function to Render Cards ---
         function renderNews(articlesToRender) {
             const container = document.getElementById('news-container');
             container.innerHTML = ''; 
-            articleIndex = 0; // Reset index for new render
+            articleIndex = 0; 
 
             if (articlesToRender.length === 0) {
                 container.innerHTML = '<div style="text-align:center; padding: 50px; color: var(--color-neutral);">No articles found matching your criteria.</div>';
@@ -248,11 +222,10 @@
 
                 let objScore = article.objectivity_score;
                 let objColor = objScore > 70 ? var(--color-negative) : (objScore > 40 ? '#ff9800' : var(--color-positive));
-                let objText = objScore > 70 ? 'Highly Opinionated' : (objScore > 40 ? 'Moderate Bias' : 'Highly Objective');
+                let objText = objScore > 70 ? 'HIGH OPINION' : (objScore > 40 ? 'MODERATE BIAS' : 'HIGH OBJECTIVITY');
                 
                 let sentimentColor = article.sentiment === 'Positive' ? var(--color-positive) : (article.sentiment === 'Negative' ? var(--color-negative) : var(--color-neutral));
                 
-                // Get the calculated image URL
                 const imageUrl = getImageURL(article);
 
                 const tagsHtml = article.keywords.map(keyword => {
@@ -290,28 +263,18 @@
                 `;
                 container.appendChild(card);
 
-                // --- Animation Trigger ---
-                // Staggered load: delay each card's fade-in
+                // Staggered load and animation trigger
                 setTimeout(() => {
                     card.classList.add('visible');
-                    // Animate the bias bar after the card is visible
                     const biasMeter = card.querySelector('.bias-meter');
                     if (biasMeter) {
                         biasMeter.classList.add('loaded');
                     }
-                }, articleIndex * 100); // 100ms delay per card
-
-                // Insert Ad every 3 articles (Monetization)
-                if ((articleIndex) % 3 === 0) {
-                    const adDiv = document.createElement('div');
-                    adDiv.className = 'ad-space';
-                    adDiv.innerHTML = "<strong>Advertisement</strong><br>PLACE YOUR GOOGLE ADSENSE SCRIPT/TAG HERE"; 
-                    container.appendChild(adDiv);
-                }
+                }, articleIndex * 100); 
             });
         }
         
-        // --- Search/Filter Logic (Unchanged) ---
+        // --- Search/Filter Logic (Cleaned up) ---
         function populateGlobalTags(articles) {
             const tagContainer = document.getElementById('keyword-filter-container');
             let allKeywords = [];
@@ -372,7 +335,7 @@
             })
             .catch(error => {
                 console.error('Error fetching news data:', error);
-                document.getElementById('news-container').innerHTML = '<p style="color: var(--color-negative); text-align: center;">Error loading news data. Please check the `news_data.json` file.</p>';
+                document.getElementById('news-container').innerHTML = '<p style="color: var(--color-negative); text-align: center;">Error loading news data. The server is not providing the necessary file. Please check the latest GitHub Action run for script failure.</p>';
             });
     </script>
 </body>
