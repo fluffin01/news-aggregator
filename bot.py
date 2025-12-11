@@ -7,12 +7,18 @@ import re
 # Set your desired limit here for LOTS of articles.
 ARTICLE_LIMIT = 100 
 
+# --- Inside your bot.py file ---
+
 RSS_FEEDS = [
+    # Existing Feeds
     "http://rss.cnn.com/rss/edition.rss",
     "http://feeds.bbci.co.uk/news/rss.xml",
     "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml",
     "https://www.theguardian.com/world/rss",
-    # Add more feeds here for greater quantity.
+    
+    # NEW: Highly Objective Global Feeds
+    "http://feeds.reuters.com/reuters/topNews",        # Reuters - Top News
+    "http://hosted.ap.org/lineups/TOPHEADS-rss_2.0.xml" # AP News - Top Headlines (A known working, though older, AP feed)
 ]
 
 def analyze_sentiment(text):
