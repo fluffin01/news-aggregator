@@ -3,20 +3,18 @@ from textblob import TextBlob
 import json
 import os
 from datetime import datetime
-import re # For simple keyword extraction
+import re 
 
-# 1. SETUP: List your RSS feeds here (CNN, BBC, etc.)
+# 1. SETUP: List your RSS feeds here
 RSS_FEEDS = [
     "http://rss.cnn.com/rss/edition.rss",
     "http://feeds.bbci.co.uk/news/rss.xml",
-    # Add more feeds here. Some feeds might include image URLs.
+    # Add more feeds here.
 ]
 
 def analyze_sentiment(text):
     """
     Returns polarity (positive/negative) and subjectivity (opinion/fact).
-    Subjectivity: 0.0 is very objective, 1.0 is very subjective.
-    Polarity: -1.0 is negative, 1.0 is positive.
     """
     blob = TextBlob(text)
     return blob.sentiment.polarity, blob.sentiment.subjectivity
@@ -24,51 +22,45 @@ def analyze_sentiment(text):
 def extract_image_from_entry(entry):
     """
     Attempts to find an image URL from various common RSS feed structures.
+    (This function remains the same as it is the most robust check)
     """
-    # Check for media:content (common for images)
     if 'media_content' in entry and entry.media_content:
         for media in entry.media_content:
             if 'url' in media and media.get('type', '').startswith('image'):
                 return media['url']
-            if 'url' in media and not media.get('type'): # Sometimes type is missing
+            if 'url' in media and not media.get('type'):
                 return media['url']
-
-    # Check for enclosures (another common way for podcasts/images)
     if 'enclosures' in entry and entry.enclosures:
         for enclosure in entry.enclosures:
             if 'url' in enclosure and enclosure.get('type', '').startswith('image'):
                 return enclosure['url']
-    
-    # Check for 'image' field directly (less common but exists)
     if 'image' in entry and 'href' in entry.image:
         return entry.image.href
-
-    # Check for img tag in summary/content (less reliable, but a fallback)
+    
+    # Check for img tag in summary/content (fallback)
     if 'summary' in entry:
         match = re.search(r'<img[^>]+src="([^">]+)"', entry.summary)
         if match:
             return match.group(1)
             
-    if 'content' in entry:
-        for content_item in entry.content:
-            if 'value' in content_item:
-                match = re.search(r'<img[^>]+src="([^">]+)"', content_item.value)
-                if match:
-                    return match.group(1)
-
     return None
 
-def extract_keyword_for_image(title):
+def extract_keywords(title_and_summary):
     """
-    Simple keyword extraction for placeholder images if no image found.
-    Picks the first significant word (not a stop word).
+    Extracts up to 3 strong noun phrases for filtering and image search.
     """
-    stop_words = set("a an the is are was were be by for from to in on at with and or but if as by for of on from into near over through under up".split())
-    words = re.findall(r'\b\w+\b', title.lower())
-    for word in words:
-        if word not in stop_words and len(word) > 3: # Ignore very short words
-            return word
-    return "news" # Default if no good keyword is found
+    blob = TextBlob(title_and_summary)
+    # Get noun phrases and filter out common/short phrases
+    keywords = [
+        phrase.lower() for phrase in blob.noun_phrases 
+        if len(phrase.split()) > 1 and len(phrase) > 5
+    ][:3] # Take top 3
+
+    if not keywords:
+        # Fallback to the title if no good noun phrases are found
+        keywords.append(title_and_summary.split()[0].lower())
+        
+    return keywords
 
 def fetch_and_analyze():
     articles = []
@@ -78,26 +70,22 @@ def fetch_and_analyze():
             feed = feedparser.parse(feed_url)
             print(f"Fetching {feed_url}...")
             
-            for entry in feed.entries[:10]: # Limit to top 10 per feed for better variety & images
+            for entry in feed.entries[:10]:
                 title = entry.title
                 link = entry.link
                 summary = getattr(entry, 'summary', '')
                 
-                # Try to get image from feed
+                # Check for image and extract keywords
                 image_url = extract_image_from_entry(entry)
+                keywords = extract_keywords(f"{title} {summary}")
                 
-                # If no image found, extract a keyword for placeholder
-                image_keyword = None
-                if not image_url:
-                    image_keyword = extract_keyword_for_image(title)
-                
-                # Combine title and summary for better analysis
+                # Combine title and summary for sentiment analysis
                 full_text = f"{title} {summary}"
                 
                 polarity, subjectivity = analyze_sentiment(full_text)
                 
                 # Convert scores to readable metrics
-                obj_score = int(subjectivity * 100) # Higher = More Opinionated
+                obj_score = int(subjectivity * 100)
                 if polarity > 0.1: sent_label = "Positive"
                 elif polarity < -0.1: sent_label = "Negative"
                 else: sent_label = "Neutral"
@@ -107,11 +95,11 @@ def fetch_and_analyze():
                     "link": link,
                     "summary": summary[:200] + "..." if len(summary) > 200 else summary,
                     "source": feed.feed.get('title', 'Unknown Source'),
-                    "objectivity_score": obj_score,  # Higher = More Opinionated
+                    "objectivity_score": obj_score,
                     "sentiment": sent_label,
                     "date": datetime.now().strftime("%Y-%m-%d"),
-                    "image_url": image_url,        # New: direct image from feed
-                    "image_keyword": image_keyword # New: keyword for placeholder
+                    "image_url": image_url,
+                    "keywords": keywords  # NEW: list of extracted keywords
                 }
                 articles.append(article_data)
         except Exception as e:
