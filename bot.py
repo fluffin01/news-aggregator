@@ -1,15 +1,18 @@
 import feedparser
 from textblob import TextBlob
 import json
-import os
 from datetime import datetime
 import re 
 
-# 1. SETUP: List your RSS feeds here
+# Set your desired limit here for LOTS of articles.
+ARTICLE_LIMIT = 100 
+
 RSS_FEEDS = [
     "http://rss.cnn.com/rss/edition.rss",
     "http://feeds.bbci.co.uk/news/rss.xml",
-    # Add more high-quality feeds here.
+    "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml",
+    "https://www.theguardian.com/world/rss",
+    # Add more feeds here for greater quantity.
 ]
 
 def analyze_sentiment(text):
@@ -18,21 +21,19 @@ def analyze_sentiment(text):
         blob = TextBlob(text)
         return blob.sentiment.polarity, blob.sentiment.subjectivity
     except Exception:
-        return 0, 0 # Default to neutral if analysis fails
+        return 0, 0 
 
 def extract_image_from_entry(entry):
     """Attempts to find an image URL from various common RSS feed structures."""
-    # Check media:content
     if 'media_content' in entry and entry.media_content:
         for media in entry.media_content:
             if 'url' in media and media.get('type', '').startswith('image'):
                 return media['url']
-    # Check enclosures
     if 'enclosures' in entry and entry.enclosures:
         for enclosure in entry.enclosures:
             if 'url' in enclosure and enclosure.get('type', '').startswith('image'):
                 return enclosure['url']
-    # Check summary/content for <img> tag (less reliable)
+    
     for key in ['summary', 'content']:
         if key in entry:
             content = entry[key]
@@ -51,15 +52,12 @@ def extract_keywords(title_and_summary):
             phrase.lower() for phrase in blob.noun_phrases 
             if len(phrase.split()) > 1 and len(phrase) > 5
         ][:3] 
-
         if not keywords:
-            # Fallback: use the first word if noun phrases failed
             first_word = title_and_summary.split()[0].lower()
             return [first_word] if len(first_word) > 3 else ["news"]
-            
         return keywords
     except Exception:
-        return ["news"] # Final fallback
+        return ["news"]
 
 def fetch_and_analyze():
     articles = []
@@ -69,8 +67,7 @@ def fetch_and_analyze():
             feed = feedparser.parse(feed_url)
             print(f"Fetching {feed_url}...")
             
-            # Increased limit to 50 for more content
-            for entry in feed.entries[:50]: 
+            for entry in feed.entries[:ARTICLE_LIMIT]: 
                 title = getattr(entry, 'title', 'No Title')
                 link = getattr(entry, 'link', '#')
                 summary = getattr(entry, 'summary', '')
@@ -102,7 +99,6 @@ def fetch_and_analyze():
         except Exception as e:
             print(f"Error fetching {feed_url}: {e}")
 
-    # Save to JSON file
     with open('news_data.json', 'w') as f:
         json.dump(articles, f, indent=4)
     print("News updated successfully.")
