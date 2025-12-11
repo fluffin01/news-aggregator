@@ -6,11 +6,11 @@
     <title>The Daily Objective | AI News Analyst</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
     <style>
-        /* DESIGN VARS (Koverra-inspired dark theme) */
+        /* DESIGN VARS (Modern, Stylish, Dark Theme) */
         :root {
-            --color-bg: #101010; /* Darker background */
+            --color-bg: #101010; 
             --color-text: #f0f0f0;
-            --color-card: #1f1f1f; /* Card darker than BG */
+            --color-card: #1f1f1f; 
             --color-accent: #00bcd4; /* Teal Accent */
             --color-neutral: #a0a0a0;
             --color-positive: #4caf50;
@@ -59,7 +59,7 @@
         .tag-title { color: var(--color-neutral); font-size: 0.9em; margin-bottom: 10px; display: block; }
         .tag {
             display: inline-block;
-            background-color: #333333; /* Darker tag background */
+            background-color: #333333; 
             color: var(--color-accent);
             padding: 6px 14px;
             margin: 0 7px 7px 0;
@@ -84,9 +84,9 @@
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5); 
             display: flex; 
             flex-direction: column;
-            border-left: 3px solid var(--color-accent); /* Accent stripe */
-            transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.5s;
+            border-left: 3px solid var(--color-accent); 
             opacity: 0; 
+            transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.5s;
         }
         .card:hover {
             transform: translateY(-2px);
@@ -155,6 +155,13 @@
         }
         .meter-fill.loaded { width: var(--score-width); }
 
+        /* Error/Loading state */
+        .loading-state {
+            text-align: center;
+            color: var(--color-neutral);
+            padding: 50px;
+        }
+        
         /* Responsive */
         @media (max-width: 600px) {
             .card-header { flex-direction: column; align-items: center; }
@@ -177,8 +184,8 @@
             <span class="tag-title">Popular Topics:</span>
         </div>
 
-        <div id="news-container">
-            <p style="text-align:center; color: var(--color-neutral);">Loading and analyzing news...</p>
+        <div id="news-container" class="loading-state">
+            Loading and analyzing news...
         </div>
     </div>
 
@@ -189,7 +196,6 @@
         // --- Image Fallback Logic (Stable) ---
         function getImageURL(article) {
             let imageUrl = article.image_url;
-            
             if (imageUrl) {
                 return imageUrl;
             }
@@ -197,8 +203,8 @@
             // Fallback to Unsplash Source with cache-buster seed
             if (article.keywords && article.keywords.length > 0) {
                 const keywordForImage = article.keywords[0].replace(/\s/g, '+'); 
+                // CRITICAL: Use date as a seed to force new image loads daily, preventing cached broken images
                 const seed = new Date().toDateString() + keywordForImage;
-                // Use a dedicated API endpoint for randomness
                 return `https://source.unsplash.com/random/150x100/?${keywordForImage}&sig=${seed}`; 
             }
             
@@ -208,10 +214,11 @@
         function renderNews(articlesToRender) {
             const container = document.getElementById('news-container');
             container.innerHTML = ''; 
+            container.classList.remove('loading-state');
             articleIndex = 0; 
 
             if (articlesToRender.length === 0) {
-                container.innerHTML = '<div style="text-align:center; padding: 50px; color: var(--color-neutral);">No articles found matching your criteria.</div>';
+                container.innerHTML = '<div class="loading-state">No articles found matching your criteria.</div>';
                 return;
             }
 
@@ -221,10 +228,10 @@
                 articleIndex++;
 
                 let objScore = article.objectivity_score;
-                let objColor = objScore > 70 ? var(--color-negative) : (objScore > 40 ? '#ff9800' : var(--color-positive));
+                let objColor = objScore > 70 ? 'var(--color-negative)' : (objScore > 40 ? '#ff9800' : 'var(--color-positive)');
                 let objText = objScore > 70 ? 'HIGH OPINION' : (objScore > 40 ? 'MODERATE BIAS' : 'HIGH OBJECTIVITY');
                 
-                let sentimentColor = article.sentiment === 'Positive' ? var(--color-positive) : (article.sentiment === 'Negative' ? var(--color-negative) : var(--color-neutral));
+                let sentimentColor = article.sentiment === 'Positive' ? 'var(--color-positive)' : (article.sentiment === 'Negative' ? 'var(--color-negative)' : 'var(--color-neutral)');
                 
                 const imageUrl = getImageURL(article);
 
@@ -274,7 +281,6 @@
             });
         }
         
-        // --- Search/Filter Logic (Cleaned up) ---
         function populateGlobalTags(articles) {
             const tagContainer = document.getElementById('keyword-filter-container');
             let allKeywords = [];
@@ -323,7 +329,12 @@
 
         // --- Initial Data Fetch and Setup ---
         fetch('news_data.json')
-            .then(response => response.json())
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
             .then(data => {
                 allArticles = data; 
                 renderNews(allArticles); 
@@ -335,7 +346,7 @@
             })
             .catch(error => {
                 console.error('Error fetching news data:', error);
-                document.getElementById('news-container').innerHTML = '<p style="color: var(--color-negative); text-align: center;">Error loading news data. The server is not providing the necessary file. Please check the latest GitHub Action run for script failure.</p>';
+                document.getElementById('news-container').innerHTML = '<div class="loading-state" style="color: var(--color-negative);">Error loading data. The server is not providing the necessary file. Please confirm the GitHub Action has run successfully.</div>';
             });
     </script>
 </body>
