@@ -6,7 +6,11 @@
         "source": "CNN.com - RSS Channel - App International Edition",
         "objectivity_score": 100,
         "sentiment": "Positive",
-        "date": "2025-12-11"
+        "date": "2025-12-11",
+        "image_url": "https://cdn.cnn.com/cnnnext/dam/assets/230403164607-22-trump-indictment-travel-new-york-super-169.jpg",
+        "keywords": [
+            "felony counts"
+        ]
     },
     {
         "title": "Haberman reveals why Trump attacked judge and his family in speech",
@@ -15,7 +19,13 @@
         "source": "CNN.com - RSS Channel - App International Edition",
         "objectivity_score": 40,
         "sentiment": "Negative",
-        "date": "2025-12-11"
+        "date": "2025-12-11",
+        "image_url": "https://cdn.cnn.com/cnnnext/dam/assets/230405092519-trump-haberman-split-super-169.jpg",
+        "keywords": [
+            "political contributor",
+            "maggie haberman",
+            "donald trump"
+        ]
     },
     {
         "title": "What to know about the Trump indictment on the eve of his court appearance",
@@ -24,7 +34,11 @@
         "source": "CNN.com - RSS Channel - App International Edition",
         "objectivity_score": 0,
         "sentiment": "Neutral",
-        "date": "2025-12-11"
+        "date": "2025-12-11",
+        "image_url": "https://cdn.cnn.com/cnnnext/dam/assets/230403165727-03-trump-trump-tower-230403-super-169.jpg",
+        "keywords": [
+            "court appearance"
+        ]
     },
     {
         "title": "READ: Trump indictment related to hush money payment",
@@ -33,7 +47,11 @@
         "source": "CNN.com - RSS Channel - App International Edition",
         "objectivity_score": 40,
         "sentiment": "Neutral",
-        "date": "2025-12-11"
+        "date": "2025-12-11",
+        "image_url": "https://cdn.cnn.com/cnnnext/dam/assets/230404123050-19-trump-arraignment-0404-super-169.jpg",
+        "keywords": [
+            "hush money payment"
+        ]
     },
     {
         "title": "Russian authorities detain suspect over St. Petersburg cafe blast",
@@ -42,7 +60,87 @@
         "source": "CNN.com - RSS Channel - App International Edition",
         "objectivity_score": 0,
         "sentiment": "Neutral",
-        "date": "2025-12-11"
+        "date": "2025-12-11",
+        "image_url": "https://cdn.cnn.com/cnnnext/dam/assets/230403122852-04-russia-cafe-explosion-super-169.jpg",
+        "keywords": [
+            "russian authorities detain",
+            "cafe blast"
+        ]
+    },
+    {
+        "title": "Video shows moment of deadly explosion at cafe in Russia",
+        "link": "https://www.cnn.com/videos/world/2023/04/02/russian-military-blogger-vladlen-tatarsky-killed-cafe-explosion-chance-vpx.cnn",
+        "summary": "A well-known Russian military blogger, Vladlen Tatarsky, was killed in an explosion at a cafe in St. Petersburg, authorities said. CNN's Matthew Chance reports.",
+        "source": "CNN.com - RSS Channel - App International Edition",
+        "objectivity_score": 12,
+        "sentiment": "Negative",
+        "date": "2025-12-11",
+        "image_url": "https://cdn.cnn.com/cnnnext/dam/assets/230402131233-01-russia-cafe-explosion-0402-super-169.jpg",
+        "keywords": [
+            "shows moment",
+            "a well-known",
+            "russian military blogger"
+        ]
+    },
+    {
+        "title": "Wall Street Journal reporter Evan Gershkovich appeals against arrest, Russian state media says",
+        "link": "https://www.cnn.com/collections/intl-ukraine-030423/",
+        "summary": "",
+        "source": "CNN.com - RSS Channel - App International Edition",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2025-12-11",
+        "image_url": "https://cdn.cnn.com/cnnnext/dam/assets/230331123622-evan-gershkovich-undated-super-169.jpg",
+        "keywords": [
+            "street journal reporter",
+            "evan gershkovich",
+            "russian state media"
+        ]
+    },
+    {
+        "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+        "link": "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html",
+        "summary": "The suspected Chinese spy balloon that transited the US earlier this year was able to capture imagery and collect some signals intelligence from US military sites, a source familiar with the matter te...",
+        "source": "CNN.com - RSS Channel - App International Edition",
+        "objectivity_score": 29,
+        "sentiment": "Positive",
+        "date": "2025-12-11",
+        "image_url": "https://cdn.cnn.com/cnnnext/dam/assets/230211075054-chinese-spy-balloon-recovery-020523-super-169.jpg",
+        "keywords": [
+            "chinese spy balloon",
+            "transmit information",
+            "chinese spy balloon"
+        ]
+    },
+    {
+        "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+        "link": "https://www.cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html",
+        "summary": "An anticipated meeting between Taiwan's President Tsai Ing-wen and US House Speaker Kevin McCarthy in California this week has sparked concerns of a repeat of the pressure campaign China launched last...",
+        "source": "CNN.com - RSS Channel - App International Edition",
+        "objectivity_score": 18,
+        "sentiment": "Positive",
+        "date": "2025-12-11",
+        "image_url": "https://cdn.cnn.com/cnnnext/dam/assets/230403194210-01-us-china-taiwan-tension-super-169.jpg",
+        "keywords": [
+            "leader 's us visit",
+            "'s president",
+            "tsai ing-wen"
+        ]
+    },
+    {
+        "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+        "link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
+        "summary": "A young volunteer soldier, Akula, who signed up for the war at the beginning of the Russian invasion is now dealing with the trauma of war. He spoke to CNN's David McKenzie about his time on the front...",
+        "source": "CNN.com - RSS Channel - App International Edition",
+        "objectivity_score": 55,
+        "sentiment": "Negative",
+        "date": "2025-12-11",
+        "image_url": "https://cdn.cnn.com/cnnnext/dam/assets/230327100109-ptsd-soldier-ukraine-super-169.jpg",
+        "keywords": [
+            "soldier shares experience",
+            "front line",
+            "russian invasion"
+        ]
     },
     {
         "title": "'Super flu' wave hits hospitals in England with no peak yet",
@@ -51,7 +149,13 @@
         "source": "BBC News",
         "objectivity_score": 58,
         "sentiment": "Positive",
-        "date": "2025-12-11"
+        "date": "2025-12-11",
+        "image_url": null,
+        "keywords": [
+            "'super flu",
+            "wave hits hospitals",
+            "hospital rise"
+        ]
     },
     {
         "title": "Four charts that show how flu outbreak is different this winter",
@@ -60,7 +164,13 @@
         "source": "BBC News",
         "objectivity_score": 60,
         "sentiment": "Neutral",
-        "date": "2025-12-11"
+        "date": "2025-12-11",
+        "image_url": null,
+        "keywords": [
+            "flu outbreak",
+            "nhs england",
+            "worst-case scenario"
+        ]
     },
     {
         "title": "From Iran to China to Venezuela - how tanker seized by US hid true location",
@@ -69,7 +179,13 @@
         "source": "BBC News",
         "objectivity_score": 50,
         "sentiment": "Positive",
-        "date": "2025-12-11"
+        "date": "2025-12-11",
+        "image_url": null,
+        "keywords": [
+            "us hid",
+            "true location",
+            "true location"
+        ]
     },
     {
         "title": "US wants 'special economic zone' in Ukraine's frontline region, Zelensky says",
@@ -78,7 +194,13 @@
         "source": "BBC News",
         "objectivity_score": 29,
         "sentiment": "Positive",
-        "date": "2025-12-11"
+        "date": "2025-12-11",
+        "image_url": null,
+        "keywords": [
+            "economic zone",
+            "'s frontline region",
+            "'s president"
+        ]
     },
     {
         "title": "'Monumental betrayal' - cheapest World Cup final ticket to cost \u00a33,119",
@@ -87,6 +209,82 @@
         "source": "BBC News",
         "objectivity_score": 100,
         "sentiment": "Neutral",
-        "date": "2025-12-11"
+        "date": "2025-12-11",
+        "image_url": null,
+        "keywords": [
+            "'monumental betrayal",
+            "cheapest world cup",
+            "final ticket"
+        ]
+    },
+    {
+        "title": "Celebrity Race Across the World winners revealed",
+        "link": "https://www.bbc.com/news/articles/cy5gq5klkrdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The four pairs of contestants had to make their way more than 3,500 miles through Central America.",
+        "source": "BBC News",
+        "objectivity_score": 37,
+        "sentiment": "Positive",
+        "date": "2025-12-11",
+        "image_url": null,
+        "keywords": [
+            "world winners"
+        ]
+    },
+    {
+        "title": "Interpreter in tears as Ukrainian boy recalls losing mother in Russian strike",
+        "link": "https://www.bbc.com/news/videos/cgl6glyxnryo?at_medium=RSS&at_campaign=rss",
+        "summary": "Roman Oleksiv,11, was injured in a Russian missile strike on a hospital that also killed his mother",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2025-12-11",
+        "image_url": null,
+        "keywords": [
+            "russian missile strike"
+        ]
+    },
+    {
+        "title": "Councils to get \u00a33bn for thousands more school spaces for Send pupils",
+        "link": "https://www.bbc.com/news/articles/c3w790ene7yo?at_medium=RSS&at_campaign=rss",
+        "summary": "The government is promising 50,000 more places for children with special educational needs in schools in England.",
+        "source": "BBC News",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
+        "date": "2025-12-11",
+        "image_url": null,
+        "keywords": [
+            "school spaces",
+            "special educational needs"
+        ]
+    },
+    {
+        "title": "Royal Navy shadows Russian submarine through English Channel",
+        "link": "https://www.bbc.com/news/articles/cm2v7j4mmgzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The UK says it tracked the Krasnodar as it sailed from the North Sea through the Strait of Dover.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2025-12-11",
+        "image_url": null,
+        "keywords": [
+            "royal navy shadows",
+            "russian submarine",
+            "north sea"
+        ]
+    },
+    {
+        "title": "Watch: Cameras on killer whales record first evidence of joint hunt with dolphins",
+        "link": "https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&at_campaign=rss",
+        "summary": "Researchers say the footage, captured near the North-West Pacific coast, is the first recorded evidence of the two working together.",
+        "source": "BBC News",
+        "objectivity_score": 35,
+        "sentiment": "Positive",
+        "date": "2025-12-11",
+        "image_url": null,
+        "keywords": [
+            "killer whales record",
+            "joint hunt",
+            "pacific coast"
+        ]
     }
 ]
