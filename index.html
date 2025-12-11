@@ -150,17 +150,17 @@
                 let objText = article.objectivity_score > 50 ? 'Highly Subjective' : 'Mostly Objective';
                 
                 // --- Updated Image Logic (Unsplash Source) ---
-                let imageUrl = article.image_url;
-                if (!imageUrl && article.keywords && article.keywords.length > 0) {
-                    // Use Unsplash Source API: free, no key needed, high quality
-                    // We take the first keyword for the best chance of relevance
-                    const keywordForImage = article.keywords[0].replace(/\s/g, '+'); 
-                    imageUrl = `https://source.unsplash.com/random/120x90/?${keywordForImage}`; 
-                } else if (!imageUrl) {
-                    // Fallback generic image
-                    imageUrl = `https://source.unsplash.com/random/120x90/?news`;
-                }
-                // End Image Logic
+          // --- Updated Image Logic (Unsplash Source) ---
+let imageUrl = article.image_url;
+if (!imageUrl && article.keywords && article.keywords.length > 0) {
+    // Use Unsplash Source API: free, no key needed, high quality
+    const keywordForImage = article.keywords[0].replace(/\s/g, '+'); 
+    imageUrl = `https://source.unsplash.com/random/120x90/?${keywordForImage}`; 
+} else if (!imageUrl) {
+    // Fallback generic image
+    imageUrl = `https://source.unsplash.com/random/120x90/?news`;
+}
+// End Image Logic
 
                 // --- Keywords for Tag Display ---
                 const tagsHtml = article.keywords.map(keyword => 
