@@ -22,7 +22,6 @@ def analyze_sentiment(text):
 def extract_image_from_entry(entry):
     """
     Attempts to find an image URL from various common RSS feed structures.
-    (This function remains the same as it is the most robust check)
     """
     if 'media_content' in entry and entry.media_content:
         for media in entry.media_content:
@@ -37,7 +36,6 @@ def extract_image_from_entry(entry):
     if 'image' in entry and 'href' in entry.image:
         return entry.image.href
     
-    # Check for img tag in summary/content (fallback)
     if 'summary' in entry:
         match = re.search(r'<img[^>]+src="([^">]+)"', entry.summary)
         if match:
@@ -49,18 +47,23 @@ def extract_keywords(title_and_summary):
     """
     Extracts up to 3 strong noun phrases for filtering and image search.
     """
-    blob = TextBlob(title_and_summary)
-    # Get noun phrases and filter out common/short phrases
-    keywords = [
-        phrase.lower() for phrase in blob.noun_phrases 
-        if len(phrase.split()) > 1 and len(phrase) > 5
-    ][:3] # Take top 3
+    try:
+        blob = TextBlob(title_and_summary)
+        # Get noun phrases and filter out common/short phrases
+        keywords = [
+            phrase.lower() for phrase in blob.noun_phrases 
+            if len(phrase.split()) > 1 and len(phrase) > 5
+        ][:3] 
 
-    if not keywords:
-        # Fallback to the title if no good noun phrases are found
-        keywords.append(title_and_summary.split()[0].lower())
-        
-    return keywords
+        if not keywords:
+            # Fallback to the first word if no good noun phrases are found
+            keywords.append(title_and_summary.split()[0].lower())
+            
+        return keywords
+    except Exception:
+        # Emergency fallback if TextBlob analysis fails (e.g., empty string)
+        return ["analysis-error"]
+
 
 def fetch_and_analyze():
     articles = []
@@ -70,21 +73,21 @@ def fetch_and_analyze():
             feed = feedparser.parse(feed_url)
             print(f"Fetching {feed_url}...")
             
-            for entry in feed.entries[:100]:
+            # Changed limit from 10 to 50 for more content
+            for entry in feed.entries[:50]: 
                 title = entry.title
                 link = entry.link
                 summary = getattr(entry, 'summary', '')
                 
-                # Check for image and extract keywords
                 image_url = extract_image_from_entry(entry)
-                keywords = extract_keywords(f"{title} {summary}")
                 
-                # Combine title and summary for sentiment analysis
-                full_text = f"{title} {summary}"
+                # Ensure text is not empty before analysis
+                full_text = f"{title} {summary}" if title or summary else "No content"
+                
+                keywords = extract_keywords(full_text)
                 
                 polarity, subjectivity = analyze_sentiment(full_text)
                 
-                # Convert scores to readable metrics
                 obj_score = int(subjectivity * 100)
                 if polarity > 0.1: sent_label = "Positive"
                 elif polarity < -0.1: sent_label = "Negative"
@@ -99,7 +102,7 @@ def fetch_and_analyze():
                     "sentiment": sent_label,
                     "date": datetime.now().strftime("%Y-%m-%d"),
                     "image_url": image_url,
-                    "keywords": keywords  # NEW: list of extracted keywords
+                    "keywords": keywords
                 }
                 articles.append(article_data)
         except Exception as e:
