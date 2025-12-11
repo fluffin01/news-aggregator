@@ -3,70 +3,183 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Daily Objective - Visual News & Keywords</title>
+    <title>The Daily Objective | AI News Analyst</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 20px; }
-        .container { max-width: 800px; margin: 0 auto; }
-        h1 { text-align: center; color: #2c3e50; }
-        
-        /* Search Bar Styling */
-        #search-container { margin-bottom: 30px; text-align: center; }
+        /* BASE STYLES */
+        :root {
+            --color-bg: #1a1a1a;
+            --color-text: #f0f0f0;
+            --color-card: #282828;
+            --color-accent: #00bcd4; /* Teal */
+            --color-neutral: #555555;
+            --color-positive: #4caf50; /* Green */
+            --color-negative: #f44336; /* Red */
+        }
+        body { 
+            font-family: 'Montserrat', sans-serif; 
+            background-color: var(--color-bg); 
+            color: var(--color-text); 
+            margin: 0; 
+            padding: 30px 20px; 
+            line-height: 1.6;
+        }
+        .container { 
+            max-width: 900px; 
+            margin: 0 auto; 
+            padding: 0 10px;
+        }
+        h1 { 
+            text-align: center; 
+            color: var(--color-text); 
+            font-size: 2.5em; 
+            font-weight: 800;
+            margin-bottom: 5px;
+        }
+        p.subtitle {
+            text-align: center; 
+            color: var(--color-neutral); 
+            font-weight: 400;
+            margin-bottom: 30px;
+        }
+
+        /* SEARCH & FILTER STYLES */
+        #search-container { margin-bottom: 40px; }
         #search-input { 
             width: 100%; 
-            padding: 12px 20px; 
-            border: 2px solid #3498db; 
-            border-radius: 8px; 
+            padding: 15px 25px; 
+            border: 2px solid var(--color-accent); 
+            background: var(--color-card);
+            border-radius: 10px; 
             box-sizing: border-box; 
             font-size: 1.1em; 
-            transition: border-color 0.3s;
+            color: var(--color-text);
+            transition: border-color 0.3s, box-shadow 0.3s;
         }
-        #search-input:focus { border-color: #2c3e50; outline: none; }
+        #search-input::placeholder { color: var(--color-neutral); }
+        #search-input:focus { border-color: #0097a7; box-shadow: 0 0 10px rgba(0, 188, 212, 0.5); outline: none; }
+        
+        #keyword-filter-container { margin-bottom: 20px; text-align: center; }
+        .tag-title { color: var(--color-neutral); font-size: 0.9em; margin-bottom: 10px; display: block; }
+        .tag {
+            display: inline-block;
+            background-color: var(--color-card);
+            color: var(--color-accent);
+            padding: 6px 14px;
+            margin: 0 7px 7px 0;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+            cursor: pointer;
+            border: 1px solid var(--color-neutral);
+            transition: all 0.3s ease;
+        }
+        .tag:hover {
+            background-color: var(--color-accent);
+            color: var(--color-card);
+            border-color: var(--color-accent);
+            transform: translateY(-2px);
+        }
 
-        /* Card Style */
-        .card { background: white; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: flex; flex-direction: column; }
-        .card-header { display: flex; align-items: flex-start; margin-bottom: 15px; }
+        /* CARD STYLES */
+        .card { 
+            background: var(--color-card); 
+            border-radius: 15px; 
+            padding: 25px; 
+            margin-bottom: 30px; 
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4); 
+            display: flex; 
+            flex-direction: column;
+            transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.5s;
+            opacity: 0; /* Initial state for fade-in */
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 25px rgba(0, 0, 0, 0.6);
+        }
+        .card.visible { opacity: 1; } /* Final state after loading */
+
+        .card-header { 
+            display: flex; 
+            align-items: flex-start; 
+            margin-bottom: 20px; 
+        }
         .article-image { 
-            width: 120px; 
-            height: 90px; 
+            width: 150px; /* Increased size for visual impact */
+            height: 100px; 
             object-fit: cover; 
-            border-radius: 8px; 
-            margin-right: 15px;
+            border-radius: 10px; 
+            margin-right: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
             flex-shrink: 0; 
         }
         .text-content { flex-grow: 1; }
-        .source { font-size: 0.8em; color: #666; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 5px; }
-        .headline { font-size: 1.3em; margin: 0; color: #2c3e50; text-decoration: none; display: block; font-weight: bold;}
-        .headline:hover { color: #3498db; }
-        .summary { color: #555; line-height: 1.6; font-size: 0.95em; margin-top: 10px; }
-        
-        /* Keyword Tag Styling */
-        .keyword-tags { margin-top: 10px; }
-        .tag {
-            display: inline-block;
-            background-color: #e0f2f1; /* Light cyan/teal */
-            color: #00796b; /* Darker teal text */
-            padding: 4px 10px;
-            margin: 0 5px 5px 0;
-            border-radius: 4px;
-            font-size: 0.8em;
-            cursor: pointer;
-            transition: background-color 0.2s;
+        .source { 
+            font-size: 0.8em; 
+            color: var(--color-neutral); 
+            text-transform: uppercase; 
+            letter-spacing: 1px; 
+            margin-bottom: 5px; 
         }
-        .tag:hover {
-            background-color: #b2dfdb; /* Lighter on hover */
+        .headline { 
+            font-size: 1.4em; 
+            margin: 0; 
+            color: var(--color-text); 
+            text-decoration: none; 
+            display: block; 
+            font-weight: 800;
+            transition: color 0.3s;
+        }
+        .headline:hover { color: var(--color-accent); }
+        .summary { 
+            color: var(--color-text); 
+            line-height: 1.5; 
+            font-size: 0.9em; 
+            margin-top: 15px; 
         }
         
-        /* Infographic Bars and Ads (Unchanged) */
-        .stats-box { background: #ecf0f1; padding: 15px; margin-top: 15px; border-radius: 8px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; }
-        .stat { width: 48%; margin-bottom: 10px; }
-        .label { font-size: 0.85em; font-weight: bold; display: block; margin-bottom: 5px; }
-        .meter-bg { background: #dcdcdc; height: 10px; border-radius: 5px; overflow: hidden; }
-        .meter-fill { height: 100%; border-radius: 5px; transition: width 0.5s; }
-        .ad-space { background: #fff3cd; border: 1px dashed #eba352; padding: 20px; text-align: center; margin-bottom: 20px; border-radius: 10px; }
+        /* INFOGRAPHIC STYLES */
+        .stats-box { 
+            background: #333333; 
+            padding: 15px; 
+            margin-top: 20px; 
+            border-radius: 10px; 
+            display: flex; 
+            justify-content: space-between; 
+            flex-wrap: wrap;
+            border-left: 5px solid var(--color-accent);
+        }
+        .stat { width: 48%; margin-bottom: 5px; }
+        .label { 
+            font-size: 0.85em; 
+            font-weight: 600; 
+            display: block; 
+            margin-bottom: 5px; 
+            color: var(--color-text);
+        }
+        .meter-bg { background: var(--color-neutral); height: 8px; border-radius: 4px; overflow: hidden; }
+        .meter-fill { 
+            height: 100%; 
+            border-radius: 4px; 
+            transition: width 1s ease-out; /* Smooth Bar Animation */
+            width: 0; /* Initial width for animation */
+        }
+        .meter-fill.loaded { width: var(--score-width); } /* Final width after JS loads */
+        
+        /* ADS & RESPONSIVE */
+        .ad-space { 
+            background: #282828; 
+            border: 1px dashed var(--color-accent); 
+            padding: 20px; 
+            text-align: center; 
+            margin-bottom: 30px; 
+            border-radius: 10px;
+            color: var(--color-neutral);
+        }
 
         @media (max-width: 600px) {
             .card-header { flex-direction: column; align-items: center; }
-            .article-image { margin-right: 0; margin-bottom: 15px; }
+            .article-image { margin-right: 0; margin-bottom: 15px; width: 100%; height: auto; }
             .stat { width: 100%; }
         }
     </style>
@@ -75,98 +188,77 @@
 
     <div class="container">
         <h1>The Daily Objective</h1>
-        <p style="text-align:center">AI-Powered Bias & Sentiment Analysis</p>
+        <p class="subtitle">AI-Powered Bias & Sentiment Analysis</p>
         
         <div id="search-container">
             <input type="text" id="search-input" placeholder="Search headlines, summaries, or sources..." autocomplete="off">
         </div>
         
-        <div id="keyword-filter-container" style="text-align: center; margin-bottom: 20px;">
-            <p>Popular Topics:</p>
+        <div id="keyword-filter-container">
+            <span class="tag-title">Popular Topics:</span>
             </div>
 
         <div id="news-container">
-            <p style="text-align:center">Loading and analyzing news...</p>
+            <p style="text-align:center; color: var(--color-neutral);">Loading and analyzing news...</p>
         </div>
     </div>
 
     <script>
         let allArticles = []; 
+        let articleIndex = 0; // Global counter for staggered load
 
-        // --- NEW: Function to populate global tags for filtering ---
-        function populateGlobalTags(articles) {
-            const tagContainer = document.getElementById('keyword-filter-container');
-            let allKeywords = [];
+        // --- Image Fallback Logic (IMPROVED) ---
+        function getImageURL(article) {
+            let imageUrl = article.image_url;
+            
+            // 1. If RSS provided an image, use it directly (best quality)
+            if (imageUrl) {
+                return imageUrl;
+            }
 
-            // Aggregate all keywords from all articles
-            articles.forEach(article => {
-                if (article.keywords) {
-                    allKeywords.push(...article.keywords);
-                }
-            });
-
-            // Count keyword frequency
-            const keywordCounts = allKeywords.reduce((acc, keyword) => {
-                acc[keyword] = (acc[keyword] || 0) + 1;
-                return acc;
-            }, {});
-
-            // Get top 8 most frequent keywords
-            const sortedKeywords = Object.entries(keywordCounts)
-                .sort(([, a], [, b]) => b - a)
-                .slice(0, 8)
-                .map(([keyword]) => keyword);
-
-            // Render tags
-            const tagsHtml = sortedKeywords.map(keyword => 
-                `<span class="tag" onclick="setSearchQuery('${keyword}')">${keyword}</span>`
-            ).join('');
-
-            tagContainer.innerHTML = `<p>Popular Topics:</p>${tagsHtml}`;
+            // 2. Use Unsplash Source (Free, No Key, but prone to broken links)
+            if (article.keywords && article.keywords.length > 0) {
+                const keywordForImage = article.keywords[0].replace(/\s/g, '+'); 
+                // Using a date-based seed guarantees a new image daily, 
+                // preventing cached broken images from sticking around.
+                const seed = new Date().toDateString() + keywordForImage;
+                // Using Unsplash source with a "seed" query for a slightly better random image
+                return `https://source.unsplash.com/random/150x100/?${keywordForImage}&sig=${seed}`; 
+            }
+            
+            // 3. Final Fallback
+            return `https://source.unsplash.com/random/150x100/?news&sig=${new Date().toDateString()}`;
         }
         
-        // --- NEW: Function to set search input and filter (for tag clicks) ---
-        function setSearchQuery(keyword) {
-            const searchInput = document.getElementById('search-input');
-            searchInput.value = keyword;
-            filterNews(keyword);
-        }
-
         // --- Core Function to Render Cards ---
         function renderNews(articlesToRender) {
             const container = document.getElementById('news-container');
             container.innerHTML = ''; 
+            articleIndex = 0; // Reset index for new render
 
             if (articlesToRender.length === 0) {
-                container.innerHTML = '<div style="text-align:center; padding: 50px;">No articles found matching your criteria.</div>';
+                container.innerHTML = '<div style="text-align:center; padding: 50px; color: var(--color-neutral);">No articles found matching your criteria.</div>';
                 return;
             }
 
-            articlesToRender.forEach((article, index) => {
+            articlesToRender.forEach((article) => {
                 const card = document.createElement('div');
                 card.className = 'card';
+                articleIndex++;
 
-                let objColor = article.objectivity_score > 50 ? '#e74c3c' : '#27ae60';
-                let objText = article.objectivity_score > 50 ? 'Highly Subjective' : 'Mostly Objective';
+                let objScore = article.objectivity_score;
+                let objColor = objScore > 70 ? var(--color-negative) : (objScore > 40 ? '#ff9800' : var(--color-positive));
+                let objText = objScore > 70 ? 'Highly Opinionated' : (objScore > 40 ? 'Moderate Bias' : 'Highly Objective');
                 
-                // --- Updated Image Logic (Unsplash Source) ---
-          // --- Updated Image Logic (Unsplash Source) ---
-let imageUrl = article.image_url;
-if (!imageUrl && article.keywords && article.keywords.length > 0) {
-    // Use Unsplash Source API: free, no key needed, high quality
-    const keywordForImage = article.keywords[0].replace(/\s/g, '+'); 
-    imageUrl = `https://source.unsplash.com/random/120x90/?${keywordForImage}`; 
-} else if (!imageUrl) {
-    // Fallback generic image
-    imageUrl = `https://source.unsplash.com/random/120x90/?news`;
-}
-// End Image Logic
+                let sentimentColor = article.sentiment === 'Positive' ? var(--color-positive) : (article.sentiment === 'Negative' ? var(--color-negative) : var(--color-neutral));
+                
+                // Get the calculated image URL
+                const imageUrl = getImageURL(article);
 
-                // --- Keywords for Tag Display ---
-                const tagsHtml = article.keywords.map(keyword => 
-                    `<span class="tag" onclick="setSearchQuery('${keyword}')">${keyword.charAt(0).toUpperCase() + keyword.slice(1)}</span>`
-                ).join('');
-
+                const tagsHtml = article.keywords.map(keyword => {
+                    const cleanKeyword = keyword.charAt(0).toUpperCase() + keyword.slice(1);
+                    return `<span class="tag" onclick="setSearchQuery('${keyword}')">${cleanKeyword}</span>`;
+                }).join('');
 
                 card.innerHTML = `
                     <div class="card-header">
@@ -181,24 +273,36 @@ if (!imageUrl && article.keywords && article.keywords.length > 0) {
                         ${tagsHtml}
                     </div>
                     
-                    <div class="stats-box">
+                    <div class="stats-box" style="--score-width: ${objScore}%;">
                         <div class="stat">
-                            <span class="label">Bias Meter: ${article.objectivity_score}% (${objText})</span>
+                            <span class="label">BIAS SCORE: ${objScore}% <span style="color: ${objColor};">(${objText})</span></span>
                             <div class="meter-bg">
-                                <div class="meter-fill" style="width: ${article.objectivity_score}%; background: ${objColor};"></div>
+                                <div class="meter-fill bias-meter" style="background: ${objColor};"></div>
                             </div>
                         </div>
                         <div class="stat">
-                            <span class="label">Sentiment: ${article.sentiment}</span>
+                            <span class="label">SENTIMENT: ${article.sentiment}</span>
                             <div class="meter-bg">
-                                <div class="meter-fill" style="width: 100%; background: ${article.sentiment === 'Positive' ? '#2ecc71' : (article.sentiment === 'Negative' ? '#e74c3c' : '#95a5a6')};"></div>
+                                <div class="meter-fill" style="width: 100%; background: ${sentimentColor};"></div>
+                            </div>
                         </div>
                     </div>
                 `;
                 container.appendChild(card);
 
+                // --- Animation Trigger ---
+                // Staggered load: delay each card's fade-in
+                setTimeout(() => {
+                    card.classList.add('visible');
+                    // Animate the bias bar after the card is visible
+                    const biasMeter = card.querySelector('.bias-meter');
+                    if (biasMeter) {
+                        biasMeter.classList.add('loaded');
+                    }
+                }, articleIndex * 100); // 100ms delay per card
+
                 // Insert Ad every 3 articles (Monetization)
-                if ((index + 1) % 3 === 0) {
+                if ((articleIndex) % 3 === 0) {
                     const adDiv = document.createElement('div');
                     adDiv.className = 'ad-space';
                     adDiv.innerHTML = "<strong>Advertisement</strong><br>PLACE YOUR GOOGLE ADSENSE SCRIPT/TAG HERE"; 
@@ -207,21 +311,49 @@ if (!imageUrl && article.keywords && article.keywords.length > 0) {
             });
         }
         
-        // --- Search Functionality (modified to include keyword search) ---
+        // --- Search/Filter Logic (Unchanged) ---
+        function populateGlobalTags(articles) {
+            const tagContainer = document.getElementById('keyword-filter-container');
+            let allKeywords = [];
+
+            articles.forEach(article => {
+                if (article.keywords) {
+                    allKeywords.push(...article.keywords);
+                }
+            });
+
+            const keywordCounts = allKeywords.reduce((acc, keyword) => {
+                acc[keyword] = (acc[keyword] || 0) + 1;
+                return acc;
+            }, {});
+
+            const sortedKeywords = Object.entries(keywordCounts)
+                .sort(([, a], [, b]) => b - a)
+                .slice(0, 8)
+                .map(([keyword]) => keyword);
+
+            const tagsHtml = sortedKeywords.map(keyword => 
+                `<span class="tag" onclick="setSearchQuery('${keyword}')">${keyword.charAt(0).toUpperCase() + keyword.slice(1)}</span>`
+            ).join('');
+
+            tagContainer.innerHTML = `<span class="tag-title">Popular Topics:</span>${tagsHtml}`;
+        }
+        
+        function setSearchQuery(keyword) {
+            const searchInput = document.getElementById('search-input');
+            searchInput.value = keyword;
+            filterNews(keyword);
+        }
+
         function filterNews(query) {
             const normalizedQuery = query.trim().toLowerCase(); 
-
-            if (!normalizedQuery) {
-                renderNews(allArticles);
-                return;
-            }
-
-            const filteredArticles = allArticles.filter(article => {
-                // Check title, summary, source, AND keywords for the match
-                const keywordsString = article.keywords.join(' ');
-                const content = (article.title + ' ' + article.summary + ' ' + article.source + ' ' + keywordsString).toLowerCase();
-                return content.includes(normalizedQuery);
-            });
+            const filteredArticles = normalizedQuery 
+                ? allArticles.filter(article => {
+                    const keywordsString = article.keywords.join(' ');
+                    const content = (article.title + ' ' + article.summary + ' ' + article.source + ' ' + keywordsString).toLowerCase();
+                    return content.includes(normalizedQuery);
+                }) 
+                : allArticles;
 
             renderNews(filteredArticles);
         }
@@ -232,7 +364,7 @@ if (!imageUrl && article.keywords && article.keywords.length > 0) {
             .then(data => {
                 allArticles = data; 
                 renderNews(allArticles); 
-                populateGlobalTags(allArticles); // NEW: Populate the popular topic tags
+                populateGlobalTags(allArticles); 
                 
                 document.getElementById('search-input').addEventListener('keyup', (event) => {
                     filterNews(event.target.value);
@@ -240,7 +372,7 @@ if (!imageUrl && article.keywords && article.keywords.length > 0) {
             })
             .catch(error => {
                 console.error('Error fetching news data:', error);
-                document.getElementById('news-container').innerHTML = '<p>Error loading news data. Please check the `news_data.json` file.</p>';
+                document.getElementById('news-container').innerHTML = '<p style="color: var(--color-negative); text-align: center;">Error loading news data. Please check the `news_data.json` file.</p>';
             });
     </script>
 </body>
