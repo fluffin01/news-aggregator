@@ -3,12 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Daily Objective</title>
+    <title>The Daily Objective - Searchable</title>
     <style>
+        /* (CSS from before, slightly updated for the search bar) */
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 20px; }
         .container { max-width: 800px; margin: 0 auto; }
         h1 { text-align: center; color: #2c3e50; }
         
+        /* New Search Bar Styling */
+        #search-container { margin-bottom: 30px; text-align: center; }
+        #search-input { 
+            width: 100%; 
+            padding: 12px 20px; 
+            border: 2px solid #3498db; 
+            border-radius: 8px; 
+            box-sizing: border-box; 
+            font-size: 1.1em; 
+            transition: border-color 0.3s;
+        }
+        #search-input:focus { border-color: #2c3e50; outline: none; }
+
         /* Card Style */
         .card { background: white; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
         .source { font-size: 0.8em; color: #666; text-transform: uppercase; letter-spacing: 1px; }
@@ -34,62 +48,110 @@
         <h1>The Daily Objective</h1>
         <p style="text-align:center">AI-Powered Bias & Sentiment Analysis</p>
         
+        <div id="search-container">
+            <input type="text" id="search-input" placeholder="Search headlines, summaries, or sources..." autocomplete="off">
+        </div>
+        
         <div id="news-container">
-            <p style="text-align:center">Loading analysis...</p>
+            <p style="text-align:center">Loading and analyzing news...</p>
         </div>
     </div>
 
     <script>
+        let allArticles = []; // Store the full list of articles globally
+
+        // --- Core Function to Render Cards ---
+        function renderNews(articlesToRender) {
+            const container = document.getElementById('news-container');
+            container.innerHTML = ''; // Clear existing content
+
+            if (articlesToRender.length === 0) {
+                container.innerHTML = '<div style="text-align:center; padding: 50px;">No articles found matching your search.</div>';
+                return;
+            }
+
+            articlesToRender.forEach((article, index) => {
+                // Create Card
+                const card = document.createElement('div');
+                card.className = 'card';
+
+                // Color logic for Objectivity (Green=Fact, Red=Opinion)
+                let objColor = article.objectivity_score > 50 ? '#e74c3c' : '#27ae60';
+                let objText = article.objectivity_score > 50 ? 'Highly Subjective' : 'Mostly Objective';
+
+                card.innerHTML = `
+                    <div class="source">${article.source} • ${article.date}</div>
+                    <a href="${article.link}" target="_blank" class="headline">${article.title}</a>
+                    <p class="summary">${article.summary}</p>
+                    
+                    <div class="stats-box">
+                        <div class="stat">
+                            <span class="label">Bias Meter: ${article.objectivity_score}% (${objText})</span>
+                            <div class="meter-bg">
+                                <div class="meter-fill" style="width: ${article.objectivity_score}%; background: ${objColor};"></div>
+                            </div>
+                        </div>
+                        <div class="stat">
+                            <span class="label">Sentiment: ${article.sentiment}</span>
+                            <div class="meter-bg">
+                                <div class="meter-fill" style="width: 100%; background: ${article.sentiment === 'Positive' ? '#2ecc71' : (article.sentiment === 'Negative' ? '#e74c3c' : '#95a5a6')};"></div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(card);
+
+                // Insert Ad every 3 articles (Monetization)
+                if ((index + 1) % 3 === 0) {
+                    const adDiv = document.createElement('div');
+                    adDiv.className = 'ad-space';
+                    // *** REPLACE THIS LINE WITH YOUR ACTUAL GOOGLE ADSENSE CODE ***
+                    adDiv.innerHTML = "<strong>Advertisement</strong><br>PLACE YOUR GOOGLE ADSENSE SCRIPT/TAG HERE"; 
+                    container.appendChild(adDiv);
+                }
+            });
+        }
+        
+        // --- Search Functionality ---
+        function filterNews(query) {
+            // Trim and convert query to lowercase for case-insensitive search
+            const normalizedQuery = query.trim().toLowerCase(); 
+
+            if (!normalizedQuery) {
+                // If the search box is empty, show all articles
+                renderNews(allArticles);
+                return;
+            }
+
+            // Use the native JavaScript filter function to find matches
+            const filteredArticles = allArticles.filter(article => {
+                // Combine relevant text fields and convert to lowercase
+                const content = (article.title + ' ' + article.summary + ' ' + article.source).toLowerCase();
+                
+                // Check if the article content includes the search query
+                return content.includes(normalizedQuery);
+            });
+
+            renderNews(filteredArticles);
+        }
+
+
+        // --- Initial Data Fetch and Setup ---
         fetch('news_data.json')
             .then(response => response.json())
             .then(data => {
-                const container = document.getElementById('news-container');
-                container.innerHTML = ''; // Clear loading text
-
-                data.forEach((article, index) => {
-                    // Create Card
-                    const card = document.createElement('div');
-                    card.className = 'card';
-
-                    // Color logic for Objectivity (Green=Fact, Red=Opinion)
-                    // If score is high (opinionated), color is red. Low (fact), color is green.
-                    let objColor = article.objectivity_score > 50 ? '#e74c3c' : '#27ae60';
-                    let objText = article.objectivity_score > 50 ? 'Highly Subjective' : 'Mostly Objective';
-
-                    card.innerHTML = `
-                        <div class="source">${article.source} • ${article.date}</div>
-                        <a href="${article.link}" target="_blank" class="headline">${article.title}</a>
-                        <p class="summary">${article.summary}</p>
-                        
-                        <div class="stats-box">
-                            <div class="stat">
-                                <span class="label">Bias Meter: ${article.objectivity_score}% (${objText})</span>
-                                <div class="meter-bg">
-                                    <div class="meter-fill" style="width: ${article.objectivity_score}%; background: ${objColor};"></div>
-                                </div>
-                            </div>
-                            <div class="stat">
-                                <span class="label">Sentiment: ${article.sentiment}</span>
-                                <div class="meter-bg">
-                                    <div class="meter-fill" style="width: 100%; background: ${article.sentiment === 'Positive' ? '#2ecc71' : (article.sentiment === 'Negative' ? '#e74c3c' : '#95a5a6')};"></div>
-                                </div>
-                            </div>
-                        </div>
-                    `;
-                    container.appendChild(card);
-
-                    // Insert Ad every 3 articles
-                    if ((index + 1) % 3 === 0) {
-                        const adDiv = document.createElement('div');
-                        adDiv.className = 'ad-space';
-                        adDiv.innerHTML = "<strong>Advertisement</strong><br>[Google AdSense Code Here]";
-                        container.appendChild(adDiv);
-                    }
+                allArticles = data; // Save the full data set
+                renderNews(allArticles); // Render all articles initially
+                
+                // Attach the keyup event listener to the search input
+                document.getElementById('search-input').addEventListener('keyup', (event) => {
+                    // Call the filterNews function every time the user types a key
+                    filterNews(event.target.value);
                 });
             })
             .catch(error => {
-                console.error('Error:', error);
-                document.getElementById('news-container').innerHTML = '<p>Error loading news data.</p>';
+                console.error('Error fetching news data:', error);
+                document.getElementById('news-container').innerHTML = '<p>Error loading news data. Please check the `news_data.json` file.</p>';
             });
     </script>
 </body>
