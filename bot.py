@@ -70,7 +70,7 @@ def fetch_and_analyze():
             feed = feedparser.parse(feed_url)
             print(f"Fetching {feed_url}...")
             
-            for entry in feed.entries[:10]:
+            for entry in feed.entries[:100]:
                 title = entry.title
                 link = entry.link
                 summary = getattr(entry, 'summary', '')
