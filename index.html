@@ -20,7 +20,7 @@
             --color-negative: #f44336;
         }
         
-        /* --- NEW STICKY CORNER LOGO STYLES (Added for logo positioning) --- */
+        /* --- STICKY CORNER LOGO STYLES --- */
         .corner-logo-link {
             position: fixed; /* Makes the logo stick to the window */
             top: 20px;       /* Spacing from the top edge */
@@ -45,17 +45,28 @@
             line-height: 1.6;
         }
         
+        /* --- Container and Title Positioning (RESTORED and Corrected) --- */
         .container { 
-            /* Pushes content down to clear the fixed logo */
-            padding-top: 80px; 
+            padding-top: 0; /* Resetting container top padding */
             max-width: 900px; 
             margin: 0 auto; 
             padding: 0 10px; 
         }
 
-        /* The original h1 and subtitle are hidden to avoid conflict with the logo */
-        h1, p.subtitle {
-            display: none; 
+        h1 { 
+            text-align: center; 
+            color: var(--color-text); 
+            font-size: 3em; 
+            font-weight: 800;
+            letter-spacing: -1px;
+            margin-bottom: 5px;
+            margin-top: 100px; /* PUSHES TITLE DOWN BELOW THE CORNER LOGO */
+        }
+        p.subtitle {
+            text-align: center; 
+            color: var(--color-neutral); 
+            font-weight: 400;
+            margin-bottom: 40px;
         }
 
         /* SEARCH & FILTER STYLES */
@@ -195,6 +206,9 @@
     </a>
 
     <div class="container">
+        <h1>THE DAILY OBJECTIVE</h1>
+        <p class="subtitle">Cutting-Edge AI-Powered Bias & Sentiment Analysis News</p>
+        
         <div id="search-container">
             <input type="text" id="search-input" placeholder="Search headlines, keywords, or sources..." autocomplete="off">
         </div>
