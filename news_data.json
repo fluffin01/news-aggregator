@@ -956,18 +956,60 @@
         ]
     },
     {
-        "title": "Panic in France as children fall victim to lethal violence of Marseille drug gangs",
-        "link": "https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&at_campaign=rss",
-        "summary": "The number of teenagers involved in the drugs trade has quadrupled in eight years, the government says.",
+        "title": "'My dad was killed by a drug-driver. Now I want tougher laws'",
+        "link": "https://www.bbc.com/news/articles/c36z0g5xd3ko?at_medium=RSS&at_campaign=rss",
+        "summary": "Bereaved families demand roadside licence bans after drug driving deaths surge 78% in a decade.",
         "source": "BBC News",
-        "objectivity_score": 5,
+        "objectivity_score": 0,
+        "sentiment": "Negative",
+        "date": "2025-12-12",
+        "image_url": null,
+        "keywords": [
+            "'my dad",
+            "families demand roadside licence",
+            "deaths surge"
+        ]
+    },
+    {
+        "title": "Tricked, abducted and abused: Inside China's schools for 'rebellious' teens",
+        "link": "https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Young people tell the BBC that military-style schools deceive and abuse students they claim to help.",
+        "source": "BBC News",
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2025-12-12",
         "image_url": null,
         "keywords": [
-            "children fall victim",
-            "lethal violence",
-            "drug gangs"
+            "'s schools",
+            "young people",
+            "military-style schools deceive"
+        ]
+    },
+    {
+        "title": "Doctor wrote off my hair loss and dizziness as 'just being a tired mum'",
+        "link": "https://www.bbc.com/news/articles/cx2peeljp1po?at_medium=RSS&at_campaign=rss",
+        "summary": "Iron deficiency is a relatively common problem, especially in women. Here's how to spot the symptons.",
+        "source": "BBC News",
+        "objectivity_score": 73,
+        "sentiment": "Negative",
+        "date": "2025-12-12",
+        "image_url": null,
+        "keywords": [
+            "hair loss",
+            "common problem"
+        ]
+    },
+    {
+        "title": "Chief of S Korea's high-stakes exam quits over 'insane' English test",
+        "link": "https://www.bbc.com/news/articles/c3w792x0ggyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Some critics say the questions were unnecessarily complex, while others argue that's their intended purpose.",
+        "source": "BBC News",
+        "objectivity_score": 46,
+        "sentiment": "Negative",
+        "date": "2025-12-12",
+        "image_url": null,
+        "keywords": [
+            "'s high-stakes exam quits"
         ]
     },
     {
@@ -1001,21 +1043,6 @@
         ]
     },
     {
-        "title": "England's busiest A&E hit by flu wave - hundreds of patients are arriving a day",
-        "link": "https://www.bbc.com/news/articles/crmdxky3p9wo?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC visits Leicester Royal Infirmary to witness first-hand how it's coping with an early surge in cases of winter bugs.",
-        "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2025-12-12",
-        "image_url": null,
-        "keywords": [
-            "'s busiest",
-            "flu wave",
-            "early surge"
-        ]
-    },
-    {
         "title": "Who is up for the Sports Personality of the Year award?",
         "link": "https://www.bbc.com/sport/articles/cx2d33y4gzwo?at_medium=RSS&at_campaign=rss",
         "summary": "Find out who is on the shortlist for the 2025 BBC Sports Personality of the Year award.",
@@ -1032,9 +1059,9 @@
     {
         "title": "Russia could attack Nato within five years, says alliance chief in stark new warning",
         "link": "https://www.bbc.com/news/articles/cn81x8py3j5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Russian could attack Nato within five years, Mark Rutte said, warning allies to start ramping up preparations \"now\".",
+        "summary": "Mark Rutte warns allies to start ramping up preparations \"for the scale of war our grandparents or great-grandparents endured\".",
         "source": "BBC News",
-        "objectivity_score": 35,
+        "objectivity_score": 52,
         "sentiment": "Neutral",
         "date": "2025-12-12",
         "image_url": null,
@@ -1794,9 +1821,9 @@
     {
         "title": "US lawmakers condemn seizure of Venezuelan oil tanker: \u2018Trump is sleepwalking us into a war\u2019",
         "link": "https://www.theguardian.com/us-news/2025/dec/11/lawmakers-venezuela-oil-tanker",
-        "summary": "Unease grows in Washington, including among some Republicans, over Trump administrations escalating military posture in the CaribbeanUS politics live  latest updatesSenior Democratic lawmakers and at ...",
+        "summary": "Unease grows in Washington, including among some Republicans, over Trump administrations escalating military posture in the CaribbeanSenior Democratic lawmakers and at least one Republican have condem...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 33,
         "sentiment": "Neutral",
         "date": "2025-12-12",
         "image_url": null,
@@ -1804,6 +1831,21 @@
             "us lawmakers condemn seizure",
             "oil tanker",
             "military posture"
+        ]
+    },
+    {
+        "title": "Thailand set for early elections amid political deadlock and Cambodia skirmishes",
+        "link": "https://www.theguardian.com/world/2025/dec/12/thailand-set-for-early-elections-cambodia-clashes",
+        "summary": "Move follows a disagreement with the largest grouping in parliament, with elections to be held within 45-60 daysThailands prime minister, Anutin Charnvirakul, announced on Thursday that he is returnin...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2025-12-12",
+        "image_url": null,
+        "keywords": [
+            "early elections",
+            "political deadlock",
+            "prime minister"
         ]
     },
     {
@@ -1867,21 +1909,6 @@
         ]
     },
     {
-        "title": "Trump says he will make a call to end hostilities as Thailand and Cambodia \u2018at it again\u2019",
-        "link": "https://www.theguardian.com/world/2025/dec/10/trump-says-end-hostilities-thailand-cambodia",
-        "summary": "After a ceasefire deal he brokered collapsed, Trump told a rally in Pennsylvania that he would make a call to stop a war between Thailand and Cambodia US president Donald Trump said on Tuesday that he...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 2,
-        "sentiment": "Neutral",
-        "date": "2025-12-12",
-        "image_url": null,
-        "keywords": [
-            "us president",
-            "donald trump",
-            "us president"
-        ]
-    },
-    {
         "title": "Australia news live: Chalmers clears way for Korean firm to up its stake in defence shipbuilder; weight-loss drugs being considered for inclusion on PBS",
         "link": "https://www.theguardian.com/australia-news/live/2025/dec/12/federal-state-health-ministers-meeting-aged-care-travel-expenses-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
         "summary": "The ASX-listed Austal had previously rejected a takeover bid from Hanwha. Follow updatesReddit launches high court challenge to Australias under-16s social media banGet our breaking news email, free a...",
@@ -1894,6 +1921,36 @@
             "defence shipbuilder",
             "weight-loss drugs",
             "asx-listed austal"
+        ]
+    },
+    {
+        "title": "Labor wants watchdog to advise on overhauling travel perks for politicians as backlash grows",
+        "link": "https://www.theguardian.com/australia-news/2025/dec/12/politicians-travel-perks-expenses-overhaul-advice",
+        "summary": "Sussan Ley offers bipartisan truce to work on reform after a week of damaging headlines about MPs largesseFollow our Australia news live blog for latest updatesGet our breaking news email, free app or...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
+        "date": "2025-12-12",
+        "image_url": null,
+        "keywords": [
+            "overhauling travel perks",
+            "sussan ley",
+            "bipartisan truce"
+        ]
+    },
+    {
+        "title": "Sydney after-school childcare worker pleads guilty to using children to produce child abuse material",
+        "link": "https://www.theguardian.com/media/2025/dec/12/sydney-childcare-worker-david-william-james-pleads-guilty-to-using-children-to-produce-child-abuse-material-ntwnfb",
+        "summary": "Former police officer admits to taking explicit images of children as young as four in his careFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2025-12-12",
+        "image_url": null,
+        "keywords": [
+            "after-school childcare worker",
+            "child abuse material",
+            "police officer admits"
         ]
     },
     {
@@ -1924,36 +1981,6 @@
             "government rejects",
             "business-class rules",
             "\u2018 value"
-        ]
-    },
-    {
-        "title": "Wind gusts hamper firefighters as two bushfires force evacuations in Perth",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/11/residents-in-several-perth-suburbs-evacuate-amid-bushfire-posing-threat-to-lives-and-homes",
-        "summary": "Emergency warning issued for parts of Kenwick, Wattle Grove, Maddington and Beckenham in Perths south-eastGet our breaking news email, free app or daily news podcastGusty winds have hampered the effor...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
-        "date": "2025-12-12",
-        "image_url": null,
-        "keywords": [
-            "gusts hamper firefighters",
-            "bushfires force evacuations",
-            "perth emergency"
-        ]
-    },
-    {
-        "title": "Bulldozing affordable Sydney flats for luxury builds makes people \u2018extremely cynical\u2019 about development, Spender warns",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/11/bulldozing-affordable-sydney-flats-for-luxury-builds-makes-people-extremely-cynical-about-development-spender-warns",
-        "summary": "NSW housing policy states higher density developments must allocate some affordable units  but in some suburbs these can still fetch up to $1,000 a weekFollow our Australia news live blog for latest u...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Positive",
-        "date": "2025-12-12",
-        "image_url": null,
-        "keywords": [
-            "luxury builds",
-            "people \u2018",
-            "cynical \u2019"
         ]
     },
     {
@@ -2257,18 +2284,18 @@
         ]
     },
     {
-        "title": "\u2018I hope he loses\u2019: Trump blasts Indiana Republican senate leader after his state redistricting effort gets blocked \u2013 live",
+        "title": "\u2018I hope he loses\u2019: Trump blasts Indiana Republican senate leader after his state redistricting effort gets blocked \u2013as it happened",
         "link": "https://www.theguardian.com/us-news/live/2025/dec/11/us-seizes-venezuela-tanker-democrats-republicans-donald-trump-latest-news",
-        "summary": "Indianas rejection of a redistricting effort that would have favored Republicans marks a major break with Trump Indiana Republicans reject effort to redraw voting maps in rebuke to TrumpChris Van Holl...",
+        "summary": "This live blog is now closed.Indiana Republicans reject effort to redraw voting maps in rebuke to TrumpChris Van Hollen, the Democratic senator from Maryland, was among the lawmakers speaking out agai...",
         "source": "World news | The Guardian",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
         "date": "2025-12-12",
         "image_url": null,
         "keywords": [
             "indiana republican",
             "senate leader",
-            "trump indiana"
+            "reject effort"
         ]
     },
     {
