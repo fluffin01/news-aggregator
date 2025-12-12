@@ -7,7 +7,7 @@
 
     <link rel="icon" type="image/png" href="favicon.png"> 
     
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap" rel="stylesheet">
     <style>
         /* DESIGN VARS (Modern, Stylish, Dark Theme) */
         :root {
@@ -45,9 +45,9 @@
             line-height: 1.6;
         }
         
-        /* --- Container and Title Positioning (RESTORED and Corrected) --- */
+        /* --- Container and Title Positioning (FINAL CORRECTION) --- */
         .container { 
-            padding-top: 0; /* Resetting container top padding */
+            padding-top: 0; 
             max-width: 900px; 
             margin: 0 auto; 
             padding: 0 10px; 
@@ -60,7 +60,8 @@
             font-weight: 800;
             letter-spacing: -1px;
             margin-bottom: 5px;
-            margin-top: 100px; /* PUSHES TITLE DOWN BELOW THE CORNER LOGO */
+            /* CRITICAL: Push the header down to clear the fixed logo */
+            margin-top: 100px; 
         }
         p.subtitle {
             text-align: center; 
