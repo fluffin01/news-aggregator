@@ -6,7 +6,7 @@
     <title>The Daily Objective | AI News Analyst</title>
 
     <link rel="icon" type="image/png" href="favicon.png"> 
-</head>
+    
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
     <style>
         /* DESIGN VARS (Modern, Stylish, Dark Theme) */
@@ -19,6 +19,23 @@
             --color-positive: #4caf50;
             --color-negative: #f44336;
         }
+        
+        /* --- NEW STICKY CORNER LOGO STYLES (Added for logo positioning) --- */
+        .corner-logo-link {
+            position: fixed; /* Makes the logo stick to the window */
+            top: 20px;       /* Spacing from the top edge */
+            left: 20px;      /* Spacing from the left edge */
+            z-index: 1000;   /* Ensures it stays above all other content */
+            display: block;  
+            transition: transform 0.2s;
+        }
+
+        .corner-logo {
+            height: 40px;    /* Sets the size of the logo on the page */
+            width: auto;
+            object-fit: contain;
+        }
+
         body { 
             font-family: 'Montserrat', sans-serif; 
             background-color: var(--color-bg); 
@@ -27,20 +44,18 @@
             padding: 40px 20px; 
             line-height: 1.6;
         }
-        .container { max-width: 900px; margin: 0 auto; padding: 0 10px; }
-        h1 { 
-            text-align: center; 
-            color: var(--color-text); 
-            font-size: 3em; 
-            font-weight: 800;
-            letter-spacing: -1px;
-            margin-bottom: 5px;
+        
+        .container { 
+            /* Pushes content down to clear the fixed logo */
+            padding-top: 80px; 
+            max-width: 900px; 
+            margin: 0 auto; 
+            padding: 0 10px; 
         }
-        p.subtitle {
-            text-align: center; 
-            color: var(--color-neutral); 
-            font-weight: 400;
-            margin-bottom: 40px;
+
+        /* The original h1 and subtitle are hidden to avoid conflict with the logo */
+        h1, p.subtitle {
+            display: none; 
         }
 
         /* SEARCH & FILTER STYLES */
@@ -175,10 +190,11 @@
 </head>
 <body>
 
+    <a href="/" class="corner-logo-link">
+        <img src="favicon.png" alt="The Daily Objective Homepage" class="corner-logo">
+    </a>
+
     <div class="container">
-        <h1>THE DAILY OBJECTIVE</h1>
-        <p class="subtitle">Your AI-Powered Bias & Sentiment Analysis Website</p>
-        
         <div id="search-container">
             <input type="text" id="search-input" placeholder="Search headlines, keywords, or sources..." autocomplete="off">
         </div>
@@ -245,7 +261,8 @@
 
                 card.innerHTML = `
                     <div class="card-header">
-                        <img src="${imageUrl}" alt="${article.title}" class="article-image">
+                        <img src="${imageUrl}" alt="${article.title}" class="article-image"
+                             onerror="this.onerror=null; this.src='${getImageURL(article)}';">
                         <div class="text-content">
                             <div class="source">${article.source} • ${article.date}</div>
                             <a href="${article.link}" target="_blank" class="headline">${article.title}</a>
