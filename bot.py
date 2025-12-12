@@ -3,6 +3,7 @@ from textblob import TextBlob
 import json
 from datetime import datetime
 import re 
+import html
 
 # Set your desired limit here for LOTS of articles.
 ARTICLE_LIMIT = 100 
@@ -22,12 +23,22 @@ RSS_FEEDS = [
 ]
 
 def strip_html_tags(text):
-    """Strips all HTML tags from a string."""
+    """
+    Strips HTML tags and unescapes HTML entities (like &lt; and &gt;)
+    for robust cleaning of RSS summaries.
+    """
     if not text:
         return ""
-    # Regex to find and replace all patterns like <tag> or </tag>
+    
+    # 1. Decode HTML entities first (e.g., turns "&lt;p&gt;" into "<p>")
+    unescaped_text = html.unescape(text) 
+    
+    # 2. Use Regex to strip all HTML tags (e.g., removes <p>, </p>, <br/>)
     clean = re.compile('<.*?>')
-    return re.sub(clean, '', text)
+    cleaned_text = re.sub(clean, '', unescaped_text)
+    
+    # 3. Strip any remaining leading/trailing whitespace
+    return cleaned_text.strip()
 
 def analyze_sentiment(text):
     """Returns polarity (positive/negative) and subjectivity (opinion/fact)."""
