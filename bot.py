@@ -21,6 +21,14 @@ RSS_FEEDS = [
     "http://hosted.ap.org/lineups/TOPHEADS-rss_2.0.xml" # AP News - Top Headlines (A known working, though older, AP feed)
 ]
 
+def strip_html_tags(text):
+    """Strips all HTML tags from a string."""
+    if not text:
+        return ""
+    # Regex to find and replace all patterns like <tag> or </tag>
+    clean = re.compile('<.*?>')
+    return re.sub(clean, '', text)
+
 def analyze_sentiment(text):
     """Returns polarity (positive/negative) and subjectivity (opinion/fact)."""
     try:
@@ -76,7 +84,7 @@ def fetch_and_analyze():
             for entry in feed.entries[:ARTICLE_LIMIT]: 
                 title = getattr(entry, 'title', 'No Title')
                 link = getattr(entry, 'link', '#')
-                summary = getattr(entry, 'summary', '')
+                summary = strip_html_tags(getattr(entry, 'summary', ''))
                 
                 image_url = extract_image_from_entry(entry)
                 
