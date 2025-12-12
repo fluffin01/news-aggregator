@@ -22,16 +22,16 @@
         
         /* --- STICKY CORNER LOGO STYLES --- */
         .corner-logo-link {
-            position: fixed; /* Makes the logo stick to the window */
-            top: 20px;       /* Spacing from the top edge */
-            left: 20px;      /* Spacing from the left edge */
-            z-index: 1000;   /* Ensures it stays above all other content */
+            position: fixed; 
+            top: 20px;       
+            left: 20px;      
+            z-index: 1000;   
             display: block;  
             transition: transform 0.2s;
         }
 
         .corner-logo {
-            height: 40px;    /* Sets the size of the logo on the page */
+            height: 40px;    
             width: auto;
             object-fit: contain;
         }
@@ -53,19 +53,19 @@
             padding: 0 10px; 
         }
 
-        /* --- RESTORED MAIN HEADER STYLES (THE DAILY OBJECTIVE) --- */
+        /* --- THE PROMINENT HEADER STYLES --- */
         h1 { 
             text-align: center; 
             color: var(--color-text); 
-            font-size: 3em; 
-            font-weight: 800; 
+            font-size: 3em;       /* LARGE TEXT */
+            font-weight: 900;     /* EXTRA BOLD */
             letter-spacing: -1px;
             margin-bottom: 5px;
-            /* CRITICAL: This spacing pushes the header down below the fixed corner logo */
+            /* CRITICAL: Push the header down to clear the fixed logo at the top-left */
             margin-top: 100px; 
         }
         
-        /* --- RESTORED SUBTITLE STYLES (SEO CATCHY LINE) --- */
+        /* --- SUBTITLE STYLES --- */
         p.subtitle {
             text-align: center; 
             color: var(--color-neutral); 
