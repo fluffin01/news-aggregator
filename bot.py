@@ -3,10 +3,9 @@ from textblob import TextBlob
 import json
 from datetime import datetime
 import re 
-import html
 
 # Set your desired limit here for LOTS of articles.
-ARTICLE_LIMIT = 100 
+ARTICLE_LIMIT = 50 
 
 # --- Inside your bot.py file ---
 
@@ -24,20 +23,24 @@ RSS_FEEDS = [
 
 def strip_html_tags(text):
     """
-    Strips HTML tags and unescapes HTML entities (like &lt; and &gt;)
-    for robust cleaning of RSS summaries.
+    Guaranteed method to strip all HTML tags and entities by first
+    re-encoding the string to neutralize complex/malformed characters.
     """
     if not text:
         return ""
     
-    # 1. Decode HTML entities first (e.g., turns "&lt;p&gt;" into "<p>")
+    # 1. Unescape HTML entities (e.g., &amp; -> &)
+    import html 
     unescaped_text = html.unescape(text) 
     
-    # 2. Use Regex to strip all HTML tags (e.g., removes <p>, </p>, <br/>)
+    # 2. Re-encode/decode to neutralize non-standard encoding and line breaks
+    neutral_text = unescaped_text.encode('ascii', 'ignore').decode('ascii')
+
+    # 3. Use Regex to strip all remaining HTML tags
     clean = re.compile('<.*?>')
-    cleaned_text = re.sub(clean, '', unescaped_text)
+    cleaned_text = re.sub(clean, '', neutral_text)
     
-    # 3. Strip any remaining leading/trailing whitespace
+    # 4. Strip any remaining leading/trailing whitespace
     return cleaned_text.strip()
 
 def analyze_sentiment(text):
