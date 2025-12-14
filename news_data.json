@@ -737,18 +737,30 @@
         ]
     },
     {
-        "title": "Andrew will not face police action over bodyguard claim",
-        "link": "https://www.bbc.com/news/articles/cvgr1djewxko?at_medium=RSS&at_campaign=rss",
-        "summary": "The allegations, first reported in October, said he tried to obtain personal information about his accuser Virginia Giuffre through his police protection.",
+        "title": "Manhunt continues after two killed in US university shooting",
+        "link": "https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss",
+        "summary": "The gunman, still at large, injured nine other people in the attack at Brown University in Providence, Rhode Island.",
         "source": "BBC News",
-        "objectivity_score": 24,
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2025-12-14",
+        "image_url": null,
+        "keywords": [
+            "us university shooting"
+        ]
+    },
+    {
+        "title": "All police forces to get specialist sexual offence teams, Mahmood pledges",
+        "link": "https://www.bbc.com/news/articles/cj69w7kezdzo?at_medium=RSS&at_campaign=rss",
+        "summary": "It is part of a long-delayed plan aimed at halving violence against women and girls  within a decade.",
+        "source": "BBC News",
+        "objectivity_score": 83,
         "sentiment": "Positive",
         "date": "2025-12-14",
         "image_url": null,
         "keywords": [
-            "police action",
-            "bodyguard claim",
-            "personal information"
+            "police forces",
+            "specialist sexual offence teams"
         ]
     },
     {
@@ -780,6 +792,35 @@
         ]
     },
     {
+        "title": "Equality boss expects people to 'follow the rules' over single-sex spaces",
+        "link": "https://www.bbc.com/news/articles/cpq4ydrprpgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Dr Mary-Ann Stephenson said \"things could be sorted out if there is goodwill and recognition that everybody has rights\".",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2025-12-14",
+        "image_url": null,
+        "keywords": [
+            "single-sex spaces",
+            "dr mary-ann stephenson"
+        ]
+    },
+    {
+        "title": "Israel targets senior Hamas official in deadly Gaza strike",
+        "link": "https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS&at_campaign=rss",
+        "summary": "The strike killed Raed Saad, a senior commander in Hamas' Qassam Brigades, the Israeli military said.",
+        "source": "BBC News",
+        "objectivity_score": 16,
+        "sentiment": "Negative",
+        "date": "2025-12-14",
+        "image_url": null,
+        "keywords": [
+            "raed saad",
+            "senior commander",
+            "qassam brigades"
+        ]
+    },
+    {
         "title": "'A nightmare' - The battle over Warner Bros is turning Hollywood upside down",
         "link": "https://www.bbc.com/news/articles/c8dyy47qy82o?at_medium=RSS&at_campaign=rss",
         "summary": "Interviews with dozens of actors, producers and camera crews reveal an industry attempting to weigh the lesser of two horrible choices.",
@@ -795,32 +836,18 @@
         ]
     },
     {
-        "title": "King 'deeply touched' by reaction to cancer TV message, says Palace",
-        "link": "https://www.bbc.com/news/articles/crl99y91jn0o?at_medium=RSS&at_campaign=rss",
-        "summary": "In a TV broadcast on Friday night, the King said an early diagnosis was key to the \"good news\" that his treatment is being scaled back.",
+        "title": "We asked Mormons what they really think about The Secret Lives of Mormon Wives",
+        "link": "https://www.bbc.com/news/articles/c6230p2l88vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Those in the Church of Jesus Christ of Latter-day Saints in Britain tell BBC News about their lives, after the Disney+ show was laced with scandal.",
         "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
         "date": "2025-12-14",
         "image_url": null,
         "keywords": [
-            "cancer tv message",
-            "tv broadcast",
-            "early diagnosis"
-        ]
-    },
-    {
-        "title": "All police forces to get specialist sexual offence teams, Mahmood pledges",
-        "link": "https://www.bbc.com/news/articles/cj69w7kezdzo?at_medium=RSS&at_campaign=rss",
-        "summary": "It is part of a long-delayed plan aimed at halving violence against women and girls  within a decade.",
-        "source": "BBC News",
-        "objectivity_score": 83,
-        "sentiment": "Positive",
-        "date": "2025-12-14",
-        "image_url": null,
-        "keywords": [
-            "police forces",
-            "specialist sexual offence teams"
+            "mormon wives",
+            "jesus christ",
+            "latter-day saints"
         ]
     },
     {
@@ -880,21 +907,6 @@
         ]
     },
     {
-        "title": "'Burnham coup plot' and UK faces 'tsunami of flu'",
-        "link": "https://www.bbc.com/news/articles/cm21x4yz3yxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Claims of Labour Mayor Andy Burnham's \"plot\" to enter Commons and a spike of flu cases leads the Sunday papers.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2025-12-14",
-        "image_url": null,
-        "keywords": [
-            "faces 'tsunami",
-            "andy burnham",
-            "flu cases"
-        ]
-    },
-    {
         "title": "From bland to bold - how these women are ditching beige to spark joy",
         "link": "https://www.bbc.com/news/articles/ckg2j5l4q7wo?at_medium=RSS&at_campaign=rss",
         "summary": "From kitsch mirrors to neon pink walls, a pop of colour could brighten up your winter.",
@@ -906,6 +918,21 @@
         "keywords": [
             "kitsch mirrors",
             "pink walls"
+        ]
+    },
+    {
+        "title": "'Burnham coup plot' and Tories vow to 'ditch ban on petrol cars'",
+        "link": "https://www.bbc.com/news/articles/cm21x4yz3yxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Labour Mayor Andy Burnham's ambition to return to Parliament and a Tory pledge to scrap a 2030 ban on petrol cars lead the papers.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2025-12-14",
+        "image_url": null,
+        "keywords": [
+            "'ditch ban",
+            "petrol cars",
+            "andy burnham"
         ]
     },
     {
@@ -922,47 +949,48 @@
         ]
     },
     {
-        "title": "Belarus frees 123 prisoners as US lifts sanctions",
-        "link": "https://www.bbc.com/news/articles/c4gpwlkklyxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Opposition activist Maria Kolesnikova is among those released in exchange for a deal with the US.",
+        "title": "King 'deeply touched' by reaction to cancer TV message, says Palace",
+        "link": "https://www.bbc.com/news/articles/crl99y91jn0o?at_medium=RSS&at_campaign=rss",
+        "summary": "In a TV broadcast on Friday night, the King said an early diagnosis was key to the \"good news\" that his treatment is being scaled back.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
         "date": "2025-12-14",
         "image_url": null,
         "keywords": [
-            "us lifts sanctions",
-            "maria kolesnikova"
+            "cancer tv message",
+            "tv broadcast",
+            "early diagnosis"
         ]
     },
     {
-        "title": "Goodbye - but only for now? Salah signs off as questions remain",
-        "link": "https://www.bbc.com/sport/football/articles/cj38ve4nmklo?at_medium=RSS&at_campaign=rss",
-        "summary": "Mohamed Salah's return to the Liverpool side shows boss Arne Slot is prepared to move on - but questions still remain.",
+        "title": "Three Americans killed by IS gunman in Syria, US military says",
+        "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
+        "summary": "Two US soldiers and a civilian interpreter were killed in the attack, according to the US Central Command.",
         "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2025-12-14",
-        "image_url": null,
-        "keywords": [
-            "mohamed salah",
-            "'s return",
-            "side shows boss"
-        ]
-    },
-    {
-        "title": "Zoe Ball steps down from BBC Radio 2 Saturday show",
-        "link": "https://www.bbc.com/news/articles/cly512v8dxko?at_medium=RSS&at_campaign=rss",
-        "summary": "Broadcaster Emma Willis will take over presenting the Saturday afternoon programme.",
-        "source": "BBC News",
-        "objectivity_score": 28,
+        "objectivity_score": 8,
         "sentiment": "Negative",
         "date": "2025-12-14",
         "image_url": null,
         "keywords": [
-            "zoe ball",
-            "broadcaster emma willis",
-            "afternoon programme"
+            "us soldiers",
+            "civilian interpreter",
+            "central command"
+        ]
+    },
+    {
+        "title": "Andrew will not face police action over bodyguard claim",
+        "link": "https://www.bbc.com/news/articles/cvgr1djewxko?at_medium=RSS&at_campaign=rss",
+        "summary": "The allegations, first reported in October, said he tried to obtain personal information about his accuser Virginia Giuffre through his police protection.",
+        "source": "BBC News",
+        "objectivity_score": 24,
+        "sentiment": "Positive",
+        "date": "2025-12-14",
+        "image_url": null,
+        "keywords": [
+            "police action",
+            "bodyguard claim",
+            "personal information"
         ]
     },
     {
@@ -976,19 +1004,6 @@
         "image_url": null,
         "keywords": [
             "amber rain"
-        ]
-    },
-    {
-        "title": "Angry fans throw chairs and bottles at Messi event in India",
-        "link": "https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss",
-        "summary": "The Inter Miami and Argentina forward is in India for a tour, taking in events in Kolkata, Hyderabad, Mumbai and Delhi.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Negative",
-        "date": "2025-12-14",
-        "image_url": null,
-        "keywords": [
-            "inter miami"
         ]
     },
     {
@@ -1122,6 +1137,21 @@
         ]
     },
     {
+        "title": "No batting changes for vital Ashes Test - McCullum",
+        "link": "https://www.bbc.com/sport/cricket/articles/cj9yrzzg9vmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Head coach Brendon McCullum says England are unlikely to make changes to their batting line-up for the crucial third Ashes Test in Adelaide.",
+        "source": "BBC News",
+        "objectivity_score": 47,
+        "sentiment": "Neutral",
+        "date": "2025-12-14",
+        "image_url": null,
+        "keywords": [
+            "ashes test",
+            "mccullum head",
+            "brendon mccullum"
+        ]
+    },
+    {
         "title": "Glasgow mount incredible comeback to stun Toulouse",
         "link": "https://www.bbc.com/sport/rugby-union/articles/cq60vg3118po?at_medium=RSS&at_campaign=rss",
         "summary": "A phenomenal second half delivers a landmark victory for Glasgow Warriors in the Champions Cup.",
@@ -1163,19 +1193,6 @@
             "non-league manager",
             "bar town manager",
             "sammy moore"
-        ]
-    },
-    {
-        "title": "Lim, 71, becomes oldest winner at World Championship",
-        "link": "https://www.bbc.com/sport/darts/articles/c5yqv3gw827o?at_medium=RSS&at_campaign=rss",
-        "summary": "Paul Lim becomes the oldest player to win a match at the PDC World Championship with a stunning victory over Jeffrey de Graaf.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Positive",
-        "date": "2025-12-14",
-        "image_url": null,
-        "keywords": [
-            "championship paul lim"
         ]
     },
     {
@@ -1383,6 +1400,36 @@
         ]
     },
     {
+        "title": "In Rome, the King of Paparazzi Is a Star in His Own Right",
+        "link": "https://www.nytimes.com/2025/12/14/world/europe/rome-italy-celebrity-paparazzi-rino-barillari.html",
+        "summary": "Rino Barillari has been snapping photos of, and sparring with, the famous for 65 years, from Princess Margaret to Lady Gaga, Peter OToole to Spike Lee. He is now a fixture himself in the celebrity fir...",
+        "source": "NYT > World News",
+        "objectivity_score": 84,
+        "sentiment": "Positive",
+        "date": "2025-12-14",
+        "image_url": null,
+        "keywords": [
+            "own right rino barillari",
+            "peter otoole",
+            "spike lee"
+        ]
+    },
+    {
+        "title": "AfD Pushes to Publish German Information That Officials Say May Help Russia",
+        "link": "https://www.nytimes.com/2025/12/14/world/europe/germany-far-right-afd-russia-security-secrets.html",
+        "summary": "Opponents of AfD lawmakers say that their push to publish sensitive details about national security could benefit Russian military planning.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2025-12-14",
+        "image_url": null,
+        "keywords": [
+            "afd pushes",
+            "say may",
+            "sensitive details"
+        ]
+    },
+    {
         "title": "Six U.N. Peacekeepers Killed in Drone Strike in Sudanese Battle Zone",
         "link": "https://www.nytimes.com/2025/12/13/world/africa/sudan-un-peacekeepers-killed-drone-strike.html",
         "summary": "The strike on a United Nations base in the southern Kordofan region was the deadliest single episode for the bodys personnel in Sudans civil war.",
@@ -1495,36 +1542,6 @@
             "cuba hawk",
             "havana runs",
             "national security adviser"
-        ]
-    },
-    {
-        "title": "Canadians Rush to Buy Stockpiles of Boycotted U.S. Liquor",
-        "link": "https://www.nytimes.com/2025/12/12/world/canada/canada-american-liquor-ban-tariffs-charity.html",
-        "summary": "Four Canadian provinces are selling off the American liquor they pulled from shelves in protest over President Trumps tariffs. Some bourbon drinkers are thrilled.",
-        "source": "NYT > World News",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2025-12-14",
-        "image_url": null,
-        "keywords": [
-            "canadians rush",
-            "buy stockpiles",
-            "boycotted u.s"
-        ]
-    },
-    {
-        "title": "King Charles Relays \u2018Good News\u2019 About His Cancer Treatment",
-        "link": "https://www.nytimes.com/video/world/europe/100000010584467/king-charles-cancer-good-news.html",
-        "summary": "In a recorded message aired on Friday, King Charles III said that his doctors planned to scale back his cancer treatment starting next year, after being diagnosed in early 2024. The monarch also promo...",
-        "source": "NYT > World News",
-        "objectivity_score": 28,
-        "sentiment": "Positive",
-        "date": "2025-12-14",
-        "image_url": null,
-        "keywords": [
-            "charles relays",
-            "good news \u2019",
-            "cancer treatment"
         ]
     },
     {
@@ -1753,26 +1770,11 @@
         ]
     },
     {
-        "title": "Australia news live: UN working group concerned about First Nations incarceration rates; Labor reports $20bn in savings in mid-year budget update",
-        "link": "https://www.theguardian.com/australia-news/live/2025/dec/14/australia-news-live-michelle-rowland-family-travel-entitlements-labor-liberal-coles-woolworths-price-gouging-nsw-vic-wa-fire-weather-heatwave-warnings-albanese-sussan-ley-ntwnfb",
-        "summary": "The UN Working Group on Arbitrary Detention has raised major concerns about the detention of Indigenous people, children and migrants. Follow live updatesGet our breaking news email, free app or daily...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Positive",
-        "date": "2025-12-14",
-        "image_url": null,
-        "keywords": [
-            "incarceration rates",
-            "labor reports $ 20bn",
-            "mid-year budget update"
-        ]
-    },
-    {
         "title": "Michelle Rowland to repay part of family trip to WA after watchdog finds spending breached rules",
         "link": "https://www.theguardian.com/australia-news/2025/dec/14/michelle-rowland-to-repay-part-of-family-trip-to-wa-ipea-watchdog-finds-spending-breached-rules",
         "summary": "Attorney generals move to pay back part of $22,000 travel cost makes her the first minister to reimburse taxpayers in growing expenses scandalFollow our Australia news live blog for latest updatesGet ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
+        "objectivity_score": 40,
         "sentiment": "Positive",
         "date": "2025-12-14",
         "image_url": null,
@@ -1780,6 +1782,36 @@
             "michelle rowland",
             "family trip",
             "rules attorney generals"
+        ]
+    },
+    {
+        "title": "Queensland driver charged with eight attempted murders after pedestrians struck \u2013 as it happened",
+        "link": "https://www.theguardian.com/australia-news/live/2025/dec/14/australia-news-live-michelle-rowland-family-travel-entitlements-labor-liberal-coles-woolworths-price-gouging-nsw-vic-wa-fire-weather-heatwave-warnings-albanese-sussan-ley-ntwnfb",
+        "summary": "This blog is now closed.Get our breaking news email, free app or daily news podcastPressure mounts on Albanese government to control gas exportsA broad range of consumer, industry and climate and envi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
+        "sentiment": "Positive",
+        "date": "2025-12-14",
+        "image_url": null,
+        "keywords": [
+            "news email",
+            "free app",
+            "news podcastpressure mounts"
+        ]
+    },
+    {
+        "title": "Police join search for Belgian tourist after phone found in Tasmanian wilderness two years since she went missing",
+        "link": "https://www.theguardian.com/australia-news/2025/dec/14/police-join-search-for-belgian-tourist-after-phone-found-in-tasmanian-wilderness-two-years-since-she-went-missing",
+        "summary": "Device belonging to missing hiker Celine Cremer found in an area that had been extensively searched previouslyFollow our Australia news live blog for latest updatesGet our breaking news email, free ap...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Neutral",
+        "date": "2025-12-14",
+        "image_url": null,
+        "keywords": [
+            "belgian tourist",
+            "celine cremer",
+            "news email"
         ]
     },
     {
@@ -1813,18 +1845,18 @@
         ]
     },
     {
-        "title": "Bowen says Turnbull-era travel expenses rules were changed to simplify them, despite criticism they became broader",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/13/bowen-says-turnbull-era-travel-expenses-rules-changed-to-simplify-them-despite-criticism-they-became-broader",
-        "summary": "Updated wording expands definition of party political duties as Labor politicians come under scrutiny for spending  Get our breaking news email, free app or daily news podcastCabinet minister Chris Bo...",
+        "title": "\u2018Like a mini Louvre\u2019: two generations of Rothschilds fight over treasure trove of artworks",
+        "link": "https://www.theguardian.com/world/2025/dec/14/like-a-mini-louvre-two-generations-of-rothschilds-fight-over-treasure-trove-of-artworks",
+        "summary": "Baronesses Nadine and Ariane de Rothschild at odds over future of Swiss chateaus priceless contentsAfter three generations of genteel discretion bordering on secrecy, the international banking family ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 19,
-        "sentiment": "Neutral",
+        "objectivity_score": 52,
+        "sentiment": "Positive",
         "date": "2025-12-14",
         "image_url": null,
         "keywords": [
-            "travel expenses rules",
-            "expands definition",
-            "political duties"
+            "treasure trove",
+            "baronesses nadine",
+            "swiss chateaus priceless contentsafter"
         ]
     },
     {
@@ -1885,21 +1917,6 @@
             "significant step",
             "sovereign assets",
             "money.the decision"
-        ]
-    },
-    {
-        "title": "Belgian PM meets Starmer in London as debate continues on using frozen Russian assets for Ukraine \u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2025/dec/12/von-der-leyen-trump-ukraine-belgium-russian-assets-starmer-latest-news-updates",
-        "summary": "Bart De Wever will also discuss migration, security and economy ahead of coalition of the willing meeting and EU summit next weekRussias central bank said it was suing the Belgium-based Euroclear fina...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2025-12-14",
-        "image_url": null,
-        "keywords": [
-            "russian assets",
-            "bart de wever",
-            "willing meeting"
         ]
     },
     {
@@ -2053,6 +2070,21 @@
         ]
     },
     {
+        "title": "Steve Bannon, Tucker Carlson and ... Liz Truss? Inside the former PM\u2019s audition for Maga",
+        "link": "https://www.theguardian.com/news/ng-interactive/2025/dec/14/steve-bannon-tucker-carlson-and-liz-truss-former-pm-auditions-for-maga",
+        "summary": "Her delivery might be stilted  but Truss new YouTube show has grand ambitions: a Trump revolution in Britain with the help of an influential US conservative ecosystemLiz Truss, Britains shortest-servi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2025-12-14",
+        "image_url": null,
+        "keywords": [
+            "steve bannon",
+            "tucker carlson",
+            "liz truss"
+        ]
+    },
+    {
         "title": "Police forces in England and Wales to get units that tackle violence against women",
         "link": "https://www.theguardian.com/society/2025/dec/13/police-forces-in-england-and-wales-to-get-units-that-tackle-violence-against-women",
         "summary": "Specialist teams will deal with offences such as rape and stalking as part of VAWG strategy, home secretary saysAll police forces in England and Wales will have dedicated rape and sexual offences team...",
@@ -2113,48 +2145,33 @@
         ]
     },
     {
-        "title": "How did Mail on Sunday\u2019s US editor become \u2018rock solid friend\u2019 of Meghan\u2019s father?",
-        "link": "https://www.theguardian.com/uk-news/2025/dec/13/meghan-duchess-sussex-mail-on-sunday-us-editor-rock-solid-friend-father",
-        "summary": "Duchess of Sussex says journalistic ethics breached as dad turns to journalist first to break news of leg amputationWhen Thomas Markle received bad news about his health earlier this month, he immedia...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2025-12-14",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s us editor",
-            "\u2018 rock",
-            "solid friend \u2019"
-        ]
-    },
-    {
-        "title": "Brown University shooting: two dead and eight in critical condition as suspect remains at large \u2013 live updates",
+        "title": "Brown University shooting: two dead confirmed as students, as officials release footage of suspect \u2013 live updates",
         "link": "https://www.theguardian.com/us-news/live/2025/dec/13/brown-university-shooting-rhode-island-updates",
-        "summary": "Suspect or suspects remain at large as Ivy League university tells students to shelter in placeMultiple people shot at Brown University in Rhode Island, police sayPolice said no weapons were recovered...",
+        "summary": "Suspect remain at large as Ivy League university tells students to shelter in placeFull report: Multiple people shot at Brown University in Rhode Island, police sayWhat we know so far about the Brown ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 43,
         "sentiment": "Neutral",
         "date": "2025-12-14",
         "image_url": null,
         "keywords": [
-            "critical condition",
-            "large \u2013",
-            "league university"
+            "officials release footage",
+            "league university",
+            "placefull report"
         ]
     },
     {
-        "title": "Two people dead and eight wounded in mass shooting at Brown University, officials say",
+        "title": "Two people dead and nine wounded in mass shooting at Brown University, as suspect remains at large",
         "link": "https://www.theguardian.com/us-news/2025/dec/13/brown-university-shooting",
-        "summary": "Mayor of Providence, Rhode Island, says shooter or shooters still at large and number of victims could changeFollow live updatesAt least two people were killed and eight more critically injured in a s...",
+        "summary": "Mayor of Providence, Rhode Island, says shooter still at large, as officials embark on widespread manhuntBrown University shooting: follow live updatesWhat we know so far about the Brown University sh...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
         "date": "2025-12-14",
         "image_url": null,
         "keywords": [
             "mass shooting",
-            "citys mayor",
-            "news conference"
+            "large mayor",
+            "officials embark"
         ]
     },
     {
