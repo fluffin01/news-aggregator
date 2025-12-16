@@ -737,7 +737,22 @@
         ]
     },
     {
-        "title": "Trump files $5bn defamation lawsuit against BBC over Panorama speech edit",
+        "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
+        "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
+        "summary": "Boris Gurman, 69, \"charged straight towards the danger\" and grabbed one of the attacker's guns, a witness says.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "video shows couple",
+            "boris gurman",
+            "attacker 's guns"
+        ]
+    },
+    {
+        "title": "BBC says it will defend Trump defamation lawsuit over Panorama speech edit",
         "link": "https://www.bbc.com/news/articles/cpvd81470v1o?at_medium=RSS&at_campaign=rss",
         "summary": "The US president has requested $5bn (3.7bn) in damages, according to court documents filed in Florida.",
         "source": "BBC News",
@@ -746,22 +761,9 @@
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "files $ 5bn defamation lawsuit",
+            "defamation lawsuit",
             "speech edit",
             "us president"
-        ]
-    },
-    {
-        "title": "BBC visits flower-lined Bondi Pavilion after attack",
-        "link": "https://www.bbc.com/news/videos/c4g40413206o?at_medium=RSS&at_campaign=rss",
-        "summary": "Crowds of people have left flowers and candles as a tribute to the 15 people who were killed in the attack in Sydney.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "bondi pavilion"
         ]
     },
     {
@@ -778,34 +780,6 @@
         ]
     },
     {
-        "title": "How the Maga world became divided - and what that means for Trump",
-        "link": "https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS&at_campaign=rss",
-        "summary": "The next presidential election may seem a long way off, but current frictions within Trumps coalition suggest the jockeying to succeed Trump is well under way",
-        "source": "BBC News",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "presidential election",
-            "long way",
-            "current frictions"
-        ]
-    },
-    {
-        "title": "Epstein's UK flights had alleged British abuse victims on board, BBC finds",
-        "link": "https://www.bbc.com/news/articles/cy4709kylkxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Lawyers representing victims say it is shocking there has never been a full-scale UK inquiry.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Negative",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "british abuse victims"
-        ]
-    },
-    {
         "title": "Thousands of drivers wrongly fined for speeding since 2021",
         "link": "https://www.bbc.com/news/articles/c70rk80p9eqo?at_medium=RSS&at_campaign=rss",
         "summary": "An anomaly identified by National Highways caused thousands of incorrect speed camera activations.",
@@ -819,72 +793,101 @@
         ]
     },
     {
-        "title": "UK says South Korea trade deal will bring billions into economy",
-        "link": "https://www.bbc.com/news/articles/cewjzkw875vo?at_medium=RSS&at_campaign=rss",
-        "summary": "UK pharmaceuticals, car manufacturing and financial services are expected to benefit.",
+        "title": "Trump repeats criticism of killed Hollywood director Rob Reiner",
+        "link": "https://www.bbc.com/news/articles/c7413d9xvkeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Reiner was a longtime Democrat, liberal activist and outspoken opponent of the US president.",
         "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "financial services"
-        ]
-    },
-    {
-        "title": "Whole-of-society effort needed to deter Russia threat, armed forces chief says",
-        "link": "https://www.bbc.com/news/articles/c62vd7dkdpyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sir Richard Knighton says more families will know what \"sacrifice for our nation means\" as the threat from Russia worsens.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "sir richard knighton"
-        ]
-    },
-    {
-        "title": "Rob Reiner's son Nick arrested for murder after director and wife found dead",
-        "link": "https://www.bbc.com/news/articles/ce8qnzd680ro?at_medium=RSS&at_campaign=rss",
-        "summary": "The couple's son is in custody after the couple was found dead in their home on Sunday.",
-        "source": "BBC News",
-        "objectivity_score": 40,
+        "objectivity_score": 0,
         "sentiment": "Negative",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "rob reiner",
-            "'s son",
-            "couple 's son"
+            "repeats criticism",
+            "rob reiner reiner",
+            "liberal activist"
         ]
     },
     {
-        "title": "UK launches taskforce to 'break down barriers' for women in technology",
-        "link": "https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss",
-        "summary": "It comes after the government was urged to help close the UK tech sector's gender gap in order to meet its ambitious AI goals.",
+        "title": "Negotiations over US-UK tech deal stall",
+        "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss",
+        "summary": "When the partnership was unveiled in September the UK government said it would \"shape the futures of millions of people\"",
         "source": "BBC News",
-        "objectivity_score": 51,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "launches taskforce",
-            "tech sector 's gender gap"
+            "negotiations"
         ]
     },
     {
-        "title": "Resident doctors vote to go ahead with strike in England as hospitals battle flu wave",
-        "link": "https://www.bbc.com/news/articles/c246dnyjylqo?at_medium=RSS&at_campaign=rss",
-        "summary": "It comes after ministers made fresh offer amid warning the walkout is risky as NHS battles wave of flu.",
+        "title": "Lizzo celebrates as fat-shaming claims dismissed",
+        "link": "https://www.bbc.com/news/articles/c5yq5802rqeo?at_medium=RSS&at_campaign=rss",
+        "summary": "The star says the allegations \"haunted\" her, but she still faces allegations of sexual harassment.",
         "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 83,
         "sentiment": "Positive",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "hospitals battle flu wave",
-            "battles wave"
+            "faces allegations",
+            "sexual harassment"
+        ]
+    },
+    {
+        "title": "Paris St-Germain ordered to pay former striker Kylian Mbappe \u20ac60m",
+        "link": "https://www.bbc.com/sport/football/articles/cd0k3m1xzr8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Paris St-Germain have been ordered to pay former striker Kylian Mbappe 60 million euros (52.5m) in unpaid salary and bonuses by a French court.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "kylian mbappe",
+            "paris st-germain",
+            "kylian mbappe"
+        ]
+    },
+    {
+        "title": "Young workers hit hard as UK unemployment rate rises to 5.1%",
+        "link": "https://www.bbc.com/news/articles/c98nqe0m008o?at_medium=RSS&at_campaign=rss",
+        "summary": "UK job vacancies flatline in a \"subdued labour market\", but average earnings still higher than inflation.",
+        "source": "BBC News",
+        "objectivity_score": 46,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "young workers",
+            "unemployment rate rises",
+            "job vacancies flatline"
+        ]
+    },
+    {
+        "title": "Police shot in the front, not the back, NSW premier says after criticism of response",
+        "link": "https://www.bbc.com/news/articles/cde644367j0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Some witnesses have suggested police were too slow to disarm the two gunmen during the Bondi shooting.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Negative",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "police shot"
+        ]
+    },
+    {
+        "title": "Who are the victims?",
+        "link": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
+        "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "10-year-old girl"
         ]
     },
     {
@@ -903,47 +906,51 @@
         ]
     },
     {
-        "title": "How Bondi's Hanukkah festival turned from joy to horror within minutes",
-        "link": "https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Videos and eyewitness accounts reveal how Australia's worst mass shooting in nearly three decades unfolded.",
+        "title": "Australian PM praises 'inspirational' Bondi hero on hospital visit",
+        "link": "https://www.bbc.com/news/articles/cvg13z47vpdo?at_medium=RSS&at_campaign=rss",
+        "summary": "\"Your heart is strong\", Anthony Albanese tells the father-of-two, calling him \"a true Australian hero\".",
         "source": "BBC News",
-        "objectivity_score": 53,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "eyewitness accounts",
-            "mass shooting"
-        ]
-    },
-    {
-        "title": "A 10-year-old, two rabbis and a Holocaust survivor - who are the victims?",
-        "link": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
-        "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "10-year-old girl"
-        ]
-    },
-    {
-        "title": "'I've grown up in fear': Jewish Australians say rising antisemitism made attack predictable",
-        "link": "https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS&at_campaign=rss",
-        "summary": "Many are asking why more wasn't done to prevent the shootings after a spate of antisemitism-related offences.",
-        "source": "BBC News",
-        "objectivity_score": 37,
+        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "'i've"
+            "australian pm",
+            "praises 'inspirational",
+            "hospital visit"
         ]
     },
     {
-        "title": "How I beat my hospital phobia to become a midwife",
+        "title": "How the Bondi Beach shooting unfolded",
+        "link": "https://www.bbc.com/news/videos/c3e0wnv5zx2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Eleven minutes of video captures the moment Australia's iconic beach turns into a scene of horror.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "video captures",
+            "'s iconic beach"
+        ]
+    },
+    {
+        "title": "How divides emerged at the heart of Trump\u2019s Maga world",
+        "link": "https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS&at_campaign=rss",
+        "summary": "The next presidential election may seem a long way off, but current frictions within Trumps coalition suggest the jockeying to succeed Trump is well under way",
+        "source": "BBC News",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "presidential election",
+            "long way",
+            "current frictions"
+        ]
+    },
+    {
+        "title": "How I conquered my hospital phobia to become a midwife",
         "link": "https://www.bbc.com/news/articles/c79729j799jo?at_medium=RSS&at_campaign=rss",
         "summary": "Two women share how they overcame their fear of hospitals and now help others do the same.",
         "source": "BBC News",
@@ -953,21 +960,6 @@
         "image_url": null,
         "keywords": [
             "hospital phobia"
-        ]
-    },
-    {
-        "title": "The Papers: 'Tears, flowers and silence' in Bondi and 'Streeting's fury'",
-        "link": "https://www.bbc.com/news/articles/ckgml4xm49ko?at_medium=RSS&at_campaign=rss",
-        "summary": "The aftermath of the Bondi Beach attack in Australia continues to dominate the front pages of Tuesday's papers.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "'s fury",
-            "beach attack",
-            "front pages"
         ]
     },
     {
@@ -986,46 +978,33 @@
         ]
     },
     {
-        "title": "Fear of crime and migration fuels Chile's swing to the right",
-        "link": "https://www.bbc.com/news/articles/c0q5309k1y5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Chile has become the latest country in the region to elect a right-wing president.",
+        "title": "Are these the most powerful heat pumps ever?",
+        "link": "https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss",
+        "summary": "Across Europe huge heat pumps are being installed that can heat tens of thousands of homes.",
         "source": "BBC News",
-        "objectivity_score": 77,
+        "objectivity_score": 80,
         "sentiment": "Positive",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "fear"
+            "powerful heat pumps",
+            "across europe",
+            "huge heat pumps"
         ]
     },
     {
-        "title": "Watch: What to know about the growing US military presence in Puerto Rico",
-        "link": "https://www.bbc.com/news/videos/cg4ngvn64lxo?at_medium=RSS&at_campaign=rss",
-        "summary": "A retired US vice admiral talks through the military equipment sent to the island in recent months, and what the build up could mean.",
+        "title": "My father was murdered in the line of duty - but can't get a bravery award",
+        "link": "https://www.bbc.com/news/articles/czj013m4pyyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The family of a police sergeant who died in the line of duty are calling for a change in UK government policy on the issuing of bravery awards.",
         "source": "BBC News",
-        "objectivity_score": 28,
-        "sentiment": "Negative",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "military presence",
-            "puerto rico",
-            "us vice admiral"
-        ]
-    },
-    {
-        "title": "University students facing course 'cold spots' as enrolments fall",
-        "link": "https://www.bbc.com/news/articles/cnv26103d1go?at_medium=RSS&at_campaign=rss",
-        "summary": "New data analysis suggests courses like artificial intelligence are surging in popularity as languages fall.",
-        "source": "BBC News",
-        "objectivity_score": 81,
-        "sentiment": "Negative",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "university students",
-            "course 'cold spots",
-            "enrolments fall"
+            "ca n't",
+            "bravery award",
+            "police sergeant"
         ]
     },
     {
@@ -1044,75 +1023,89 @@
         ]
     },
     {
-        "title": "Liverpool parade attacker lied about 'panicking' and drove at crowds in rage, court told",
-        "link": "https://www.bbc.com/news/articles/cqjg9vprx4eo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Liverpool parade attacker considered himself \"the most important person\" in the area, a court hears.",
+        "title": "We need more people ready to fight, military chief says",
+        "link": "https://www.bbc.com/news/articles/c62vd7dkdpyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Sir Richard Knighton says more families will know what \"sacrifice for our nation means\" as the threat from Russia worsens.",
         "source": "BBC News",
-        "objectivity_score": 49,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "parade attacker",
-            "parade attacker",
-            "important person"
-        ]
-    },
-    {
-        "title": "US and UK urge China to release Hong Kong's Jimmy Lai",
-        "link": "https://www.bbc.com/news/articles/cgr1z48rvxro?at_medium=RSS&at_campaign=rss",
-        "summary": "Trump says he has asked China's Xi to \"consider\" releasing the Hong Kong pro-democracy tycoon.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "hong kong",
-            "jimmy lai trump",
-            "hong kong"
-        ]
-    },
-    {
-        "title": "MI6 chief: 'We are operating in space between peace and war'",
-        "link": "https://www.bbc.com/news/articles/cgqzed1vjw5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Blaise Metreweli's first speech heading the agency focused on the multi-faceted threat posed by Russia.",
-        "source": "BBC News",
-        "objectivity_score": 33,
+        "objectivity_score": 40,
         "sentiment": "Positive",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "blaise metreweli"
+            "sir richard knighton"
         ]
     },
     {
-        "title": "'We don't blame dad for killing mum, he was ill'",
-        "link": "https://www.bbc.com/news/articles/c87l4nrvrdvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Chris Stone-Houghton had been experiencing paranoia when he killed his wife Ruth, an inquest heard.",
+        "title": "Dentists to prioritise urgent care and save some patients more than \u00a3200 under plans",
+        "link": "https://www.bbc.com/news/articles/cm20r9r1j48o?at_medium=RSS&at_campaign=rss",
+        "summary": "New incentives for dentists to offer longer-term packages of treatments for major issues such as gum disease.",
         "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 48,
+        "sentiment": "Positive",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "urgent care",
+            "new incentives",
+            "longer-term packages"
+        ]
+    },
+    {
+        "title": "University students facing course 'cold spots' as enrolments fall",
+        "link": "https://www.bbc.com/news/articles/cnv26103d1go?at_medium=RSS&at_campaign=rss",
+        "summary": "New data analysis suggests courses like artificial intelligence are surging in popularity as languages fall.",
+        "source": "BBC News",
+        "objectivity_score": 81,
         "sentiment": "Negative",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "n't blame dad",
-            "chris stone-houghton"
+            "university students",
+            "course 'cold spots",
+            "enrolments fall"
         ]
     },
     {
-        "title": "Mariah Carey to perform at Winter Olympics opening ceremony",
-        "link": "https://www.bbc.com/sport/articles/c17x8rep7p5o?at_medium=RSS&at_campaign=rss",
-        "summary": "American pop superstar Mariah Carey will perform at the opening ceremony of next year's Winter Olympics, organisers announce.",
+        "title": "Government to consider advertising or subscription model for BBC",
+        "link": "https://www.bbc.com/news/articles/cz94q0v4kq2o?at_medium=RSS&at_campaign=rss",
+        "summary": "It has published a consultation document - or green paper - laying out plans to futureproof the BBC.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 30,
+        "sentiment": "Negative",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "subscription model",
+            "consultation document",
+            "green paper"
+        ]
+    },
+    {
+        "title": "Bentleys and Scottish salmon to benefit from UK-South Korea trade deal",
+        "link": "https://www.bbc.com/news/articles/cewjzkw875vo?at_medium=RSS&at_campaign=rss",
+        "summary": "The government said the deal was an extension of its current tariff-free arrangement on most goods and services traded between the countries.",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "scottish salmon",
+            "uk-south korea",
+            "current tariff-free arrangement"
+        ]
+    },
+    {
+        "title": "Asylum hotel firm hands back almost \u00a314m in profits amid anger over service",
+        "link": "https://www.bbc.com/news/articles/cqxq3vq4xglo?at_medium=RSS&at_campaign=rss",
+        "summary": "Mears, which provides services in Northern Ireland, Scotland and the north of England, made more profit than its contracts allow.",
+        "source": "BBC News",
+        "objectivity_score": 27,
         "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "mariah carey",
-            "winter olympics",
-            "mariah carey"
+            "hotel firm hands"
         ]
     },
     {
@@ -1157,48 +1150,90 @@
         ]
     },
     {
-        "title": "Robbie Savage takes on his first football manager job",
-        "link": "https://www.bbc.co.uk/iplayer/episode/m002nbvt?at_mid=Ce3yhX5ed0&at_campaign=Robbie_Savage_Managing_Macclesfield_FC&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002nbvt&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Robbie_Savage_Managing_Macclesfield_FC&at_bbc_team=BBC",
-        "summary": "Robbie Savage takes on his first football manager job,but will he regret it?",
+        "title": "The story of Britain\u2019s biggest mass poisoning",
+        "link": "https://www.bbc.co.uk/iplayer/episode/m002mshv?at_mid=hccWjMbQd4&at_campaign=Poison_Water&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002mshv&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Poison_Water&at_bbc_team=BBC",
+        "summary": "When tap water turns toxic in Cornwall, a public health disaster leads to accusations of a cover-up",
         "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
+        "objectivity_score": 6,
+        "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "robbie savage",
-            "football manager job",
-            "robbie savage"
+            "tap water",
+            "public health disaster"
         ]
     },
     {
-        "title": "A 'throwback' to Man Utd's past, defensive chaos and a classic",
-        "link": "https://www.bbc.com/sport/football/articles/cx2edrx69rjo?at_medium=RSS&at_campaign=rss",
-        "summary": "A remarkable, chaotic, mesmerising Premier League thriller at Old Trafford between Manchester United and Bournemouth captures the imagination of all those present - even the two head coaches.",
+        "title": "PSG ordered to pay Mbappe 60m euros",
+        "link": "https://www.bbc.com/sport/football/articles/cd0k3m1xzr8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Paris St-Germain have been ordered to pay former striker Kylian Mbappe 60 million euros (52.5m) in unpaid salary and bonuses by a French court.",
         "source": "BBC News",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
+        "objectivity_score": 13,
+        "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "'s past",
-            "defensive chaos",
-            "premier league thriller"
+            "60m euros",
+            "paris st-germain",
+            "kylian mbappe"
         ]
     },
     {
-        "title": "Khawaja left out for Stokes' most 'important game'",
-        "link": "https://www.bbc.com/sport/cricket/articles/c62377nyn65o?at_medium=RSS&at_campaign=rss",
-        "summary": "Australia opt against recalling batter Usman Khawaja for the vital third Ashes Test  a match Ben Stokes has called the most important game in his time as England captain.",
+        "title": "'England have been treated like adults - now they must play like adults'",
+        "link": "https://www.bbc.com/sport/cricket/articles/cy84l2lwx29o?at_medium=RSS&at_campaign=rss",
+        "summary": "As England go into the third Ashes Test in Adelaide 2-0 down in the series, Stephan Shemilt examines what it will take for Ben Stokes' men to bounce back.",
         "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
+        "objectivity_score": 9,
+        "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "'important game",
-            "usman khawaja",
-            "ashes test"
+            "ashes test",
+            "stephan shemilt",
+            "ben stokes"
+        ]
+    },
+    {
+        "title": "Erratic Newcastle give Howe 'horrible feeling'",
+        "link": "https://www.bbc.com/sport/football/articles/ce8n2pvjevro?at_medium=RSS&at_campaign=rss",
+        "summary": "Newcastle United head coach Eddie Howe says it is a \"horrible feeling\" to not know what he is going to get from his side.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "erratic newcastle",
+            "'horrible feeling",
+            "head coach"
+        ]
+    },
+    {
+        "title": "Portuguese GP to return to F1 calendar in 2027",
+        "link": "https://www.bbc.com/sport/formula1/articles/c5yqrjle934o?at_medium=RSS&at_campaign=rss",
+        "summary": "Portugal will return to the F1 calendar in 2027 and 2028, with a race held at the Algarve International Circuit near Portimao.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "international circuit"
+        ]
+    },
+    {
+        "title": "Green becomes most expensive overseas IPL player",
+        "link": "https://www.bbc.com/sport/cricket/articles/c997j2y2ey0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Kolkata Knight Riders sign Australia all-rounder Cameron Green for 25.2 crore (2.1m) for next year's Indian Premier League.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "expensive overseas",
+            "kolkata knight",
+            "year 's"
         ]
     },
     {
@@ -1217,20 +1252,6 @@
         ]
     },
     {
-        "title": "Rohl's Rangers roll on - should Celtic & Hearts be worried?",
-        "link": "https://www.bbc.com/sport/football/articles/cg7vedj1zz4o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Scotland examines how Rangers have recovered domestically under Danny Rohl.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "bbc scotland",
-            "danny rohl"
-        ]
-    },
-    {
         "title": "Watch Man Utd and Bournemouth's eight-goal thriller",
         "link": "https://www.bbc.com/sport/football/videos/cwyxk81kd8zo?at_medium=RSS&at_campaign=rss",
         "summary": "Bournemouth's Junior Kroupi scores the equaliser in a dramatic 4-4 draw against Manchester United at Old Trafford, after two quick-fire goals from United's Bruno Fernandes and Matheus Cunha put the ho...",
@@ -1246,48 +1267,61 @@
         ]
     },
     {
-        "title": "Man Utd midfielder's half-brother wears 'Free Kobbie Mainoo' T-shirt",
-        "link": "https://www.bbc.com/sport/football/articles/c9d9nxzg8e4o?at_medium=RSS&at_campaign=rss",
-        "summary": "A T-shirt worn by Kobbie Mainoo's half-brother was among the post-match talking points at Old Trafford - even after a game as thrilling as the 4-4 draw between Manchester United and Bournemouth.",
-        "source": "BBC News",
-        "objectivity_score": 60,
+        "title": "Live Updates: Sydney Gunmen Were Motivated by ISIS, Australia\u2019s Leader Says",
+        "link": "https://www.nytimes.com/live/2025/12/15/world/bondi-beach-shooting-gunmen-isis",
+        "summary": "Prime Minister Anthony Albanese said two gunmen who killed 15 people at a Jewish holiday celebration were motivated by the Islamic State.",
+        "source": "NYT > World News",
+        "objectivity_score": 16,
         "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "midfielder 's half-brother wears 'free",
-            "kobbie mainoo",
-            "kobbie mainoo"
+            "live updates",
+            "sydney gunmen were motivated",
+            "\u2019 s leader"
         ]
     },
     {
-        "title": "Who has made Troy's Premier League team of the week?",
-        "link": "https://www.bbc.com/sport/football/articles/c1lr7jp8gvdo?at_medium=RSS&at_campaign=rss",
-        "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-        "source": "BBC News",
-        "objectivity_score": 40,
+        "title": "As Israeli Settlements Get Bigger, Palestinian Hikes Grow Shorter",
+        "link": "https://www.nytimes.com/2025/12/16/world/middleeast/west-bank-hiking-settlements.html",
+        "summary": "With Israelis rapidly building in the West Bank, Palestinian hikers are increasingly unable to walk across the land.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
         "sentiment": "Negative",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "'s premier league team",
-            "premier league matches",
-            "troy deeney"
+            "israeli settlements",
+            "palestinian hikes grow shorter"
         ]
     },
     {
-        "title": "Albanese Vows to Toughen Gun Laws After Deadly Bondi Shooting",
-        "link": "https://www.nytimes.com/2025/12/15/world/australia/albanese-gun-control-bondi-shooting.html",
-        "summary": "The police said on Monday that they expected to bring criminal charges against the surviving suspect, who is in a coma after being shot by the police.",
+        "title": "This Week Is Pivotal for Ukraine, and for Europe\u2019s Voice in Its Future",
+        "link": "https://www.nytimes.com/2025/12/16/world/europe/ukraine-war-europe-russia-frozen-assets.html",
+        "summary": "Often left out by the United States in peace negotiations, European countries are working to assert their leadership and bolster Ukraine with an ambitious funding plan. But can they agree?",
         "source": "NYT > World News",
         "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "peace negotiations",
+            "european countries"
+        ]
+    },
+    {
+        "title": "In a Remote Jungle, the Gruesome Poaching of Rare Elephants",
+        "link": "https://www.nytimes.com/2025/12/16/world/asia/borneo-elephants-poaching-beheading.html",
+        "summary": "More than a dozen Bornean elephants have been killed  including five beheaded  in Malaysia in the past 18 months, authorities say.",
+        "source": "NYT > World News",
+        "objectivity_score": 47,
         "sentiment": "Negative",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "albanese vows",
-            "toughen gun laws",
-            "bondi shooting"
+            "remote jungle",
+            "gruesome poaching",
+            "rare elephants"
         ]
     },
     {
@@ -1303,6 +1337,21 @@
             "hong kong media tycoon jimmy lai",
             "conviction was years",
             "making jimmy lai"
+        ]
+    },
+    {
+        "title": "Albanese Vows to Toughen Gun Laws After Deadly Bondi Shooting",
+        "link": "https://www.nytimes.com/2025/12/15/world/australia/albanese-gun-control-bondi-shooting.html",
+        "summary": "The police said on Monday that they expected to bring criminal charges against the surviving suspect, who is in a coma after being shot by the police.",
+        "source": "NYT > World News",
+        "objectivity_score": 33,
+        "sentiment": "Negative",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "albanese vows",
+            "toughen gun laws",
+            "bondi shooting"
         ]
     },
     {
@@ -1410,21 +1459,6 @@
         ]
     },
     {
-        "title": "To China, Jimmy Lai Was an Arch Villain. To His Supporters, He Was Their Hope.",
-        "link": "https://www.nytimes.com/2025/12/15/world/asia/jimmy-lai-guilty-national-security.html",
-        "summary": "Jimmy Lai, the Hong Kong publisher and democracy campaigner, was convicted of national security charges in a city where even minor dissent is now whispered.",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "jimmy lai was",
-            "arch villain",
-            "jimmy lai"
-        ]
-    },
-    {
         "title": "Louvre Museum Staff Go on Daylong Strike, Shutting Out Tourists",
         "link": "https://www.nytimes.com/2025/12/15/world/europe/louvre-strike-crisis-tourists.html",
         "summary": "About a fifth of the Louvres 2,100 employees voted to go on strike for the day, adding to the sense of crisis at the museum since a brazen heist in October.",
@@ -1439,47 +1473,63 @@
         ]
     },
     {
-        "title": "Jos\u00e9 Antonio Kast Elected President of Chile",
-        "link": "https://www.nytimes.com/2025/12/14/world/americas/chile-election-kast.html",
-        "summary": "Jos Antonio Kast has promised to reverse Chiles recent surge in violent crime. He also says he will deport undocumented migrants.",
+        "title": "Heroic Bondi Beach Bystander\u2019s Immigrant Background Is a Balm for Some Australians",
+        "link": "https://www.nytimes.com/2025/12/16/world/australia/bondi-beach-shooting-hero-bystander-ahmed-immigrant.html",
+        "summary": "Ahmed el Ahmed, a Muslim who arrived from Syria nearly 20 years ago, disarmed one of the suspected gunmen, who officials said were inspired by ISIS.",
         "source": "NYT > World News",
-        "objectivity_score": 62,
-        "sentiment": "Negative",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "jos\u00e9 antonio kast",
-            "chile jos antonio kast",
-            "recent surge"
-        ]
-    },
-    {
-        "title": "Deadly Attack on U.S. Troops Poses Growing Challenge for Syria\u2019s Leader",
-        "link": "https://www.nytimes.com/2025/12/14/world/middleeast/syria-us-soldiers-killed.html",
-        "summary": "The attack further complicates President Ahmed al-Sharaas efforts to unify the country and rebuild relationships with the international community, analysts say.",
-        "source": "NYT > World News",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "troops poses growing challenge",
-            "\u2019 s leader",
-            "complicates president"
-        ]
-    },
-    {
-        "title": "Kenya Is Betting Its Economy on Women Willing to Risk It All",
-        "link": "https://www.nytimes.com/2025/12/14/world/africa/kenya-saudi-arabia-worker-abuse.html",
-        "summary": "We set out to investigate worker abuse in Saudi Arabia. We found a system that begins exploiting them before they ever leave home.",
-        "source": "NYT > World News",
-        "objectivity_score": 75,
+        "objectivity_score": 65,
         "sentiment": "Positive",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "worker abuse",
-            "saudi arabia"
+            "heroic bondi",
+            "immigrant background",
+            "australians ahmed"
+        ]
+    },
+    {
+        "title": "Brigitte Macron, First Lady of France, Says Sorry for Slur Against Feminist Activists",
+        "link": "https://www.nytimes.com/2025/12/16/world/europe/france-first-lady-brigitte-macron-apology.html",
+        "summary": "In a short video, the French first lady said that she was sorry if I have hurt women victims, but she also noted that she should be allowed to behave freely in private.",
+        "source": "NYT > World News",
+        "objectivity_score": 47,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "brigitte macron",
+            "says sorry",
+            "slur against feminist activists"
+        ]
+    },
+    {
+        "title": "Venezuela\u2019s Oil Is a Focus of Trump\u2019s Campaign Against Maduro",
+        "link": "https://www.nytimes.com/2025/12/16/us/politics/trump-maduro-venezuela-oil-tanker.html",
+        "summary": "In public, the White House says it is confronting Venezuela to curb drug trafficking. Behind the scenes, gaining access to the countrys vast oil reserves is a priority.",
+        "source": "NYT > World News",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s oil",
+            "campaign against maduro",
+            "white house"
+        ]
+    },
+    {
+        "title": "Sydney Gunmen Inspired by ISIS, Australia Prime Minister Says",
+        "link": "https://www.nytimes.com/video/world/australia/100000010589741/australian-prime-minister-bondi-shooting-isis.html",
+        "summary": "Australias prime minister said the gunmen behind a shooting at a Jewish festival were motivated by the Islamic State. Investigators also said one of the gunmen was a licensed holder of several firearm...",
+        "source": "NYT > World News",
+        "objectivity_score": 23,
+        "sentiment": "Negative",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "sydney gunmen inspired",
+            "australia prime",
+            "says australias"
         ]
     },
     {
@@ -1507,21 +1557,6 @@
         "keywords": [
             "sydney suburb",
             "suspects lived"
-        ]
-    },
-    {
-        "title": "In a Remote Jungle, the Gruesome Poaching of Rare Elephants",
-        "link": "https://www.nytimes.com/2025/12/16/world/asia/borneo-elephants-poaching-beheading.html",
-        "summary": "More than a dozen Bornean elephants have been killed  including five beheaded  in Malaysia in the past 18 months, authorities say.",
-        "source": "NYT > World News",
-        "objectivity_score": 47,
-        "sentiment": "Negative",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "remote jungle",
-            "gruesome poaching",
-            "rare elephants"
         ]
     },
     {
@@ -1583,47 +1618,33 @@
         ]
     },
     {
-        "title": "Ukraine Claims First Strike by Underwater Drone on Russian Submarine",
-        "link": "https://www.nytimes.com/2025/12/15/world/europe/ukraine-russia-submarine-drones.html",
-        "summary": "As it tries to demonstrate its continuing ability to fight, Ukraine said it had used drones to inflict serious damage on a Russian Kilo-class submarine at a Black Sea port.",
-        "source": "NYT > World News",
-        "objectivity_score": 30,
+        "title": "Five key moments in the assault on the rights of women and girls in 2025",
+        "link": "https://www.theguardian.com/world/2025/dec/16/five-key-moments-in-the-assault-on-the-rights-of-women-and-girls-in-2025",
+        "summary": "Since Trumps second term began in January, global healthcare, especially for sexual and reproductive health, has been under constant attackThis time last year, womens rights organisations were bracing...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
         "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "underwater drone",
-            "russian submarine",
-            "serious damage"
+            "key moments",
+            "global healthcare",
+            "reproductive health"
         ]
     },
     {
-        "title": "Bystander Who Tackled Sydney Gunman Is Hailed as a \u2018Hero\u2019",
-        "link": "https://www.nytimes.com/video/world/australia/100000010587389/bondi-shooting-hero-ahmed.html",
-        "summary": "The parents of Ahmed el Ahmed, 43, said their son was brave and felt compelled to intervene to tackle one of the gunmen in Sundays mass shooting at Bondi Beach in which at least 15 people were killed.",
-        "source": "NYT > World News",
-        "objectivity_score": 46,
+        "title": "South Africa in talks with Russia over men \u2018tricked\u2019 into fighting in Ukraine",
+        "link": "https://www.theguardian.com/world/2025/dec/16/south-africa-russia-men-tricked-fighting-ukraine",
+        "summary": "Government says it received distress calls, as daughter of ex-president Jacob Zuma accused of luring men to frontlineSouth Africas government is in talks with Russia to bring home 17 South African men...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 6,
         "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "bystander who tackled sydney gunman",
-            "mass shooting"
-        ]
-    },
-    {
-        "title": "After Bondi Beach Attack, Australia Is Urged to Act Faster Against Antisemitism",
-        "link": "https://www.nytimes.com/2025/12/15/world/australia/australia-antisemitism-jewish-attacks-bondi-beach.html",
-        "summary": "Jillian Segal, the countrys special envoy to combat antisemitism, said the deadly incident was shocking but not surprising amid a rise in violence targeting the Jewish community.",
-        "source": "NYT > World News",
-        "objectivity_score": 49,
-        "sentiment": "Negative",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "faster against antisemitism jillian segal",
-            "special envoy",
-            "jewish community"
+            "jacob zuma",
+            "jacob zuma.duduzile zuma-sambudla",
+            "multiple lawsuits"
         ]
     },
     {
@@ -1672,33 +1693,33 @@
         ]
     },
     {
-        "title": "Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead",
-        "link": "https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead",
-        "summary": "UN secretary general Antnio Guterres says unjustifiable attack on base in city of Kadugli could be war crimeA drone strike has hit a United Nations peacekeeping logistics base in war-torn Sudan, killi...",
+        "title": "How a Brazilian meat tycoon accused of bribery and deforestation became a key player in regional diplomacy",
+        "link": "https://www.theguardian.com/world/2025/dec/16/joesley-batista-brazil-luiz-inacio-lula-da-silva-trump",
+        "summary": "Joesley Batista is credited as a major force behind the reconciliation between Trump and Luiz Incio Lula da SilvaSix international airlines had suspended flights to Venezuela over the risk of possible...",
         "source": "World news | The Guardian",
-        "objectivity_score": 57,
-        "sentiment": "Negative",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "un facility",
-            "dead un secretary general",
-            "antnio guterres"
+            "meat tycoon",
+            "key player",
+            "regional diplomacy"
         ]
     },
     {
-        "title": "US scolds Rwanda for breaking peace deal as M23 rebels seize key Congo city",
-        "link": "https://www.theguardian.com/world/2025/dec/13/us-accuses-rwanda-of-violating-peace-deal",
-        "summary": "Mike Waltz warns spoilers will be held to account as rebel fighters escalate offensive in South Kivu provinceThe US has accused Rwanda of violating a US-brokered peace agreement by backing a deadly ne...",
+        "title": "US military says eight killed in strikes on three boats in eastern Pacific",
+        "link": "https://www.theguardian.com/us-news/2025/dec/15/us-military-strikes-vessels-pacific",
+        "summary": "US Southern Command says boats were engaged in narco-traffickingThe US military has launched a fresh round of deadly strikes on foreign vessels suspected of trafficking narcotics, killing eight people...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
+        "objectivity_score": 15,
+        "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "us scolds",
-            "mike waltz",
-            "warns spoilers"
+            "pacific us",
+            "southern command",
+            "narco-traffickingthe us"
         ]
     },
     {
@@ -1744,36 +1765,6 @@
             "vertebra fracture",
             "secret trip",
             "peace prize laureates injury"
-        ]
-    },
-    {
-        "title": "Ultra-conservative Jos\u00e9 Antonio Kast elected Chile\u2019s next president",
-        "link": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president",
-        "summary": "The son of a Nazi party member and an admirer of Pinochet, Kast built his campaign on a promise to expel tens of thousands of undocumented migrantsThe ultra-conservative former congressman Jos Antonio...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 21,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "ultra-conservative jos\u00e9 antonio kast",
-            "party member",
-            "expel tens"
-        ]
-    },
-    {
-        "title": "Pilot narrowly avoids \u2018midair collision\u2019 with US air force plane near Venezuela",
-        "link": "https://www.theguardian.com/us-news/2025/dec/14/jetblue-pilot-avoids-midair-collision-air-force-venezuela",
-        "summary": "JetBlue pilot calls incident outrageous and says US military refueling tanker didnt have transponder turned onA JetBlue flight from the small Caribbean nation of Curaao halted its ascent to avoid coll...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Negative",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "\u2018 midair collision \u2019",
-            "us air force plane",
-            "venezuela jetblue"
         ]
     },
     {
@@ -1852,9 +1843,9 @@
         ]
     },
     {
-        "title": "Bondi beach shooting live: alleged gunman Naveed Akram out of coma; father entered Philippines as Indian national weeks before attack, Manila authorities say",
+        "title": "Bondi beach shooting: \u2018I couldn\u2019t imagine I would lose my daughter here,\u2019 says mother of youngest attack victim Matilda \u2013 as it happened",
         "link": "https://www.theguardian.com/australia-news/live/2025/dec/16/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah-al-ahmed-hero-gun-control-ntwnfb",
-        "summary": "Police investigating claims father and son duo received training overseas before attack. Follow todays news liveGet our breaking news email, free app or daily news podcastDreyfus says Australians risi...",
+        "summary": "Get our breaking news email, free app or daily news podcastDreyfus says Australians rising to support community in wake of terror attacksThe former attorney general and special envoy for international...",
         "source": "World news | The Guardian",
         "objectivity_score": 32,
         "sentiment": "Neutral",
@@ -1862,31 +1853,31 @@
         "image_url": null,
         "keywords": [
             "beach shooting",
-            "naveed akram",
-            "indian national weeks"
+            "couldn \u2019 t",
+            "attack victim"
         ]
     },
     {
-        "title": "Bondi terror attack: alleged gunmen travelled to the Philippines before \u2018Isis-inspired\u2019 shooting",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/16/bondi-beach-terror-attack-shooters-alleged-father-son-isis-philippines-training-ntwnfb",
-        "summary": "Police investigating claims Sajid and Naveed Akram received training overseas before Sundays attackThe father and son duo allegedly behind the Bondi attacked appear to have been inspired by Islamic St...",
+        "title": "Jim Chalmers won\u2019t have good news in Myefo. Instead, he\u2019ll be trying to sell Labor\u2019s good intentions",
+        "link": "https://www.theguardian.com/business/2025/dec/16/myefo-jim-chalmers-australian-treasurer-budget-announcement",
+        "summary": "The unwelcome return of inflation means Anthony Albaneses government is desperate not to be seen to be adding to the problemGet our breaking news email, free app or daily news podcastA penny-pinching ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "terror attack",
-            "\u2019 shooting",
-            "naveed akram"
+            "jim chalmers",
+            "good news",
+            "labor \u2019 s"
         ]
     },
     {
         "title": "Australian prime minister praises Bondi hero Ahmed al-Ahmed as \u2018best of our country\u2019",
         "link": "https://www.theguardian.com/australia-news/2025/dec/16/australian-prime-minister-albanese-visits-ahmed-al-ahmed-hospital-bondi-hero-ntwnfb",
-        "summary": "Anthony Albanese calls man who tackled Bondi beach shooter humble man who was trying to get a cup of coffee, simple as thatVictims of Bondi beach terror attackBondi terror attack: full reportFollow ou...",
+        "summary": "Anthony Albanese calls man who tackled Bondi beach shooter humble man who was trying to get a cup of coffee, simple as thatFull report: Bondi terror attack Victims of Bondi beach shootingWhat we know ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 34,
+        "objectivity_score": 38,
         "sentiment": "Positive",
         "date": "2025-12-16",
         "image_url": null,
@@ -1897,33 +1888,78 @@
         ]
     },
     {
-        "title": "\u2018They were shot in the front\u2019: premier and top cop defend police response to Bondi terror attack",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/16/bondi-shooting-police-response-to-terror-attack-ntwnfb",
-        "summary": "Chris Minns and Mal Lanyon questioned about police resources at Hanukah event and response time after Naveed Akram and father Sajid allegedly started shootingThe New South Wales premier, Chris Minns, ...",
+        "title": "Albanese\u2019s own strength navigating the path ahead will be just as important as the bravery seen at Bondi",
+        "link": "https://www.theguardian.com/australia-news/2025/dec/16/anthony-albanese-strength-navigating-path-ahead-important-bravery-bondi-ntwnfb",
+        "summary": "The prime minister needs to ask tough questions and stare down opponents to achieve real action in the wake of the terror attack in SydneyFull report: Bondi terror attack Victims of Bondi beach shooti...",
         "source": "World news | The Guardian",
-        "objectivity_score": 49,
+        "objectivity_score": 71,
         "sentiment": "Positive",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "front \u2019",
-            "police response",
-            "terror attack"
+            "own strength",
+            "prime minister needs",
+            "tough questions"
         ]
     },
     {
-        "title": "HelloFresh and Youfoodz sued by ACCC after allegedly trapping customers in misleading meal-kit subscriptions",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/16/hellofresh-youfoodz-sued-accc-allegedly-trapping-customers-meal-kit-subscriptions",
-        "summary": "More than 100,000 customers were charged a fee despite cancelling their subscription before the specified cut-off time, watchdog allegesMore than 100,000 customers of a popular meal-kit delivery provi...",
+        "title": "Couple in dashcam footage who were killed trying to fight off Bondi shooter identified as Boris and Sofia Gurman",
+        "link": "https://www.theguardian.com/australia-news/2025/dec/16/boris-and-sofia-gurman-identified-as-couple-who-lost-lives-trying-to-stop-bondi-gunmen-as-attack-began-ntwnfb",
+        "summary": "Dashcam footage shows the moment Boris Gurman tackles shooter Sajid Akram and wrestles a gun from himFull report: Bondi terror attackVictims of Bondi beach shootingWhat we know so far about the Bondi ...",
         "source": "World news | The Guardian",
         "objectivity_score": 32,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "dashcam footage",
+            "sofia gurman dashcam",
+            "footage shows"
+        ]
+    },
+    {
+        "title": "Peace plans ready to be presented to Russia in days, says Zelenskyy",
+        "link": "https://www.theguardian.com/world/2025/dec/16/ukraine-russia-peace-plans-zelenskyy-berlin-talks-putin",
+        "summary": "US says talks with Ukraine in Berlin have resolved 90% of difficult issues  but no sign Putin willing to compromiseEurope live  latest updatesVolodymyr Zelenskyy says proposals negotiated with US offi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "peace plans",
+            "difficult issues",
+            "us officials"
+        ]
+    },
+    {
+        "title": "European leaders sign treaty establishing Ukraine war damages body \u2013 Europe live",
+        "link": "https://www.theguardian.com/world/live/2025/dec/16/ukraine-peace-talks-russia-europe-us-trump-latest-news-updates",
+        "summary": "Zelenskyy and European leaders call for Russia to be held accountable for aggression: There must be no impunityMeanwhile, the Kremlin said that a Christmas truce that Ukraine has proposed would depend...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
         "sentiment": "Positive",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "meal-kit subscriptions",
-            "cut-off time",
-            "watchdog allegesmore"
+            "european leaders",
+            "war damages body \u2013",
+            "european leaders"
+        ]
+    },
+    {
+        "title": "Many Europeans mistakenly think most immigrants are illegal, poll shows",
+        "link": "https://www.theguardian.com/world/2025/dec/16/europeans-mistakenly-think-most-immigrants-are-illegal-survey",
+        "summary": "Exclusive: Seven-country survey finds strong opposition to increasing migration and support for deportationsMany Europeans mistakenly think most migrants are in their country illegally, according to a...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 58,
+        "sentiment": "Positive",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "poll shows",
+            "strong opposition",
+            "strong support"
         ]
     },
     {
@@ -1957,48 +1993,18 @@
         ]
     },
     {
-        "title": "Spain to launch \u20ac60 monthly nationwide public transport pass",
-        "link": "https://www.theguardian.com/world/2025/dec/15/spain-to-launch-60-monthly-nationwide-public-transport-pass",
-        "summary": "Bus and train initiative comes as government struggles to survive corruption and sexual harassment allegationsSpains socialist-led government is to launch a national public transport pass that will al...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "launch \u20ac60",
-            "monthly nationwide public transport pass",
-            "train initiative"
-        ]
-    },
-    {
-        "title": "Any Russia-Ukraine deal is doomed without security guarantees, says Starmer",
-        "link": "https://www.theguardian.com/world/2025/dec/15/russia-ukraine-deal-security-guarantees-starmer",
-        "summary": "Prime minister reiterates support for Kyiv as it comes under mounting US pressure to sign up to Trump-backed planA peace deal between Russia and Ukraine will fail unless it is backed up by robust secu...",
+        "title": "What is \u2018home\u2019 now? A woman\u2019s two-year search for safety in the ruins of Gaza",
+        "link": "https://www.theguardian.com/world/ng-interactive/2025/dec/16/what-is-home-now-a-womans-two-year-search-for-safety-in-the-ruins-of-gaza",
+        "summary": "Nour AbuShammala has returned to her partly destroyed apartment in Gaza City. This is her story of multiple displacements, injury and devastation over the last two yearsWhen 26-year-old Nour AbuShamma...",
         "source": "World news | The Guardian",
         "objectivity_score": 9,
-        "sentiment": "Negative",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "security guarantees",
-            "starmer prime",
-            "minister reiterates support"
-        ]
-    },
-    {
-        "title": "Britain caught in \u2018space between peace and war\u2019, says new head of MI6",
-        "link": "https://www.theguardian.com/uk-news/2025/dec/15/britain-caught-in-space-between-peace-and-war-new-head-of-mi6-warns",
-        "summary": "Blaise Metreweli says world more dangerous and contested now than for decades as AI and new technologies emergeBritain is caught in a space between peace and war complicated by the rise of artificial ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 64,
         "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "\u2018 space",
-            "new head",
-            "mi6 blaise metreweli"
+            "\u2018 home \u2019",
+            "woman \u2019 s",
+            "two-year search"
         ]
     },
     {
@@ -2059,21 +2065,6 @@
             "peace prize laureate",
             "narges mohammadi",
             "iran mohammadi"
-        ]
-    },
-    {
-        "title": "Eurovision winner Nemo to return trophy in protest at Israel taking part in 2026",
-        "link": "https://www.theguardian.com/tv-and-radio/2025/dec/11/nemo-eurovision-winner-2024-hand-back-trophy-protest-israel-taking-part-2025",
-        "summary": "Clear conflict between Eurovision ideals of inclusion and dignity for all and decision to let Israel compete, says 2024 winnerNemo, the Swiss singer who won the 2024 Eurovision song contest, has said ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 21,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "swiss singer",
-            "song contest",
-            "years event.the"
         ]
     },
     {
@@ -2152,78 +2143,93 @@
         ]
     },
     {
-        "title": "Ministers to back regulation of England\u2019s funeral industry after scandals",
-        "link": "https://www.theguardian.com/uk-news/2025/dec/16/ministers-back-regulation-england-funeral-industry-scandals-inquirys",
-        "summary": "Demands for oversight grow after inquiry calls sector an unregulated free for all and families seek stronger safeguardsMinisters are expected to back calls to regulate Englands funeral industry for th...",
+        "title": "Thames Water defers controversial \u00a32.5m in bonuses to bosses",
+        "link": "https://www.theguardian.com/business/2025/dec/16/thames-water-defers-bonuses-bosses",
+        "summary": "Heavily indebted utility puts back retention payments for 21 executives until new year amid search for rescue dealThames Water has deferred awarding bosses retention payments totalling 2.5m, avoiding ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 61,
         "sentiment": "Positive",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "\u2019 s funeral industry",
-            "inquiry calls sector",
-            "funeral industry"
+            "water defers",
+            "controversial \u00a32.5m",
+            "retention payments"
         ]
     },
     {
-        "title": "One in nine teenagers in England and Wales asked to handle drugs, weapons or money",
-        "link": "https://www.theguardian.com/uk-news/2025/dec/16/teenagers-approached-criminals-drugs-weapons-gangs",
-        "summary": "Youth Endowment Fund survey finds a quarter of 13- to 17-year-olds are enticed or scared into committing crimesOne in nine teenagers have been approached by criminals to sell, move or store drugs, wea...",
+        "title": "Liverpool parade attack: driver \u2018appalled by his own conduct\u2019 as sentence due \u2013 live",
+        "link": "https://www.theguardian.com/uk-news/live/2025/dec/16/liverpool-parade-paul-doyle-sentencing-latest-updates",
+        "summary": "Paul Doyles previous assault convictions listed at sentencing hearing together with victim statementsAs a reminder, on Monday, prosecutors said in the space of two minutes, Doyles Ford Galaxy  which w...",
         "source": "World news | The Guardian",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "money youth",
-            "fund survey",
-            "store drugs"
-        ]
-    },
-    {
-        "title": "Donald Trump sues BBC for up to $10bn over edit of January 6 speech",
-        "link": "https://www.theguardian.com/us-news/2025/dec/15/trump-bbc-lawsuit",
-        "summary": "President accuses corporation of intentionally, maliciously and deceptively editing speech in Panorama broadcastDonald Trump has filed a lawsuit against the BBC over its editing of a speech he made to...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "donald trump",
-            "$ 10bn",
-            "speech president accuses corporation"
-        ]
-    },
-    {
-        "title": "Alan Milburn launches major UK review into rising inactivity among young people",
-        "link": "https://www.theguardian.com/society/2025/dec/16/alan-milburn-launches-major-uk-review-into-rising-inactivity-among-young-people",
-        "summary": "Report to highlight uncomfortable truths and could recommend radical change, former health secretary saysA major review into rising inactivity among Britains young people has been launched by the form...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 53,
         "sentiment": "Negative",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "alan milburn",
-            "young people",
-            "uncomfortable truths"
+            "parade attack",
+            "driver \u2018",
+            "own conduct \u2019"
         ]
     },
     {
-        "title": "Nissan begins production of new electric car in Sunderland",
-        "link": "https://www.theguardian.com/business/2025/dec/16/nissan-begins-production-of-new-electric-car-in-sunderland",
-        "summary": "Launch of third generation of Leaf follows investment of more than 450m into model, including 300m direct to UKNissan has started the production of its latest electric car in Sunderland, a crucial ste...",
+        "title": "Ministers look at depoliticising top BBC jobs as Farage rides high in polls",
+        "link": "https://www.theguardian.com/media/2025/dec/16/depoliticising-bbc-jobs-nigel-farage-high-in-polls",
+        "summary": "Crucial talks begin on corporations future amid efforts to protect it from government influenceMinisters are examining plans that would increase the BBCs independence from politicians, including endin...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
+        "objectivity_score": 54,
         "sentiment": "Positive",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "new electric car",
-            "sunderland launch",
-            "electric car"
+            "corporations future",
+            "government influenceministers",
+            "political appointments"
+        ]
+    },
+    {
+        "title": "UK spying laws could result in overreach and real harm, says review",
+        "link": "https://www.theguardian.com/uk-news/2025/dec/16/uk-spying-laws-could-result-in-overreach-real-harm-review",
+        "summary": "Jonathan Hall KC warns of people being wrongly investigated and of impact on journalists and thinktanksEspionage offences in the UKs new National Security Act are so broadly defined that they will res...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "real harm",
+            "thinktanksespionage offences",
+            "new national security act"
+        ]
+    },
+    {
+        "title": "Richard Tice refuses to condemn Reform UK candidate who said David Lammy should \u2018go home\u2019 \u2013 UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2025/dec/16/donald-trump-bbc-lawsuit-keir-starmer-kemi-badenoch-reaction-latest-news-updates",
+        "summary": "Mayoral candidate Chris Parry had previously said the deputy prime minister should go home to the CaribbeanLisa Nandy, the culture secretary, has published a green paper on BBC charter renewal. It inc...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "richard tice",
+            "reform uk",
+            "david lammy"
+        ]
+    },
+    {
+        "title": "Merch commemorating drunk Virginia raccoon raises over $250,000 for animal shelter",
+        "link": "https://www.theguardian.com/world/2025/dec/16/drunk-virginia-raccoon-merch-fundraiser",
+        "summary": "Staff at the Ashland animal shelter sold merch of raccoon they cared for after he was found passed out in a liquor storeMerchandise commemorating the raccoon that gained international fame by barging ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 53,
+        "sentiment": "Neutral",
+        "date": "2025-12-16",
+        "image_url": null,
+        "keywords": [
+            "raccoon raises",
+            "animal shelter",
+            "animal shelter"
         ]
     },
     {
@@ -2257,21 +2263,6 @@
         ]
     },
     {
-        "title": "US military says deadly strikes carried out on three vessels in eastern Pacific",
-        "link": "https://www.theguardian.com/us-news/2025/dec/15/us-military-strikes-vessels-pacific",
-        "summary": "US Southern Command says eight men killed in attacks on boats it said it were engaged in narco-trafficking The US military has launched a fresh round of deadly strikes on foreign vessels suspected of ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 21,
-        "sentiment": "Neutral",
-        "date": "2025-12-16",
-        "image_url": null,
-        "keywords": [
-            "pacific us",
-            "southern command",
-            "fresh round"
-        ]
-    },
-    {
         "title": "Trump files up to $10bn lawsuit against BBC over edit of Capitol speech \u2013 as it happened",
         "link": "https://www.theguardian.com/us-news/live/2025/dec/15/ilhan-omar-trump-immigration-politics-latest-updates",
         "summary": "This live blog is now closed. You can find more of our US politics coverage hereDonald Trump sues BBC for up to $10bn over edit of January 6 speechCNBC reported last week that Trump could sign an exec...",
@@ -2287,18 +2278,18 @@
         ]
     },
     {
-        "title": "Trump brands fentanyl a \u2018weapon of mass destruction\u2019 in drug war escalation",
-        "link": "https://www.theguardian.com/us-news/2025/dec/15/trump-fentanyl-weapon-of-mass-destruction-drug-war",
-        "summary": "Order classifies opioid as potential chemical weapon amid administrations attempts to combat drug smugglingDonald Trump signed an executive order on Monday designating fentanyl as a weapon of mass des...",
+        "title": "Donald Trump sues BBC for up to $10bn over edit of January 6 speech",
+        "link": "https://www.theguardian.com/us-news/2025/dec/15/trump-bbc-lawsuit",
+        "summary": "President accuses corporation of intentionally, maliciously and deceptively editing speech in Panorama broadcastDonald Trump has filed a lawsuit against the BBC over its editing of a speech he made to...",
         "source": "World news | The Guardian",
-        "objectivity_score": 100,
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2025-12-16",
         "image_url": null,
         "keywords": [
-            "brands fentanyl",
-            "\u2018 weapon",
-            "mass destruction \u2019"
+            "donald trump",
+            "$ 10bn",
+            "speech president accuses corporation"
         ]
     }
 ]
