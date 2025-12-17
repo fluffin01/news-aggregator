@@ -737,59 +737,18 @@
         ]
     },
     {
-        "title": "Starmer calls doctors' strike 'dangerous' as five-day walkout begins",
-        "link": "https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&at_campaign=rss",
-        "summary": "British Medical Association members started the 14th walkout over pay in England at 07:00 on Wednesday.",
+        "title": "Abramovich must pay \u00a32.5bn from Chelsea FC sale to Ukraine fund or face court, Starmer says",
+        "link": "https://www.bbc.com/news/articles/cx2e64lr3zeo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Russian oligarch was forced to sell up when he was sanctioned for his ties to the Kremlin - but the money remains frozen in a British bank account.",
         "source": "BBC News",
-        "objectivity_score": 30,
+        "objectivity_score": 6,
         "sentiment": "Negative",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "strike 'dangerous",
-            "five-day walkout",
-            "british medical association members"
-        ]
-    },
-    {
-        "title": "Duke of Marlborough charged with intentional strangulation",
-        "link": "https://www.bbc.com/news/articles/cd9zv78dqzgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The 70-year-old is accused of attacking the same person in Oxfordshire between 2022 and 2024.",
-        "source": "BBC News",
-        "objectivity_score": 12,
-        "sentiment": "Neutral",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "intentional strangulation"
-        ]
-    },
-    {
-        "title": "Boy, 15, charged with murder of girl, 9, as police name victim",
-        "link": "https://www.bbc.com/news/articles/cvgj05x91yxo?at_medium=RSS&at_campaign=rss",
-        "summary": "The teenager has been charged over the death of Aria Thorpe at a house in Weston-super-Mare.",
-        "source": "BBC News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "police name victim",
-            "aria thorpe"
-        ]
-    },
-    {
-        "title": "Lower clothing and food prices help inflation fall by more than expected",
-        "link": "https://www.bbc.com/news/articles/cy7vjz3ngy7o?at_medium=RSS&at_campaign=rss",
-        "summary": "The 3.2% November figure is down on the 3.6% recorded in the year to October.",
-        "source": "BBC News",
-        "objectivity_score": 39,
-        "sentiment": "Neutral",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "food prices",
-            "inflation fall"
+            "chelsea fc",
+            "russian oligarch",
+            "british bank account"
         ]
     },
     {
@@ -806,18 +765,102 @@
         ]
     },
     {
-        "title": "Left-wing candidate beats Starmer ally to lead UK's biggest union",
-        "link": "https://www.bbc.com/news/articles/ce3wdv7rg67o?at_medium=RSS&at_campaign=rss",
-        "summary": "Andrea Egan, who was expelled from Labour three years ago, replaces Unison's current general secretary Christina McAnea.",
+        "title": "Why this month's inflation figure may be good news for you",
+        "link": "https://www.bbc.com/news/articles/c0r9x1xx0x7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The rate of inflation, which charts the rising cost of living, has slowed - driven partly by essentials.",
         "source": "BBC News",
-        "objectivity_score": 45,
+        "objectivity_score": 60,
+        "sentiment": "Positive",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "month 's inflation figure",
+            "good news"
+        ]
+    },
+    {
+        "title": "Duke of Marlborough charged with intentional strangulation",
+        "link": "https://www.bbc.com/news/articles/cd9zv78dqzgo?at_medium=RSS&at_campaign=rss",
+        "summary": "The 70-year-old is accused of attacking the same person in Oxfordshire between 2022 and 2024.",
+        "source": "BBC News",
+        "objectivity_score": 12,
         "sentiment": "Neutral",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "candidate beats",
-            "andrea egan",
-            "current general secretary"
+            "intentional strangulation"
+        ]
+    },
+    {
+        "title": "Boy, 15, appears in court over murder of girl, 9",
+        "link": "https://www.bbc.com/news/articles/cvgj05x91yxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Aria Thorpe's family say the nine-year-old was \"bubbly\" and loved country music.",
+        "source": "BBC News",
+        "objectivity_score": 80,
+        "sentiment": "Positive",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "aria thorpe",
+            "'s family",
+            "country music"
+        ]
+    },
+    {
+        "title": "Polar bear mother adopts cub in rarely documented case",
+        "link": "https://www.bbc.com/news/articles/cvg803v3erko?at_medium=RSS&at_campaign=rss",
+        "summary": "It's only the 13th known case of adoption out of the 4,600 bears studied for nearly five decades in the northern Canadian area.",
+        "source": "BBC News",
+        "objectivity_score": 51,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "mother adopts cub",
+            "northern canadian area"
+        ]
+    },
+    {
+        "title": "Starmer calls doctors' strike 'dangerous' as five-day walkout begins in England",
+        "link": "https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The doctors' union, the British Medical Association, said it was time the government came up with \"a genuinely long-term plan\" on pay and jobs.",
+        "source": "BBC News",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "strike 'dangerous",
+            "five-day walkout",
+            "british medical association"
+        ]
+    },
+    {
+        "title": "True origin of 'first black Briton' revealed",
+        "link": "https://www.bbc.com/news/articles/ce86jzgxxy4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Scientists say they now know where the 'Beachy Head Lady', an ancient skeleton, actually came from.",
+        "source": "BBC News",
+        "objectivity_score": 37,
+        "sentiment": "Positive",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "ancient skeleton"
+        ]
+    },
+    {
+        "title": "UK will rejoin Erasmus student scheme in 2027",
+        "link": "https://www.bbc.com/news/articles/cg4ng7ee9vwo?at_medium=RSS&at_campaign=rss",
+        "summary": "The UK  left in December 2020 as part of the post-Brexit trade deal with the EU negotiated by Boris Johnson.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "student scheme",
+            "post-brexit trade",
+            "boris johnson"
         ]
     },
     {
@@ -835,6 +878,61 @@
         ]
     },
     {
+        "title": "Warner Bros favours Netflix offer over $108bn Paramount bid",
+        "link": "https://www.bbc.com/news/articles/cz687wv9vqxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Warner Brothers says the offer for its film and streaming businesses is inferior to Netflix's.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "warner bros",
+            "$ 108bn"
+        ]
+    },
+    {
+        "title": "'I learned languages and travelled Europe through Erasmus'",
+        "link": "https://www.bbc.com/news/articles/cly0d9je56zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Several years after it was scrapped, the UK is now set to rejoin the Erasmus scheme in 2027.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "news"
+        ]
+    },
+    {
+        "title": "For decades, their families searched for diamonds. Now childhood friends find a \u00a341,000 gem",
+        "link": "https://www.bbc.com/news/articles/c80x39d44klo?at_medium=RSS&at_campaign=rss",
+        "summary": "The friends dug up the 15.34-carat gem-quality diamond in central India.",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "childhood friends",
+            "\u00a341,000 gem",
+            "15.34-carat gem-quality diamond"
+        ]
+    },
+    {
+        "title": "How England can keep Ashes alive on pivotal day",
+        "link": "https://www.bbc.com/sport/cricket/articles/cz7n80vj4dyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Whether the Ashes series remains alive beyond Christmas rests on how England bat on day two of the third Test in Adelaide.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "pivotal day"
+        ]
+    },
+    {
         "title": "Timoth\u00e9e Chalamet on table tennis, his twenties and his love of... Susan Boyle",
         "link": "https://www.bbc.com/news/articles/clyd1m47rkro?at_medium=RSS&at_campaign=rss",
         "summary": "The US actor is tipped for an Oscar nomination for his portrayal of table tennis star Marty Mauser.",
@@ -847,51 +945,6 @@
             "timoth\u00e9e chalamet",
             "table tennis",
             "susan boyle"
-        ]
-    },
-    {
-        "title": "Miss Finland's viral 'slanted-eyes' photo stirs racism firestorm",
-        "link": "https://www.bbc.com/news/articles/cde657xj3pxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ex- Miss Universe contestant Sarah Dzafce has drawn backlash in East Asia and in her own country.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Positive",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "miss finland",
-            "'s viral 'slanted-eyes",
-            "photo stirs racism firestorm"
-        ]
-    },
-    {
-        "title": "England battle against Alex Carey hundred in crucial Ashes Test",
-        "link": "https://www.bbc.com/sport/cricket/articles/c208dey38ypo?at_medium=RSS&at_campaign=rss",
-        "summary": "England battle hard to stay in the Ashes as Alex Careys century leads Australia to 326-8 on the first day of the third Test.",
-        "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "alex carey",
-            "ashes test england",
-            "alex careys"
-        ]
-    },
-    {
-        "title": "'My opponents get angry when they lose': Girl, 9, wants to become world's best chess player",
-        "link": "https://www.bbc.com/news/articles/c0r9jyxpp5jo?at_medium=RSS&at_campaign=rss",
-        "summary": "The nine-year-old  is hoping to become the best chess player in the world in her age category.",
-        "source": "BBC News",
-        "objectivity_score": 42,
-        "sentiment": "Positive",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "'my opponents",
-            "world 's",
-            "chess player"
         ]
     },
     {
@@ -938,104 +991,107 @@
         ]
     },
     {
-        "title": "'It's just a nightmare': Ten-year-old victim's mum speaks at Bondi memorial",
-        "link": "https://www.bbc.com/news/videos/c93w7y8475qo?at_medium=RSS&at_campaign=rss",
-        "summary": "The mother of 10-year-old Matilda, the youngest victim of the Bondi Beach attack, paid tribute to her daughter at a flower memorial on Tuesday evening.",
+        "title": "Caesarean sections overtake natural vaginal births for the first time",
+        "link": "https://www.bbc.com/news/articles/c5yqjezrnj4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Experts say there is a complex picture behind why more babies are being delivered through surgery.",
         "source": "BBC News",
-        "objectivity_score": 5,
+        "objectivity_score": 46,
         "sentiment": "Neutral",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "'it 's",
-            "victim 's mum speaks",
-            "beach attack"
+            "natural vaginal births",
+            "time experts",
+            "complex picture"
         ]
     },
     {
-        "title": "Essay cheating at universities an 'open secret'",
-        "link": "https://www.bbc.com/news/articles/cn8er32715do?at_medium=RSS&at_campaign=rss",
-        "summary": "An essay mill owner says he's made millions, while an ex-lecturer says he quit due to rife cheating.",
+        "title": "Nato spending pledge is Trump's biggest foreign policy success, Rutte tells BBC",
+        "link": "https://www.bbc.com/news/articles/cx2p4vw595jo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Nato chief said it was thanks to Donald Trump that the alliance is \"stronger than it ever was\".",
         "source": "BBC News",
-        "objectivity_score": 52,
-        "sentiment": "Negative",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "essay mill owner"
-        ]
-    },
-    {
-        "title": "Nick Reiner charged with murder of his parents Rob and Michele",
-        "link": "https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Rob Reiner, the Hollywood director, and his wife Michele were both found dead with stab wounds on Sunday.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "nick reiner",
-            "michele rob reiner",
-            "stab wounds"
-        ]
-    },
-    {
-        "title": "Learner drivers face 24-week wait as backlog set to continue for two more years",
-        "link": "https://www.bbc.com/news/articles/cqlkg11d5gxo?at_medium=RSS&at_campaign=rss",
-        "summary": "The National Audit Office said there was a backlog of 1.1 million learner driver tests since the Covid-19 pandemic.",
-        "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 10,
         "sentiment": "Positive",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "learner driver tests"
+            "foreign policy success",
+            "donald trump"
         ]
     },
     {
-        "title": "Classical music broadcaster Sir Humphrey Burton dies",
-        "link": "https://www.bbc.com/news/articles/cly50gm0r7mo?at_medium=RSS&at_campaign=rss",
-        "summary": "He presented the BBC's Omnibus and In Performance, and also hosted shows on Radio 3 and Classic FM.",
+        "title": "Billionaire Jared Isaacman confirmed as  Nasa chief after turbulent nomination",
+        "link": "https://www.bbc.com/news/articles/c5ydvlx28kwo?at_medium=RSS&at_campaign=rss",
+        "summary": "The amateur jet pilot is the the first NASA administrator in decades to come directly from outside government.",
         "source": "BBC News",
-        "objectivity_score": 8,
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "music broadcaster",
-            "sir humphrey burton",
-            "classic fm"
+            "billionaire jared isaacman",
+            "turbulent nomination",
+            "amateur jet pilot"
         ]
     },
     {
-        "title": "Weight-loss jab ads banned for exploiting body insecurities",
-        "link": "https://www.bbc.com/news/articles/cly5v89xny3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Three social media adverts are found to be irresponsible, with one targeting new mums.",
+        "title": "Man arrested over husband and wife's 1993 unsolved murders",
+        "link": "https://www.bbc.com/news/articles/c0mpj88k2xpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Harry and Megan Tooze were found dead with gunshot wounds at their farm more than 30 years ago.",
         "source": "BBC News",
-        "objectivity_score": 26,
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "wife 's",
+            "megan tooze",
+            "gunshot wounds"
+        ]
+    },
+    {
+        "title": "Miss Finland's viral 'slanted-eyes' photo stirs racism firestorm",
+        "link": "https://www.bbc.com/news/articles/cde657xj3pxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ex- Miss Universe contestant Sarah Dzafce has drawn backlash in East Asia and in her own country.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Positive",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "miss finland",
+            "'s viral 'slanted-eyes",
+            "photo stirs racism firestorm"
+        ]
+    },
+    {
+        "title": "Man, 87, waits seven hours for ambulance on garden centre floor",
+        "link": "https://www.bbc.com/news/articles/c3v1705y2yro?at_medium=RSS&at_campaign=rss",
+        "summary": "James Craig waited hours for medical help after he broke his leg and hurt his hip in a fall.",
+        "source": "BBC News",
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "jab ads",
-            "body insecurities",
-            "social media adverts"
+            "garden centre floor",
+            "james craig",
+            "medical help"
         ]
     },
     {
-        "title": "Warner Bros to reject $108bn Paramount bid, reports say",
-        "link": "https://www.bbc.com/news/articles/cz687wv9vqxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Warner Bros will reportedly advise its shareholders to vote against the offer as early as Wednesday.",
+        "title": "Spain to open network of climate shelters",
+        "link": "https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Prime Minister Pedro Sanchez says the shelters will be in public buildings across the country.",
         "source": "BBC News",
-        "objectivity_score": 30,
+        "objectivity_score": 28,
         "sentiment": "Neutral",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "warner bros",
-            "reject $ 108bn",
-            "warner bros"
+            "climate shelters",
+            "pedro sanchez",
+            "public buildings"
         ]
     },
     {
@@ -1095,7 +1151,20 @@
         ]
     },
     {
-        "title": "Operator error behind controversial Carey reprieve",
+        "title": "This is it - how England can keep Ashes alive on pivotal day",
+        "link": "https://www.bbc.com/sport/cricket/articles/cz7n80vj4dyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Whether the Ashes series remains alive beyond Christmas rests on how England bat on day two of the third Test in Adelaide.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "pivotal day"
+        ]
+    },
+    {
+        "title": "Snicko operator error behind controversial Carey reprieve",
         "link": "https://www.bbc.com/sport/cricket/articles/c0mpjw7g7nko?at_medium=RSS&at_campaign=rss",
         "summary": "The company that owns the Snicko technology takes \"full responsibility\" for the error that reprieved Australia wicketkeeper Alex Carey on day one of the third Ashes Test.",
         "source": "BBC News",
@@ -1104,23 +1173,38 @@
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
+            "operator error",
             "full responsibility",
-            "alex carey",
-            "ashes test"
+            "alex carey"
         ]
     },
     {
-        "title": "England battle despite Carey ton in crucial Test",
-        "link": "https://www.bbc.com/sport/cricket/articles/c208dey38ypo?at_medium=RSS&at_campaign=rss",
-        "summary": "England battle hard to stay in the Ashes as Alex Careys century leads Australia to 326-8 on the first day of the third Test.",
+        "title": "Macclesfield forward McLeod dies in car accident",
+        "link": "https://www.bbc.com/sport/football/articles/c5yj8094202o?at_medium=RSS&at_campaign=rss",
+        "summary": "Macclesfield forward Ethan McLeod has died in a car accident on the M1 motorway while travelling back from a game.",
         "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
+        "objectivity_score": 20,
+        "sentiment": "Negative",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "test england",
-            "alex careys"
+            "car accident",
+            "ethan mcleod",
+            "car accident"
+        ]
+    },
+    {
+        "title": "Lawwell cites 'abuse and threats' as he quits as Celtic chairman",
+        "link": "https://www.bbc.com/sport/football/articles/c14v577n5pmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Peter Lawwell is to stand down as Celtic chairman at the end of December, citing \"abuse and threats from some sources\".",
+        "source": "BBC News",
+        "objectivity_score": 28,
+        "sentiment": "Negative",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "cites 'abuse",
+            "peter lawwell"
         ]
     },
     {
@@ -1139,20 +1223,6 @@
         ]
     },
     {
-        "title": "'Felt like humiliation' - Egypt reacts to Salah's Liverpool row",
-        "link": "https://www.bbc.com/sport/articles/clydxyg1l4do?at_medium=RSS&at_campaign=rss",
-        "summary": "Mohamed Salah's Liverpool row felt like \"humiliation\" for Egyptian fans, who are rallying behind their star man before the Africa Cup of Nations begins.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Negative",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "mohamed salah",
-            "star man"
-        ]
-    },
-    {
         "title": "Carey scores century but third Test in the balance after day one",
         "link": "https://www.bbc.com/sport/cricket/videos/c4g4x0yde3yo?at_medium=RSS&at_campaign=rss",
         "summary": "Alex Carey hit 106 off 143 balls to help Australia recover from 94-4 to 326-8 at stumps on the opening day of the third Ashes Test against England in Adelaide, in a must-win match for Ben Stokes' side...",
@@ -1168,48 +1238,33 @@
         ]
     },
     {
-        "title": "Antonelli goes incognito at Milton Keynes go-kart race",
-        "link": "https://www.bbc.com/news/articles/cgke26n55zgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The driver gets two penalty points but manages to clock the fastest lap of the session.",
+        "title": "How the Prem transfer market got hot",
+        "link": "https://www.bbc.com/sport/rugby-union/articles/c4g94wjj4geo?at_medium=RSS&at_campaign=rss",
+        "summary": "The intrigue and interest around player movements has exploded in recent weeks and could be a useful tool for engaging new fans.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "milton keynes",
-            "go-kart race",
-            "penalty points"
+            "player movements",
+            "recent weeks",
+            "useful tool"
         ]
     },
     {
-        "title": "Alcaraz announces shock split with coach Ferrero",
-        "link": "https://www.bbc.com/sport/tennis/articles/c0mpj8427pzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Six-time major champion Carlos Alcaraz splits with his coach Juan Carlos Ferrero in a shock move.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "announces shock",
-            "ferrero six-time",
-            "major champion"
-        ]
-    },
-    {
-        "title": "Grief Mixes With Anger at Funeral of Rabbi Killed in Bondi Beach Attack",
-        "link": "https://www.nytimes.com/2025/12/17/world/asia/rabbi-eli-schlanger-funeral-bondi-shooting.html",
-        "summary": "The funeral for Rabbi Eli Schlanger on Wednesday was the first held for one of the 15 people killed in a mass shooting at a Jewish celebration in Sydney, Australia.",
+        "title": "Trump Revised Chevron\u2019s Venezuela Deal. Maduro\u2019s Oil Trader Profited.",
+        "link": "https://www.nytimes.com/2025/12/17/world/americas/trump-chevron-venezuela-oil.html",
+        "summary": "A firm controlled by a businessman tied to a seized tanker carrying Venezuelan oil has sold millions of barrels from a Chevron-operated oil field.",
         "source": "NYT > World News",
-        "objectivity_score": 12,
+        "objectivity_score": 40,
         "sentiment": "Negative",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "grief mixes",
-            "rabbi killed",
-            "rabbi eli schlanger"
+            "trump revised chevron",
+            "venezuela deal",
+            "\u2019 s oil"
         ]
     },
     {
@@ -1241,18 +1296,46 @@
         ]
     },
     {
-        "title": "Trump Revised Chevron\u2019s Venezuela Deal. Maduro\u2019s Oil Trader Profited.",
-        "link": "https://www.nytimes.com/2025/12/17/world/americas/trump-chevron-venezuela-oil.html",
-        "summary": "A firm controlled by a businessman sanctioned by the U.S. Treasury for ties to President Nicols Maduro of Venezuela has sold millions of barrels from a Chevron-operated oil field.",
+        "title": "On Bali, the Holiday Vibe Masks Memories of a Massacre",
+        "link": "https://www.nytimes.com/2025/12/17/world/asia/bali-indonesia-communist-massacres.html",
+        "summary": "Sixty years ago, half a million Indonesians were killed in anti-Communist purges. On Bali, resorts and clubs were built atop mass graves.",
         "source": "NYT > World News",
-        "objectivity_score": 40,
+        "objectivity_score": 8,
         "sentiment": "Negative",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "trump revised chevron",
-            "venezuela deal",
-            "\u2019 s oil"
+            "holiday vibe masks memories",
+            "massacre sixty",
+            "anti-communist purges"
+        ]
+    },
+    {
+        "title": "Bondi Beach Shooting Is a Reminder of ISIS\u2019s Power to Inspire Attacks",
+        "link": "https://www.nytimes.com/2025/12/17/world/europe/islamic-state-attacks-australia.html",
+        "summary": "ISIS is too weakened to seize territory, experts said, but its ability to churn out propaganda aimed at provoking violence against the West persists.",
+        "source": "NYT > World News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "bondi"
+        ]
+    },
+    {
+        "title": "South Africa Arrests Workers Processing U.S. Refugee Applications",
+        "link": "https://www.nytimes.com/2025/12/17/world/africa/south-africa-kenya-workers.html",
+        "summary": "Seven Kenyans were detained for working in the country illegally, officials said. The arrests came amid rising tensions after the United States prioritized white Afrikaners seeking asylum.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Negative",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "africa arrests",
+            "processing u.s",
+            "refugee applications"
         ]
     },
     {
@@ -1268,6 +1351,35 @@
             "who refused",
             "attack tiananmen",
             "xu qinxian"
+        ]
+    },
+    {
+        "title": "Grief Mixes With Anger at Funeral of Rabbi Killed in Bondi Beach Attack",
+        "link": "https://www.nytimes.com/2025/12/17/world/asia/rabbi-eli-schlanger-funeral-bondi-shooting.html",
+        "summary": "The funeral for Rabbi Eli Schlanger on Wednesday was the first held for one of the 15 people killed in a mass shooting at a Jewish celebration in Sydney, Australia.",
+        "source": "NYT > World News",
+        "objectivity_score": 12,
+        "sentiment": "Negative",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "grief mixes",
+            "rabbi killed",
+            "rabbi eli schlanger"
+        ]
+    },
+    {
+        "title": "UK Rejoins EU\u2019s Erasmus Student Exchange Program That It Left After Brexit",
+        "link": "https://www.nytimes.com/2025/12/17/world/europe/uk-eu-erasmus-scheme-students-brexit.html",
+        "summary": "The government said it would pay about $760 million to allow young Britons to take part in 2027.",
+        "source": "NYT > World News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "uk rejoins eu",
+            "student exchange"
         ]
     },
     {
@@ -1342,77 +1454,32 @@
         ]
     },
     {
-        "title": "Australia Doubles Down on Gun Control in Wake of Bondi Beach Shooting",
-        "link": "https://www.nytimes.com/2025/12/16/world/australia/australia-gun-control-bondi-shooting.html",
-        "summary": "The country has long looked warily at the cycle of gun violence in the United States, where meaningful changes in policy have been rare.",
+        "title": "Surviving Bondi Suspect Charged With Terrorism and Murder",
+        "link": "https://www.nytimes.com/video/world/australia/100000010592674/bondi-suspect-charged-terrorism-murder.html",
+        "summary": "The surviving suspect in the mass shooting at Bondi Beach in Sydney, Australia, on Sunday, in which at least 15 people were killed, has been charged with murder and terrorism, the police said on Wedne...",
         "source": "NYT > World News",
-        "objectivity_score": 55,
-        "sentiment": "Neutral",
+        "objectivity_score": 20,
+        "sentiment": "Negative",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "australia doubles down",
-            "gun violence",
-            "meaningful changes"
+            "surviving bondi suspect charged",
+            "mass shooting"
         ]
     },
     {
-        "title": "France Passes Welfare Budget Law, Giving Government Rare Win",
-        "link": "https://www.nytimes.com/2025/12/16/world/europe/france-budget-law-lecornu-macron.html",
-        "summary": "Sbastien Lecornu, the third French prime minister in less than a year, succeeded where his two predecessors failed  at least for now.",
+        "title": "Statue of Liberty Replica Collapses in Brazil",
+        "link": "https://www.nytimes.com/video/world/americas/100000010592933/brazil-statue-of-liberty-fall.html",
+        "summary": "Strong winds knocked over a replica of the Statue of Liberty outside of a department store in southern Brazil. There were no injuries, according to Brazilian local media.",
         "source": "NYT > World News",
-        "objectivity_score": 29,
-        "sentiment": "Neutral",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "france passes",
-            "rare win sbastien lecornu",
-            "french prime minister"
-        ]
-    },
-    {
-        "title": "Rome\u2019s New Subway Stops Are Part Museum, Part Station",
-        "link": "https://www.nytimes.com/2025/12/16/world/europe/rome-subway-stations-museum-archaeology.html",
-        "summary": "Part station, part museum, two new subway stops in Rome offer riders the chance to see ancient artifacts unearthed in digging for the stations.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
+        "objectivity_score": 19,
         "sentiment": "Positive",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "subway stops",
-            "part museum",
-            "new subway stops"
-        ]
-    },
-    {
-        "title": "Mark Carney Caught in Canada\u2019s British Spelling Debate",
-        "link": "https://www.nytimes.com/2025/12/16/world/canada/carney-british-spelling.html",
-        "summary": "Some words spelled the British way are emerging in Canadian government documents. A group of language experts say the changes undermine Canadas identity.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "mark carney caught",
-            "british way",
-            "canadian government documents"
-        ]
-    },
-    {
-        "title": "UK Rejoins EU\u2019s Erasmus Student Exchange Program That It Left After Brexit",
-        "link": "https://www.nytimes.com/2025/12/17/world/europe/uk-eu-erasmus-scheme-students-brexit.html",
-        "summary": "The government said it would pay about $760 million to allow young Britons to take part in 2027.",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "uk rejoins eu",
-            "student exchange"
+            "liberty replica collapses",
+            "brazil strong",
+            "department store"
         ]
     },
     {
@@ -1428,21 +1495,6 @@
             "rabbi eli schlanger",
             "key organizer",
             "jewish event"
-        ]
-    },
-    {
-        "title": "On Bali, the Holiday Vibe Masks Memories of a Massacre",
-        "link": "https://www.nytimes.com/2025/12/17/world/asia/bali-indonesia-communist-massacres.html",
-        "summary": "Sixty years ago, half a million Indonesians were killed in anti-Communist purges. On Bali, resorts and clubs were built atop mass graves.",
-        "source": "NYT > World News",
-        "objectivity_score": 8,
-        "sentiment": "Negative",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "holiday vibe masks memories",
-            "massacre sixty",
-            "anti-communist purges"
         ]
     },
     {
@@ -1534,18 +1586,18 @@
         ]
     },
     {
-        "title": "U.S. Is Seeking Exemption From a European Climate Law, Officials Say",
-        "link": "https://www.nytimes.com/2025/12/16/climate/trump-europe-methane-rules.html",
-        "summary": "Diplomats told E.U. officials that the blocs law on methane, a potent greenhouse gas, would hurt American oil and gas companies.",
+        "title": "Rome\u2019s New Subway Stops Are Part Museum, Part Station",
+        "link": "https://www.nytimes.com/2025/12/16/world/europe/rome-subway-stations-museum-archaeology.html",
+        "summary": "Part station, part museum, two new subway stops in Rome offer riders the chance to see ancient artifacts unearthed in digging for the stations.",
         "source": "NYT > World News",
-        "objectivity_score": 16,
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "say diplomats",
-            "blocs law",
-            "potent greenhouse gas"
+            "subway stops",
+            "part museum",
+            "new subway stops"
         ]
     },
     {
@@ -1624,6 +1676,51 @@
         ]
     },
     {
+        "title": "Scientists log rare case of female polar bear adopting cub: \u2018They\u2019re really good moms\u2019",
+        "link": "https://www.theguardian.com/world/2025/dec/17/canada-polar-bear-adopts-new-cub",
+        "summary": "Canadian researchers tracking bear known as X33991 noticed she had gained a second cub who likely needed helpScientists in Canada have documented a rare case of female polar bear adopting a new cub, i...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 41,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "rare case",
+            "female polar",
+            "good moms \u2019"
+        ]
+    },
+    {
+        "title": "What action is Trump taking against Venezuela\u2019s oil industry?",
+        "link": "https://www.theguardian.com/world/2025/dec/17/what-action-is-trump-taking-against-venezuela-oil-industry",
+        "summary": "The US president wants a blockade of oil tankers under sanctions to stop them entering and leaving VenezuelaAnalysis: Maduro says the real reason for Trumps fixation is oil  is he right?Donald Trump h...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 19,
+        "sentiment": "Positive",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s oil industry",
+            "us president",
+            "oil tankers"
+        ]
+    },
+    {
+        "title": "British baker outrages Mexicans with attack on their \u2018ugly\u2019 bread",
+        "link": "https://www.theguardian.com/world/2025/dec/17/british-baker-outrages-mexicans-with-attack-on-ugly-bread",
+        "summary": "Food bloggers liken Richard Hart to Christopher Columbus for stomping on a country that has welcomed himA noted British baker has provoked a furore in Mexico by saying on a podcast the country does no...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "british baker outrages",
+            "ugly \u2019 bread",
+            "bloggers liken"
+        ]
+    },
+    {
         "title": "Trump orders blockade of sanctioned oil tankers entering and leaving Venezuela",
         "link": "https://www.theguardian.com/us-news/2025/dec/16/trump-orders-blockade-oil-tankers-venezuela",
         "summary": "Move comes amid escalating campaign against Maduro as Venezuelan government condemns grotesque threatDonald Trump has ordered a total and complete blockade of all sanctioned oil tankers entering and l...",
@@ -1654,48 +1751,18 @@
         ]
     },
     {
-        "title": "US designates Colombia\u2019s biggest drug cartel Gulf Clan as terrorist organization",
-        "link": "https://www.theguardian.com/world/2025/dec/16/gulf-clan-colombia-us-terrorist-organization",
-        "summary": "Marco Rubio calls drug-trafficking militia, present in at least 20 of Colombias departments, violent and powerfulThe US has designated the Gulf Clan, Colombias largest and most powerful illegal armed ...",
+        "title": "Bondi terror suspects spent whole Philippines visit in city and rarely left hotel, staff and police say",
+        "link": "https://www.theguardian.com/australia-news/2025/dec/17/bondi-terror-suspects-spent-whole-philippines-visit-in-city-and-rarely-left-hotel-staff-and-police-say",
+        "summary": "Philippine police dismiss speculation Naveed and Sajid Akram underwent training during four-week stay in Davao CityThe Bondi terror attacks suspects spent their entire four-week visit to the Philippin...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Negative",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "us designates",
-            "drug cartel gulf",
-            "terrorist organization"
-        ]
-    },
-    {
-        "title": "At least three authors withdraw from Hay festival in protest at Machado invite",
-        "link": "https://www.theguardian.com/world/2025/dec/16/hay-festival-maria-corina-machado",
-        "summary": "Writers cited Machados support for Trumps pressure campaign against Venezuelas Nicols MaduroAt least three writers have withdrawn from next months Hay festival in Cartagena, Colombia, in protest at an...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "pressure campaign",
-            "venezuelas nicols maduroat",
-            "opposition leader"
-        ]
-    },
-    {
-        "title": "Mark Carney criticised for using British spellings in Canadian documents",
-        "link": "https://www.theguardian.com/world/2025/dec/16/mark-carney-british-spellings-canada",
-        "summary": "Linguists say the prime ministers use of s instead of z breaks national English conventionsMark Carney says that amid a fundamental shift to the nature of globalisation, his government will catalyse t...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 11,
-        "sentiment": "Neutral",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "mark carney",
-            "british spellings",
-            "canadian documents"
+            "philippine police",
+            "sajid akram",
+            "underwent training"
         ]
     },
     {
@@ -1759,18 +1826,48 @@
         ]
     },
     {
-        "title": "Hong Kong: Jimmy Lai facing life in prison after conviction on security charges",
-        "link": "https://www.theguardian.com/world/2025/dec/15/jimmy-lai-verdict-hong-kong-judges-national-security-charges",
-        "summary": "Rights groups dismiss sham conviction of media tycoon on national security offences in citys most closely watched rulings in decadesThe rise and fall of Jimmy Lai, whose trajectory mirrored that of Ho...",
+        "title": "Frydenberg claims Albanese should accept \u2018personal responsibility\u2019 for Bondi attacks in escalation of rhetoric",
+        "link": "https://www.theguardian.com/australia-news/2025/dec/17/frydenberg-claims-albanese-should-accept-personal-responsibility-for-bondi-attacks-in-escalation-of-rhetoric-ntwnfb",
+        "summary": "PM condemns perversion of Islam that police allege may be behind the attackFull report: Bondi terror attackVictims of Bondi beach shootingWhat we know so far about the Bondi terror attackFollow the la...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 59,
+        "sentiment": "Positive",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "personal responsibility \u2019",
+            "condemns perversion",
+            "police allege"
+        ]
+    },
+    {
+        "title": "Andrew Hastie revealed conservative Liberals\u2019 true immigration agenda in the aftermath of the Bondi terror attack",
+        "link": "https://www.theguardian.com/australia-news/2025/dec/17/andrew-hastie-revealed-conservative-liberals-true-immigration-agenda-in-the-aftermath-of-the-bondi-terror-attack",
+        "summary": "In an interview with Sky News Andrew Clennell, Hastie ended any pretence that his grievances might have been purely numericalFull report: Bondi terror attack Victims of Bondi beach shootingWhat we kno...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 60,
         "sentiment": "Neutral",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "hong kong",
-            "jimmy lai",
-            "security charges"
+            "andrew hastie",
+            "conservative liberals \u2019",
+            "true immigration agenda"
+        ]
+    },
+    {
+        "title": "Parliamentary Friends of Aukus group sponsored by lobbying firm with high-profile defence clients",
+        "link": "https://www.theguardian.com/world/2025/dec/17/parliamentary-friends-of-aukus-group-sponsored-by-lobbying-firm-with-high-profile-defence-clients",
+        "summary": "Exclusive: Greens condemn sponsorship of groups launch by Precision Public Affairs, which represents clients with lucrative contracts with the Australian governmentA lobbying firm with high-profile de...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 31,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "high-profile defence clients",
+            "condemn sponsorship",
+            "groups launch"
         ]
     },
     {
@@ -1804,123 +1901,78 @@
         ]
     },
     {
-        "title": "Police officer shot in Bondi attack loses sight in one eye, as questions persist over security at Hanukah celebration",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/17/police-officer-shot-in-bondi-attack-loses-sight-in-one-eye-as-questions-persist-over-security-at-hanukah-celebration",
-        "summary": "Josh Frydenberg says three police patrolling the event were ill-equipped to protect citizens, but NSW premier again defends response    Victims of Bondi beach shootingWhat we know so far about the Bon...",
+        "title": "Putin calls European leaders \u2018little pigs\u2019 and says Russia will achieve Ukraine goals by diplomacy or force - Europe live",
+        "link": "https://www.theguardian.com/world/live/2025/dec/17/ukraine-russia-war-eu-european-council-frozen-assets-zelenskyy-europe-live-news",
+        "summary": "Russian leader says aims of its special military operation will be met unconditionallyThe last available Erasmus+ country report for the UK based on 2020 data shows that University of Glasgow, Univers...",
         "source": "World news | The Guardian",
-        "objectivity_score": 66,
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "european leaders \u2018",
+            "pigs \u2019",
+            "russian leader"
+        ]
+    },
+    {
+        "title": "Belgian politicians and finance bosses targeted by Russian intelligence over seized assets",
+        "link": "https://www.theguardian.com/world/2025/dec/17/belgian-politicians-finance-bosses-targeted-russian-intelligence-seized-assets",
+        "summary": "Exclusive: Key figures at frozen assets depository among targets of intimidation campaign, say European intelligence agenciesBelgian politicians and senior finance executives have been subject to a ca...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
         "sentiment": "Neutral",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "police officer shot",
-            "questions persist",
-            "josh frydenberg"
+            "belgian politicians",
+            "frozen assets depository",
+            "intimidation campaign"
         ]
     },
     {
-        "title": "Holocaust survivor, London-born rabbi and 10-year-old girl among those killed in Bondi attack",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/15/what-we-know-about-the-victims-of-the-bondi-beach-terror-attack",
-        "summary": "At least 16 people including one of the alleged gunmen died at the shooting in Sydney on Sunday, aged between 10 and 87This article is no longer being updated. The latest information is here. Holocaus...",
+        "title": "Brigitte Macron faces lawsuit after being filmed using sexist slur at Paris theatre",
+        "link": "https://www.theguardian.com/world/2025/dec/17/brigitte-macron-france-lawsuit-feminism-sales-connes",
+        "summary": "More than 300 women file complaint after video shows French first lady calling feminist protesters sales connesBrigitte Macron is facing a legal complaint from several organisations, including womens ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
+        "objectivity_score": 21,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "brigitte macron",
+            "faces lawsuit",
+            "sexist slur"
+        ]
+    },
+    {
+        "title": "Why young people are the big losers in Europe\u2019s dysfunctional housing system",
+        "link": "https://www.theguardian.com/world/2025/dec/17/this-is-europe-young-people-dysfunctional-housing-system-renting",
+        "summary": "The EU has unveiled its first-ever housing strategy, but is it enough to see off the far right and rescue a generation shut out of affordable living?Dont get This Is Europe delivered to your inbox? Si...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 48,
+        "sentiment": "Positive",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "young people",
+            "big losers",
+            "\u2019 s dysfunctional housing system"
+        ]
+    },
+    {
+        "title": "What is the row about the EU using frozen Russian assets to support Ukraine?",
+        "link": "https://www.theguardian.com/world/2025/dec/17/arguments-frozen-russian-assets-support-ukraine",
+        "summary": "Complex plan would involve EU lending 90bn to Ukraine, which some fear could destabilise Eurozone. Putin says move is akin to theftAfter months of debate, EU leaders will decide on Thursday whether or...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 20,
         "sentiment": "Negative",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "10-year-old girl",
-            "87this article",
-            "faith leaders"
-        ]
-    },
-    {
-        "title": "Frydenberg claims Albanese should accept \u2018personal responsibility\u2019 for Bondi attacks in escalation of rhetoric",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/17/frydenberg-claims-albanese-should-accept-personal-responsibility-for-bondi-attacks-in-escalation-of-rhetoric-ntwnfb",
-        "summary": "PM condemns perversion of Islam that police allege may be behind the attackFull report: Bondi terror attackVictims of Bondi beach shootingWhat we know so far about the Bondi terror attackFollow the la...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 59,
-        "sentiment": "Positive",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "personal responsibility \u2019",
-            "condemns perversion",
-            "police allege"
-        ]
-    },
-    {
-        "title": "EU politicians and universities welcome UK\u2019s decision to rejoin Erasmus as \u2018big step forward\u2019 - Europe live",
-        "link": "https://www.theguardian.com/world/live/2025/dec/17/ukraine-russia-war-eu-european-council-frozen-assets-zelenskyy-europe-live-news",
-        "summary": "Negotiations among EU leaders continue ahead of critical European Council meeting in Brussels on ThursdayThe last available Erasmus+ country report for the UK based on 2020 data shows that University ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s decision",
-            "big step",
-            "critical european council meeting"
-        ]
-    },
-    {
-        "title": "UK will transfer \u00a32.5bn of Abramovich cash to Ukraine fund, Starmer says",
-        "link": "https://www.theguardian.com/world/2025/dec/17/uk-will-transfer-abramovich-cash-from-sale-of-chelsea-to-ukraine-fund-starmer-says",
-        "summary": "Prime minister says oligarch must commit funds from sale of London football club or face court actionEurope live  latest updatesUK politics live  latest updatesThe UK will formally issue instructions ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "football club",
-            "court actioneurope",
-            "updatesuk politics"
-        ]
-    },
-    {
-        "title": "EU\u2019s Erasmus scheme to reopen to UK students for first time since Brexit at cost of \u00a3570m",
-        "link": "https://www.theguardian.com/education/2025/dec/17/eu-erasmus-scheme-reopen-uk-students-first-time-since-brexit",
-        "summary": "Deal agreed to rejoin exchange programme in 2027, fulfilling Labour election manifesto pledgeEurope live  latest updatesYoung people across the UK and the EU will reciprocally be able to study or gain...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 53,
-        "sentiment": "Positive",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "exchange programme",
-            "election manifesto pledgeeurope",
-            "updatesyoung people"
-        ]
-    },
-    {
-        "title": "Serbian president threatens reprisals after plans for Belgrade Trump Tower thwarted",
-        "link": "https://www.theguardian.com/world/2025/dec/16/serbian-president-threatens-reprisals-belgrade-trump-tower",
-        "summary": "Development abandoned after Serbian minister indicted over $500m project, in setback for Trump family empireSerbias authoritarian ruler has threatened reprisals after protesters and a prosecutor thwar...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "president threatens reprisals",
-            "belgrade trump tower",
-            "$ 500m project"
-        ]
-    },
-    {
-        "title": "EU to regulate short-term rentals in plan to tackle affordable homes shortage",
-        "link": "https://www.theguardian.com/world/2025/dec/16/eu-to-regulate-short-term-rentals-in-plan-to-tackle-affordable-homes-shortage",
-        "summary": "Soaring rents and housing costs in many European cities have priced out young people, key workers and families The European Commission has announced it will regulate short-term rentals and seek to cur...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "short-term rentals",
-            "affordable homes shortage",
-            "european cities"
+            "russian assets",
+            "theftafter months",
+            "make-or-break moment"
         ]
     },
     {
@@ -2074,153 +2126,153 @@
         ]
     },
     {
-        "title": "Starmer and Badenoch clash over doctors\u2019 strikes and the government\u2019s record at final PMQs of the year \u2013 UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2025/dec/17/uk-politics-live-eu-erasmus-scheme-labour-conservatives-doctors-strike-wes-streeting-latest-news-updates",
-        "summary": "Tory leader tells prime ministers questions that the PM has promised growth but only delivered broken promisesStreeting says he does not want people to stay away from hospitals today if they need emer...",
+        "title": "Boy, 15, charged with murder of nine-year-old Aria Thorpe in Somerset",
+        "link": "https://www.theguardian.com/uk-news/2025/dec/17/boy-15-charged-murder-nine-year-old-aria-thorpe-in-somerset",
+        "summary": "Teenager appears in court over death of girl in Weston-super-Mare on MondayA 15-year-old boy has appeared in court charged with the murder of a nine-year-old girl in Weston-super-Mare.Aria Thorpe died...",
         "source": "World news | The Guardian",
-        "objectivity_score": 55,
-        "sentiment": "Positive",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "\u2019 strikes",
-            "government \u2019 s record",
-            "year \u2013"
-        ]
-    },
-    {
-        "title": "BMA accused of hypocrisy as its own staff threaten to strike over pay",
-        "link": "https://www.theguardian.com/politics/2025/dec/17/bma-accused-of-hypocrisy-as-its-own-staff-threaten-strike-over-below-inflation-pay-rise",
-        "summary": "Dispute with clerical staff over below-inflation pay rise comes as NHS resident doctors start BMA-backed strikeThe British Medical Association is facing a strike over pay by its own clerical staff, pr...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "own staff",
-            "clerical staff",
-            "below-inflation pay rise"
-        ]
-    },
-    {
-        "title": "Duke of Marlborough charged with strangulation offences",
-        "link": "https://www.theguardian.com/uk-news/2025/dec/17/duke-of-marlborough-charged-with-strangulation-offences",
-        "summary": "Relative of Sir Winston Churchill and Diana, Princess of Wales, accused of three offences from 2022 to 2024The Duke of Marlborough, formerly known as Jamie Blandford, has been charged with intentional...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 0,
+        "objectivity_score": 25,
         "sentiment": "Neutral",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "strangulation offences",
-            "sir winston churchill",
-            "jamie blandford"
+            "aria thorpe",
+            "somerset teenager",
+            "15-year-old boy"
         ]
     },
     {
-        "title": "Humphrey Burton, renowned arts broadcaster, dies at 94",
-        "link": "https://www.theguardian.com/music/2025/dec/17/humphrey-burton-renowned-arts-broadcaster-dies-at-94-bbc",
-        "summary": "Former BBC head of music and arts brought the joy of classical music to the general public over decadesSir Humphrey Burton, one of the most influential figures in arts broadcasting, has died at the ag...",
+        "title": "Rights group challenges trans-inclusive swimming policy at Hampstead Heath",
+        "link": "https://www.theguardian.com/society/2025/dec/17/rights-group-challenges-trans-inclusive-swimming-policy-at-hampstead-heath",
+        "summary": "Allowing entry on the basis of self-identification of gender rather than biological sex is unlawful, high court toldRules permitting trans women to share female changing facilities and swim in a women...",
         "source": "World news | The Guardian",
-        "objectivity_score": 18,
+        "objectivity_score": 41,
         "sentiment": "Positive",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "humphrey burton",
-            "renowned arts broadcaster",
-            "classical music"
+            "hampstead heath allowing",
+            "biological sex",
+            "high court toldrules"
         ]
     },
     {
-        "title": "UK\u2019s largest union elects leftwinger who was expelled from Labour",
-        "link": "https://www.theguardian.com/uk-news/2025/dec/17/uk-largest-union-elects-leftwinger-expelled-from-labour-andrea-egan",
-        "summary": "Andrea Egan to become Unison general secretary, succeeding Christina McAnea, who has close links to Keir StarmerUK politics live  latest updatesThe UKs largest trade union, Unison, is on a potential c...",
+        "title": "Nigel Farage told to \u2018come out of hiding\u2019 over alleged election overspending",
+        "link": "https://www.theguardian.com/politics/2025/dec/17/nigel-farage-told-to-come-out-of-hiding-over-alleged-election-overspending",
+        "summary": "Labour chair urges Electoral Commission to investigate claims Reform leader spent too much in Clacton campaignNigel Farage is facing a possible second investigation into allegations he overspent on hi...",
         "source": "World news | The Guardian",
-        "objectivity_score": 64,
+        "objectivity_score": 24,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "nigel farage",
+            "electoral commission",
+            "election battle"
+        ]
+    },
+    {
+        "title": "Palestine Action-linked hunger striker Qesser Zuhrah taken to hospital",
+        "link": "https://www.theguardian.com/uk-news/2025/dec/17/palestine-action-linked-hunger-striker-qesser-zuhrah-taken-to-hospital",
+        "summary": "Protesters had gathered outside prison to demand 20-year-old, who is on day 46, receive urgent medical attentionA 20-year-old woman taking part in the hunger strike by Palestine Action-affiliated pris...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 2,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "palestine action-linked",
+            "hunger striker",
+            "qesser zuhrah"
+        ]
+    },
+    {
+        "title": "From Nvidia to OpenAI, Silicon Valley woos Westminster as ex-politicians take tech firm roles",
+        "link": "https://www.theguardian.com/technology/2025/dec/17/from-nvidia-to-openai-silicon-valley-woos-westminster-as-ex-politicians-take-tech-firm-roles",
+        "summary": "Commons committee monitoring revolving door that gave jobs to George Osborne, Nick Clegg and Tony BlairWhen the billionaire chief executive of AI chipmaker Nvidia threw a party in central London for D...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 51,
         "sentiment": "Positive",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "union elects leftwinger",
-            "labour andrea egan",
-            "general secretary"
+            "valley woos",
+            "tech firm roles",
+            "george osborne"
         ]
     },
     {
-        "title": "Venezuela condemns \u2018warmongering threats\u2019 as Trump orders oil blockade \u2013 US politics live",
+        "title": "Top House Democrat demands immediate action to extend Obamacare subsidies after four Republicans help force vote \u2013 live",
         "link": "https://www.theguardian.com/us-news/live/2025/dec/17/donald-trump-venezuela-oil-jack-smith-fcc-jimmy-kimmel-us-politics-live-news-updates",
-        "summary": "Trump has ordered a total and complete blockade of sanctioned oil tankers to and from the countryOil prices up 2% after Trump blockade orderThe markets are closely watching how such a blockade would a...",
+        "summary": "House minority leader Hakeem Jeffries calls on Mike Johnson to allow vote on legislation extending Affordable Care Act subsidies before recessFour Republicans join Democrats to force vote on bill that...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "condemns \u2018",
-            "threats \u2019",
-            "orders oil blockade \u2013 us politics"
-        ]
-    },
-    {
-        "title": "Maga loyalist expands investigation into intelligence officials who angered Trump",
-        "link": "https://www.theguardian.com/us-news/2025/dec/17/trump-us-attorney-investigation-intelligence-officials",
-        "summary": "Experts decry Jason Reding Quioness fishing expedition as subpoenas reportedly issued to John Brennan and othersA Maga loyalist US attorney in Miami is expanding an investigation of ex-FBI and intelli...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 55,
+        "objectivity_score": 37,
         "sentiment": "Positive",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "loyalist expands investigation",
-            "intelligence officials",
-            "experts decry"
+            "immediate action",
+            "force vote \u2013",
+            "house minority leader"
         ]
     },
     {
-        "title": "Warner Bros reportedly poised to reject Paramount\u2019s $108bn hostile takeover bid",
-        "link": "https://www.theguardian.com/business/2025/dec/17/warner-bros-reportedly-poised-to-reject-paramount-hostile-takeover-bid",
-        "summary": "Decision will pave the way for Netflix to proceed with buyout of film and TV groupWarner Bros Discovery is poised to tell shareholders to reject Paramounts $108bn (81bn) hostile bid, according to repo...",
+        "title": "Nick Reiner appears in court on murder charges in killing of parents",
+        "link": "https://www.theguardian.com/us-news/2025/dec/17/nick-reiner-murder-charges-parents-rob-reiner",
+        "summary": "Son of Rob Reiner and Michele Singer Reiner who is being held without bail did not enter a plea Nick Reiner, who has been charged with two counts of first-degree murder in the killing of his parents, ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Neutral",
-        "date": "2025-12-17",
-        "image_url": null,
-        "keywords": [
-            "warner bros",
-            "\u2019 s $ 108bn hostile takeover bid",
-            "tv groupwarner"
-        ]
-    },
-    {
-        "title": "New details emerge of how Rob and Michele Singer Reiner\u2019s bodies were found",
-        "link": "https://www.theguardian.com/film/2025/dec/17/new-details-rob-and-michele-singer-reiner-deaths-were-discovered",
-        "summary": "An unnamed source told the New York Times the Reiners daughter, Romy, had discovered only her fathers body, and disputed reports the couple argued with their son, Nick, at a party the previous evening...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
+        "objectivity_score": 33,
         "sentiment": "Positive",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "new details",
-            "michele singer reiner",
-            "\u2019 s bodies"
+            "nick reiner",
+            "murder charges",
+            "parents son"
         ]
     },
     {
-        "title": "MIT grieves shooting death of renowned director of plasma science center",
-        "link": "https://www.theguardian.com/education/2025/dec/17/mit-shooting-death-nuno-loureiro",
-        "summary": "Nuno FG Loureiro, 47, was shot multiple times at his home, and no details about a suspect or motive have been releasedThe Massachusetts Institute of Technology (MIT) community is grieving after the sh...",
+        "title": "Oscars to move over to YouTube starting in 2029",
+        "link": "https://www.theguardian.com/film/2025/dec/17/oscars-youtube-2029",
+        "summary": "Exclusive global rights to the years biggest night in film will move to the video platform for a four year periodThe Oscars will be moving from broadcast to online as part of a multi-year new deal wit...",
         "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Negative",
+        "objectivity_score": 11,
+        "sentiment": "Neutral",
         "date": "2025-12-17",
         "image_url": null,
         "keywords": [
-            "renowned director",
-            "plasma science center",
-            "nuno fg loureiro"
+            "global rights",
+            "video platform",
+            "year periodthe"
+        ]
+    },
+    {
+        "title": "Susie Wiles interview might be a useful distraction from how poorly things are going for Americans",
+        "link": "https://www.theguardian.com/global/2025/dec/17/susie-wiles-vanity-fair-interview-distraction",
+        "summary": "The incendiary quotes dont disguise how dissatisfied people are about jobs, inflation or the cost of livingThis was originally published in This Week in Trumpland; sign up to receive it in your inbox ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "susie wiles",
+            "useful distraction",
+            "incendiary quotes dont disguise"
+        ]
+    },
+    {
+        "title": "UnitedHealth reduced hospitalizations for nursing home seniors. Now it faces wrongful death claims",
+        "link": "https://www.theguardian.com/us-news/ng-interactive/2025/dec/17/unitedhealth-nursing-homes",
+        "summary": "The company says it is protecting nursing home residents by curbing unnecessary hospital transfers. Whistleblowers allege cost-cutting tactics have endangered the elderlyThree nursing home residents d...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
+        "sentiment": "Neutral",
+        "date": "2025-12-17",
+        "image_url": null,
+        "keywords": [
+            "home seniors",
+            "wrongful death claims",
+            "home residents"
         ]
     }
 ]
