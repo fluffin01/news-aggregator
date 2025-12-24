@@ -781,31 +781,47 @@
         ]
     },
     {
-        "title": "Russell Brand charged with new offences of rape and sexual assault",
-        "link": "https://www.bbc.com/news/articles/clyd5ynxvqxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Russell Brand will appear in court on 20 January 2026 over the new charges.",
+        "title": "Australia to deport British man charged with displaying Nazi symbols",
+        "link": "https://www.bbc.com/news/articles/cgke51rzpvro?at_medium=RSS&at_campaign=rss",
+        "summary": "The immigration minister said the man is an unwelcome \"guest\" in Australia.",
         "source": "BBC News",
-        "objectivity_score": 58,
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "british man",
+            "immigration minister"
+        ]
+    },
+    {
+        "title": "Buildings could still burn under 'spineless' new safety law, industry leader warns",
+        "link": "https://www.bbc.com/news/articles/cev8mrgky9eo?at_medium=RSS&at_campaign=rss",
+        "summary": "David Jones believes it will permit too many risks, but the government calls it a proportionate approach.",
+        "source": "BBC News",
+        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2025-12-24",
         "image_url": null,
         "keywords": [
-            "russell brand",
-            "new offences",
-            "sexual assault"
+            "new safety law",
+            "industry leader warns",
+            "david jones"
         ]
     },
     {
-        "title": "Inheritance tax plan for farms watered down after backlash",
-        "link": "https://www.bbc.com/news/articles/c8e9n3y28g1o?at_medium=RSS&at_campaign=rss",
-        "summary": "The government has now said it will lift the intended threshold from 1m to 2.5m.",
+        "title": "US denies visas to ex-EU commissioner and others over social media rules",
+        "link": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss",
+        "summary": "Thierry Breton, the former top tech regulator at the European Commission, says a \"witch hunt\" is taking place.",
         "source": "BBC News",
-        "objectivity_score": 28,
-        "sentiment": "Negative",
+        "objectivity_score": 14,
+        "sentiment": "Positive",
         "date": "2025-12-24",
         "image_url": null,
         "keywords": [
-            "tax plan"
+            "us denies visas",
+            "ex-eu commissioner",
+            "social media rules"
         ]
     },
     {
@@ -850,6 +866,19 @@
         ]
     },
     {
+        "title": "Inheritance tax plan for farms watered down after backlash",
+        "link": "https://www.bbc.com/news/articles/c8e9n3y28g1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The government has now said it will lift the intended threshold from 1m to 2.5m.",
+        "source": "BBC News",
+        "objectivity_score": 28,
+        "sentiment": "Negative",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "tax plan"
+        ]
+    },
+    {
         "title": "Libya's army chief killed in air crash in Turkey",
         "link": "https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&at_campaign=rss",
         "summary": "Signal was earlier lost with a jet that took off from Ankara with Gen Mohammed Ali Ahmed al-Haddad and four others on board.",
@@ -865,45 +894,18 @@
         ]
     },
     {
-        "title": "Boaters stranded for Christmas after canal collapse",
-        "link": "https://www.bbc.com/news/articles/cj013m3q0mlo?at_medium=RSS&at_campaign=rss",
-        "summary": "One couple say they had decorated the boat for Christmas but would now spend it in a hotel.",
+        "title": "Someone thought I was actually the woman from Baby Reindeer and screamed in my face, says actress",
+        "link": "https://www.bbc.com/news/articles/cly07r675d9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Actress Jessica Gunning says she is sometimes stopped and occasionally confused with her character.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2025-12-24",
-        "image_url": null,
-        "keywords": [
-            "canal collapse"
-        ]
-    },
-    {
-        "title": "Greta Thunberg arrested over Palestine Action demo",
-        "link": "https://www.bbc.com/news/articles/c17x1jenvv9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Greta Thunberg is arrested in central London on suspicion of supporting a proscribed organisation.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Positive",
-        "date": "2025-12-24",
-        "image_url": null,
-        "keywords": [
-            "greta thunberg",
-            "action demo",
-            "greta thunberg"
-        ]
-    },
-    {
-        "title": "Christmas can be a nightmare for misophonia sufferers like me",
-        "link": "https://www.bbc.com/news/articles/c04vx47gx91o?at_medium=RSS&at_campaign=rss",
-        "summary": "Christmas is a difficult time if you suffer from a reduced tolerance to sounds, but there are ways to make it easier.",
-        "source": "BBC News",
-        "objectivity_score": 100,
+        "objectivity_score": 40,
         "sentiment": "Negative",
         "date": "2025-12-24",
         "image_url": null,
         "keywords": [
-            "misophonia sufferers",
-            "difficult time"
+            "baby reindeer",
+            "actress actress",
+            "jessica gunning"
         ]
     },
     {
@@ -919,6 +921,20 @@
             "'scrap farm raid",
             "inheritance tax plans lead",
             "eve papers"
+        ]
+    },
+    {
+        "title": "Christmas can be a nightmare for misophonia sufferers like me",
+        "link": "https://www.bbc.com/news/articles/c04vx47gx91o?at_medium=RSS&at_campaign=rss",
+        "summary": "Christmas is a difficult time if you suffer from a reduced tolerance to sounds, but there are ways to make it easier.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "misophonia sufferers",
+            "difficult time"
         ]
     },
     {
@@ -949,19 +965,6 @@
             "american administration",
             "catholic church",
             "donald trumps"
-        ]
-    },
-    {
-        "title": "How England lost the Ashes in five charts",
-        "link": "https://www.bbc.com/sport/cricket/articles/c8e9n4pyee4o?at_medium=RSS&at_campaign=rss",
-        "summary": "It took England just 11 days of cricket to lose the Ashes to Australia - BBC Sport looks at five charts that show why the hosts have gone 3-0 up after three Tests.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2025-12-24",
-        "image_url": null,
-        "keywords": [
-            "bbc sport"
         ]
     },
     {
@@ -1135,6 +1138,21 @@
             "music videos",
             "nations favourite",
             "music videos"
+        ]
+    },
+    {
+        "title": "Archer ruled out of Ashes as Bethell replaces Pope",
+        "link": "https://www.bbc.com/sport/cricket/articles/cn09jw79y5ko?at_medium=RSS&at_campaign=rss",
+        "summary": "England pace bowler Jofra Archer is ruled out of the remainder of the Ashes series with a side strain, while England drop former vice-captain Ollie Pope for the fourth Test in Melbourne.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "pope england",
+            "pace bowler",
+            "jofra archer"
         ]
     },
     {
@@ -1404,6 +1422,35 @@
         ]
     },
     {
+        "title": "Thailand, Attacking Cambodia, Says Its Target Is the Scam Industry",
+        "link": "https://www.nytimes.com/2025/12/24/world/asia/cambodia-scam-centers-refugees-thailand.html",
+        "summary": "Thai warplanes have bombed compounds where people are forced to defraud others online. Rights activists say trafficking victims lives are at risk.",
+        "source": "NYT > World News",
+        "objectivity_score": 20,
+        "sentiment": "Negative",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "attacking cambodia",
+            "others online"
+        ]
+    },
+    {
+        "title": "A Vintage Kabul Cinema Finally Falls to Taliban Bulldozers",
+        "link": "https://www.nytimes.com/2025/12/24/world/asia/kabul-cinema-taliban-ariana.html",
+        "summary": "Built during a cosmopolitan era in the 1960s, the Ariana closed when the Taliban took power, but it was still standing. Now its making way for a shopping mall.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "vintage kabul cinema",
+            "taliban bulldozers built",
+            "cosmopolitan era"
+        ]
+    },
+    {
         "title": "Trump\u2019s Tanker Crackdown Paralyzes Venezuelan Oil Exports",
         "link": "https://www.nytimes.com/2025/12/23/world/americas/trump-tankers-venezuela-oil-industry.html",
         "summary": "Oil exports, the countrys financial lifeblood, have plummeted after the United States took action against three ships that have been used to carry its crude.",
@@ -1521,34 +1568,6 @@
             "banksy murals appear",
             "mysterious street artist",
             "seasonal themes"
-        ]
-    },
-    {
-        "title": "Understanding Male Loneliness",
-        "link": "https://www.nytimes.com/2025/12/22/world/male-loneliness-friendships-moscow-assassination.html",
-        "summary": "Why is it harder for men to have intimate friendships into adulthood?",
-        "source": "NYT > World News",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2025-12-24",
-        "image_url": null,
-        "keywords": [
-            "understanding male loneliness",
-            "intimate friendships"
-        ]
-    },
-    {
-        "title": "U.K. Man and 5 Others Charged With Sexual Offenses Against His Wife",
-        "link": "https://www.nytimes.com/2025/12/22/world/europe/philip-young-wife-rape-charges.html",
-        "summary": "Philip Young, 49, is accused of drugging and raping the woman over a 13-year period. Five other men have been charged in the same case.",
-        "source": "NYT > World News",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
-        "date": "2025-12-24",
-        "image_url": null,
-        "keywords": [
-            "wife philip",
-            "13-year period"
         ]
     },
     {
@@ -1777,78 +1796,108 @@
         ]
     },
     {
-        "title": "Australia news live: Chris Minns says protest and some gun laws come into effect today; Albanese announces special honours list to recognise Bondi first responders",
+        "title": "NSW laws take effect \u2013 as it happened",
         "link": "https://www.theguardian.com/australia-news/live/2025/dec/24/nsw-gun-and-protest-laws-bondi-terror-attack-hate-crime-database-anthony-albanese-sussan-ley-chris-minns-labor-coalition-ntwnfb",
-        "summary": "NSW premier says laws that restrict public assemblies for up to three months after a terrorist attack, and limits on the number of firearms, now in effect Get our breaking news email, free app or dail...",
+        "summary": "This blog is now closedRetribution fears as Australian Muslims see surge in Islamophobic hate since Bondi terror attackNSW premier says police commissioner to decide when to use states new protest ban...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Positive",
-        "date": "2025-12-24",
-        "image_url": null,
-        "keywords": [
-            "chris minns",
-            "gun laws",
-            "special honours list"
-        ]
-    },
-    {
-        "title": "Christmas Day weather forecast: possible rain in eastern states but extreme heat in Western Australia",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/24/christmas-day-weather-forecast-australia",
-        "summary": "Sydney can expect showers and a top of 23C, Melbourne a chilly 17C and Brisbane a balmy 34CFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news pod...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 63,
-        "sentiment": "Positive",
-        "date": "2025-12-24",
-        "image_url": null,
-        "keywords": [
-            "christmas day",
-            "possible rain",
-            "eastern states"
-        ]
-    },
-    {
-        "title": "Katie Allen, former federal Liberal MP, dies aged 59",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/24/katie-allen-former-federal-liberal-mp-dies-aged-59",
-        "summary": "The family of the specialist doctor and former member for the Victorian seat of Higgins announced her death on TuesdayFollow our Australia news live blog for latest updatesFormer federal Liberal MP Ka...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Positive",
-        "date": "2025-12-24",
-        "image_url": null,
-        "keywords": [
-            "katie allen",
-            "specialist doctor",
-            "mp katie allen"
-        ]
-    },
-    {
-        "title": "NSW passes controversial new gun and protest laws in wake of Bondi attacks after marathon debate",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/23/nsw-passes-controversial-new-gun-and-protest-laws-in-wake-of-bondi-attacks-after-marathon-debate-ntwnfb",
-        "summary": "The omnibus bill, which included amendments to multiple pieces of legislation, was criticised by both progressives and conservativesFollow our Australia news live blog for latest updatesGet our breaki...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Positive",
-        "date": "2025-12-24",
-        "image_url": null,
-        "keywords": [
-            "controversial new gun",
-            "marathon debate",
-            "omnibus bill"
-        ]
-    },
-    {
-        "title": "Labor\u2019s changes to listing hate groups will target Islamist and far-right extremists operating just inside the limits of law",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/23/labors-changes-to-listing-hate-groups-will-target-islamist-and-far-right-extremists-operating-just-inside-the-limits-of-law-ntwnfb",
-        "summary": "Home affairs minister says the proposal would clamp down on groups like Hizb ut-Tahrir and the National Socialist NetworkFollow our Australia news live blog for latest updatesGet our breaking news ema...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 50,
+        "objectivity_score": 43,
         "sentiment": "Neutral",
         "date": "2025-12-24",
         "image_url": null,
         "keywords": [
-            "\u2019 s changes",
-            "far-right extremists",
-            "law home affairs minister"
+            "effect \u2013",
+            "closedretribution fears",
+            "australian muslims"
+        ]
+    },
+    {
+        "title": "NSW premier says police commissioner to decide when to use state\u2019s new protest ban powers",
+        "link": "https://www.theguardian.com/australia-news/2025/dec/24/nsw-premier-police-commissioner-protest-ban-powers-bondi-shooting-terror-attack-ntwnfb",
+        "summary": "Introduced in response to the Bondi beach terror attack, the laws give police powers to ban on protests for up to three months after a terrorist eventTen minutes of terror: how the Bondi mass shooting...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 48,
+        "sentiment": "Positive",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "police commissioner",
+            "state \u2019 s",
+            "ban powers"
+        ]
+    },
+    {
+        "title": "Retribution fears as Australian Muslims see surge in Islamophobic hate since Bondi terror attack",
+        "link": "https://www.theguardian.com/australia-news/2025/dec/24/retribution-fears-australian-muslims-surge-islamophobic-hate-since-bondi-terror-attack-ntwnfb",
+        "summary": "Security stepped up at mosques amid spate of targeted abuse as leaders mourn Bondi victims and say community will not claim victimhoodFollow our Australia news live blog for latest updatesGet our brea...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 39,
+        "sentiment": "Neutral",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "australian muslims",
+            "terror attack security",
+            "claim victimhoodfollow"
+        ]
+    },
+    {
+        "title": "British man\u2019s Australian visa cancelled after being charged with displaying Nazi symbols",
+        "link": "https://www.theguardian.com/australia-news/2025/dec/24/british-man-australian-visa-cancelled-display-nazi-symbols-charge",
+        "summary": "Home affairs minister, Tony Burke, said the government had no time for hatred when it came to cancelling visasFollow our Australia news live blog for latest updatesGet our breaking news email, free ap...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "british man \u2019 s",
+            "symbols home affairs minister",
+            "tony burke"
+        ]
+    },
+    {
+        "title": "Australia announces special honours list to recognise acts of bravery during the Bondi attack",
+        "link": "https://www.theguardian.com/australia-news/2025/dec/24/bondi-special-honours-list-announced-for-bravery-in-shooting-terror-attack",
+        "summary": "Prime minister says awards will celebrate extraordinary acts of courage and kindness in the wake of the terror attackFollow our Australia news live blog for latest updatesGet our breaking news email, ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "special honours list",
+            "recognise acts",
+            "extraordinary acts"
+        ]
+    },
+    {
+        "title": "Three killed in Moscow car explosion, say Russian authorities",
+        "link": "https://www.theguardian.com/world/2025/dec/24/three-killed-in-moscow-car-explosion-say-russian-authorities",
+        "summary": "Witnesses quoted on Russian television said an explosion occurred around 1.30am on WednesdayTwo traffic police officers and a third person have been killed in a car explosion in Moscow, Russias Invest...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 18,
+        "sentiment": "Neutral",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "car explosion",
+            "russian authorities",
+            "traffic police officers"
+        ]
+    },
+    {
+        "title": "\u2018Warning to others\u2019: murky death of militia leader as Kremlin reasserts control",
+        "link": "https://www.theguardian.com/world/2025/dec/24/militia-leader-murky-death-stanislav-orlov-russia-kremlin-control",
+        "summary": "Reports that Stanislav Orlov was killed by Moscow security services highlights careful managing of non-state powerBeneath the frescoed ceilings and golden icons of Moscows Cathedral of Christ the Savi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "others \u2019",
+            "murky death",
+            "militia leader"
         ]
     },
     {
@@ -1894,36 +1943,6 @@
             "\u2018 abusive strategy \u2019",
             "limit ticket sales",
             "online travel agencies"
-        ]
-    },
-    {
-        "title": "Biography aims to fill gaps in story of ultra-libertarian Telegram founder Pavel Durov",
-        "link": "https://www.theguardian.com/world/2025/dec/23/biography-russian-telegram-founder-pavel-durov",
-        "summary": "Like many of his US counterparts, the Russian science prodigy turned hugely successful digital populist has a deep suspicion of government constraintTech visionary, Kremlin dissident, FSB agent, free ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
-        "date": "2025-12-24",
-        "image_url": null,
-        "keywords": [
-            "pavel durov",
-            "us counterparts",
-            "russian science prodigy"
-        ]
-    },
-    {
-        "title": "Keir Starmer told closer EU trade ties \u2018strategic necessity\u2019 for UK firms",
-        "link": "https://www.theguardian.com/politics/2025/dec/22/keir-starmer-told-closer-eu-trade-ties-strategic-necessity-for-uk-firms",
-        "summary": "Labour urged to accelerate reset with Brussels as many exporters struggling to trade in the EU after Brexit dealKeir Starmers government has been told a closer EU trade deal is a strategic necessity f...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Positive",
-        "date": "2025-12-24",
-        "image_url": null,
-        "keywords": [
-            "keir starmer",
-            "trade ties \u2018",
-            "strategic necessity \u2019"
         ]
     },
     {
@@ -2077,6 +2096,21 @@
         ]
     },
     {
+        "title": "Train firms warned over \u2018best price\u2019 claims after watchdog bans ads",
+        "link": "https://www.theguardian.com/money/2025/dec/24/train-firms-warned-over-best-price-claims-after-watchdog-bans-ads",
+        "summary": "Advertising regulator said operators and a ticket seller could not prove bookings were cheapestTrain companies have been warned over price claims made on their ticketing websites after the advertising...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2025-12-24",
+        "image_url": null,
+        "keywords": [
+            "price \u2019 claims",
+            "ticket seller",
+            "cheapesttrain companies"
+        ]
+    },
+    {
         "title": "American woman accused of killing her two children extradited to US from UK",
         "link": "https://www.theguardian.com/us-news/2025/dec/23/kimberlee-singler-extradited",
         "summary": "Kimberlee Singler was arrested in London in 2023, a week after her daughter, 9, and son, 7, found dead in ColoradoAn American woman accused of killing two of her children after a Colorado judge demand...",
@@ -2137,21 +2171,6 @@
         ]
     },
     {
-        "title": "Thousands in Hastings could face Christmas with no water after mains pipe bursts",
-        "link": "https://www.theguardian.com/uk-news/2025/dec/23/thousands-in-hastings-could-face-christmas-with-no-water-after-mains-pipe-bursts",
-        "summary": "Southern Water warns households may begin losing water from Christmas Eve as system rapidly loses supplyThousands of households in Hastings could face a Christmas with no water after a mains pipe burs...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 5,
-        "sentiment": "Negative",
-        "date": "2025-12-24",
-        "image_url": null,
-        "keywords": [
-            "mains pipe bursts",
-            "southern water warns households",
-            "mains pipe burst.southern water"
-        ]
-    },
-    {
         "title": "At least two people dead in Philadelphia nursing home explosion",
         "link": "https://www.theguardian.com/us-news/2025/dec/23/philadelphia-explosion-nursing-home",
         "summary": "Five additional people unaccounted for after partial building collapse at Silver Lake center in Bristol TownshipAn explosion at a nursing home just outside Philadelphia collapsed part of the building ...",
@@ -2167,12 +2186,12 @@
         ]
     },
     {
-        "title": "TikToker arrested for alleged hit-and-run of pedestrian during livestream",
-        "link": "https://www.theguardian.com/us-news/2025/dec/23/tiktok-tea-tyme-hit-and-run",
+        "title": "TikToker who allegedly hit and killed man while livestreaming is arrested",
+        "link": "https://www.theguardian.com/us-news/2025/dec/24/tiktok-tea-tyme-hit-pedestrian-chicago",
         "summary": "Known as Tea Tyme, Tynesha McCarty-Wroten arrested over 3 November death of Darren Lucas in Zion, IllinoisThe social media creator who allegedly hit and killed a pedestrian as she hosted a livestream ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 11,
-        "sentiment": "Positive",
+        "objectivity_score": 9,
+        "sentiment": "Neutral",
         "date": "2025-12-24",
         "image_url": null,
         "keywords": [
