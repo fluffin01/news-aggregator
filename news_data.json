@@ -737,20 +737,6 @@
         ]
     },
     {
-        "title": "Around 40 dead in Swiss ski resort bar fire, police say",
-        "link": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
-        "summary": "A further 115 are injured, some severely, in a fire at Le Constellation bar in Crans-Montana ski resort, officials say.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "swiss ski resort",
-            "ski resort"
-        ]
-    },
-    {
         "title": "'I hid from a wall of heat': Eyewitnesses describe escape from Swiss bar inferno",
         "link": "https://www.bbc.com/news/articles/clyml77ml7jo?at_medium=RSS&at_campaign=rss",
         "summary": "One young man told the BBC he went into the bar to look for his little brother, who he thought was inside.",
@@ -761,21 +747,6 @@
         "image_url": null,
         "keywords": [
             "young man"
-        ]
-    },
-    {
-        "title": "Amber snow and ice warnings issued as Arctic air spreads across the UK",
-        "link": "https://www.bbc.com/weather/articles/ceqzn5rnz74o?at_medium=RSS&at_campaign=rss",
-        "summary": "Colder weather with snow and ice warnings in force will continue over the next few days.",
-        "source": "BBC News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "ice warnings",
-            "uk colder",
-            "ice warnings"
         ]
     },
     {
@@ -794,6 +765,20 @@
         ]
     },
     {
+        "title": "Travel disruption expected as ice and snow grip UK",
+        "link": "https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss",
+        "summary": "The worst of the weather is expected to hit Scotland, with weather warnings in place until Sunday.",
+        "source": "BBC News",
+        "objectivity_score": 60,
+        "sentiment": "Negative",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "snow grip",
+            "weather warnings"
+        ]
+    },
+    {
         "title": "The great debate about whether the NHS should use magic mushrooms to treat mental health",
         "link": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&at_campaign=rss",
         "summary": "Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising results",
@@ -809,18 +794,17 @@
         ]
     },
     {
-        "title": "Chelsea part company with manager Maresca after 18 months",
-        "link": "https://www.bbc.com/sport/football/articles/cj0n8d913d8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Less than six months after guiding Chelsea to Club World Cup success, Enzo Maresca has left. But how did things unravel?",
+        "title": "Deadly clashes between protesters and security forces as Iran unrest grows",
+        "link": "https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss",
+        "summary": "Videos on social media showed cars set on fire during running battles as protests entered their fifth day.",
         "source": "BBC News",
-        "objectivity_score": 2,
+        "objectivity_score": 23,
         "sentiment": "Neutral",
         "date": "2026-01-02",
         "image_url": null,
         "keywords": [
-            "part company",
-            "club world cup success",
-            "enzo maresca"
+            "security forces",
+            "social media"
         ]
     },
     {
@@ -854,47 +838,46 @@
         ]
     },
     {
-        "title": "Dad pays tribute to 'wonderful family' killed in Boxing Day fire",
-        "link": "https://www.bbc.com/news/articles/c14r88ylvl1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Tom Shearman pays tribute to his wife and two children after a fire engulfed their home.",
+        "title": "China's BYD set to overtake Tesla as world's top EV seller",
+        "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss",
+        "summary": "It would mark the first time the Chinese firm has outpaced its American rival for annual sales.",
         "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 24,
         "sentiment": "Positive",
         "date": "2026-01-02",
         "image_url": null,
         "keywords": [
-            "'wonderful family",
-            "day fire",
-            "tom shearman"
+            "world 's",
+            "chinese firm",
+            "annual sales"
         ]
     },
     {
-        "title": "Stranger Things draws to an epic and emotional close",
-        "link": "https://www.bbc.com/news/articles/ckgl2je05j0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Fans gathered at premieres in cities across the US and Canada to watch the finale on the big screen.",
+        "title": "Trump says health is 'perfect' amid ageing concerns",
+        "link": "https://www.bbc.com/news/articles/c701z7g0ppro?at_medium=RSS&at_campaign=rss",
+        "summary": "In an interview about his health, Trump talked about using hand makeup, getting by on little sleep and taking lots of aspirin.",
         "source": "BBC News",
-        "objectivity_score": 38,
+        "objectivity_score": 75,
+        "sentiment": "Positive",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "hand makeup"
+        ]
+    },
+    {
+        "title": "'You're invisible, you don't exist' - life without a birth certificate",
+        "link": "https://www.bbc.com/news/articles/cx2drqwp2eyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Millions around the world are living in the shadows as stateless people as they lack official papers.",
+        "source": "BBC News",
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-01-02",
         "image_url": null,
         "keywords": [
-            "things draws",
-            "big screen"
-        ]
-    },
-    {
-        "title": "Two killed in clashes between protesters and security forces in Iran",
-        "link": "https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss",
-        "summary": "Videos on social media showed cars set on fire during running battles as protests entered their fifth day.",
-        "source": "BBC News",
-        "objectivity_score": 3,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "security forces",
-            "iran videos",
-            "social media"
+            "'you 're invisible",
+            "birth certificate",
+            "stateless people"
         ]
     },
     {
@@ -999,6 +982,19 @@
         ]
     },
     {
+        "title": "What is chickenpox and who can get an NHS vaccine?",
+        "link": "https://www.bbc.com/news/articles/cn0rnqj52y5o?at_medium=RSS&at_campaign=rss",
+        "summary": "The standard NHS childhood vaccination programme will include chickenpox from 2 January 2026.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "childhood vaccination programme"
+        ]
+    },
+    {
         "title": "Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?",
         "link": "https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss",
         "summary": "To succeed in office he will need to keep his supporters engaged with day-to-day governing, experts say.",
@@ -1028,20 +1024,6 @@
         ]
     },
     {
-        "title": "Strictly's Ellie and Vito still dancing together every week",
-        "link": "https://www.bbc.com/news/articles/cvg101k6zplo?at_medium=RSS&at_campaign=rss",
-        "summary": "From Strictly sequins to presenting dreams, Ellie Goldstein speaks about her future ambitions.",
-        "source": "BBC News",
-        "objectivity_score": 12,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "ellie goldstein",
-            "future ambitions"
-        ]
-    },
-    {
         "title": "Rosenior leading contender for Chelsea job",
         "link": "https://www.bbc.com/sport/football/articles/c0er1wx3v28o?at_medium=RSS&at_campaign=rss",
         "summary": "Strasbourg boss Liam Rosenior is the leading contender to be the next Chelsea manager, but others remain under consideration.",
@@ -1055,47 +1037,46 @@
         ]
     },
     {
-        "title": "Some families to be offered immunisations at home in bid to boost vaccine uptake",
-        "link": "https://www.bbc.com/news/articles/cn407dyx24go?at_medium=RSS&at_campaign=rss",
-        "summary": "The scheme is being tested in some areas of England as part of a government plan to prioritise children's health.",
+        "title": "Maduro says Venezuela open to US talks on drug trafficking",
+        "link": "https://www.bbc.com/news/articles/clyg23lj057o?at_medium=RSS&at_campaign=rss",
+        "summary": "In an interview with state TV, the Venezuelan president also evaded a question about an attack in his country claimed by the US.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-01-02",
         "image_url": null,
         "keywords": [
-            "vaccine uptake",
-            "government plan",
-            "prioritise children 's health"
+            "state tv"
         ]
     },
     {
-        "title": "Anthony Joshua discharged from hospital after Nigeria car crash",
-        "link": "https://www.bbc.com/news/articles/c5yvdw77j04o?at_medium=RSS&at_campaign=rss",
-        "summary": "Two of the former world champion's closest friends were killed in the accident on Monday.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "anthony joshua",
-            "car crash",
-            "world champion 's"
-        ]
-    },
-    {
-        "title": "UK to 'robustly defend' stripping Begum of citizenship in European court, source says",
-        "link": "https://www.bbc.com/news/articles/c3wzp693nv3o?at_medium=RSS&at_campaign=rss",
-        "summary": "The ECHR questions whether it was considered if Shamima Begum was a victim of grooming and trafficking.",
+        "title": "Chelsea part company with manager Maresca after 18 months",
+        "link": "https://www.bbc.com/sport/football/articles/cj0n8d913d8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Less than six months after guiding Chelsea to Club World Cup success, Enzo Maresca has left. But how did things unravel?",
         "source": "BBC News",
         "objectivity_score": 2,
         "sentiment": "Neutral",
         "date": "2026-01-02",
         "image_url": null,
         "keywords": [
-            "european court",
-            "shamima begum"
+            "part company",
+            "club world cup success",
+            "enzo maresca"
+        ]
+    },
+    {
+        "title": "Japan PM joins fight for more female toilets in parliament",
+        "link": "https://www.bbc.com/news/articles/c8e5lxd2gwgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Japan's parliament building was built in 1936, a decade before women was given the right to vote.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "japan pm",
+            "joins fight",
+            "female toilets"
         ]
     },
     {
@@ -1113,17 +1094,17 @@
         ]
     },
     {
-        "title": "US military says five killed in latest strike on alleged drug boats",
-        "link": "https://www.bbc.com/news/articles/czdq1ple2l4o?at_medium=RSS&at_campaign=rss",
-        "summary": "The latest strike comes as the US Coast Guard searches for survivors of another that happened a day earlier.",
+        "title": "UK to 'robustly defend' stripping Begum of citizenship in European court, source says",
+        "link": "https://www.bbc.com/news/articles/c3wzp693nv3o?at_medium=RSS&at_campaign=rss",
+        "summary": "The ECHR questions whether it was considered if Shamima Begum was a victim of grooming and trafficking.",
         "source": "BBC News",
-        "objectivity_score": 41,
+        "objectivity_score": 2,
         "sentiment": "Neutral",
         "date": "2026-01-02",
         "image_url": null,
         "keywords": [
-            "drug boats",
-            "us coast guard searches"
+            "european court",
+            "shamima begum"
         ]
     },
     {
@@ -1197,16 +1178,18 @@
         ]
     },
     {
-        "title": "Rosenior leading contender for Chelsea job",
-        "link": "https://www.bbc.com/sport/football/articles/c0er1wx3v28o?at_medium=RSS&at_campaign=rss",
-        "summary": "Strasbourg boss Liam Rosenior is the leading contender to be the next Chelsea manager, but others remain under consideration.",
+        "title": "'We are not happy' - Man City fall behind Arsenal in title race",
+        "link": "https://www.bbc.com/sport/football/articles/cm248l1j7jno?at_medium=RSS&at_campaign=rss",
+        "summary": "Pep Guardiola questioned whether the Premier League title race was only a two-horse, but his Manchester City side can ill-afford many slip-ups in their quest to hunt down leaders Arsenal.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 69,
         "sentiment": "Neutral",
         "date": "2026-01-02",
         "image_url": null,
         "keywords": [
-            "liam rosenior"
+            "man city fall",
+            "title race",
+            "pep guardiola"
         ]
     },
     {
@@ -1225,21 +1208,6 @@
         ]
     },
     {
-        "title": "What went wrong between Chelsea and Maresca?",
-        "link": "https://www.bbc.com/sport/football/articles/cj0n8d913d8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Less than six months after guiding Chelsea to Club World Cup success, Enzo Maresca has left. But how did things unravel?",
-        "source": "BBC News",
-        "objectivity_score": 24,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "club world cup success",
-            "enzo maresca",
-            "things unravel"
-        ]
-    },
-    {
         "title": "Retiring Khawaja criticises 'racial stereotypes'",
         "link": "https://www.bbc.com/sport/cricket/articles/cy5g32l2621o?at_medium=RSS&at_campaign=rss",
         "summary": "Australia batter Usman Khawaja says he has been treated unfairly by the media and former players as he announces his retirement from international cricket.",
@@ -1255,18 +1223,46 @@
         ]
     },
     {
-        "title": "'We are not happy' - Man City fall behind Arsenal in title race",
-        "link": "https://www.bbc.com/sport/football/articles/cm248l1j7jno?at_medium=RSS&at_campaign=rss",
-        "summary": "Pep Guardiola questioned whether the Premier League title race was only a two-horse, but his Manchester City side can ill-afford many slip-ups in their quest to hunt down leaders Arsenal.",
+        "title": "'Heavy metal? It's not even aluminium foil football'",
+        "link": "https://www.bbc.com/sport/articles/cr7j5z1m835o?at_medium=RSS&at_campaign=rss",
+        "summary": "As Liverpool are booed off following a goalless draw against Leeds, it was hardly the start to the New Year that Arne Slot's side would have wanted.",
         "source": "BBC News",
-        "objectivity_score": 69,
+        "objectivity_score": 39,
         "sentiment": "Neutral",
         "date": "2026-01-02",
         "image_url": null,
         "keywords": [
-            "man city fall",
-            "title race",
-            "pep guardiola"
+            "'heavy metal",
+            "aluminium foil football",
+            "new year"
+        ]
+    },
+    {
+        "title": "Rosenior leading contender for Chelsea job",
+        "link": "https://www.bbc.com/sport/football/articles/c0er1wx3v28o?at_medium=RSS&at_campaign=rss",
+        "summary": "Strasbourg boss Liam Rosenior is the leading contender to be the next Chelsea manager, but others remain under consideration.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "liam rosenior"
+        ]
+    },
+    {
+        "title": "Record crowd for New Year's Day Cheltenham meeting",
+        "link": "https://www.bbc.com/sport/horse-racing/articles/c3vekwzkgn7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Cheltenham Racecourse welcomes more than 44,000 spectators as its New Year's Day fixture sells out for the first time.",
+        "source": "BBC News",
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "new year 's day",
+            "cheltenham racecourse",
+            "new year 's day fixture"
         ]
     },
     {
@@ -1282,21 +1278,6 @@
             "brennan johnson",
             "crystal palace",
             "worth 35m"
-        ]
-    },
-    {
-        "title": "'Heavy metal? It's not even aluminium foil football'",
-        "link": "https://www.bbc.com/sport/articles/cr7j5z1m835o?at_medium=RSS&at_campaign=rss",
-        "summary": "As Liverpool are booed off following a goalless draw against Leeds, it was hardly the start to the New Year that Arne Slot's side would have wanted.",
-        "source": "BBC News",
-        "objectivity_score": 39,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "'heavy metal",
-            "aluminium foil football",
-            "new year"
         ]
     },
     {
@@ -1507,6 +1488,66 @@
         ]
     },
     {
+        "title": "Teen Recounts Escape from Deadly Swiss Fire",
+        "link": "https://www.nytimes.com/video/world/europe/100000010619991/teen-recounts-escape-from-deadly-swiss-fire.html",
+        "summary": "People gathered at memorials in the resort town of Crans-Montana, Switzerland, to grieve for the victims of a deadly New Years fire at a bar. A survivor described her harrowing escape.",
+        "source": "NYT > World News",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "teen recounts",
+            "swiss fire people",
+            "resort town"
+        ]
+    },
+    {
+        "title": "In China, A.I. Finds Pancreatic Cancer That Doctors May Miss",
+        "link": "https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html",
+        "summary": "A tool for spotting pancreatic cancer in routine CT scans has had promising results, one example of how China is racing to apply A.I. to medicines tough problems.",
+        "source": "NYT > World News",
+        "objectivity_score": 66,
+        "sentiment": "Neutral",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "finds pancreatic",
+            "may miss",
+            "a tool"
+        ]
+    },
+    {
+        "title": "Can the Most Indebted Team in Global Soccer Fix Its Finances?",
+        "link": "https://www.nytimes.com/2026/01/02/world/europe/barcelona-debt-soccer.html",
+        "summary": "F.C. Barcelonas liabilities have reached 2.5 billion euros, the result of financial mismanagement and vaulting ambition.",
+        "source": "NYT > World News",
+        "objectivity_score": 16,
+        "sentiment": "Positive",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "indebted team",
+            "global soccer fix",
+            "financial mismanagement"
+        ]
+    },
+    {
+        "title": "Search Is Suspended for Passenger Who Went Overboard From Cruise Ship",
+        "link": "https://www.nytimes.com/2026/01/01/world/americas/passenger-overboard-holland-america-cruise.html",
+        "summary": "The U.S. Coast Guard said on Thursday that it halted its hourslong search for a 77-year-old woman who went overboard from a Holland America Line cruise ship near Cuba.",
+        "source": "NYT > World News",
+        "objectivity_score": 23,
+        "sentiment": "Negative",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "passenger who went overboard",
+            "cruise ship",
+            "coast guard"
+        ]
+    },
+    {
         "title": "Witnesses Recount Fire That Killed 40 in Switzerland",
         "link": "https://www.nytimes.com/2026/01/01/world/europe/switzerland-fire-scene.html",
         "summary": "It was a haven for the young, where they could find hot chocolate when they wanted quiet and affordable drinks when they did not. Then it turned into a place of death.",
@@ -1589,65 +1630,6 @@
         ]
     },
     {
-        "title": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
-        "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html",
-        "summary": "The tanker, which had been sailing to Venezuela to pick up oil, has claimed Russian protection, although the U.S. authorities say it is a stateless vessel.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "stop pursuit",
-            "russian protection",
-            "stateless vessel"
-        ]
-    },
-    {
-        "title": "Fire at Bar in Swiss Ski Resort Town Kills Dozens, Officials Say",
-        "link": "https://www.nytimes.com/video/world/europe/100000010618958/switzerland-ski-bar-fire.html",
-        "summary": "Dozens of people were killed and more than 100 were injured after a fire broke out at a bar in a Swiss ski resort town during a New Years Eve celebration, the police said.",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
-        "sentiment": "Positive",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "ski resort",
-            "kills dozens",
-            "say dozens"
-        ]
-    },
-    {
-        "title": "Crans-Montana Bar Fire Victims Transported Across Switzerland for Treatment",
-        "link": "https://www.nytimes.com/2026/01/01/world/europe/crans-montana-switzerland-fire-victims-treatment.html",
-        "summary": "Patients were taken by helicopter and jet to bigger, specialized hospitals in Geneva, Zurich and Lausanne.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "bar fire",
-            "victims transported across switzerland"
-        ]
-    },
-    {
-        "title": "Crans-Montana is a Historic Swiss Ski Resort Town Popular With International Tourists",
-        "link": "https://www.nytimes.com/2026/01/01/world/europe/fire-crans-montana.html",
-        "summary": "The town is known for its gourmet food, luxury stores, and for hosting major sporting events. The Crans-Montana Resort, which does not operate the bar that caught fire, was acquired by Vail Resorts in...",
-        "source": "NYT > World News",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "ski resort",
-            "gourmet food",
-            "luxury stores"
-        ]
-    },
-    {
         "title": "Cremation pyre in Africa thought to be world\u2019s oldest containing adult remains",
         "link": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
         "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groupsA cremation pyre built about 9,500 years ago has been discovered in Africa, offering a...",
@@ -1723,6 +1705,21 @@
         ]
     },
     {
+        "title": "Venezuela open to talks on drug trafficking, says Maduro, but refuses to comment on reported US strike on land",
+        "link": "https://www.theguardian.com/world/2026/jan/02/venezuela-maduro-open-to-talks-drug-trafficking-maduro",
+        "summary": "President Nicols Maduro reiterated his belief that the US wants to force a change of government in Venezuela and gain access to its vast oil reserves Venezuela is open to negotiating an agreement with...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
+        "sentiment": "Neutral",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "us strike",
+            "land president",
+            "nicols maduro"
+        ]
+    },
+    {
         "title": "Trump\u2019s shadow war in Venezuela grows, but country\u2019s strongman leader still clings to power",
         "link": "https://www.theguardian.com/world/2025/dec/30/military-drone-strike-venezuela-trump-maduro",
         "summary": "Report of a drone attack on a port facility signals new phase in US military campaign against Nicols MaduroUS wargames played out scenarios for Maduros fall. None of them ended well for VenezuelaNearl...",
@@ -1783,18 +1780,18 @@
         ]
     },
     {
-        "title": "Venezuela says it released 99 people detained for 2024 election protests",
-        "link": "https://www.theguardian.com/world/2025/dec/26/venezuela-political-prisoner-release",
-        "summary": "Government said the move was due to its unrestricted respect for human rights in the face of US aggressionVenezuela has said it has carried out its largest release of political prisoners this year, cl...",
+        "title": "Kim Jong-un\u2019s daughter visits state mausoleum, fuelling speculation she will be next North Korean ruler",
+        "link": "https://www.theguardian.com/world/2026/jan/02/kim-jong-un-daughter-ju-ae-north-korean-ruler-speculation",
+        "summary": "Kim Ju-ae has been making increasingly prominent appearances in state media over the past three yearsThe daughter of the North Korean ruler, Kim Jong-un, who is likely being prepared as his successor ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 22,
+        "objectivity_score": 37,
         "sentiment": "Neutral",
         "date": "2026-01-02",
         "image_url": null,
         "keywords": [
-            "election protests government",
-            "human rights",
-            "us aggressionvenezuela"
+            "kim jong-un",
+            "\u2019 s daughter",
+            "state mausoleum"
         ]
     },
     {
@@ -1858,18 +1855,33 @@
         ]
     },
     {
-        "title": "Australia says \u2018deeply concerning, destabilising\u2019 Chinese exercises near Taiwan risk inflaming regional tension",
-        "link": "https://www.theguardian.com/australia-news/2025/dec/31/australia-says-deeply-concerning-destabilising-chinese-exercises-near-taiwan-risk-inflaming-regional-tension",
-        "summary": "Foreign affairs department statement says Australia opposes any actions that increase the risk of accident, miscalculation or escalationGet our breaking news email, free app or daily news podcastAustr...",
+        "title": "Australia\u2019s 2025 road toll: NSW records highest number of deaths in eight years as fatalities rise nationwide",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/02/australia-2025-road-toll-deaths-fatalities-rise-nationwide",
+        "summary": "Authorities warn that speeding was the biggest killer in 2025, a contributing factor in 134 deathsNew South Wales has recorded the deadliest year on its roads in eight years, with indications that the...",
         "source": "World news | The Guardian",
-        "objectivity_score": 22,
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "road toll",
+            "fatalities rise",
+            "deadliest year"
+        ]
+    },
+    {
+        "title": "Snorkeller missing in WA as NSW authorities continue search for two lost in rough surf",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/02/snorkeler-missing-wa-north-perth-ledge-point",
+        "summary": "Man, 32, had been snorkelling at Ledge Point Beach when reported missing, while police also searching for two who went missing at Coogee Beach and Palm Beach, NSWGet our breaking news email, free app ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
         "sentiment": "Neutral",
         "date": "2026-01-02",
         "image_url": null,
         "keywords": [
-            "chinese exercises",
-            "regional tension",
-            "foreign affairs department statement"
+            "rough surf man",
+            "ledge point beach",
+            "palm beach"
         ]
     },
     {
@@ -1918,33 +1930,48 @@
         ]
     },
     {
-        "title": "Business leaders and Catholic bishops join call for royal commission after Bondi attack",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/02/business-leaders-and-catholic-bishops-join-call-for-royal-commission-after-bondi-attack-ntwnfb",
-        "summary": "Signatories to open letter include former Reserve Bank of Australia governors Philip Lowe and Glenn Stevens and billionaire James PackerGet our breaking news email, free app or daily news podcastAustr...",
+        "title": "More than 60 Henri Matisse artworks donated to Mus\u00e9e d\u2019Art Moderne in Paris",
+        "link": "https://www.theguardian.com/artanddesign/2026/jan/02/paris-musee-d-art-moderne-donation-henri-matisse-marguerite",
+        "summary": "Artists daughter Marguerite features in most of the pieces, kept in the family until complete surprise donationThe Muse dArt Moderne in Paris has received an extraordinarily generous donation of 61 wo...",
         "source": "World news | The Guardian",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "business leaders",
-            "catholic bishops",
-            "royal commission"
-        ]
-    },
-    {
-        "title": "Irish man found dead at famous Whitehaven beach among four deaths on Australia\u2019s east coast",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/01/woman-dies-after-being-swept-into-ocean-from-sydney-beach-in-early-hours-of-new-years-day",
-        "summary": "A woman has also died after being swept into the ocean in Sydney on New Years Day, while the body of a man was found near Palm beachGet our breaking news email, free app or daily news podcastAn Irish ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 42,
+        "objectivity_score": 60,
         "sentiment": "Positive",
         "date": "2026-01-02",
         "image_url": null,
         "keywords": [
-            "irish man",
-            "palm beachget",
-            "news email"
+            "henri matisse",
+            "art moderne",
+            "paris artists"
+        ]
+    },
+    {
+        "title": "Switzerland to hold five days of mourning after 40 killed in resort fire, as investigators rush to identify victims",
+        "link": "https://www.theguardian.com/world/2026/jan/01/switzerland-to-hold-five-days-of-mourning-after-dozens-killed-in-resort-fire",
+        "summary": "Blaze that swept through crowded New Years Eve bar in Crans-Montana also injured 115 peopleLe Constellation bar fire in Switzerland: what we know so farSwiss investigators are racing to identify the v...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 41,
+        "sentiment": "Positive",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "resort fire",
+            "investigators rush",
+            "identify victims"
+        ]
+    },
+    {
+        "title": "\u2018Truly humbling\u2019: inside the centre where UK medics are helping Ukrainian amputees",
+        "link": "https://www.theguardian.com/world/2026/jan/02/uk-medics-helping-ukrainian-amputees-rehabilitation-centre",
+        "summary": "British military doctors and therapists provide support at base where innovative treatments aid recovery of those who have lost limbsAt a specialist treatment centre in Ukraine, as other amputees play...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 30,
+        "sentiment": "Negative",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "innovative treatments",
+            "specialist treatment centre",
+            "left leg"
         ]
     },
     {
@@ -1975,51 +2002,6 @@
             "new year drone strike kills",
             "russian-occupied ukraine",
             "energy sitesa"
-        ]
-    },
-    {
-        "title": "Switzerland resort fire latest news: 40 dead and 115 injured in Crans-Montana \u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/jan/01/switzerland-resort-explosion-dead-blast-ski-town-crans-montana-latest-news-live",
-        "summary": "Police have ruled out an attack on Le Constellation bar as investigation starts into cause of fire Officials at the press conference are asking for prudence from those in the town, reminding them not ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 73,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "resort fire",
-            "fire officials",
-            "press conference"
-        ]
-    },
-    {
-        "title": "Switzerland to hold five days of mourning after 40 killed in resort fire",
-        "link": "https://www.theguardian.com/world/2026/jan/01/switzerland-to-hold-five-days-of-mourning-after-dozens-killed-in-resort-fire",
-        "summary": "Blaze that swept through crowded New Years Eve bar in Crans-Montana also injured 115 peopleLe Constellation bar fire in Switzerland: what we know so farSwitzerland will hold five days of mourning afte...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "resort fire",
-            "unprecedented fire",
-            "eve party"
-        ]
-    },
-    {
-        "title": "\u2018It happened in seconds\u2019: sudden inferno brings horror to Swiss ski resort",
-        "link": "https://www.theguardian.com/world/2026/jan/01/inferno-horror-swiss-ski-resort-le-constellation-crans-montana",
-        "summary": "New year party at Le Constellation bar in Crans-Montana turned into tragedy as flames shot across the ceilingThe new year had passed its first hour and the party in Le Constellation was in full swing ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Positive",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "seconds \u2019",
-            "sudden inferno",
-            "swiss ski resort"
         ]
     },
     {
@@ -2173,6 +2155,66 @@
         ]
     },
     {
+        "title": "Racial and religious hate crime on UK public transport is growing, data shows",
+        "link": "https://www.theguardian.com/society/2026/jan/02/racial-and-religious-hate-on-uk-public-transport-is-growing-data-shows",
+        "summary": "Anti-racism groups warn some people are avoiding public transport or limiting their use of it for fear of abuseRacial and religious hate crime on public transport is on the rise according to new data ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Negative",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "public transport",
+            "data shows",
+            "public transport"
+        ]
+    },
+    {
+        "title": "Ministers may cut green tech mandate from new homes regulations in England",
+        "link": "https://www.theguardian.com/environment/2026/jan/02/ministers-may-cut-green-tech-mandate-from-new-homes-regulations-in-england",
+        "summary": "Exclusive: Critics say removing battery installation requirement will reduce amount homebuyers save on energy billsMinisters are poised to allow homes in England to be built without carbon-cutting tec...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "green tech mandate",
+            "new homes regulations",
+            "england exclusive"
+        ]
+    },
+    {
+        "title": "UK government should end rail outsourcing \u2018racket\u2019, says union",
+        "link": "https://www.theguardian.com/business/2026/jan/02/uk-government-end-rail-outsourcing-racket-rmt-union",
+        "summary": "RMT estimates six cleaning, security and catering suppliers made 150m profits last year Railway leaders should think afresh about outsourcing contracts and try to run services better, the rail ministe...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 37,
+        "sentiment": "Neutral",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "\u2018 racket \u2019",
+            "150m profits",
+            "rail minister"
+        ]
+    },
+    {
+        "title": "Winter blooming of hundreds of plants in UK \u2018visible signal\u2019 of climate breakdown",
+        "link": "https://www.theguardian.com/environment/2026/jan/02/winter-blooming-of-hundreds-of-plants-in-uk-visible-signal-of-climate-breakdown",
+        "summary": "New year plant hunt shows rising temperatures are shifting natural cycles of wildflowers such as daisies Daisies and dandelions are among hundreds of native plant species blooming in the UK, in what s...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-01-02",
+        "image_url": null,
+        "keywords": [
+            "visible signal \u2019",
+            "climate breakdown",
+            "new year plant hunt shows"
+        ]
+    },
+    {
         "title": "UK children to get chickenpox vaccine with measles, mumps and rubella jab",
         "link": "https://www.theguardian.com/society/2026/jan/02/uk-children-to-get-chickenpox-vaccine-with-measles-mumps-and-rubella-jab",
         "summary": "NHS to administer combined immunisation in move in line with approach in US, Canada, Australia and GermanyChildren in the UK are to be immunised against chickenpox at the same time as measles, mumps a...",
@@ -2185,66 +2227,6 @@
             "chickenpox vaccine",
             "rubella jab",
             "home nations"
-        ]
-    },
-    {
-        "title": "Birmingham revellers turn out for non-existent fireworks \u2013 for second new year in a row",
-        "link": "https://www.theguardian.com/uk-news/2026/jan/01/birmingham-new-year-fireworks-display-centenary-square-police",
-        "summary": "Hundreds of people gather in Centenary Square to see in 2026 after false claims online promise dazzling displayThe new year got off to an anticlimactic start for hundreds of people in Birmingham who w...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 55,
-        "sentiment": "Positive",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "non-existent fireworks \u2013",
-            "new year",
-            "false claims online"
-        ]
-    },
-    {
-        "title": "\u2018Shameful\u2019 41,000 people reached UK by small boat last year, says Home Office",
-        "link": "https://www.theguardian.com/uk-news/2026/jan/01/shameful-41000-people-reached-uk-by-small-boat-last-year-says-home-office",
-        "summary": "Second highest annual number of irregular arrivals on record reached British shores in 2025More than 41,000 people crossed the Channel in small boats last year, figures branded shameful by the Home Of...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 13,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "small boat",
-            "home office",
-            "annual number"
-        ]
-    },
-    {
-        "title": "Labour needs complete \u2018reset\u2019 to defeat Reform UK threat, says strategist",
-        "link": "https://www.theguardian.com/politics/2026/jan/01/labour-needs-complete-reset-to-defeat-threat-posed-by-reform-uk-says-strategist",
-        "summary": "New Labour advertising guru Chris Powell says urgent plan needed to wage and win the daily war for attentionChris Powell: What is Keir Starmer doing to push back the populists? Not nearly enoughKeir S...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-01-02",
-        "image_url": "https://i.guim.co.uk/img/media/ec60f24a2941c61cbb8137be916855e2c8bdb3e3/0_45_450_360/master/450.jpg?width=140&quality=85&auto=format&fit=max&s=d1720d677c5063c7b34620ba978053d8",
-        "keywords": [
-            "complete \u2018 reset \u2019",
-            "reform uk",
-            "chris powell"
-        ]
-    },
-    {
-        "title": "Two charities that received \u00a31.1m from Sackler Trust kept anonymous to prevent \u2018serious prejudice\u2019",
-        "link": "https://www.theguardian.com/society/2026/jan/01/charities-received-sackler-trust-kept-anonymous-to-prevent-serious-prejudice",
-        "summary": "British charitable trust that draws on OxyContin-maker fortune says it exempted names to protect reputationsTwo charities that received a combined total of more than 1.1m from the British charitable t...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 58,
-        "sentiment": "Positive",
-        "date": "2026-01-02",
-        "image_url": null,
-        "keywords": [
-            "serious prejudice \u2019",
-            "british charitable trust",
-            "reputationstwo charities"
         ]
     },
     {
