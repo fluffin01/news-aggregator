@@ -764,7 +764,7 @@
         ]
     },
     {
-        "title": "Two people pulled from sea as searches continue",
+        "title": "Two bodies pulled from sea as search continues",
         "link": "https://www.bbc.com/news/articles/ce3ewqew4weo?at_medium=RSS&at_campaign=rss",
         "summary": "Emergency services and HM Coastguard are at the scene in the East Yorkshire resort.",
         "source": "BBC News",
@@ -807,18 +807,75 @@
         ]
     },
     {
-        "title": "Trump warns US will intervene if Iran kills protesters",
-        "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president says \"we will come to their rescue\" after days of demonstrations and clashes.",
+        "title": "Trump promise to intervene over Iran protests 'reckless' says foreign minister",
+        "link": "https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS&at_campaign=rss",
+        "summary": "Trump warned Iran's authorities against killing peaceful protesters, saying Washington \"will come to their rescue\".",
+        "source": "BBC News",
+        "objectivity_score": 31,
+        "sentiment": "Neutral",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "protests 'reckless",
+            "foreign minister",
+            "'s authorities"
+        ]
+    },
+    {
+        "title": "Officer committed misconduct over mushroom foraging report",
+        "link": "https://www.bbc.com/news/articles/cn82jqwl1jlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Former PC Christopher Vickers was found to have committed gross misconduct over how he issued and recorded a community resolution report.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-01-03",
         "image_url": null,
         "keywords": [
-            "warns us",
-            "kills protesters",
-            "us president"
+            "pc christopher vickers",
+            "gross misconduct",
+            "community resolution report"
+        ]
+    },
+    {
+        "title": "Thousands of new magistrates wanted  to help clear backlog",
+        "link": "https://www.bbc.com/news/articles/cp87xm23e8ko?at_medium=RSS&at_campaign=rss",
+        "summary": "Justice Secretary David Lammy says magistrates serve \"a vital role\" and \"we need more people of every age and background to volunteer\".",
+        "source": "BBC News",
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "new magistrates",
+            "clear backlog justice secretary",
+            "david lammy"
+        ]
+    },
+    {
+        "title": "Two people killed in magnitude 6.5 earthquake in Mexico",
+        "link": "https://www.bbc.com/news/articles/c1ev8el75gyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The powerful earthquake shook southern and central Mexico on Friday, also leaving several people injured.",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "powerful earthquake shook southern"
+        ]
+    },
+    {
+        "title": "Missile attack on Kharkiv kills two, including child, say Ukraine authorities",
+        "link": "https://www.bbc.com/news/articles/cx2lnk3486xo?at_medium=RSS&at_campaign=rss",
+        "summary": "Russian officials say reports of the missile strike are untrue, suggesting the explosion was caused by Ukrainian ammunition.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "russian officials",
+            "missile strike"
         ]
     },
     {
@@ -836,20 +893,6 @@
         ]
     },
     {
-        "title": "Record year for wind and solar power - but is it enough to stay on track for 2030 targets?",
-        "link": "https://www.bbc.com/news/articles/cz947djd3d3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Wind, solar and other renewables hit a new high last year but the government is still some way off its clean power target.",
-        "source": "BBC News",
-        "objectivity_score": 43,
-        "sentiment": "Neutral",
-        "date": "2026-01-03",
-        "image_url": null,
-        "keywords": [
-            "solar power",
-            "clean power target"
-        ]
-    },
-    {
         "title": "FTSE 100 hits 10,000 mark for first time",
         "link": "https://www.bbc.com/news/articles/c87r05143dzo?at_medium=RSS&at_campaign=rss",
         "summary": "A rally on the first trading day of the new year has taken London's main share index through the milestone.",
@@ -861,35 +904,6 @@
         "keywords": [
             "new year",
             "main share index"
-        ]
-    },
-    {
-        "title": "Call for circumcision safeguards after baby death",
-        "link": "https://www.bbc.com/news/articles/cqj2r8x2k4yo?at_medium=RSS&at_campaign=rss",
-        "summary": "A coroner calls for regulation of male circumcisions after six-month-old Mohamed Abdisamad died.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-01-03",
-        "image_url": null,
-        "keywords": [
-            "circumcision safeguards",
-            "baby death",
-            "coroner calls"
-        ]
-    },
-    {
-        "title": "Karting champion, 16, aims for F1 top spot",
-        "link": "https://www.bbc.com/news/articles/cvg5lzn9y9qo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sheffield's Maisy Creed sets her sights on the F1 Academy after being crowned a karting champion.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-01-03",
-        "image_url": null,
-        "keywords": [
-            "top spot",
-            "maisy creed"
         ]
     },
     {
@@ -1046,6 +1060,49 @@
         ]
     },
     {
+        "title": "Karting champion, 16, aims for F1 top spot",
+        "link": "https://www.bbc.com/news/articles/cvg5lzn9y9qo?at_medium=RSS&at_campaign=rss",
+        "summary": "Sheffield's Maisy Creed sets her sights on the F1 Academy after being crowned a karting champion.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "top spot",
+            "maisy creed"
+        ]
+    },
+    {
+        "title": "Call for circumcision safeguards after baby death",
+        "link": "https://www.bbc.com/news/articles/cqj2r8x2k4yo?at_medium=RSS&at_campaign=rss",
+        "summary": "A coroner calls for regulation of male circumcisions after six-month-old Mohamed Abdisamad died.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "circumcision safeguards",
+            "baby death",
+            "coroner calls"
+        ]
+    },
+    {
+        "title": "Record year for wind and solar power - but is it enough to stay on track for 2030 targets?",
+        "link": "https://www.bbc.com/news/articles/cz947djd3d3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Wind, solar and other renewables hit a new high last year but the government is still some way off its clean power target.",
+        "source": "BBC News",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "solar power",
+            "clean power target"
+        ]
+    },
+    {
         "title": "I lecture nursing students about my dementia - I want to show it can happen to anyone",
         "link": "https://www.bbc.com/news/articles/c0r9pvx9821o?at_medium=RSS&at_campaign=rss",
         "summary": "When Joan Lyon was diagnosed with Alzheimer's in 2023 she set out to share her experience while she still could.",
@@ -1056,21 +1113,6 @@
         "image_url": null,
         "keywords": [
             "joan lyon"
-        ]
-    },
-    {
-        "title": "Politicians have given away too much power to deliver pledges, says PM's ex-aide",
-        "link": "https://www.bbc.com/news/articles/c75x6ew929po?at_medium=RSS&at_campaign=rss",
-        "summary": "Paul Ovenden, who left Downing Street in September, says the British state has been \"emasculating itself\".",
-        "source": "BBC News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-01-03",
-        "image_url": null,
-        "keywords": [
-            "'s ex-aide",
-            "paul ovenden",
-            "british state"
         ]
     },
     {
@@ -1085,35 +1127,6 @@
         "keywords": [
             "mounjaro mp carolyn harris",
             "warns others"
-        ]
-    },
-    {
-        "title": "Woman killed in suspected mountain lion attack in US",
-        "link": "https://www.bbc.com/news/articles/c9vxp4ng8d8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Colorado officials said that it would be the first time in more than 25 years that a mountain lion killed a person in the state, if confirmed.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-01-03",
-        "image_url": null,
-        "keywords": [
-            "mountain lion attack",
-            "mountain lion"
-        ]
-    },
-    {
-        "title": "Legendary horse trainer Ian Balding, father of broadcaster Clare, dies aged 87",
-        "link": "https://www.bbc.com/sport/horse-racing/articles/c4g50vg52pxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ian Balding, the legendary trainer of the 1971 Derby winner Mill Reef, dies at the age of 87.",
-        "source": "BBC News",
-        "objectivity_score": 80,
-        "sentiment": "Positive",
-        "date": "2026-01-03",
-        "image_url": null,
-        "keywords": [
-            "horse trainer",
-            "ian balding",
-            "ian balding"
         ]
     },
     {
@@ -1870,6 +1883,36 @@
         ]
     },
     {
+        "title": "NSW Labor accused of rushing inquiry into banning phrases such as \u2018globalise the intifada\u2019 over the holidays",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/03/nsw-labor-accused-of-rushing-inquiry-into-banning-phrases-such-as-globalise-the-intifada-over-the-holidays-ntwnfb",
+        "summary": "State opposition leader says inquiry established with no notice, no public hearings and an impossibly short deadlineGet our breaking news email, free app or daily news podcastA New South Wales parliam...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 39,
+        "sentiment": "Neutral",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "\u2018 globalise",
+            "intifada \u2019",
+            "holidays state opposition leader"
+        ]
+    },
+    {
+        "title": "Young man killed in apparent targeted drive-by shooting near police station in Melbourne\u2019s inner north",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/03/man-dies-after-shooting-in-melbournes-inner-north-ntwnfb",
+        "summary": "Police investigation continues after fatal shooting in Fitzroy in early hours of Saturday morningGet our breaking news email, free app or daily news podcastA young man has been killed in what police b...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "young man",
+            "drive-by shooting",
+            "police station"
+        ]
+    },
+    {
         "title": "Police to carry long-arm rifles at final Ashes Test in Sydney amid heightened security after Bondi attack",
         "link": "https://www.theguardian.com/australia-news/2026/jan/03/police-to-carry-long-arm-rifles-final-ashes-test-sydney-heightened-security-after-bondi-attack-ntwnfb",
         "summary": "Decision to carry the weapons at SCG not due to active or imminent threat but to help the public feel safe, NSW police chief saysGet our breaking news email, free app or daily news podcastPolice will ...",
@@ -1882,21 +1925,6 @@
             "long-arm rifles",
             "ashes test",
             "imminent threat"
-        ]
-    },
-    {
-        "title": "Man dies after shooting in Melbourne\u2019s inner north",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/03/man-dies-after-shooting-in-melbournes-inner-north-ntwnfb",
-        "summary": "Police investigation continues after fatal shooting in Fitzroy on Saturday nightGet our breaking news email, free app or daily news podcastHomicide detectives are investigating after a man was shot de...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-01-03",
-        "image_url": null,
-        "keywords": [
-            "news email",
-            "free app",
-            "news podcasthomicide detectives"
         ]
     },
     {
@@ -1927,21 +1955,6 @@
             "woman \u2019 s death",
             "independent investigation",
             "womans death"
-        ]
-    },
-    {
-        "title": "Real estate agents under the microscope in Australian-first privacy \u2018compliance sweep\u2019",
-        "link": "https://www.theguardian.com/world/2026/jan/02/personal-data-privacy-compliance-real-estate-agents",
-        "summary": "Businesses including pubs and car rental companies targeted to check if they use power asymmetry to gather personal data and keep it too longGet our breaking news email, free app or daily news podcast...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-01-03",
-        "image_url": null,
-        "keywords": [
-            "estate agents",
-            "privacy \u2018 compliance sweep \u2019",
-            "rental companies"
         ]
     },
     {
@@ -2020,6 +2033,36 @@
         ]
     },
     {
+        "title": "Tents supplied to displaced Palestinians \u2018inadequate for Gaza winter\u2019",
+        "link": "https://www.theguardian.com/world/2026/jan/03/tents-supplied-to-displaced-palestinians-inadequate-for-gaza-winter",
+        "summary": "Thousands have blown down in storms and tents from China, Egypt and Saudi Arabia found to be not waterproofThousands of tents supplied by China, Egypt and Saudi Arabia to shelter displaced Palestinian...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "winter \u2019 thousands",
+            "saudi arabia",
+            "saudi arabia"
+        ]
+    },
+    {
+        "title": "Saudi invites Yemen\u2019s southern factions to \u2018dialogue\u2019 in Riyadh after surprise independence bid",
+        "link": "https://www.theguardian.com/world/2026/jan/02/saudi-warplanes-kill-uae-backed-yemeni-separatists",
+        "summary": "Southern Transitional Council wants to form a breakaway state, which would split the Arabian Peninsulas poorest state in twoSaudi Arabias foreign ministry has called for Yemens southern factions to at...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 3,
+        "sentiment": "Neutral",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s southern factions",
+            "\u2018 dialogue \u2019",
+            "surprise independence bid"
+        ]
+    },
+    {
         "title": "BBC settles with 7 October survivors for filming home \u2018without permission\u2019",
         "link": "https://www.theguardian.com/media/2026/jan/02/bbc-settles-with-7-october-survivors-for-filming-home-without-permission",
         "summary": "Jewish family say crew did not seek consent to film inside their home days after it was wrecked by Hamas in southern IsraelThe BBC has said it has reached a settlement with a Jewish family who survive...",
@@ -2032,21 +2075,6 @@
             "home \u2018",
             "permission \u2019",
             "jewish family"
-        ]
-    },
-    {
-        "title": "Yemeni separatists plan to hold independence vote within two years",
-        "link": "https://www.theguardian.com/world/2026/jan/02/saudi-warplanes-kill-uae-backed-yemeni-separatists",
-        "summary": "Seven killed in strikes on south as Saudi-backed government moves to recapture key region from STCYemens southern separatists have announced plans to hold a referendum on independence from the north i...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-01-03",
-        "image_url": null,
-        "keywords": [
-            "separatists plan",
-            "independence vote",
-            "recapture key region"
         ]
     },
     {
@@ -2077,21 +2105,6 @@
             "red line",
             "\u2018 rescue \u2019 protesters",
             "foreign minister"
-        ]
-    },
-    {
-        "title": "Two people confirmed dead as Iran protests turn into \u2018battlefield\u2019",
-        "link": "https://www.theguardian.com/global-development/2026/jan/01/two-people-dead-iran-economic-crisis-protests-battlefield",
-        "summary": "Nationwide protests against living conditions enter fifth day with security forces reportedly using live ammunitionThe largest protests in Iran for three years entered a fifth day on Thursday amid rep...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Neutral",
-        "date": "2026-01-03",
-        "image_url": null,
-        "keywords": [
-            "\u2018 battlefield \u2019",
-            "security forces",
-            "security forces"
         ]
     },
     {
@@ -2170,6 +2183,36 @@
         ]
     },
     {
+        "title": "\u2018We will grind you down\u2019: how rogue peers became Labour\u2019s toughest opponents",
+        "link": "https://www.theguardian.com/news/ng-interactive/2026/jan/03/we-will-grind-you-down-how-rogue-peers-became-labours-toughest-opponents",
+        "summary": "As Labour seeks abolition of hereditary peers, Tory-dominated House of Lords has inflicted near-record number of defeats on No 10We will grind you down: how Labour reforms have changed the unwritten r...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Neutral",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "rogue peers",
+            "\u2019 s toughest opponents",
+            "hereditary peers"
+        ]
+    },
+    {
+        "title": "\u2018Sunshine Saturday\u2019: UK firms expect 5% January rise in holiday bookings",
+        "link": "https://www.theguardian.com/business/2026/jan/03/uk-travel-industry-winter-holiday-bookings-gozo",
+        "summary": "Quieter destinations, such as Maltas sister island, Gozo, and long-haul locations are expected to be popularUK travel companies are bracing for one of their busiest periods for bookings as winter-wear...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-01-03",
+        "image_url": null,
+        "keywords": [
+            "\u2018 sunshine",
+            "holiday bookings",
+            "sister island"
+        ]
+    },
+    {
         "title": "Man dies after being pulled from sea as search continues for two missing off Withernsea",
         "link": "https://www.theguardian.com/uk-news/2026/jan/02/search-under-way-for-two-people-missing-off-withernsea-in-east-riding-of-yorkshire",
         "summary": "Humberside police confirm death of 67-year-old as rescue operation under way in horrendous conditionsA man has died as a search continues for two people believed to be missing off Withernsea in the Ea...",
@@ -2212,36 +2255,6 @@
             "google ai overviews",
             "health advice",
             "investigation findspeople"
-        ]
-    },
-    {
-        "title": "Man, 51, dies after getting into difficulty in sea off Brighton beach",
-        "link": "https://www.theguardian.com/uk-news/2026/jan/02/man-51-dies-trying-to-rescue-woman-in-sea-off-brighton-beach",
-        "summary": "Man from Kettering was recovered from the water near Brighton Palace Pier on New Years Day morningA 51-year-old man has died after getting into difficulty in the sea at Brighton on New Years Day, poli...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
-        "date": "2026-01-03",
-        "image_url": null,
-        "keywords": [
-            "beach man",
-            "day morninga 51-year-old man",
-            "confirmed.sussex police"
-        ]
-    },
-    {
-        "title": "China\u2019s BYD overtakes Tesla as world\u2019s biggest electric car seller",
-        "link": "https://www.theguardian.com/business/2026/jan/02/china-byd-tesla-worlds-biggest-electric-car-seller-elon-musk-donald-trump-ev",
-        "summary": "Sales at Elon Musks company slump after Donald Trumps withdrawal of EV subsidiesChinas BYD overtook Tesla as the worlds largest electric carmaker in 2025, after the US company run by Elon Musk reporte...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
-        "date": "2026-01-03",
-        "image_url": null,
-        "keywords": [
-            "world \u2019 s",
-            "electric car seller",
-            "elon musks"
         ]
     },
     {
