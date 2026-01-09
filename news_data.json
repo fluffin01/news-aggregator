@@ -737,20 +737,6 @@
         ]
     },
     {
-        "title": "Storm Goretti brings 99mph winds and snow as 65,000 properties lose power",
-        "link": "https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&at_campaign=rss",
-        "summary": "A gust of 99mph is recorded in the Isles of Scilly as the storm brings heavy snow and rain to the UK.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-01-09",
-        "image_url": null,
-        "keywords": [
-            "storm goretti",
-            "heavy snow"
-        ]
-    },
-    {
         "title": "Minnesota officials say FBI blocked their access to ICE shooting probe",
         "link": "https://www.bbc.com/news/articles/c99knmrx71go?at_medium=RSS&at_campaign=rss",
         "summary": "Hundreds of people have taken to the streets of Minneapolis to protest the killing of 37-year-old Renee Good.",
@@ -808,16 +794,16 @@
         ]
     },
     {
-        "title": "Abandoned baby Elsa to be adopted and regularly see two siblings",
-        "link": "https://www.bbc.com/news/articles/cd740vpwx4go?at_medium=RSS&at_campaign=rss",
-        "summary": "Police say all enquiries to find the parents of the abandoned babies have now been \"exhausted\".",
+        "title": "Ofcom urged to use 'banning' powers over X AI deepfakes",
+        "link": "https://www.bbc.com/news/articles/ckgjzknepvzo?at_medium=RSS&at_campaign=rss",
+        "summary": "It follows an ongoing backlash against the use of X's AI Grok to digitally remove clothing from images.",
         "source": "BBC News",
-        "objectivity_score": 38,
-        "sentiment": "Negative",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-01-09",
         "image_url": null,
         "keywords": [
-            "abandoned"
+            "ai grok"
         ]
     },
     {
@@ -1038,6 +1024,19 @@
         ]
     },
     {
+        "title": "Abandoned baby Elsa to be adopted and regularly see two siblings",
+        "link": "https://www.bbc.com/news/articles/cd740vpwx4go?at_medium=RSS&at_campaign=rss",
+        "summary": "Police say all enquiries to find the parents of the abandoned babies have now been \"exhausted\".",
+        "source": "BBC News",
+        "objectivity_score": 38,
+        "sentiment": "Negative",
+        "date": "2026-01-09",
+        "image_url": null,
+        "keywords": [
+            "abandoned"
+        ]
+    },
+    {
         "title": "Weight loss jabs affecting Greggs, boss says",
         "link": "https://www.bbc.com/news/articles/c20g11y4dywo?at_medium=RSS&at_campaign=rss",
         "summary": "The Greggs boss says there is \"no doubt\" weight loss jabs have led it to having a healthier menu.",
@@ -1104,21 +1103,6 @@
         "image_url": null,
         "keywords": [
             "extra time"
-        ]
-    },
-    {
-        "title": "Nasa considers whether to bring sick crew member back to Earth",
-        "link": "https://www.bbc.com/news/articles/cx2l9perw68o?at_medium=RSS&at_campaign=rss",
-        "summary": "Nasa is assessing what to do next following a medical issue on board the International Space Station.",
-        "source": "BBC News",
-        "objectivity_score": 15,
-        "sentiment": "Negative",
-        "date": "2026-01-09",
-        "image_url": null,
-        "keywords": [
-            "sick crew member",
-            "earth nasa",
-            "medical issue"
         ]
     },
     {
@@ -1266,16 +1250,16 @@
         ]
     },
     {
-        "title": "Live Updates: Senate Advances Measure to Curb Trump\u2019s Use of Force in Venezuela",
+        "title": "Venezuela Updates: Senate Advances Measure to Curb Trump\u2019s Use of Force",
         "link": "https://www.nytimes.com/live/2026/01/08/world/us-venezuela-trump",
         "summary": "In a rebuke to the president, the Senate narrowly agreed to bring up a War Powers Act resolution for a vote next week. The measure would require Mr. Trump to seek congressional authorization for milit...",
         "source": "NYT > World News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
+        "objectivity_score": 16,
+        "sentiment": "Negative",
         "date": "2026-01-09",
         "image_url": null,
         "keywords": [
-            "live updates",
+            "venezuela updates",
             "curb trump",
             "act resolution"
         ]
@@ -1471,6 +1455,64 @@
         ]
     },
     {
+        "title": "Inside Myanmar\u2019s Gilded Capital, Empty Streets and Moldy Corners",
+        "link": "https://www.nytimes.com/2026/01/09/world/asia/myanmar-capital-naypyidaw.html",
+        "summary": "Myanmars junta created a capital to withstand an invasion. Now, the military struggles to project an image of control over a crumbling nation.",
+        "source": "NYT > World News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-01-09",
+        "image_url": null,
+        "keywords": [
+            "gilded capital",
+            "moldy corners myanmars",
+            "military struggles"
+        ]
+    },
+    {
+        "title": "Russia Appears to Use Nuclear-Capable Missile in Ukraine",
+        "link": "https://www.nytimes.com/2026/01/08/world/europe/russia-ukraine-nuclear-capable-missile.html",
+        "summary": "If confirmed, the use of the missile would be an ominous threat to Ukraine and its Western allies.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-01-09",
+        "image_url": null,
+        "keywords": [
+            "russia appears",
+            "ominous threat",
+            "western allies"
+        ]
+    },
+    {
+        "title": "Venezuela Mourns the Dozens Who Died in U.S. Operation",
+        "link": "https://www.nytimes.com/2026/01/08/world/americas/venezuela-mourns-dozens-killed.html",
+        "summary": "For all Venezuelans, the nighttime raid opened a period of deep uncertainty. For the families of those killed, it meant the grim task of burying their relatives.",
+        "source": "NYT > World News",
+        "objectivity_score": 46,
+        "sentiment": "Negative",
+        "date": "2026-01-09",
+        "image_url": null,
+        "keywords": [
+            "venezuela mourns",
+            "dozens who died",
+            "nighttime raid"
+        ]
+    },
+    {
+        "title": "Once Again, a Newfoundland Town Rescues Stranded Passengers",
+        "link": "https://www.nytimes.com/2026/01/08/world/canada/gander-canada-airport-stranded-travelers.html",
+        "summary": "After 9/11, Gander took in thousands of people whose flights were diverted. History repeated on a smaller scale this week.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-01-09",
+        "image_url": null,
+        "keywords": [
+            "rescues stranded passengers"
+        ]
+    },
+    {
         "title": "Ukraine Awards Major Lithium Project to Investors With Links to Trump",
         "link": "https://www.nytimes.com/2026/01/08/world/europe/trump-lauder-ukraine-lithium.html",
         "summary": "Ronald S. Lauder, a billionaire friend of Mr. Trump, is among the investors. The move comes as the Trump administration looks for investment opportunities in Ukraine.",
@@ -1560,60 +1602,18 @@
         ]
     },
     {
-        "title": "Climate Change Has Turned Greenland Into a Target for Trump",
-        "link": "https://www.nytimes.com/2026/01/08/climate/trump-greenland-climate-change.html",
-        "summary": "A warming planet has opened up new shipping routes and turned Greenland into a geostrategic asset for the Trump administration.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
+        "title": "Attempt to overturn the Gambia\u2019s ban on FGM heard by supreme court",
+        "link": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
+        "summary": "Case brought by Muslim leaders and MP follows failed 2024 bid and seen as part of global anti-womens rights backlashA group of religious leaders and an MP in the Gambia have launched efforts to overtu...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 19,
+        "sentiment": "Negative",
         "date": "2026-01-09",
         "image_url": null,
         "keywords": [
-            "turned greenland",
-            "new shipping routes",
-            "geostrategic asset"
-        ]
-    },
-    {
-        "title": "Macron tells ambassadors that the world has become \u2018unhinged.\u2019",
-        "link": "https://www.nytimes.com/live/2026/01/08/world/us-venezuela-trump/macron-tells-ambassadors-that-the-world-has-become-unhinged",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-09",
-        "image_url": null,
-        "keywords": [
-            "macron"
-        ]
-    },
-    {
-        "title": "Trump Addresses Venezuela, Greenland and Presidential Power in New York Times Interview",
-        "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-interview-power-morality.html",
-        "summary": "On topic after topic, President Trump made clear that he would be the arbiter of any limits to his authorities, not international law or treaties.",
-        "source": "NYT > World News",
-        "objectivity_score": 27,
-        "sentiment": "Neutral",
-        "date": "2026-01-09",
-        "image_url": null,
-        "keywords": [
-            "trump addresses venezuela",
-            "international law"
-        ]
-    },
-    {
-        "title": "Three Reported Missing in Australia as Fires Rage in \u2018Catastrophic\u2019 Conditions",
-        "link": "https://www.nytimes.com/2026/01/08/weather/australia-heat-wave-fire.html",
-        "summary": "The country is in the midst of a record-breaking heat wave, with temperatures well above 100 degrees Fahrenheit. Multiple bush fires were burning in the state of Victoria.",
-        "source": "NYT > World News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-01-09",
-        "image_url": null,
-        "keywords": [
-            "reported missing",
-            "fires rage",
-            "heat wave"
+            "\u2019 s ban",
+            "supreme court",
+            "global anti-womens rights backlasha group"
         ]
     },
     {
@@ -1677,32 +1677,32 @@
         ]
     },
     {
-        "title": "Guinea\u2019s junta chief elected president after opposition boycott",
-        "link": "https://www.theguardian.com/world/2025/dec/31/guinea-junta-chief-mamady-doumbouya-elected-president-after-opposition-boycott",
-        "summary": "Mamady Doumbouya reneged on promise not to stand and hand west African country back to civilian ruleThe head of Guineas junta, Mamady Doumbouya, who had pledged not to run for office after seizing pow...",
+        "title": "Venezuela begins releasing political detainees to \u2018consolidate peace\u2019",
+        "link": "https://www.theguardian.com/world/2026/jan/08/venezuela-to-release-important-number-of-detainees",
+        "summary": "Opposition leader Mara Corina Machado hails move to tackle injustice as Spains foreign ministry confirms release of five Spanish nationalsFive days after the US seized Nicols Maduro, Venezuela has ann...",
         "source": "World news | The Guardian",
-        "objectivity_score": 11,
+        "objectivity_score": 24,
         "sentiment": "Neutral",
         "date": "2026-01-09",
         "image_url": null,
         "keywords": [
-            "\u2019 s junta chief",
-            "opposition boycott",
-            "mamady doumbouya"
+            "political detainees",
+            "\u2018 consolidate peace \u2019",
+            "mara corina machado"
         ]
     },
     {
-        "title": "Venezuela says it is releasing an important number of detainees to \u2018consolidate peace\u2019",
-        "link": "https://www.theguardian.com/world/2026/jan/08/venezuela-to-release-important-number-of-detainees",
-        "summary": "Opposition leader Mara Corina Machado hails move to tackle injustice as Spains foreign ministry confirms release of five Spanish nationalsFive days after the US seized Nicols Maduro, Venezuela has ann...",
+        "title": "Trump says he will meet Venezuela opposition leader Machado, and threatens drug cartel land strikes",
+        "link": "https://www.theguardian.com/world/2026/jan/09/trump-venezuela-leadership-meeting-opposition-machado",
+        "summary": "Trump was once dismissive of Mara Corina Machado but said it would be a great honour to accept her Nobel peace prize if she made the offer Donald Trump has said he plans to meet Venezuelan opposition ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-01-09",
         "image_url": null,
         "keywords": [
-            "important number",
-            "\u2018 consolidate peace \u2019",
+            "opposition leader",
+            "threatens drug cartel land strikes",
             "mara corina machado"
         ]
     },
@@ -1749,21 +1749,6 @@
             "fleet \u2019 ships",
             "lloyds list",
             "analysis suggests"
-        ]
-    },
-    {
-        "title": "US protester arrested after TV interview says she was targeted due to Venezuela trip",
-        "link": "https://www.theguardian.com/us-news/2026/jan/08/venezuela-protester-arrested",
-        "summary": "Jessica Plichta faces misdemeanor charges, which locals say is a tactic of Grand Rapids, Michigan, police to suppress protestsJessica Plichta was arrested on 3 January after a live interview with a lo...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Positive",
-        "date": "2026-01-09",
-        "image_url": null,
-        "keywords": [
-            "us protester",
-            "tv interview",
-            "jessica plichta"
         ]
     },
     {
@@ -1842,78 +1827,93 @@
         ]
     },
     {
-        "title": "Three people missing and multiple properties destroyed as bushfire hits Victorian town \u2018like a bomb\u2019",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/09/ten-properties-in-ruffy-destroyed-including-firefighters-home-as-fire-hits-victorian-town-like-a-bomb",
-        "summary": "Authorities warn lives could be lost amid catastrophic conditions as firefighters fears there is nothing left of town in Strathbogie RangesFollow our Australia news live blog for latest updatesGet our...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-01-09",
-        "image_url": null,
-        "keywords": [
-            "multiple properties",
-            "bushfire hits",
-            "town \u2018"
-        ]
-    },
-    {
-        "title": "Australia news live: three missing in Victorian fire hotspot were last seen in front of house later destroyed by flames",
+        "title": "Australia news live: black Saturday-affected towns told \u2018prepare to leave\u2019 as fire front hits Alexandra; mercury passes 46C in Mallee region",
         "link": "https://www.theguardian.com/australia-news/live/2026/jan/09/australia-news-live-victoria-catastrophic-bushfire-fire-ban-heatwave-tropical-cyclone-floods-royal-commission-antisemitism-bondi-anthony-albanese-ntwnfb",
-        "summary": "State warned to be prepared and stay indoors as firefighters battle blazes. Follow todays news liveGet our breaking news email, free app or daily news podcastAttorney general says PM took time to get ...",
+        "summary": "About 35,000 customers without electricity across Victoria, with energy companies working to safely restore power. Follow todays news liveGet our breaking news email, free app or daily news podcastAtt...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-01-09",
-        "image_url": null,
-        "keywords": [
-            "fire hotspot",
-            "flames state",
-            "firefighters battle blazes"
-        ]
-    },
-    {
-        "title": "Three luxury yachts sink in Sydney Harbour as fire rips through exclusive Mosman marina",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/09/luxury-yachts-sydney-harbour-fire-mosman",
-        "summary": "Fire at superyacht berth is not being treated as suspicious, police sayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThree vessels ha...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 42,
         "sentiment": "Positive",
         "date": "2026-01-09",
         "image_url": null,
         "keywords": [
-            "luxury yachts",
-            "sydney harbour",
-            "fire rips"
+            "fire front hits",
+            "energy companies",
+            "restore power"
         ]
     },
     {
-        "title": "Dozens of writers boycott Adelaide festival after it dumps pro-Palestine academic Randa Abdel-Fattah",
-        "link": "https://www.theguardian.com/culture/2026/jan/09/adelaide-festival-boycott-pro-palestine-academic-randa-abdel-fattah-ntwnfb",
-        "summary": "Miles Franklin winner Michelle de Kretser among more than 24 people who have pulled out of annual writers festival to protest Abdel-Fattahs axingFollow our Australia news live blog for latest updatesG...",
+        "title": "Wind change sparks new fires amid extreme hot weather in Victoria as three people remain missing",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/09/ten-properties-in-ruffy-destroyed-including-firefighters-home-as-fire-hits-victorian-town-like-a-bomb",
+        "summary": "Authorities warn lives could be lost amid catastrophic conditions as firefighters fear there is nothing left of town in Strathbogie RangesFollow our Australia news live blog for latest updatesGet our ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 35,
+        "objectivity_score": 55,
         "sentiment": "Positive",
         "date": "2026-01-09",
         "image_url": null,
         "keywords": [
-            "writers boycott",
-            "dumps pro-palestine",
-            "randa abdel-fattah miles franklin"
+            "new fires",
+            "hot weather",
+            "catastrophic conditions"
         ]
     },
     {
-        "title": "Heatwave engulfs Australia\u2019s south-east bringing catastrophic fire conditions not seen since black summer",
+        "title": "\u2018Toughest conditions imaginable\u2019: Victorians urged to shelter inside from heatwave as tropical cyclone heads for Queensland",
         "link": "https://www.theguardian.com/environment/2026/jan/09/heatwave-engulfs-south-eastern-states-as-victoria-faces-catastrophic-bushfire-conditions-not-seen-since-black-summer",
-        "summary": "Melbourne mercury expected to hit 43C with higher temperatures inland and a total fire ban in place for all VictoriaFollow our Australia news live blog for latest updatesGet our breaking news email, f...",
+        "summary": "Heatwave warnings in place for nearly all states and territories as Sydney braces for 43C forecast on SaturdayFollow our Australia news live blog for latest updatesGet our breaking news email, free ap...",
         "source": "World news | The Guardian",
-        "objectivity_score": 59,
+        "objectivity_score": 56,
         "sentiment": "Neutral",
         "date": "2026-01-09",
         "image_url": null,
         "keywords": [
-            "\u2019 s south-east",
-            "catastrophic fire conditions",
-            "black summer"
+            "imaginable \u2019",
+            "tropical cyclone heads",
+            "queensland heatwave"
+        ]
+    },
+    {
+        "title": "Sussan Ley won the royal commission argument. For the sake of unity, will she lower the temperature?",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/09/sussan-ley-won-royal-commission-argument-ntwnfb",
+        "summary": "The opposition isnt obliged to give the government a free pass  but its time to let the inquiry and criminal court proceedings do their workFollow our Australia news live blog for latest updatesGet ou...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 61,
+        "sentiment": "Positive",
+        "date": "2026-01-09",
+        "image_url": null,
+        "keywords": [
+            "sussan ley",
+            "royal commission argument",
+            "opposition isnt"
+        ]
+    },
+    {
+        "title": "Victoria police revokes powers to allow warrantless pat-downs across inner Melbourne",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/09/victoria-police-revokes-powers-to-allow-warrantless-pat-downs-across-inner-melbourne",
+        "summary": "Police say declaration of Melbourne CBD and surrounds as a designated area will end on 9 January, more than four months ahead of scheduleFollow our Australia news live blog for latest updatesGet our b...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 49,
+        "sentiment": "Positive",
+        "date": "2026-01-09",
+        "image_url": null,
+        "keywords": [
+            "police revokes powers",
+            "warrantless pat-downs",
+            "melbourne cbd"
+        ]
+    },
+    {
+        "title": "Whistle, crackle, banned: Dutch set to outlaw fireworks after more new year chaos",
+        "link": "https://www.theguardian.com/world/2026/jan/09/dutch-netherlands-fireworks-ban-new-years-eve",
+        "summary": "Netherlands expected to join Ireland in prohibiting most consumer fireworks as other EU countries debate crackdownWindow-rattling explosions turned Yara Basta-Boss street into a war zone last week, bu...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 48,
+        "sentiment": "Neutral",
+        "date": "2026-01-09",
+        "image_url": null,
+        "keywords": [
+            "outlaw fireworks",
+            "new year chaos",
+            "consumer fireworks"
         ]
     },
     {
@@ -1977,18 +1977,18 @@
         ]
     },
     {
-        "title": "Masses of toxic litter pours from Rhine into North Sea each year, research finds",
-        "link": "https://www.theguardian.com/environment/2026/jan/08/masses-of-toxic-litter-pours-from-rhine-into-north-sea-each-year-research-finds",
-        "summary": "Citizen scientists help in University of Bonn study showing river carries up to 4,700 tonnes of macrolitter annuallyThousands of tonnes of litter are pouring into the North Sea via the Rhine every yea...",
+        "title": "Home Office tells Gaza academic his bid to bring family to UK not urgent",
+        "link": "https://www.theguardian.com/politics/2026/jan/09/home-office-gaza-academic-bassem-abudagga-family",
+        "summary": "Bassem Abudagga losing hope after being told wife must go to visa application centre, of which none remain in GazaA Palestinian academic has failed in his latest attempt to be reunited with his family...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Neutral",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
         "date": "2026-01-09",
         "image_url": null,
         "keywords": [
-            "toxic litter pours",
-            "north sea",
-            "macrolitter annuallythousands"
+            "bassem abudagga",
+            "visa application centre",
+            "gazaa palestinian"
         ]
     },
     {
@@ -2049,21 +2049,6 @@
             "army orders",
             "forces people",
             "us-backed kurdish"
-        ]
-    },
-    {
-        "title": "\u2018They are killing us\u2019: authorities use force against protesters in Kurdish regions of Iran",
-        "link": "https://www.theguardian.com/world/2026/jan/07/they-are-killing-us-authorities-use-force-against-protesters-in-kurdish-regions-of-iran",
-        "summary": "People face teargas, pellet guns and violence as protests continue and opposition parties call for general strikeDemonstrations over economic conditions broke out in Kurdish regions of Iran on Wednesd...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2026-01-09",
-        "image_url": null,
-        "keywords": [
-            "pellet guns",
-            "opposition parties",
-            "general strikedemonstrations"
         ]
     },
     {
@@ -2142,6 +2127,21 @@
         ]
     },
     {
+        "title": "Storm Goretti live: danger to life warning as heavy rain, strong winds and snow batter UK",
+        "link": "https://www.theguardian.com/uk-news/live/2026/jan/09/storm-goretti-live-news-updates-uk-weather-snow-latest-met-office-warnings",
+        "summary": "Red and amber weather warnings have been issued across the UK as Storm Goretti evolves into a weather bombHere are some of the latest images coming in as Storm Goretti pummels the UK.And one from Fran...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-01-09",
+        "image_url": null,
+        "keywords": [
+            "storm goretti",
+            "life warning",
+            "heavy rain"
+        ]
+    },
+    {
         "title": "Thousands of offenders in England to get health support at probation meetings",
         "link": "https://www.theguardian.com/society/2026/jan/09/offenders-nhs-health-support-probation-meetings-england-pilot",
         "summary": "Exclusive: NHS clinicians will sit in on appointments in pilot scheme in four areas aimed at reducing reoffendingAbout 4,000 offenders in England will get targeted healthcare sessions during their pro...",
@@ -2202,26 +2202,11 @@
         ]
     },
     {
-        "title": "Palestine Action activist compared to suffragettes in court",
-        "link": "https://www.theguardian.com/uk-news/2026/jan/08/palestine-action-activist-compared-to-suffragettes-in-court",
-        "summary": "Charlotte Head, who is accused of taking part in a break-in at Israeli defence firm, is called a remarkable woman by her barristerA Palestine Action activist accused of taking part in a break-in at an...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
-        "date": "2026-01-09",
-        "image_url": null,
-        "keywords": [
-            "action activist",
-            "charlotte head",
-            "defence firm"
-        ]
-    },
-    {
         "title": "Portland leaders and Oregon lawmakers demand ICE leave city after immigration agents shoot two people \u2013 live",
         "link": "https://www.theguardian.com/us-news/live/2026/jan/08/minneapolis-shooting-ice-minnesota-protests-vigils-donald-trump-latest-news-updates",
-        "summary": "Condition of victims unknown; shooting comes one day after an ICE agent killed US citizen in MinneapolisTwo people shot by US federal agents in Portland, police sayICE agent in Minneapolis killing ide...",
+        "summary": "Condition of victims unknown; shooting comes one day after an ICE agent killed US citizen in Minneapolis. This blog is pausedTwo people shot by US federal agents in Portland, police sayICE agent in Mi...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
+        "objectivity_score": 49,
         "sentiment": "Neutral",
         "date": "2026-01-09",
         "image_url": null,
@@ -2232,12 +2217,27 @@
         ]
     },
     {
-        "title": "Two people shot by US federal agents in Portland, police say",
-        "link": "https://www.theguardian.com/us-news/2026/jan/08/portland-federal-agents-shooting",
-        "summary": "Mayor urges ICE to pause operations as congresswoman says victims alive but extent of injuries unknownUS politics live  latest updatesUS federal agents shot two people in Portland, Oregon, on Thursday...",
+        "title": "\u2018A colossal own goal\u2019: Trump\u2019s exit from global climate treaties will have little effect outside US",
+        "link": "https://www.theguardian.com/environment/2026/jan/09/a-colossal-own-goal-trumps-exit-from-global-climate-treaties-will-have-little-effect-outside-us",
+        "summary": "For much of the last 30 years, the rest of the world has been forced to persevere with climate action in the face of US intransigenceOutrage as Trump withdraws from key UN climate treaty along with do...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
+        "objectivity_score": 42,
+        "sentiment": "Neutral",
+        "date": "2026-01-09",
+        "image_url": null,
+        "keywords": [
+            "own goal \u2019",
+            "\u2019 s exit",
+            "global climate treaties"
+        ]
+    },
+    {
+        "title": "Two people shot by US federal agents in Portland",
+        "link": "https://www.theguardian.com/us-news/2026/jan/08/portland-federal-agents-shooting",
+        "summary": "Mayor urges ICE to pause operations as representative says victims alive but extent of injuries unknownUS federal agents shot two people outside a hospital in Portland, Oregon, a day after an ICE offi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 13,
+        "sentiment": "Neutral",
         "date": "2026-01-09",
         "image_url": null,
         "keywords": [
@@ -2274,21 +2274,6 @@
             "us congressmen",
             "force release",
             "democrat ro khanna"
-        ]
-    },
-    {
-        "title": "Nasa postpones spacewalk due to medical issue with astronaut",
-        "link": "https://www.theguardian.com/science/2026/jan/08/nasa-spacewalk-medical-issue-astronaut",
-        "summary": "Space agency says US-Japanese-Russian crew of four will return to Earth in the coming days, earlier than plannedNasa is cutting short a mission aboard the International Space Station after an astronau...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
-        "date": "2026-01-09",
-        "image_url": null,
-        "keywords": [
-            "postpones spacewalk",
-            "medical issue",
-            "astronaut space agency"
         ]
     }
 ]
