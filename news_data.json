@@ -737,17 +737,17 @@
         ]
     },
     {
-        "title": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
-        "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Hundreds of people are believed to have been killed and injured by the security forces, with more than 70 bodies brought to one hospital.",
+        "title": "Iran protesters defy crackdown as videos show violent clashes",
+        "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+        "summary": "Hundreds of protesters are believed to have been killed or injured, and many more detained.",
         "source": "BBC News",
-        "objectivity_score": 30,
+        "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-01-11",
         "image_url": null,
         "keywords": [
-            "medics describe hospitals",
-            "security forces"
+            "protesters defy crackdown",
+            "violent clashes"
         ]
     },
     {
@@ -766,31 +766,33 @@
         ]
     },
     {
-        "title": "Emotional scenes as Macclesfield beat FA Cup holders Crystal Palace 25 days after striker's death",
-        "link": "https://www.bbc.com/sport/football/articles/cy8yqj8jd6yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ethan McLeod died in a car crash on 16 December. The 21-year-old's parents celebrated with players and fans following the non-league side's shock 2-1 victory over Crystal Palace.",
+        "title": "Is Macclesfield beating Crystal Palace greatest FA Cup upset?",
+        "link": "https://www.bbc.com/sport/football/articles/c20dxzezx0qo?at_medium=RSS&at_campaign=rss",
+        "summary": "After Macclesfield beat FA Cup holders Crystal Palace in the third round, BBC Sport looks at 10 of the biggest upsets in the competition's history.",
         "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 46,
         "sentiment": "Positive",
         "date": "2026-01-11",
         "image_url": null,
         "keywords": [
-            "cup holders crystal palace",
-            "striker 's death",
-            "ethan mcleod"
+            "crystal palace",
+            "cup upset",
+            "cup holders crystal palace"
         ]
     },
     {
-        "title": "Dozens arrested and one police officer injured in Minneapolis protests",
-        "link": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
-        "summary": "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US.",
+        "title": "Tories would ban under-16s from social media",
+        "link": "https://www.bbc.com/news/articles/cx2wyeqw3gpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Kemi Badenoch has promised to follow the example of Australia, which introduced the policy in December last year.",
         "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Positive",
+        "objectivity_score": 6,
+        "sentiment": "Neutral",
         "date": "2026-01-11",
         "image_url": null,
         "keywords": [
-            "police officer"
+            "ban under-16s",
+            "social media",
+            "kemi badenoch"
         ]
     },
     {
@@ -836,6 +838,75 @@
         ]
     },
     {
+        "title": "My three-hour university commute is worth the \u00a37,000 saving on halls",
+        "link": "https://www.bbc.com/news/articles/c4g09p93m29o?at_medium=RSS&at_campaign=rss",
+        "summary": "Over two-thirds of students choose not to live at university, latest figures suggest - but is it worth it?",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-01-11",
+        "image_url": null,
+        "keywords": [
+            "three-hour university commute"
+        ]
+    },
+    {
+        "title": "The FTSE 100 has hit a record high. Is now the time to start investing?",
+        "link": "https://www.bbc.com/news/articles/cy0958w1y1go?at_medium=RSS&at_campaign=rss",
+        "summary": "As the FTSE hits the 10,000 mark, the chancellor is encouraging more of us to become investors - but is it the right time?",
+        "source": "BBC News",
+        "objectivity_score": 52,
+        "sentiment": "Positive",
+        "date": "2026-01-11",
+        "image_url": null,
+        "keywords": [
+            "record high",
+            "right time"
+        ]
+    },
+    {
+        "title": "'The answer cannot be nothing': The battle over Canada's mystery brain disease",
+        "link": "https://www.bbc.com/news/articles/c623r47d67lo?at_medium=RSS&at_campaign=rss",
+        "summary": "A small Canadian province feared it had a mystery neurological illness on its hands. The search for answers set off a battle for the truth.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-01-11",
+        "image_url": null,
+        "keywords": [
+            "'s mystery brain disease",
+            "small canadian province",
+            "mystery neurological illness"
+        ]
+    },
+    {
+        "title": "Winners and Sinners: What to expect from the Golden Globes",
+        "link": "https://www.bbc.com/news/articles/c338d55p0k6o?at_medium=RSS&at_campaign=rss",
+        "summary": "Marty Supreme, Sinners and One Battle After Another are the films competing at this year's ceremony.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-01-11",
+        "image_url": null,
+        "keywords": [
+            "globes marty",
+            "year 's ceremony"
+        ]
+    },
+    {
+        "title": "I'll have two babies with the same dad but I don't know what he looks like",
+        "link": "https://www.bbc.com/news/articles/clye738nxz0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The number of mothers deciding to have a baby solo is increasing rapidly - Lucy explains why she chose this route.",
+        "source": "BBC News",
+        "objectivity_score": 12,
+        "sentiment": "Neutral",
+        "date": "2026-01-11",
+        "image_url": null,
+        "keywords": [
+            "baby solo"
+        ]
+    },
+    {
         "title": "'Herm\u00e8s of durian': The luxury fruit cashing in on China's billion-dollar appetite",
         "link": "https://www.bbc.com/news/articles/cz7ndzw28v4o?at_medium=RSS&at_campaign=rss",
         "summary": "A former gold mining town in Malaysia has seen its riches turn a new shade of yellow, thanks to this pungent fruit.",
@@ -865,75 +936,30 @@
         ]
     },
     {
-        "title": "Greenlanders fear for future as island embroiled in geopolitical storm",
-        "link": "https://www.bbc.com/news/articles/cgrd2e7p9reo?at_medium=RSS&at_campaign=rss",
-        "summary": "Islanders want a bigger say in their ties with Denmark, but also on the world stage too.",
+        "title": "Potholes map rates council road repair progress",
+        "link": "https://www.bbc.com/news/articles/ckgj1m1ze8go?at_medium=RSS&at_campaign=rss",
+        "summary": "Thirteen local authorities received a \"red rating\" on the Department for Transport mapping tool for England.",
         "source": "BBC News",
-        "objectivity_score": 31,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-01-11",
         "image_url": null,
         "keywords": [
-            "geopolitical storm",
-            "world stage"
+            "map rates council road repair progress",
+            "local authorities"
         ]
     },
     {
-        "title": "How a friend request led a beauty queen to uncover Scotland's most prolific catfish",
-        "link": "https://www.bbc.com/news/articles/ckgkr15el67o?at_medium=RSS&at_campaign=rss",
-        "summary": "Abbie Draper spent a decade trying to expose the person pretending to be hospital doctor David Graham.",
+        "title": "Snow, rain and wind warnings continue after Goretti disruption",
+        "link": "https://www.bbc.com/news/articles/c5yvp0zg1deo?at_medium=RSS&at_campaign=rss",
+        "summary": "A Met Office yellow warning for snow and ice in Scotland, which begins at 03:00 on Sunday, has been upgraded to amber.",
         "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-01-11",
-        "image_url": null,
-        "keywords": [
-            "friend request",
-            "beauty queen",
-            "prolific catfish"
-        ]
-    },
-    {
-        "title": "Romance and parenthood feel remote in Ukraine: 'I haven't had a date since before the war'",
-        "link": "https://www.bbc.com/news/articles/c9qp4wyzvlzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Tumbling marriage and birth rates are shaping the future of a country whose population was already falling.",
-        "source": "BBC News",
-        "objectivity_score": 16,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-01-11",
         "image_url": null,
         "keywords": [
-            "birth rates"
-        ]
-    },
-    {
-        "title": "Doctors said I might not make my second birthday. Now I'm 25",
-        "link": "https://www.bbc.com/news/articles/czejd4jny74o?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC's Ben Morris describes living with spinal muscular atrophy, as former Little Mix star Jesy Nelson reveals her twins have the condition.",
-        "source": "BBC News",
-        "objectivity_score": 16,
-        "sentiment": "Neutral",
-        "date": "2026-01-11",
-        "image_url": null,
-        "keywords": [
-            "ben morris",
-            "muscular atrophy",
-            "little mix"
-        ]
-    },
-    {
-        "title": "Where does latest Traitors showdown rank in show's most explosive moments?",
-        "link": "https://www.bbc.com/news/articles/c79r84y4x29o?at_medium=RSS&at_campaign=rss",
-        "summary": "We look at whether the recent confrontation between two contestants on The Traitors goes down as the most dramatic ever.",
-        "source": "BBC News",
-        "objectivity_score": 56,
-        "sentiment": "Neutral",
-        "date": "2026-01-11",
-        "image_url": null,
-        "keywords": [
-            "showdown rank",
-            "show 's",
-            "explosive moments"
+            "yellow warning"
         ]
     },
     {
@@ -952,19 +978,6 @@
         ]
     },
     {
-        "title": "Snow, rain and wind warnings continue after Goretti disruption",
-        "link": "https://www.bbc.com/news/articles/c5yvp0zg1deo?at_medium=RSS&at_campaign=rss",
-        "summary": "A Met Office yellow warning for snow and ice in Scotland, which begins at 03:00 on Sunday, has been upgraded to amber.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-11",
-        "image_url": null,
-        "keywords": [
-            "yellow warning"
-        ]
-    },
-    {
         "title": "Bob Weir, Grateful Dead co-founder, dies aged 78",
         "link": "https://www.bbc.com/news/articles/cly95x9qe4ko?at_medium=RSS&at_campaign=rss",
         "summary": "Weir was a fixture in the psychedelic rock group and its various spin-offs over 60 years.",
@@ -980,57 +993,45 @@
         ]
     },
     {
-        "title": "Rare first Superman comic once stolen from Nicolas Cage sells for $15m",
-        "link": "https://www.bbc.com/news/articles/cly95lpwl1ro?at_medium=RSS&at_campaign=rss",
-        "summary": "Fewer than 100 copies of Action Comics No 1, which introduced the world to Superman, are thought to exist.",
+        "title": "Last Kurdish forces leave Aleppo after ceasefire deal reached",
+        "link": "https://www.bbc.com/news/articles/cx2p84xleg2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The deal was announced in the early hours of Sunday morning after a week of violent clashes.",
         "source": "BBC News",
         "objectivity_score": 45,
-        "sentiment": "Positive",
+        "sentiment": "Negative",
         "date": "2026-01-11",
         "image_url": null,
         "keywords": [
-            "nicolas cage"
+            "early hours",
+            "violent clashes"
         ]
     },
     {
-        "title": "Author Chimamanda Ngozi Adichie's family accuse hospital of negligence over son's death",
-        "link": "https://www.bbc.com/news/articles/c0lx09e618yo?at_medium=RSS&at_campaign=rss",
-        "summary": "A hospital in Lagos denies medical negligence over the death of Chimamanda Ngozi Adichie's 21-month-old.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-11",
-        "image_url": null,
-        "keywords": [
-            "author chimamanda ngozi adichie",
-            "'s family",
-            "son 's death"
-        ]
-    },
-    {
-        "title": "Protester climbs on to balcony of Iranian embassy in London",
-        "link": "https://www.bbc.com/news/articles/cy09yvd57x2o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Metropolitan Police said two arrests were made as\ndemonstrators rallied amid major anti-government protests in Iran.",
+        "title": "'I had no electricity for six months': American families struggle with soaring energy prices",
+        "link": "https://www.bbc.com/news/articles/c1dz0dz0zkvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Rising electricity costs have emerged as a key cost-of-living concern, pushing families further into debt.",
         "source": "BBC News",
         "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-01-11",
         "image_url": null,
         "keywords": [
-            "major anti-government protests"
+            "american families struggle",
+            "energy prices",
+            "electricity costs"
         ]
     },
     {
-        "title": "Photographer 'over the Moon' with iconic ET recreation two years in the making",
-        "link": "https://www.bbc.com/news/articles/cp3z475kxwpo?at_medium=RSS&at_campaign=rss",
-        "summary": "The planets finally aligned for friends who spent two years trying to recreate an iconic movie scene.",
+        "title": "Lynx that were found starving in Highlands a year ago now thriving",
+        "link": "https://www.bbc.com/news/articles/cm2y1ygjmy2o?at_medium=RSS&at_campaign=rss",
+        "summary": "A year ago, four lynx were on the loose in the snowy Cairngorms - sparking a mystery that remains unsolved.",
         "source": "BBC News",
-        "objectivity_score": 52,
-        "sentiment": "Positive",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
         "date": "2026-01-11",
         "image_url": null,
         "keywords": [
-            "iconic movie scene"
+            "lynx"
         ]
     },
     {
@@ -1148,46 +1149,33 @@
         ]
     },
     {
-        "title": "Another door closes for Spurs and Frank with damaging FA Cup exit",
-        "link": "https://www.bbc.com/sport/football/articles/cvg1p1vgvg3o?at_medium=RSS&at_campaign=rss",
-        "summary": "After Spurs' damaging FA Cup exit at home to Aston Villa, chief football writer Phil McNulty asks how long can head coach Thomas Frank survive?",
+        "title": "Bears score 25 points in epic final-quarter comeback to beat Packers",
+        "link": "https://www.bbc.com/sport/american-football/articles/czr4ve05xy0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The NFL play-offs get off to a thrilling start as the Chicago Bears make a stunning fightback and the Los Angeles Rams avoid a huge upset on Wildcard Weekend.",
         "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-01-11",
-        "image_url": null,
-        "keywords": [
-            "door closes",
-            "cup exit",
-            "cup exit"
-        ]
-    },
-    {
-        "title": "Frank's failing Spurs knocked out of FA Cup by Aston Villa",
-        "link": "https://www.bbc.com/sport/football/videos/c24gqz3379eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Goals from Emiliano Buendia and Morgan Rogers knock a wasteful Tottenham Hotspur side out of the FA Cup to pile more pressure on manager Thomas Frank.",
-        "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 82,
         "sentiment": "Positive",
         "date": "2026-01-11",
         "image_url": null,
         "keywords": [
-            "aston villa goals",
-            "emiliano buendia",
-            "morgan rogers"
+            "epic final-quarter comeback",
+            "thrilling start",
+            "los angeles rams"
         ]
     },
     {
-        "title": "Why Rosenior sees no need for drastic change at Chelsea",
-        "link": "https://www.bbc.com/sport/football/articles/crrnzerklyeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Liam Rosenior does not see a need for drastic change at Chelsea - and that was part of the reason he was brought in.",
+        "title": "Briton Smith stuns Matias to become world champion",
+        "link": "https://www.bbc.com/sport/boxing/articles/cly5w9ne426o?at_medium=RSS&at_campaign=rss",
+        "summary": "Britain's Dalton Smith stuns champion Subriel Matias with a fifth-round stoppage to claim the WBC light-welterweight title in New York.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
         "date": "2026-01-11",
         "image_url": null,
         "keywords": [
-            "chelsea liam rosenior"
+            "briton smith",
+            "world champion",
+            "dalton smith"
         ]
     },
     {
@@ -1206,18 +1194,48 @@
         ]
     },
     {
-        "title": "Rosenior wins first game as Chelsea thrash Charlton",
-        "link": "https://www.bbc.com/sport/football/videos/c75xd4le32qo?at_medium=RSS&at_campaign=rss",
-        "summary": "Liam Rosenior begins his reign as Chelsea head coach by overseeing a dominant display that saw off Championship side Charlton in the FA Cup third round.",
+        "title": "Given apologises for Holocaust remark",
+        "link": "https://www.bbc.com/sport/football/articles/c0r459gv2l1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Former Premier League goalkeeper Shay Given \"unreservedly\" apologises for describing Wilfried Nancy's short time as Celtic manager as an \"absolute Holocaust\" on BBC show Final Score.",
         "source": "BBC News",
-        "objectivity_score": 26,
+        "objectivity_score": 55,
         "sentiment": "Neutral",
         "date": "2026-01-11",
         "image_url": null,
         "keywords": [
-            "charlton liam rosenior",
-            "head coach",
-            "dominant display"
+            "premier league goalkeeper",
+            "wilfried nancy",
+            "short time"
+        ]
+    },
+    {
+        "title": "Frank's failing Spurs knocked out of FA Cup by Aston Villa",
+        "link": "https://www.bbc.com/sport/football/videos/c24gqz3379eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Goals from Emiliano Buendia and Morgan Rogers knock a wasteful Tottenham Hotspur side out of the FA Cup to pile more pressure on manager Thomas Frank.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-01-11",
+        "image_url": null,
+        "keywords": [
+            "aston villa goals",
+            "emiliano buendia",
+            "morgan rogers"
+        ]
+    },
+    {
+        "title": "Fletcher emerges as winner from week of turmoil at Man Utd",
+        "link": "https://www.bbc.com/sport/football/articles/crled08wp2do?at_medium=RSS&at_campaign=rss",
+        "summary": "No matter who is appointed Manchester United caretaker manager, Darren Fletcher has emerged as one of the big winners from a week of turmoil at Old Trafford.",
+        "source": "BBC News",
+        "objectivity_score": 15,
+        "sentiment": "Neutral",
+        "date": "2026-01-11",
+        "image_url": null,
+        "keywords": [
+            "caretaker manager",
+            "darren fletcher",
+            "big winners"
         ]
     },
     {
@@ -1438,6 +1456,35 @@
         ]
     },
     {
+        "title": "India\u2019s Ties With Bangladesh Fray as Elections Loom",
+        "link": "https://www.nytimes.com/2026/01/11/world/asia/india-bangladesh-tensions.html",
+        "summary": "A simmering dispute between the neighbors, who share one of the largest land borders in the world, has escalated with diplomatic protests and a sports boycott.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-11",
+        "image_url": null,
+        "keywords": [
+            "bangladesh fray",
+            "elections loom",
+            "diplomatic protests"
+        ]
+    },
+    {
+        "title": "Death Toll Grows as Nationwide Protests Rock Iran for a Third Night",
+        "link": "https://www.nytimes.com/2026/01/10/world/middleeast/iran-protests-death-toll.html",
+        "summary": "Antigovernment unrest that began two weeks ago has intensified in recent days, as has violence.",
+        "source": "NYT > World News",
+        "objectivity_score": 12,
+        "sentiment": "Neutral",
+        "date": "2026-01-11",
+        "image_url": null,
+        "keywords": [
+            "nationwide protests rock iran",
+            "recent days"
+        ]
+    },
+    {
         "title": "Nearly 13,000 Irish Passports Are Recalled Over \u2018Technical Issue\u2019",
         "link": "https://www.nytimes.com/2026/01/10/world/europe/irish-passport-recalled.html",
         "summary": "The recall affects passports issued between Dec. 23 and Jan. 6, Irelands Department of Foreign Affairs and Trade said.",
@@ -1550,36 +1597,6 @@
             "mohammed harbi",
             "who rewrote algeria",
             "revolutionary government"
-        ]
-    },
-    {
-        "title": "Outside Prisons in Caracas, Venezuelans Anxiously Await Release of More Political Detainees",
-        "link": "https://www.nytimes.com/2026/01/09/world/americas/caracas-venezuela-prisoners-released.html",
-        "summary": "Venezuelas interim government said it would release an important number of imprisoned people, but only nine have been confirmed freed.",
-        "source": "NYT > World News",
-        "objectivity_score": 66,
-        "sentiment": "Positive",
-        "date": "2026-01-11",
-        "image_url": null,
-        "keywords": [
-            "venezuelans anxiously await release",
-            "detainees venezuelas",
-            "interim government"
-        ]
-    },
-    {
-        "title": "Owner of Swiss Bar Detained in Fire Investigation",
-        "link": "https://www.nytimes.com/video/world/europe/100000010635277/switzerland-bar-owner-detained-fire-investigation.html",
-        "summary": "Prosecutors in Switzerland ordered Jacques Moretti to be detained after investigators questioned him and his wife, Jessica Moretti. Officials are looking into whether negligence played a role in last ...",
-        "source": "NYT > World News",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-01-11",
-        "image_url": null,
-        "keywords": [
-            "swiss bar",
-            "fire investigation",
-            "jacques moretti"
         ]
     },
     {
@@ -1808,6 +1825,36 @@
         ]
     },
     {
+        "title": "One person dead as PM visits bushfire-ravaged towns with 300 structures destroyed and 350,000 hectares burned",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/11/weve-got-your-back-australian-pm-visits-bushfire-ravaged-towns-as-300-structures-destroyed-and-350000-hectares-burned",
+        "summary": "Almost a dozen emergency warnings remain in place across Victoria, with state premier saying we are not through the worst of this by a long wayFollow our Australia news live blog for latest updatesGet...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 55,
+        "sentiment": "Negative",
+        "date": "2026-01-11",
+        "image_url": null,
+        "keywords": [
+            "dozen emergency warnings",
+            "state premier",
+            "long wayfollow"
+        ]
+    },
+    {
+        "title": "Adelaide festival did not dump Jewish columnist from 2024 program despite request from Randa Abdel-Fattah and others",
+        "link": "https://www.theguardian.com/culture/2026/jan/11/adelaide-festival-did-not-not-dump-jewish-columnist-from-2024-program-despite-request-from-randa-abdel-fattah-and-others",
+        "summary": "Palestinian academic rejects accusations of hypocrisy, saying board resisted attempts to remove Thomas Friedman, while cancelling her invitation this yearFollow our Australia news live blog for latest...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Positive",
+        "date": "2026-01-11",
+        "image_url": null,
+        "keywords": [
+            "jewish columnist",
+            "randa abdel-fattah",
+            "academic rejects accusations"
+        ]
+    },
+    {
         "title": "Australia\u2019s Cop31 chief negotiator plans to lobby petrostates on fossil fuel phaseout",
         "link": "https://www.theguardian.com/environment/2026/jan/11/australia-cop31-chris-bowen-fossil-fuel-phaseout",
         "summary": "Exclusive: Chris Bowen says key to next UN climate summit will be engagement, engagement, engagement with countries such as Saudi ArabiaFollow our Australia news live blog for latest updatesGet our br...",
@@ -1850,36 +1897,6 @@
             "new bushfire warnings",
             "cyclone \u2013",
             "bushfires rageget"
-        ]
-    },
-    {
-        "title": "Lynne and Peter return to find their house still standing but others left devastated after Harcourt bushfire",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/10/harcourt-victorian-bushfires-homes-property",
-        "summary": "Dozens of properties including some owned by firefighters and local councillors destroyed in fire that ripped through Victorian townFollow our Australia news live blog for latest updatesGet our breaki...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Positive",
-        "date": "2026-01-11",
-        "image_url": null,
-        "keywords": [
-            "local councillors",
-            "news email",
-            "free app"
-        ]
-    },
-    {
-        "title": "SA premier denies pressuring Adelaide festival to drop Randa Abdel-Fattah",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/10/sa-premier-denies-pressuring-adelaide-festival-to-drop-randa-abdel-fattah-ntwnfb",
-        "summary": "Letter from 11 South Australian cultural leaders labels cancellation of Palestinian-Australians participation a grave mistake which brought festival into disreputeFollow our Australia news live blog f...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 24,
-        "sentiment": "Positive",
-        "date": "2026-01-11",
-        "image_url": null,
-        "keywords": [
-            "premier denies",
-            "randa abdel-fattah letter",
-            "cultural leaders labels cancellation"
         ]
     },
     {
@@ -2033,6 +2050,21 @@
         ]
     },
     {
+        "title": "Myanmar junta holds second phase of election widely decried as a \u2018sham exercise\u2019",
+        "link": "https://www.theguardian.com/world/2026/jan/11/myanmar-junta-holds-second-phase-of-election-widely-decried-as-a-sham-exercise",
+        "summary": "UN and many western countries as well as human rights groups say that in the absence of a meaningful opposition the election is neither free, fair nor credibleVoters in war-torn Myanmar queued up on S...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Neutral",
+        "date": "2026-01-11",
+        "image_url": null,
+        "keywords": [
+            "\u2018 sham",
+            "western countries",
+            "human rights groups"
+        ]
+    },
+    {
         "title": "Indian police raid home of environmental activists over anti-fossil fuel campaign",
         "link": "https://www.theguardian.com/world/2026/jan/07/indian-police-raid-home-of-environmental-activists-over-anti-fossil-fuel-campaign",
         "summary": "Satat Sampada founders Harjeet Singh and Jyoti Awasthi say allegations are baseless, biased and misleadingPolice have raided the home of one of Indias leading environmental activists over claims his c...",
@@ -2090,21 +2122,6 @@
             "khaleda zia",
             "prime minister",
             "sheikh hasina"
-        ]
-    },
-    {
-        "title": "Polls close in first phase of Myanmar elections widely condemned as a sham",
-        "link": "https://www.theguardian.com/world/2025/dec/28/myanmar-elections-voting-begins-under-junta-stranglehold-with-aung-san-suu-kyi-banned",
-        "summary": "Turnout appears low for vote in which most candidates seen as allies of junta and large areas excluded by warPolls have closed in conflict-racked Myanmar, ending the first phase of an election that ha...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 29,
-        "sentiment": "Neutral",
-        "date": "2026-01-11",
-        "image_url": null,
-        "keywords": [
-            "large areas",
-            "military juntas rule.the",
-            "de-facto leader"
         ]
     },
     {
@@ -2185,9 +2202,9 @@
     {
         "title": "Bob Weir, co-founder of rock group the Grateful Dead, dies at age 78",
         "link": "https://www.theguardian.com/us-news/2026/jan/10/bob-weir-grateful-dead-dies-78",
-        "summary": "Rhythm guitarist helped guide the legendary jam band through decades of change and successVeteran rock musician Bob Weir, the Grateful Deads rhythm guitarist who helped guide the legendary jam band th...",
+        "summary": "Rhythm guitarist helped guide the legendary jam band through decades of change and successBob Weir, the veteran rock musician who helped guide the legendary band the Grateful Dead through decades of c...",
         "source": "World news | The Guardian",
-        "objectivity_score": 64,
+        "objectivity_score": 51,
         "sentiment": "Positive",
         "date": "2026-01-11",
         "image_url": null,
