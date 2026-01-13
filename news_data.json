@@ -737,77 +737,75 @@
         ]
     },
     {
-        "title": "'They just kept killing': Eyewitnesses describe deadly crackdown in Iran",
-        "link": "https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC has received eyewitness accounts of security forces attacking anti-government protesters across the country.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "eyewitness accounts",
-            "security forces",
-            "anti-government protesters"
-        ]
-    },
-    {
-        "title": "Trump announces 25% tariff on countries doing business with Iran",
+        "title": "Trump briefed on military and covert options for Iran, sources say",
         "link": "https://www.bbc.com/news/articles/clyev0kpk77o?at_medium=RSS&at_campaign=rss",
-        "summary": "Trump says the new levy is \"effective immediately\" as anti-government protests in Iran enter a third week.",
+        "summary": "The US president also imposes a 25% tariff on countries that \"do business\" with Tehran, while Iran's foreign minister says his country is \"ready for war\".",
         "source": "BBC News",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "% tariff",
-            "iran trump",
-            "new levy"
-        ]
-    },
-    {
-        "title": "UK to bring into force law to tackle Grok AI deepfakes this week",
-        "link": "https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&at_campaign=rss",
-        "summary": "It is currently illegal to share deepfakes, but the law against creating them has not yet come into force.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "force law",
-            "grok ai"
-        ]
-    },
-    {
-        "title": "Trump to meet Venezuelan opposition leader Machado at the White House",
-        "link": "https://www.bbc.com/news/articles/cr7jzpr95yvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Machado, the winner of 2025 Nobel Peace Prize, had offered to share the honour with Trump,  an award the president has long coveted.",
-        "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 24,
         "sentiment": "Neutral",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "opposition leader",
-            "white house",
-            "peace prize"
+            "covert options",
+            "us president",
+            "% tariff"
         ]
     },
     {
-        "title": "Tories say Zahawi peerage request turned down before defection to Reform UK",
-        "link": "https://www.bbc.com/news/articles/c0lxn75gw1do?at_medium=RSS&at_campaign=rss",
-        "summary": "Zahawi is the latest former Conservative MP to join Nigel Farage's party, as a Tory source claims he had approached Kemi Badenoch seeking a nomination for the Lords.",
+        "title": "US weighs next move on Iran - and faces a complex calculation",
+        "link": "https://www.bbc.com/news/articles/cj6wr4kew08o?at_medium=RSS&at_campaign=rss",
+        "summary": "As Iran's deadly crackdown on anti-government protests continue, the US president is considering how best to respond.",
         "source": "BBC News",
-        "objectivity_score": 39,
+        "objectivity_score": 27,
         "sentiment": "Positive",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "peerage request",
-            "reform uk zahawi",
-            "conservative mp"
+            "complex calculation",
+            "anti-government protests",
+            "us president"
+        ]
+    },
+    {
+        "title": "X could 'lose right to self regulate', says Starmer",
+        "link": "https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&at_campaign=rss",
+        "summary": "It is currently illegal to share deepfakes, but the law against creating them has not yet come into force.",
+        "source": "BBC News",
+        "objectivity_score": 51,
+        "sentiment": "Negative",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "news"
+        ]
+    },
+    {
+        "title": "BBC will aim to have Trump's $5bn defamation lawsuit thrown out",
+        "link": "https://www.bbc.com/news/articles/c394x4z8kpdo?at_medium=RSS&at_campaign=rss",
+        "summary": "Court papers filed on Monday show the broadcaster will argue the Florida court lacks \"personal jurisdiction\" over the BBC.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "'s $ 5bn defamation lawsuit thrown",
+            "court papers",
+            "court lacks"
+        ]
+    },
+    {
+        "title": "Mandelson makes personal apology for continuing Epstein friendship",
+        "link": "https://www.bbc.com/news/articles/ce9yv73klx5o?at_medium=RSS&at_campaign=rss",
+        "summary": "The former ambassador apologises \"unequivocally\" for maintaining links with Epstein after 2008 conviction",
+        "source": "BBC News",
+        "objectivity_score": 15,
+        "sentiment": "Neutral",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "personal apology",
+            "ambassador apologises"
         ]
     },
     {
@@ -838,6 +836,21 @@
             "gut health affects",
             "own gut",
             "health editor"
+        ]
+    },
+    {
+        "title": "Tories say Zahawi peerage request turned down before defection to Reform UK",
+        "link": "https://www.bbc.com/news/articles/c0lxn75gw1do?at_medium=RSS&at_campaign=rss",
+        "summary": "Zahawi is the latest former Conservative MP to join Nigel Farage's party, as a Tory source claims he had approached Kemi Badenoch seeking a nomination for the Lords.",
+        "source": "BBC News",
+        "objectivity_score": 39,
+        "sentiment": "Positive",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "peerage request",
+            "reform uk zahawi",
+            "conservative mp"
         ]
     },
     {
@@ -897,17 +910,18 @@
         ]
     },
     {
-        "title": "Macclesfield to host Brentford in fourth round",
-        "link": "https://www.bbc.com/sport/football/articles/cy8pngd870vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sixth-tier Macclesfield are rewarded with a home tie against Brentford in the FA Cup fourth round after their shock win over holders Crystal Palace.",
+        "title": "'They just kept killing': Eyewitnesses describe deadly crackdown",
+        "link": "https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC has received eyewitness accounts of security forces attacking anti-government protesters across the country.",
         "source": "BBC News",
-        "objectivity_score": 24,
-        "sentiment": "Neutral",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "sixth-tier macclesfield",
-            "holders crystal palace"
+            "eyewitness accounts",
+            "security forces",
+            "anti-government protesters"
         ]
     },
     {
@@ -926,6 +940,21 @@
         ]
     },
     {
+        "title": "Watch: How could Donald Trump respond?",
+        "link": "https://www.bbc.com/news/videos/cwy160gd773o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president and his administration have threatened \"very strong options\" to intervene in Iran, including military action.",
+        "source": "BBC News",
+        "objectivity_score": 38,
+        "sentiment": "Positive",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "donald trump",
+            "us president",
+            "strong options"
+        ]
+    },
+    {
         "title": "Watch: Mortuary videos show how deadly Iran crackdown has become",
         "link": "https://www.bbc.com/news/videos/c2e134xz2rjo?at_medium=RSS&at_campaign=rss",
         "summary": "BBC Verify has been examining disturbing footage from a mortuary in Tehran, showing scores of bodies. These images could hold clues about whats happening inside Iran.",
@@ -937,34 +966,6 @@
         "keywords": [
             "bbc verify",
             "disturbing footage"
-        ]
-    },
-    {
-        "title": "Referee and student among hundreds killed",
-        "link": "https://www.bbc.com/news/articles/cd0yldn0n7eo?at_medium=RSS&at_campaign=rss",
-        "summary": "More than 500 people have been killed during anti-government protests, a US-based human rights group says.",
-        "source": "BBC News",
-        "objectivity_score": 15,
-        "sentiment": "Neutral",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "anti-government protests",
-            "human rights group"
-        ]
-    },
-    {
-        "title": "Why are there protests and what has Trump said about US action?",
-        "link": "https://www.bbc.com/news/articles/cgjw8wxl3d6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Hundreds of people are believed to have been killed, as days of large demonstrations threaten the regime. Here's what you need to know.",
-        "source": "BBC News",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "us action",
-            "large demonstrations"
         ]
     },
     {
@@ -1042,48 +1043,63 @@
         ]
     },
     {
-        "title": "UK not as ready as we need to be for conflict, says military chief",
-        "link": "https://www.bbc.com/news/articles/cj6wrd18zgro?at_medium=RSS&at_campaign=rss",
-        "summary": "Sir Richard Knighton refuses to confirm the existence of a 28bn shortfall in defence spending plans.",
+        "title": "Most of Uganda's population is under 17 - will they give an 81-year-old another term?",
+        "link": "https://www.bbc.com/news/articles/c77k8pym06zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Thursday's election highlights a demographic issue common to many African countries.",
         "source": "BBC News",
-        "objectivity_score": 30,
+        "objectivity_score": 37,
+        "sentiment": "Positive",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "'s population",
+            "'s election highlights",
+            "demographic issue"
+        ]
+    },
+    {
+        "title": "MP's school visit cancelled over pro-Palestine protests",
+        "link": "https://www.bbc.com/news/articles/cg4evw94kklo?at_medium=RSS&at_campaign=rss",
+        "summary": "Damien Egan, Labour MP for Bristol North East and vice chair of Labour Friends of Israel, cancelled the appearance.",
+        "source": "BBC News",
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "sir richard knighton",
-            "28bn shortfall",
-            "defence spending plans"
+            "'s school visit",
+            "pro-palestine protests",
+            "damien egan"
         ]
     },
     {
-        "title": "Former Fed chairs condemn criminal investigation into Jerome Powell",
-        "link": "https://www.bbc.com/news/articles/c394xwdve9lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Three former heads of the central bank say the probe seeks to undermine the Fed's independence and \"has no place\" in the US.",
+        "title": "Watch: ISS crew exchanges key in change of command ceremony",
+        "link": "https://www.bbc.com/news/videos/czdqymd4y45o?at_medium=RSS&at_campaign=rss",
+        "summary": "Four crew members are scheduled to depart earlier than scheduled later this week after a medical issue involving an unidentified crew member.",
         "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 37,
         "sentiment": "Neutral",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "chairs condemn criminal investigation",
-            "jerome powell",
-            "central bank"
+            "crew exchanges key",
+            "command ceremony",
+            "crew members"
         ]
     },
     {
-        "title": "Landmark Rohingya genocide case against Myanmar heard at top UN court",
-        "link": "https://www.bbc.com/news/articles/c7v07m3pr75o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Gambia accuses Myanmar's leadership of carrying out \"brutal and vicious violations\" against the Muslim minority group.",
+        "title": "Pioneering gay footballer Josh Cavallo accuses former club of homophobia",
+        "link": "https://www.bbc.com/news/articles/cjrznw9e243o?at_medium=RSS&at_campaign=rss",
+        "summary": "Adelaide United says it \"categorically rejects\" Cavallo's claims he was sidelined because of his sexuality.",
         "source": "BBC News",
-        "objectivity_score": 83,
-        "sentiment": "Negative",
+        "objectivity_score": 29,
+        "sentiment": "Positive",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "landmark rohingya",
-            "genocide case",
-            "top un court"
+            "gay footballer",
+            "josh cavallo",
+            "'s claims"
         ]
     },
     {
@@ -1102,47 +1118,32 @@
         ]
     },
     {
-        "title": "Watch: Moment skier and dog swept along by avalanche",
-        "link": "https://www.bbc.com/news/videos/czx3yn0467ro?at_medium=RSS&at_campaign=rss",
-        "summary": "Footage recorded by Spanish skier Ares Masip shows the incident on Pic de l'Hortell, a mountain in Andorra.",
+        "title": "Why are more bosses sharing the top job?",
+        "link": "https://www.bbc.com/news/articles/c62n5j96nqpo?at_medium=RSS&at_campaign=rss",
+        "summary": "More bosses are sharing the top job giving them more time for family and breaks.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "spanish skier",
-            "ares masip"
-        ]
-    },
-    {
-        "title": "Trump faces extraordinary moment in spat with Fed chair",
-        "link": "https://www.bbc.com/news/articles/c20zq87eng1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Jerome Powell's public response to a DoJ investigation could be a seismic moment for Donald Trump's presidency.",
-        "source": "BBC News",
-        "objectivity_score": 53,
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "extraordinary moment",
-            "jerome powell",
-            "public response"
+            "top job",
+            "top job"
         ]
     },
     {
-        "title": "Police to no longer have routine access to rape victims' counselling notes",
-        "link": "https://www.bbc.com/news/articles/czx3y2055pgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Requests to access victims' personal records can only be granted when necessary and proportionate, under new guidance.",
+        "title": "Former Fed chairs condemn criminal investigation into Jerome Powell",
+        "link": "https://www.bbc.com/news/articles/c394xwdve9lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Three former heads of the central bank say the probe seeks to undermine the Fed's independence and \"has no place\" in the US.",
         "source": "BBC News",
-        "objectivity_score": 68,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "routine access",
-            "rape victims",
-            "access victims"
+            "chairs condemn criminal investigation",
+            "jerome powell",
+            "central bank"
         ]
     },
     {
@@ -1231,6 +1232,21 @@
         ]
     },
     {
+        "title": "PGA Tour offers Rahm & DeChambeau way back as Koepka returns",
+        "link": "https://www.bbc.com/sport/golf/articles/ce9yvp50ve8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Five-time major champion Brooks Koepka will make his comeback on the PGA Tour in January under a new returning member programme, following his departure from LIV Golf.",
+        "source": "BBC News",
+        "objectivity_score": 21,
+        "sentiment": "Neutral",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "pga tour",
+            "major champion",
+            "brooks koepka"
+        ]
+    },
+    {
         "title": "Spurs set to beat Villa to \u00a335m Gallagher",
         "link": "https://www.bbc.com/sport/football/articles/cp3zq8v4ek5o?at_medium=RSS&at_campaign=rss",
         "summary": "Tottenham expect to complete a 40m euros (35m) deal for former Chelsea midfielder Conor Gallagher after moving ahead of Aston Villa in the race for the England international's signature.",
@@ -1260,18 +1276,17 @@
         ]
     },
     {
-        "title": "Koepka to make PGA return in January under new scheme",
-        "link": "https://www.bbc.com/sport/golf/articles/ce9yvp50ve8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Five-time major champion Brooks Koepka will make his comeback on the PGA Tour in January under a new returning member programme, following his departure from LIV Golf.",
+        "title": "Late goals add shine as Liverpool beat spirited Barnsley in FA Cup",
+        "link": "https://www.bbc.com/sport/football/videos/c4g0ry7mnqzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Liverpool score two late goals to add shine to their FA Cup third round victory over spirited League One side Barnsley at Anfield.",
         "source": "BBC News",
-        "objectivity_score": 37,
+        "objectivity_score": 60,
         "sentiment": "Neutral",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "new scheme",
-            "major champion",
-            "brooks koepka"
+            "late goals",
+            "round victory"
         ]
     },
     {
@@ -1478,6 +1493,34 @@
         ]
     },
     {
+        "title": "How a Syrian Hiking Club Is Rediscovering the Country",
+        "link": "https://www.nytimes.com/2026/01/13/world/middleeast/syria-civil-war-hikers.html",
+        "summary": "The nearly 14-year civil war prevented Syrians from traveling freely to many parts of their own country. After the conflict ended a year ago, a group of outdoor enthusiasts began exploring newly acces...",
+        "source": "NYT > World News",
+        "objectivity_score": 56,
+        "sentiment": "Positive",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "syrian hiking",
+            "civil war",
+            "own country"
+        ]
+    },
+    {
+        "title": "China\u2019s \u2018Dr. Frankenstein\u2019 Thinks Time Is on His Side",
+        "link": "https://www.nytimes.com/2026/01/13/world/asia/china-gene-edited-scientist-he-jiankui.html",
+        "summary": "He Jiankui spent three years in prison after creating gene-edited babies. Now back at work, he sees a greater opening for researchers who push boundaries.",
+        "source": "NYT > World News",
+        "objectivity_score": 20,
+        "sentiment": "Positive",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "china\u2019s"
+        ]
+    },
+    {
         "title": "U.S. Attacked Boat With Aircraft That Looked Like a Civilian Plane",
         "link": "https://www.nytimes.com/2026/01/12/us/politics/us-boat-attacks-law.html",
         "summary": "Even accepting the Trump administrations claim that there is an armed conflict with suspected drug runners, the laws of war bar perfidy.",
@@ -1592,36 +1635,6 @@
             "iran protests crowds",
             "death toll",
             "peaceful protesters"
-        ]
-    },
-    {
-        "title": "Demonstrators Around the World Show Solidarity for Iran Protests",
-        "link": "https://www.nytimes.com/video/world/middleeast/100000010638012/world-react-protests-iran-anti-government.html",
-        "summary": "For several nights in a row, antigovernment protests have rocked Iran, as a government crackdown intensifies. This weekend, protesters around the world showed their solidarity for the people of Iran a...",
-        "source": "NYT > World News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "demonstrators around",
-            "iran protests",
-            "antigovernment protests"
-        ]
-    },
-    {
-        "title": "Deposed Shah\u2019s Son Hopes Trump Will Put Iran Regime \u2018Down for Good\u2019",
-        "link": "https://www.nytimes.com/2026/01/11/world/europe/iran-protests-shah-son-trump.html",
-        "summary": "Reza Pahlavi, once the crown prince of Iran, says protesters there have been emboldened by President Trump suggesting that he could take military action.",
-        "source": "NYT > World News",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "deposed shah",
-            "\u2019 s son",
-            "hopes trump will"
         ]
     },
     {
@@ -1850,78 +1863,93 @@
         ]
     },
     {
-        "title": "Australia news live: Penny Wong says Israeli president Isaac Herzog\u2019s visit a \u2018good thing\u2019 despite backlash from Labor party members",
+        "title": "Australia news live: Queensland stock losses from floods and cyclone top 50,000 amid fears \u2018that is only the beginning\u2019, premier says",
         "link": "https://www.theguardian.com/australia-news/live/2026/jan/13/anthony-albanese-labor-hate-speech-laws-politics-coalition-sussan-ley-adelaide-festival-writers-week-reactions-victoria-bushfires-queensland-floods-ntwnfb",
-        "summary": "Foreign minister says visit highlights strength of ties with Israel in wake of Bondi terror attack. Follow updates liveGet our breaking news email, free app or daily news podcastNew role a continuatio...",
+        "summary": "Follow updates liveAdelaide writers week 2026 cancelled as board apologises to Randa Abdel-Fattah for how decision was representedGet our breaking news email, free app or daily news podcastNew role a ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 31,
+        "objectivity_score": 35,
         "sentiment": "Neutral",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "penny wong",
-            "isaac herzog",
-            "\u2019 s visit"
+            "stock losses",
+            "cyclone top",
+            "fears \u2018"
         ]
     },
     {
-        "title": "Pauline Hanson and Barnaby Joyce use Gina Rinehart\u2019s private jet to visit flooded parts of Queensland",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/12/pauline-hanson-barnaby-joyce-gina-rinehart-private-jet-flooded-parts-queensland",
-        "summary": "Joyce says the pair were saving taxpayers money and Ive got no problems with that at allFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcas...",
+        "title": "Asio chief given powers to recommend organisations be proscribed as hate groups under Labor\u2019s new laws",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/13/asio-chief-given-powers-to-recommend-organisations-be-proscribed-as-hate-groups-under-labors-new-laws",
+        "summary": "Neo-Nazi group the National Socialist Network claims it will disband before hate speech legislation is introduced to parliament on MondayFollow our Australia news live blog for latest updatesGet our b...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 61,
+        "sentiment": "Negative",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "labor \u2019 s",
+            "new laws",
+            "speech legislation"
+        ]
+    },
+    {
+        "title": "Australian author Craig Silvey charged with possessing and distributing child exploitation material",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/13/australian-author-craig-silvey-charged-child-exploitation-ntwnfb",
+        "summary": "Jasper Jones and Runt writer charged after search warrant issued at his Fremantle home on MondayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily new...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 37,
         "sentiment": "Positive",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "pauline hanson",
-            "barnaby joyce",
-            "gina rinehart"
+            "craig silvey",
+            "child exploitation material",
+            "jasper jones"
         ]
     },
     {
-        "title": "Louise Adler resigns as director of Adelaide writers\u2019 week",
-        "link": "https://www.theguardian.com/culture/2026/jan/13/louise-adler-resigns-as-director-of-adelaide-writers-week-ntwnfb",
-        "summary": "Exclusive: Writing for Guardian Australia, Adler says she cannot be party to silencing writers after Adelaide festival board cancelled Randa Abdel-Fattahs invitation to appearLouise Adler: I cannot be...",
+        "title": "Who will replace Rudd as US ambassador? Defence boss, career diplomat and former ministers in mix",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/13/who-will-replace-kevin-rudd-us-ambassador-australia",
+        "summary": "Analysts and experts say the PM would do well to consider the Aukus alliance and reactions from Maga base in making his choiceFollow our Australia news live blog for latest updatesGet our breaking new...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "us ambassador",
+            "career diplomat",
+            "mix analysts"
+        ]
+    },
+    {
+        "title": "Adelaide writers\u2019 week 2026 cancelled as board apologises to Randa Abdel-Fattah for \u2018how decision was represented\u2019",
+        "link": "https://www.theguardian.com/culture/2026/jan/13/adelaide-writers-week-cancelled-as-board-apologises-to-randa-abdel-fattah-for-how-decision-was-represented-ntwnfb",
+        "summary": "Almost all remaining festival board members have resigned after backlash to decision to disinvite the Palestinian Australian authorFollow our Australia news live blog for latest updatesGet our breakin...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
         "sentiment": "Positive",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "louise adler",
             "writers \u2019 week",
-            "guardian australia"
-        ]
-    },
-    {
-        "title": "Bushfire threat eases across Victoria as number of structures destroyed nears 500",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/13/victorian-bushfire-threat-eases-structures-destroyed",
-        "summary": "No emergency warnings in place for first time since Thursday  though 12 major blazes are still activeFollow our Australia news live blog for latest updatesGet our breaking news email, free app or dail...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 51,
-        "sentiment": "Positive",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "threat eases",
-            "emergency warnings",
-            "major blazes"
-        ]
-    },
-    {
-        "title": "Jacinda Ardern pulls out of Adelaide writers\u2019 week as fallout over Randa Abdel-Fattah\u2019s axing continues",
-        "link": "https://www.theguardian.com/culture/2026/jan/12/jacinda-ardern-pulls-out-of-adelaide-writers-week-as-fallout-over-randa-abdel-fattahs-axing-continues-ntwnfb",
-        "summary": "Ructions within festival board over Palestinian-Australian academics inclusion began in October, email revealsGet our breaking news email, free app or daily news podcastFormer New Zealand prime minist...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "jacinda ardern",
-            "writers \u2019 week",
+            "board apologises",
             "randa abdel-fattah"
+        ]
+    },
+    {
+        "title": "Marine Le Pen\u2019s appeal against embezzlement conviction to begin",
+        "link": "https://www.theguardian.com/world/2026/jan/13/marine-le-pen-embezzlement-appeal",
+        "summary": "Paris trials outcome will determine whether leader of far-right National Rally can run for French presidency in 2027The French far-right party leader Marine Le Pen will face a fresh trial on appeal on...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Neutral",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s appeal",
+            "embezzlement conviction",
+            "trials outcome"
         ]
     },
     {
@@ -1985,24 +2013,24 @@
         ]
     },
     {
-        "title": "Hungary grants asylum to former Polish minister amid abuse of power investigation",
-        "link": "https://www.theguardian.com/world/2026/jan/12/hungary-grants-asylum-to-former-polish-minister-zbigniew-ziobro-abuse-of-power-investigation",
-        "summary": "Former justice minister Zbigniew Ziobro faces allegations he ran a criminal group while in governmentEurope live  latest updatesA former Polish minister who is under investigation for alleged abuse of...",
+        "title": "An ecosystem of smuggled tech holds Iran\u2019s last link to the outside world",
+        "link": "https://www.theguardian.com/world/2026/jan/13/ecosystem-smuggled-tech-iran-last-link-outside-world-internet",
+        "summary": "Despite internet blackout, a small number of Iranians are risking their lives to share messages as protests continueFor most of Iran, the internet was shut off on Thursday afternoon  the most severe b...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
+        "objectivity_score": 31,
+        "sentiment": "Neutral",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "grants asylum",
-            "power investigation",
-            "justice minister"
+            "outside world",
+            "internet blackout",
+            "small number"
         ]
     },
     {
         "title": "Trump says countries doing business with Iran face 25% tariff on US trade",
         "link": "https://www.theguardian.com/us-news/2026/jan/12/trump-tariffs-iran",
-        "summary": "President posts online as US weighs response to situation in Iran, which is major facing anti-government protestsDonald Trump said on Monday any country that does business with Iran will face a tariff...",
+        "summary": "President posts online as US weighs response to situation in Iran, which is major facing anti-government protestsDonald Trump has said any country that does business with Iran will face a tariff rate ...",
         "source": "World news | The Guardian",
         "objectivity_score": 35,
         "sentiment": "Neutral",
@@ -2060,18 +2088,18 @@
         ]
     },
     {
-        "title": "Iran says it is open to talks with US amid protest crackdown",
-        "link": "https://www.theguardian.com/world/2026/jan/12/iran-protests-donald-trump-us-military-options",
-        "summary": "Foreign minister says talks possible only on basis of respect after Trump threatened very strong military responseIrans foreign minister, Abbas Araghchi, has said Iran is willing to negotiate with the...",
+        "title": "Russia working to circumvent sanctions to ensure India oil imports continue",
+        "link": "https://www.theguardian.com/world/2026/jan/13/russia-working-to-circumvent-sanctions-to-ensure-india-oil-imports-continue",
+        "summary": "Delhi is worlds second largest purchaser of Russian crude, which is now cheaper than oil from Middle EastRussia is already working to circumvent the latest US sanctions to ensure India can continue to...",
         "source": "World news | The Guardian",
-        "objectivity_score": 51,
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "foreign minister",
-            "strong military responseirans",
-            "foreign minister"
+            "circumvent sanctions",
+            "oil imports",
+            "us sanctions"
         ]
     },
     {
@@ -2135,18 +2163,33 @@
         ]
     },
     {
-        "title": "Sewage in drinking water blamed for at least 10 deaths in India\u2019s \u2018cleanest city\u2019",
-        "link": "https://www.theguardian.com/world/2026/jan/02/sewage-in-drinking-water-deaths-india-cleanest-city-indore",
-        "summary": "Hundreds hospitalised in Indore after public toilet built above water pipeline appears to have let sewage into supplySewage-contaminated drinking water is being blamed for killing at least 10 people, ...",
+        "title": "BBC seeks dismissal of $10bn Trump lawsuit over Panorama \u2018fight like hell\u2019 clip",
+        "link": "https://www.theguardian.com/media/2026/jan/13/bbc-seeks-dismissal-of-10bn-trump-lawsuit-over-panorama-fight-like-hell-clip",
+        "summary": "Broadcasters submission calls on Florida court to throw out defamation case where US president is suing over editing of 6 January 2021 speechThe BBC will take legal steps to have Donald Trumps $10bn d...",
         "source": "World news | The Guardian",
-        "objectivity_score": 19,
+        "objectivity_score": 20,
+        "sentiment": "Positive",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "$ 10bn",
+            "\u2018 fight",
+            "hell \u2019 clip"
+        ]
+    },
+    {
+        "title": "UK retailers endure \u2018drab December\u2019 as non-food sales fall flat",
+        "link": "https://www.theguardian.com/business/2026/jan/13/uk-retailers-december-non-food-sales-brs-supermarkets-aldi-lidl",
+        "summary": "Sales of clothes and computers fall, but discount supermarkets Aldi and Lidl enjoy bumper tradingRetailers suffered a drab Christmas, ending the year with disappointing sales in their most important m...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
         "sentiment": "Neutral",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
-            "\u2019 s \u2018 cleanest city \u2019",
-            "public toilet",
-            "water pipeline"
+            "non-food sales fall flat",
+            "computers fall",
+            "discount supermarkets"
         ]
     },
     {
@@ -2195,48 +2238,48 @@
         ]
     },
     {
-        "title": "UK ministers should explain compensation payment to Guant\u00e1namo detainee, Dominic Grieve says",
-        "link": "https://www.theguardian.com/us-news/2026/jan/12/uk-ministers-should-explain-compensation-payment-to-guantanamo-detainee-dominic-grieve-says",
-        "summary": "Former attorney general urges more clarity on British spy agencies role in Abu Zubaydahs torture by CIAMinisters should explain why the UK has paid compensation to a Palestinian man who was tortured b...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Positive",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "compensation payment",
-            "dominic grieve",
-            "attorney general"
-        ]
-    },
-    {
-        "title": "Conservative defections risk making Reform UK into Tory party 2.0",
-        "link": "https://www.theguardian.com/politics/2026/jan/12/conservative-defections-risk-making-reform-uk-into-tory-party-20",
-        "summary": "Nadhim Zahawis ministerial experience is badly needed by Nigel Farage but it comes with his former partys tainted brandIn the death throes of Boris Johnsons government in the summer of 2022, Nadhim Za...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 54,
-        "sentiment": "Negative",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "defections risk making",
-            "reform uk",
-            "nadhim zahawis"
-        ]
-    },
-    {
-        "title": "Minnesota and Illinois sue Trump administration over immigration crackdown \u2013 live",
+        "title": "Minnesota and Illinois sue Trump administration over immigration crackdown \u2013 as it happened",
         "link": "https://www.theguardian.com/us-news/live/2026/jan/12/donald-trump-ice-minnesota-fed-jerome-powell-iran-cuba-venezuela-greenland-us-politics-live-news-updates",
-        "summary": "Minnesota asks court to declare surge in federal agents in region unconstitutional and unlawful, while Illinois says ICE agents used dangerous tacticsMinnesota sues Trump administration to end surge o...",
+        "summary": "This live blog is now closed.Minnesota sues Trump administration to end surge of ICE agents in stateTrump news at a glance: White House doubles down on threat of lethal force against Iran amid unrestI...",
         "source": "World news | The Guardian",
-        "objectivity_score": 58,
-        "sentiment": "Negative",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
         "date": "2026-01-13",
         "image_url": null,
         "keywords": [
             "immigration crackdown \u2013",
-            "federal agents",
-            "dangerous tacticsminnesota sues"
+            "closed.minnesota sues",
+            "statetrump news"
+        ]
+    },
+    {
+        "title": "Mamdani demands release of New York council employee detained by US agents",
+        "link": "https://www.theguardian.com/us-news/2026/jan/12/mamdani-new-york-city-council-detained",
+        "summary": "Mayor decries assault on our democracy after employee detained during routine immigration appointmentFederal immigration agents detained an employee of the New York City council on Monday, sparking ou...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "demands release",
+            "council employee",
+            "us agents mayor decries assault"
+        ]
+    },
+    {
+        "title": "\u2018Unimaginable loss\u2019: Renee Good family urges \u2018empathy\u2019 in call for justice",
+        "link": "https://www.theguardian.com/us-news/2026/jan/12/renee-good-family-ice-killing-statement",
+        "summary": "Relatives pay tribute to extraordinary mother and hope killing by ICE agent leads to meaningful changeRenee Goods extended family said on Monday it wanted justice and accountability for her death at t...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 63,
+        "sentiment": "Positive",
+        "date": "2026-01-13",
+        "image_url": null,
+        "keywords": [
+            "unimaginable loss \u2019",
+            "good family",
+            "\u2018 empathy \u2019"
         ]
     },
     {
@@ -2267,36 +2310,6 @@
             "peter thiel",
             "$ 3m donation",
             "billionaire tax"
-        ]
-    },
-    {
-        "title": "Minnesota sues Trump administration to end surge of ICE agents in state",
-        "link": "https://www.theguardian.com/us-news/2026/jan/12/minnesota-ice-lawsuit-trump-administration",
-        "summary": "Lawsuit comes in the aftermath of an ICE agent fatally shooting Minneapolis resident Renee Nicole GoodThe Minnesota attorney general, Keith Ellison, announced a lawsuit on Monday against the federal g...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "renee nicole goodthe minnesota",
-            "attorney general",
-            "keith ellison"
-        ]
-    },
-    {
-        "title": "Some Republicans speak out against DoJ investigation into Fed chair",
-        "link": "https://www.theguardian.com/us-news/2026/jan/12/fed-nominations-thom-tillis-powell",
-        "summary": "Republican senator vows to block all Fed nominations until legal matter is fully resolvedSeveral Republican lawmakers have begun speaking out against the Trump administrations criminal investigation i...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-01-13",
-        "image_url": null,
-        "keywords": [
-            "senator vows",
-            "legal matter",
-            "administrations criminal investigation"
         ]
     }
 ]
