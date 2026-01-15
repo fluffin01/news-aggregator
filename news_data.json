@@ -737,22 +737,36 @@
         ]
     },
     {
-        "title": "Twenty one English councils ask for election delays",
+        "title": "Millions of people to see their local council elections delayed",
         "link": "https://www.bbc.com/news/articles/cd7z892jzdeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Nearly a third of eligible authorities say they want to postpone local polls scheduled for May.",
+        "summary": "Most wanting a delay are Labour-led but two are Tory councils and one is a Lib Dem authority.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 25,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "local council elections",
+            "lib dem"
+        ]
+    },
+    {
+        "title": "Astronauts return to Earth after first ever medical evacuation from space station",
+        "link": "https://www.bbc.com/news/videos/c89q0y5xd79o?at_medium=RSS&at_campaign=rss",
+        "summary": "Four astronauts who left the International Space Station (ISS) a month early due to one of the crew members falling ill have returned to Earth on Thursday.",
+        "source": "BBC News",
+        "objectivity_score": 28,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "election delays",
-            "eligible authorities",
-            "postpone local polls"
+            "medical evacuation",
+            "space station",
+            "international space station"
         ]
     },
     {
-        "title": "Rift at top of the Taliban: BBC reveals clash of wills behind internet shutdown",
+        "title": "Rift at top of the Taliban: BBC reveals clash of wills behind Afghan internet shutdown",
         "link": "https://www.bbc.com/news/articles/cg7vdpy1l2vo?at_medium=RSS&at_campaign=rss",
         "summary": "The Taliban leader once warned of a split: A BBC investigation reveals how attitudes to women, the internet and religion are dividing the group at the very top.",
         "source": "BBC News",
@@ -767,149 +781,87 @@
         ]
     },
     {
-        "title": "Trump says Iran has 'no plan' to execute protesters",
-        "link": "https://www.bbc.com/news/articles/c07xpndjdd8o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president does not rule out military action in Iran, as Tehran temporarily shuts its airspace to nearly all flights.",
+        "title": "New rules to make it easier to call up reservists for war",
+        "link": "https://www.bbc.com/news/articles/c4grjxl4w06o?at_medium=RSS&at_campaign=rss",
+        "summary": "Reservists will remain on call for an extra decade, with a lower threshold for being called up.",
         "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 27,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "'no plan",
-            "us president",
-            "military action"
+            "new rules",
+            "extra decade"
         ]
     },
     {
-        "title": "Concern for couple jailed in Tehran as British embassy closes",
-        "link": "https://www.bbc.com/news/articles/cn0k2l5krd8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Joe Bennett says his parents are in a \"dangerous position\" amid Iran's deadly crackdown on anti-regime protests.",
-        "source": "BBC News",
-        "objectivity_score": 43,
-        "sentiment": "Negative",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "british embassy closes",
-            "joe bennett",
-            "dangerous position"
-        ]
-    },
-    {
-        "title": "Denmark warns of 'fundamental disagreement' after White House talks on Greenland",
-        "link": "https://www.bbc.com/news/articles/cx20vzz0g8vo?at_medium=RSS&at_campaign=rss",
-        "summary": "There was no major breakthrough during the meeting, and President Trump reiterated his interest in acquiring the island shortly afterwards.",
-        "source": "BBC News",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "'fundamental disagreement",
-            "white house talks",
-            "major breakthrough"
-        ]
-    },
-    {
-        "title": "X to stop Grok AI from undressing images of real people after backlash",
-        "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Grok will no longer allow users to remove clothing from images of real people in jurisdictions where it is illegal.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "grok ai",
-            "real people",
-            "real people"
-        ]
-    },
-    {
-        "title": "Serial houseplant killer? Here's how to keep them alive",
-        "link": "https://www.bbc.com/news/articles/c1lr8vy2v69o?at_medium=RSS&at_campaign=rss",
-        "summary": "The three easiest plants to keep alive and how to make sure  you keep them healthy all year round.",
-        "source": "BBC News",
-        "objectivity_score": 51,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "houseplant killer",
-            "easiest plants",
-            "year round"
-        ]
-    },
-    {
-        "title": "ICE agent shoots Minneapolis man in the leg",
-        "link": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
-        "summary": "The City of Minneapolis confirmed a man was shot and taken to hospital for non-life threatening injuries.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "agent shoots"
-        ]
-    },
-    {
-        "title": "Two Palestine Action hunger strikers end protest after 73 days",
-        "link": "https://www.bbc.com/news/articles/cwy1q98qyego?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC understands that one of the protesters was taken to hospital earlier on Wednesday in a poor condition.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "action hunger strikers end",
-            "poor condition"
-        ]
-    },
-    {
-        "title": "Nasa astronauts begin 'bittersweet' medical evacuation from space station",
-        "link": "https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&at_campaign=rss",
-        "summary": "The crew is expected to splash down off the coast of California in the early hours of Thursday local time.",
-        "source": "BBC News",
-        "objectivity_score": 19,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "medical evacuation",
-            "space station",
-            "early hours"
-        ]
-    },
-    {
-        "title": "Zelensky declares energy emergency as biting cold persists",
-        "link": "https://www.bbc.com/news/articles/cq6vm677z76o?at_medium=RSS&at_campaign=rss",
-        "summary": "The move comes as US President Donald Trump said Ukraine is \"less ready\" than the Russian president to make a peace deal.",
-        "source": "BBC News",
-        "objectivity_score": 39,
-        "sentiment": "Negative",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "energy emergency",
-            "cold persists",
-            "us president"
-        ]
-    },
-    {
-        "title": "Hillsborough Law campaigners say they cannot back proposed bill",
-        "link": "https://www.bbc.com/news/articles/cd9e73elv17o?at_medium=RSS&at_campaign=rss",
-        "summary": "They are concerned security services will be exempt from a law designed to stop cover-ups.",
+        "title": "Amol Rajan to leave Radio 4's Today programme",
+        "link": "https://www.bbc.com/news/articles/cgqenv21ne1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The presenter will continue to host University challenge and his Radical podcast for the BBC.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "law campaigners",
-            "security services"
+            "amol rajan",
+            "host university challenge"
+        ]
+    },
+    {
+        "title": "Olivia Dean, Little Simz and Central Cee lead 2026 Mobo nominations",
+        "link": "https://www.bbc.com/news/articles/cx2gk94ezddo?at_medium=RSS&at_campaign=rss",
+        "summary": "The musicians pick up four nominations each, as the ceremony moves to Manchester for the first time.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "olivia dean",
+            "little simz"
+        ]
+    },
+    {
+        "title": "Europe allies begin Greenland military mission as Trump says US needs island",
+        "link": "https://www.bbc.com/news/articles/cd0ydjvxpejo?at_medium=RSS&at_campaign=rss",
+        "summary": "France says a 15-strong French military contingent has arrived and more forces will be there in the coming days.",
+        "source": "BBC News",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "military mission",
+            "us needs island",
+            "french military contingent"
+        ]
+    },
+    {
+        "title": "Trump told 'killing has stopped' in Iran after violent protest crackdown",
+        "link": "https://www.bbc.com/news/articles/c07xpndjdd8o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president does not rule out military action in Iran, as Tehran temporarily shuts its airspace to nearly all flights.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "us president",
+            "military action"
+        ]
+    },
+    {
+        "title": "Eurovision Song Contest announces live tour",
+        "link": "https://www.bbc.com/news/articles/cp829ylpp04o?at_medium=RSS&at_campaign=rss",
+        "summary": "The show will feature some of the most memorable performers from the seven decades of the competition.",
+        "source": "BBC News",
+        "objectivity_score": 66,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "memorable performers"
         ]
     },
     {
@@ -958,17 +910,18 @@
         ]
     },
     {
-        "title": "Who is Erfan Soltani, Iranian protester reportedly facing execution?",
-        "link": "https://www.bbc.com/news/articles/cd9e7vv042xo?at_medium=RSS&at_campaign=rss",
-        "summary": "The 26-year-old shop owner was arrested in his home on 8 January in connection with protests in Iran.",
+        "title": "Serial houseplant killer? Here's how to keep them alive",
+        "link": "https://www.bbc.com/news/articles/c1lr8vy2v69o?at_medium=RSS&at_campaign=rss",
+        "summary": "The three easiest plants to keep alive and how to make sure  you keep them healthy all year round.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 51,
+        "sentiment": "Positive",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "erfan soltani",
-            "26-year-old shop owner"
+            "houseplant killer",
+            "easiest plants",
+            "year round"
         ]
     },
     {
@@ -987,20 +940,6 @@
         ]
     },
     {
-        "title": "The Papers: 'World on the brink' and Trump intent on 'conquering' Greenland",
-        "link": "https://www.bbc.com/news/articles/c5ydl1vpp8zo?at_medium=RSS&at_campaign=rss",
-        "summary": "The global tensions from Greenland and Iran feature prominently on Thursday's front pages.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "global tensions",
-            "'s front pages"
-        ]
-    },
-    {
         "title": "Why the UAE has incurred the wrath of Somalia",
         "link": "https://www.bbc.com/news/articles/c99k4jxz0ndo?at_medium=RSS&at_campaign=rss",
         "summary": "The government in Mogadishu has accused the UAE of undermining its sovereignty.",
@@ -1014,138 +953,120 @@
         ]
     },
     {
-        "title": "'It was terrifying': Residents describe carnage after Thai train crash",
-        "link": "https://www.bbc.com/news/articles/cm2yvnen1qyo?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC arrived at a grim scene in the evening, with rescuers still pulling bodies out of the mangled train.",
+        "title": "How a British NFL trailblazer became a Super Bowl contender",
+        "link": "https://www.bbc.com/sport/american-football/articles/cpwnqj48xe5o?at_medium=RSS&at_campaign=rss",
+        "summary": "After starting out in the British amateur game, Aden Durde is now two wins from the Super Bowl and could become the NFL's first British head coach.",
         "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Negative",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "describe carnage",
-            "train crash",
-            "grim scene"
-        ]
-    },
-    {
-        "title": "Why banning of Maccabi fans raises questions about police integrity",
-        "link": "https://www.bbc.com/news/articles/cx2xnzye903o?at_medium=RSS&at_campaign=rss",
-        "summary": "The decision to ban fans of the Israeli team from a UK game was based on a flawed assessment, a report has found.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Negative",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "fans raises questions",
-            "police integrity",
-            "ban fans"
-        ]
-    },
-    {
-        "title": "David Hockney says moving Bayeux Tapestry to UK is 'madness'",
-        "link": "https://www.bbc.com/news/articles/c89qendv88yo?at_medium=RSS&at_campaign=rss",
-        "summary": "The artist claims it is too much of a risk to transport the centuries-old artwork from France.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "david hockney",
-            "bayeux tapestry",
-            "artist claims"
-        ]
-    },
-    {
-        "title": "Mahmood has no confidence in police chief after Israeli fan ban",
-        "link": "https://www.bbc.com/news/articles/cvgn984j9d7o?at_medium=RSS&at_campaign=rss",
-        "summary": "West Midlands Police apologises for errors, but makes no comment on its chief constable's future.",
-        "source": "BBC News",
-        "objectivity_score": 12,
+        "objectivity_score": 26,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "police chief",
-            "fan ban",
-            "chief constable 's future"
+            "bowl contender",
+            "british amateur game",
+            "aden durde"
         ]
     },
     {
-        "title": "Polls open in tense Uganda election amid widespread delays",
-        "link": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
-        "summary": "The election is a rematch between Bobi Wine and Yoweri Museveni, who has been president for 40 years.",
+        "title": "She's offered to share her Nobel with Trump. But what might Machado ask for in return?",
+        "link": "https://www.bbc.com/news/articles/c801p8jppv5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Venezuela's opposition leader will meet with US President Donald Trump at the White House on Thursday.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "'s opposition leader",
+            "us president",
+            "donald trump"
+        ]
+    },
+    {
+        "title": "Concern for couple jailed in Tehran as British embassy closes",
+        "link": "https://www.bbc.com/news/articles/cn0k2l5krd8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Joe Bennett says his parents are in a \"dangerous position\" amid Iran's deadly crackdown on anti-regime protests.",
+        "source": "BBC News",
+        "objectivity_score": 43,
+        "sentiment": "Negative",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "british embassy closes",
+            "joe bennett",
+            "dangerous position"
+        ]
+    },
+    {
+        "title": "Time to look at banning under-16s from social media, says Streeting",
+        "link": "https://www.bbc.com/news/articles/c2k9z535e08o?at_medium=RSS&at_campaign=rss",
+        "summary": "Many Labour MPs and officials privately expect the government to follow the Australia's example and implement a ban.",
+        "source": "BBC News",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "social media",
+            "labour mps",
+            "'s example"
+        ]
+    },
+    {
+        "title": "Bodies of Cubans killed during US raid on Venezuela to be returned",
+        "link": "https://www.bbc.com/news/articles/cz9v3n7110zo?at_medium=RSS&at_campaign=rss",
+        "summary": "The bodies of 32 soldiers killed during the US action are set to be received in Havana on Thursday.",
+        "source": "BBC News",
+        "objectivity_score": 3,
+        "sentiment": "Negative",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "us raid",
+            "us action"
+        ]
+    },
+    {
+        "title": "One in 10 patients spent over 12 hours in A&E in 2025",
+        "link": "https://www.bbc.com/news/articles/c4gre5kw5j7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Nurses union says long waits and corridor care having a devastating impact on paitents.",
         "source": "BBC News",
         "objectivity_score": 50,
         "sentiment": "Negative",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "widespread delays",
-            "bobi wine",
-            "yoweri museveni"
+            "long waits",
+            "corridor care"
         ]
     },
     {
-        "title": "Moment cargo ship crashes into oil tanker in North Sea",
-        "link": "https://www.bbc.com/news/videos/cz0p9v0yvlmo?at_medium=RSS&at_campaign=rss",
-        "summary": "A jury has seen footage of a cargo ship crashing into an oil tanker, which triggered an explosion and killed a crew member.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Negative",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "cargo ship crashes",
-            "oil tanker",
-            "north sea"
-        ]
-    },
-    {
-        "title": "Labubu toy manufacturer exploited workers, labour group claims",
-        "link": "https://www.bbc.com/news/articles/cn4037v0w12o?at_medium=RSS&at_campaign=rss",
-        "summary": "Investigators allege that a factory making Pop Mart products neglected staff safety and welfare.",
+        "title": "Lord Offord named as Reform UK's Scottish leader",
+        "link": "https://www.bbc.com/news/articles/cz7y1vq2qq0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The former Conservative minister and Scottish Tory treasurer has been officially unveiled by Nigel Farage.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "toy manufacturer",
-            "labour group claims",
-            "factory making"
+            "reform uk",
+            "scottish leader",
+            "nigel farage"
         ]
     },
     {
-        "title": "US launches phase two of Gaza peace plan with new technocratic government",
-        "link": "https://www.bbc.com/news/articles/cjw1nxe5pvlo?at_medium=RSS&at_campaign=rss",
-        "summary": "It includes the establishment of a technocratic Palestinian government, as well as the reconstruction and demilitarisation of Gaza, US envoy Steve Witkoff says.",
+        "title": "UK economy grew by 0.3% in November, beating forecasts",
+        "link": "https://www.bbc.com/news/articles/c8d041pp85mo?at_medium=RSS&at_campaign=rss",
+        "summary": "The economy was boosted by a rebound in car production and from the services sector.",
         "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "us launches phase",
-            "peace plan",
-            "new technocratic government"
-        ]
-    },
-    {
-        "title": "White House defends Trump over middle-finger gesture at heckler",
-        "link": "https://www.bbc.com/news/articles/c62w8exgw1zo?at_medium=RSS&at_campaign=rss",
-        "summary": "Thousands of people have sent donations totalling nearly $700,000 (521,000) to the heckler, who was suspended from his job at Ford.",
-        "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "white house",
-            "middle-finger gesture",
-            "heckler thousands"
+            "car production",
+            "services sector"
         ]
     },
     {
@@ -1163,132 +1084,236 @@
         ]
     },
     {
-        "title": "The Sadiq Khan Interview",
-        "link": "https://www.bbc.co.uk/sounds/play/p0mtm4hx?at_medium=RSS&at_campaign=rss",
-        "summary": "Sadiq Khan speaks to Newscast about crime in London, social media and Europe.",
+        "title": "Trump v China: How Oil Is Defining Great Power Politics",
+        "link": "https://www.bbc.co.uk/sounds/play/m002pqpq?at_medium=RSS&at_campaign=rss",
+        "summary": "What is this new era of global politics and where it does it leave Europe?",
         "source": "BBC News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "sadiq khan interview sadiq khan",
-            "social media"
-        ]
-    },
-    {
-        "title": "Americanswers...On 5 Live! What do Americans really think of Donald Trump?",
-        "link": "https://www.bbc.co.uk/sounds/play/p0mtmkqg?at_medium=RSS&at_campaign=rss",
-        "summary": "And does Trump have a plan for Iran?",
-        "source": "BBC News",
-        "objectivity_score": 35,
+        "objectivity_score": 40,
         "sentiment": "Positive",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "donald trump"
+            "power politics",
+            "new era",
+            "global politics"
         ]
     },
     {
-        "title": "Arsenal take step to ending semi-final nightmares - but regrets remain",
-        "link": "https://www.bbc.com/sport/football/articles/c0q48q8e47go?at_medium=RSS&at_campaign=rss",
-        "summary": "Arsenal's 3-2 win at Chelsea seizes control of their EFL Cup tie - and overcoming their poor record in semi-finals will be the big positive for Mikel Arteta.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "semi-final nightmares",
-            "seizes control",
-            "cup tie"
-        ]
-    },
-    {
-        "title": "Sanchez mistakes 'on me' - Rosenior defends Chelsea keeper",
-        "link": "https://www.bbc.com/sport/football/articles/c1kl8kelrmxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Chelsea boss Liam Rosenior defends goalkeeper Robert Sanchez following two mistakes in his side's 3-2 defeat at home to Arsenal on Wednesday in their Carabao Cup semi-final first-leg tie.",
+        "title": "Robertson keen to stay at Liverpool but 'wants to play'",
+        "link": "https://www.bbc.com/sport/football/articles/ce8gzemlv5ro?at_medium=RSS&at_campaign=rss",
+        "summary": "Liverpool's Andy Robertson on contract talks, a \"stressful summer\" and why he \"wants to play\" rather than sit on the bench.",
         "source": "BBC News",
         "objectivity_score": 10,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "andy robertson",
+            "stressful summer"
+        ]
+    },
+    {
+        "title": "What does xG predict for the rest of the season?",
+        "link": "https://www.bbc.com/sport/football/articles/c0ke7223vp4o?at_medium=RSS&at_campaign=rss",
+        "summary": "With more than half the season gone, we have enough stats to get a good idea of how well Premier League teams have been playing and therefore how things are likely to unfold in the months ahead.",
+        "source": "BBC News",
+        "objectivity_score": 55,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "good idea",
+            "premier league teams"
+        ]
+    },
+    {
+        "title": "Raducanu given potential Sabalenka obstacle in Melbourne",
+        "link": "https://www.bbc.com/sport/tennis/articles/crleznxxl5wo?at_medium=RSS&at_campaign=rss",
+        "summary": "Emma Raducanu is handed a potential third-round match against world number one Aryna Sabalenka at the Australian Open.",
+        "source": "BBC News",
+        "objectivity_score": 62,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "mistakes 'on",
-            "liam rosenior",
-            "robert sanchez"
+            "melbourne emma raducanu",
+            "potential third-round",
+            "world number"
         ]
     },
     {
-        "title": "Mane destroys Salah's Afcon dream again - will he get another chance?",
-        "link": "https://www.bbc.com/sport/football/articles/c4g5d10m5veo?at_medium=RSS&at_campaign=rss",
-        "summary": "Mohamed Salah's Afcon dream was ended by Sadio Mane and Senegal on Wednesday night - but how many more chances will the Liverpool forward have to win the competition?",
+        "title": "New Zealand sack 'gutted' head coach Robertson",
+        "link": "https://www.bbc.com/sport/rugby-union/articles/cgrd9wgpzkyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Scott Robertson is sacked as head coach of New Zealand after two years in charge of the All Blacks, following an internal review of the 2025 season.",
         "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "mohamed salah",
-            "sadio mane"
-        ]
-    },
-    {
-        "title": "A 6-2 sweep - Robertson & Trump complete bizarre Masters sequence",
-        "link": "https://www.bbc.com/sport/snooker/articles/crmlvrv114ro?at_medium=RSS&at_campaign=rss",
-        "summary": "Neil Robertson completes an unprecedented eighth 6-2 win in the first round of the Masters as he advanced past Chris Wakelin into the quarter-finals.",
-        "source": "BBC News",
-        "objectivity_score": 48,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "complete bizarre",
-            "neil robertson",
-            "chris wakelin"
-        ]
-    },
-    {
-        "title": "Hearts 'underdogs by long shot' but still setting Premiership pace",
-        "link": "https://www.bbc.com/sport/articles/c20gp09lpglo?at_medium=RSS&at_campaign=rss",
-        "summary": "If it seemed Hearts made a statement by winning with 10 men at Dundee on Sunday, they upped the ante against St Mirren four days later.",
-        "source": "BBC News",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "long shot",
-            "st mirren"
-        ]
-    },
-    {
-        "title": "Bayern's record-breaking Bundesliga season in numbers",
-        "link": "https://www.bbc.com/sport/football/articles/cd9e7x5dndgo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport examines the stunning numbers behind Bayern Munich's record-breaking start to the Bundesliga season - and what records they could topple.",
-        "source": "BBC News",
-        "objectivity_score": 85,
+        "objectivity_score": 25,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "bbc sport",
-            "bayern munich"
+            "head coach",
+            "robertson scott robertson",
+            "head coach"
         ]
     },
     {
-        "title": "Venezuela Envoy to Visit U.S. for First Official Trip in Years",
-        "link": "https://www.nytimes.com/2026/01/14/world/americas/venezuela-diplomat-us-visit-washington.html",
-        "summary": "Flix Plasencia, an envoy of the interim government, will travel to the United States on the day the opposition leader Mara Corina Machado is to meet President Trump.",
+        "title": "'It blows me away sometimes' - how a British coach is Super Bowl contender",
+        "link": "https://www.bbc.com/sport/american-football/articles/cpwnqj48xe5o?at_medium=RSS&at_campaign=rss",
+        "summary": "After starting out in the British amateur game, Aden Durde is now two wins from the Super Bowl and could become the NFL's first British head coach.",
+        "source": "BBC News",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "'it blows",
+            "british coach",
+            "bowl contender"
+        ]
+    },
+    {
+        "title": "WSL players make confessions including Toone, Shaw and Kelly",
+        "link": "https://www.bbc.com/sport/videos/cp37kp55eyzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The best moments from BBC Sports Confession Cam featuring WSL stars Khadija Shaw, Ella Toone, Chloe Kelly and more.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "confession cam",
+            "khadija shaw",
+            "ella toone"
+        ]
+    },
+    {
+        "title": "Russia Knocks Out the Heat in Ukraine",
+        "link": "https://www.nytimes.com/2026/01/15/world/europe/ukraine-kyiv-winter-heating-power-outages.html",
+        "summary": "The Kremlin has tried for years to freeze Ukraine into submission. This winter, its attacks have been the most devastating ever.",
         "source": "NYT > World News",
-        "objectivity_score": 33,
+        "objectivity_score": 75,
+        "sentiment": "Negative",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "russia knocks"
+        ]
+    },
+    {
+        "title": "\u2018Squished Between Chairs\u2019 on a Train: How Some Passengers Survived a Crane Collapse",
+        "link": "https://www.nytimes.com/2026/01/15/world/asia/thailand-train-crane-survivors.html",
+        "summary": "Some travelers were able to squeeze out of mangled cars and others were rescued by residents, after the accident in northeastern Thailand. Dozens did not survive.",
+        "source": "NYT > World News",
+        "objectivity_score": 62,
         "sentiment": "Positive",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "venezuela envoy",
-            "visit u.s.",
-            "years flix plasencia"
+            "passengers survived",
+            "crane collapse"
+        ]
+    },
+    {
+        "title": "Iran Says Protester Was Not Sentenced to Death After International Outcry",
+        "link": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-erfan-soltani-execution.html",
+        "summary": "The judiciary said that Erfan Soltani would not be executed, Iranian state media reported. His case has drawn attention to the fate of the arrested demonstrators.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "iran says protester was",
+            "erfan soltani",
+            "state media"
+        ]
+    },
+    {
+        "title": "The U.S. Is Pressing Mexico to Allow U.S. Forces to Fight Cartels",
+        "link": "https://www.nytimes.com/2026/01/15/world/americas/us-mexico-cartels.html",
+        "summary": "The United States is escalating pressure on the Mexican government to permit the U.S. military to target fentanyl labs, according to American officials.",
+        "source": "NYT > World News",
+        "objectivity_score": 3,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "pressing mexico",
+            "allow u.s",
+            "fight cartels"
+        ]
+    },
+    {
+        "title": "Venezuela Strongman and Maduro Ally, Diosdado Cabello, Faces an Uneasy Transition",
+        "link": "https://www.nytimes.com/2026/01/15/world/americas/venezuela-diosdado-cabello-maduro.html",
+        "summary": "Diosdado Cabello, Venezuelas interior minister, is accused by U.S. prosecutors of drug trafficking and is linked to repression at home, yet remains a powerful figure.",
+        "source": "NYT > World News",
+        "objectivity_score": 100,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "venezuela strongman",
+            "maduro ally",
+            "diosdado cabello"
+        ]
+    },
+    {
+        "title": "Nearly 5 Million Accounts Removed Under Australia\u2019s New Social Media Ban",
+        "link": "https://www.nytimes.com/2026/01/15/world/australia/social-media-ban-australia.html",
+        "summary": "Governments around the world are watching the rollout of the landmark law, which made it illegal for those under 16 to have accounts.",
+        "source": "NYT > World News",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "million accounts removed",
+            "media ban",
+            "landmark law"
+        ]
+    },
+    {
+        "title": "Nobel Committee Takes Heat at Home as Machado Courts Trump in D.C.",
+        "link": "https://www.nytimes.com/2026/01/15/world/americas/machado-trump-meeting-nobel-peace-prize.html",
+        "summary": "The Venezuelan opposition leaders attempts to share her award with the U.S. president have shaken some Norwegians faith in their signature soft-power tool.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "takes heat",
+            "machado courts trump",
+            "opposition leaders attempts"
+        ]
+    },
+    {
+        "title": "Trump\u2019s Gulf Allies Do Not Want Him to Bomb Iran",
+        "link": "https://www.nytimes.com/2026/01/14/world/middleeast/gulf-trump-iran.html",
+        "summary": "While several of the Gulf Arab countries harbor little love for Iran, they worry that the consequences of rising tensions could blow back on them.",
+        "source": "NYT > World News",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s gulf",
+            "want him",
+            "bomb iran"
+        ]
+    },
+    {
+        "title": "Thailand Has 2nd Deadly Incident Involving a Crane in 2 Days",
+        "link": "https://www.nytimes.com/2026/01/15/world/asia/thailand-crane-expressway-rama2.html",
+        "summary": "The accident, which killed at least two people outside Bangkok, came a day after another crane fell on a train in the northeast, leaving at least 32 people dead.",
+        "source": "NYT > World News",
+        "objectivity_score": 23,
+        "sentiment": "Negative",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "incident involving"
         ]
     },
     {
@@ -1304,6 +1329,21 @@
             "greenland matters",
             "outsize importance",
             "climate warms"
+        ]
+    },
+    {
+        "title": "Venezuela Envoy to Visit U.S. for First Official Trip in Years",
+        "link": "https://www.nytimes.com/2026/01/14/world/americas/venezuela-diplomat-us-visit-washington.html",
+        "summary": "Flix Plasencia, an envoy of the interim government, will travel to the United States on the day the opposition leader Mara Corina Machado is to meet President Trump.",
+        "source": "NYT > World News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "venezuela envoy",
+            "visit u.s.",
+            "years flix plasencia"
         ]
     },
     {
@@ -1347,149 +1387,6 @@
         "image_url": null,
         "keywords": [
             "islands future"
-        ]
-    },
-    {
-        "title": "Iran\u2019s Leaders May Survive Protests. But Anger Will Likely Persist.",
-        "link": "https://www.nytimes.com/2026/01/14/world/middleeast/iran-protests-government.html",
-        "summary": "Its security forces have brutally defended the Islamic Republic, but the protests show that many Iranians consider it stagnant and ideologically hollow.",
-        "source": "NYT > World News",
-        "objectivity_score": 55,
-        "sentiment": "Negative",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "may survive protests",
-            "anger will likely persist",
-            "security forces"
-        ]
-    },
-    {
-        "title": "Venezuela Announced the Release of Political Prisoners. Families Are Still Waiting.",
-        "link": "https://www.nytimes.com/2026/01/14/world/americas/venezuela-politicial-prisoners-release.html",
-        "summary": "Hundreds of families are hoping their loved ones will be freed by the Venezuelan government, which has said little about who would be released or when.",
-        "source": "NYT > World News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "venezuela announced"
-        ]
-    },
-    {
-        "title": "Quebec Premier Fran\u00e7ois Legault Resigns Ahead of Elections",
-        "link": "https://www.nytimes.com/2026/01/14/world/americas/quebec-leader-resignation.html",
-        "summary": "Premier Franois Legault became Canadas most popular provincial leader during the pandemic thanks to his reassuring, avuncular persona. But missteps sank his hopes for a third term.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "fran\u00e7ois legault resigns ahead",
-            "franois legault",
-            "popular provincial leader"
-        ]
-    },
-    {
-        "title": "Trump\u2019s Threats to Greenland Raise Serious Questions for NATO",
-        "link": "https://www.nytimes.com/2026/01/14/world/europe/trump-greenland-nato.html",
-        "summary": "The treaty that created NATO did not contemplate an attack by one ally on another. A seizure of Greenland by President Trump would test the endurance of the mutual-defense pact.",
-        "source": "NYT > World News",
-        "objectivity_score": 66,
-        "sentiment": "Negative",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "greenland raise serious"
-        ]
-    },
-    {
-        "title": "Watch the Leaders of Japan and South Korea Jam to K-pop on the Drums",
-        "link": "https://www.nytimes.com/2026/01/14/world/asia/japan-south-korea-kpop-drum-diplomacy.html",
-        "summary": "Prime Minister Sanae Takaichi of Japan and President Lee Jae Myung of South Korea played along to BTS and KPop Demon Hunters, in a display meant to show warming ties.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "korea jam",
-            "drums prime",
-            "sanae takaichi"
-        ]
-    },
-    {
-        "title": "As Iran\u2019s Government Tries to Quell Protests, Accounts of Brutal Crackdown Emerge",
-        "link": "https://www.nytimes.com/2026/01/13/world/middleeast/iran-protester-deaths.html",
-        "summary": "As many as 3,000 feared dead as witnesses describe government forces firing on unarmed protesters.",
-        "source": "NYT > World News",
-        "objectivity_score": 57,
-        "sentiment": "Negative",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s government",
-            "quell protests",
-            "brutal crackdown emerge"
-        ]
-    },
-    {
-        "title": "At This Office Park, Scamming the World Was the Business",
-        "link": "https://www.nytimes.com/2026/01/13/world/asia/myanmar-scam-center.html",
-        "summary": "Times journalists got a rare look inside one of the compounds where the online fraud industry makes its billions. Inspirational slogans (Keep going) were just the start.",
-        "source": "NYT > World News",
-        "objectivity_score": 95,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "office park",
-            "rare look",
-            "online fraud industry"
-        ]
-    },
-    {
-        "title": "Marine Le Pen Is Appealing a Decision to Bar Her From Office.",
-        "link": "https://www.nytimes.com/2026/01/13/world/europe/marine-le-pen-trial-appeal-electoral-ban.html",
-        "summary": "Ms. Le Pen, whose far-right party leads polls in France, was convicted last year of embezzlement. The outcome of her appeal, which started on Tuesday, will determine if she can run for president next ...",
-        "source": "NYT > World News",
-        "objectivity_score": 18,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "far-right party"
-        ]
-    },
-    {
-        "title": "Uganda Cuts Internet Days Before Presidential Election",
-        "link": "https://www.nytimes.com/2026/01/13/world/africa/uganda-election-internet.html",
-        "summary": "The authorities say the decision was made to prevent the spread of misinformation as President Yoweri Museveni seeks his seventh term in office.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "uganda cuts internet",
-            "presidential election",
-            "yoweri museveni"
-        ]
-    },
-    {
-        "title": "Crane Collapses on Expressway Outside Bangkok, Killing at Least 2",
-        "link": "https://www.nytimes.com/2026/01/15/world/asia/thailand-crane-expressway-rama2.html",
-        "summary": "The deadly episode came a day after a crane fell on a moving train in northeastern Thailand, killing at least 32 people.",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
-        "sentiment": "Negative",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "crane collapses",
-            "expressway outside"
         ]
     },
     {
@@ -1553,21 +1450,6 @@
         ]
     },
     {
-        "title": "Trump\u2019s Gulf Allies Do Not Want Him to Bomb Iran",
-        "link": "https://www.nytimes.com/2026/01/14/world/middleeast/gulf-trump-iran.html",
-        "summary": "While several of the Gulf Arab countries harbor little love for Iran, they worry that the consequences of rising tensions could blow back on them.",
-        "source": "NYT > World News",
-        "objectivity_score": 27,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s gulf",
-            "want him",
-            "bomb iran"
-        ]
-    },
-    {
         "title": "Minneapolis \u2018Feels Like a Military Occupation\u2019",
         "link": "https://www.nytimes.com/2026/01/14/world/minneapolis-us-iran-greenland.html",
         "summary": "President Trump has sent ICE agents into cities across America. We take a look at the fallout and what may come next.",
@@ -1626,18 +1508,48 @@
         ]
     },
     {
-        "title": "Ugandans to vote in election expected to extend Museveni\u2019s four-decade rule",
-        "link": "https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine",
-        "summary": "Campaign beset by violence with supporters of rival candidate Bobi Wine teargassed and detainedUgandans are preparing to vote in an election that is expected to result in Yoweri Museveni extending his...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 28,
+        "title": "Renfrew Christie Dies at 76; Sabotaged Racist Regime\u2019s Nuclear Program",
+        "link": "https://www.nytimes.com/2026/01/14/world/africa/renfrew-christie-dead.html",
+        "summary": "He played a key role in ending apartheid South Africas secret weapons program in the 1980s by helping the African National Congress bomb critical facilities.",
+        "source": "NYT > World News",
+        "objectivity_score": 62,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "\u2019 s four-decade rule",
-            "rival candidate",
-            "bobi wine"
+            "renfrew christie dies",
+            "sabotaged racist regime",
+            "nuclear program"
+        ]
+    },
+    {
+        "title": "Quebec Premier Fran\u00e7ois Legault Resigns Ahead of Elections",
+        "link": "https://www.nytimes.com/2026/01/14/world/americas/quebec-leader-resignation.html",
+        "summary": "Premier Franois Legault became Canadas most popular provincial leader during the pandemic thanks to his reassuring, avuncular persona. But missteps sank his hopes for a third term.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "fran\u00e7ois legault resigns ahead",
+            "franois legault",
+            "popular provincial leader"
+        ]
+    },
+    {
+        "title": "Voting in Uganda\u2019s general election delayed by technical and logistical issues",
+        "link": "https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine",
+        "summary": "Some polling stations have no ballot papers and some machines to check ID are not working, local reports sayVoting in Ugandas general election has been delayed in many parts of the country because of ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "general election",
+            "logistical issues",
+            "ballot papers"
         ]
     },
     {
@@ -1701,6 +1613,51 @@
         ]
     },
     {
+        "title": "Trump to meet Venezuelan opposition leader and Nobel peace laureate Maria Corina Machado later \u2013 US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2026/jan/15/us-politics-latest-news-updates-donald-trump-venezuela-maria-corina-machado",
+        "summary": "Trump and his top advisers have previously hinted at their willingness to work with acting president Delcy RodrguezOne day during his first term, Donald Trump summoned a top aide to discuss a new idea...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "opposition leader",
+            "peace laureate",
+            "maria corina machado"
+        ]
+    },
+    {
+        "title": "Trump to discuss Venezuela\u2019s future with Machado after Maduro\u2019s capture",
+        "link": "https://www.theguardian.com/us-news/2026/jan/15/trump-maria-corina-machado-venezuela",
+        "summary": "Venezuelan opposition leader and Nobel prize winner had been sidelined by White House after US seized MaduroDonald Trump will host Mara Corina Machado, the Venezuelan opposition leader and 2025 Nobel ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 14,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s future",
+            "opposition leader",
+            "prize winner"
+        ]
+    },
+    {
+        "title": "Why big oil giants may not rush to buy into Donald Trump\u2019s Venezuelan vision",
+        "link": "https://www.theguardian.com/business/2026/jan/15/trump-big-oil-venezuela",
+        "summary": "It may well be safer, easier and cheaper for US companies to procure whatever oil the US economy needs at homeThere are a few reasons that Donald Trump  now self-anointed acting President of Venezuela...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "big oil giants",
+            "donald trump",
+            "us companies"
+        ]
+    },
+    {
         "title": "Venezuela regime claims release of political prisoners is sign of new era",
         "link": "https://www.theguardian.com/world/2026/jan/14/venezuelan-political-prisoners-released",
         "summary": "NGOs estimate that there are still close to 1,000 political prisoners in Venezuela despite claims by new leadersVenezuelas acting president has claimed that the regimes release of political prisoners ...",
@@ -1728,51 +1685,6 @@
             "fran\u00e7ois legault",
             "abrupt resignation",
             "coalition avenir qubec"
-        ]
-    },
-    {
-        "title": "US plan to exploit Venezuela\u2019s oil could eat up 13% of carbon budget to keep 1.5C limit",
-        "link": "https://www.theguardian.com/environment/2026/jan/12/us-plan-to-exploit-venezuelas-oil-could-eat-up-13-of-carbon-budget-to-keep-15c-limit",
-        "summary": "Exclusive: ClimatePartner analysis shows how move would risk plunging Earth further into climate catastropheUS plans to exploit Venezuelas oil reserves could by 2050 consume more than a tenth of the w...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "us plan",
-            "\u2019 s oil",
-            "carbon budget"
-        ]
-    },
-    {
-        "title": "Trump\u2019s other Latin American feud: why Colombia\u2019s Petro is not Maduro",
-        "link": "https://www.theguardian.com/world/2026/jan/12/trump-latin-america-feud-colombia-gustavo-petro",
-        "summary": "Leftwing leader rallies his supporters as US president accuses him of drug trafficking and threatens military actionA leftwing South American firebrand calls for his followers to rally in public squar...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "latin american feud",
-            "maduro leftwing",
-            "leader rallies"
-        ]
-    },
-    {
-        "title": "US frackers were already facing a global oil supply glut. Trump\u2019s Venezuelan dream could make it worse",
-        "link": "https://www.theguardian.com/us-news/2026/jan/12/us-oil-producers-global-supply-glut-venezuela",
-        "summary": "Picture is as murky as a barrel of oil, with US companies in 2026 expecting their first production drop in four yearsUS shale-oil producers were already contending with oil prices at four-year lows. N...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "us frackers",
-            "global oil",
-            "us companies"
         ]
     },
     {
@@ -1851,6 +1763,66 @@
         ]
     },
     {
+        "title": "British indie band Pulp agree to play Adelaide festival after boycott u-turn",
+        "link": "https://www.theguardian.com/culture/2026/jan/15/british-indie-band-pulp-agree-to-play-adelaide-festival-after-boycott-u-turn",
+        "summary": "The band pulled out over treatment of Randa Abdel-Fattah but delayed revealing their decision before confirming 27 February gig Get our breaking news email, free app or daily news podcastThe British i...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 9,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "british indie band",
+            "boycott u-turn",
+            "randa abdel-fattah"
+        ]
+    },
+    {
+        "title": "More than 4.7m social media accounts blocked after Australia\u2019s under-16 ban came into force, PM says",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/15/australia-u16-social-media-ban-millions-accounts-blocked",
+        "summary": "Accounts removed or restricted on Twitch, Kick, YouTube, Threads, Facebook, Instagram, Snap, X, TikTok and Reddit in world-leading banGet our breaking news email, free app or daily news podcastMore th...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "social media accounts",
+            "\u2019 s under-16 ban",
+            "news email"
+        ]
+    },
+    {
+        "title": "Person taken to hospital after ingesting hand sanitiser supplied by Australia\u2019s largest privately owned hotel chain",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/15/hand-sanitiser-recall-dr-schwartz-hotel-chain-accc",
+        "summary": "The ACCC recalls Dr Schwartz Hand Sanitiser after it was identified as containing a high concentration of methanolGet our breaking news email, free app or daily news podcastA person was hospitalised w...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "hand sanitiser",
+            "hotel chain",
+            "dr schwartz hand sanitiser"
+        ]
+    },
+    {
+        "title": "Jewish American columnist Thomas Friedman says he was uninvited from 2024 Adelaide writers\u2019 week over \u2018timing\u2019",
+        "link": "https://www.theguardian.com/culture/2026/jan/15/jewish-american-columnist-thomas-friedman-says-he-was-uninvited-from-2024-adelaide-writers-week-ntwnfb",
+        "summary": "Claim comes after former festival board member Tony Berg accused Louise Adler and Randa Abdel-Fattah of  hypocrisy in their accusations of repressing freedom of speech Get our breaking news email, fre...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "jewish american columnist",
+            "thomas friedman",
+            "writers \u2019 week"
+        ]
+    },
+    {
         "title": "Teal MPs call out Coalition over stance on hate speech laws \u2013 as it happened",
         "link": "https://www.theguardian.com/australia-news/live/2026/jan/15/victoria-bushfires-school-data-hack-adelaide-writers-week-peter-malinauskas-labor-hate-speech-laws-political-reaction-anthony-albanese-sussan-ley-coalition-ntwnfb",
         "summary": "This blog is now closedLabors hate speech and gun laws set to fail as Coalition and Greens rule out supportGet our breaking news email, free app or daily news podcastIranian Australians left distraugh...",
@@ -1866,63 +1838,33 @@
         ]
     },
     {
-        "title": "\u2018We\u2019ve lost everything, you can see caravans floating away\u2019: flash flooding hits Victoria\u2019s Great Ocean Road",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/15/river-wye-flooding-victoria-great-ocean-road-cars-washed-away",
-        "summary": "Woman camping at flooded Wye River with her daughters says its just heartbreaking, strangers are hugging strangersHundreds of people have evacuated a major camping ground after a severe thunderstorm c...",
+        "title": "Greenland: new shipping routes, hidden minerals \u2013 and a frontline between the US and Russia?",
+        "link": "https://www.theguardian.com/world/2026/jan/15/greenland-new-shipping-routes-hidden-minerals-and-a-frontline-between-the-us-and-russia",
+        "summary": "Key maps show the growing strategic importance of Greenland as Arctic ice melts under global heatingLying between the US and Russia, Greenland has become a critical frontline as the Arctic opens up be...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "great ocean road",
-            "severe thunderstorm",
-            "major scenic tourism road"
+            "new shipping routes",
+            "minerals \u2013",
+            "strategic importance"
         ]
     },
     {
-        "title": "Labor\u2019s hate speech and gun laws set to fail as Coalition and Greens rule out support",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/15/sussan-ley-coalition-criticises-labor-hate-speech-reforms-ntwnfb",
-        "summary": "Opposition leader says government took a month to deliver this bad bill as Labor criticises Liberal hypocrisy on proposed hate lawsFollow our Australia news live blog for latest updatesGet our breakin...",
+        "title": "British diplomat expelled from Russia after \u2018baseless\u2019 accusation of being a spy",
+        "link": "https://www.theguardian.com/world/2026/jan/15/british-diplomat-expelled-russia-accused-spy",
+        "summary": "Moscows allegation that unnamed diplomat is affiliated with UK secret service comes out of desperation, Foreign Office saysA British diplomat has been expelled from Russia over what the UK Foreign Off...",
         "source": "World news | The Guardian",
-        "objectivity_score": 58,
+        "objectivity_score": 19,
         "sentiment": "Negative",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "gun laws",
-            "bad bill",
-            "labor criticises"
-        ]
-    },
-    {
-        "title": "Australia exposed Iranian asylum seeker to torture on Manus, UN says",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/14/australia-exposed-iranian-asylum-seeker-to-torture-on-manus-un-says",
-        "summary": "United Nations says man experienced serious violence in detention but Australia argues it did not control PNG facilitiesFollow our Australia news live blog for latest updatesGet our breaking news emai...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 53,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "asylum seeker",
-            "serious violence",
-            "news email"
-        ]
-    },
-    {
-        "title": "Adelaide festival apologises to Randa Abdel-Fattah and invites her to participate in 2027 writers\u2019 week",
-        "link": "https://www.theguardian.com/culture/2026/jan/15/adelaide-festival-apologises-randa-abdel-fattah-2027-invite-ntwnfb",
-        "summary": "Apology comes as former Adelaide festival board member accuses Louise Adler of hypocrisy after she resigned citing free speech concernsFollow our Australia news live blog for latest updatesGet our bre...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "festival apologises",
-            "randa abdel-fattah",
-            "writers \u2019 week"
+            "british diplomat",
+            "\u2018 baseless \u2019 accusation",
+            "secret service"
         ]
     },
     {
@@ -1971,63 +1913,48 @@
         ]
     },
     {
-        "title": "California attorney general investigates Musk\u2019s Grok AI over lewd fake images",
-        "link": "https://www.theguardian.com/technology/2026/jan/14/california-attorney-general-investigates-grok-ai-elon-musk",
-        "summary": "AI tool made by Elon Musks xAI makes it easy to harass women with deepfake images, says states top attorneyCalifornia authorities have announced an investigation into the output of Elon Musks Grok.The...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 69,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "attorney general investigates",
-            "grok ai",
-            "lewd fake images"
-        ]
-    },
-    {
-        "title": "France announces ban on 10 British anti-migrant activists",
-        "link": "https://www.theguardian.com/uk-news/2026/jan/14/france-announces-ban-on-10-british-anti-migrant-activists-raise-the-colours",
-        "summary": "French interior ministry issues territorial bans after reports of anti-migrant activities by members of Raise the Colours movementFrances interior ministry has announced a ban on 10 British anti-migra...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 2,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "announces ban",
-            "british anti-migrant activists",
-            "french interior ministry issues territorial"
-        ]
-    },
-    {
-        "title": "Trump says he\u2019s been assured Tehran has stopped killing protesters as Iran reopens its airspace \u2013 live",
+        "title": "Iran warns it will \u2018defend itself against any foreign threat\u2019 as Trump claims killing of protesters has stopped - live",
         "link": "https://www.theguardian.com/world/live/2026/jan/15/trump-iran-protests-usa-response-airspace-killings-live-updates",
-        "summary": "US president says important sources also told him executions not going ahead as Iranian airspace reopens to flights after near-five-hour closureFull report: Iran protest killings have halted, Trump cl...",
+        "summary": "Iranian foreign minister Abbas Araghchi spoke of the need for global condemnation of foreign interference in the internal affairs of regional countriesTrump has told Reuters in that Iranian opposition...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
+        "objectivity_score": 37,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "airspace \u2013",
-            "us president",
-            "important sources"
+            "foreign threat \u2019",
+            "foreign minister",
+            "abbas araghchi"
         ]
     },
     {
-        "title": "Iran protest killings have halted, Trump claims, as Tehran says executions are \u2018out of the question\u2019",
+        "title": "Trump says Iran has told him \u2018killing has stopped\u2019 as he pulls back from strike threats",
         "link": "https://www.theguardian.com/world/2026/jan/15/iran-protest-killings-trump-tehran-claims-no-executions",
-        "summary": "US president adopts more measured tone and suggests a pause in decision on threatened US military action in IranIran protests  live updatesIran crisis explained: what we know so farAnalysis: why weste...",
+        "summary": "US president says he has been assured by Tehran theres no plan for executions of protesters Iran protests  live updatesIran crisis explained: what we know so farAnalysis: why western diplomats are war...",
         "source": "World news | The Guardian",
-        "objectivity_score": 23,
+        "objectivity_score": 27,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "question \u2019 us president adopts",
-            "military action",
-            "updatesiran crisis"
+            "strike threats us president",
+            "updatesiran crisis",
+            "western diplomats"
+        ]
+    },
+    {
+        "title": "How \u2018day zero\u2019 water shortages in Iran are fuelling protests",
+        "link": "https://www.theguardian.com/world/2026/jan/15/how-day-zero-water-shortages-in-iran-are-fuelling-protests",
+        "summary": "Supply failures are dramatic example of way climate crisis threatens basic human needs  and with it political stabilityIran protests  live updatesGripped by a terrible drought now entering its sixth y...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "\u2018 day zero \u2019 water shortages",
+            "protests supply failures",
+            "dramatic example"
         ]
     },
     {
@@ -2058,21 +1985,6 @@
             "us bases",
             "gunshot eye injuries",
             "hospitaliran protests"
-        ]
-    },
-    {
-        "title": "Execution of condemned Iranian protester postponed, family told",
-        "link": "https://www.theguardian.com/world/2026/jan/14/iran-protester-erfan-soltani-death-sentence-relative",
-        "summary": "Family stayed up until dawn waiting for news of Erfan Soltani who was due to be executed on WednesdayIran latest  live updatesThe family of Erfan Soltani, the first Iranian protester sentenced to deat...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "erfan soltani",
-            "updatesthe family",
-            "erfan soltani"
         ]
     },
     {
@@ -2151,114 +2063,144 @@
         ]
     },
     {
-        "title": "The U-turns keep coming \u2013 but Starmer\u2019s allies insist they\u2019re his best hope of revival",
-        "link": "https://www.theguardian.com/politics/2026/jan/15/scraping-tbarnacles-off-boat-starmer-trying-revive-labour-with-u-turns",
-        "summary": "Prime minister wants cabinet ministers to move on from policies that have tanked with votersBefore the 2015 UK election, the Australian political expert Lynton Crosby devised a strategy for the Tories...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 16,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s allies",
-            "cabinet ministers",
-            "political expert"
-        ]
-    },
-    {
-        "title": "Churchill\u2019s desk and rare artwork among items donated to UK cultural institutions",
-        "link": "https://www.theguardian.com/culture/2026/jan/15/churchill-desk-rare-artwork-items-donated-uk-cultural-institutions",
-        "summary": "Items worth 59.7m allocated to museums, galleries, libraries and archives as part of Arts Council England schemeWinston Churchill and Benjamin Disraelis desk, a painting by Vanessa Bell and a rare art...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s desk",
-            "rare artwork",
-            "cultural institutions"
-        ]
-    },
-    {
-        "title": "Traces of cancer-linked pesticide found in tests at UK playgrounds",
-        "link": "https://www.theguardian.com/environment/2026/jan/15/glyphosate-cancer-linked-pesticide-uk-playgrounds",
-        "summary": "Pressure mounting for use of glyphosate, listed by WHO since 2015 as probable carcinogen, to be heavily restrictedChildren are potentially being exposed to the controversial weedkiller glyphosate at p...",
+        "title": "Robert Jenrick sacked by Kemi Badenoch over \u2018clear evidence he was plotting to defect\u2019 \u2013 UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jan/15/local-elections-delays-uk-politics-live-latest-news-keir-starmer",
+        "summary": "I have sacked Robert Jenrick from the shadow cabinet, removed the whip and suspended his party membership with immediate effect, Tory leader saysFull report: Badenoch sacks JenrickNigel Farage, speaki...",
         "source": "World news | The Guardian",
         "objectivity_score": 41,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "probable carcinogen",
-            "controversial weedkiller glyphosate",
-            "counties.the world health organization"
+            "robert jenrick",
+            "kemi badenoch",
+            "clear evidence"
         ]
     },
     {
-        "title": "NHS corridor care is \u2018torture\u2019 leading to patient deaths and staff nightmares",
-        "link": "https://www.theguardian.com/society/2026/jan/15/nhs-corridor-care-torture-patient-deaths-staff-nightmares",
-        "summary": "Royal College of Nursing publishes dossier of evidence including case of elderly patient who choked to death in corridorCorridor care is a type of torture that is leading to patients dying and causing...",
+        "title": "South East Water boss in line for \u00a3400,000 bonus despite outages",
+        "link": "https://www.theguardian.com/business/2026/jan/15/south-east-water-boss-david-hinton-in-line-for-400000-bonus-despite-outages",
+        "summary": "Exclusive: David Hinton, who faces calls to resign, will receive payout regardless of performance if he stays until July 2030 South East Water could lose operating licence after outages Business live ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
+        "objectivity_score": 46,
         "sentiment": "Positive",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "corridor care",
-            "\u2018 torture \u2019",
-            "patient deaths"
+            "water boss",
+            "\u00a3400,000 bonus",
+            "david hinton"
         ]
     },
     {
-        "title": "Police chief behind Maccabi Tel Aviv ban clings to job despite home secretary wanting him to quit",
-        "link": "https://www.theguardian.com/football/2026/jan/14/police-chief-behind-maccabi-tel-aviv-ban-clings-to-job-despite-home-secretary-wanting-him-to-quit",
-        "summary": "Shabana Mahmood has lost confidence in Craig Guildford over his forces exaggerated and untrue intelligence assessmentsExplainer: What did West Midlands police chief get wrong in decision to ban Maccab...",
+        "title": "Kemi Badenoch sacks Robert Jenrick over \u2018defection plans\u2019",
+        "link": "https://www.theguardian.com/politics/2026/jan/15/kemi-badenoch-sacks-robert-jenrick-over-defection-plans",
+        "summary": "Conservative leader says she had irrefutable evidence shadow justice secretary was plotting to defect in most damaging wayUK politics live  latest updatesRobert Jenrick has been sacked from the shadow...",
         "source": "World news | The Guardian",
-        "objectivity_score": 90,
-        "sentiment": "Negative",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "maccabi tel aviv",
-            "ban clings",
-            "shabana mahmood"
-        ]
-    },
-    {
-        "title": "Federal agent shoots man in Minneapolis as tensions in city run high",
-        "link": "https://www.theguardian.com/us-news/2026/jan/14/minnesota-immigration-officers-shovel-attack",
-        "summary": "Mayor urged calm as protesters gathered on the scene, as city continues to reel in aftermath of Renee Nicole Goods killingA federal officer has shot a man in the leg during an enforcement operation in...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
+        "objectivity_score": 57,
         "sentiment": "Positive",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "federal agent shoots man",
-            "city run high mayor",
-            "renee nicole goods"
+            "kemi badenoch",
+            "robert jenrick",
+            "\u2018 defection plans \u2019"
         ]
     },
     {
-        "title": "Senate backs Donald Trump in Venezuela resolution as Vance casts tie-breaking vote \u2013 as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/jan/14/us-politics-live-latest-news-updates-supreme-court-donald-trump-tariffs-jd-vance-greenland",
-        "summary": "This live blog is now closed.US Senate kills resolution that would have limited Trump action in VenezuelaDonald Trump repeated his threat to withhold federal funding to sanctuary cities on Truth Socia...",
+        "title": "Growth figures give boost to Reeves \u2013 but it\u2019s too early to get carried away",
+        "link": "https://www.theguardian.com/politics/2026/jan/15/growth-figures-boost-rachel-reeves-analysis",
+        "summary": "While better-than-expected data for November offers hope for UK economy, clouds remain on the horizon UK economy grew by better-than-expected despite budget uncertainty Business live  latest updates U...",
         "source": "World news | The Guardian",
-        "objectivity_score": 20,
+        "objectivity_score": 54,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "growth figures",
+            "budget uncertainty business",
+            "rachel reeves"
+        ]
+    },
+    {
+        "title": "Streeting \u2018horrified\u2019 if police chief behind Maccabi Tel Aviv ban not gone by end of day",
+        "link": "https://www.theguardian.com/uk-news/2026/jan/15/wes-streeting-shocked-police-chief-behind-maccabi-tel-aviv-ban-still-in-post",
+        "summary": "Minister says he is shocked West Midlands chief who misled MPs and public is still in postUK politics live  latest updatesWes Streeting has said he would be horrified if the chief constable of West Mi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 59,
         "sentiment": "Neutral",
         "date": "2026-01-15",
         "image_url": null,
         "keywords": [
-            "senate backs",
-            "donald trump",
-            "vote \u2013"
+            "maccabi tel aviv",
+            "day minister",
+            "postuk politics"
         ]
     },
     {
-        "title": "Musk\u2019s X to block Grok AI tool from creating sexualized images of real people",
+        "title": "First Thing: Federal agent in Minneapolis shoots man as tensions in city run high",
+        "link": "https://www.theguardian.com/us-news/2026/jan/15/first-thing-federal-agent-shoots-man-minneapolis-tensions",
+        "summary": "Mayor urges calm as city continues to reel in aftermath of Renee Goods killing. Plus, how Adam Tooze makes sense of our bewildering ageGood morning.A federal officer shot a man in the leg during an en...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "federal agent",
+            "shoots man",
+            "city run high mayor"
+        ]
+    },
+    {
+        "title": "Alarm as Trump DoJ pushes for voter information on millions of Americans",
+        "link": "https://www.theguardian.com/us-news/2026/jan/15/justice-department-voter-information",
+        "summary": "Officials ask at least 43 states for sensitive details as critics fear effort to sow doubt about midterm election resultsThe justice department is undertaking an unprecedented effort to collect sensit...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "trump doj",
+            "voter information",
+            "sensitive details"
+        ]
+    },
+    {
+        "title": "How a billionaire with interests in Greenland encouraged Trump to acquire the territory",
+        "link": "https://www.theguardian.com/us-news/2026/jan/15/ronald-lauder-billionaire-donor-donald-trump-ukraine-greenland",
+        "summary": "US presidents friend Ronald Lauder  who first proposed Arctic expansion  is now making deals in the islandOne day during his first term, Donald Trump summoned a top aide to discuss a new idea. Trump c...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 55,
+        "sentiment": "Positive",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "territory us presidents friend",
+            "ronald lauder",
+            "islandone day"
+        ]
+    },
+    {
+        "title": "ISS astronauts return to Earth in Nasa\u2019s first ever medical evacuation",
+        "link": "https://www.theguardian.com/science/2026/jan/15/first-medical-evacuation-nasa-astronauts-back-to-earth",
+        "summary": "Four astronauts emerge from capsule after Pacific landing, including crew member in stable conditionFour astronauts from the International Space Station have returned to Earth a month earlier than pla...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-01-15",
+        "image_url": null,
+        "keywords": [
+            "astronauts return",
+            "medical evacuation",
+            "crew member"
+        ]
+    },
+    {
+        "title": "Musk\u2019s X to block Grok AI tool from creating sexualised images of real people",
         "link": "https://www.theguardian.com/technology/2026/jan/14/elon-musk-grok-ai-explicit-images",
-        "summary": "Amid global backlash, billionaire had only hours earlier said he was not aware of any naked underage imagesElon Musks xAI has announced it will block the ability of its Grok AI tool to alter images of...",
+        "summary": "UK government claims vindication after Keir Starmer criticised earlier decision to keep functionality as horrificThe UK government has claimed vindication after Elon Musks X announced it had stopped i...",
         "source": "World news | The Guardian",
         "objectivity_score": 35,
         "sentiment": "Neutral",
@@ -2267,37 +2209,7 @@
         "keywords": [
             "grok ai",
             "real people",
-            "global backlash"
-        ]
-    },
-    {
-        "title": "Portland man shot by Border Patrol pleads not guilty to assaulting agent",
-        "link": "https://www.theguardian.com/us-news/2026/jan/14/portland-shooting-border-agent",
-        "summary": "Luis David Nino-Moncada, shot the day after Renee Good was killed, denies using vehicle as weapon against officerA man shot and wounded by a Border Patrol agent during an immigration stop in Portland ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "man shot",
-            "border patrol",
-            "luis david nino-moncada"
-        ]
-    },
-    {
-        "title": "US Senate kills resolution that would have limited Trump action in Venezuela",
-        "link": "https://www.theguardian.com/us-news/2026/jan/14/us-senate-trump-military-action-venezuela",
-        "summary": "Republicans Josh Hawley and Todd Young flipped after receiving assurances from Trump administrationUS politics live  latest updatesThe US Senate has voted against a war powers resolution that would ha...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
-        "date": "2026-01-15",
-        "image_url": null,
-        "keywords": [
-            "us senate kills resolution",
-            "josh hawley",
-            "administrationus politics"
+            "government claims vindication"
         ]
     }
 ]
