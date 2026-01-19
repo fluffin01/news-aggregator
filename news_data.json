@@ -737,16 +737,17 @@
         ]
     },
     {
-        "title": "At least 21 killed in Spain after crash involving high-speed trains",
+        "title": "High-speed train collision in Spain kills at least 21",
         "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
-        "summary": "The incident happened near the town of Adamuz, close to the city of Cordoba.",
+        "summary": "More than 400 passengers were on board the trains that derailed near the city of Crdoba in Spain's worst rail crash in more than a decade.",
         "source": "BBC News",
-        "objectivity_score": 26,
-        "sentiment": "Negative",
+        "objectivity_score": 55,
+        "sentiment": "Neutral",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "news"
+            "train collision",
+            "rail crash"
         ]
     },
     {
@@ -780,6 +781,35 @@
         ]
     },
     {
+        "title": "'Credit-score company encouraged me to borrow again when I was nearly debt-free'",
+        "link": "https://www.bbc.com/news/articles/c4g0m1j4042o?at_medium=RSS&at_campaign=rss",
+        "summary": "A woman who had nearly paid off a 10,000 debt was sent emails suggesting she could apply for new credit cards.",
+        "source": "BBC News",
+        "objectivity_score": 41,
+        "sentiment": "Positive",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "'credit-score company",
+            "new credit cards"
+        ]
+    },
+    {
+        "title": "US believes its power matters more than international law, UN chief tells BBC",
+        "link": "https://www.bbc.com/news/articles/c4g0zx0llpzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Antnio Guterres says Washington's \"clear conviction\" is that multilateral solutions are irrelevant.",
+        "source": "BBC News",
+        "objectivity_score": 41,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "power matters",
+            "international law",
+            "un chief"
+        ]
+    },
+    {
         "title": "How crypto criminals stole $700 million from people - often using age-old tricks",
         "link": "https://www.bbc.com/news/articles/c93w30gl5jno?at_medium=RSS&at_campaign=rss",
         "summary": "As crypto wealth continues to grow, criminals are mixing sophisticated hacks with deception, and in some cases, real life violence.",
@@ -792,21 +822,6 @@
             "crypto criminals",
             "age-old tricks",
             "crypto wealth"
-        ]
-    },
-    {
-        "title": "Government pulls Hillsborough Law debate after backlash",
-        "link": "https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&at_campaign=rss",
-        "summary": "It was facing a potential rebellion by some Labour MPs over how the law would apply to security services.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "government pulls",
-            "law debate",
-            "potential rebellion"
         ]
     },
     {
@@ -825,6 +840,21 @@
         ]
     },
     {
+        "title": "Government pulls Hillsborough Law debate after backlash",
+        "link": "https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&at_campaign=rss",
+        "summary": "It was facing a potential rebellion by some Labour MPs over how the law would apply to security services.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "government pulls",
+            "law debate",
+            "potential rebellion"
+        ]
+    },
+    {
         "title": "Prince Harry to appear in court in legal action against Daily Mail publishers",
         "link": "https://www.bbc.com/news/videos/clyz1d1lqqro?at_medium=RSS&at_campaign=rss",
         "summary": "Prince Harry is to give evidence in London High Court on Thursday as part of legal battle against the publishers of the Daily Mail.",
@@ -837,21 +867,6 @@
             "legal action",
             "daily mail publishers prince",
             "high court"
-        ]
-    },
-    {
-        "title": "BBC demands tighter vetting after Apprentice candidate's offensive social media posts",
-        "link": "https://www.bbc.com/news/articles/czdqr5ly39zo?at_medium=RSS&at_campaign=rss",
-        "summary": "A contestant due to appear on the forthcoming series is found to have previously posted offensive messages on social media.",
-        "source": "BBC News",
-        "objectivity_score": 16,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "demands tighter",
-            "candidate 's",
-            "offensive social media posts"
         ]
     },
     {
@@ -869,33 +884,18 @@
         ]
     },
     {
-        "title": "Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
-        "link": "https://www.bbc.com/news/articles/c4gwk37ewvwo?at_medium=RSS&at_campaign=rss",
-        "summary": "President Ahmed al-Sharaa said the deal would allow the Syrian state to reassert control over most areas.",
+        "title": "BBC demands tighter vetting after Apprentice candidate's offensive social media posts",
+        "link": "https://www.bbc.com/news/articles/czdqr5ly39zo?at_medium=RSS&at_campaign=rss",
+        "summary": "A contestant due to appear on the forthcoming series is found to have previously posted offensive messages on social media.",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
+        "objectivity_score": 16,
+        "sentiment": "Neutral",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "agrees ceasefire",
-            "clashes president",
-            "reassert control"
-        ]
-    },
-    {
-        "title": "Mum thanks strangers who rescued nine-month-old baby from burning car",
-        "link": "https://www.bbc.com/news/articles/cvgjvrggnvno?at_medium=RSS&at_campaign=rss",
-        "summary": "Wesley Beynon and Marc Willding are hailed heroes after pulling baby Lilah from the flames.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Positive",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "thanks strangers",
-            "nine-month-old baby",
-            "wesley beynon"
+            "demands tighter",
+            "candidate 's",
+            "offensive social media posts"
         ]
     },
     {
@@ -944,7 +944,7 @@
     {
         "title": "Faisal Islam: Global disruption looms large over biggest-ever Davos",
         "link": "https://www.bbc.com/news/articles/cx2p3e245npo?at_medium=RSS&at_campaign=rss",
-        "summary": "Expect the World Economic Forum to be both the centre of the world this week, and totally bizarre, writes the BBC's economics editor.",
+        "summary": "Expect the World Economic Forum this week to be both the centre of the world and totally bizarre, writes the BBC's economics editor.",
         "source": "BBC News",
         "objectivity_score": 30,
         "sentiment": "Positive",
@@ -970,119 +970,107 @@
         ]
     },
     {
-        "title": "Harry's war with the press is back in court. But this time it's different",
-        "link": "https://www.bbc.com/news/articles/cj0ny6p62d5o?at_medium=RSS&at_campaign=rss",
-        "summary": "This is the Duke of Sussex's third major court battle accusing newspaper groups of unlawful behaviour.",
+        "title": "Fourteen dead, dozens missing in massive Pakistan mall fire",
+        "link": "https://www.bbc.com/news/articles/c150pg5dvp2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The blaze at the Gul Plaza in Karachi raged for more than 24 hours before it was put out.",
         "source": "BBC News",
-        "objectivity_score": 27,
+        "objectivity_score": 48,
         "sentiment": "Neutral",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "'s war",
-            "major court battle",
-            "newspaper groups"
+            "mall fire",
+            "gul plaza"
         ]
     },
     {
-        "title": "Gangland killing at a funeral shocks idyllic French island",
-        "link": "https://www.bbc.com/news/articles/c620nq38y6po?at_medium=RSS&at_campaign=rss",
-        "summary": "Corsica is shaken by the shooting, which brings into stark relief one of the highest murder rates in France.",
+        "title": "Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
+        "link": "https://www.bbc.com/news/articles/c4gwk37ewvwo?at_medium=RSS&at_campaign=rss",
+        "summary": "President Ahmed al-Sharaa said the deal would allow the Syrian state to reassert control over most areas.",
         "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "funeral shocks idyllic",
-            "french island",
-            "stark relief"
+            "agrees ceasefire",
+            "clashes president",
+            "reassert control"
         ]
     },
     {
-        "title": "Fears Iran's internet shutdown could lead to 'extreme digital isolation'",
-        "link": "https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&at_campaign=rss",
-        "summary": "Internet monitor FilterWatch warns that authorities are trying to cut the country off from international connectivity.",
+        "title": "Cancer patients 'warned for years' about hospital water infections",
+        "link": "https://www.bbc.com/news/articles/czx3n6p136do?at_medium=RSS&at_campaign=rss",
+        "summary": "John Cuddihy told BBC Scotland News his late daughter's experiences \"must continue to echo beyond her lifetime\".",
         "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "'s internet shutdown",
-            "'extreme digital isolation",
-            "international connectivity"
-        ]
-    },
-    {
-        "title": "Chip wreck! Thousands of chips wash ashore on beach",
-        "link": "https://www.bbc.com/news/articles/c0lxkl3gd6jo?at_medium=RSS&at_campaign=rss",
-        "summary": "The chips washed up in Sussex after shipping containers containing \"food and packaging\" came ashore.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "shipping containers"
-        ]
-    },
-    {
-        "title": "Israel pushes back on Trump's picks for executives on Gaza 'Board of Peace'",
-        "link": "https://www.bbc.com/news/articles/cd0y453yd90o?at_medium=RSS&at_campaign=rss",
-        "summary": "Israel says it is unhappy it was not consulted, and Palestinians have also been critical.",
-        "source": "BBC News",
-        "objectivity_score": 56,
+        "objectivity_score": 60,
         "sentiment": "Negative",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "israel"
+            "cancer patients",
+            "hospital water infections",
+            "john cuddihy"
         ]
     },
     {
-        "title": "Chile declares 'state of catastrophe' as deadly wildfires menace cities",
-        "link": "https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&at_campaign=rss",
-        "summary": "At least 16 people are confirmed dead and 20,000 are evacuated as fires rage in two southern regions.",
+        "title": "Mum thanks strangers who rescued nine-month-old baby from burning car",
+        "link": "https://www.bbc.com/news/articles/cvgjvrggnvno?at_medium=RSS&at_campaign=rss",
+        "summary": "Wesley Beynon and Marc Willding are hailed heroes after pulling baby Lilah from the flames.",
         "source": "BBC News",
-        "objectivity_score": 44,
-        "sentiment": "Neutral",
+        "objectivity_score": 20,
+        "sentiment": "Positive",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "wildfires menace cities",
-            "fires rage",
-            "southern regions"
+            "thanks strangers",
+            "nine-month-old baby",
+            "wesley beynon"
         ]
     },
     {
-        "title": "Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say",
-        "link": "https://www.bbc.com/news/articles/c74v0pxg2nvo?at_medium=RSS&at_campaign=rss",
-        "summary": "The troops are an option should Donald Trump decide to use them to quell anti-ICE protests in the city, an official tells CBS News.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "us soldiers",
-            "donald trump",
-            "quell anti-ice protests"
-        ]
-    },
-    {
-        "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
-        "link": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president threatens to impose tariffs on countries that oppose his plans to take over the territory.",
+        "title": "China hits growth goal after exports boom defied US tariffs",
+        "link": "https://www.bbc.com/news/articles/cgk8zd287myo?at_medium=RSS&at_campaign=rss",
+        "summary": "While official figures show China hit its growth target, some analysts have cast doubt on the data.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "'europe wo n't",
-            "trump greenland",
-            "us president threatens"
+            "growth goal",
+            "exports boom",
+            "us tariffs"
+        ]
+    },
+    {
+        "title": "Trump tests boundaries of his power as Minnesota pushes back",
+        "link": "https://www.bbc.com/news/articles/cpqy5q1eeywo?at_medium=RSS&at_campaign=rss",
+        "summary": "The streets of Minneapolis feel like a battle of wills between a Republican US president and a Democratic city and state.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "tests boundaries",
+            "us president",
+            "democratic city"
+        ]
+    },
+    {
+        "title": "Rail disruption warning after engineering overruns",
+        "link": "https://www.bbc.com/news/articles/cdjnrdl8d24o?at_medium=RSS&at_campaign=rss",
+        "summary": "National Rail warns of disruption until the end of Monday after weekend work not finished in time.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "disruption warning",
+            "engineering overruns",
+            "weekend work"
         ]
     },
     {
@@ -1171,18 +1159,33 @@
         ]
     },
     {
-        "title": "Diaz will 'have nightmares' over 'Panenka' failure",
-        "link": "https://www.bbc.com/sport/football/articles/c6209g0jq0yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Brahim Diaz had the chance to win Afcon for Morocco, but his choice to try a Panenka ended up costing his side dearly as Senegal hit back to win the game in extra time.",
+        "title": "Sobbing Jones among Australian Open injuries",
+        "link": "https://www.bbc.com/sport/tennis/articles/c1kl0z9e27go?at_medium=RSS&at_campaign=rss",
+        "summary": "Injury wrecks Francesca Jones' hopes of earning a first Australian Open main-draw win, while Marina Stakusic is taken off court on a wheelchair on day two.",
         "source": "BBC News",
-        "objectivity_score": 26,
+        "objectivity_score": 28,
         "sentiment": "Positive",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "'have nightmares",
-            "brahim diaz",
-            "extra time"
+            "sobbing jones",
+            "open injuries",
+            "francesca jones"
+        ]
+    },
+    {
+        "title": "Carrick gave fans 'taste' of Ferguson era - Rooney",
+        "link": "https://www.bbc.com/sport/football/articles/cly5gr43ww7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Wayne Rooney says Man Utd's younger fans got a \"taste of what it was like under Sir Alex Ferguson\" in the win over Man City - and hopes it is a glimpse of what is to come under Michael Carrick.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Positive",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "fans 'taste",
+            "rooney wayne rooney",
+            "sir alex ferguson"
         ]
     },
     {
@@ -1201,20 +1204,6 @@
         ]
     },
     {
-        "title": "Wilson defeats Higgins to claim first Masters title",
-        "link": "https://www.bbc.com/sport/snooker/articles/cm2jlvmz1xdo?at_medium=RSS&at_campaign=rss",
-        "summary": "Kyren Wilson claims his first Masters title with a 10-6 victory over John Higgins in final that failed to scale the expected heights at Alexandra Palace.",
-        "source": "BBC News",
-        "objectivity_score": 47,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "kyren wilson",
-            "john higgins"
-        ]
-    },
-    {
         "title": "Will Frank and Glasner see the season out?",
         "link": "https://www.bbc.com/sport/football/videos/c5yxpgkgn53o?at_medium=RSS&at_campaign=rss",
         "summary": "Match of the Day's Kelly Cates, Joe Hart and Ellen White discuss whether it is possible for Tottenham manager Thomas Frank and Crystal Palace boss Oliver Glasner to remain at their clubs until the end...",
@@ -1227,6 +1216,21 @@
             "will frank",
             "day 's",
             "kelly cates"
+        ]
+    },
+    {
+        "title": "Diaz will 'have nightmares' over 'Panenka' failure",
+        "link": "https://www.bbc.com/sport/football/articles/c6209g0jq0yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Brahim Diaz had the chance to win Afcon for Morocco, but his choice to try a Panenka ended up costing his side dearly as Senegal hit back to win the game in extra time.",
+        "source": "BBC News",
+        "objectivity_score": 26,
+        "sentiment": "Positive",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "'have nightmares",
+            "brahim diaz",
+            "extra time"
         ]
     },
     {
@@ -1261,7 +1265,7 @@
     },
     {
         "title": "High-Speed Train Crash in Spain Leaves at Least 21 Dead",
-        "link": "https://www.nytimes.com/2026/01/18/world/europe/spain-high-speed-train-derailment.html",
+        "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment/spain-high-speed-train-derailment",
         "summary": "A high-speed train smashed into another train after derailing in the southern province of Crdoba, officials said. The cause of the accident was not immediately clear.",
         "source": "NYT > World News",
         "objectivity_score": 29,
@@ -1438,6 +1442,107 @@
         ]
     },
     {
+        "title": "Prince Harry\u2019s Court Case Against Daily Mail Publisher: What to Know",
+        "link": "https://www.nytimes.com/2026/01/19/world/europe/prince-harry-trial-daily-mail-associated-newspapers-uk.html",
+        "summary": "A trial is set to begin on Monday in Harrys case accusing Associated Newspapers of phone hacking and other unlawful activities. Other claimants include Elton John and Liz Hurley.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s court",
+            "case against",
+            "daily mail publisher"
+        ]
+    },
+    {
+        "title": "As Davos Convenes, Deference to Trump Has Replaced Everything",
+        "link": "https://www.nytimes.com/2026/01/19/business/davos-president-trump.html",
+        "summary": "The traditional rhetoric of the World Economic Forum centered on global integration, climate change and international cooperation. Not anymore.",
+        "source": "NYT > World News",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "davos convenes",
+            "traditional rhetoric",
+            "global integration"
+        ]
+    },
+    {
+        "title": "Why Are New Zealanders Moving to Australia? More Money, Better Vibes.",
+        "link": "https://www.nytimes.com/2026/01/19/world/asia/new-zealand-australia-moving-relocation.html",
+        "summary": "More than 1 percent of New Zealands population left over the year ending in October. Many of the migrants were chasing salaries and opportunities in neighboring Australia.",
+        "source": "NYT > World News",
+        "objectivity_score": 41,
+        "sentiment": "Positive",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "news"
+        ]
+    },
+    {
+        "title": "What Vietnam\u2019s Communist Party Congress Hopes to Achieve",
+        "link": "https://www.nytimes.com/2026/01/19/world/asia/vietnam-communist-party-congress-economy.html",
+        "summary": "One of Asias most dynamic nations is weighing how to balance government control with raising per capita G.D.P. by about 70 percent in five years.",
+        "source": "NYT > World News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s communist party",
+            "congress hopes",
+            "dynamic nations"
+        ]
+    },
+    {
+        "title": "What We Know About the Deadly High-Speed Train Crash in Spain",
+        "link": "https://www.nytimes.com/2026/01/18/world/europe/what-we-know-spain-train-crash.html",
+        "summary": "The collision, caused by the derailment of one of the trains, was the deadliest in Spain since at least 2013.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "high-speed train crash"
+        ]
+    },
+    {
+        "title": "Guatemala Declares State of Emergency to Address Gang Violence",
+        "link": "https://www.nytimes.com/2026/01/18/world/americas/guatemala-emergency-drug-cartels.html",
+        "summary": "The country has seen a surge of unrest in recent days, including uprisings at prisons and the killing of police officers, which the authorities have blamed on gangs.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "guatemala declares",
+            "address gang violence",
+            "recent days"
+        ]
+    },
+    {
+        "title": "Real Estate Crash Weighs on China\u2019s Economic Growth",
+        "link": "https://www.nytimes.com/2026/01/18/business/china-gdp-economy.html",
+        "summary": "Falling apartment prices have erased the savings of millions of Chinese households, but exports lifted the economy to 5 percent growth last year.",
+        "source": "NYT > World News",
+        "objectivity_score": 14,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "real estate crash weighs",
+            "economic growth",
+            "apartment prices"
+        ]
+    },
+    {
         "title": "Deadly Train Crash in Spain",
         "link": "https://www.nytimes.com/video/world/europe/100000010653409/deadly-train-crash-in-spain.html",
         "summary": "Emergency responders worked to evacuate survivors from the wreckage of a deadly crash between two high-speed trains that derailed in Adamuz, Spain, on Sunday.",
@@ -1477,106 +1582,6 @@
         "keywords": [
             "annual meeting",
             "artificial intelligence"
-        ]
-    },
-    {
-        "title": "Can Davos Help Protect the Planet?",
-        "link": "https://www.nytimes.com/2026/01/18/business/davos-conference-sustainability.html",
-        "summary": "The World Economic Forum, which takes place in Switzerland, aims to meet at least some of the goals its leaders set for the rest of the world.",
-        "source": "NYT > World News",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "news"
-        ]
-    },
-    {
-        "title": "Avalanches Across Austrian Alps Kill 8 Skiers in One Day",
-        "link": "https://www.nytimes.com/2026/01/18/world/europe/austria-alps-avalanches.html",
-        "summary": "Skiers have also died from avalanche-related accidents in the Swiss and French Alps over the past week.",
-        "source": "NYT > World News",
-        "objectivity_score": 12,
-        "sentiment": "Negative",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "avalanches across austrian alps kill",
-            "past week"
-        ]
-    },
-    {
-        "title": "Syria Advance on Kurdish-Held Areas as Washington Urges Restraint",
-        "link": "https://www.nytimes.com/2026/01/17/world/middleeast/syrian-kurds-raqqa.html",
-        "summary": "Government troops drew closer to Raqqa, the largest city overseen by the Kurds, raising U.S. concerns about the renewal of a wider conflict in the region.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "kurdish-held areas",
-            "washington urges restraint",
-            "government troops"
-        ]
-    },
-    {
-        "title": "World Leaders Consider Joining Trump\u2019s \u2018Board of Peace\u2019 for Gaza",
-        "link": "https://www.nytimes.com/2026/01/17/world/middleeast/trump-gaza-israel-board-peace.html",
-        "summary": "The clash came as world leaders were deciding whether to join President Trumps Board of Peace for Gaza.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "consider joining trump",
-            "\u2019 s \u2018 board",
-            "peace \u2019"
-        ]
-    },
-    {
-        "title": "Prize Fight",
-        "link": "https://www.nytimes.com/2026/01/17/briefing/prize-fight.html",
-        "summary": "In the run-up to the Oscar nominations, a chat with a reporter who has followed every twist and turn of the race.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "prize"
-        ]
-    },
-    {
-        "title": "Uganda\u2019s President Museveni Is Declared Election Winner",
-        "link": "https://www.nytimes.com/2026/01/17/world/africa/uganda-bobi-wine-museveni.html",
-        "summary": "Bobi Wine, the main opposition candidate, accused the government of vote rigging and has called for street protests.",
-        "source": "NYT > World News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s president",
-            "winner bobi wine",
-            "main opposition candidate"
-        ]
-    },
-    {
-        "title": "Mr. Carney Goes to Beijing",
-        "link": "https://www.nytimes.com/2026/01/17/world/canada/carney-china-trade-tariffs.html",
-        "summary": "The trip, a whirlwind of meetings with Chinese industry and top government officials, conveyed how the prime minister is viewing the wider world.",
-        "source": "NYT > World News",
-        "objectivity_score": 25,
-        "sentiment": "Positive",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "mr. carney goes",
-            "chinese industry",
-            "government officials"
         ]
     },
     {
@@ -1730,6 +1735,51 @@
         ]
     },
     {
+        "title": "China\u2019s economy hit growth goal last year despite Trump trade war and property crisis",
+        "link": "https://www.theguardian.com/world/2026/jan/19/chinas-economy-hit-growth-goal-last-year-despite-trump-trade-war-and-property-crisis",
+        "summary": "Economy weathered a fraught geopolitical landscape to reach 5% target but structural challenges at home are not going away, say expertsChinese authorities can say they hit their growth goals last year...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s economy",
+            "growth goal",
+            "trade war"
+        ]
+    },
+    {
+        "title": "China expected to get London embassy go-ahead this week after years of wrangling",
+        "link": "https://www.theguardian.com/politics/2026/jan/19/china-expected-to-get-london-embassy-go-ahead-uk",
+        "summary": "Decision expected on Monday or Tuesday, potentially smoothing relations before Keir Starmers visit to ChinaWhy Chinese mega embassy is not such a worry for British spiesA decision on Chinas proposed m...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "embassy go-ahead",
+            "keir starmers",
+            "chinese mega embassy"
+        ]
+    },
+    {
+        "title": "15 years after Fukushima, Japan prepares to restart the world\u2019s biggest nuclear plant",
+        "link": "https://www.theguardian.com/world/2026/jan/19/japan-nuclear-plant-restart-kashiwazaki-kariwa-fukushima",
+        "summary": "A return to nuclear power is at the heart of Japans energy policy but, in the wake of the 2011 disaster, residents fears about tsunamis, earthquakes and evacuation plans remain The activity around the...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "world \u2019 s",
+            "nuclear plant",
+            "nuclear power"
+        ]
+    },
+    {
         "title": "Why a Chinese \u2018mega embassy\u2019 is not such a worry for British spies",
         "link": "https://www.theguardian.com/world/2026/jan/18/chinese-mega-embassy-london-british-spies-mi5-analysis",
         "summary": "Politicians are raising the alarm, while MI5 quietly welcomes the prospect of Beijings new London facilityWhile there has been no shortage of politicians eager to raise concerns about Chinas proposed ...",
@@ -1760,123 +1810,93 @@
         ]
     },
     {
-        "title": "US says it reached deal with Taiwan to lower tariffs and boost investments",
-        "link": "https://www.theguardian.com/us-news/2026/jan/15/us-taiwan-tariff-deal",
-        "summary": "US to lower tariffs on Taiwanese goods to 15% as chip and tech businesses pledge $250bn spending in US operationsThe US said on Thursday that it had signed a deal with Taiwan to reduce tariffs on good...",
+        "title": "Australia news live: Hanson reveals ambition to turn One Nation into viable party of government after record poll showing",
+        "link": "https://www.theguardian.com/australia-news/live/2026/jan/19/federal-parliament-returns-gun-control-measures-hate-speech-laws-anthony-albanese-labor-sussan-ley-coalition-greens-trump-board-for-peace-ntwnfb",
+        "summary": "Follow todays news liveA home left quieter, clothes still hanging in wardrobes: emotional MPs pay tribute to Bondi terror attack victimsGet our breaking news email, free app or daily news podcastMarle...",
         "source": "World news | The Guardian",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "investments us",
-            "tech businesses pledge $ 250bn spending",
-            "us operationsthe us"
-        ]
-    },
-    {
-        "title": "At least 32 killed as crane collapses on train in Thailand",
-        "link": "https://www.theguardian.com/world/2026/jan/14/thailand-train-crane-accident-deaths",
-        "summary": "Crane in use on high-speed rail project hits passing train, causing it to derailAt least 32 people in Thailand have been killed and scores injured after a crane collapsed on to a passenger train and d...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Negative",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "crane collapses",
-            "thailand crane",
-            "rail project hits"
-        ]
-    },
-    {
-        "title": "China reports record trillion-dollar trade surplus despite Trump tariffs",
-        "link": "https://www.theguardian.com/world/2026/jan/14/china-reports-record-trillion-dollar-trade-surplus-despite-trump-tariffs",
-        "summary": "Results for 2025 risk further unsettling economies about Chinas trade practices and overcapacity, and their own over-reliance on Chinese productsChina has reported a strong export run in 2025 with a r...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "record trillion-dollar trade surplus",
-            "trade practices",
-            "own over-reliance"
+            "reveals ambition",
+            "viable party",
+            "record poll"
         ]
     },
     {
-        "title": "Australia politics live: Burke tells parliament he wishes Labor was \u2018going harder\u2019 on hate speech after Bondi; 100,000 livestock likely lost in Queensland floods",
-        "link": "https://www.theguardian.com/australia-news/live/2026/jan/19/federal-parliament-returns-gun-control-measures-hate-speech-laws-anthony-albanese-labor-sussan-ley-coalition-greens-trump-board-for-peace-ntwnfb",
-        "summary": "Josh Burns says every act of violence begins with hate during condolence motion for Bondi terror attack victims. Follow todays news liveGet our breaking news email, free app or daily news podcastMarle...",
+        "title": "\u2018We could see the glow and smell the smoke\u2019: residents warned as fires burn south of Adelaide",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/19/south-australia-adelaide-fires-bushfires-burn-smoke-warnings-residents-evacuated",
+        "summary": "Watch and act alert issued for Tooperang, Nangkita, Mount Jagged and Mosquito Hill as firefighters continue to battle blazeGet our breaking news email, free app or daily news podcastSouth Australian r...",
         "source": "World news | The Guardian",
-        "objectivity_score": 53,
-        "sentiment": "Neutral",
+        "objectivity_score": 26,
+        "sentiment": "Positive",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "wishes labor",
-            "josh burns",
-            "condolence motion"
+            "smoke \u2019",
+            "fires burn",
+            "adelaide watch"
         ]
     },
     {
-        "title": "Sydney Harbour shark attack: police warn against swimming and say heavy rain created \u2018perfect storm\u2019 before boy bitten",
+        "title": "Sydney Harbour shark attack: second incident in two days as police warn against swimming",
         "link": "https://www.theguardian.com/australia-news/2026/jan/19/sydney-shark-attack-boy-nielsen-park-water-conditions",
-        "summary": "Police praise fast actions and bravery of boys friends as he faces fight for his life in hospitalFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily ne...",
+        "summary": "Police praise fast actions and bravery of boys friends on Sunday as he faces fight for his life in hospitalFollow our Australia news live blog for latest updatesGet our breaking news email, free app o...",
         "source": "World news | The Guardian",
-        "objectivity_score": 63,
+        "objectivity_score": 35,
         "sentiment": "Positive",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
             "sydney harbour",
             "shark attack",
-            "heavy rain"
+            "fast actions"
         ]
     },
     {
-        "title": "Parents of Matilda, victim of Bondi terror attack, would like footbridge to be painted yellow in daughter\u2019s honour",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/19/bondi-terror-attack-footbridge-painted-yellow-parents-victim-matilda-ntwnfb",
-        "summary": "Valentyna Poltavchenko and Michael Britvan warn against rushing new legislation in response to attack, and thank woman who saved their younger daughterFollow our Australia news live blog for latest up...",
+        "title": "Labor and Coalition on track to achieve deal on hate speech laws",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/19/labor-coalition-deal-hate-speech-laws-ley-albanese",
+        "summary": "Negotiations between prime minister Anthony Albanese and opposition leader Sussan Ley are constructive, sources sayFollow our Australia news live blog for latest updatesGet our breaking news email, fr...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
+        "objectivity_score": 66,
         "sentiment": "Neutral",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "terror attack",
-            "daughter \u2019 s honour",
-            "valentyna poltavchenko"
+            "speech laws",
+            "prime minister",
+            "anthony albanese"
         ]
     },
     {
-        "title": "Australian billionaires increased their wealth by almost $600,000 a day on average over last year, report shows",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/19/australian-billionaires-increased-their-wealth-by-almost-600000-a-day-on-average-over-last-year-report-shows",
-        "summary": "Data collected by Oxfam shows 48 billionaires hold more wealth than bottom 40% of the population  11 million people  combinedGet our breaking news email, free app or daily news podcastAustralian billi...",
+        "title": "\u2018A home left quieter, clothes still hanging in wardrobes\u2019: emotional MPs pay tribute to Bondi terror attack victims",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/19/bondi-terror-attack-politicians-parliament-condolence-motion-ntwnfb",
+        "summary": "Anthony Albanese moves motion in parliament honouring courage of first responders and affirming right of Jewish Australians to live in peaceFollow our Australia news live blog for latest updatesGet ou...",
         "source": "World news | The Guardian",
-        "objectivity_score": 34,
+        "objectivity_score": 36,
         "sentiment": "Neutral",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "report shows",
-            "people combinedget",
-            "news email"
+            "wardrobes \u2019",
+            "terror attack victims",
+            "anthony albanese"
         ]
     },
     {
-        "title": "SA premier \u2018fundamentally opposed\u2019 Randa Abdel-Fattah appearing at Adelaide writers\u2019 week, letter to board shows",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/18/peter-malinauskas-adelaide-writers-week-letter-randa-abdel-fattah-ntwnfb",
-        "summary": "Three-page letter acknowledged that while Peter Malinauskas could not direct festival board, he was deeply concerned Palestinian Australian authors invitation not rescindedGet our breaking news email,...",
+        "title": "EU considers retaliatory measures over Trump Greenland tariff \u2018blackmail\u2019",
+        "link": "https://www.theguardian.com/world/2026/jan/18/europe-diplomats-crisis-talks-trump-tariffs-greenland",
+        "summary": "Emmanuel Macron calls on fellow leaders to use powerful anti-coercion instrument if US goes ahead with tariffsThe EU was weighing up retaliatory tariffs on American goods and even deploying its most s...",
         "source": "World news | The Guardian",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
+        "objectivity_score": 46,
+        "sentiment": "Neutral",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
-            "premier \u2018",
-            "randa abdel-fattah",
-            "writers \u2019 week"
+            "considers retaliatory measures",
+            "trump greenland",
+            "tariff \u2018 blackmail \u2019"
         ]
     },
     {
@@ -1897,16 +1917,16 @@
     {
         "title": "High-speed train crash in southern Spain leaves at least 21 dead",
         "link": "https://www.theguardian.com/world/2026/jan/18/high-speed-train-crash-in-adamuz-cordoba-southern-spain",
-        "summary": "Dozens also seriously injured, says transport minister, after two trains collide and derail near Adamuz in Cordba province, authorities sayAt least 21 people have been killed and 30 seriously injured ...",
+        "summary": "Another 75 people hospitalised and others still trapped, officials say, after two trains collide and derail near Adamuz in Cordba provinceAt least 21 people have been killed and 75 people hospitalised...",
         "source": "World news | The Guardian",
-        "objectivity_score": 34,
-        "sentiment": "Negative",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
         "date": "2026-01-19",
         "image_url": null,
         "keywords": [
             "train crash",
-            "transport minister",
-            "trains collide"
+            "trains collide",
+            "prime minister"
         ]
     },
     {
@@ -1925,21 +1945,6 @@
         ]
     },
     {
-        "title": "EU considers retaliatory measures over Trump Greenland tariff \u2018blackmail\u2019",
-        "link": "https://www.theguardian.com/world/2026/jan/18/europe-diplomats-crisis-talks-trump-tariffs-greenland",
-        "summary": "Emmanuel Macron calls on fellow leaders to use powerful anti-coercion instrument if US goes ahead with tariffsThe EU was weighing up retaliatory tariffs on American goods and even deploying its most s...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "considers retaliatory measures",
-            "trump greenland",
-            "tariff \u2018 blackmail \u2019"
-        ]
-    },
-    {
         "title": "Western alliance hangs in balance as Europe stiffens itself against Trump\u2019s threats",
         "link": "https://www.theguardian.com/world/2026/jan/18/western-alliance-hangs-in-balance-as-europe-stiffens-itself-against-trumps-threats",
         "summary": "US demand to own Greenland leaves little scope for compromise, and forcing the issue would entail end of NatoGreenland, with a population of fewer than 57,000, might not seem to be the territory on wh...",
@@ -1952,6 +1957,36 @@
             "western alliance hangs",
             "\u2019 s threats us demand",
             "successful defence alliance"
+        ]
+    },
+    {
+        "title": "Teenager among Iranian protesters sexually assaulted in custody, rights group says",
+        "link": "https://www.theguardian.com/global-development/2026/jan/19/iran-protesters-teenager-sexually-assaulted-in-custody-rights-group",
+        "summary": "Two people detained in Kermanshah, including 16-year-old, tell group they were subjected to sexual abuse during arrestA 16-year-old was among protesters sexually assaulted in custody by the security f...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 39,
+        "sentiment": "Positive",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "rights group",
+            "sexual abuse",
+            "security forces"
+        ]
+    },
+    {
+        "title": "Syria president claims \u2018victory for all\u2019 as ceasefire with Kurdish-led force announced",
+        "link": "https://www.theguardian.com/world/2026/jan/19/syria-declares-victory-ceasefire-kurdish-led-force",
+        "summary": "Governments truce with Syrian Democratic Forces follows advance on Kurdish-held areas amid struggle to control entire countryThe Syrian government on Sunday announced a ceasefire with the Syrian Democ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "president claims \u2018 victory",
+            "governments truce",
+            "entire countrythe"
         ]
     },
     {
@@ -1997,36 +2032,6 @@
             "army surges",
             "\u2018 betrayal \u2019",
             "accord government"
-        ]
-    },
-    {
-        "title": "\u2018He hoped Trump\u2019s help would arrive\u2019: why protesters in Iran feel betrayed",
-        "link": "https://www.theguardian.com/world/2026/jan/18/why-protesters-iran-feel-betrayed-donald-trump",
-        "summary": "Many believed a US president would  for the first time  rescue them but now people can only despair after mass arrests and brutalityWhen Donald Trump, said he would rescue protesters if Iranian author...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 54,
-        "sentiment": "Positive",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "us president",
-            "time rescue",
-            "mass arrests"
-        ]
-    },
-    {
-        "title": "Israel objects to White House\u2019s pick of leaders for \u2018board of peace\u2019",
-        "link": "https://www.theguardian.com/world/2026/jan/17/israel-objects-to-white-houses-pick-of-leaders-for-board-of-peace",
-        "summary": "Country says some appointments to the group, which will oversee the administration and reconstruction of Gaza, are contrary to its policyIsrael has objected to the White Houses pick of world leaders w...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 7,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "white house \u2019 s",
-            "\u2018 board",
-            "peace \u2019 country"
         ]
     },
     {
@@ -2105,6 +2110,36 @@
         ]
     },
     {
+        "title": "\u2018Jess\u2019s rule\u2019 posters remind GPs in England to re-examine patients\u2019 symptoms",
+        "link": "https://www.theguardian.com/society/2026/jan/19/jess-rule-posters-gps-doctors-england-patients-symptoms",
+        "summary": "Doctors told to consider a second opinion or order more tests if a patient has three appointments but no diagnosisMillions of patients in England will this week be urged to ask their GP to think again...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 52,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s rule \u2019 posters remind",
+            "re-examine patients \u2019 symptoms doctors",
+            "new system"
+        ]
+    },
+    {
+        "title": "UK property market \u2018on the up\u2019 amid new year bounce in asking prices",
+        "link": "https://www.theguardian.com/money/2026/jan/19/uk-property-market-on-the-up-amid-new-year-bounce-in-asking-prices",
+        "summary": "Average price of a home coming up for sale rises almost 10,000, the largest monthly jump in a decadeThe UK housing market is enjoying a new year bounce, with the average price of a home coming up for ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
+        "date": "2026-01-19",
+        "image_url": null,
+        "keywords": [
+            "property market \u2018",
+            "new year bounce",
+            "sale rises"
+        ]
+    },
+    {
         "title": "Women \u2018being failed by underfunded and understaffed\u2019 UK postnatal care",
         "link": "https://www.theguardian.com/society/2026/jan/19/women-being-failed-by-underfunded-and-understaffed-uk-postnatal-care",
         "summary": "Thousands of new mothers feel unsafe, unsupported and overwhelmed, according to the National Childbirth TrustWomen in the UK are being failed by a postnatal care system that is dangerously underfunded...",
@@ -2147,36 +2182,6 @@
             "romford mp andrew rosindell",
             "reform veteran mp",
             "chagos islandsandrew rosindell"
-        ]
-    },
-    {
-        "title": "US reportedly considers granting asylum to Jewish people from UK",
-        "link": "https://www.theguardian.com/us-news/2026/jan/18/trump-uk-jewish-asylum",
-        "summary": "Trump lawyer Robert Garson told the Telegraph he discussed refuge for those leaving UK over antisemitismDiscussions are reportedly under way within Donald Trumps administration about the US possibly g...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "jewish people",
-            "uk trump",
-            "robert garson"
-        ]
-    },
-    {
-        "title": "Government pulls amendment to Hillsborough law after backlash",
-        "link": "https://www.theguardian.com/football/2026/jan/18/government-amendment-hillsborough-law-backlash",
-        "summary": "Proposed change relating to spies was criticised by campaigners and MPs as allowing an opt-out for senior officialsThe government has pulled an amendment to its proposed Hillsborough law amid concerns...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 14,
-        "sentiment": "Neutral",
-        "date": "2026-01-19",
-        "image_url": null,
-        "keywords": [
-            "government pulls amendment",
-            "senior officialsthe government",
-            "car crash"
         ]
     },
     {
