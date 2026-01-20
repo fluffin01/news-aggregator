@@ -766,7 +766,7 @@
         ]
     },
     {
-        "title": "I do not want to reconcile with my family, says Brooklyn Peltz Beckham",
+        "title": "I don't want family to reconcile, says Brooklyn Peltz Beckham",
         "link": "https://www.bbc.com/news/articles/ce3ekq4z5dyo?at_medium=RSS&at_campaign=rss",
         "summary": "Speculation has been circulating in the press for months over a rift in the Beckham family.",
         "source": "BBC News",
@@ -849,62 +849,62 @@
         ]
     },
     {
-        "title": "Spanish PM vows to find cause of deadly high-speed train crash",
-        "link": "https://www.bbc.com/news/articles/c2d7rk0865go?at_medium=RSS&at_campaign=rss",
-        "summary": "Pedro Sanchez announces three days of mourning after at least 40 people died in Sunday's collision in  southern Spain.",
+        "title": "Australia parliament votes on tighter gun controls after Bondi shooting",
+        "link": "https://www.bbc.com/news/articles/c20ge5qwdl2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Parliament is also debating hate speech reforms after last month's deadly attack on a Jewish festival.",
         "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 34,
+        "sentiment": "Negative",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "parliament votes",
+            "tighter gun",
+            "speech reforms"
+        ]
+    },
+    {
+        "title": "Northern Lights illuminate UK skies in hues of pink and green",
+        "link": "https://www.bbc.com/news/articles/c0q4pj5j729o?at_medium=RSS&at_campaign=rss",
+        "summary": "The phenomenon known as the Aurora Borealis is the result of solar eruptions  sending particles that interact with the Earth's atmosphere.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Negative",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "aurora borealis",
+            "solar eruptions",
+            "'s atmosphere"
+        ]
+    },
+    {
+        "title": "Spain to hold three days of mourning for victims of high-speed train crash",
+        "link": "https://www.bbc.com/news/articles/c2d7rk0865go?at_medium=RSS&at_campaign=rss",
+        "summary": "At least 40 people died in Sunday's collision in  southern Spain, the worst crash the country has seen in more than a decade.",
+        "source": "BBC News",
+        "objectivity_score": 47,
         "sentiment": "Negative",
         "date": "2026-01-20",
         "image_url": null,
         "keywords": [
             "train crash",
-            "pedro sanchez",
             "'s collision"
         ]
     },
     {
-        "title": "Harry says he was made 'paranoid' by Daily Mail publisher's 'unlawful' actions",
-        "link": "https://www.bbc.com/news/articles/c5yvl7vy2ylo?at_medium=RSS&at_campaign=rss",
-        "summary": "The prince is one of seven high-profile claimants that allege the publisher of the Daily Mail and Mail on Sunday committed \"grave breaches of privacy\".",
+        "title": "Surfer injured in fourth shark attack in Australian state in 48 hours",
+        "link": "https://www.bbc.com/news/articles/cqxy3523nq2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Authorities are warning people to stay out of the Australian state's waterways after recent rainfall.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 6,
         "sentiment": "Neutral",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "daily mail publisher 's 'unlawful",
-            "high-profile claimants",
-            "daily mail"
-        ]
-    },
-    {
-        "title": "Badenoch warns Tory MPs against plotting and psychodrama",
-        "link": "https://www.bbc.com/news/articles/cdxj4pkw20yo?at_medium=RSS&at_campaign=rss",
-        "summary": "All 116 Tory MPs have been ordered to a meeting on Monday night, after Nigel Farage imposed a deadline on further defections.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "tory mps",
-            "tory mps",
-            "nigel farage"
-        ]
-    },
-    {
-        "title": "Man seriously injured in Sydney's third shark attack in two days",
-        "link": "https://www.bbc.com/news/articles/c8013p5v2yvo?at_medium=RSS&at_campaign=rss",
-        "summary": "In three separate incidents, a 12-year-old was also injured and an 11-year-old received assistance after his surfboard was bitten.",
-        "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Negative",
         "date": "2026-01-20",
         "image_url": null,
         "keywords": [
             "shark attack",
-            "separate incidents"
+            "warning people",
+            "state 's waterways"
         ]
     },
     {
@@ -938,6 +938,20 @@
         ]
     },
     {
+        "title": "How could Europe respond to tariffs threat?",
+        "link": "https://www.bbc.com/news/articles/cgk8z8xxpgmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Europe is weighing up how to counter the US president's move against some of America's closest allies.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "tariffs threat",
+            "us president 's"
+        ]
+    },
+    {
         "title": "Chris Mason: Starmer sticks to his strategy and picks his words carefully",
         "link": "https://www.bbc.com/news/articles/ckgykp22yk7o?at_medium=RSS&at_campaign=rss",
         "summary": "The prime minister is seeking to downplay how he intends to react to Trump's threat of tariffs.",
@@ -950,20 +964,6 @@
             "chris mason",
             "prime minister",
             "'s threat"
-        ]
-    },
-    {
-        "title": "How could Europe respond to tariffs threat?",
-        "link": "https://www.bbc.com/news/articles/cgk8z8xxpgmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Europe is weighing up how to counter the US president's move against some of America's closest allies.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "tariffs threat",
-            "us president 's"
         ]
     },
     {
@@ -1040,6 +1040,20 @@
         ]
     },
     {
+        "title": "Goodbye gator, see you later: San Francisco mourns its beloved albino alligator",
+        "link": "https://www.bbc.com/news/articles/c62r0y2nkllo?at_medium=RSS&at_campaign=rss",
+        "summary": "California names a street after reptile Claude, who won millions of hearts with his albinism.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "san francisco",
+            "albino alligator"
+        ]
+    },
+    {
         "title": "Jacob Alon crowned Brits Critics' Choice winner",
         "link": "https://www.bbc.com/news/articles/cg5g1gvn335o?at_medium=RSS&at_campaign=rss",
         "summary": "The Scottish folk singer edges out Sienna Spiro and Rose Gray to claim the prestigious prize.",
@@ -1055,17 +1069,32 @@
         ]
     },
     {
-        "title": "Watchdog investigates West Midlands Police over Israeli fan ban",
-        "link": "https://www.bbc.com/news/articles/c4glp75xr6zo?at_medium=RSS&at_campaign=rss",
-        "summary": "Independent Office for Police Conduct opens an inquiry into the conduct of the West Midlands force.",
+        "title": "Over a hundred vehicles pile up on motorway after crash",
+        "link": "https://www.bbc.com/news/videos/cly9kdklzrlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Jack-knifed trucks were left strewn across the road after heavy snow in Ottawa Country, Michigan.",
         "source": "BBC News",
-        "objectivity_score": 12,
+        "objectivity_score": 25,
         "sentiment": "Neutral",
         "date": "2026-01-20",
         "image_url": null,
         "keywords": [
-            "fan ban",
-            "independent office"
+            "vehicles pile",
+            "heavy snow"
+        ]
+    },
+    {
+        "title": "Forensic evidence to be re-examined in review of Lin and Megan Russell murder case convictions",
+        "link": "https://www.bbc.com/news/articles/c4gvj604e32o?at_medium=RSS&at_campaign=rss",
+        "summary": "Mother and daughter Lin and Megan Russell were killed back in 1996, while another daughter survived.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "megan russell",
+            "murder case convictions mother",
+            "megan russell"
         ]
     },
     {
@@ -1081,35 +1110,6 @@
             "stammer awareness",
             "hair stylist",
             "reality show"
-        ]
-    },
-    {
-        "title": "Forensic evidence to be re-examined in review of Lin and Megan Russell murder convictions",
-        "link": "https://www.bbc.com/news/articles/c4gvj604e32o?at_medium=RSS&at_campaign=rss",
-        "summary": "Mother and daughter Lin and Megan Russell were killed back in 1996, while another daughter survived.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "megan russell",
-            "murder convictions mother",
-            "megan russell"
-        ]
-    },
-    {
-        "title": "Zootropolis 2 becomes Hollywood's biggest animated film ever",
-        "link": "https://www.bbc.com/news/articles/ckgx499y2gyo?at_medium=RSS&at_campaign=rss",
-        "summary": "The film has overtaken the previous record holder, Inside Out 2, after making $1.7bn (1.3bn) worldwide.",
-        "source": "BBC News",
-        "objectivity_score": 16,
-        "sentiment": "Negative",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "previous record holder",
-            "$ 1.7bn"
         ]
     },
     {
@@ -1170,6 +1170,19 @@
         ]
     },
     {
+        "title": "Man Utd's complicated relationship with Class of 92",
+        "link": "https://www.bbc.com/sport/football/articles/cew84renxjgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester United and the class of 92 have a complicated relationship. But is it a problem?",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "news"
+        ]
+    },
+    {
         "title": "Is a Panenka ever the right choice for a penalty?",
         "link": "https://www.bbc.com/sport/football/articles/c3edp0yl57xo?at_medium=RSS&at_campaign=rss",
         "summary": "Following Morocco's last-minute spot-kick miss in the Africa Cup of Nations final, BBC Sport asks if a Panenka is ever the right choice for a penalty.",
@@ -1182,19 +1195,6 @@
             "right choice",
             "following morocco",
             "'s last-minute spot-kick"
-        ]
-    },
-    {
-        "title": "Man Utd's complicated relationship with Class of 92",
-        "link": "https://www.bbc.com/sport/football/articles/cew84renxjgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Manchester United and the class of 92 have a complicated relationship. But is it a problem?",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Negative",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "news"
         ]
     },
     {
@@ -1213,21 +1213,6 @@
         ]
     },
     {
-        "title": "Stunning late goal earns Brighton draw against Bournemouth",
-        "link": "https://www.bbc.com/sport/football/videos/c1kl81n2mpdo?at_medium=RSS&at_campaign=rss",
-        "summary": "Teenager Charalampos Kostoulas scores a stunning overhead kick to deny Bournemouth a rare away victory in the Premier League.",
-        "source": "BBC News",
-        "objectivity_score": 87,
-        "sentiment": "Positive",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "late goal",
-            "bournemouth teenager charalampos kostoulas",
-            "overhead kick"
-        ]
-    },
-    {
         "title": "Who has made Troy's Premier League team of the week?",
         "link": "https://www.bbc.com/sport/football/articles/c5y34dkjd83o?at_medium=RSS&at_campaign=rss",
         "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
@@ -1240,6 +1225,21 @@
             "'s premier league team",
             "premier league matches",
             "troy deeney"
+        ]
+    },
+    {
+        "title": "Stunning late goal earns Brighton draw against Bournemouth",
+        "link": "https://www.bbc.com/sport/football/videos/c1kl81n2mpdo?at_medium=RSS&at_campaign=rss",
+        "summary": "Teenager Charalampos Kostoulas scores a stunning overhead kick to deny Bournemouth a rare away victory in the Premier League.",
+        "source": "BBC News",
+        "objectivity_score": 87,
+        "sentiment": "Positive",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "late goal",
+            "bournemouth teenager charalampos kostoulas",
+            "overhead kick"
         ]
     },
     {
@@ -1448,6 +1448,36 @@
         ]
     },
     {
+        "title": "The Chinese Island Where Dreams of Real Estate Glory Never Die",
+        "link": "https://www.nytimes.com/2026/01/20/world/asia/china-ocean-flower-island-real-estate.html",
+        "summary": "Intended as Chinas version of Dubais palm-shaped artificial island, Ocean Flower Island is a $12 billion monument to debt-fueled economic excess.",
+        "source": "NYT > World News",
+        "objectivity_score": 37,
+        "sentiment": "Neutral",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "chinese island",
+            "real estate glory never die intended",
+            "artificial island"
+        ]
+    },
+    {
+        "title": "Death Toll Rises in Guatemalan Gang Riots",
+        "link": "https://www.nytimes.com/2026/01/19/world/americas/death-toll-rises-in-guatemalan-gang-riots.html",
+        "summary": "Uprisings in three prisons have killed 10 police officers, presenting another challenge for President Bernardo Arvalo in his fight against corruption and organized crime.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Negative",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "guatemalan gang riots uprisings",
+            "police officers",
+            "bernardo arvalo"
+        ]
+    },
+    {
         "title": "Taxing the Ultrarich",
         "link": "https://www.nytimes.com/2026/01/19/world/taxing-billionaires-spain-train-crash.html",
         "summary": "The number of billionaires has exploded, yet they often pay taxes at rates well below average.",
@@ -1558,33 +1588,6 @@
             "guatemala declares",
             "gang violence surges",
             "bernardo arvalo"
-        ]
-    },
-    {
-        "title": "Survivors of Deadly Train Crash in Spain Describe Hellish Scenes",
-        "link": "https://www.nytimes.com/2026/01/19/world/europe/spain-train-crash-survivors.html",
-        "summary": "Photographs show a tangled mess of metal, wires and broken glass at the scene of the crash, which killed at least 39 people.",
-        "source": "NYT > World News",
-        "objectivity_score": 27,
-        "sentiment": "Negative",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "train crash",
-            "spain describe hellish scenes photographs"
-        ]
-    },
-    {
-        "title": "Trump Has an Offramp on Greenland. He Doesn\u2019t Seem to Want It.",
-        "link": "https://www.nytimes.com/2026/01/19/us/politics/trump-greenland-nato.html",
-        "summary": "The strategic importance of Greenland is growing, and NATO has underinvested in Arctic security. But President Trump, intent on ownership, is rebuffing deals with Europe to solve the problem.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "strategic importance"
         ]
     },
     {
@@ -1738,6 +1741,21 @@
         ]
     },
     {
+        "title": "Chinese tourists shun Japan in wake of Taiwan invasion row",
+        "link": "https://www.theguardian.com/world/2026/jan/20/chinese-japan-tourist-numbers-halve-wake-taiwan-invasion-row",
+        "summary": "Number of high-spending Chinese tourists visiting Japan halved last month after PM said an invasion of Taiwan could spark Japanese military involvementChinese tourism to Japan almost halved in Decembe...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 16,
+        "sentiment": "Neutral",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "chinese tourists shun",
+            "invasion row",
+            "chinese tourists"
+        ]
+    },
+    {
         "title": "China\u2019s population falls again as birthrate drops 17% to record low",
         "link": "https://www.theguardian.com/world/2026/jan/19/china-population-falls-again-birthrate-record-low",
         "summary": "Fourth year of decline deepens concerns over ageing, shrinking workforce and long-term economic impactChinas population fell for a fourth consecutive year in 2025 as the birthrate plunged to another r...",
@@ -1798,22 +1816,7 @@
         ]
     },
     {
-        "title": "15 years after Fukushima, Japan prepares to restart the world\u2019s biggest nuclear plant",
-        "link": "https://www.theguardian.com/world/2026/jan/19/japan-nuclear-plant-restart-kashiwazaki-kariwa-fukushima",
-        "summary": "A return to nuclear power is at the heart of Japans energy policy but, in the wake of the 2011 disaster, residents fears about tsunamis, earthquakes and evacuation plans remain The activity around the...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "world \u2019 s",
-            "nuclear plant",
-            "nuclear power"
-        ]
-    },
-    {
-        "title": "Australia politics live: Rowland introduces anti-hate bill and says \u2018we must stand united in the face of racial hatred\u2019; man bitten by crocodile in Queensland",
+        "title": "Australia politics live: NSW protest ban extended for parts of Sydney with Invasion Day marches set to proceed in CBD",
         "link": "https://www.theguardian.com/australia-news/live/2026/jan/20/hate-speech-gun-reform-anthony-albanese-bondi-terror-attack-ntwnfb",
         "summary": "Follow updates liveGet our breaking news email, free app or daily news podcastThe attorney general, Michelle Rowland, says the two bills on gun control and hate speech will be introduced to parliament...",
         "source": "World news | The Guardian",
@@ -1822,18 +1825,48 @@
         "date": "2026-01-20",
         "image_url": null,
         "keywords": [
-            "introduces anti-hate bill",
-            "man bitten",
-            "updates liveget"
+            "day marches",
+            "updates liveget",
+            "news email"
+        ]
+    },
+    {
+        "title": "Campsites closed as police investigate possible dingo link to death of Canadian on Australian tourist island K\u2019gari",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/20/campsites-closed-as-police-investigate-possible-dingo-link-to-death-of-canadian-on-australian-tourist-island-kgari",
+        "summary": "While violent dingo and human interactions have been increasing, police refuse to speculate whether 19-year-old woman drowned or was killed by the wild canidsFollow our Australia news live blog for la...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "possible dingo link",
+            "tourist island",
+            "\u2019 gari"
+        ]
+    },
+    {
+        "title": "Albanese condemns \u2018antisemitic hate incident\u2019 in which Jewish boys \u2018ran for their lives\u2019 in Melbourne",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/20/antisemitic-hate-incident-nazi-slogans-allegedly-yelled-melbourne-ntwnfb",
+        "summary": "Police investigate after Nazi slogans allegedly yelled at schoolboys in St Kilda East on Monday nightFollow our Australia news live blog for latest updatesGet our breaking news email, free app or dail...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "condemns \u2018 antisemitic",
+            "incident \u2019",
+            "jewish boys \u2018"
         ]
     },
     {
         "title": "After four shark attacks in 48 hours, NSW authorities urge beachgoers \u2018just go to a pool\u2019",
         "link": "https://www.theguardian.com/australia-news/2026/jan/20/shark-attack-nsw-coast-fourth-incident-man-surfer",
-        "summary": "Surfer taken to hospital with minor injuries after shark attack at Point Plomer beach on mid-north coastFollow our Australia news live blog for latest updatesGet our breaking news email, free app or d...",
+        "summary": "Surfer taken to hospital with minor injuries after latest shark attack at Point Plomer beach on mid-north coastFollow our Australia news live blog for latest updatesGet our breaking news email, free a...",
         "source": "World news | The Guardian",
-        "objectivity_score": 29,
-        "sentiment": "Neutral",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
         "date": "2026-01-20",
         "image_url": null,
         "keywords": [
@@ -1843,48 +1876,33 @@
         ]
     },
     {
-        "title": "\u2018We\u2019re really close\u2019: Labor\u2019s hate speech laws expected to pass as negotiations with opposition continue",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/20/labor-albanese-hate-speech-laws-expected-pass-parliament",
-        "summary": "Liberal MPs likely to vote for watered-down hate speech provisions and new powers to legally designate extremist organisationsFollow our Australia news live blog for latest updatesGet our breaking new...",
+        "title": "NSW inquiry chair says \u2018globalise the intifada\u2019 should be banned while Jewish groups want other phrases prohibited",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/20/globalise-intifada-ban-nsw-inquiry-chair-jewish-groups-ntwnfb",
+        "summary": "Edmond Atalla defends decision to keep some submissions secret while Jewish Board of Deputies wants from the river to the sea and death to the IDF bannedFollow our Australia news live blog for latest ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 51,
+        "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-01-20",
         "image_url": null,
         "keywords": [
-            "labor \u2019 s",
-            "speech laws",
-            "speech provisions"
+            "inquiry chair",
+            "\u2018 globalise",
+            "intifada \u2019"
         ]
     },
     {
-        "title": "Australia\u2019s largest coal power plant to operate an extra two years to support national grid",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/20/eraring-coal-fired-power-station-nsw-extended-2029-national-grid",
-        "summary": "Life of Eraring power station in Lake Macquarie extended to April 2029, Origin Energy saysFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podc...",
+        "title": "Donald Trump says Europe will not \u2018push back too much\u2019 on his Greenland bid as Davos day two begins \u2013 live",
+        "link": "https://www.theguardian.com/world/live/2026/jan/20/europe-greenland-donald-trump-davos-europe-live-latest-updates",
+        "summary": "Speaking to reporters in Florida, US president claims Denmark cant protect Greenland when asked what he planned to say to European leaders who opposed his plansDonald Trump links Greenland threats to ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Positive",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "coal power plant",
-            "national grid life",
-            "power station"
-        ]
-    },
-    {
-        "title": "Man in critical condition with \u2018probably life-changing injuries\u2019 after third Sydney shark attack in two days",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/19/man-in-critical-condition-after-third-sydney-shark-attack-in-two-days",
-        "summary": "All northern beaches remain closed on Tuesday after attack in Manly on Monday evening follows attacks in Dee Why and VaucluseFollow our Australia news live blog for latest updatesGet our breaking news...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
+        "objectivity_score": 17,
         "sentiment": "Neutral",
         "date": "2026-01-20",
         "image_url": null,
         "keywords": [
-            "critical condition",
-            "injuries \u2019",
-            "shark attack"
+            "donald trump",
+            "us president claims",
+            "european leaders"
         ]
     },
     {
@@ -1945,21 +1963,6 @@
             "train crash",
             "death toll",
             "remote area"
-        ]
-    },
-    {
-        "title": "Kremlin says Putin has been invited to join Trump\u2019s Gaza \u2018board of peace\u2019",
-        "link": "https://www.theguardian.com/world/2026/jan/19/kremlin-says-putin-invited-join-trump-gaza-board-of-peace",
-        "summary": "Russia says it is seeking to clarify all the nuances of offer it claims Washington has made before respondingThe Kremlin has announced that Vladimir Putin has been invited to join Donald Trumps board ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "\u2018 board",
-            "peace \u2019",
-            "vladimir putin"
         ]
     },
     {
@@ -2113,78 +2116,78 @@
         ]
     },
     {
-        "title": "Prostate cancer is most commonly diagnosed cancer across UK, study finds",
-        "link": "https://www.theguardian.com/society/2026/jan/20/prostate-cancer-is-most-commonly-diagnosed-cancer-across-uk-study-finds",
-        "summary": "Cancer charity highlights apparent postcode lottery of testing and diagnoses across different regions seen in studyProstate cancer is now the most commonly diagnosed form of cancer across the UK, surp...",
+        "title": "New City & Guilds owners tripled bosses\u2019 pay amid \u00a322m cost-cutting drive",
+        "link": "https://www.theguardian.com/business/2026/jan/20/new-city-guilds-owners-tripled-bosses-pay-amid-22m-cost-cutting-drive",
+        "summary": "Total pay of the qualification bodys top six executives has risen by 240% to 6.2m since charity sold itThe new owners of the vocational training body City & Guilds appear to have more than tripled the...",
         "source": "World news | The Guardian",
-        "objectivity_score": 48,
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "new city",
+            "bosses \u2019 pay",
+            "drive total pay"
+        ]
+    },
+    {
+        "title": "Royal Mint Court residents plan legal challenge if Chinese \u2018mega embassy\u2019 in London approved",
+        "link": "https://www.theguardian.com/uk-news/2026/jan/20/royal-mint-court-legal-challenge-chinese-mega-embassy",
+        "summary": "Claims of government interference in decision on plans for vast outpost near Tower of LondonResidents of Royal Mint Court plan to mount a legal challenge within weeks if Steve Reed, the local governme...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 34,
         "sentiment": "Neutral",
         "date": "2026-01-20",
         "image_url": null,
         "keywords": [
-            "cancer charity highlights",
-            "apparent postcode lottery",
-            "different regions"
+            "court residents plan",
+            "legal challenge",
+            "chinese \u2018 mega embassy \u2019"
         ]
     },
     {
-        "title": "Don\u2019t rely on BMI alone when diagnosing eating disorders in children, says NHS England",
-        "link": "https://www.theguardian.com/society/2026/jan/20/nhs-england-guidance-bmi-eating-disorders-children",
-        "summary": "Guidance for GPs and nurses says other factors should be taken into account, such as changes in behaviourA childs body mass index should not be the key factor when deciding which under-18s get help fo...",
+        "title": "UK aviation reforms could sideline public input over flight paths, campaigners warn",
+        "link": "https://www.theguardian.com/business/2026/jan/20/uk-aviation-reforms-could-sideline-public-input-over-flight-paths-campaigners-warn",
+        "summary": "Plans to speed up airspace changes for Heathrow expansion could mean industry influences decisions on noise and routesAviation campaigners have warned that communities risk being locked out of decisio...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
+        "objectivity_score": 41,
+        "sentiment": "Positive",
+        "date": "2026-01-20",
+        "image_url": null,
+        "keywords": [
+            "aviation reforms",
+            "public input",
+            "flight paths"
+        ]
+    },
+    {
+        "title": "UK should consider expelling US forces from British bases, says Zack Polanski",
+        "link": "https://www.theguardian.com/politics/2026/jan/20/uk-should-consider-expelling-us-forces-from-british-bases-says-zack-polanski",
+        "summary": "Exclusive: Green party leader advocates leaving Nato and says Britain should wean itself off its reliance on the USThe UK should consider expelling the US from British military bases, the leader of th...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 13,
         "sentiment": "Neutral",
         "date": "2026-01-20",
         "image_url": null,
         "keywords": [
-            "nhs england guidance",
-            "behavioura childs body mass index",
-            "key factor"
+            "us forces",
+            "british bases",
+            "zack polanski exclusive"
         ]
     },
     {
-        "title": "UK ministers scrap foreign students target in shift to overseas hubs strategy",
-        "link": "https://www.theguardian.com/politics/2026/jan/20/uk-ministers-scrap-international-students-target-overseas-hubs",
-        "summary": "Government replaces recruitment goal with plan to increase education exports to 40bn a year by 2030Ministers are scrapping target numbers for international students in the UK and will instead focus on...",
+        "title": "Reeves plans to refund some visa fees in effort to attract \u2018trailblazer\u2019 investment to UK",
+        "link": "https://www.theguardian.com/politics/2026/jan/20/rachel-reeves-plans-refund-visa-fees-investment-uk-davos",
+        "summary": "Chancellor, who flies to Davos on Tuesday, will announce changes aimed at encouraging global firms to bring highly skilled staff to BritainRachel Reeves will pledge to refund visa fees for some global...",
         "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
+        "objectivity_score": 26,
+        "sentiment": "Positive",
         "date": "2026-01-20",
         "image_url": null,
         "keywords": [
-            "ministers scrap",
-            "foreign students target",
-            "overseas hubs strategy government replaces recruitment goal"
-        ]
-    },
-    {
-        "title": "UK exposed to \u2018serious harm\u2019 by failure to tackle AI risks, MPs warn",
-        "link": "https://www.theguardian.com/business/2026/jan/20/uk-ai-risks-mps-government-bank-of-england-fca",
-        "summary": "Government, Bank of England and FCA criticised for taking wait-and-see approach to AI use in financial sectorConsumers and the UK financial system are being exposed to serious harm by the failure of g...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Negative",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "serious harm \u2019",
-            "wait-and-see approach",
-            "financial sectorconsumers"
-        ]
-    },
-    {
-        "title": "Water firms could be let off pollution fines as part of government overhaul",
-        "link": "https://www.theguardian.com/environment/2026/jan/19/water-firms-could-be-let-off-pollution-fines-as-part-of-government-overhaul",
-        "summary": "Exclusive: Campaigners claim changes will let companies off the hook, as government prepares to unveil new white paper for water industryWater companies could be let off fines for polluting the enviro...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-01-20",
-        "image_url": null,
-        "keywords": [
-            "water firms",
-            "pollution fines",
-            "government overhaul"
+            "visa fees",
+            "\u2018 trailblazer \u2019 investment",
+            "global firms"
         ]
     },
     {
@@ -2233,33 +2236,33 @@
         ]
     },
     {
-        "title": "Markets fall and gold and silver hit new highs after Trump\u2019s latest tariff threat",
-        "link": "https://www.theguardian.com/business/2026/jan/19/gold-silver-record-highs-markets-trump-latest-tariff-shock",
-        "summary": "European carmakers among hardest hit with US presidents talk of Greenland-linked trade levies also pushing down the dollarMarkets stay calm amid Trumps gambit, but long-term risks are hugeCould the EU...",
+        "title": "I do not want to reconcile with my family, says Brooklyn Peltz Beckham",
+        "link": "https://www.theguardian.com/lifeandstyle/2026/jan/19/brooklyn-peltz-beckham-david-victoria-dispute-instagram",
+        "summary": "Son of David and Victoria Beckham takes to Instagram to open up about feud with parentsBrooklyn Peltz Beckham, the son of David and Victoria Beckham, has said he does not want to reconcile with his fa...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 41,
         "sentiment": "Positive",
         "date": "2026-01-20",
         "image_url": null,
         "keywords": [
-            "new highs",
-            "tariff threat",
-            "european carmakers"
+            "brooklyn peltz beckham",
+            "victoria beckham",
+            "peltz beckham"
         ]
     },
     {
-        "title": "Noem backtracks on ICE pepper spray denial amid tension in Minneapolis",
-        "link": "https://www.theguardian.com/us-news/2026/jan/19/kristi-noem-pepper-spray-minneapolis-ice",
-        "summary": "US justice department announced it is investigating protesters in Minnesota who disrupted church servicesKristi Noem first denied that federal agents were using chemical agents against protesters, the...",
+        "title": "UK arresting Palestine Action supporters is censoring free speech, says US official",
+        "link": "https://www.theguardian.com/uk-news/2026/jan/19/arresting-palestine-action-supporters-censor-free-speech-white-house-official",
+        "summary": "Sarah Rogers says prosecuting people for merely expressing support does more harm than goodArresting supporters of Palestine Action is censoring their free speech and does more harm than good, a Trump...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 39,
         "sentiment": "Positive",
         "date": "2026-01-20",
         "image_url": null,
         "keywords": [
-            "pepper spray denial",
-            "us justice department",
-            "church serviceskristi"
+            "action supporters",
+            "free speech",
+            "sarah rogers"
         ]
     }
 ]
