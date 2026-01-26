@@ -739,7 +739,7 @@
     {
         "title": "Ex-Tory Home Secretary Suella Braverman defects to Reform UK",
         "link": "https://www.bbc.com/news/articles/c1evq263e49o?at_medium=RSS&at_campaign=rss",
-        "summary": "The MP was unveiled as the party's latest recruit by leader Nigel Farage at a rally.",
+        "summary": "The MP was unveiled as Reform's latest recruit by leader Nigel Farage at a rally, bringing the number of the party's sitting MPs to eight.",
         "source": "BBC News",
         "objectivity_score": 90,
         "sentiment": "Positive",
@@ -749,6 +749,21 @@
             "home secretary",
             "suella braverman",
             "reform uk"
+        ]
+    },
+    {
+        "title": "Israel says it has retrieved remains of final Gaza hostage",
+        "link": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu called Ran Gvilis return \"an extraordinary achievement\".",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Positive",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "israeli prime",
+            "benjamin netanyahu",
+            "ran gvilis"
         ]
     },
     {
@@ -767,32 +782,31 @@
         ]
     },
     {
-        "title": "Analysing the Minneapolis shooting frame by frame",
-        "link": "https://www.bbc.com/news/videos/cg4e0r1el5yo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Verify has analysed footage of the shooting from multiple angles, piecing together a detailed picture of what happened.",
+        "title": "Over 700,000 graduates out of work and claiming benefits, analysis suggests",
+        "link": "https://www.bbc.com/news/articles/c1klry2rjm0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The government says it has commissioned a review into \"what's holding the younger generation back\".",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "analysis suggests"
+        ]
+    },
+    {
+        "title": "Nigella Lawson to replace Prue Leith on The Great British Bake Off",
+        "link": "https://www.bbc.com/news/articles/cgk80pzxkexo?at_medium=RSS&at_campaign=rss",
+        "summary": "The TV chef says she's \"bubbling with excitement\" to be joining Paul Hollywood on the Channel 4 show.",
         "source": "BBC News",
         "objectivity_score": 37,
         "sentiment": "Positive",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "bbc verify",
-            "multiple angles"
-        ]
-    },
-    {
-        "title": "Make sure pupils don't ever use phones at school, education secretary tells teachers",
-        "link": "https://www.bbc.com/news/articles/cgk827r8mrzo?at_medium=RSS&at_campaign=rss",
-        "summary": "The education secretary says phones should not been seen during lessons, breaktimes or lunchtime.",
-        "source": "BBC News",
-        "objectivity_score": 88,
-        "sentiment": "Positive",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "sure pupils",
-            "education secretary",
-            "education secretary"
+            "nigella lawson",
+            "prue leith",
+            "tv chef"
         ]
     },
     {
@@ -809,33 +823,46 @@
         ]
     },
     {
-        "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
-        "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Commission will assess whether \"manipulated sexually explicit images\" have been shown to users in the EU.",
+        "title": "France debates under-15s social media ban endorsed by Macron",
+        "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Prime Minister Sbastien Lecornu has said he will use a fast-track procedure to get the legislation on the books by September.",
         "source": "BBC News",
-        "objectivity_score": 83,
-        "sentiment": "Positive",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "elon musk",
-            "grok ai",
-            "sexual deepfakes"
-        ]
-    },
-    {
-        "title": "Heading football likely contributed to Gordon McQueen's brain disease, inquest finds",
-        "link": "https://www.bbc.com/sport/football/articles/c0er74njxgro?at_medium=RSS&at_campaign=rss",
-        "summary": "An inquest concludes that \"it is likely that repetitive head impacts, sustained by heading the ball while playing football, contributed to the CTE\" which was a factor in the former footballer's death.",
-        "source": "BBC News",
-        "objectivity_score": 56,
+        "objectivity_score": 6,
         "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "gordon mcqueen",
-            "'s brain disease",
-            "inquest concludes"
+            "debates under-15s",
+            "social media ban",
+            "macron prime"
+        ]
+    },
+    {
+        "title": "Massive overhaul of England and Wales policing announced",
+        "link": "https://www.bbc.com/news/articles/cp37lryxq4eo?at_medium=RSS&at_campaign=rss",
+        "summary": "The home secretary told Parliament she wants to make better use of technology - such as live facial recognition and AI.",
+        "source": "BBC News",
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "home secretary",
+            "facial recognition"
+        ]
+    },
+    {
+        "title": "Revolution Bars to enter administration with 2,200 jobs at risk",
+        "link": "https://www.bbc.com/news/articles/cly10jjmg92o?at_medium=RSS&at_campaign=rss",
+        "summary": "The pub and bar group has blamed government policy for its issues as it searches for a buyer.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "revolution bars",
+            "government policy"
         ]
     },
     {
@@ -854,17 +881,17 @@
         ]
     },
     {
-        "title": "Israel to reopen Gaza crossing after search for last dead hostage's body ends",
-        "link": "https://www.bbc.com/news/articles/c801mj1n04lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Israel's military says its troops are searching for the remains of Ran Gvili, reportedly at a cemetery in northern Gaza.",
+        "title": "Analysing the shooting frame by frame",
+        "link": "https://www.bbc.com/news/videos/cg4e0r1el5yo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Verify has analysed footage of the shooting from multiple angles, piecing together a detailed picture of what happened.",
         "source": "BBC News",
-        "objectivity_score": 18,
-        "sentiment": "Negative",
+        "objectivity_score": 37,
+        "sentiment": "Positive",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "dead hostage 's body ends",
-            "ran gvili"
+            "bbc verify",
+            "multiple angles"
         ]
     },
     {
@@ -898,18 +925,31 @@
         ]
     },
     {
-        "title": "Trump says his administration 'reviewing everything'",
-        "link": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president was asked by the Wall Street Journal whether the immigration agent who shot dead a man in Minneapolis had done the right thing.",
+        "title": "Why the Caribbean island of Antigua wants more liberal cannabis laws",
+        "link": "https://www.bbc.com/news/articles/c62ndp17jv0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Producers in Jamaica and Antigua hope that increasing liberalisation will lead to higher revenues.",
         "source": "BBC News",
-        "objectivity_score": 46,
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "liberal cannabis laws"
+        ]
+    },
+    {
+        "title": "Chris Mason: Another big beast defection shows momentum is with Reform",
+        "link": "https://www.bbc.com/news/articles/c5yv97e7j5lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Former Home Secretary Suella Braverman is the fourth sitting Tory MP to join the party since the last election.",
+        "source": "BBC News",
+        "objectivity_score": 4,
         "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "us president",
-            "wall street journal",
-            "immigration agent"
+            "chris mason",
+            "big beast defection shows momentum",
+            "home secretary"
         ]
     },
     {
@@ -928,21 +968,6 @@
         ]
     },
     {
-        "title": "Chris Mason: Burnham saga unlikely to be last act in drama of Starmer's leadership",
-        "link": "https://www.bbc.com/news/articles/cpwnjdnz2n5o?at_medium=RSS&at_campaign=rss",
-        "summary": "In a show of brute power, No 10 has scuppered Burnhams attempted run from Manchester to Westminster.",
-        "source": "BBC News",
-        "objectivity_score": 28,
-        "sentiment": "Negative",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "chris mason",
-            "'s leadership",
-            "brute power"
-        ]
-    },
-    {
         "title": "Bonnie Tyler's classic hits 1bn streams - but singer reveals it 'makes nothing'",
         "link": "https://www.bbc.com/news/articles/cy8ppnlmed8o?at_medium=RSS&at_campaign=rss",
         "summary": "The gravelly-voiced Welsh icon's hit is still loved by fans 43 years after its release.",
@@ -958,118 +983,116 @@
         ]
     },
     {
-        "title": "Why the Caribbean island of Antigua wants more liberal cannabis laws",
-        "link": "https://www.bbc.com/news/articles/c62ndp17jv0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Producers in Jamaica and Antigua hope that increasing liberalisation will lead to higher revenues.",
+        "title": "One week until transfer deadline day - who could be on the move?",
+        "link": "https://www.bbc.com/sport/football/articles/c98pp7zd9d0o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Sport looks at some of the players that have been linked with moves before the Premier League transfer deadline on 2 February at 19:00 GMT.",
         "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "liberal cannabis laws"
-        ]
-    },
-    {
-        "title": "'Another unbelievable result' - but what's different about Man Utd now?",
-        "link": "https://www.bbc.com/sport/football/articles/c62vk5l68x3o?at_medium=RSS&at_campaign=rss",
-        "summary": "MOTD pundit Danny Murphy explains how Manchester United earned their impressive win at Premier League leaders Arsenal, and how he feels the Gunners will react.",
-        "source": "BBC News",
-        "objectivity_score": 75,
-        "sentiment": "Positive",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "unbelievable result",
-            "danny murphy",
-            "premier league leaders"
-        ]
-    },
-    {
-        "title": "Police to be set 15-minute response target for some 999 calls",
-        "link": "https://www.bbc.com/news/articles/c4gwx2271xzo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Home Office says its plans to cut red tape will see officers spending more time out on the streets.",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Positive",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "15-minute response target",
-            "home office",
-            "red tape"
-        ]
-    },
-    {
-        "title": "Thousands of children facing 'catastrophic' waits for NHS community care",
-        "link": "https://www.bbc.com/news/articles/c1kllz30ek7o?at_medium=RSS&at_campaign=rss",
-        "summary": "A quarter of the 300,000 children waiting for community NHS care have spent more than a year waiting.",
-        "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "community care"
-        ]
-    },
-    {
-        "title": "Body recovered from sea believed to be antiques dealer missing since Christmas Day",
-        "link": "https://www.bbc.com/news/articles/cn7j8k012kxo?at_medium=RSS&at_campaign=rss",
-        "summary": "The recovered body is believed to be 64-year-old Matthew Upham from Budleigh Salterton.",
-        "source": "BBC News",
-        "objectivity_score": 5,
-        "sentiment": "Negative",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "antiques dealer",
-            "christmas day",
-            "matthew upham"
-        ]
-    },
-    {
-        "title": "UK to join major wind farm project with nine European countries",
-        "link": "https://www.bbc.com/news/articles/cp372d37gxgo?at_medium=RSS&at_campaign=rss",
-        "summary": "For the first time, the new wind farms will be connected to more than one country through undersea cables.",
-        "source": "BBC News",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "major wind farm project",
-            "european countries",
-            "new wind farms"
-        ]
-    },
-    {
-        "title": "Heatwave warnings across Australia as millions celebrate national day",
-        "link": "https://www.bbc.com/news/articles/cz6y7nxx5jvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Temperatures are expected to peak on Tuesday, reaching the \"high forties\" in Victoria and South Australia.",
-        "source": "BBC News",
-        "objectivity_score": 47,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "national day",
-            "high forties"
+            "deadline day",
+            "bbc sport",
+            "premier league"
         ]
     },
     {
-        "title": "The Traitors moves from TV to theatre with 'bold' West End show",
-        "link": "https://www.bbc.com/news/articles/c0r4jwkl2vqo?at_medium=RSS&at_campaign=rss",
-        "summary": "The TV show's makers hope its dramatic twists and huge popularity will translate into a theatre hit.",
+        "title": "Sadie Frost says Mail put 'price on my head' for stories",
+        "link": "https://www.bbc.com/news/articles/c0jv6le6l3po?at_medium=RSS&at_campaign=rss",
+        "summary": "The actress said she had been 'violated' by journalists allegedly hacking her phone, in her case against the paper's publisher.",
         "source": "BBC News",
-        "objectivity_score": 72,
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "sadie frost",
+            "paper 's publisher"
+        ]
+    },
+    {
+        "title": "Heading football likely contributed to Gordon McQueen's brain disease, inquest finds",
+        "link": "https://www.bbc.com/sport/football/articles/c0er74njxgro?at_medium=RSS&at_campaign=rss",
+        "summary": "An inquest concludes that \"it is likely that repetitive head impacts, sustained by heading the ball while playing football, contributed to the CTE\" which was a factor in the former Scotland footballer...",
+        "source": "BBC News",
+        "objectivity_score": 56,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "gordon mcqueen",
+            "'s brain disease",
+            "inquest concludes"
+        ]
+    },
+    {
+        "title": "Three charged over alleged intifada chants at pro-Palestinian protest",
+        "link": "https://www.bbc.com/news/articles/cr571jqdy9ro?at_medium=RSS&at_campaign=rss",
+        "summary": "The force say the two women and a man were arrested at a protest outside the Ministry of Justice in London last month.",
+        "source": "BBC News",
+        "objectivity_score": 7,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "intifada chants"
+        ]
+    },
+    {
+        "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
+        "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Commission will assess whether \"manipulated sexually explicit images\" have been shown to users in the EU.",
+        "source": "BBC News",
+        "objectivity_score": 83,
         "sentiment": "Positive",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "west end show",
-            "tv show 's makers hope",
-            "dramatic twists"
+            "elon musk",
+            "grok ai",
+            "sexual deepfakes"
+        ]
+    },
+    {
+        "title": "UK loses measles elimination status",
+        "link": "https://www.bbc.com/news/articles/cgjw0xegxglo?at_medium=RSS&at_campaign=rss",
+        "summary": "Decision made after outbreaks in 2024, when there were nearly 3,000 cases in England and Wales.",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "measles elimination status"
+        ]
+    },
+    {
+        "title": "Asylum seeker guilty of raping woman, 18, in park",
+        "link": "https://www.bbc.com/news/articles/clyw6vg79dgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Sheraz Malik, 28, is convicted of two counts of rape in June last year in Sutton-in-Ashfield.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Negative",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "sheraz malik"
+        ]
+    },
+    {
+        "title": "Make sure pupils don't ever use phones at school, education secretary tells teachers",
+        "link": "https://www.bbc.com/news/articles/cgk827r8mrzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The education secretary says phones should not been seen during lessons, breaktimes or lunchtime.",
+        "source": "BBC News",
+        "objectivity_score": 88,
+        "sentiment": "Positive",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "sure pupils",
+            "education secretary",
+            "education secretary"
         ]
     },
     {
@@ -1115,48 +1138,63 @@
         ]
     },
     {
-        "title": "'Heading ball likely contributed to McQueen's brain disease'",
-        "link": "https://www.bbc.com/sport/football/articles/c0er74njxgro?at_medium=RSS&at_campaign=rss",
-        "summary": "An inquest concludes that \"it is likely that repetitive head impacts, sustained by heading the ball while playing football, contributed to the CTE\" which was a factor in the former footballer's death.",
+        "title": "One week until transfer deadline day - who could be on the move?",
+        "link": "https://www.bbc.com/sport/football/articles/c98pp7zd9d0o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Sport looks at some of the players that have been linked with moves before the Premier League transfer deadline on 2 February at 19:00 GMT.",
         "source": "BBC News",
-        "objectivity_score": 56,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "'s brain disease",
-            "inquest concludes",
-            "repetitive head impacts"
+            "deadline day",
+            "bbc sport",
+            "premier league"
         ]
     },
     {
-        "title": "'Another unbelievable result' - but what's different about Man Utd now?",
-        "link": "https://www.bbc.com/sport/football/articles/c62vk5l68x3o?at_medium=RSS&at_campaign=rss",
-        "summary": "MOTD pundit Danny Murphy explains how Manchester United earned their impressive win at Premier League leaders Arsenal, and how he feels the Gunners will react.",
+        "title": "Besiktas pay \u00a311m for Abraham - to sell him to Villa",
+        "link": "https://www.bbc.com/sport/football/articles/c301ry162d4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Besiktas pay 11.2m to Roma for Tammy Abraham - as the Turkish club prepare to sell him to Aston Villa.",
         "source": "BBC News",
-        "objectivity_score": 75,
-        "sentiment": "Positive",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "unbelievable result",
-            "danny murphy",
-            "premier league leaders"
+            "villa besiktas",
+            "tammy abraham",
+            "turkish club"
         ]
     },
     {
-        "title": "Seahawks to face Patriots in Super Bowl 60",
-        "link": "https://www.bbc.com/sport/american-football/articles/cdxjdyrn1wpo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Seattle Seahawks will face the New England Patriots in Super Bowl 60 after claiming a thrilling victory over the Los Angeles Rams on Sunday.",
+        "title": "Bradman baggy green cap sets record fee at auction",
+        "link": "https://www.bbc.com/sport/cricket/articles/cd7zjpyggypo?at_medium=RSS&at_campaign=rss",
+        "summary": "A 'Baggy Green' cap worn by Don Bradman during a series against India in 1947-48 is been sold for A$460,000 (232,000) at auction.",
         "source": "BBC News",
-        "objectivity_score": 69,
-        "sentiment": "Positive",
+        "objectivity_score": 30,
+        "sentiment": "Negative",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "seattle seahawks",
-            "england patriots",
-            "thrilling victory"
+            "baggy green cap",
+            "record fee",
+            "don bradman"
+        ]
+    },
+    {
+        "title": "The 'future number one' facing Sabalenka - who is teenager Jovic?",
+        "link": "https://www.bbc.com/sport/tennis/articles/cy7m1kdg08jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Novak Djokovic says Iva Jovic has \"all the tools\" to be world number one - but who is the 18-year-old who will face Aryna Sabalenka in the Australian Open quarter-finals?",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "'future number",
+            "novak djokovic",
+            "iva jovic"
         ]
     },
     {
@@ -1174,33 +1212,33 @@
         ]
     },
     {
-        "title": "Martinez edging closer to Villa career crossroads",
-        "link": "https://www.bbc.com/sport/football/articles/c8j331jxrk2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Emiliano Martinez is hailed as the world's best goalkeeper at Aston Villa home games - but even though his team are riding high, the Argentina international is at a crossroads.",
+        "title": "Can unfancied Scots be Six Nations contenders?",
+        "link": "https://www.bbc.com/sport/rugby-union/articles/cd9ev5v9dqjo?at_medium=RSS&at_campaign=rss",
+        "summary": "Captain Sione Tuipulotu says Scotland must believe they can win the 2026 Six Nations, despite low expectations following a difficult autumn.",
         "source": "BBC News",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "career crossroads",
-            "emiliano martinez",
-            "world 's"
+            "sione tuipulotu",
+            "low expectations",
+            "difficult autumn"
         ]
     },
     {
-        "title": "Pegula ends Keys title defence to win 'gross' apple pie bet",
-        "link": "https://www.bbc.com/sport/tennis/articles/cp3z8dxzjjdo?at_medium=RSS&at_campaign=rss",
-        "summary": "Jessica Pegula ends Madison Keys' Australian Open title defence to reach the quarter-finals and win a \"gross\" apple pie bet.",
+        "title": "'Heading football likely to have contributed to McQueen's brain disease'",
+        "link": "https://www.bbc.com/sport/football/articles/c0er74njxgro?at_medium=RSS&at_campaign=rss",
+        "summary": "An inquest concludes that \"it is likely that repetitive head impacts, sustained by heading the ball while playing football, contributed to the CTE\" which was a factor in the former Scotland footballer...",
         "source": "BBC News",
-        "objectivity_score": 21,
-        "sentiment": "Positive",
+        "objectivity_score": 56,
+        "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "title defence",
-            "apple pie",
-            "jessica pegula"
+            "'s brain disease",
+            "inquest concludes",
+            "repetitive head impacts"
         ]
     },
     {
@@ -1216,6 +1254,20 @@
             "drone fighting",
             "winter lull shifts",
             "navigate frozen fields"
+        ]
+    },
+    {
+        "title": "Israel Says It Will Reopen Gaza-Egypt Border Crossing in Days",
+        "link": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html",
+        "summary": "The Rafah crossing will open at the end of Israels search for the remains of the last captive in Gaza.",
+        "source": "NYT > World News",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "israel says",
+            "will reopen gaza-egypt"
         ]
     },
     {
@@ -1246,6 +1298,51 @@
             "general \u2019 s",
             "shows precariousness",
             "zhang youxia"
+        ]
+    },
+    {
+        "title": "Hamas Hands Over Body of Ran Gvili, Closing Chapter for Israel",
+        "link": "https://www.nytimes.com/2026/01/26/world/middleeast/gaza-hostage-returned-israel.html",
+        "summary": "The recovery of Master Sgt. Ran Gvilis body paves the way for the next stage of the Gaza cease-fire plan, though the path forward is unclear.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "hamas hands",
+            "ran gvili",
+            "ran gvilis"
+        ]
+    },
+    {
+        "title": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate",
+        "link": "https://www.nytimes.com/2026/01/26/world/middleeast/us-warships-gulf-waters-iran-retaliation-threats.html",
+        "summary": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "iran ramps up threats",
+            "retaliate iran",
+            "militia allies"
+        ]
+    },
+    {
+        "title": "Russia Says Talks to End War in Ukraine Will Continue",
+        "link": "https://www.nytimes.com/2026/01/26/world/europe/russia-ukraine-war-peace-talks.html",
+        "summary": "Ukrainian and Russian officials left rare direct talks last weekend in a somewhat optimistic mood. But Russia may be simply stalling for time, analysts said.",
+        "source": "NYT > World News",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "russia says talks",
+            "end war",
+            "ukraine will continue ukrainian"
         ]
     },
     {
@@ -1354,78 +1451,62 @@
         ]
     },
     {
-        "title": "The Podcaster Poking at France\u2019s Biggest Secrets",
-        "link": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
-        "summary": "Philippe Collin makes intricate series that are reshaping how French people understand uncomfortable parts of their history. Millions are tuning in.",
+        "title": "Gunmen Open Fire on Soccer Field, Killing at Least 11 People in Mexico",
+        "link": "https://www.nytimes.com/video/world/americas/100000010669007/mexico-shooting-cartels-salamanca.html",
+        "summary": "At least 11 people were killed in Salamanca, Mexico, when gunmen shot at a crowd socializing on a soccer field after a match, according to local officials. The state where the mass shooting occurred h...",
         "source": "NYT > World News",
-        "objectivity_score": 50,
+        "objectivity_score": 40,
         "sentiment": "Negative",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "podcaster poking",
-            "biggest secrets philippe collin",
-            "intricate series"
+            "open fire",
+            "gunmen shot",
+            "soccer field"
         ]
     },
     {
-        "title": "Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues",
-        "link": "https://www.nytimes.com/2026/01/24/world/canada/trump-canada-tariffs.html",
-        "summary": "President Trump said he would impose tariffs if Canada made a deal with China, though there is no sign that those countries are discussing a broad trade agreement.",
+        "title": "Ferry Sinks in Southern Philippines, Leaving Several Dead",
+        "link": "https://www.nytimes.com/video/world/asia/100000010668313/ferry-philippines-sinking.html",
+        "summary": "A ship carrying more than 350 people sank early Monday near the island of Baluk-baluk in the southern province of Basilan, leaving at least 18 dead, according to the Philippine Coast Guard.",
         "source": "NYT > World News",
-        "objectivity_score": 31,
+        "objectivity_score": 24,
         "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "trump threatens canada",
-            "post-davos fallout continues",
-            "impose tariffs"
+            "ferry sinks",
+            "southern province",
+            "philippine coast guard"
         ]
     },
     {
-        "title": "Syria Announces Cease-Fire Extension, Hours After Truce With Kurds Expired",
-        "link": "https://www.nytimes.com/2026/01/24/world/middleeast/syria-kurdish-militia.html",
-        "summary": "Syrias government and Kurdish-led forces in the countrys northeast have clashed as President Ahmed al-Sharaa seeks to extend his authority across the entire country.",
+        "title": "Thousands of Flights Canceled Monday After Snowstorm",
+        "link": "https://www.nytimes.com/2026/01/26/business/storm-flight-cancellations-delays.html",
+        "summary": "Delays and cancellations persisted, a day after more than 11,000 flights were canceled. Airports in the Northeast U.S. were hit the hardest.",
         "source": "NYT > World News",
-        "objectivity_score": 62,
-        "sentiment": "Neutral",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "syria announces cease-fire",
-            "kurds expired syrias",
-            "entire country"
-        ]
-    },
-    {
-        "title": "Ukraine Peace Talks End on Positive Note as Zelensky Teases Future Meeting",
-        "link": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
-        "summary": "President Volodymyr Zelensky of Ukraine said that rare three-way negotiations between Ukrainian, Russian and American teams in Abu Dhabi had been constructive.",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "zelensky teases",
-            "volodymyr zelensky",
-            "rare three-way negotiations"
+            "flights canceled",
+            "snowstorm delays"
         ]
     },
     {
-        "title": "Winter Storm Pummels Toronto With Near-Record Snowfall",
+        "title": "Winter Storm Pummels Toronto With Record Snowfall",
         "link": "https://www.nytimes.com/2026/01/25/world/americas/toronto-snow-winter-storm.html",
-        "summary": "Toronto Pearson International Airport had received about 18 inches by 10 p.m. on Sunday, the airport said, and snow was still falling.",
+        "summary": "Canadas biggest city got roughly 22 inches, and giant snow banks are unlikely to melt soon because of colder than usual temperatures.",
         "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 53,
+        "sentiment": "Negative",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
             "winter storm pummels toronto",
-            "near-record snowfall toronto pearson",
-            "international airport"
+            "record snowfall canadas",
+            "giant snow banks"
         ]
     },
     {
@@ -1459,6 +1540,21 @@
         ]
     },
     {
+        "title": "The Podcaster Poking at France\u2019s Biggest Secrets",
+        "link": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
+        "summary": "Philippe Collin makes intricate series that are reshaping how French people understand uncomfortable parts of their history. Millions are tuning in.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "podcaster poking",
+            "biggest secrets philippe collin",
+            "intricate series"
+        ]
+    },
+    {
         "title": "William H. Foege, Key Figure in the Eradication of Smallpox, Dies at 89",
         "link": "https://www.nytimes.com/2026/01/24/us/william-h-foege-dead.html",
         "summary": "His containment strategy helped wipe out the disease in the 1970s, one of the worlds greatest public health triumphs. He also led the C.D.C. and promoted childhood vaccination worldwide.",
@@ -1474,91 +1570,63 @@
         ]
     },
     {
-        "title": "Cold Comfort",
-        "link": "https://www.nytimes.com/2026/01/24/briefing/cold-comfort.html",
-        "summary": "How can the perpetually shivering warm up to winter?",
+        "title": "Syria Announces Cease-Fire Extension, Hours After Truce With Kurds Expired",
+        "link": "https://www.nytimes.com/2026/01/24/world/middleeast/syria-kurdish-militia.html",
+        "summary": "Syrias government and Kurdish-led forces in the countrys northeast have clashed as President Ahmed al-Sharaa seeks to extend his authority across the entire country.",
         "source": "NYT > World News",
-        "objectivity_score": 60,
+        "objectivity_score": 62,
         "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "cold comfort"
+            "syria announces cease-fire",
+            "kurds expired syrias",
+            "entire country"
         ]
     },
     {
-        "title": "Mark Carney Takes On Donald Trump and Emerges as a Global Political Star",
-        "link": "https://www.nytimes.com/2026/01/24/world/canada/carney-trump-us-greenland.html",
-        "summary": "At the World Economic Forum in Davos, Switzerland, the prime minister was praised for his blunt talk about the presidents irrevocable rupture in the world order.",
+        "title": "Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues",
+        "link": "https://www.nytimes.com/2026/01/24/world/canada/trump-canada-tariffs.html",
+        "summary": "President Trump said he would impose tariffs if Canada made a deal with China, though there is no sign that those countries are discussing a broad trade agreement.",
         "source": "NYT > World News",
-        "objectivity_score": 10,
+        "objectivity_score": 31,
         "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "mark carney takes",
-            "donald trump",
-            "political star"
+            "trump threatens canada",
+            "post-davos fallout continues",
+            "impose tariffs"
         ]
     },
     {
-        "title": "How a Photographer Stumbled Upon a Key Picture of the Spain Train Crash",
-        "link": "https://www.nytimes.com/2026/01/24/insider/how-a-photographer-stumbled-upon-a-key-picture-of-the-spain-train-crash.html",
-        "summary": "While seeking views of the disaster, a photographer on assignment for The Times captured an image of wreckage that could provide clues to what went wrong.",
-        "source": "NYT > World News",
-        "objectivity_score": 95,
-        "sentiment": "Negative",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "photographer stumbled upon",
-            "key picture",
-            "spain train crash"
-        ]
-    },
-    {
-        "title": "Despite Trump\u2019s Words, China and Russia Are Not Threatening Greenland",
-        "link": "https://www.nytimes.com/2026/01/24/us/politics/trump-china-russia-greenland.html",
-        "summary": "U.S. and European officials say they are unaware of any intelligence that shows China and Russia are endangering the island, which is protected by the NATO security umbrella.",
-        "source": "NYT > World News",
-        "objectivity_score": 25,
+        "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
+        "link": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+        "summary": "Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last weekEurope live  latest updatesUp to 380 people may have drowned attempting to cross the Mediterranean las...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 22,
         "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "threatening greenland u.s.",
-            "european officials",
-            "nato security umbrella"
+            "italian authorities",
+            "cyclone harry",
+            "italian coastguard"
         ]
     },
     {
-        "title": "How a Year of Trump Changed Britain",
-        "link": "https://www.nytimes.com/2026/01/24/world/europe/trump-uk-changes.html",
-        "summary": "Prime Minister Keir Starmer stood firm over Greenland. But his center-left government and the country as a whole have been buffeted by President Trump.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
+        "title": "Crocodile warnings as floods devastate southern Africa",
+        "link": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa",
+        "summary": "More than 100 people killed and hundreds of thousands displaced in South Africa, Mozambique and ZimbabweDevastating floods have killed more than 100 people in southern Africa since the beginning of th...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 21,
         "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "trump changed britain prime",
-            "keir starmer",
-            "center-left government"
-        ]
-    },
-    {
-        "title": "How a Water Balloon Fight in Venezuela Ended in Charges of Treason",
-        "link": "https://www.nytimes.com/2026/01/24/world/americas/venezuela-arrests-repression.html",
-        "summary": "Venezuelas interim government has been praised by President Trump. It has also maintained its state security apparatus to stamp out any perceived dissent.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "water balloon",
-            "venezuela ended",
-            "treason venezuelas"
+            "floods devastate southern",
+            "aid workers",
+            "national park"
         ]
     },
     {
@@ -1607,33 +1675,63 @@
         ]
     },
     {
-        "title": "\u2018Brazen\u2019 political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam",
-        "link": "https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam",
-        "summary": "Governments opting for oligarchy while brutally repressing protests over austerity and lack of jobs, charity report saysThe world saw a record number of billionaires created last year, with a collecti...",
+        "title": "UK supermarkets push for Amazon soy safeguards after traders abandon ban",
+        "link": "https://www.theguardian.com/environment/2026/jan/26/uk-supermarkets-push-for-amazon-soy-safeguards-after-brazil-scraps-ban",
+        "summary": "European retailers urge traders to adhere to commitments after Brazilian lawmakers wreck forest protection pactLeading British and European retailers are trying to salvage the core elements of the Ama...",
         "source": "World news | The Guardian",
-        "objectivity_score": 28,
-        "sentiment": "Neutral",
+        "objectivity_score": 32,
+        "sentiment": "Positive",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "political influence",
-            "$ 18.3tn",
-            "charity report saysthe world"
+            "soy safeguards",
+            "traders abandon ban",
+            "european retailers urge traders"
         ]
     },
     {
-        "title": "Uganda\u2019s president calls opponents 'terrorists' in victory speech",
-        "link": "https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech",
-        "summary": "Yoweri Museveni wins seventh term but poll criticised by observers and rights groups over repression of opposition and internet blackoutUgandas president, Yoweri Museveni, fresh from winning a seventh...",
+        "title": "Toronto digs itself out after largest snowfall in city\u2019s history",
+        "link": "https://www.theguardian.com/world/2026/jan/26/toronto-snowstorm-record-snowfall-total",
+        "summary": "Some parts of city were buried under nearly 60cm of snow and over 500 flights were cancelled SundayToronto is beginning to dig itself out from the largest snowfall in the citys history, a process whic...",
         "source": "World news | The Guardian",
         "objectivity_score": 43,
         "sentiment": "Positive",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "\u2019 s president calls opponents 'terrorists",
-            "victory speech",
-            "yoweri museveni"
+            "city \u2019 s history",
+            "citys history",
+            "days.some parts"
+        ]
+    },
+    {
+        "title": "Gunmen open fire at football match in Mexico, killing at least 11",
+        "link": "https://www.theguardian.com/world/2026/jan/26/gunmen-invade-salamanca-football-match-guanajuato-mexico-crime",
+        "summary": "Mayor of Salamanca in Guanajuato state says attack is part of wave of violence as he appeals to president for helpGunmen opened fire at a football match in central Mexico on Sunday, killing at least 1...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "open fire",
+            "social media platforms",
+            "reading ..."
+        ]
+    },
+    {
+        "title": "\u2018They threw us out like baggage\u2019: Russian family deported from US to Costa Rica still in limbo",
+        "link": "https://www.theguardian.com/us-news/2026/jan/26/costa-rica-us-deportation",
+        "summary": "Alexander, his wife and son, who fled danger under Putin, fighting for security  and compensation  after torment of migration journeyAlmost a year after Donald Trump strong-armed a deal with Costa Ric...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "baggage \u2019",
+            "russian family",
+            "costa rica"
         ]
     },
     {
@@ -1652,78 +1750,18 @@
         ]
     },
     {
-        "title": "Gunmen open fire at football match in Mexico, killing at least 11",
-        "link": "https://www.theguardian.com/world/2026/jan/26/gunmen-invade-salamanca-football-match-guanajuato-mexico-crime",
-        "summary": "Mayor of Salamanca in Guanajuato state says attack is part of crime wave as he appeals to president for help Gunmen opened fire at a football match in central Mexico on Sunday, killing at least 11 peo...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "open fire",
-            "crime wave",
-            "authorities said.csar"
-        ]
-    },
-    {
-        "title": "Trump threatens Canada with 100% tariff over possible deal with China",
-        "link": "https://www.theguardian.com/us-news/2026/jan/24/trump-canada-tariff-threat-venezuela-oil",
-        "summary": "President also claims US refineries will process seized Venezuelan oil, saying we take the oilDonald Trump on Saturday said he would impose a 100% tariff on all Canadian imports if the North American ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "% tariff",
-            "claims us refineries",
-            "% tariff"
-        ]
-    },
-    {
-        "title": "Spanish prosecutors drop sexual assault complaint against Julio Iglesias",
-        "link": "https://www.theguardian.com/world/2026/jan/23/spanish-prosecutors-drop-julio-iglesias-complaint",
-        "summary": "Court says alleged abuse and trafficking offences occurred outside Spain, leaving it without jurisdictionSpanish prosecutors have shelved a complaint brought by two women who have accused the singer J...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "spanish prosecutors drop sexual assault complaint",
-            "julio iglesias",
-            "jurisdictionspanish prosecutors"
-        ]
-    },
-    {
-        "title": "Canadian Olympic snowboarder turned alleged cocaine kingpin in US custody",
-        "link": "https://www.theguardian.com/world/2026/jan/23/ryan-wedding-arrested",
-        "summary": "Ryan Wedding turned himself in at US consulate in Mexico City and is due to appear in court in California on MondayRyan Wedding, the Canadian Olympic snowboarder turned alleged drug kingpin, has been ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Neutral",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "canadian olympic snowboarder",
-            "cocaine kingpin",
-            "us custody"
-        ]
-    },
-    {
-        "title": "Philippines ferry with 350 on board capsizes leaving 15 dead and dozens missing",
+        "title": "At least 18 people dead as Philippines ferry with 350 onboard sinks",
         "link": "https://www.theguardian.com/world/2026/jan/26/philippines-ferry-capsizes-sinks-death-toll",
-        "summary": "Rescuers save at least 300 people after inter-island ferry sank early on Monday en route from the port city of Zamboanga to southern Jolo islandAt least 15 people have died after a ferry with more tha...",
+        "summary": "Rescuers save at least 316 after inter-island ferry sank en route from city of Zamboanga to southern Jolo islandA ferry with more than 350 people onboard sank early on Monday near an island in the sou...",
         "source": "World news | The Guardian",
-        "objectivity_score": 22,
+        "objectivity_score": 33,
         "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "board capsizes",
+            "onboard sinks",
             "inter-island ferry",
-            "port city"
+            "islanda ferry"
         ]
     },
     {
@@ -1739,6 +1777,21 @@
             "corruption crackdown",
             "zhang youxia",
             "xi jinpings"
+        ]
+    },
+    {
+        "title": "Alex Honnold free solos Taipei 101 skyscraper in live Netflix climb",
+        "link": "https://www.theguardian.com/sport/2026/jan/24/alex-honnold-free-solo-taipei-101-netflix",
+        "summary": "US climber takes an hour and half to scale one of Asias tallest buildings without ropes or a harnessThe US rock climber Alex Honnold climbed one of Asias tallest skyscrapers without ropes or a harness...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 51,
+        "sentiment": "Positive",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "alex honnold",
+            "free solos",
+            "climb us climber"
         ]
     },
     {
@@ -1772,18 +1825,48 @@
         ]
     },
     {
-        "title": "New Zealand landslide: rescue efforts called off for six people buried in disaster",
-        "link": "https://www.theguardian.com/world/2026/jan/24/new-zealand-landslide-rescue-efforts-called-off-for-at-least-six-people-buried-in-disaster",
-        "summary": "Rescue efforts at Mount Maunganui site switch to recovery operation that police say could take several daysEfforts to rescue six people buried by a landslide at a New Zealand holiday park ended on Sat...",
+        "title": "Killing of K\u2019gari dingoes in wake of backpacker\u2019s death could create \u2018extinction vortex\u2019, expert says",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/27/killing-of-kgari-dingoes-in-wake-of-backpackers-death-could-create-extinction-vortex-expert-says",
+        "summary": "Queensland government says it has already killed six of the 10 dingoes seen near the body of 19-year-old Piper James Get our breaking news email, free app or daily news podcastDingo experts have said ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 23,
+        "objectivity_score": 41,
+        "sentiment": "Negative",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "\u2019 gari dingoes",
+            "backpacker \u2019 s death",
+            "\u2018 extinction vortex \u2019"
+        ]
+    },
+    {
+        "title": "Services Australia has not applied child support law properly and some parents are owed money, report finds",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/27/services-australia-has-not-applied-child-support-law-properly-and-some-parents-are-owed-money-report-finds",
+        "summary": "Ombudsman says agency knew for years that part of its child support processing not in line with lawGet our breaking news email, free app or daily news podcastServices Australia knew its internal pract...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 16,
         "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "rescue efforts",
-            "site switch",
-            "recovery operation"
+            "child support law",
+            "child support processing",
+            "news email"
+        ]
+    },
+    {
+        "title": "Bunnings accused of \u2018greenwashing\u2019 timber amid concerns about supplier\u2019s illegal logging",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/27/bunnings-accused-of-greenwashing-timber-amid-concerns-about-suppliers-logging",
+        "summary": "The Wilderness Society lodges complaint with consumer watchdog over hardware and garden chains sale of timber sourced from NSW Forestry CorporationGet our breaking news email, free app or daily news p...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 37,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "\u2019 timber",
+            "supplier \u2019 s",
+            "wilderness society lodges complaint"
         ]
     },
     {
@@ -1817,123 +1900,108 @@
         ]
     },
     {
-        "title": "Victorians urged to evacuate Otways as massive fire threatens to spread east towards more than 1,000 homes",
-        "link": "https://www.theguardian.com/australia-news/2026/jan/26/victoria-evacuate-otways-fire-spread-east-lorne-heatwave",
-        "summary": "Fire in Otways has burned about 9,400 hectares and could spread as far as Lorne amid onset of heatwave in VictoriaFollow our Australia news live blog for latest updatesGet our breaking news email, fre...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 72,
-        "sentiment": "Positive",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "massive fire threatens",
-            "homes fire",
-            "news email"
-        ]
-    },
-    {
-        "title": "Man arrested over alleged antisemitic speech at protest in Sydney \u2013 As it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/jan/26/australia-invasion-day-protest-victoria-bushfire-weather-heatwave-ntwnfb",
-        "summary": "This blog is now closedInvasion Day: police clear Perth protest site amid reports of threat as huge marches held across AustraliaGet our breaking news email, free app or daily news podcastSeveral beac...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Neutral",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "antisemitic speech",
-            "closedinvasion day",
-            "huge marches"
-        ]
-    },
-    {
-        "title": "Severe heatwave envelops South Australia as Victoria braces for record-breaking weather and fire threats",
-        "link": "https://www.theguardian.com/environment/2026/jan/26/severe-heatwave-envelops-south-australia-as-victoria-braces-for-record-breaking-weather",
-        "summary": "Residents near Otways fire in Victoria urged to prepare to evacuate, while Ouyen and Mildura forecast to record 49C on TuesdayGet our breaking news email, free app or daily news podcastSouth Australia...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Neutral",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "heatwave envelops",
-            "fire threats",
-            "record 49c"
-        ]
-    },
-    {
-        "title": "US-Ukraine security deal waiting to be signed, says Zelenskyy \u2013 Europe live",
+        "title": "Nato chief Rutte: \u2018Keep on dreaming\u2019 if you think Europe could defend itself without US \u2013 as it happened",
         "link": "https://www.theguardian.com/world/live/2026/jan/26/ukraine-russia-us-greenland-europe-trade-deal-nato-latest-news-updates",
-        "summary": "Ukrainian presidents remarks come as Russia praises trilateral talks but warns against expectations of significant resultsThe European Commission got also asked about the regular US criticism that it ...",
+        "summary": "Mark Rutte said Europe would need to spend billions and billions of euros on defenceThe European Commission got also asked about the regular US criticism that it is targeting US big tech companies and...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
+        "objectivity_score": 44,
         "sentiment": "Positive",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "presidents remarks",
-            "praises trilateral",
-            "significant resultsthe"
+            "mark rutte",
+            "european commission",
+            "regular us criticism"
         ]
     },
     {
-        "title": "EU launches inquiry into X over sexually explicit images made by Grok AI",
-        "link": "https://www.theguardian.com/technology/2026/jan/26/eu-launches-inquiry-into-x-over-sexually-explicit-images-made-by-grok-ai",
-        "summary": "Investigation comes after Elon Musks firm sparked outrage by allowing users to strip photos of women and childrenEurope live  latest updatesThe European Commission has launched an investigation into E...",
+        "title": "Two British far-right activists arrested in France",
+        "link": "https://www.theguardian.com/world/2026/jan/26/two-british-far-right-activists-arrested-france",
+        "summary": "Men in custody for allegedly broadcasting content likely to incite hatred from French coastFrench authorities have arrested two far-right British activists in what is believed to be the first case of ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 63,
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "british far-right activists",
+            "france men",
+            "coastfrench authorities"
+        ]
+    },
+    {
+        "title": "Merz\u2019s party vows to clamp down on Germany\u2019s \u2018lifestyle part-time work\u2019",
+        "link": "https://www.theguardian.com/world/2026/jan/26/merz-party-vows-clamp-down-germany-lifestyle-part-time-work",
+        "summary": "Business wing of Christian Democrats aims to scrap legal right to fewer hours, saying people should need permissionThe business wing of Germanys leading Christian Democratic Union party is proposing a...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 31,
         "sentiment": "Positive",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "launches inquiry",
-            "explicit images",
-            "grok ai"
+            "\u2019 s party vows",
+            "\u2019 s \u2018 lifestyle",
+            "part-time work \u2019 business wing"
         ]
     },
     {
-        "title": "Weather tracker: Severe storms grip US as snow, ice and deep freeze spread",
-        "link": "https://www.theguardian.com/environment/2026/jan/26/weather-tracker-severe-storms-grip-us-snow-ice-deep-freeze-warnings",
-        "summary": "Warnings issued across 26 US states, while Portugal braces for heavy rain as Storm Joseph rolls inThe US is enduring another bout of severe winter weather, as a succession of powerful weather systems ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 63,
-        "sentiment": "Neutral",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "storms grip us",
-            "us states",
-            "heavy rain"
-        ]
-    },
-    {
-        "title": "Why Germany is racing to rebuild its army",
-        "link": "https://www.theguardian.com/news/audio/2026/jan/26/why-germany-is-racing-to-rebuild-its-army",
-        "summary": "Are the German people on board with the governments massive militarisation programme? Kate Connolly reportsNot so long ago, to be a German soldier dressed in German uniform was quite a difficult role ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "german people",
-            "massive militarisation programme",
-            "kate connolly"
-        ]
-    },
-    {
-        "title": "UK among 10 countries to build 100GW wind power grid in North Sea",
+        "title": "UK joins European offshore windfarm plan to create world\u2019s largest \u2018clean energy reservoir\u2019",
         "link": "https://www.theguardian.com/environment/2026/jan/26/uk-among-10-countries-to-build-100gw-wind-power-grid-in-north-sea",
-        "summary": "Energy secretary Ed Miliband says clean energy project is part of efforts to leave the fossil fuel rollercoasterThe UK and nine other European countries have agreed to build an offshore wind power gri...",
+        "summary": "Britain among 10 countries to build 100GW grid in North Sea linking countries through subsea cablesThe German chancellor, Friedrich Merz, has said he wants the North Sea to become the largest reservoi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Positive",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "european offshore windfarm plan",
+            "world \u2019 s",
+            "clean energy reservoir \u2019"
+        ]
+    },
+    {
+        "title": "\u2018I will finish your work\u2019: one woman\u2019s fight for the Jewish art and letters her mother saved from the Nazis",
+        "link": "https://www.theguardian.com/artanddesign/2026/jan/26/jewish-art-letters-saved-from-nazis-peter-kien",
+        "summary": "Exclusive: Hundreds of works by the artist and poet Peter Kien have new home in UK after campaign by Judy KingThey survived the Nazis, were confiscated by the communists, and for the last three decade...",
         "source": "World news | The Guardian",
         "objectivity_score": 38,
+        "sentiment": "Positive",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "work \u2019",
+            "woman \u2019 s fight",
+            "jewish art"
+        ]
+    },
+    {
+        "title": "Remains of last Israeli held in Gaza after 7 October 2023 returned",
+        "link": "https://www.theguardian.com/world/2026/jan/26/remains-last-israeli-killed-7-october-2023-ran-gvili-returned-gaza",
+        "summary": "Return of police sergeant Ran Gvilis body should pave way for progress on second phase of Trump ceasefire planThe remains of the Israeli police sergeant Ran Gvili, who was killed fighting Hamas-led mi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 3,
         "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "power grid",
-            "north sea",
-            "ed miliband"
+            "police sergeant",
+            "ran gvilis",
+            "pave way"
+        ]
+    },
+    {
+        "title": "Saudi Arabia ordered to pay \u00a33m to London dissident over Pegasus spying",
+        "link": "https://www.theguardian.com/world/2026/jan/26/saudi-arabia-ordered-pay-london-dissident-pegasus-spying-ghanem-al-masarir",
+        "summary": "High court finds kingdom responsible for hacking phones of Ghanem al-Masarir and for physical attack on himA judge has ordered Saudi Arabia to pay more than 3m in damages to a London-based dissident w...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "saudi arabia",
+            "high court",
+            "physical attack"
         ]
     },
     {
@@ -1979,36 +2047,6 @@
             "regime \u2019 s",
             "crackdown us readers",
             "feeling anxious"
-        ]
-    },
-    {
-        "title": "Syrian and Kurdish forces agree to extend ceasefire as threat of war looms",
-        "link": "https://www.theguardian.com/world/2026/jan/24/syria-kurdish-military-extend-ceasefire-war",
-        "summary": "Ceasefire to be extended for one month to allow transfer of suspected Islamic State members from Syria to IraqThe Syrian government and Kurdish forces agreed to extend a ceasefire on Saturday, accordi...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "war looms",
-            "state members",
-            "iraqthe syrian"
-        ]
-    },
-    {
-        "title": "Trump says US \u2018armada\u2019 heading to Middle East as Iran death toll put above 5,000",
-        "link": "https://www.theguardian.com/world/2026/jan/23/trump-says-us-armada-heading-middle-east-iran-death-toll",
-        "summary": "US president says we have a lot of ships going in that direction and that Washington is watching Iran closelyDonald Trump has said an American armada is heading towards the Middle East and that the US...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "us \u2018 armada \u2019",
-            "death toll",
-            "us president"
         ]
     },
     {
@@ -2087,153 +2125,153 @@
         ]
     },
     {
-        "title": "Former Tory home secretary Suella Braverman defects to Reform UK \u2013 UK politics live",
+        "title": "Tories withdraw \u2018mental health\u2019 briefing about Suella Braverman after former Tory home secretary joins Reform \u2013 UK politics live",
         "link": "https://www.theguardian.com/politics/live/2026/jan/26/labour-andy-burnham-byelection-blocked-police-reforms-starmer-streeting-farage-uk-politics-live-news-updates",
-        "summary": "Her defection comes shortly after Robert Jenrick joined Nigel Farages partyKeir Starmer was being interview by Beth Rigby from Sky News this morning when he defended the decision not to let Andy Burnh...",
+        "summary": "Her defection means there are now eight Reform MPs in the CommonsKeir Starmer was being interview by Beth Rigby from Sky News this morning when he defended the decision not to let Andy Burnham be a by...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 38,
         "sentiment": "Positive",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "home secretary",
+            "mental health \u2019",
             "suella braverman",
-            "reform uk"
+            "home secretary joins"
         ]
     },
     {
-        "title": "Former home secretary Suella Braverman defects to Reform UK",
-        "link": "https://www.theguardian.com/politics/2026/jan/26/former-home-secretary-suella-braverman-defects-to-reform-uk",
-        "summary": "Braverman becomes third sitting Conservative MP to join Nigel Farages party in little more than a weekUK politics live  latest updatesSuella Braverman has defected to Reform, the third sitting Conserv...",
+        "title": "Tories say mental health claim about Suella Braverman was \u2018sent out in error\u2019",
+        "link": "https://www.theguardian.com/politics/2026/jan/26/tories-say-mental-health-claim-about-suella-braverman-sent-in-error",
+        "summary": "Party spokesperson apologises for statement on former home secretary who has defected to Reform UKUK politics live  latest updatesThe Conservatives have withdrawn a claim that Suella Bravermans defect...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "mental health claim",
+            "suella braverman",
+            "error \u2019 party spokesperson apologises"
+        ]
+    },
+    {
+        "title": "Sadie Frost tells court there was \u2018price put on my head\u2019 by Daily Mail publisher",
+        "link": "https://www.theguardian.com/uk-news/2026/jan/26/sadie-frost-tells-court-there-was-price-put-on-my-head-by-daily-mail-publisher",
+        "summary": "Actor gives evidence alleging Associated Newspapers Ltd used services of convicted phone hackerThe actor Sadie Frost has said she had a price put on my head by the publisher of the Daily Mail, as she ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "home secretary",
-            "suella braverman",
-            "reform uk braverman"
+            "sadie frost",
+            "\u2018 price",
+            "head \u2019"
         ]
     },
     {
-        "title": "UK\u2019s biggest private hospital provider Spire in talks on sale to private equity",
-        "link": "https://www.theguardian.com/business/2026/jan/26/uk-private-hospital-spire-sale-private-equity-ftse-250-bridgepoint-triton",
-        "summary": "Shares in FTSE 250 company jump as it reveals Bridgepoint and Triton are among groups interested in takeoverBusiness live  latest updatesThe UKs biggest private hospital provider, Spire Healthcare, is...",
+        "title": "Braverman\u2019s predictable defection is Farage\u2019s biggest political gamble yet",
+        "link": "https://www.theguardian.com/politics/2026/jan/26/bravermans-predictable-defection-is-farages-biggest-political-gamble-yet",
+        "summary": "Twice-sacked former home secretary is not a team player and may limit attempts to expand Reforms appealUK politics live  latest updatesIt was a full 90 minutes into the Reform UK rally  and 10 minutes...",
         "source": "World news | The Guardian",
         "objectivity_score": 48,
         "sentiment": "Positive",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "private hospital provider",
-            "private equity",
-            "private hospital provider"
+            "predictable defection",
+            "political gamble",
+            "home secretary"
         ]
     },
     {
-        "title": "Storm Chandra likely to cause flooding in south-west England, Met Office warns",
-        "link": "https://www.theguardian.com/uk-news/2026/jan/26/storm-chandra-flooding-england-uk-weather",
-        "summary": "Storm to bring torrential rain and high winds to parts of UK this week, with significant snowfalls also expectedHomes and businesses are likely to be flooded in south-west England, the Met Office has ...",
+        "title": "Bank of Scotland fined \u00a3160,000 over account for sanctioned Putin ally",
+        "link": "https://www.theguardian.com/business/2026/jan/26/bank-of-scotland-fined-putin-ally-dmitrii-ovsiannikov",
+        "summary": "Dmitrii Ovsiannikov, who had held senior roles in Russian government, used a variant spelling of his name to access UK banking systemThe UKs sanctions watchdog has fined Bank of Scotland 160,000 for o...",
         "source": "World news | The Guardian",
-        "objectivity_score": 64,
-        "sentiment": "Positive",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "storm chandra",
-            "office warns",
-            "torrential rain"
+            "dmitrii ovsiannikov",
+            "senior roles",
+            "sanctions watchdog"
         ]
     },
     {
-        "title": "Starmer defends Labour decision to bar Burnham from byelection",
-        "link": "https://www.theguardian.com/politics/2026/jan/26/andy-burnham-barred-from-byelection-to-help-labour-focus-says-scotland-secretary-douglas-alexander",
-        "summary": "Run for parliament by Greater Manchester mayor would divert resources, says prime ministerUK politics live  latest updatesKeir Starmer has defended his partys decision to block Andy Burnham from stand...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 65,
-        "sentiment": "Positive",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "divert resources",
-            "prime ministeruk politics",
-            "partys decision"
-        ]
-    },
-    {
-        "title": "Trump says \u2018we\u2019re reviewing everything\u2019 after Minneapolis killing as Republicans join calls for investigation \u2013 US politics live",
+        "title": "Donald Trump says he is sending his \u2018border czar\u2019 Tom Homan to Minnesota \u2013 US politics live",
         "link": "https://www.theguardian.com/us-news/live/2026/jan/26/minnesota-minneapolis-ice-protests-alex-pretti-donald-trump-us-politics-live-news-updates",
-        "summary": "President signals to Wall Street Journal that he would eventually withdraw ICE agents, though did not give a timeframeA GoFundMe page entitled Alex Pretti is an American Hero has raised $1,078,931 sin...",
+        "summary": "President makes announcement on Truth Social and also makes unsubstantiated claims about protests in MinnesotaAs more and more Republicans call for an investigation of Alex Prettis killing, its worth ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 33,
         "sentiment": "Positive",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
-            "investigation \u2013 us politics",
-            "president signals",
-            "street journal"
+            "donald trump",
+            "\u2018 border czar \u2019",
+            "tom homan"
         ]
     },
     {
-        "title": "US gripped by severe winter storm with snow, ice and plunging temperatures \u2013 latest news",
-        "link": "https://www.theguardian.com/world/live/2026/jan/26/us-winter-storms-snow-ice-freezing-latest-news-updates",
-        "summary": "Many alerts remain in place with power outages in some regionsTens of millions of Americans hunkered down on Monday or ventured out to help neighbors under bitter cold, blizzards of snow and lashings ...",
+        "title": "SEC drops lawsuit against Winklevoss twins\u2019 crypto firm",
+        "link": "https://www.theguardian.com/technology/2026/jan/26/winklevoss-twins-crypto-lawsuit-dropped",
+        "summary": "Move comes as the SEC has taken a series of friendly stances towards the cryptocurrency industry under TrumpThe US Securities and Exchange Commission (SEC) on Friday agreed to dismiss its enforcement ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 60,
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "drops lawsuit",
+            "twins \u2019 crypto firm",
+            "friendly stances"
+        ]
+    },
+    {
+        "title": "Trump\u2019s ICE crackdown faces reckoning as outrage mounts over Alex Pretti shooting",
+        "link": "https://www.theguardian.com/us-news/2026/jan/26/donald-trump-administration-reviewing-alex-pretti-shooting",
+        "summary": "President says his administration is reviewing fatal shooting as Republicans and Democrats criticize ICE surgeUS politics live  latest updatesDonald Trumps efforts to deploy militarized immigration ag...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 85,
         "sentiment": "Positive",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "outrage mounts",
+            "alex pretti",
+            "surgeus politics"
+        ]
+    },
+    {
+        "title": "Seven killed and one injured after private jet crash in Maine during winter storm",
+        "link": "https://www.theguardian.com/us-news/2026/jan/26/private-aircraft-crashes-maine-winter-storm",
+        "summary": "Aircraft crashed at airport in Bangor, which has received about 10in of snow as deadly storm pummels USSeven people were killed and a crew member survived with serious injuries when a private business...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 34,
+        "sentiment": "Neutral",
+        "date": "2026-01-26",
+        "image_url": null,
+        "keywords": [
+            "private jet crash",
+            "winter storm aircraft",
+            "storm pummels"
+        ]
+    },
+    {
+        "title": "US gripped by severe winter storm with snow, ice and plunging temperatures \u2013 as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/jan/26/us-winter-storms-snow-ice-freezing-latest-news-updates",
+        "summary": "Many alerts remain in place with power outages in some regionsUS winter storm: at least 15 people dead and 800,000 without powerTell us: have you been affected by the US storm?Here are some photos tha...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Negative",
         "date": "2026-01-26",
         "image_url": null,
         "keywords": [
             "severe winter storm",
             "temperatures \u2013",
             "power outages"
-        ]
-    },
-    {
-        "title": "US families face \u2018impossible choices\u2019 as White House pushes to freeze childcare funding",
-        "link": "https://www.theguardian.com/us-news/2026/jan/26/trump-administration-childcare-funding-freeze",
-        "summary": "Childcare workers push back on Trump administrations ridiculous narrative that programs are riddled with fraudUS families are facing impossible choices as the Trump administration pushes to freeze fed...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 63,
-        "sentiment": "Negative",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "us families",
-            "impossible choices \u2019",
-            "white house pushes"
-        ]
-    },
-    {
-        "title": "Fraud focus: why is Trump granting clemency to convicted fraudsters?",
-        "link": "https://www.theguardian.com/us-news/2026/jan/26/why-trump-pardons-fraud-clemency",
-        "summary": "Pardons come as president and Republicans seem intent on investigating fraud in Democratic-run statesDonald Trumps mass pardoning of those convicted in connection to the January 6 insurrection raised ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 28,
-        "sentiment": "Positive",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "particular focus",
-            "white-collar crimes",
-            "reading ..."
-        ]
-    },
-    {
-        "title": "Donald Trump says his administration is reviewing Alex Pretti shooting",
-        "link": "https://www.theguardian.com/us-news/2026/jan/26/donald-trump-administration-reviewing-alex-pretti-shooting",
-        "summary": "President declines to say whether federal officer who shot nurse acted appropriately as outrage mounts over killingUS politics live  latest updatesDonald Trump has declined to say whether the federal ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 53,
-        "sentiment": "Positive",
-        "date": "2026-01-26",
-        "image_url": null,
-        "keywords": [
-            "donald trump",
-            "alex pretti",
-            "federal officer"
         ]
     }
 ]
