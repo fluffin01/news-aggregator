@@ -737,19 +737,6 @@
         ]
     },
     {
-        "title": "Lord Mandelson resigns from Labour Party over Epstein links",
-        "link": "https://www.bbc.com/news/articles/cn8jm2vpve1o?at_medium=RSS&at_campaign=rss",
-        "summary": "The former cabinet minister says he does not want to \"cause further embarrassment\" by his links to the late convicted paedophile.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "cabinet minister"
-        ]
-    },
-    {
         "title": "'Do you think you're the devil himself?' Epstein questioned in newly released interview",
         "link": "https://www.bbc.com/news/videos/cx20zqw7v9ko?at_medium=RSS&at_campaign=rss",
         "summary": "The footage, which is part of millions of files released by the US Department of Justice, shows the late sex offender being questioned by an unnamed interviewer.",
@@ -777,67 +764,80 @@
         ]
     },
     {
-        "title": "Iran's supreme leader warns of regional war if US attacks",
-        "link": "https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Trump earlier said Iran - which is due to begin a live-fire naval exercise in a key shipping route - was in \"serious discussions\".",
+        "title": "Men covertly filming women at night and profiting from footage, BBC finds",
+        "link": "https://www.bbc.com/news/articles/c9wxx97jlveo?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC went undercover to investigate an industry where women are filmed at night without their knowledge.",
         "source": "BBC News",
-        "objectivity_score": 63,
-        "sentiment": "Negative",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-02-02",
         "image_url": null,
         "keywords": [
-            "supreme leader warns",
-            "regional war",
-            "us attacks"
+            "news"
         ]
     },
     {
-        "title": "Ros\u00e9 and Bruno Mars kick off Grammy Awards",
+        "title": "Bad Bunny makes Grammy history as he wins best album",
         "link": "https://www.bbc.com/news/articles/ce8g7q4ymrvo?at_medium=RSS&at_campaign=rss",
-        "summary": "The ceremony is underway, with Bad Bunny, Lady Gaga and Kendrick Lamar among the main nominees.",
+        "summary": "Other prizes went to Billie Eilish, Olivia Dean and Lady Gaga, at a ceremony dominated by politics.",
         "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 38,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "billie eilish",
+            "olivia dean"
+        ]
+    },
+    {
+        "title": "Stars hit red carpet at Grammy Awards show",
+        "link": "https://www.bbc.com/news/articles/cqj2kyp29l7o?at_medium=RSS&at_campaign=rss",
+        "summary": "A collection of some of the best looks from Sunday's awards in Los Angeles.",
+        "source": "BBC News",
+        "objectivity_score": 15,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "red carpet",
+            "grammy awards",
+            "'s awards"
+        ]
+    },
+    {
+        "title": "'Enemy' insults and questioning Putin: Steve Rosenberg on tightrope of reporting from Russia",
+        "link": "https://www.bbc.com/news/articles/c20g25w8j0xo?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC's Russia editor reflects on the difficulties of working as a British journalist in Moscow.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "steve rosenberg",
+            "editor reflects",
+            "british journalist"
+        ]
+    },
+    {
+        "title": "AI 'slop' is transforming social media - and a backlash is brewing",
+        "link": "https://www.bbc.com/news/articles/c9wx2dz2v44o?at_medium=RSS&at_campaign=rss",
+        "summary": "Social media has been flooded with fake, AI-generated images and videos. But will the majority of users actually care?",
+        "source": "BBC News",
+        "objectivity_score": 30,
         "sentiment": "Negative",
         "date": "2026-02-02",
         "image_url": null,
         "keywords": [
-            "bruno mars",
-            "grammy awards",
-            "kendrick lamar"
-        ]
-    },
-    {
-        "title": "Families take legal action after British tourists die following Cape Verde holiday illness",
-        "link": "https://www.bbc.com/news/articles/c3015q8jqero?at_medium=RSS&at_campaign=rss",
-        "summary": "A law firm says it is representing the families of six people who holidayed in Cape Verde.",
-        "source": "BBC News",
-        "objectivity_score": 16,
-        "sentiment": "Neutral",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "legal action",
-            "british tourists",
-            "holiday illness"
-        ]
-    },
-    {
-        "title": "Twelve miners killed by Russian strike in Ukraine, officials say",
-        "link": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
-        "summary": "Fifteen others were reported injured in the strike near a bus carrying the workers on Sunday.",
-        "source": "BBC News",
-        "objectivity_score": 13,
-        "sentiment": "Neutral",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "twelve"
+            "social media",
+            "social media"
         ]
     },
     {
         "title": "Kennedy Center to close for two years for renovations, Trump says",
         "link": "https://www.bbc.com/news/articles/c1ev53zyww2o?at_medium=RSS&at_campaign=rss",
-        "summary": "The move follows several artists cancelling performances at the storied institution after it was recently renamed as the Trump Kennedy Center.",
+        "summary": "The move follows several artists cancelling performances after it was recently renamed the Trump Kennedy Center.",
         "source": "BBC News",
         "objectivity_score": 11,
         "sentiment": "Neutral",
@@ -863,6 +863,19 @@
         ]
     },
     {
+        "title": "Twelve miners killed by Russian strike in Ukraine, officials say",
+        "link": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
+        "summary": "Fifteen others were reported injured in the strike near a bus carrying the workers on Sunday.",
+        "source": "BBC News",
+        "objectivity_score": 13,
+        "sentiment": "Neutral",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "twelve"
+        ]
+    },
+    {
         "title": "Aspiring Nigerian singer dies after being bitten by a snake",
         "link": "https://www.bbc.com/news/articles/c77k0nlvx3yo?at_medium=RSS&at_campaign=rss",
         "summary": "Ifunanya Nwangene, a former contestant in The Voice Nigeria, died after not getting the antivenom she needed.",
@@ -878,54 +891,26 @@
         ]
     },
     {
-        "title": "Iranian protester Erfan Soltani released on bail, reports say",
-        "link": "https://www.bbc.com/news/articles/ceqz8r2j24do?at_medium=RSS&at_campaign=rss",
-        "summary": "Reports in January had said he was due to be executed after his arrest in connection with anti-government protests.",
+        "title": "Watch: the must-see moments from the 2026 Grammy Awards",
+        "link": "https://www.bbc.com/news/videos/c5yve4828l4o?at_medium=RSS&at_campaign=rss",
+        "summary": "From 'ICE out' to Cher forgetting her lines, watch the best moments from this year's ceremony.",
         "source": "BBC News",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "erfan soltani",
-            "anti-government protests"
-        ]
-    },
-    {
-        "title": "Parents of girl, 7, swept out to sea on holiday speak of 'unbearable pain'",
-        "link": "https://www.bbc.com/news/articles/cedw7y680e6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Tasneem and Zubair Makda say they are \"forever changed\" since their daughter was swept away by a wave.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "'unbearable pain",
-            "zubair makda"
-        ]
-    },
-    {
-        "title": "Stars hit red carpet at Grammy Awards show",
-        "link": "https://www.bbc.com/news/articles/cqj2kyp29l7o?at_medium=RSS&at_campaign=rss",
-        "summary": "A collection of some of the best looks from Sunday's awards in Los Angeles.",
-        "source": "BBC News",
-        "objectivity_score": 15,
+        "objectivity_score": 30,
         "sentiment": "Positive",
         "date": "2026-02-02",
         "image_url": null,
         "keywords": [
-            "red carpet",
+            "must-see moments",
             "grammy awards",
-            "'s awards"
+            "year 's ceremony"
         ]
     },
     {
-        "title": "Winners and nominees at the 2026 Grammy Awards - updating live",
+        "title": "All the winners at the 2026 Grammy Awards",
         "link": "https://www.bbc.com/news/articles/czx1z0qwy77o?at_medium=RSS&at_campaign=rss",
-        "summary": "An updating guide to the main prizes at Sunday's 68th Grammy Awards in Los Angeles.",
+        "summary": "A guide to the main prizes at Sunday's 68th Grammy Awards in Los Angeles.",
         "source": "BBC News",
-        "objectivity_score": 41,
+        "objectivity_score": 33,
         "sentiment": "Positive",
         "date": "2026-02-02",
         "image_url": null,
@@ -936,33 +921,63 @@
         ]
     },
     {
-        "title": "Watch: the best looks of the 2026 Grammy Awards",
-        "link": "https://www.bbc.com/news/videos/ckgv0dj20w8o?at_medium=RSS&at_campaign=rss",
-        "summary": "'High Fashion' from stars such as Addison Rae, Olivia Dean, and more.",
-        "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "grammy awards",
-            "'high fashion",
-            "addison rae"
-        ]
-    },
-    {
-        "title": "KPop Demon Hunters make history with early Grammy award",
+        "title": "Golden becomes the first K-Pop song to win a Grammy",
         "link": "https://www.bbc.com/news/articles/c931vdngdd2o?at_medium=RSS&at_campaign=rss",
         "summary": "The Cure, Yungblud and FKA Twigs are the first British winners on the night in Los Angeles.",
         "source": "BBC News",
-        "objectivity_score": 21,
+        "objectivity_score": 31,
         "sentiment": "Positive",
         "date": "2026-02-02",
         "image_url": null,
         "keywords": [
-            "kpop demon hunters",
             "fka twigs",
-            "british winners"
+            "british winners",
+            "los angeles"
+        ]
+    },
+    {
+        "title": "How Olivia Dean was crowned as the year's most exciting new artist",
+        "link": "https://www.bbc.com/news/articles/c1ev567ly7qo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Londoner confirmed her status as one of the pop world's biggest breakout stars in LA on Sunday.",
+        "source": "BBC News",
+        "objectivity_score": 68,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "olivia dean",
+            "year 's",
+            "exciting new artist"
+        ]
+    },
+    {
+        "title": "Did Beyonc\u00e9 split country music in two?",
+        "link": "https://www.bbc.com/news/articles/c4g0v77ee5lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Cowboy Carter winning the Grammy's country album of the year last year sent shockwaves through the industry.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "country music",
+            "cowboy carter",
+            "'s country album"
+        ]
+    },
+    {
+        "title": "Syria's only female minister pushes for change: 'I'm not here for window dressing'",
+        "link": "https://www.bbc.com/news/articles/cj0n3j16p8lo?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC's Lyse Doucet follows Hind Kabawat as she confronts the challenges of fragmented, post-Assad Syria.",
+        "source": "BBC News",
+        "objectivity_score": 58,
+        "sentiment": "Neutral",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "only female minister pushes",
+            "lyse doucet",
+            "hind kabawat"
         ]
     },
     {
@@ -1006,21 +1021,6 @@
             "'s snakebite crisis",
             "new report",
             "healthcare workers"
-        ]
-    },
-    {
-        "title": "Syria's only female minister pushes for change: 'I'm not here for window dressing'",
-        "link": "https://www.bbc.com/news/articles/cj0n3j16p8lo?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC's Lyse Doucet follows Hind Kabawat as she confronts the challenges of fragmented, post-Assad Syria.",
-        "source": "BBC News",
-        "objectivity_score": 58,
-        "sentiment": "Neutral",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "only female minister pushes",
-            "lyse doucet",
-            "hind kabawat"
         ]
     },
     {
@@ -1148,18 +1148,33 @@
         ]
     },
     {
-        "title": "Drugs policy approach needs to change, Polanski says",
-        "link": "https://www.bbc.com/news/articles/ce8g7ymq959o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Green Party leader of England and Wales says there needs to be a \"public health approach\" as he reiterates his backing for the legalisation of drugs.",
+        "title": "Gold and silver plunge deepens after Friday's losses",
+        "link": "https://www.bbc.com/news/articles/cpdy0y3jle4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Precious metals hit record highs in late January as investors flocked to the so-called safe haven assets.",
         "source": "BBC News",
-        "objectivity_score": 18,
+        "objectivity_score": 70,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "silver plunge deepens",
+            "'s losses",
+            "record highs"
+        ]
+    },
+    {
+        "title": "Families take legal action after British tourists die following Cape Verde holiday illness",
+        "link": "https://www.bbc.com/news/articles/c3015q8jqero?at_medium=RSS&at_campaign=rss",
+        "summary": "A law firm says it is representing the families of six people who holidayed in Cape Verde.",
+        "source": "BBC News",
+        "objectivity_score": 16,
         "sentiment": "Neutral",
         "date": "2026-02-02",
         "image_url": null,
         "keywords": [
-            "policy approach needs",
-            "green party leader",
-            "public health approach"
+            "legal action",
+            "british tourists",
+            "holiday illness"
         ]
     },
     {
@@ -1178,6 +1193,36 @@
         ]
     },
     {
+        "title": "China executes four more Myanmar mafia members",
+        "link": "https://www.bbc.com/news/articles/cg4e9eqz4rxo?at_medium=RSS&at_campaign=rss",
+        "summary": "China has executed four members of the Bai family mafia, which ran scam centres in Myanmar, state media report.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "mafia members",
+            "family mafia",
+            "scam centres"
+        ]
+    },
+    {
+        "title": "Iran's supreme leader warns of regional war if US attacks",
+        "link": "https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Trump earlier said Iran - which is due to begin a live-fire naval exercise in a key shipping route - was in \"serious discussions\".",
+        "source": "BBC News",
+        "objectivity_score": 63,
+        "sentiment": "Negative",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "supreme leader warns",
+            "regional war",
+            "us attacks"
+        ]
+    },
+    {
         "title": "Boy, 5, and father detained by ICE return to Minnesota after release",
         "link": "https://www.bbc.com/news/articles/cwynzw7jd4go?at_medium=RSS&at_campaign=rss",
         "summary": "The boy was released on the order of a judge who said his detention was \"cruel\" and \"bereft of human decency.",
@@ -1188,51 +1233,6 @@
         "image_url": null,
         "keywords": [
             "human decency"
-        ]
-    },
-    {
-        "title": "Families take legal action over nursery worker's abuse",
-        "link": "https://www.bbc.com/news/articles/ce8reg33mjmo?at_medium=RSS&at_campaign=rss",
-        "summary": "A total of 46 families are now seeking \"full accountability\" from a north London nursery over the abuse one its former workers carried out.",
-        "source": "BBC News",
-        "objectivity_score": 32,
-        "sentiment": "Positive",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "legal action",
-            "nursery worker 's abuse",
-            "full accountability"
-        ]
-    },
-    {
-        "title": "Israel to ban medical charity from working in Gaza over refusal to provide staff list",
-        "link": "https://www.bbc.com/news/articles/cvg1ymmkpkro?at_medium=RSS&at_campaign=rss",
-        "summary": "Medical charity Medicine Sans Frontires said it would not share the list as it had not been able to ensure staff would remain safe.",
-        "source": "BBC News",
-        "objectivity_score": 28,
-        "sentiment": "Positive",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "medical charity",
-            "staff list",
-            "medical charity"
-        ]
-    },
-    {
-        "title": "Venezuela releases rights activist Javier Tarazona",
-        "link": "https://www.bbc.com/news/articles/cgqedv5elzpo?at_medium=RSS&at_campaign=rss",
-        "summary": "It is latest in a series of prisoner releases announced by the government amid US pressure for reforms.",
-        "source": "BBC News",
-        "objectivity_score": 90,
-        "sentiment": "Positive",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "releases rights activist",
-            "javier tarazona",
-            "prisoner releases"
         ]
     },
     {
@@ -1308,6 +1308,21 @@
         ]
     },
     {
+        "title": "'Why I loved a deadline day deal'",
+        "link": "https://www.bbc.com/sport/football/articles/cly3wj02vlno?at_medium=RSS&at_campaign=rss",
+        "summary": "In his BBC Sport column, ex-Premier League boss Tony Pulis explains why the right deadline day signing can transform your team's fortunes, but sometimes it is not just about the effect a deal has on t...",
+        "source": "BBC News",
+        "objectivity_score": 66,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "deadline day",
+            "bbc sport",
+            "ex-premier league boss"
+        ]
+    },
+    {
         "title": "Is Carrick proving Amorim's Man Utd tenure was a wasted year?",
         "link": "https://www.bbc.com/sport/football/articles/cn9zwy2x4q4o?at_medium=RSS&at_campaign=rss",
         "summary": "A third win in a row for Michael Carrick highlights the failures of Ruben Amorim's time at Manchester United.",
@@ -1320,6 +1335,21 @@
             "'s man",
             "michael carrick",
             "ruben amorim"
+        ]
+    },
+    {
+        "title": "How does January window compare and what could happen on deadline day?",
+        "link": "https://www.bbc.com/sport/football/articles/c701gy85d4ko?at_medium=RSS&at_campaign=rss",
+        "summary": "With transfer deadline day approaching, how does the January window compare to previous years and what could still happen?",
+        "source": "BBC News",
+        "objectivity_score": 8,
+        "sentiment": "Neutral",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "deadline day",
+            "deadline day",
+            "previous years"
         ]
     },
     {
@@ -1365,34 +1395,6 @@
             "tennis immortality",
             "key statistics",
             "carlos alcaraz"
-        ]
-    },
-    {
-        "title": "'Not often you can write Arsenal history' - Gunners win Champions Cup",
-        "link": "https://www.bbc.com/sport/football/articles/cn8jm4mmk8no?at_medium=RSS&at_campaign=rss",
-        "summary": "The inaugural Women's Champions Cup delivered the kind of spectacle Fifa would have hoped for when launching the new inter-continental competition last March.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "new inter-continental competition"
-        ]
-    },
-    {
-        "title": "Rose sets tournament record in dominant Torrey Pines win",
-        "link": "https://www.bbc.com/sport/golf/articles/c74wk9g2272o?at_medium=RSS&at_campaign=rss",
-        "summary": "England's Justin Rose clinches an utterly dominant win at the Farmers Insurance Open in a new tournament record score.",
-        "source": "BBC News",
-        "objectivity_score": 66,
-        "sentiment": "Positive",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "tournament record",
-            "torrey pines",
-            "justin rose"
         ]
     },
     {
@@ -1600,6 +1602,62 @@
         ]
     },
     {
+        "title": "How a Village in Italy Became a Slice of Caracas",
+        "link": "https://www.nytimes.com/2026/02/02/world/americas/italy-marina-di-camerota-venezuela-migrants.html",
+        "summary": "Generations of migrants from a village on the coast of southern Italy found a better life in Venezuela. Many came back and turned their town into a mini-Caracas.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "italy became",
+            "caracas generations"
+        ]
+    },
+    {
+        "title": "Laura Fern\u00e1ndez Wins Costa Rican Presidency",
+        "link": "https://www.nytimes.com/2026/02/01/world/americas/costa-rica-election-fernandez.html",
+        "summary": "Laura Fernndezs victory was driven by a crisis in which Costa Ricas reputation for peace has been tarred by record-breaking violence.",
+        "source": "NYT > World News",
+        "objectivity_score": 20,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "laura fern\u00e1ndez wins costa rican presidency laura fernndezs",
+            "costa ricas"
+        ]
+    },
+    {
+        "title": "Secret Filming of Women Thrives in China as Officials Silence Activists",
+        "link": "https://www.nytimes.com/interactive/2026/02/01/world/asia/telegram-china-women-sex-exploitation.html",
+        "summary": "Hidden cameras capture women in intimate moments without their consent, yet the authorities do little to stop it.",
+        "source": "NYT > World News",
+        "objectivity_score": 53,
+        "sentiment": "Negative",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "silence activists hidden",
+            "intimate moments"
+        ]
+    },
+    {
+        "title": "Oscar-Nominated Screenwriter Arrested in Iran for Criticizing Regime",
+        "link": "https://www.nytimes.com/2026/02/01/world/middleeast/iran-mehdi-mahmoudian-arrest.html",
+        "summary": "Mehdi Mahmoudian, co-writer of It Was Just an Accident, was one of several people detained after signing a letter objecting to the crackdown on protests.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "oscar-nominated screenwriter arrested",
+            "criticizing regime mehdi mahmoudian"
+        ]
+    },
+    {
         "title": "Why Targeting Iran Is Riskier Than Ousting Maduro",
         "link": "https://www.nytimes.com/2026/02/01/world/trump-iran-threats-venezuela-epstein-files.html",
         "summary": "Irans ability to strike Israel and destabilize the wider Middle East makes it a far more dangerous adversary.",
@@ -1688,62 +1746,18 @@
         ]
     },
     {
-        "title": "Good Company",
-        "link": "https://www.nytimes.com/2026/01/31/briefing/good-company.html",
-        "summary": "Lets talk about the new and old shows well be watching this winter.",
-        "source": "NYT > World News",
-        "objectivity_score": 41,
+        "title": "International law meant to limit effects of war at breaking point, study finds",
+        "link": "https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
+        "summary": "Report covering 23 conflicts over last 18 months concludes more than 100,000 civilians have been killed as war crimes rage out of controlAn authoritative survey of 23 armed conflicts over the last 18 ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
         "sentiment": "Positive",
         "date": "2026-02-02",
         "image_url": null,
         "keywords": [
-            "good company",
-            "old shows"
-        ]
-    },
-    {
-        "title": "Mark Carney Meets \u2018Heated Rivalry\u2019 Star Hudson Williams",
-        "link": "https://www.nytimes.com/2026/01/31/world/canada/carney-heated-rivalry-hudson-williams.html",
-        "summary": "Only one thing could make the TV show and cultural phenomenon Heated Rivalry more Canadian: pairing one of its stars, Hudson Williams, with Prime Minister Mark Carney in the nations capital.",
-        "source": "NYT > World News",
-        "objectivity_score": 53,
-        "sentiment": "Positive",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "mark carney meets",
-            "heated rivalry",
-            "\u2019 star"
-        ]
-    },
-    {
-        "title": "Gaza\u2019s Sick And Wounded Await a Lifeline in Rafah",
-        "link": "https://www.nytimes.com/video/world/middleeast/100000010675992/gaza-sick-wounded-rafah-crossing.html",
-        "summary": "The Rafah crossing, a key passage between Gaza and Egypt, is set to reopen after Hamas and Israel agreed to a ceasefire in October. The New York Times visited two hospitals in Gaza to meet some of the...",
-        "source": "NYT > World News",
-        "objectivity_score": 63,
-        "sentiment": "Negative",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "wounded await",
-            "key passage",
-            "medical evacuation"
-        ]
-    },
-    {
-        "title": "U.S. Allies Are Drawing Closer to China, but on Beijing\u2019s Terms",
-        "link": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
-        "summary": "As Washington unsettles its partners, Beijing is reaping diplomatic gains, without backing down on human rights, trade or security.",
-        "source": "NYT > World News",
-        "objectivity_score": 19,
-        "sentiment": "Neutral",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "drawing closer",
-            "diplomatic gains",
-            "human rights"
+            "international law",
+            "months concludes",
+            "war crimes rage"
         ]
     },
     {
@@ -1804,21 +1818,6 @@
             "military ruler vows retaliation",
             "ivory coast",
             "russian troops"
-        ]
-    },
-    {
-        "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
-        "link": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
-        "summary": "Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last weekUp to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone Harry bat...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 14,
-        "sentiment": "Neutral",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "italian authorities",
-            "cyclone harry",
-            "italian coastguard"
         ]
     },
     {
@@ -1972,18 +1971,63 @@
         ]
     },
     {
-        "title": "Australia news live: Victoria police \u2018believe strongly\u2019 that Porepunkah shooting suspect Dezi Freeman is dead",
+        "title": "Australia news live: NSW police to investigate handling of domestic violence allegations against accused Lake Cargelligo shooter",
         "link": "https://www.theguardian.com/australia-news/live/2026/feb/02/australia-news-live-desi-freeman-porepunkah-shooting-search-nationals-leadership-spill-littleproud-liberals-sussan-ley-angus-taylor-andrew-hastie-ntwnfb",
-        "summary": "Police said they have found no proof of life in their search for Freeman since he allegedly killed two police officers in August. Follow todays news liveGet our breaking news email, free app or daily ...",
+        "summary": "Follow todays news liveDavid Littleproud to meet with Sussan Ley about future of Coalition after surviving leadership challengeGet our breaking news email, free app or daily news podcastReal estate ag...",
         "source": "World news | The Guardian",
-        "objectivity_score": 34,
+        "objectivity_score": 27,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "domestic violence allegations",
+            "todays news livedavid",
+            "sussan ley"
+        ]
+    },
+    {
+        "title": "Australian snowboarder dies in ski lift accident in Japan after her backpack was caught",
+        "link": "https://www.theguardian.com/world/2026/feb/02/ski-lift-accident-japan-australian-snowboarder-dies",
+        "summary": "Woman, 22, thought to have suffered a cardiac arrest after being dragged along the snow and suspended mid-airFollow our Australia news live blog for latest updatesGet our breaking news email, free app...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "cardiac arrest",
+            "news email",
+            "free app"
+        ]
+    },
+    {
+        "title": "David Littleproud to meet with Sussan Ley about future of Coalition after surviving leadership challenge",
+        "link": "https://www.theguardian.com/australia-news/2026/feb/02/david-littleproud-nationals-coalition-sussan-ley-meeting",
+        "summary": "Nationals leader to meet with Liberal counterpart less than two weeks after spectacularly blowing up the CoalitionFollow our Australia news live blog for latest updatesGet our breaking news email, fre...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "david littleproud",
+            "sussan ley",
+            "leadership challenge"
+        ]
+    },
+    {
+        "title": "Police \u2018strongly\u2019 believe fugitive Dezi Freeman won\u2019t be found alive in search of area where gunshot was heard",
+        "link": "https://www.theguardian.com/australia-news/2026/feb/02/victoria-police-launch-new-search-for-fugitive-dezi-freeman-based-on-intelligence-derived-from-gunshot",
+        "summary": "More than 100 police and volunteers in five-day search of Mount Buffalo national park, near PorepunkahFollow our Australia news live blog for latest updatesGet our breaking news email, free app or dai...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-02-02",
         "image_url": null,
         "keywords": [
             "police \u2018",
             "dezi freeman",
-            "police officers"
+            "five-day search"
         ]
     },
     {
@@ -1999,51 +2043,6 @@
             "gina rinehart",
             "\u2019 s company",
             "$ 900k"
-        ]
-    },
-    {
-        "title": "Clive Palmer denies Steve Bannon\u2019s claim he was behind billionaire\u2019s controversial 2019 Australian election ad strategy",
-        "link": "https://www.theguardian.com/us-news/2026/feb/02/clive-palmer-denies-steve-bannons-claim-he-was-behind-billionaires-controversial-2019-australian-election-ad-strategy",
-        "summary": "Bannons claim revealed in text messages in tranche of documents released by US authorities in connection with Jeffrey EpsteinFollow our Australia news live blog for latest updatesGet our breaking news...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 55,
-        "sentiment": "Positive",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "clive palmer",
-            "steve bannon",
-            "billionaire \u2019 s"
-        ]
-    },
-    {
-        "title": "Snapchat blocks more than 400,000 Australian accounts but warns of \u2018significant gaps\u2019 in under-16s social media ban",
-        "link": "https://www.theguardian.com/australia-news/2026/feb/02/snapchat-blocks-more-than-400000-australian-accounts-but-warns-of-significant-gaps-in-under-16s-social-media-ban",
-        "summary": "Social media platform says there are still real technical limitations to accurate and dependable age verificationFollow our Australia news live blog for latest updatesGet our breaking news email, free...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "significant gaps \u2019",
-            "social media ban",
-            "social media platform"
-        ]
-    },
-    {
-        "title": "Most mortgaged homeowners won\u2019t see repayments increase if the RBA hikes interest rates this week",
-        "link": "https://www.theguardian.com/australia-news/2026/feb/02/rba-interest-rates-announcement-mortgage-repayments-australia",
-        "summary": "Those who stuck to minimum loan repayments through last years rate cuts will bear the brunt of Tuesdays anticipated hike, while those already paying extra are in a great positionFollow our Australia n...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 34,
-        "sentiment": "Positive",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "repayments increase",
-            "hikes interest rates",
-            "minimum loan repayments"
         ]
     },
     {
@@ -2272,6 +2271,36 @@
         ]
     },
     {
+        "title": "Hidden detail found in Anne Boleyn portrait was \u2018witchcraft rebuttal\u2019, say historians",
+        "link": "https://www.theguardian.com/uk-news/2026/feb/02/hidden-detail-anne-boleyn-portrait-painting-witchcraft-rebuttal-hever-rose",
+        "summary": "Exclusive: Underdrawing suggests attempt to debunk myth that former wife of Henry VIII had sixth fingerAnne Boleyns Hever Rose portrait is one of historys most iconic faces, with her B pendant, her Fr...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "anne boleyn",
+            "\u2018 witchcraft rebuttal \u2019",
+            "suggests attempt"
+        ]
+    },
+    {
+        "title": "Families call for inquiry into residential care charity that ran up \u00a31.6m debt",
+        "link": "https://www.theguardian.com/uk-news/2026/feb/02/inquiry-residential-care-charity-debt-william-blake-house",
+        "summary": "William Blake House in Northants accused of mismanagement after revelation it paid one of its own trustees 1mA group of families have called for an urgent inquiry into a charity caring for their highl...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 64,
+        "sentiment": "Positive",
+        "date": "2026-02-02",
+        "image_url": null,
+        "keywords": [
+            "residential care charity",
+            "\u00a31.6m debt",
+            "william blake"
+        ]
+    },
+    {
         "title": "Mandelson resigns from Labour to prevent \u2018further embarrassment\u2019 over Epstein links",
         "link": "https://www.theguardian.com/politics/2026/feb/01/mandelson-should-testify-before-us-congress-about-his-links-to-epstein-uk-minister-says",
         "summary": "Departure from party follows release of documents in US appearing to show Jeffrey Epstein sent former US ambassador $75,000Peter Mandelson has said he has resigned his membership of the Labour party t...",
@@ -2317,33 +2346,18 @@
         ]
     },
     {
-        "title": "Parents of children abused by paedophile take legal action against London nursery",
-        "link": "https://www.theguardian.com/society/2026/feb/01/parents-of-children-abused-by-paedophile-take-legal-action-against-london-nursery",
-        "summary": "Families allege Bright Horizons brushed concerns aside allowing Vincent Chan to commit dozens of offencesFamilies of victims of a paedophile are taking legal action against a north London nursery wher...",
+        "title": "Monday briefing: the community solidarity driving the fightback against ICE in Minneapolis",
+        "link": "https://www.theguardian.com/world/2026/feb/02/monday-briefing-the-community-solidarity-driving-the-fightback-against-ice-in-minneapolis",
+        "summary": "In todays newsletter: Public outrage has reached fever pitch across the states following the killing of US citizens. But, amid the focus on violence, another story of mutual aid and neighbourhood orga...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Positive",
+        "objectivity_score": 37,
+        "sentiment": "Neutral",
         "date": "2026-02-02",
         "image_url": null,
         "keywords": [
-            "legal action",
-            "bright horizons",
-            "vincent chan"
-        ]
-    },
-    {
-        "title": "C of E bishops criticise UK inaction over Israel\u2019s \u2018West Bank de facto annexation\u2019",
-        "link": "https://www.theguardian.com/world/2026/feb/01/bishops-criticise-uk-inaction-israel-west-bank-de-facto-annexation",
-        "summary": "Three bishops accuse British government of contributing to culture of impunity in the occupied territoryThree prominent Church of England bishops have accused the UK government of contributing to a cu...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Positive",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "bishops criticise",
-            "west bank",
-            "annexation \u2019"
+            "community solidarity",
+            "todays newsletter",
+            "public outrage"
         ]
     },
     {
@@ -2404,21 +2418,6 @@
             "federal agents",
             "alex pretti jesus ochoa",
             "raymundo gutierrez"
-        ]
-    },
-    {
-        "title": "Bomb cyclone brings freezing temperatures and snow to millions in US",
-        "link": "https://www.theguardian.com/us-news/2026/feb/01/bomb-cyclone-snow-cold-weather-storm-us",
-        "summary": "About 150m faced cold weather advisories along eastern US, and two in North Carolina died in storm-related conditionsA bomb cyclone produced freezing temperatures across a large portion of the US from...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 55,
-        "sentiment": "Negative",
-        "date": "2026-02-02",
-        "image_url": null,
-        "keywords": [
-            "cold weather advisories",
-            "eastern us",
-            "conditionsa bomb cyclone"
         ]
     }
 ]
