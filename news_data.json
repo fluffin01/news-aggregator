@@ -737,18 +737,33 @@
         ]
     },
     {
-        "title": "US and Iran talks to begin as fears of direct conflict continue",
-        "link": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US has built up its military presence in the Middle East in response to Iran's violent crackdown on protests.",
+        "title": "The stage is set for the greatest show on Earth - your essential guide to the Winter Olympics",
+        "link": "https://www.bbc.com/sport/articles/cj0nl5g83zlo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Winter Olympics opening ceremony takes place on Friday, and for the 16 days that follow many eyes of sport lovers worldwide will be focused on the Milan-Cortina Games.",
         "source": "BBC News",
-        "objectivity_score": 37,
+        "objectivity_score": 60,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "winter olympics",
+            "winter olympics",
+            "sport lovers worldwide"
+        ]
+    },
+    {
+        "title": "Sir Elton calls press intrusion into his baby son 'truly sickening'",
+        "link": "https://www.bbc.com/news/articles/cly1yl5d5xlo?at_medium=RSS&at_campaign=rss",
+        "summary": "The musician says his privacy was breached in relation to health issues and the birth of his son.",
+        "source": "BBC News",
+        "objectivity_score": 100,
         "sentiment": "Negative",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "direct conflict",
-            "military presence",
-            "violent crackdown"
+            "sir elton",
+            "calls press intrusion",
+            "baby son"
         ]
     },
     {
@@ -767,23 +782,180 @@
         ]
     },
     {
-        "title": "Number of homeless refugees in England soars, BBC finds",
-        "link": "https://www.bbc.com/news/articles/cy9y3n43192o?at_medium=RSS&at_campaign=rss",
-        "summary": "Analysis of government data shows numbers increased from 3,560 in 2021/22 to 19,310 in 2024/25.",
+        "title": "Russian general shot several times in Moscow",
+        "link": "https://www.bbc.com/news/articles/c3686nzexp3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Lt Gen Vladimir Alexeyev is a senior figure in the main directorate of Russia's military general staff.",
+        "source": "BBC News",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "russian general shot",
+            "moscow lt gen vladimir alexeyev",
+            "senior figure"
+        ]
+    },
+    {
+        "title": "More baby formula products recalled over toxin fears",
+        "link": "https://www.bbc.com/news/articles/cn424v43q5vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Danone has recalled 15 more batches of Aptamil and Cow&Gate first infant milk because a toxin called cereulide may be present.",
+        "source": "BBC News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "baby formula products",
+            "toxin fears",
+            "infant milk"
+        ]
+    },
+    {
+        "title": "TV licence fee to rise by \u00a35.50 to \u00a3180 from April",
+        "link": "https://www.bbc.com/news/articles/cddgd0m4de9o?at_medium=RSS&at_campaign=rss",
+        "summary": "The cost of a TV licence currently increases in line with inflation each year until 2027.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "tv licence fee",
+            "tv licence"
+        ]
+    },
+    {
+        "title": "TikTok told to change 'addictive design' by EU or face massive fines",
+        "link": "https://www.bbc.com/news/articles/cr7j7n315lmo?at_medium=RSS&at_campaign=rss",
+        "summary": "TikTok says it plans to challenge the \"categorically false and entirely meritless\" accusations.",
+        "source": "BBC News",
+        "objectivity_score": 78,
+        "sentiment": "Negative",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "'addictive design",
+            "massive fines"
+        ]
+    },
+    {
+        "title": "The two-stage vetting process that saw Mandelson appointed as US ambassador",
+        "link": "https://www.bbc.com/news/articles/cj0n5700nrpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The PM has accused Lord Mandelson of lying throughout the process - but what did it involve?",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "homeless refugees",
-            "government data shows numbers"
+            "us ambassador"
+        ]
+    },
+    {
+        "title": "Head of firm founded by Mandelson to quit",
+        "link": "https://www.bbc.com/news/articles/cje1e3n8jgvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Benjamin Wegg-Prosser concluded his association with Lord Mandelson - and references to them both in the Epstein files - was doing the business Global Counsel harm.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "benjamin wegg-prosser",
+            "global counsel"
+        ]
+    },
+    {
+        "title": "The household names that appear in the files",
+        "link": "https://www.bbc.com/news/articles/cqxynz2l0g2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Millions of Epstein-related documents released by the US justice department include the names of the world's rich and powerful.",
+        "source": "BBC News",
+        "objectivity_score": 87,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "household names",
+            "us justice department",
+            "world 's"
+        ]
+    },
+    {
+        "title": "Naked images remained in Epstein files despite outcry",
+        "link": "https://www.bbc.com/news/articles/c5yd10yp2m1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Four images seen by BBC Verify show partially clothed women with their faces and bodies unredacted.",
+        "source": "BBC News",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "bbc verify"
+        ]
+    },
+    {
+        "title": "Watch: Julia Donaldson reveals new character and title for third Gruffalo book",
+        "link": "https://www.bbc.com/news/articles/ckgkmljj6dvo?at_medium=RSS&at_campaign=rss",
+        "summary": "The upcoming edition of the popular children's picture book sees the introduction of Gruffalo Granny.",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "julia donaldson",
+            "new character",
+            "popular children 's picture book"
+        ]
+    },
+    {
+        "title": "Olive oil and bone broth: Do viral gut health foods actually work?",
+        "link": "https://www.bbc.com/news/articles/cddg81yq6q2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Many trending foods contain a \"small seed of truth\" but are often oversold as miracle products.",
+        "source": "BBC News",
+        "objectivity_score": 33,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "bone broth",
+            "viral gut health foods",
+            "small seed"
+        ]
+    },
+    {
+        "title": "Margot Robbie and Jacob Elordi brave London rain for Wuthering Heights premiere",
+        "link": "https://www.bbc.com/news/articles/c07xyp5rxl3o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Australian actor is starring opposite Margot Robbie in new film, Wuthering Heights, set in Yorkshire.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "margot robbie",
+            "jacob elordi",
+            "margot robbie"
+        ]
+    },
+    {
+        "title": "Weekly quiz: How did this boxer lose his hair during a fight?",
+        "link": "https://www.bbc.com/news/articles/c801z0j593jo?at_medium=RSS&at_campaign=rss",
+        "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+        "source": "BBC News",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "weekly"
         ]
     },
     {
         "title": "US healthcare needs fixing, but there's no agreement on how to do it",
         "link": "https://www.bbc.com/news/articles/cn0k6d6z7j3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Is there the political will to fix it the US' health horror stories?",
+        "summary": "Is there the political will to fix the US health horror stories?",
         "source": "BBC News",
         "objectivity_score": 10,
         "sentiment": "Neutral",
@@ -791,36 +963,20 @@
         "image_url": null,
         "keywords": [
             "us healthcare needs",
-            "health horror stories"
+            "us health horror stories"
         ]
     },
     {
-        "title": "Jacob Elordi: I practised my Northern accent in the bath",
-        "link": "https://www.bbc.com/news/articles/c07xyp5rxl3o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Australian actor is starring opposite Margot Robbie in new film, Wuthering Heights, set in Yorkshire.",
+        "title": "Gen Z aren't lazy - I commute four hours a day to work in the office",
+        "link": "https://www.bbc.com/news/articles/c62ng00xp9lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Lily-May Edwards travels two hours each way from north Wales to Liverpool to work in the office.",
         "source": "BBC News",
-        "objectivity_score": 15,
-        "sentiment": "Neutral",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "jacob elordi",
-            "northern accent",
-            "margot robbie"
-        ]
-    },
-    {
-        "title": "Statin pills much safer than advertised, major review finds",
-        "link": "https://www.bbc.com/news/articles/c80142p2g00o?at_medium=RSS&at_campaign=rss",
-        "summary": "The results, in The Lancet journal, come from trials involving more than 120,000 people comparing statins with a dummy drug or placebo.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "major review",
-            "dummy drug"
+            "lily-may edwards"
         ]
     },
     {
@@ -839,300 +995,164 @@
         ]
     },
     {
-        "title": "Three African countries agree to UK migrant returns after visa penalty threat",
-        "link": "https://www.bbc.com/news/articles/cp8204g8lejo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Democratic Republic of Congo, Namibia and Angola have said they will cooperate on migrant returns.",
+        "title": "Mariah Carey and more curling -  guide to Friday's action",
+        "link": "https://www.bbc.com/sport/articles/c338y36kngzo?at_medium=RSS&at_campaign=rss",
+        "summary": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "mariah carey",
+            "'s action",
+            "winter olympics"
+        ]
+    },
+    {
+        "title": "Winter Olympics 2026",
+        "link": "https://www.bbc.co.uk/iplayer/episode/m002r1lw?at_medium=RSS&at_campaign=rss",
+        "summary": "Coverage of the team event in the figure skating competition at the 2026 Winter Olympics.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "migrant returns",
-            "visa penalty threat",
-            "democratic republic"
+            "winter olympics",
+            "team event",
+            "winter olympics"
         ]
     },
     {
-        "title": "Trump backs Chagos handover deal, says No 10",
-        "link": "https://www.bbc.com/news/articles/c5yx1wedww2o?at_medium=RSS&at_campaign=rss",
-        "summary": "It comes after the US president suggested last month he could withdraw his support for the deal.",
+        "title": "Spanish skater given Minions music permission",
+        "link": "https://www.bbc.com/sport/articles/c70104j7zdlo?at_medium=RSS&at_campaign=rss",
+        "summary": "After days of legal wrangling and online outcry, the Minion - Spanish figure skater Tomas-Llorenc Guarino Sabate - will skate in Milan after all.",
         "source": "BBC News",
         "objectivity_score": 6,
         "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "us president"
+            "spanish skater",
+            "music permission",
+            "online outcry"
         ]
     },
     {
-        "title": "Increase school funding to meet need for special education, MPs urge",
-        "link": "https://www.bbc.com/news/articles/czjg8j4g981o?at_medium=RSS&at_campaign=rss",
-        "summary": "A cross-party group calls on the government to \"align funding to need\", as ministers consider SEND reforms.",
-        "source": "BBC News",
-        "objectivity_score": 57,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "special education",
-            "cross-party group calls"
-        ]
-    },
-    {
-        "title": "US police believe news anchor's missing mother is 'still out there'",
-        "link": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Nancy Guthrie's family post their second video message this week appealing for the 84-year-old's release.",
-        "source": "BBC News",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "us police",
-            "news anchor 's",
-            "nancy guthrie"
-        ]
-    },
-    {
-        "title": "What was the vetting process for Mandelson's appointment as US ambassador?",
-        "link": "https://www.bbc.com/news/articles/cj0n5700nrpo?at_medium=RSS&at_campaign=rss",
-        "summary": "The PM has accused Lord Mandelson of lying throughout the process - but what did it involve?",
+        "title": "Quiz: Can you name every Winter Olympics host city?",
+        "link": "https://www.bbc.com/sport/articles/c1lz60rgg80o?at_medium=RSS&at_campaign=rss",
+        "summary": "The 25th Winter Olympics is taking place in Milan and Cortina in Italy and will feature a record 116 medal events.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "'s appointment",
-            "us ambassador"
+            "winter olympics",
+            "host city",
+            "winter olympics"
         ]
     },
     {
-        "title": "Could this be the beginning of the end for Starmer?",
-        "link": "https://www.bbc.com/news/articles/c338g8n334mo?at_medium=RSS&at_campaign=rss",
-        "summary": "Few Labour MPs are publicly calling for Sir Keir Starmer to go but this is very serious moment for the PM.",
-        "source": "BBC News",
-        "objectivity_score": 34,
-        "sentiment": "Negative",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "few labour mps",
-            "sir keir starmer",
-            "serious moment"
-        ]
-    },
-    {
-        "title": "Norway investigates former PM Jagland over alleged Epstein links",
-        "link": "https://www.bbc.com/news/articles/cy8y6w2nl0qo?at_medium=RSS&at_campaign=rss",
-        "summary": "Police say Thorbjrn Jagland is suspected of \"aggravated corruption\", requesting for his immunity to be revoked.",
-        "source": "BBC News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "pm jagland",
-            "thorbjrn jagland"
-        ]
-    },
-    {
-        "title": "Can chia seeds and bone broth really 'heal' your gut?",
-        "link": "https://www.bbc.com/news/articles/cddg81yq6q2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Many trending foods contain a \"small seed of truth\" but are often oversold as miracle products.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "chia seeds",
-            "bone broth",
-            "small seed"
-        ]
-    },
-    {
-        "title": "The hotel ice rink producing some of the world's finest curlers",
-        "link": "https://www.bbc.com/news/articles/cq5ypxgl1l0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Three members of Team Mouat are from Stranraer - home to an ice rink built in a hotel.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "hotel ice rink",
-            "world 's",
-            "team mouat"
-        ]
-    },
-    {
-        "title": "Weekly quiz: How did this boxer lose his hair during a fight?",
-        "link": "https://www.bbc.com/news/articles/c801z0j593jo?at_medium=RSS&at_campaign=rss",
-        "summary": "How much attention did you pay to what happened in the world over the past seven days?",
-        "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "weekly"
-        ]
-    },
-    {
-        "title": "Gen Z aren't lazy - I commute four hours a day to work in the office",
-        "link": "https://www.bbc.com/news/articles/c62ng00xp9lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Lily-May Edwards travels two hours each way from north Wales to Liverpool to work in the office.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Negative",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "lily-may edwards"
-        ]
-    },
-    {
-        "title": "The Papers: 'PM battles for survival' and Rayner 'ready to go'",
-        "link": "https://www.bbc.com/news/articles/cd6w1e1e94do?at_medium=RSS&at_campaign=rss",
-        "summary": "The political fallout from the Epstein files continues to dominate the papers.",
+        "title": "Coin portrait of late Queen draws criticism in Australia",
+        "link": "https://www.bbc.com/news/articles/c70l0wzww50o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Royal Australian Mint has defended the design of the coins, which mark 100 years since Queen Elizabeth II's birth.",
         "source": "BBC News",
         "objectivity_score": 30,
-        "sentiment": "Neutral",
+        "sentiment": "Negative",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "'pm battles",
-            "political fallout"
+            "late queen draws criticism",
+            "australian mint",
+            "elizabeth ii"
         ]
     },
     {
-        "title": "For Thailand's popular progressives, winning the vote is only the first hurdle",
-        "link": "https://www.bbc.com/news/articles/cp820jrq3yvo?at_medium=RSS&at_campaign=rss",
-        "summary": "The country votes again this weekend after three years of political turmoil.",
-        "source": "BBC News",
-        "objectivity_score": 61,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "popular progressives",
-            "country votes"
-        ]
-    },
-    {
-        "title": "Artist Andy Goldsworthy on gathering gravestones: This is my best work yet",
-        "link": "https://www.bbc.com/news/articles/cx2k84zyk61o?at_medium=RSS&at_campaign=rss",
-        "summary": "For years he was overlooked by the art world - now he's been approached to create a piece for a new art prize.",
+        "title": "US and Iran hold talks as fears of direct conflict continue",
+        "link": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US has built up its military presence in the Middle East in response to Iran's violent crackdown on protests.",
         "source": "BBC News",
         "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "andy goldsworthy",
-            "gathering gravestones",
-            "art world"
-        ]
-    },
-    {
-        "title": "Louvre Museum crown left crushed but 'intact' after raid",
-        "link": "https://www.bbc.com/news/articles/cn40ev200yjo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Paris museum issues the first pictures of the crown since the theft, saying it was left \"badly deformed\".",
-        "source": "BBC News",
-        "objectivity_score": 22,
         "sentiment": "Negative",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "museum crown",
-            "museum issues"
+            "direct conflict",
+            "military presence",
+            "violent crackdown"
         ]
     },
     {
-        "title": "Meet the women protecting India's snow leopards",
-        "link": "https://www.bbc.com/news/articles/c4g05xg1qzeo?at_medium=RSS&at_campaign=rss",
-        "summary": "The women brave biting cold to count and conserve a predator once seen as a threat in their villages.",
+        "title": "Jeweller Pandora switching to platinum from silver as prices surge",
+        "link": "https://www.bbc.com/news/articles/cly3ygj7189o?at_medium=RSS&at_campaign=rss",
+        "summary": "The jeweller says it wants to reduce its exposure after the cost of the precious metal has risen.",
         "source": "BBC News",
-        "objectivity_score": 100,
+        "objectivity_score": 55,
         "sentiment": "Positive",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "'s snow leopards",
-            "women brave"
+            "jeweller pandora",
+            "prices surge",
+            "precious metal"
         ]
     },
     {
-        "title": "Ireland must 'stop rot' after Paris humbling in Six Nations opener",
-        "link": "https://www.bbc.com/sport/rugby-union/articles/c8018mgd1zxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ireland's heavy defeat by France to open the Six Nations will only further press questions raised by a lacklustre autumn.",
+        "title": "Statin pills much safer than advertised, major review finds",
+        "link": "https://www.bbc.com/news/articles/c80142p2g00o?at_medium=RSS&at_campaign=rss",
+        "summary": "The results, in The Lancet journal, come from trials involving more than 120,000 people comparing statins with a dummy drug or placebo.",
         "source": "BBC News",
-        "objectivity_score": 62,
-        "sentiment": "Neutral",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "'stop rot",
-            "heavy defeat",
-            "press questions"
+            "major review",
+            "dummy drug"
         ]
     },
     {
-        "title": "Man guilty of murdering girl, 9, playing in street",
-        "link": "https://www.bbc.com/news/articles/c07xlljn595o?at_medium=RSS&at_campaign=rss",
-        "summary": "Lilia Valutyte was playing outside a shop in Boston, Lincolnshire, when she was stabbed to death.",
-        "source": "BBC News",
-        "objectivity_score": 52,
-        "sentiment": "Negative",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "lilia valutyte"
-        ]
-    },
-    {
-        "title": "Boy, 15, arrested on suspicion of attempted murder after teacher injured at school",
-        "link": "https://www.bbc.com/news/articles/cy7mrj5k2kdo?at_medium=RSS&at_campaign=rss",
-        "summary": "The teacher has since been discharged and the teenager remains in custody, police said.",
+        "title": "Number of homeless refugees in England soars, BBC finds",
+        "link": "https://www.bbc.com/news/articles/cy9y3n43192o?at_medium=RSS&at_campaign=rss",
+        "summary": "Analysis of government data shows numbers increased from 3,560 in 2021/22 to 19,310 in 2024/25.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "boy,"
+            "homeless refugees",
+            "government data shows numbers"
         ]
     },
     {
-        "title": "Bitcoin falls to lowest level since Trump took office",
-        "link": "https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&at_campaign=rss",
-        "summary": "The price of the digital currency has dropped significantly despite President Donald Trumps public support.",
+        "title": "Fisherman fleeing elephants killed by crocodile in Zambia",
+        "link": "https://www.bbc.com/news/articles/czx1xl98qkpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The fisherman ran into a stream near the river after he and two friends encountered a herd of elephants.",
         "source": "BBC News",
-        "objectivity_score": 31,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "digital currency",
-            "donald trumps",
-            "public support"
-        ]
-    },
-    {
-        "title": "Molly-Mae Hague announces second pregnancy",
-        "link": "https://www.bbc.com/news/articles/c7v029q0p79o?at_medium=RSS&at_campaign=rss",
-        "summary": "\"Soon to be four,\" is the caption on a video showing off the TV star's baby bump.",
-        "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "molly-mae hague",
-            "tv star 's baby bump"
+            "fisherman"
+        ]
+    },
+    {
+        "title": "Anger over Alton Towers changes for visitors who are autistic or have ADHD",
+        "link": "https://www.bbc.com/news/articles/c205xky6y2go?at_medium=RSS&at_campaign=rss",
+        "summary": "New rules at Alton Towers and other Merlin attractions have seen a backlash from some customers.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Negative",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "alton towers",
+            "new rules",
+            "alton towers"
         ]
     },
     {
@@ -1180,18 +1200,33 @@
         ]
     },
     {
-        "title": "Ireland must 'stop rot' after Paris humbling",
-        "link": "https://www.bbc.com/sport/rugby-union/articles/c8018mgd1zxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ireland's heavy defeat by France to open the Six Nations will only further press questions raised by a lacklustre autumn.",
+        "title": "A timeless love story with Ryan Gosling and Rachel McAdams",
+        "link": "https://www.bbc.co.uk/iplayer/episode/m000m2hj/the-notebook?at_mid=exswMG9yUO&at_campaign=The_Notebook&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000m2hj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Notebook&at_bbc_team=BBC&at_creation=film",
+        "summary": "In the run-up to WWII, a young couple's relationship falls foul of class prejudice.",
         "source": "BBC News",
-        "objectivity_score": 62,
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "ryan gosling",
+            "rachel mcadams",
+            "young couple 's relationship"
+        ]
+    },
+    {
+        "title": "Snoop requests selfie after GB curlers shine again",
+        "link": "https://www.bbc.com/sport/articles/cg4e4yw0z20o?at_medium=RSS&at_campaign=rss",
+        "summary": "Team GB maintain their 100% record in the Winter Olympics mixed doubles with victory over Sweden.",
+        "source": "BBC News",
+        "objectivity_score": 25,
         "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "'stop rot",
-            "heavy defeat",
-            "press questions"
+            "requests selfie",
+            "curlers shine",
+            "team gb"
         ]
     },
     {
@@ -1210,92 +1245,165 @@
         ]
     },
     {
-        "title": "How penis injections became a Winter Olympic talking point",
-        "link": "https://www.bbc.com/sport/articles/czej70jyg4eo?at_medium=RSS&at_campaign=rss",
-        "summary": "The World Anti-Doping Agency could investigate if evidence emerges that male ski jumpers are injecting their penises in a bid to improve sporting performance.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "penis injections",
-            "male ski jumpers"
-        ]
-    },
-    {
-        "title": "Sutton's predictions v Gladiators star Apollo",
-        "link": "https://www.bbc.com/sport/football/articles/ce3kr07kqpeo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport football expert Chris Sutton takes on Gladiators star Apollo and AI with his predictions for this week's Premier League fixtures.",
+        "title": "Feyi-Waboso out of England's Six Nations opener",
+        "link": "https://www.bbc.com/sport/rugby-union/articles/czr4r3g2p3po?at_medium=RSS&at_campaign=rss",
+        "summary": "Wing Immanuel Feyi-Waboso is ruled out of England's Six Nations opener against Wales on Saturday after suffering a leg injury in training.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "'s predictions v",
-            "apollo bbc sport",
-            "football expert"
+            "wing immanuel feyi-waboso",
+            "leg injury"
         ]
     },
     {
-        "title": "Van Gerwen wins opening Premier League night",
-        "link": "https://www.bbc.com/sport/darts/articles/cgl8r6j3r1lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Michael van Gerwen seals victory on the 2026 Premier League's opening night by beating fellow Dutchman Gian van Veen in the final in Newcastle.",
+        "title": "Ex-players have 'duty of responsibility' as pundits - Van Dijk",
+        "link": "https://www.bbc.com/sport/football/articles/c3wzw6we5l4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Former players turned pundits have a \"duty of responsibility\" to the new generation of footballers when commenting on their performances, Liverpool captain Virgil van Dijk says.",
         "source": "BBC News",
-        "objectivity_score": 60,
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "van dijk",
+            "new generation"
+        ]
+    },
+    {
+        "title": "'Not a massive fan' - in-game adverts rile fans on Six Nations debut",
+        "link": "https://www.bbc.com/sport/rugby-union/articles/clyzy27zd0yo?at_medium=RSS&at_campaign=rss",
+        "summary": "In-game adverts made their UK television debut in Thursday night's Six Nations match between Ireland and France - to the irritation of many.",
+        "source": "BBC News",
+        "objectivity_score": 75,
         "sentiment": "Positive",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "van gerwen",
-            "premier league night",
-            "seals victory"
+            "massive fan",
+            "in-game adverts rile fans",
+            "television debut"
         ]
     },
     {
-        "title": "Leicester docked six points for financial breaches",
-        "link": "https://www.bbc.com/sport/football/articles/c5y31xk1zx0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Leicester City are docked six points by the English Football League for breaking profit and sustainability rules.",
+        "title": "Was this catch grounded? Controversy in U19 World Cup final",
+        "link": "https://www.bbc.com/sport/videos/cqxyxwwn0lro?at_medium=RSS&at_campaign=rss",
+        "summary": "India's Vihaan Malhotra is given not out on review after England bowler Farhan Ahmed grounds the ball in taking a catch off his own bowling.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 100,
+        "sentiment": "Positive",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "financial breaches",
-            "football league",
-            "sustainability rules"
+            "world cup",
+            "vihaan malhotra",
+            "farhan ahmed"
         ]
     },
     {
-        "title": "France comfortably beat Ireland in Six Nations opener",
-        "link": "https://www.bbc.com/sport/rugby-union/videos/c0er0xp0q04o?at_medium=RSS&at_campaign=rss",
-        "summary": "Ruthless France inflict more pain on Ireland as the Six Nations holders open their title defence with a bonus-point victory at a buoyant Stade de France.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "ruthless france",
-            "title defence",
-            "bonus-point victory"
-        ]
-    },
-    {
-        "title": "\u2018It\u2019s Collective Punishment\u2019: Iran Exacts Heavy Price on Protest Supporters",
-        "link": "https://www.nytimes.com/2026/02/05/world/middleeast/iran-protests-crackdown.html",
-        "summary": "The authorities are making mass arrests, seizing assets and hunting down doctors who treated protesters. Some Iranians keep showing defiance anyway.",
+        "title": "The Olympics Are a Show Of Global Harmony. The World is Anything But.",
+        "link": "https://www.nytimes.com/2026/02/06/world/europe/olympics-world-order-war.html",
+        "summary": "The Winter Games, which officially open in Italy on Friday, are rooted in international cooperation. That feels out of place to some in a world where old rules no longer apply.",
         "source": "NYT > World News",
-        "objectivity_score": 39,
+        "objectivity_score": 17,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "international cooperation",
+            "old rules"
+        ]
+    },
+    {
+        "title": "What to Expect at the Olympic Opening Ceremonies, From the Man Behind Them",
+        "link": "https://www.nytimes.com/2026/02/06/world/europe/milan-olympic-opening-ceremony-director-balich.html",
+        "summary": "Marco Balich has helped design grand spectacles at more than half a dozen Olympics. On Friday, hell do it again, on home turf in Italy.",
+        "source": "NYT > World News",
+        "objectivity_score": 59,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "opening ceremonies",
+            "them marco balich",
+            "grand spectacles"
+        ]
+    },
+    {
+        "title": "She\u2019s Upending Japanese Politics With Two Words: \u2018I\u2019m Pregnant\u2019",
+        "link": "https://www.nytimes.com/2026/02/06/world/asia/japan-election-pregnant-candidate.html",
+        "summary": "Hikaru Fujita, whos running in Sundays parliamentary election, is a standout in a country where expectant mothers rarely enter national politics.",
+        "source": "NYT > World News",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "hikaru fujita",
+            "parliamentary election",
+            "expectant mothers"
+        ]
+    },
+    {
+        "title": "U.S. and Iran Set for Talks in Oman",
+        "link": "https://www.nytimes.com/2026/02/06/world/europe/us-iran-talks-oman.html",
+        "summary": "Middle Eastern diplomats see a chance for progress on Irans nuclear program, but they are pessimistic about other U.S. demands.",
+        "source": "NYT > World News",
+        "objectivity_score": 18,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "iran set",
+            "middle eastern diplomats",
+            "nuclear program"
+        ]
+    },
+    {
+        "title": "Russian General Is Shot in Moscow",
+        "link": "https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alekseyev.html",
+        "summary": "The attack bore the hallmark of several assassination attempts on top military officers in the Russian capital.",
+        "source": "NYT > World News",
+        "objectivity_score": 18,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "attack bore",
+            "assassination attempts",
+            "military officers"
+        ]
+    },
+    {
+        "title": "Iran Is at Work on Missile and Nuclear Sites, Satellite Images Show",
+        "link": "https://www.nytimes.com/2026/02/06/world/middleeast/iran-missile-nuclear-repairs.html",
+        "summary": "Repairs at key missile sites began soon after they were hit by Israeli and U.S. strikes last year, but work at Irans nuclear facilities has been slower.",
+        "source": "NYT > World News",
+        "objectivity_score": 53,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "nuclear sites",
+            "satellite images",
+            "key missile sites"
+        ]
+    },
+    {
+        "title": "Norway Rallies Behind Royals, Despite Dismay Over Epstein Links",
+        "link": "https://www.nytimes.com/2026/02/06/world/europe/epstein-revelations-norway-royal-support.html",
+        "summary": "The future queens links to Jeffrey Epstein, and her sons rape trial, have disappointed many Norwegians. But there is still widespread support for the monarchy.",
+        "source": "NYT > World News",
+        "objectivity_score": 51,
         "sentiment": "Negative",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "collective punishment",
-            "iran exacts",
-            "protest supporters"
+            "norway rallies",
+            "epstein links",
+            "future queens links"
         ]
     },
     {
@@ -1311,6 +1419,21 @@
             "starmer apologizes",
             "ex-ambassador mandelson",
             "epstein ties newly"
+        ]
+    },
+    {
+        "title": "\u2018It\u2019s Collective Punishment\u2019: Iran Exacts Heavy Price on Protest Supporters",
+        "link": "https://www.nytimes.com/2026/02/05/world/middleeast/iran-protests-crackdown.html",
+        "summary": "The authorities are making mass arrests, seizing assets and hunting down doctors who treated protesters. Some Iranians keep showing defiance anyway.",
+        "source": "NYT > World News",
+        "objectivity_score": 39,
+        "sentiment": "Negative",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "collective punishment",
+            "iran exacts",
+            "protest supporters"
         ]
     },
     {
@@ -1372,94 +1495,6 @@
         ]
     },
     {
-        "title": "Mayor of Tequila, Mexico, Is Accused of Shaking Down Tequila Companies",
-        "link": "https://www.nytimes.com/2026/02/05/world/americas/mexico-tequila-mayor-arrested.html",
-        "summary": "The mayor of the city that is the birthplace of the bottled spirit is the latest official to be arrested as Mexico targets cartel-related corruption.",
-        "source": "NYT > World News",
-        "objectivity_score": 59,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "shaking down tequila companies"
-        ]
-    },
-    {
-        "title": "Deaths in Boat Disaster in English Channel Were Avoidable, Inquiry Finds",
-        "link": "https://www.nytimes.com/2026/02/05/world/europe/uk-migrants-boat-drowning-inquiry.html",
-        "summary": "The report blamed people smugglers and systemic failure on the part of the authorities after about 30 people drowned as they tried to reach Britain from France in 2021.",
-        "source": "NYT > World News",
-        "objectivity_score": 13,
-        "sentiment": "Negative",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "boat disaster",
-            "inquiry finds",
-            "people smugglers"
-        ]
-    },
-    {
-        "title": "\u2018My Crazy Friend\u2019: The Royals Who Stayed Close to Epstein",
-        "link": "https://www.nytimes.com/2026/02/05/world/europe/epstein-royal-friends-prince-andrew-sarah-ferguson-mette-marit.html",
-        "summary": "Emails, texts, photos and videos show how Jeffrey Epstein, even after becoming a convicted sex offender, burnished his ties to royal family members from several countries and their advisers.",
-        "source": "NYT > World News",
-        "objectivity_score": 58,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "crazy friend",
-            "royals who stayed close",
-            "epstein emails"
-        ]
-    },
-    {
-        "title": "Iranian Nobel Peace Laureate Starts New Hunger Strike in Prison",
-        "link": "https://www.nytimes.com/2026/02/05/world/middleeast/iran-narges-mohammadi-prison-hunger-strike.html",
-        "summary": "The rights activist Narges Mohammadi is protesting her continued detention, her family said. She was arrested again in December after being given leave from prison for medical treatment.",
-        "source": "NYT > World News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "iranian nobel",
-            "hunger strike",
-            "rights activist"
-        ]
-    },
-    {
-        "title": "Italy Toughens Protest Laws, Hours Before Planned Rallies at Winter Olympics",
-        "link": "https://www.nytimes.com/2026/02/05/world/europe/italy-olympics-security-law-protests.html",
-        "summary": "The restrictions could affect people demonstrating this weekend outside Olympic events in northern Italy.",
-        "source": "NYT > World News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "italy toughens protest laws",
-            "planned rallies",
-            "winter olympics"
-        ]
-    },
-    {
-        "title": "At Ukraine\u2019s Request, Starlink Denies Internet Access to Russian Troops",
-        "link": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html",
-        "summary": "Its unclear what effect the change will have on Russias ability to wage war, but Russian military bloggers said troops were experiencing internet outages that hampered frontline communications.",
-        "source": "NYT > World News",
-        "objectivity_score": 3,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "starlink denies internet access",
-            "russian military bloggers",
-            "internet outages"
-        ]
-    },
-    {
         "title": "The Louvre Thieves Dropped This Priceless Crown. Now It Looks Like This.",
         "link": "https://www.nytimes.com/2026/02/05/world/europe/louvre-heist-crown-damage-eugenie-empress.html",
         "summary": "Empress Eugnies crown was left lying on the sidewalk after the Louvre Museum heist in October. The museum has now released pictures of the damage.",
@@ -1475,51 +1510,7 @@
         ]
     },
     {
-        "title": "LA Olympics Chief Keeps Low Profile in Milan Games After Appearing in Epstein Files",
-        "link": "https://www.nytimes.com/2026/02/05/world/europe/la-olympic-games-wasserman-epstein-files.html",
-        "summary": "Casey Wasserman, who is leading preparations for the 2028 Summer Games, has expressed regret after messages he exchanged with Ghislaine Maxwell decades ago surfaced.",
-        "source": "NYT > World News",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "la olympics",
-            "keeps low profile",
-            "epstein files casey wasserman"
-        ]
-    },
-    {
-        "title": "She\u2019s Upending Japanese Politics With Two Words: \u2018I\u2019m Pregnant\u2019",
-        "link": "https://www.nytimes.com/2026/02/06/world/asia/japan-election-pregnant-candidate.html",
-        "summary": "Hikaru Fujita, whos running in Sundays parliamentary election, is a standout in a country where expectant mothers rarely enter national politics.",
-        "source": "NYT > World News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "hikaru fujita",
-            "parliamentary election",
-            "expectant mothers"
-        ]
-    },
-    {
-        "title": "The Olympics Are a Show Of Global Harmony. The World is Anything But.",
-        "link": "https://www.nytimes.com/2026/02/06/world/europe/olympics-world-order-war.html",
-        "summary": "The Winter Games, which officially open in Italy on Friday, are rooted in international cooperation. That feels out of place to some in a world where old rules no longer apply.",
-        "source": "NYT > World News",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "international cooperation",
-            "old rules"
-        ]
-    },
-    {
-        "title": "Milan Winter Olympics Opening Ceremony: How to Watch, Timing and More",
+        "title": "Milan Winter Olympics Opening Ceremony: What Time to Watch, How to Watch, and More",
         "link": "https://www.nytimes.com/2026/02/06/world/europe/milan-winter-olympics-opening-ceremony-how-to-watch.html",
         "summary": "They will take place at 2 p.m. Eastern on Friday across four separate venues in Northern Italy.",
         "source": "NYT > World News",
@@ -1530,21 +1521,6 @@
         "keywords": [
             "milan winter olympics opening ceremony",
             "separate venues"
-        ]
-    },
-    {
-        "title": "U.S. and Iran Set for Talks in Oman",
-        "link": "https://www.nytimes.com/2026/02/06/world/europe/us-and-iran-set-for-talks-in-oman-as-regional-leaders-seek-to-prevent-war.html",
-        "summary": "Middle Eastern diplomats see a chance for negotiations on Irans nuclear program but have slim hopes for progress on other U.S. demands.",
-        "source": "NYT > World News",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "iran set",
-            "middle eastern diplomats",
-            "nuclear program"
         ]
     },
     {
@@ -1621,6 +1597,49 @@
         ]
     },
     {
+        "title": "Italy Toughens Protest Laws, Hours Before Planned Rallies at Winter Olympics",
+        "link": "https://www.nytimes.com/2026/02/05/world/europe/italy-olympics-security-law-protests.html",
+        "summary": "The restrictions could affect people demonstrating this weekend outside Olympic events in northern Italy.",
+        "source": "NYT > World News",
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "italy toughens protest laws",
+            "planned rallies",
+            "winter olympics"
+        ]
+    },
+    {
+        "title": "At Ukraine\u2019s Request, Starlink Denies Internet Access to Russian Troops",
+        "link": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html",
+        "summary": "Its unclear what effect the change will have on Russias ability to wage war, but Russian military bloggers said troops were experiencing internet outages that hampered frontline communications.",
+        "source": "NYT > World News",
+        "objectivity_score": 3,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "starlink denies internet access",
+            "russian military bloggers",
+            "internet outages"
+        ]
+    },
+    {
+        "title": "Mayor of Tequila, Mexico, Is Accused of Shaking Down Tequila Companies",
+        "link": "https://www.nytimes.com/2026/02/05/world/americas/mexico-tequila-mayor-arrested.html",
+        "summary": "The mayor of the city that is the birthplace of the bottled spirit is the latest official to be arrested as Mexico targets cartel-related corruption.",
+        "source": "NYT > World News",
+        "objectivity_score": 59,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "shaking down tequila companies"
+        ]
+    },
+    {
         "title": "At a Bonobo\u2019s \u2018Tea Party,\u2019 Scientists Find Hints of Imagination",
         "link": "https://www.nytimes.com/2026/02/05/science/bonobos-apes-imagination.html",
         "summary": "In a playtime experiment, researchers found that our closest living relatives have the capacity for make-believe, too.",
@@ -1632,6 +1651,21 @@
         "keywords": [
             "scientists find hints",
             "playtime experiment"
+        ]
+    },
+    {
+        "title": "Weather tracker: Storm Leonardo continues to batter Europe and northern Africa",
+        "link": "https://www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa",
+        "summary": "Spain and Portugal hit with torrential rain while flash floods in Morocco force more than 100,000 people to evacuateThe Iberian peninsula has been placed under severe weather alerts as Storm Leonardo ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 42,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "storm leonardo",
+            "africa spain",
+            "torrential rain"
         ]
     },
     {
@@ -1695,18 +1729,18 @@
         ]
     },
     {
-        "title": "Trump-led abuses amid \u2018democratic recession\u2019 put human rights in peril, HRW report says",
-        "link": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
-        "summary": "Rights group says growing authoritarianism and abuses in US, Russia and China threaten global rules-based orderThe world is in a democratic recession with almost three-quarters of the global populatio...",
+        "title": "Canada and France open Greenland consulates in show of Denmark support",
+        "link": "https://www.theguardian.com/world/2026/feb/06/canada-and-france-open-greenland-consulates-in-show-of-denmark-support",
+        "summary": "Founding of diplomatic outposts in Nuuk comes after US made efforts to secure control of Arctic islandOpposition to US has hardened in western Europe after Greenland threat, poll findsEurope live  lat...",
         "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
+        "objectivity_score": 47,
+        "sentiment": "Positive",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "democratic recession \u2019",
-            "human rights",
-            "orderthe world"
+            "diplomatic outposts",
+            "poll findseurope",
+            "diplomatic consulates"
         ]
     },
     {
@@ -1767,21 +1801,6 @@
             "notorious prison",
             "cultural centre scrubs past horrors",
             "long history"
-        ]
-    },
-    {
-        "title": "The people betting on catastrophic world events \u2013 podcast",
-        "link": "https://www.theguardian.com/news/audio/2026/feb/04/the-people-betting-on-catastrophic-world-events-podcast",
-        "summary": "Prediction markets allow you to put money on everything from the US attacking Iran to Jesus returning. Saahil Desai explains their dizzying riseIn the early hours of 3 January, Donald Trump ordered a ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "people betting",
-            "catastrophic world events \u2013 podcast",
-            "saahil desai"
         ]
     },
     {
@@ -1860,18 +1879,18 @@
         ]
     },
     {
-        "title": "Australia news live: Nationals MP says party made \u2018constructive\u2019 offer to reunite with Liberals; $64bn wiped from ASX",
+        "title": "PM praises \u2018very significant\u2019 Indonesia security pact \u2013 as it happened",
         "link": "https://www.theguardian.com/australia-news/live/2026/feb/06/anthony-albanese-indonesia-security-pact-sussan-ley-coalition-liberals-nationals-leadership-rba-interest-rates-inflation-ntwnfb",
-        "summary": "Shares plunge as all sectors fall due to growing investor unease. Follow the latest updates liveGet our breaking news email, free app or daily news podcastRideshare driver in court over allegations of...",
+        "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastRideshare driver in court over allegations of sexual assaulting passengerA rideshare driver will face court after alle...",
         "source": "World news | The Guardian",
-        "objectivity_score": 53,
+        "objectivity_score": 58,
         "sentiment": "Positive",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "nationals mp",
-            "constructive \u2019",
-            "$ 64bn"
+            "praises \u2018",
+            "significant \u2019",
+            "news email"
         ]
     },
     {
@@ -1935,93 +1954,108 @@
         ]
     },
     {
-        "title": "The Russian economy is finally stagnating. What does it mean for the war \u2013 and for Putin?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2026/feb/06/the-russian-economy-is-finally-stagnating-what-does-it-mean-for-the-war-and-for-putin",
-        "summary": "A wartime boom in Russia has given way to sluggish growth, tax hikes and squeezed public services. Will it affect the conflict in Ukraine?Western leaders were bullish when they imposed sanctions on Ru...",
+        "title": "Russia blames Ukraine for attempted assassination of top general \u2013 Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/feb/06/russian-military-intelligence-chief-shot-moscow-vladimir-alekseyev-ukraine-europe-live-news-updates",
+        "summary": "Sergei Lavrov blames shooting of Vladimir Alekseyev on Ukraine but does not back up Kremlin claim with evidence Hundreds of protesters gathered in Milan on Friday to oppose the presence of US Immigrat...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "top general \u2013",
+            "sergei lavrov",
+            "vladimir alekseyev"
+        ]
+    },
+    {
+        "title": "TikTok could be forced to change app\u2019s \u2018addictive design\u2019 by European Commission",
+        "link": "https://www.theguardian.com/technology/2026/feb/06/tiktok-app-addictive-design-preliminary-ruling-european-commission",
+        "summary": "Preliminary EU ruling says app shifts brains of users into autopilot mode, with concerns for children and vulnerable adultsBusiness live  latest updatesTikTok could be forced into changes to make the ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "app \u2019 s \u2018 addictive design \u2019",
+            "european commission",
+            "preliminary eu"
+        ]
+    },
+    {
+        "title": "Calls to postpone presidential election as Storm Leonardo lashes Portugal and Spain",
+        "link": "https://www.theguardian.com/world/2026/feb/06/calls-postpone-presidential-election-storm-leonardo-portugal-spain",
+        "summary": "Portugals far-right Chega party has said vote should be delayed as state of calamity declared in 69 areasEurope live  latest updatesHeavy rains and strong winds continued to batter parts of Spain and ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 49,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "presidential election",
+            "storm leonardo",
+            "spain portugals"
+        ]
+    },
+    {
+        "title": "Only seven new petrol-powered cars sold in Norway in January",
+        "link": "https://www.theguardian.com/world/2026/feb/06/only-seven-petrol-powered-cars-sold-in-norway-in-january",
+        "summary": "Data shows 29 hybrid and 98 diesel cars also sold, while the figure for battery electric vehicles was more than 2,000Just seven new petrol cars were sold in Norway last month, data shows.The country, ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "january data",
+            "diesel cars",
+            "electric vehicles"
+        ]
+    },
+    {
+        "title": "Russian general Vladimir Alekseyev in critical condition after Moscow shooting",
+        "link": "https://www.theguardian.com/world/2026/feb/06/russia-military-general-vladimir-alekseyev",
+        "summary": "Deputy director of Russias military intelligence agency shot several times in the stairwell of his apartmentA top Russian military official who plays a major role in the countrys intelligence services...",
         "source": "World news | The Guardian",
         "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "russian economy",
-            "wartime boom",
-            "sluggish growth"
+            "vladimir alekseyev",
+            "critical condition",
+            "deputy director"
         ]
     },
     {
-        "title": "Western Europeans turning against US after Greenland threat, poll finds",
-        "link": "https://www.theguardian.com/world/2026/feb/06/western-europeans-turning-against-us-after-greenland-threat-poll-finds",
-        "summary": "Large majorities in six nations express antipathy to Trumps US and support European self-assertionWestern Europeans prize Europes autonomy and values over transatlantic ties and will not give them up ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "nations express antipathy",
-            "european self-assertionwestern",
-            "transatlantic ties"
-        ]
-    },
-    {
-        "title": "Resignations, denials and excuses: Epstein fallout hits some harder than others",
-        "link": "https://www.theguardian.com/us-news/2026/feb/05/resignations-denials-and-excuses-epstein-fallout-hits-some-harder-than-others",
-        "summary": "While the US presidents many mentions in the Esptein files seem to have no consequences, in the UK Starmer could be the first world leader to fallAll around Europe, the political and business elite ar...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "fallout hits",
-            "us presidents",
-            "uk starmer"
-        ]
-    },
-    {
-        "title": "Epstein files shed more light on Steve Bannon\u2019s efforts to influence European politics",
-        "link": "https://www.theguardian.com/us-news/2026/feb/05/jeffrey-epstein-files-steve-bannon-european-politics",
-        "summary": "Donald Trumps former adviser told Epstein in 2019 that he was focused on raising money for Le Pen and Salvini before European electionsDozens of messages contained in the latest tranche of Epstein fil...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 21,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "steve bannon",
-            "\u2019 s efforts",
-            "european politics"
-        ]
-    },
-    {
-        "title": "Zelenskyy says Ukraine-Russia talks \u2018not easy\u2019 but \u2018constructive\u2019 after prisoner swap agreed - as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/feb/05/ukraine-russia-us-talk-end-war-abu-dhabi-live-updates-latest-news",
-        "summary": "This blog is now closed, you can read more on this story hereUS presidential envoy Steve Witkoff said that the US, Ukraine and Russia have agreed to exchange 314 prisoners in the first such exchange i...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "talks \u2018",
-            "easy \u2019",
-            "constructive \u2019"
-        ]
-    },
-    {
-        "title": "US and Iran to hold nuclear talks in Oman amid Trump\u2019s military threats \u2013 live",
+        "title": "US and Iran set for further talks in Oman amid Trump\u2019s military threats \u2013 live",
         "link": "https://www.theguardian.com/world/live/2026/feb/06/us-iran-nuclear-talks-oman-live-updates",
-        "summary": "Iran and the US are set to hold high-stakes negotiations over Tehrans nuclear programme, but a dispute over the agenda suggests progress will be hard wonAnalysis: Iran is betting Trump does not have a...",
+        "summary": "Senior officials meet for indirect talks, amid a crisis that has raised fears of a military action between Iran and the USAnalysis: Iran is betting Trump does not have a plan for regime changeUS and I...",
         "source": "World news | The Guardian",
-        "objectivity_score": 34,
+        "objectivity_score": 25,
         "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "nuclear talks",
             "military threats \u2013",
-            "high-stakes negotiations"
+            "indirect talks",
+            "military action"
+        ]
+    },
+    {
+        "title": "Iran and US hold high-stakes talks in Oman as confrontation looms",
+        "link": "https://www.theguardian.com/world/2026/feb/06/us-iran-talks-oman-nuclear-programme",
+        "summary": "Two countries envoys separately meet Omani negotiators amid US naval buildup in regionIran and US nuclear talks  live updatesOman has mediated high-stakes, indirect talks between Iran and the US over ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "us hold high-stakes talks",
+            "confrontation looms",
+            "countries envoys"
         ]
     },
     {
@@ -2067,21 +2101,6 @@
             "bet chief \u2019 s brother",
             "enemy \u2019",
             "gaza bezalel zini"
-        ]
-    },
-    {
-        "title": "Israel accused of spraying cancer-linked herbicide on farms in southern Lebanon",
-        "link": "https://www.theguardian.com/world/2026/feb/05/israel-accused-of-spraying-cancer-linked-herbicide-on-farms-in-southern-lebanon",
-        "summary": "President condemns environmental and health crime as critics say Israel seeks to make southern Lebanon uninhabitableLebanon has accused Israel of spraying a herbicide linked to cancer on farmland in t...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "president condemns environmental",
-            "health crime",
-            "health crime"
         ]
     },
     {
@@ -2160,78 +2179,138 @@
         ]
     },
     {
-        "title": "Almost a quarter of soup on sale in UK supermarkets has too much salt, study finds",
-        "link": "https://www.theguardian.com/business/2026/feb/06/almost-quarter-soup-on-sale-uk-supermarkets-too-much-salt",
-        "summary": "Analysis of nearly 500 tinned and chilled products finds 23% exceed governments voluntary salt targetNearly a quarter of all soup bought in supermarkets contains too much salt, with one brand containi...",
+        "title": "Keir Starmer \u2018needs a miracle\u2019 to stay on as prime minister, says Labour MP amid Mandelson scandal - UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/feb/06/labour-party-keir-starmer-peter-mandelson-morgan-mcsweeney-live-news-latest-updates",
+        "summary": "Pressure continues to build on Keir Starmer and his chief of staff Morgan McSweeneyAnalysis: How the Epstein scandal has shaken the British government to its coreIf someone had pulled the trigger: MPs...",
         "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "voluntary salt",
-            "supermarkets contains",
-            "healthy choice"
-        ]
-    },
-    {
-        "title": "Most statin side-effects not caused by the drugs, study finds",
-        "link": "https://www.theguardian.com/society/2026/feb/05/majority-statins-side-effects-not-caused-by-drug",
-        "summary": "While labels list dozens of possible risks only four are supported by evidence, say researchers Almost all side-effects listed for statins are not caused by the drugs, according to the worlds most com...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 63,
+        "objectivity_score": 25,
         "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "statin side-effects",
-            "labels list dozens",
-            "possible risks"
+            "keir starmer",
+            "\u2018 needs",
+            "miracle \u2019"
         ]
     },
     {
-        "title": "Home Office says nearly 60,000 people deported from UK or left voluntarily since 2024 election",
-        "link": "https://www.theguardian.com/politics/2026/feb/05/home-office-60000-deported-removed-since-2024-election-migration",
-        "summary": "Shabana Mahmood insists deportations will rise, as Labour government is accused of promoting harmful stereotypes of migrantsNearly 60,000 unauthorised migrants and convicted criminals have been remove...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "shabana mahmood",
-            "harmful stereotypes",
-            "home office"
-        ]
-    },
-    {
-        "title": "No 10 defies calls to sack Morgan McSweeney over Mandelson appointment",
-        "link": "https://www.theguardian.com/politics/2026/feb/05/no-10-defies-calls-to-sack-morgan-mcsweeney-over-mandelson-appointment",
-        "summary": "Amid warnings McSweeneys survival would leave his position untenable, PM apologises to Epsteins victims for appointing Mandelson as US ambassadorDowning Street has defied calls to remove Keir Starmers...",
+        "title": "Boss of lobbying firm founded with Peter Mandelson quits after Epstein revelations",
+        "link": "https://www.theguardian.com/politics/2026/feb/06/ben-wegg-prosser-boss-lobbying-firm-peter-mandelson-quits-jeffrey-epstein-revelations",
+        "summary": "Ben Wegg-Prosser resigns from Global Counsel as emails show Epsteins help was sought in setting up the companyUK politics live  latest updatesA former No 10 aide has quit as chief executive of the inf...",
         "source": "World news | The Guardian",
         "objectivity_score": 28,
-        "sentiment": "Positive",
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "peter mandelson",
+            "ben wegg-prosser",
+            "global counsel"
+        ]
+    },
+    {
+        "title": "Labour thinktank close to Morgan McSweeney \u2018paid firm to investigate journalists\u2019",
+        "link": "https://www.theguardian.com/politics/2026/feb/06/labour-thinktank-close-to-morgan-mcsweeney-allegedly-paid-firm-to-investigate-journalists",
+        "summary": "Labour Together allegedly hired company to look at Sunday Times and Guardian reporters after article about donationsUK politics live  latest updatesA thinktank previously run by a Labour minister and ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
             "morgan mcsweeney",
-            "keir starmers",
-            "senior aide"
+            "journalists \u2019",
+            "labour together"
         ]
     },
     {
-        "title": "Trump waters down criticism of UK\u2019s Chagos Islands deal after call with Starmer",
-        "link": "https://www.theguardian.com/world/2026/feb/05/trump-criticism-chagos-islands-starmer",
-        "summary": "US president says deal, which he previously described as act of great stupidity, was best PM could makeDonald Trump has watered down his criticism of the UKs plan to hand the Chagos Islands back to Ma...",
+        "title": "\u2018Gruffalo Granny is coming to stay\u2019: new story to be released in September",
+        "link": "https://www.theguardian.com/books/2026/feb/06/gruffalo-granny-released-september-julian-donaldson-axel-scheffler",
+        "summary": "Macmillan announces new instalment of popular Julia Donaldson tale featuring illustrations by Axel SchefflerThe Gruffalo family is to expand after the publisher of the popular childrens stories announ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 46,
+        "objectivity_score": 59,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "gruffalo granny",
+            "new story",
+            "september macmillan"
+        ]
+    },
+    {
+        "title": "Starmer faces renewed calls to sack chief of staff over Mandelson scandal",
+        "link": "https://www.theguardian.com/politics/2026/feb/06/starmer-renewed-calls-sack-morgan-mcsweeney-mandelson",
+        "summary": "Another Labour MP says Morgan McSweeney should go as Harriet Harman says PM left looking weak, naive and gullibleUK politics live  latest updatesKeir Starmer was facing renewed calls to sack his most ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 56,
         "sentiment": "Neutral",
         "date": "2026-02-06",
         "image_url": null,
         "keywords": [
-            "us president",
-            "great stupidity",
-            "keir starmer"
+            "sack chief",
+            "labour mp",
+            "morgan mcsweeney"
+        ]
+    },
+    {
+        "title": "Donald Trump prompts fury after posting racist video about Barack and Michelle Obama \u2013 US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2026/feb/06/trump-barack-obama-michelle-truth-social-epstein-latest-news-updates",
+        "summary": "The US president posted a racist video on Truth Social that included disproven allegations about ballot-countingWhen Rosaly Estvez self-deported from Miami to Havana last November, US immigration offi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "donald trump",
+            "prompts fury",
+            "racist video"
+        ]
+    },
+    {
+        "title": "Newly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak",
+        "link": "https://www.theguardian.com/us-news/2026/feb/06/rfk-jr-samoa-trip",
+        "summary": "Kennedy later said the purpose of his trip had nothing to do with vaccines. US embassy and UN staff at the time said otherwise, emails showOver two days of questioning during his Senate confirmation h...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Negative",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "rfk jr",
+            "measles outbreak",
+            "us embassy"
+        ]
+    },
+    {
+        "title": "Despite assurances, residents and officials prepare for possible ICE operations during Super Bowl",
+        "link": "https://www.theguardian.com/sport/2026/feb/06/super-bowl-ice-operations",
+        "summary": "In Santa Clara, California, where nearly half of residents are born outside US, fear builds as game approachesThis weekend, tens of thousands of people will make their way to the Bay Area city of Sant...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 48,
+        "sentiment": "Neutral",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "santa clara",
+            "game approachesthis weekend",
+            "bay area city"
+        ]
+    },
+    {
+        "title": "\u2018It\u2019s gonna be a huge party\u2019: Bad Bunny set for Super Bowl stage as Trump skips event",
+        "link": "https://www.theguardian.com/music/2026/feb/06/bad-bunny-super-bowl-info-explainer",
+        "summary": "Puerto Rican rapper to follow Grammy victory and anti-ICE speech with show on most-watched US TV event of the yearJust a week after receiving the Grammy award for Album of the Year, the Puerto Rican r...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 55,
+        "sentiment": "Positive",
+        "date": "2026-02-06",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s gon na",
+            "huge party \u2019",
+            "bowl stage"
         ]
     },
     {
@@ -2247,66 +2326,6 @@
             "halt \u2019",
             "national strike",
             "donald trumps"
-        ]
-    },
-    {
-        "title": "US military says two killed in strike on alleged drug boat in Pacific",
-        "link": "https://www.theguardian.com/us-news/2026/feb/06/two-killed-us-strike-alleged-drug-boat-pacific-trump",
-        "summary": "Death toll from Washingtons campaign on alleged drug traffickers now at least 128The US military on Thursday said it killed two alleged drug traffickers in a strike on a boat in the eastern Pacific, b...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 20,
-        "sentiment": "Negative",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "drug boat",
-            "drug traffickers",
-            "128the us"
-        ]
-    },
-    {
-        "title": "Savannah Guthrie\u2019s brother pleads for mother\u2019s kidnapper to contact family",
-        "link": "https://www.theguardian.com/us-news/2026/feb/05/savannah-nancy-guthrie-mom-blood-home",
-        "summary": "In a video posted on social media, he further implored the people holding Nancy Guthrie to send proof they had herTV host Savannah Guthries brother on Thursday renewed the familys plea for their mothe...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "savannah guthrie",
-            "\u2019 s brother",
-            "mother \u2019 s kidnapper"
-        ]
-    },
-    {
-        "title": "White House doubles down on Tulsi Gabbard\u2019s presence at FBI raid of election center \u2013 as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/feb/05/donald-trump-immigration-ice-minneapolis-jeffrey-epstein-save-act-politics-latest-news-updates",
-        "summary": "This live blog is now closed.Trump news at a glance: ICE chartered Palestinian deportation flights on Trump family friends jetAmid the various winding comments throughout Trumps speech today, he said ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Positive",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "white house doubles",
-            "tulsi gabbard",
-            "\u2019 s presence"
-        ]
-    },
-    {
-        "title": "Bad Bunny goes to the Super Bowl \u2013 podcast",
-        "link": "https://www.theguardian.com/news/audio/2026/feb/06/bad-bunny-goes-to-the-super-bowl-podcast",
-        "summary": "The journalist Jen Ortiz charts the rise of Bad Bunny  the Puerto Rican superstar musician and ICE critic  before his performance at the Super Bowl on SundayThe halftime show at the Super Bowl is an A...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-02-06",
-        "image_url": null,
-        "keywords": [
-            "bowl \u2013 podcast",
-            "jen ortiz",
-            "puerto rican"
         ]
     }
 ]
