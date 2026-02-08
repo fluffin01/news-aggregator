@@ -739,7 +739,7 @@
     {
         "title": "Foreign Office to review Mandelson's US ambassador pay-off",
         "link": "https://www.bbc.com/news/articles/cz9v9d0xj8qo?at_medium=RSS&at_campaign=rss",
-        "summary": "A pay-off given to Lord Mandelson after he was sacked as ambassador to the US is being reviewed, Foreign Office sources tell the BBC.",
+        "summary": "No 10 sources have called for Mandelson to return the money or give it to a charity that supports victims.",
         "source": "BBC News",
         "objectivity_score": 12,
         "sentiment": "Negative",
@@ -748,37 +748,123 @@
         "keywords": [
             "foreign office",
             "'s us ambassador pay-off",
-            "foreign office sources"
+            "supports victims"
         ]
     },
     {
-        "title": "MPs are shocked and angry at Mandelson - but they're furious with Starmer",
-        "link": "https://www.bbc.com/news/articles/czej4ep882ko?at_medium=RSS&at_campaign=rss",
-        "summary": "Many Labour insiders say Sir Keir may not be the man to take them to the next election, writes Laura Kuenssberg.",
+        "title": "Don't drop PM over Mandelson, minister urges Labour MPs",
+        "link": "https://www.bbc.com/news/articles/cy03nd2yxzdo?at_medium=RSS&at_campaign=rss",
+        "summary": "Pat McFadden says Sir Keir Starmer made a mistake - but ditching him would destabilise the country.",
         "source": "BBC News",
-        "objectivity_score": 57,
-        "sentiment": "Negative",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "'re furious",
-            "sir keir",
-            "laura kuenssberg"
+            "n't drop",
+            "labour mps pat mcfadden",
+            "sir keir starmer"
         ]
     },
     {
-        "title": "Savannah Guthrie tells mother's possible kidnappers 'we will pay' in plea for her return",
-        "link": "https://www.bbc.com/news/articles/ce9y99eg0nno?at_medium=RSS&at_campaign=rss",
-        "summary": "\"We received your message,\" the US news anchor says in the latest video plea for the return of her mother Nancy Guthrie, 84, who is believed to be abducted.",
+        "title": "My car was stolen. Here are six important things I learned",
+        "link": "https://www.bbc.com/news/articles/c5yp08kmk4eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Keyless thefts are on the rise and car crime is increasingly organised and high-tech.",
         "source": "BBC News",
-        "objectivity_score": 95,
+        "objectivity_score": 100,
         "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
+            "important things",
+            "car crime"
+        ]
+    },
+    {
+        "title": "US news anchor Savannah Guthrie says 'we will pay' in plea for mother's return",
+        "link": "https://www.bbc.com/news/articles/ce9y99eg0nno?at_medium=RSS&at_campaign=rss",
+        "summary": "\"We received your message,\" the US news anchor says in the latest video plea for the return of her mother Nancy Guthrie, 84, who is believed to be abducted.",
+        "source": "BBC News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "us news anchor",
             "savannah guthrie",
-            "mother 's",
-            "possible kidnappers 'we"
+            "mother 's return"
+        ]
+    },
+    {
+        "title": "Dozens of flood warnings in England after days of non-stop rain",
+        "link": "https://www.bbc.com/news/articles/cje1eq9z08wo?at_medium=RSS&at_campaign=rss",
+        "summary": "Rain has fallen in south-west England and south Wales every day of 2026 so far, the Met Office said.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "flood warnings",
+            "non-stop rain"
+        ]
+    },
+    {
+        "title": "Russia names three suspects over shooting of general",
+        "link": "https://www.bbc.com/news/articles/cy7j6xe8862o?at_medium=RSS&at_campaign=rss",
+        "summary": "The suspects include the alleged gunman, Lyubomir Korba, whom Russia says fled to the UAE after the attack.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "lyubomir korba"
+        ]
+    },
+    {
+        "title": "Vonn crashes in downhill as Johnson wins gold",
+        "link": "https://www.bbc.com/sport/articles/c98q5g51z4no?at_medium=RSS&at_campaign=rss",
+        "summary": "American skier Lindsey Vonn crashed in the women's downhill competition at the Winter Olympics as compatriot Breezy Johnson won an emotional gold in Cortina.",
+        "source": "BBC News",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "gold american skier",
+            "lindsey vonn",
+            "women 's"
+        ]
+    },
+    {
+        "title": "Team GB cannot wear new skeleton helmets after they were ruled wrong shape",
+        "link": "https://www.bbc.com/sport/articles/cy7m73yep24o?at_medium=RSS&at_campaign=rss",
+        "summary": "The British skeleton team - among Team GB's best hopes for medals at the Winter Olympics - will not be able to wear their new helmets after the Court of Arbitration for Sport said they do not comply w...",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "team gb",
+            "new skeleton helmets",
+            "wrong shape"
+        ]
+    },
+    {
+        "title": "GB's medal hope Brookes starts campaign - Sunday's guide",
+        "link": "https://www.bbc.com/sport/articles/c338y36kngzo?at_medium=RSS&at_campaign=rss",
+        "summary": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "'s medal hope",
+            "starts campaign",
+            "winter olympics"
         ]
     },
     {
@@ -797,122 +883,17 @@
         ]
     },
     {
-        "title": "Italy says railways hit by 'serious sabotage' as Winter Olympics begin",
-        "link": "https://www.bbc.com/news/articles/czr4rx04xjpo?at_medium=RSS&at_campaign=rss",
-        "summary": "Police say they are investigating three incidents targeting rail infrastructure that caused travel delays.",
+        "title": "Fried chicken is booming in Britain - and fish and chips is losing out",
+        "link": "https://www.bbc.com/news/articles/c5yvnqqv9n2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Crunch by crunch, US-style fried chicken shops are on the rise on British High Streets, fuelled by an internet craze.",
         "source": "BBC News",
-        "objectivity_score": 66,
+        "objectivity_score": 61,
         "sentiment": "Negative",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "'serious sabotage",
-            "winter olympics",
-            "rail infrastructure"
-        ]
-    },
-    {
-        "title": "Hillsborough parents' 'last battle for daughters'",
-        "link": "https://www.bbc.com/news/articles/cm2y2l3j0emo?at_medium=RSS&at_campaign=rss",
-        "summary": "Jenni and Trevor Hicks are leading a new campaign to correct official court records from the 1990s.",
-        "source": "BBC News",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "'last battle",
-            "trevor hicks",
-            "new campaign"
-        ]
-    },
-    {
-        "title": "Dozens of flood warnings in England after days of non-stop rain",
-        "link": "https://www.bbc.com/news/articles/cje1eq9z08wo?at_medium=RSS&at_campaign=rss",
-        "summary": "Rain has fallen in south-west England and south Wales every day of 2026 so far, the Met Office said.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "flood warnings",
-            "non-stop rain"
-        ]
-    },
-    {
-        "title": "GB reach curling semi as Muir impresses in slopestyle qualification",
-        "link": "https://www.bbc.com/sport/articles/c70l0n8y2rgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Team GB's mixed doubles curlers clinched their place in the Winter Olympics semi-finals with two matches to spare, after statement victories over heavyweights Canada and United States maintained their...",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "slopestyle qualification",
-            "team gb",
-            "doubles curlers"
-        ]
-    },
-    {
-        "title": "Team GB skeleton helmet appeal dismissed by Cas",
-        "link": "https://www.bbc.com/sport/articles/cy7m73yep24o?at_medium=RSS&at_campaign=rss",
-        "summary": "The British skeleton team - among Team GB's best hopes for medals at the Winter Olympics - will not be able to wear their new helmets after the Court of Arbitration for Sport said they do not comply w...",
-        "source": "BBC News",
-        "objectivity_score": 34,
-        "sentiment": "Positive",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "team gb",
-            "skeleton helmet appeal",
-            "british skeleton team"
-        ]
-    },
-    {
-        "title": "'Clutch' final jump gives Japan star big air snowboard gold",
-        "link": "https://www.bbc.com/sport/videos/c0erevz474eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Watch Japan's Kira Kimura win gold in the men's big air snowboarding final, as his last jump scores highest to beat compatriot Ryoma Kimata.",
-        "source": "BBC News",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "big air snowboard",
-            "watch japan",
-            "kira kimura"
-        ]
-    },
-    {
-        "title": "GB's medal hope Brookes starts campaign - Sunday's Winter Olympics guide",
-        "link": "https://www.bbc.com/sport/articles/c338y36kngzo?at_medium=RSS&at_campaign=rss",
-        "summary": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "'s medal hope",
-            "starts campaign",
-            "winter olympics"
-        ]
-    },
-    {
-        "title": "No big names. No big budget. But Heated Rivalry is a big hit",
-        "link": "https://www.bbc.com/news/articles/c3edk87vqljo?at_medium=RSS&at_campaign=rss",
-        "summary": "The made-on-a-shoe-string, Canadian-produced series is taking the world by storm.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "big names",
-            "big budget",
-            "heated rivalry"
+            "chicken shops",
+            "internet craze"
         ]
     },
     {
@@ -931,89 +912,78 @@
         ]
     },
     {
-        "title": "How Britain became a fried chicken nation",
-        "link": "https://www.bbc.com/news/articles/c5yvnqqv9n2o?at_medium=RSS&at_campaign=rss",
-        "summary": "An internet craze for American-style chicken has come to the UK, but what does it mean for traditional chippies?",
+        "title": "Super Bowl countdown almost over as Bad Bunny prepares for historic show",
+        "link": "https://www.bbc.com/sport/american-football/articles/c99ke5ex57lo?at_medium=RSS&at_campaign=rss",
+        "summary": "After a week of frenzied build-up in the San Francisco Bay Area, Super Bowl 60 - America's biggest game - takes place on Sunday night.",
         "source": "BBC News",
-        "objectivity_score": 83,
-        "sentiment": "Negative",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "chicken nation",
-            "internet craze",
-            "traditional chippies"
-        ]
-    },
-    {
-        "title": "'I\u2019m obsessed with bar livestreams. All the drama of a night out - from my sofa'",
-        "link": "https://www.bbc.com/news/articles/cn9z0d9pd2xo?at_medium=RSS&at_campaign=rss",
-        "summary": "There's been a surge in people watching such streams on TikTok, but bars say they face sanctions.",
-        "source": "BBC News",
-        "objectivity_score": 75,
-        "sentiment": "Negative",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "such streams"
-        ]
-    },
-    {
-        "title": "My car was stolen. Here are six important things I learned",
-        "link": "https://www.bbc.com/news/articles/c5yp08kmk4eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Keyless thefts are on the rise and car crime is increasingly organised and high-tech.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Positive",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "important things",
-            "car crime"
-        ]
-    },
-    {
-        "title": "King Charles to host Nigeria's first UK state visit in 37 years",
-        "link": "https://www.bbc.com/news/articles/cvg1g070zwlo?at_medium=RSS&at_campaign=rss",
-        "summary": "President Bola Tinubu and First Lady Oluremi Tinubu will be guests at Windsor Castle from 18 to 19 March.",
-        "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "state visit",
-            "years president",
-            "bola tinubu"
-        ]
-    },
-    {
-        "title": "The Papers: 'Pay-off for Mandelson' and 'relegation battle'",
-        "link": "https://www.bbc.com/news/articles/c5y2y10561go?at_medium=RSS&at_campaign=rss",
-        "summary": "The continued fallout from the government's handling of the Peter Mandelson scandal dominates Sunday's papers.",
-        "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 48,
         "sentiment": "Neutral",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "'relegation battle",
-            "government 's",
-            "peter mandelson"
+            "bowl countdown",
+            "historic show",
+            "san francisco"
         ]
     },
     {
-        "title": "Japanese people brave snow to vote in snap election",
-        "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
-        "summary": "A coalition led by Takaichi is expected to clinch a decisive win, according to polls.",
+        "title": "No big names. No big budget. But Heated Rivalry is a big hit",
+        "link": "https://www.bbc.com/news/articles/c3edk87vqljo?at_medium=RSS&at_campaign=rss",
+        "summary": "The made-on-a-shoe-string, Canadian-produced series is taking the world by storm.",
         "source": "BBC News",
-        "objectivity_score": 44,
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "big names",
+            "big budget",
+            "heated rivalry"
+        ]
+    },
+    {
+        "title": "Japan's governing party projected to win snap election majority",
+        "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
+        "summary": "A coalition led by current Prime Minister Sanae Takaichi is expected to clinch a decisive win, according to media projections after polls closed.",
+        "source": "BBC News",
+        "objectivity_score": 34,
         "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "japanese people brave snow",
-            "snap election"
+            "snap election majority",
+            "sanae takaichi",
+            "media projections"
+        ]
+    },
+    {
+        "title": "ICE protester says she was 'disgusted' after fake arrest image shared by White House",
+        "link": "https://www.bbc.com/news/videos/c86v6p1djvqo?at_medium=RSS&at_campaign=rss",
+        "summary": "The White House posted an edited image of Nekima Levy Armstrong after she was arrested for organising a protest in a church.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "fake arrest image",
+            "white house",
+            "white house"
+        ]
+    },
+    {
+        "title": "Hillsborough parents in 'last battle' to correct official records for daughters",
+        "link": "https://www.bbc.com/news/articles/cm2y2l3j0emo?at_medium=RSS&at_campaign=rss",
+        "summary": "Jenni and Trevor Hicks are leading a new campaign to correct official court records from the 1990s.",
+        "source": "BBC News",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "'last battle",
+            "official records",
+            "trevor hicks"
         ]
     },
     {
@@ -1032,180 +1002,75 @@
         ]
     },
     {
-        "title": "We're unable to grieve for dad ahead of Nottingham attacks inquiry",
-        "link": "https://www.bbc.com/news/articles/cq6vj3j0q2po?at_medium=RSS&at_campaign=rss",
-        "summary": "Ian Coates's sons say they hope the public inquiry into the killings will bring them closure.",
+        "title": "I turned myself into an AI-generated deathbot - here's what I found",
+        "link": "https://www.bbc.com/news/articles/c93wjywz5p5o?at_medium=RSS&at_campaign=rss",
+        "summary": "A Cardiff University researcher recreated her own voice using a deathbot - but found it strange.",
         "source": "BBC News",
-        "objectivity_score": 28,
-        "sentiment": "Negative",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "attacks inquiry",
-            "ian coates",
-            "'s sons"
-        ]
-    },
-    {
-        "title": "ICE protester speaks out after White House shared fake arrest image",
-        "link": "https://www.bbc.com/news/videos/c86v6p1djvqo?at_medium=RSS&at_campaign=rss",
-        "summary": "The White House posted an edited image of Nekima Levy Armstrong after she was arrested for organising a protest in a church.",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Negative",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "protester speaks",
-            "white house",
-            "fake arrest image"
-        ]
-    },
-    {
-        "title": "The woman tasked with kicking Australian kids off social media",
-        "link": "https://www.bbc.com/news/articles/ckgyvlgvk43o?at_medium=RSS&at_campaign=rss",
-        "summary": "After decades working in the private tech industry, Julia Inman Grant now finds herself on the other side.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "social media",
-            "private tech industry",
-            "julia inman grant"
-        ]
-    },
-    {
-        "title": "Emails reveal more details of Epstein's celeb dinner for Andrew",
-        "link": "https://www.bbc.com/news/articles/c4g0gpdk7q6o?at_medium=RSS&at_campaign=rss",
-        "summary": "The messages appear to contradict previous comments made by Andrew Mountbatten-Windsor about a 2010 dinner he had with Jeffrey Epstein.",
-        "source": "BBC News",
-        "objectivity_score": 33,
+        "objectivity_score": 57,
         "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "'s celeb dinner",
-            "previous comments",
-            "andrew mountbatten-windsor"
+            "university researcher",
+            "own voice"
         ]
     },
     {
-        "title": "Mandelson suggested holiday home for 'privacy' of Epstein 'guests'",
-        "link": "https://www.bbc.com/news/articles/c0mkd29lk08o?at_medium=RSS&at_campaign=rss",
-        "summary": "Former Labour Party peer tells sex offender he found \"a great place to stay\" with \"privacy\", a document suggests.",
+        "title": "Best pals 'living dream' in boyband December 10",
+        "link": "https://www.bbc.com/news/articles/cvgj0g8e9xmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Danny Bretherton and Josh Olliver, 17, were handpicked by Simon Cowell to join the new boyband.",
         "source": "BBC News",
         "objectivity_score": 37,
         "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "holiday home",
-            "party peer",
-            "sex offender"
+            "danny bretherton",
+            "josh olliver",
+            "simon cowell"
         ]
     },
     {
-        "title": "Epstein emails raise questions over role of Andrew's palace aide",
-        "link": "https://www.bbc.com/news/articles/cx2w2ywe9e0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Emails suggest a trusted royal insider invited Epstein to a dinner at Windsor Castle in 2017.",
+        "title": "What happened to the baby born in an army truck in the 1996 big snow?",
+        "link": "https://www.bbc.com/news/articles/cpdy3l836nzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Roper family will never forget the heaviest February snowfall on record in south-west Scotland.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "'s palace aide",
-            "royal insider",
-            "windsor castle"
+            "army truck",
+            "big snow"
         ]
     },
     {
-        "title": "France investigates ex-minister Jack Lang over Epstein links",
-        "link": "https://www.bbc.com/news/articles/crkrk567d7zo?at_medium=RSS&at_campaign=rss",
-        "summary": "The socialist grandee quits his role at a prestigious institute as he is investigated for the \"laundering of tax-fraud proceeds\".",
+        "title": "Chappell Roan collaborates with Fortnite one year after Radio 1 plea",
+        "link": "https://www.bbc.com/news/articles/cy09eexjq17o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US pop star has been announced as the latest icon for the video game's next festival season.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 43,
         "sentiment": "Neutral",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "investigates ex-minister",
-            "jack lang",
-            "socialist grandee quits"
+            "chappell roan",
+            "video game 's",
+            "festival season"
         ]
     },
     {
-        "title": "The household names that appear in the files",
-        "link": "https://www.bbc.com/news/articles/cqxynz2l0g2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Millions of Epstein-related documents released by the US justice department include the names of the world's rich and powerful.",
+        "title": "Art venue's flamboyant toilets win national award",
+        "link": "https://www.bbc.com/news/articles/cdxjwqlzlkko?at_medium=RSS&at_campaign=rss",
+        "summary": "The Sherborne in Dorset is honoured at the 2025 Loo of the Year Awards.",
         "source": "BBC News",
-        "objectivity_score": 87,
+        "objectivity_score": 40,
         "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "household names",
-            "us justice department",
-            "world 's"
-        ]
-    },
-    {
-        "title": "Mystery of abandoned village that could be from post-apocalyptic horror movie",
-        "link": "https://www.bbc.com/news/articles/cdjn0ed8vj1o?at_medium=RSS&at_campaign=rss",
-        "summary": "The reason it was abandoned remains a mystery with the local council and developer tight-lipped.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "post-apocalyptic horror movie",
-            "local council"
-        ]
-    },
-    {
-        "title": "Girl with cancer receives 60,000 birthday cards from across globe in world record attempt",
-        "link": "https://www.bbc.com/news/articles/cwyg4gzgn91o?at_medium=RSS&at_campaign=rss",
-        "summary": "More than 60,000 birthday cards have been sent to Amelia Kolpa, 7, who has neuroblastoma.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "birthday cards",
-            "world record attempt",
-            "birthday cards"
-        ]
-    },
-    {
-        "title": "Watch: Bad Bunny lookalikes compete ahead of Super Bowl",
-        "link": "https://www.bbc.com/news/videos/cn8287ndz0go?at_medium=RSS&at_campaign=rss",
-        "summary": "The Puerto Rican rapper, who won a Grammy for album of the year, will be the first artist to perform the half time show entirely in Spanish.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "puerto rican",
-            "time show"
-        ]
-    },
-    {
-        "title": "Inside one of Northern Ireland's most exclusive night clubs",
-        "link": "https://www.bbc.com/news/articles/c4grn4p71v9o?at_medium=RSS&at_campaign=rss",
-        "summary": "One mum says nights like these are vital for her \"wee social butterfly\" son, who has complex needs.",
-        "source": "BBC News",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "exclusive night clubs",
-            "complex needs"
+            "venue 's flamboyant toilets",
+            "national award"
         ]
     },
     {
@@ -1283,93 +1148,123 @@
         ]
     },
     {
-        "title": "England's riot club focus on fine-tuning after walloping Wales",
-        "link": "https://www.bbc.com/sport/rugby-union/articles/c0q4qjd93zeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Steve Borthwick has the pleasure of nit-picking through fine details after his England side swat aside Wales in their Six Nations opener.",
+        "title": "Vonn crashes in downhill as Johnson wins gold",
+        "link": "https://www.bbc.com/sport/articles/c98q5g51z4no?at_medium=RSS&at_campaign=rss",
+        "summary": "American skier Lindsey Vonn crashed in the women's downhill competition at the Winter Olympics as compatriot Breezy Johnson won an emotional gold in Cortina.",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "'s riot club focus",
-            "wales steve borthwick",
-            "fine details"
-        ]
-    },
-    {
-        "title": "Will Vonn do the unthinkable and win Olympic gold?",
-        "link": "https://www.bbc.com/sport/articles/cyv5v11yrpqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Veteran skier Lindsey Vonn is a \"iconic superhuman athlete\" and is \"risking everything\" by racing with an anterior cruciate ligament injury on Sunday, says former Olympic skier Chemmy Alcott.",
-        "source": "BBC News",
-        "objectivity_score": 34,
-        "sentiment": "Positive",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "will vonn",
+            "gold american skier",
             "lindsey vonn",
-            "iconic superhuman athlete"
+            "women 's"
         ]
     },
     {
-        "title": "How Ekitike has already become a Liverpool cult hero",
-        "link": "https://www.bbc.com/sport/football/articles/c3r1gwpjn8vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Inside the rise of Hugo Ekitike, adapting to life in England, connecting with Florian Wirtz and why he's already a fan favourite.",
+        "title": "'The shirt used to weigh heavy - now England players double in size in it'",
+        "link": "https://www.bbc.com/sport/rugby-union/articles/c4g0vjy1j8xo?at_medium=RSS&at_campaign=rss",
+        "summary": "World Cup winner Matt Dawson discusses England's seven-try thrashing of Wales and the lessons coach Steve Borthwick can learn from France.",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "'the shirt",
+            "players double",
+            "world cup winner"
+        ]
+    },
+    {
+        "title": "Vonn crashes out of Winter Olympics downhill",
+        "link": "https://www.bbc.com/sport/videos/ceqv5r1qv27o?at_medium=RSS&at_campaign=rss",
+        "summary": "American skier Lindsey Vonn crashes in the women's downhill competition at the Winter Olympics, nine days after rupturing her left anterior cruciate ligament.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "cult hero",
-            "hugo ekitike",
-            "florian wirtz"
+            "winter olympics",
+            "downhill american skier",
+            "lindsey vonn"
         ]
     },
     {
-        "title": "Ball dramatically stopped in 12th to lose world title",
-        "link": "https://www.bbc.com/sport/boxing/articles/cwygyrn2elno?at_medium=RSS&at_campaign=rss",
-        "summary": "Nick Ball is beaten for the first time in his professional career in front of hometown fans in Liverpool, relinquishing his world title.",
-        "source": "BBC News",
-        "objectivity_score": 21,
+        "title": "Cuba\u2019s Communist Government Has Lasted 67 Years. Will It Fall Under Trump?",
+        "link": "https://www.nytimes.com/2026/02/08/world/americas/cuba-communist-government-trump.html",
+        "summary": "The Trump administration, which has tightened the U.S. chokehold on Cuba by cutting off foreign oil, is betting that this is the Cuban communist revolutions last year.",
+        "source": "NYT > World News",
+        "objectivity_score": 36,
+        "sentiment": "Negative",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s communist government",
+            "foreign oil",
+            "communist revolutions"
+        ]
+    },
+    {
+        "title": "Live Updates: Japan\u2019s Leader Set for Big Win in Snap Election",
+        "link": "https://www.nytimes.com/live/2026/02/08/world/japan-election-takaichi",
+        "summary": "Prime Minister Sanae Takaichi was on course for a sweeping mandate from voters for her economic policies and tough stance on immigration and China.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
         "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "world title",
-            "nick ball",
-            "professional career"
+            "live updates",
+            "\u2019 s leader",
+            "sanae takaichi"
         ]
     },
     {
-        "title": "'Townsend on the ropes after romp in swamp'",
-        "link": "https://www.bbc.com/sport/rugby-union/articles/cly9y4rkk76o?at_medium=RSS&at_campaign=rss",
-        "summary": "Arguments for Gregor Townsend remaining as Scotland head coach are growing increasingly small after familiar failings lead to defeat in rainy Rome, writes Tom English.",
-        "source": "BBC News",
+        "title": "Japan\u2019s Leader Makes a Bold Election Bet. Here\u2019s What to Know.",
+        "link": "https://www.nytimes.com/2026/02/07/world/asia/japan-election-takaichi-what-to-know.html",
+        "summary": "Sanae Takaichi, who has proved popular as the first woman to lead Japan as prime minister, hopes to bolster her power in a snap election. But she faces hurdles.",
+        "source": "NYT > World News",
+        "objectivity_score": 63,
+        "sentiment": "Positive",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s leader",
+            "election bet",
+            "sanae takaichi"
+        ]
+    },
+    {
+        "title": "A Curling Champion Is Italy\u2019s Hometown Hero at the Olympic Games",
+        "link": "https://www.nytimes.com/2026/02/08/world/europe/winter-olympics-milan-cortina-stefi-constantini-italy.html",
+        "summary": "Stefania Constantini worked in a clothes shop until her sports career took off. The champion curler is now one of Italys best hopes at the Winter Games.",
+        "source": "NYT > World News",
         "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "gregor townsend",
-            "head coach",
-            "familiar failings lead"
-        ]
-    },
-    {
-        "title": "'Clutch' final jump gives Japan star big air snowboard gold",
-        "link": "https://www.bbc.com/sport/videos/c0erevz474eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Watch Japan's Kira Kimura win gold in the men's big air snowboarding final, as his last jump scores highest to beat compatriot Ryoma Kimata.",
-        "source": "BBC News",
-        "objectivity_score": 44,
         "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "big air snowboard",
-            "watch japan",
-            "kira kimura"
+            "hometown hero",
+            "stefania constantini",
+            "clothes shop"
+        ]
+    },
+    {
+        "title": "In Bid to Lead Thailand, a Progressive Party Softens Its Image",
+        "link": "https://www.nytimes.com/2026/02/07/world/asia/thailand-election-peoples-party.html",
+        "summary": "Sundays election is a test for the progressive, pro-democracy movement in Thailand, which has been blocked from taking power despite success at the polls.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Positive",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "lead thailand",
+            "image sundays",
+            "pro-democracy movement"
         ]
     },
     {
@@ -1385,6 +1280,19 @@
             "trump reverts",
             "narrow iran",
             "nuclear program"
+        ]
+    },
+    {
+        "title": "What to Know About Thailand\u2019s Election",
+        "link": "https://www.nytimes.com/2026/02/07/world/asia/thailand-election-what-to-know.html",
+        "summary": "The progressive Peoples Party was leading in surveys conducted before Sundays election, but the country has a history of overturning voters will.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s election"
         ]
     },
     {
@@ -1489,134 +1397,89 @@
         ]
     },
     {
-        "title": "She\u2019s Upending Japanese Politics With Two Words: \u2018I\u2019m Pregnant\u2019",
-        "link": "https://www.nytimes.com/2026/02/06/world/asia/japan-election-pregnant-candidate.html",
-        "summary": "Hikaru Fujita, whos running in Sundays parliamentary election, is a standout in a country where expectant mothers rarely enter national politics.",
+        "title": "Breezy Johnson\u2019s celebration is muted by Vonn\u2019s crash.",
+        "link": "https://www.nytimes.com/2026/02/08/world/breezy-johnson-downhill.html",
+        "summary": "Johnson won her first Olympic gold medal after her teammate Vonn crashed early in her run.",
         "source": "NYT > World News",
-        "objectivity_score": 46,
+        "objectivity_score": 31,
         "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "hikaru fujita",
-            "parliamentary election",
-            "expectant mothers"
+            "breezy johnson",
+            "\u2019 s celebration",
+            "\u2019 s crash"
         ]
     },
     {
-        "title": "France and Canada Open Consulates in Greenland, Following Trump Threats",
-        "link": "https://www.nytimes.com/2026/02/06/world/europe/besides-stars-and-stripes-a-few-new-flags-are-flying-in-greenland.html",
-        "summary": "Greenlands mini diplomatic scene is about to get more lively as Canada and France set up consulates, following threats by President Trump to take over the island.",
-        "source": "NYT > World News",
-        "objectivity_score": 34,
-        "sentiment": "Positive",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "following trump threats greenlands",
-            "diplomatic scene"
-        ]
-    },
-    {
-        "title": "The Olympics Are a Show Of Global Harmony. The World is Anything But.",
-        "link": "https://www.nytimes.com/2026/02/06/world/europe/olympics-world-order-war.html",
-        "summary": "The Winter Games, which officially open in Italy on Friday, are rooted in international cooperation. That feels out of place to some in a world where old rules no longer apply.",
-        "source": "NYT > World News",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "international cooperation",
-            "old rules"
-        ]
-    },
-    {
-        "title": "Russian General Is Shot in Latest Attack on a Top Military Leader in Moscow",
-        "link": "https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alekseyev.html",
-        "summary": "Lt. Gen. Vladimir Alekseyev provided intelligence to the Kremlin for Russias invasion of Ukraine and had been penalized by the U.S. twice, including for meddling in elections.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "latest attack",
-            "military leader",
-            "vladimir alekseyev"
-        ]
-    },
-    {
-        "title": "Suicide Bombing Kills 31 at Mosque in Pakistan\u2019s Capital",
-        "link": "https://www.nytimes.com/2026/02/06/world/asia/pakistan-mosque-attack-islamabad.html",
-        "summary": "The bombing, during Friday prayers, was the second major attack in recent months in Islamabad, raising concerns that extremist violence is spreading far from Pakistans border areas.",
-        "source": "NYT > World News",
-        "objectivity_score": 43,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "suicide bombing kills",
-            "major attack",
-            "recent months"
-        ]
-    },
-    {
-        "title": "China Reverses Death Sentence for Canadian in a Small Win for Carney",
-        "link": "https://www.nytimes.com/2026/02/06/world/asia/china-canada-death-sentence-overturned.html",
-        "summary": "The ruling by Chinas highest court followed a recent meeting between China and Canadas top leaders that led to a thaw in the two countries relations.",
+        "title": "Heavy Snow Disrupts Japan Election, Forcing Polling Stations to Close Early",
+        "link": "https://www.nytimes.com/2026/02/08/world/asia/japan-heavy-snow-polling-stations.html",
+        "summary": "The government said that about 40 percent of all polling stations closed earlier than planned because of heavy snow on Sunday.",
         "source": "NYT > World News",
         "objectivity_score": 38,
-        "sentiment": "Positive",
+        "sentiment": "Neutral",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "china reverses death sentence",
-            "small win",
-            "recent meeting"
+            "snow disrupts japan",
+            "forcing polling stations",
+            "close early"
         ]
     },
     {
-        "title": "Japan\u2019s Leader Makes a Bold Election Bet. Here\u2019s What to Know.",
-        "link": "https://www.nytimes.com/2026/02/07/world/asia/japan-election-takaichi-what-to-know.html",
-        "summary": "Sanae Takaichi, who has proved popular as the first woman to lead Japan as prime minister, hopes to bolster her power in a snap election. But she faces hurdles.",
-        "source": "NYT > World News",
-        "objectivity_score": 63,
-        "sentiment": "Positive",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s leader",
-            "election bet",
-            "sanae takaichi"
-        ]
-    },
-    {
-        "title": "What to Know About Thailand\u2019s Election",
-        "link": "https://www.nytimes.com/2026/02/07/world/asia/thailand-election-what-to-know.html",
-        "summary": "The progressive Peoples Party was leading in surveys conducted before Sundays election but the country has a history of overturning voters will.",
+        "title": "Shortages of posters and trucks add to candidates\u2019 challenges.",
+        "link": "https://www.nytimes.com/live/2026/02/08/world/japan-election-takaichi/japan-candidates-challenges",
+        "summary": "Japn",
         "source": "NYT > World News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "\u2019 s election"
+            "candidates \u2019"
         ]
     },
     {
-        "title": "In Bid to Lead Thailand, a Progressive Party Softens Its Image",
-        "link": "https://www.nytimes.com/2026/02/07/world/asia/thailand-election-peoples-party.html",
-        "summary": "Sundays election is a test for the progressive, pro-democracy movement in Thailand, which has been blocked from taking power despite success at the polls.",
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/02/08/world/japan-election-takaichi/heres-the-latest",
+        "summary": "",
         "source": "NYT > World News",
-        "objectivity_score": 0,
+        "objectivity_score": 90,
         "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "lead thailand",
-            "image sundays",
-            "pro-democracy movement"
+            "here\u2019s"
+        ]
+    },
+    {
+        "title": "China\u2019s Presence Looms Large in Japanese Election",
+        "link": "https://www.nytimes.com/2026/02/08/world/asia/japan-election-china.html",
+        "summary": "Prime Minister Sanae Takaichis handling of bilateral relations has become a campaign issue. Her earlier comments on Taiwan brought reprisals from Beijing.",
+        "source": "NYT > World News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "presence looms large",
+            "japanese election",
+            "sanae takaichis"
+        ]
+    },
+    {
+        "title": "Trump\u2019s Oil Grab in Venezuela Shatters an American Taboo",
+        "link": "https://www.nytimes.com/2026/02/08/us/politics/trump-oil-venezuela.html",
+        "summary": "U.S. presidents have long been accused of plotting to control foreign oil. But President Trump has asserted a U.S. right to take it.",
+        "source": "NYT > World News",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s oil",
+            "venezuela shatters",
+            "taboo u.s."
         ]
     },
     {
@@ -1677,47 +1540,6 @@
             "roland huntford",
             "lore-debunking historian",
             "polar exploration"
-        ]
-    },
-    {
-        "title": "Vanity Fair",
-        "link": "https://www.nytimes.com/2026/02/07/briefing/vanity-fair.html",
-        "summary": "Behind the scenes at the Westminster Dog Show, the entrants were affectionate. Or at least they acted like it.",
-        "source": "NYT > World News",
-        "objectivity_score": 66,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "westminster dog"
-        ]
-    },
-    {
-        "title": "At the Olympics, the Canada-U.S. Hockey Rivalry Heats Up",
-        "link": "https://www.nytimes.com/2026/02/07/world/canada/2026-olympics-canada-us-hockey-carney.html",
-        "summary": "Beating America has always felt good, especially on the ice. Since President Trump began issuing tariffs and threats against Canada, sports feels extra personal.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "canada-u.s. hockey rivalry heats up beating america"
-        ]
-    },
-    {
-        "title": "These Mathematicians Are Trying to Educate A.I.",
-        "link": "https://www.nytimes.com/2026/02/07/science/mathematics-ai-proof-hairer.html",
-        "summary": "Large language models struggle to solve research-level math questions. It takes a human to assess just how poorly they perform.",
-        "source": "NYT > World News",
-        "objectivity_score": 37,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "educate a.i",
-            "language models struggle",
-            "research-level math questions"
         ]
     },
     {
@@ -1796,6 +1618,21 @@
         ]
     },
     {
+        "title": "Canada is no stranger to separatism but push for Alberta to join US is a new peril",
+        "link": "https://www.theguardian.com/world/2026/feb/08/canada-alberta-separatism-join-us",
+        "summary": "While Quebec parties have long sought independence, the secret meetings by unelected Albertans with US officials have been branded treasonous by someA separatist push for a referendum on independence ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 58,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "new peril",
+            "secret meetings",
+            "us officials"
+        ]
+    },
+    {
         "title": "Bermuda snail thought to be extinct now thrives after a decade\u2019s effort",
         "link": "https://www.theguardian.com/environment/2026/feb/07/bermuda-snail-thought-to-be-extinct-now-thrives-after-a-decades-effort",
         "summary": "Special pods at Chester zoo helped conservationists breed and release more than 100,000 greater Bermuda snailsA button-sized snail once feared extinct in its Bermudian home is thriving again after con...",
@@ -1856,18 +1693,18 @@
         ]
     },
     {
-        "title": "Cuba open to talks with US \u2018without pressure\u2019 after months of Trump threats",
-        "link": "https://www.theguardian.com/world/2026/feb/05/trump-cuba-us-talks",
-        "summary": "Miguel DazCanel says Cuba is willing to engage Washington amid the islands deepening economic crisisAfter months of threats from Donald Trump, the president of Cuba, Miguel Daz-Canel, has said that hi...",
+        "title": "Japan election: Sanae Takaichi\u2019s ruling conservatives on course for landslide victory",
+        "link": "https://www.theguardian.com/world/2026/feb/08/japan-election-conservatives-victory-sanae-takaichi",
+        "summary": "Exit polls point to public endorsement of new prime minister, after day hit by blizzards and freezing conditionsJapans conservative governing party is on course to dramatically strengthen its grip on ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "pressure \u2019",
-            "miguel dazcanel",
-            "economic crisisafter months"
+            "sanae takaichi",
+            "\u2019 s ruling conservatives",
+            "landslide victory"
         ]
     },
     {
@@ -1931,21 +1768,6 @@
         ]
     },
     {
-        "title": "Green energy sector drove more than 90% of China\u2019s investment growth last year, analysis finds",
-        "link": "https://www.theguardian.com/world/2026/feb/05/china-green-energy-sector-investment-growth",
-        "summary": "Industry bigger than all but seven world economies, and accounts for more than third of Chinas economic growthChinas clean energy industries drove more than 90% of the countrys investment growth last ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Positive",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "green energy sector",
-            "\u2019 s investment growth",
-            "world economies"
-        ]
-    },
-    {
         "title": "Queensland moves to ban pro-Palestine slogan \u2018from the river to the sea\u2019 under sweeping new hate speech laws",
         "link": "https://www.theguardian.com/australia-news/2026/feb/08/queensland-pro-palestine-slogan-ban-proposed-hate-speech-laws-ntwnfb",
         "summary": "Laws to be introduced this week include up to two years in prison for distributing, displaying or reciting prohibited phrases to harass or offendGet our breaking news email, free app or daily news pod...",
@@ -2006,18 +1828,33 @@
         ]
     },
     {
-        "title": "Standoff over site of rally against Israeli president as protest group prepares court challenge to NSW police powers",
+        "title": "Court challenge over march against Israeli president\u2019s visit to be decided at Monday morning hearing",
         "link": "https://www.theguardian.com/australia-news/2026/feb/08/standoff-protest-israeli-president-isaac-herzog-palestine-action-group-court-challenge-nsw-police-powers",
-        "summary": "Palestine Action Group march planned from Sydney Town Hall to state parliament in breach of public assembly declarationFollow our Australia news live blog for latest updatesGet our breaking news email...",
+        "summary": "Palestine Action Group march planned from Sydney Town Hall to NSW parliament in breach of public assembly declarationFollow our Australia news live blog for latest updatesGet our breaking news email, ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 29,
+        "objectivity_score": 39,
         "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "court challenge",
-            "police powers",
+            "president \u2019 s visit",
+            "morning hearing",
             "action group march"
+        ]
+    },
+    {
+        "title": "Centre-left candidate expected to see off far right as Portugal votes in presidential runoff",
+        "link": "https://www.theguardian.com/world/2026/feb/08/portugal-election-seguro-ventura-presidential-runoff",
+        "summary": "Antnio Jos Seguro tipped to beat  populist Andr Ventura with support of mainstream politicians on left and rightThe centre-left Socialist candidate, Antnio Jos Seguro, is heavily favoured to defeat th...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "presidential runoff",
+            "antnio jos seguro",
+            "andr ventura"
         ]
     },
     {
@@ -2078,21 +1915,6 @@
             "british farm products",
             "smooth negotiations",
             "british farm products"
-        ]
-    },
-    {
-        "title": "AI analysis casts doubt on Van Eyck paintings in Italian and US museums",
-        "link": "https://www.theguardian.com/artanddesign/2026/feb/07/ai-analysis-van-eyck-paintings-turin-philadelphia",
-        "summary": "Tests on both versions of Saint Francis of Assisi Receiving the Stigmata were unable to detect brushstrokes of 15th-century masterAn analysis of two paintings in museums in the US and Italy by the 15t...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "analysis casts doubt",
-            "van eyck",
-            "us museums"
         ]
     },
     {
@@ -2246,78 +2068,93 @@
         ]
     },
     {
-        "title": "Failure to compensate pelvic mesh implant victims \u2018morally unacceptable\u2019, say campaigners",
-        "link": "https://www.theguardian.com/society/2026/feb/08/failure-to-compensate-pelvic-mesh-implant-victims-morally-unacceptable-say-campaigners",
-        "summary": "Thousands of women with life-changing complications still in limbo two years after call for financial redressThe governments failure to respond to calls for a compensation scheme for women harmed by p...",
+        "title": "Office buzz: UK employers turn to beehives to boost workplace wellbeing",
+        "link": "https://www.theguardian.com/environment/2026/feb/08/uk-employers-beehives-office-workplace-mental-health-community-nature",
+        "summary": "Providers report rise in demand as companies seek mental health benefits and increased sense of communityIn a growing number of workplaces, the soundtrack of the lunch break is no longer the rustle of...",
         "source": "World news | The Guardian",
-        "objectivity_score": 22,
+        "objectivity_score": 17,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "office buzz",
+            "report rise",
+            "mental health benefits"
+        ]
+    },
+    {
+        "title": "Lammy reportedly warned Starmer over Mandelson; Union boss calls for PM to go \u2013 UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/feb/08/peter-mandelson-payoff-keir-starmer-jeffrey-epstein-ambassadoruk-politics-live-news-updates",
+        "summary": "Deputy PM reportedly warned Starmer not to appoint Mandelson as US ambassador because of his links to Jeffrey EpsteinSpeaking to Sky News this morning, Conservative shadow minister Alex Burghart said:...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 50,
         "sentiment": "Negative",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "compensate pelvic mesh implant victims \u2018",
-            "unacceptable \u2019",
-            "campaigners thousands"
+            "union boss calls",
+            "us ambassador",
+            "jeffrey epsteinspeaking"
         ]
     },
     {
-        "title": "\u2018We need to accept the cost\u2019: future of British Steel unclear as bills for government build up",
-        "link": "https://www.theguardian.com/business/2026/feb/08/british-steel-scunthorpe-future-unclear-uk-government-jingye-options",
-        "summary": "Propping up operations at Scunthorpe site, still legally owned by Jingye, now costs over 1.2m a day  so what are the options?British Steel was losing 700,000 a day last year when its Chinese owner ann...",
+        "title": "\u2018A pollster\u2019s nightmare\u2019: stakes are high in three-way fight for Gorton and Denton",
+        "link": "https://www.theguardian.com/politics/2026/feb/08/gorton-denton-byelections-battle-labour-green-reform",
+        "summary": "Labour faces a battle to hold on to its 13,000 majority, with the Greens the bookies favourite and Reform hoping to gain from split vote on leftAs Nigel Farage cut the ribbon on Reform UKs byelection ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
+        "objectivity_score": 66,
         "sentiment": "Neutral",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "cost \u2019",
-            "british steel unclear",
-            "british steel"
+            "pollster \u2019 s nightmare \u2019",
+            "three-way fight",
+            "denton labour"
         ]
     },
     {
-        "title": "UK\u2019s \u2018unsung army\u2019 of full-time unpaid carers needs more support, report says",
-        "link": "https://www.theguardian.com/society/2026/feb/08/full-time-unpaid-carers-support-resolution-foundation-report",
-        "summary": "Resolution Foundation finds one in three carers from poorer families unable to work because of responsibilitiesA growing unsung army of 1 million people with full-time caring responsibilities needs be...",
+        "title": "Mandelson should hand back US ambassador payout, says cabinet minister",
+        "link": "https://www.theguardian.com/politics/2026/feb/08/peter-mandelson-should-hand-back-us-ambassador-payout-says-cabinet-minister",
+        "summary": "Pressure grows on Keir Starmer as Labour peer reported to have received payment worth three months salary when he quit in SeptemberUK politics live  latest updatesA cabinet minister has called for Pet...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s \u2018 unsung army \u2019",
-            "full-time unpaid carers needs",
-            "poorer families"
-        ]
-    },
-    {
-        "title": "\u2018No end in sight\u2019 to Britain\u2019s wet weather as dozens of flood warnings issued",
-        "link": "https://www.theguardian.com/uk-news/2026/feb/07/no-end-in-sight-to-britains-wet-weather-as-dozens-of-flood-warnings-issued",
-        "summary": "Met Office forecasts more rainfall to continue UKs 37-day run, and flooding expected especially in south-west England and MidlandsThe unrelenting rain is expected to continue on Sunday and into next w...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
+        "objectivity_score": 21,
         "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "sight \u2019",
-            "\u2019 s wet weather",
-            "flood warnings"
+            "us ambassador payout",
+            "cabinet minister",
+            "keir starmer"
         ]
     },
     {
-        "title": "\u2018Hurry for justice\u2019: Windrush victims dying without redress, commissioner says",
-        "link": "https://www.theguardian.com/uk-news/2026/feb/07/hurry-for-justice-windrush-victims-dying-without-redress-commissioner-says",
-        "summary": "Clive Foster says action needed now to deliver justice to UK residents who had been wrongly classified as illegal immigrantsThe Windrush commissioner has warned of a hurry for justice as more victims ...",
+        "title": "\u2018I fell into it\u2019: ex-criminal hackers urge Manchester pupils to use web skills for good",
+        "link": "https://www.theguardian.com/technology/2026/feb/08/i-fell-into-it-ex-criminal-hackers-urge-manchester-pupils-to-use-web-skills-for-good",
+        "summary": "Initiative aims to identify proficient gamers and coders who can help companies identify flaws in their cybersecurity Cybercriminals, the shadowy online figures often depicted in Hollywood movies as h...",
         "source": "World news | The Guardian",
         "objectivity_score": 39,
-        "sentiment": "Negative",
+        "sentiment": "Positive",
         "date": "2026-02-08",
         "image_url": null,
         "keywords": [
-            "justice \u2019",
-            "clive foster",
-            "illegal immigrantsthe"
+            "ex-criminal hackers urge",
+            "web skills",
+            "identify proficient gamers"
+        ]
+    },
+    {
+        "title": "Bad Bunny to meet political moment as Maga fumes over Super Bowl show",
+        "link": "https://www.theguardian.com/us-news/2026/feb/08/bad-bunny-super-bowl-trump-maga",
+        "summary": "Puerto Rican superstar promises the world will dance in all-Spanish half-time gig that comes as Trump agents wage deadly crackdownFor 13 minutes on Sunday night, Levis Stadium in Santa Clara will puls...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2026-02-08",
+        "image_url": null,
+        "keywords": [
+            "political moment",
+            "bowl show",
+            "puerto rican"
         ]
     },
     {
@@ -2378,21 +2215,6 @@
             "one-month anniversary",
             "good \u2019 s death",
             "immigration officerpolice"
-        ]
-    },
-    {
-        "title": "Washington Post publisher Will Lewis abruptly resigns amid criticism of staff cuts",
-        "link": "https://www.theguardian.com/media/2026/feb/07/washington-post-will-lewis-resigns",
-        "summary": "Departure comes days after newspaper laid off nearly one-third of staff, including more than 300 journalistsWill Lewis, the Murdoch media veteran who took over as publisher and chief executive of the ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-02-08",
-        "image_url": null,
-        "keywords": [
-            "post publisher",
-            "will lewis",
-            "staff cuts"
         ]
     }
 ]
