@@ -737,18 +737,148 @@
         ]
     },
     {
-        "title": "Watch: 'Working hard used to get you something', says plumber Hannah Spencer in victory speech",
-        "link": "https://www.bbc.com/news/videos/clyz4ellkd7o?at_medium=RSS&at_campaign=rss",
-        "summary": "In her acceptance speech, Hannah Spencer said she was no different from every single person in this constituency.",
+        "title": "From plumber to Parliament, who is the Green Party's new MP?",
+        "link": "https://www.bbc.com/news/articles/cwygp3dqenwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Spencer marked her victory by apologising to customers for potentially having to cancel work due to her Westminster move.",
         "source": "BBC News",
-        "objectivity_score": 45,
+        "objectivity_score": 54,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "green party 's"
+        ]
+    },
+    {
+        "title": "Watch: How Green Party victory unfolded",
+        "link": "https://www.bbc.com/news/videos/ceqv07zn94wo?at_medium=RSS&at_campaign=rss",
+        "summary": "Labour, which took the Greater Manchester seat with more than 50% of the vote in 2024, was pushed into third place.",
+        "source": "BBC News",
+        "objectivity_score": 32,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "green party victory"
+        ]
+    },
+    {
+        "title": "Pakistan strikes Afghanistan and declares 'open war' on Taliban - what we know so far",
+        "link": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear.",
+        "source": "BBC News",
+        "objectivity_score": 60,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "'open war",
+            "significant development",
+            "physical impact"
+        ]
+    },
+    {
+        "title": "Soham murderer Ian Huntley in serious condition after makeshift weapon attack",
+        "link": "https://www.bbc.com/news/articles/c9v01g7vylzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Huntley, who is serving a life sentence for murdering two schoolgirls, has significant head trauma, the BBC understands.",
+        "source": "BBC News",
+        "objectivity_score": 77,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "ian huntley",
+            "serious condition",
+            "makeshift weapon attack"
+        ]
+    },
+    {
+        "title": "Man arrested after Winston Churchill statue defaced with graffiti",
+        "link": "https://www.bbc.com/news/articles/c07jm1kp228o?at_medium=RSS&at_campaign=rss",
+        "summary": "The statue of the former prime minster at Westminster was vandalised with slogans daubed in red paint.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "winston churchill",
+            "prime minster",
+            "red paint"
+        ]
+    },
+    {
+        "title": "Waitrose to suspend mackerel sales due to overfishing concerns",
+        "link": "https://www.bbc.com/news/articles/cgl5gee07xzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The supermarket chain says it will stop sourcing fresh, chilled and frozen mackerel by 29 April.",
+        "source": "BBC News",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "mackerel sales",
+            "supermarket chain",
+            "frozen mackerel"
+        ]
+    },
+    {
+        "title": "Gregg Wallace drops personal data claim against BBC",
+        "link": "https://www.bbc.com/news/articles/cx2ly3p4q7qo?at_medium=RSS&at_campaign=rss",
+        "summary": "Court documents state the claim against the BBC and BBC Studios has been \"discontinued\".",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "gregg wallace",
+            "personal data claim",
+            "court documents state"
+        ]
+    },
+    {
+        "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
+        "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle.",
+        "source": "BBC News",
+        "objectivity_score": 22,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "$ 111bn",
+            "warner bros",
+            "'s decision"
+        ]
+    },
+    {
+        "title": "I hugged my daughter's killer as we cried together in prison",
+        "link": "https://www.bbc.com/news/articles/c70k5eje4p9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Chloe's mum visited her drug-driver killer Keilan Roberts in jail and says he will live with the guilt forever.",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "daughter 's killer",
+            "'s mum",
+            "drug-driver killer"
+        ]
+    },
+    {
+        "title": "Dyson settles forced labour suit in landmark UK case",
+        "link": "https://www.bbc.com/news/articles/cddnry8dnl7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Migrant workers alleged they were subjected to abusive treatment in a Malaysian factory for Dyson.",
+        "source": "BBC News",
+        "objectivity_score": 15,
         "sentiment": "Negative",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "hannah spencer",
-            "victory speech",
-            "acceptance speech"
+            "labour suit",
+            "abusive treatment"
         ]
     },
     {
@@ -767,66 +897,64 @@
         ]
     },
     {
-        "title": "Epstein tried to buy a palace in Morocco days before his arrest in 2019",
-        "link": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
-        "summary": "The disgraced financier was in talks to buy luxury abode Bin Ennakhi - but the purchase was never completed.",
+        "title": "Police say no reports of electoral offences after 'family voting' concerns raised",
+        "link": "https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss",
+        "summary": "It comes after election observers raised concerns about \"extremely high\" levels of family voting.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "luxury abode",
-            "bin ennakhi"
+            "electoral offences",
+            "election observers"
         ]
     },
     {
-        "title": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
-        "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss",
-        "summary": "The ex-secretary of state called for President Trump to be questioned under oath about his past association with the sex offender.",
+        "title": "Sir John Curtice: The future of British politics is more uncertain than ever",
+        "link": "https://www.bbc.com/news/articles/cwygpdjq9jjo?at_medium=RSS&at_campaign=rss",
+        "summary": "Not only did Hannah Spencer become the first Green to win a by-election, she won it well.",
         "source": "BBC News",
-        "objectivity_score": 25,
+        "objectivity_score": 37,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "sir john curtice",
+            "british politics",
+            "hannah spencer"
+        ]
+    },
+    {
+        "title": "Listen to By-Electioncast: Greens Win Gorton and Denton",
+        "link": "https://www.bbc.co.uk/sounds/play/p0n35rr6?at_medium=RSS&at_campaign=rss",
+        "summary": "Hannah Spencer is the new Green MP for Gorton and Denton.",
+        "source": "BBC News",
+        "objectivity_score": 38,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "greens win gorton",
+            "denton hannah spencer"
+        ]
+    },
+    {
+        "title": "Six planets to be visible at same time in celestial 'parade' - here's how to see them",
+        "link": "https://www.bbc.com/news/articles/c4g3l0yzyxdo?at_medium=RSS&at_campaign=rss",
+        "summary": "Six planets - Mercury, Venus, Saturn, Jupiter, Uranus and Neptune - will all be visible in the night sky.",
+        "source": "BBC News",
+        "objectivity_score": 17,
         "sentiment": "Negative",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "hillary clinton",
-            "house panel",
-            "'s crimes"
+            "celestial 'parade",
+            "night sky"
         ]
     },
     {
-        "title": "Taking collagen keeps skin more elastic but won't stop wrinkles, say scientists",
-        "link": "https://www.bbc.com/news/articles/cge82vq9x9ro?at_medium=RSS&at_campaign=rss",
-        "summary": "The new review brings together the strongest evidence to date on collagen supplementation, say experts.",
-        "source": "BBC News",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "wo n't",
-            "new review",
-            "collagen supplementation"
-        ]
-    },
-    {
-        "title": "UK winter nowhere near a record breaker despite floods and storms",
-        "link": "https://www.bbc.com/weather/articles/c1e9d20pg2lo?at_medium=RSS&at_campaign=rss",
-        "summary": "While some parts of the country have had a very wet winter and significant flooding, others have actually been drier than normal as Ben Rich explains.",
-        "source": "BBC News",
-        "objectivity_score": 54,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "record breaker",
-            "wet winter",
-            "ben rich"
-        ]
-    },
-    {
-        "title": "Blackouts and emergency aid: Why the Cuban Revolution faces its biggest threat yet",
+        "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
         "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
         "summary": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?",
         "source": "BBC News",
@@ -835,123 +963,54 @@
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "emergency aid",
             "cuban revolution",
-            "internal crisis"
+            "internal crisis",
+            "cuban revolution"
         ]
     },
     {
-        "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
-        "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
-        "summary": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\"",
+        "title": "Olivia Dean's radiant show warms Manchester up for the Brits",
+        "link": "https://www.bbc.com/news/articles/ce82zv2p7zdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The star, nominated for five prizes at the Brits, plays a low-key gig to get Manchester in the mood.",
         "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "jack dorsey",
-            "cuts thousands",
-            "similar changes"
+            "olivia dean",
+            "'s radiant show warms",
+            "low-key gig"
         ]
     },
     {
-        "title": "Instagram investigating AI profiles 'fetishising' disabled people",
-        "link": "https://www.bbc.com/news/articles/c1jkzr9gel7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Accounts pretending to have conditions like Down's Syndrome have amassed thousands of followers",
+        "title": "Why you can't get a signal at festivals and sports matches",
+        "link": "https://www.bbc.com/news/articles/c3rzq8d24y9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Connecting up music and sports events to the internet is a massive undertaking.",
         "source": "BBC News",
-        "objectivity_score": 29,
-        "sentiment": "Negative",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "instagram"
-        ]
-    },
-    {
-        "title": "MoD launches review into whether Epstein used RAF bases",
-        "link": "https://www.bbc.com/news/articles/c86y466v0x6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Records and emails will be reviewed to determine whether the convicted sex offender used military bases when visiting the UK.",
-        "source": "BBC News",
-        "objectivity_score": 25,
+        "objectivity_score": 100,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "launches review",
-            "sex offender",
-            "military bases"
+            "ca n't",
+            "sports matches",
+            "sports events"
         ]
     },
     {
-        "title": "Netflix drops bid for Warner Bros, clearing way for Paramount takeover",
-        "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle.",
+        "title": "The AI videos supercharging Russia's online disinformation campaigns",
+        "link": "https://www.bbc.com/news/articles/cx2r7grrdwzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Security experts have warned that Western governments are poorly equipped to counter a new frontier of online disinformation.",
         "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "warner bros",
-            "'s decision",
-            "takeover battle"
-        ]
-    },
-    {
-        "title": "Sir John Curtice: Greens' win means future of British politics is more uncertain than ever",
-        "link": "https://www.bbc.com/news/articles/cwygpdjq9jjo?at_medium=RSS&at_campaign=rss",
-        "summary": "Not only did Hannah Spencer become the first Green to win a by-election, she won it well.",
-        "source": "BBC News",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "sir john curtice",
-            "means future",
-            "british politics"
-        ]
-    },
-    {
-        "title": "Green Party wins Gorton and Denton by-election, pushing Labour into third place",
-        "link": "https://www.bbc.com/news/articles/cr453rvy6kvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Labour, which took the seat with more than 50% of the vote in 2024, came behind Reform UK.",
-        "source": "BBC News",
-        "objectivity_score": 34,
+        "objectivity_score": 35,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "green party",
-            "reform uk"
-        ]
-    },
-    {
-        "title": "Weekly quiz: How did this baby monkey break the internet's heart?",
-        "link": "https://www.bbc.com/news/articles/cn4gwn9w30yo?at_medium=RSS&at_campaign=rss",
-        "summary": "How much attention did you pay to what happened in the world over the past seven days?",
-        "source": "BBC News",
-        "objectivity_score": 15,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "baby monkey",
-            "internet 's heart"
-        ]
-    },
-    {
-        "title": "Pok\u00e9mon at 30: Fans explain what the series means to them",
-        "link": "https://www.bbc.com/news/articles/cpw0xw5nqglo?at_medium=RSS&at_campaign=rss",
-        "summary": "The massively popular series shows no signs of slowing down as it gears up to celebrate its launch.",
-        "source": "BBC News",
-        "objectivity_score": 59,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "popular series shows"
+            "'s online disinformation campaigns security experts",
+            "western governments",
+            "new frontier"
         ]
     },
     {
@@ -970,135 +1029,119 @@
         ]
     },
     {
-        "title": "Bridgerton's first East Asian family is a beautiful thing, say cast",
-        "link": "https://www.bbc.com/news/articles/c2k8zyq0qgzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Stars of the hit Netflix show talk about the importance of representation as part two of season four lands.",
+        "title": "Weekly quiz: Which baby monkey broke the internet's heart?",
+        "link": "https://www.bbc.com/news/articles/cn4gwn9w30yo?at_medium=RSS&at_campaign=rss",
+        "summary": "How much attention did you pay to what happened in the world over the past seven days?",
         "source": "BBC News",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "east asian family",
-            "beautiful thing",
-            "show talk"
-        ]
-    },
-    {
-        "title": "The Papers: 'Invisible welfare state' and 'Huntley fights for life'",
-        "link": "https://www.bbc.com/news/articles/cdxz4rq8z48o?at_medium=RSS&at_campaign=rss",
-        "summary": "The impact of youth unemployment and Ian Huntley being attacked in prison lead some of the papers.",
-        "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 15,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "'invisible welfare state",
-            "'huntley fights",
-            "youth unemployment"
+            "baby monkey",
+            "internet 's heart"
         ]
     },
     {
-        "title": "Jersey approves assisted dying law - where do proposals for change stand in the UK?",
-        "link": "https://www.bbc.com/news/articles/c2lrxjp1vqeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Bills to let terminally ill people end their life are being considered at Westminster and in Scotland.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Negative",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "people end"
-        ]
-    },
-    {
-        "title": "This coastal idyll banned\u00a0'harmful'\u00a0holiday lets. Eight years on, has it worked?",
-        "link": "https://www.bbc.com/news/articles/cy59gznnz0zo?at_medium=RSS&at_campaign=rss",
-        "summary": "A ban on new holiday homes sees more permanent residents but some say the policy harms tourism.",
-        "source": "BBC News",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "coastal idyll",
-            "holiday lets",
-            "new holiday homes"
-        ]
-    },
-    {
-        "title": "Miliband says climate impact of data centres is uncertain",
-        "link": "https://www.bbc.com/news/articles/cx2drxgz7x8o?at_medium=RSS&at_campaign=rss",
-        "summary": "The admission comes after MPs said they were concerned about emissions from a boom in data centres.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "climate impact",
-            "data centres",
-            "data centres"
-        ]
-    },
-    {
-        "title": "Christian groups 'outraged' at Reform conference held in Church House",
-        "link": "https://www.bbc.com/news/articles/ckg3ek2pjzdo?at_medium=RSS&at_campaign=rss",
-        "summary": "A number of Christian groups said the party's immigration policies were opposed to Church beliefs and teachings.",
+        "title": "US Olympian says 'I would never say that' after White House AI video shows him insulting Canada",
+        "link": "https://www.bbc.com/sport/ice-hockey/articles/cqj9w4xz1l0o?at_medium=RSS&at_campaign=rss",
+        "summary": "USA men's ice hockey player Brady Tkachuk distances himself from an AI-enhanced White House video in which he appears to disparage Canadians, saying \"those words would never come out of my mouth\".",
         "source": "BBC News",
         "objectivity_score": 33,
         "sentiment": "Negative",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "christian groups",
-            "church house",
-            "christian groups"
+            "white house",
+            "video shows",
+            "canada usa"
         ]
     },
     {
-        "title": "China removes nine military officials ahead of key political meeting",
-        "link": "https://www.bbc.com/news/articles/c6270z0dr6no?at_medium=RSS&at_campaign=rss",
-        "summary": "No official reason for the removal was given, but it comes ahead of the country's key Two Sessions meeting.",
+        "title": "Taking collagen keeps skin more elastic but won't stop wrinkles, say scientists",
+        "link": "https://www.bbc.com/news/articles/cge82vq9x9ro?at_medium=RSS&at_campaign=rss",
+        "summary": "The new review brings together the strongest evidence to date on collagen supplementation, say experts.",
         "source": "BBC News",
-        "objectivity_score": 55,
+        "objectivity_score": 47,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "wo n't",
+            "new review",
+            "collagen supplementation"
+        ]
+    },
+    {
+        "title": "Driver who inspired F1 film 'looking for closure' 35 years after near-death crash",
+        "link": "https://www.bbc.com/news/articles/cly07x7dll6o?at_medium=RSS&at_campaign=rss",
+        "summary": "Martin Donnelly has finally driven a Formula One car in Adelaide following his horrific crash in 1990.",
+        "source": "BBC News",
+        "objectivity_score": 70,
+        "sentiment": "Negative",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "near-death crash",
+            "martin donnelly",
+            "horrific crash"
+        ]
+    },
+    {
+        "title": "Epstein tried to buy a palace in Morocco days before his arrest in 2019",
+        "link": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
+        "summary": "The disgraced financier was in talks to buy luxury abode Bin Ennakhi - but the purchase was never completed.",
+        "source": "BBC News",
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "military officials",
-            "political meeting",
-            "official reason"
+            "luxury abode",
+            "bin ennakhi"
         ]
     },
     {
-        "title": "American citizen among those killed in Cuba boat shooting, US official says",
-        "link": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss",
-        "summary": "Cuba has accused those on board of planning \"an infiltration with terrorist aims and firing first.",
+        "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
+        "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
+        "summary": "Sweden's defence minister says there is likely a \"strong link\" between the drone and a Russian naval vessel in the area.",
         "source": "BBC News",
-        "objectivity_score": 11,
+        "objectivity_score": 39,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "american citizen",
-            "boat shooting",
-            "terrorist aims"
+            "aircraft carrier",
+            "sweden sweden",
+            "'s defence minister"
         ]
     },
     {
-        "title": "Remains found in Tasmania most likely belong to missing Belgian backpacker",
-        "link": "https://www.bbc.com/news/articles/cgqgl88w155o?at_medium=RSS&at_campaign=rss",
-        "summary": "Celine Cremer, 31, disappeared after going on a hike in a rainforest in June 2023.",
+        "title": "Walkers' bodies found on ridge near the summit of Wales' highest mountain",
+        "link": "https://www.bbc.com/news/articles/c620e8pn7dlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Jayden Long, 19, and Eddie Hill, 20, from Norfolk, were found on a Crib y Ddysgl, near Wales highest mountain.",
         "source": "BBC News",
-        "objectivity_score": 51,
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "belgian backpacker",
-            "celine cremer"
+            "eddie hill"
+        ]
+    },
+    {
+        "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
+        "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
+        "summary": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\"",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "jack dorsey",
+            "cuts thousands",
+            "similar changes"
         ]
     },
     {
@@ -1144,32 +1187,60 @@
         ]
     },
     {
-        "title": "'Don't know what fuss was about' - chaotic Palace season could end in glory",
-        "link": "https://www.bbc.com/sport/football/articles/c14mp80157vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Key players have gone, the manager is leaving and has criticised the club and upset fans - yet Crystal Palace's chaotic campaign could still end in European glory.",
+        "title": "Award-winning short thriller set on a farm",
+        "link": "https://www.bbc.co.uk/iplayer/episode/m002rvlq/the-bind?at_mid=zarEceSXmY&at_campaign=The_Bind&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002rvlq&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Bind&at_bbc_team=BBC&at_creation=Film",
+        "summary": "Jamie, Ruth's son, threatens to kill his parents if they don't give him part of the farm.",
         "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 30,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "'do n't",
-            "chaotic palace season",
-            "upset fans"
+            "short thriller",
+            "'s son"
         ]
     },
     {
-        "title": "Sacking Amorim could cost Man Utd nearly \u00a316m",
-        "link": "https://www.bbc.com/sport/football/articles/cpv812n1w7vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ruben Amorim's 14 months in charge of Manchester United have come at a price, with the club now paying up to 15.9m to sack him, in addition to 11m to hire the Portuguese.",
+        "title": "Patrick Swayze and Keanu Reeves star in this action thriller",
+        "link": "https://www.bbc.co.uk/iplayer/episode/b00dtjjp?at_mid=yLwwTFtFIK&at_campaign=Point_Break&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b00dtjjp&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Point_Break&at_bbc_team=BBC&at_creation=Film",
+        "summary": "An undercover cop pursuing a gang of bank robbers is seduced by the LA surf scene.",
         "source": "BBC News",
-        "objectivity_score": 40,
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "sacking amorim",
-            "ruben amorim"
+            "patrick swayze",
+            "keanu reeves",
+            "action thriller"
+        ]
+    },
+    {
+        "title": "Chelsea v PSG, Man City v Real & Newcastle v Barca in Champions League last 16",
+        "link": "https://www.bbc.com/sport/football/articles/c70njrx7enwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Chelsea will play holders Paris St-Germain in the Champions League round of 16 while Manchester City will face Real Madrid in the knockout stages for a fifth straight season.",
+        "source": "BBC News",
+        "objectivity_score": 29,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "man city v",
+            "paris st-germain",
+            "league round"
+        ]
+    },
+    {
+        "title": "'Borthwick relaxed but defiant amid England Six Nations slide'",
+        "link": "https://www.bbc.com/sport/rugby-union/articles/cq57jxzg357o?at_medium=RSS&at_campaign=rss",
+        "summary": "Instead of asking what has gone wrong for England in the Six Nations, the question is more why has it gone wrong?",
+        "source": "BBC News",
+        "objectivity_score": 76,
+        "sentiment": "Negative",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "england six"
         ]
     },
     {
@@ -1188,251 +1259,181 @@
         ]
     },
     {
-        "title": "Out of Europe - now Celtic face critical fortnight",
-        "link": "https://www.bbc.com/sport/football/articles/c80jg0v5d95o?at_medium=RSS&at_campaign=rss",
-        "summary": "After exiting the Europa League, Celtic face a season-defining fortnight in the fight for the league and Scottish Cup.",
+        "title": "Gordon needs to stay 'fully focused' after Arsenal talk - Howe",
+        "link": "https://www.bbc.com/sport/football/articles/cnv6e1ggy77o?at_medium=RSS&at_campaign=rss",
+        "summary": "Head coach Eddie Howe has urged Anthony Gordon to stay \"fully focused\" after the Newcastle United forward was linked with a move to Arsenal.",
         "source": "BBC News",
-        "objectivity_score": 80,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "critical fortnight",
-            "scottish cup"
-        ]
-    },
-    {
-        "title": "Bunting silences critics as Rock hits nine-darter in Belfast",
-        "link": "https://www.bbc.com/sport/darts/articles/c4g5zj97w42o?at_medium=RSS&at_campaign=rss",
-        "summary": "Stephen Bunting inflicts a third final defeat of the season on Gian van Veen to win night four of the Premier League in Belfast.",
-        "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "silences critics",
-            "hits nine-darter",
-            "belfast stephen bunting"
-        ]
-    },
-    {
-        "title": "Sutton's predictions v Oli Fox of Good Neighbours",
-        "link": "https://www.bbc.com/sport/football/articles/cn4gl0x508lo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport football expert Chris Sutton takes on Oli Fox from indie band Good Neighbours, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "'s predictions v",
-            "oli fox",
-            "neighbours bbc sport"
-        ]
-    },
-    {
-        "title": "What to Know About U.S.-Iran Nuclear Talks Amid Trump Threats",
-        "link": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html",
-        "summary": "President Trump has kept up a steady drumbeat of threats and built up U.S. troops in the region. Irans task is to give him a win but also preserve some semblance of nuclear enrichment.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "u.s.-iran nuclear talks amid trump threats",
-            "steady drumbeat",
-            "nuclear enrichment"
-        ]
-    },
-    {
-        "title": "Venezuela\u2019s Capital, Laid Low by Misrule, Is Stirring Back to Life",
-        "link": "https://www.nytimes.com/2026/02/26/world/americas/caracas-venezuela-economy.html",
-        "summary": "New restaurants are popping up in Caracas. Nightclubs are bursting at the seams. The streets are eerily safe  with big exceptions. Could a revival be on the horizon?",
-        "source": "NYT > World News",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "laid low",
-            "new restaurants",
-            "big exceptions"
-        ]
-    },
-    {
-        "title": "China Wants Germany in Its Corner. It\u2019s Not That Easy.",
-        "link": "https://www.nytimes.com/2026/02/26/world/asia/merz-china-analysis.html",
-        "summary": "Chinas play for U.S. allies has a problem: As Germanys leader showed, Europes grievances with Beijing may run deeper than its frustration with Trump.",
-        "source": "NYT > World News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "china wants germany"
-        ]
-    },
-    {
-        "title": "The Secret of How Ukraine\u2019s Lifesaving Air-Raid Alarms Work",
-        "link": "https://www.nytimes.com/2026/02/26/world/europe/ukraine-russia-kharkiv-air-raid-alarms.html",
-        "summary": "Many in Ukraine assume that the alerts are automated. A rare look inside an emergency-response center reveals the specialists who do the pressure-packed job.",
-        "source": "NYT > World News",
-        "objectivity_score": 55,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "lifesaving air-raid alarms",
-            "rare look",
-            "emergency-response center reveals"
-        ]
-    },
-    {
-        "title": "Russia Launches Big Strikes Before U.S.-Ukraine Talks in Geneva",
-        "link": "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html",
-        "summary": "Ukrainian officials said they hoped that trilateral peace negotiations could take place next week.",
-        "source": "NYT > World News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "russia launches",
-            "u.s.-ukraine talks",
-            "geneva ukrainian"
-        ]
-    },
-    {
-        "title": "German Intelligence Must Temporarily Halt an Extremist Label for the AfD, Court Rules",
-        "link": "https://www.nytimes.com/2026/02/26/world/europe/germany-ruling-afd-extremist.html",
-        "summary": "The domestic intelligence agency can still spy on the far-right party, and the ruling may not change Germans views, but it is a symbolic victory for the AfD.",
-        "source": "NYT > World News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "temporarily halt",
-            "extremist label",
-            "domestic intelligence agency"
-        ]
-    },
-    {
-        "title": "Prime Minister Mette Frederiksen Calls Snap Elections in Denmark",
-        "link": "https://www.nytimes.com/2026/02/26/world/europe/denmark-election-frederiksen-greenland.html",
-        "summary": "Experts say Prime Minister Mette Frederiksen is trying to capitalize on her success standing up to President Trump.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "mette frederiksen",
-            "snap elections",
-            "mette frederiksen"
-        ]
-    },
-    {
-        "title": "Israeli Intelligence Agent Charged in Smuggling Goods Into Gaza",
-        "link": "https://www.nytimes.com/2026/02/26/world/middleeast/israeli-agent-smuggling-gaza.html",
-        "summary": "The indictment against an agent of the Shin Bet security agency added to a growing list of Israelis accused of exploiting their positions in the security forces to profit from the war in Gaza.",
-        "source": "NYT > World News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "israeli intelligence agent charged",
-            "smuggling goods",
-            "bet security agency"
+            "howe head",
+            "eddie howe",
+            "anthony gordon"
         ]
     },
     {
-        "title": "What We Know About the Gun Battle Off the Coast of Cuba",
-        "link": "https://www.nytimes.com/2026/02/26/us/cuba-speedboat-florida-shooting-killed.html",
-        "summary": "Four armed Cubans aboard a Florida-based speedboat died in a gunfight with Cuban border troops on Wednesday, officials said.",
-        "source": "NYT > World News",
+        "title": "Italian Pavan seriously hurt after lift shaft fall",
+        "link": "https://www.bbc.com/sport/golf/articles/c75e13lnnzxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Italian golfer Andrea Pavan is seriously injured after falling multiple floors down an open lift shaft before this week's South African Open.",
+        "source": "BBC News",
+        "objectivity_score": 29,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "shaft fall",
+            "italian golfer",
+            "andrea pavan"
+        ]
+    },
+    {
+        "title": "'I would never say that' - US Olympian on White House AI video",
+        "link": "https://www.bbc.com/sport/ice-hockey/articles/cqj9w4xz1l0o?at_medium=RSS&at_campaign=rss",
+        "summary": "USA men's ice hockey player Brady Tkachuk distances himself from an AI-enhanced White House video in which he appears to disparage Canadians, saying \"those words would never come out of my mouth\".",
+        "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "border troops"
+            "white house",
+            "men 's ice hockey player",
+            "brady tkachuk"
         ]
     },
     {
-        "title": "Europe Needs Some Space From China and Trump. Its Firms Don\u2019t.",
-        "link": "https://www.nytimes.com/2026/02/26/world/europe/germany-china-merz-europe-business.html",
-        "summary": "Germanys chancellor seeks to reduce Europes reliance on China and the United States. He speaks with a bluntness that few business leaders share.",
+        "title": "Pakistan Strikes Afghanistan in \u2018Open War\u2019 Against Taliban Regime",
+        "link": "https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html",
+        "summary": "The airstrikes came hours after Afghan troops had attacked Pakistani border positions and follow months of worsening relations between the neighboring countries.",
         "source": "NYT > World News",
-        "objectivity_score": 10,
-        "sentiment": "Negative",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "europe needs",
-            "firms don",
-            "business leaders"
+            "pakistan strikes afghanistan",
+            "\u2018 open war \u2019",
+            "against taliban regime"
         ]
     },
     {
-        "title": "How Israelis Feel About Another Potential War With Iran",
-        "link": "https://www.nytimes.com/2026/02/26/world/middleeast/israel-iran-war.html",
-        "summary": "The national mood is somewhere between anxiety, resignation and anticipation as President Trump considers whether to attack Iran.",
+        "title": "With Possible Iran Strike Looming, U.S. Says Staff Can Leave Israel, and Urges Speed",
+        "link": "https://www.nytimes.com/2026/02/27/world/middleeast/us-embassy-jerusalem-authorized-departure.html",
+        "summary": "In an email to embassy workers Friday morning, Ambassador Mike Huckabee warned them that if they wanted to leave Israel, they should do so TODAY.",
         "source": "NYT > World News",
         "objectivity_score": 100,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "israelis feel",
-            "national mood"
+            "iran strike looming",
+            "u.s. says staff",
+            "urges speed"
         ]
     },
     {
-        "title": "One Nation, an Anti-Immigration Party in Australia, Rises in Polls After Bondi Massacre",
-        "link": "https://www.nytimes.com/2026/02/26/world/asia/australia-bondi-one-nation-immigration.html",
-        "summary": "Pauline Hanson and her One Nation party have become more palatable for some Australians after the mass shooting at Bondi Beach.",
+        "title": "A Trump Call Ignited Saudi-U.A.E. Feud",
+        "link": "https://www.nytimes.com/2026/02/27/world/middleeast/saudi-arabia-united-arab-emirates-feud-trump-call.html",
+        "summary": "A request made to President Trump about the war in Sudan is at the heart of a diplomatic dispute between Saudi Arabia and the United Arab Emirates.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "trump call ignited saudi-u.a.e",
+            "diplomatic dispute",
+            "saudi arabia"
+        ]
+    },
+    {
+        "title": "Iranians Cite Progress in Talks, but a Marathon Session Produces No Deal",
+        "link": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html",
+        "summary": "Representatives of the countries were in Geneva this week to discuss the fate of Irans nuclear program.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "iranians cite",
+            "marathon session produces",
+            "nuclear program"
+        ]
+    },
+    {
+        "title": "Some Russians Go Without Heat or Power in Winter, as Energy System Falls Into Disrepair",
+        "link": "https://www.nytimes.com/2026/02/27/world/europe/russia-blackouts-heating-breakdowns.html",
+        "summary": "A dozen major blackouts and central heating cutoffs across the country have affected hundreds of thousands during a brutal winter.",
+        "source": "NYT > World News",
+        "objectivity_score": 58,
+        "sentiment": "Negative",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "dozen major blackouts",
+            "brutal winter"
+        ]
+    },
+    {
+        "title": "Hungary Plays the Spoiler in Europe, as Orban Seeks Votes at Home",
+        "link": "https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html",
+        "summary": "Facing a serious election challenge, Prime Minister Viktor Orban is holding up a big E.U. loan for Ukraine. Analysts say the timing is no coincidence.",
+        "source": "NYT > World News",
+        "objectivity_score": 38,
+        "sentiment": "Negative",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "hungary plays",
+            "serious election challenge",
+            "viktor orban"
+        ]
+    },
+    {
+        "title": "In a New War, Would Israel Run Out of Missile Interceptors?",
+        "link": "https://www.nytimes.com/2026/02/27/world/middleeast/israel-stockpile-missile-interceptors.html",
+        "summary": "The June 2025 conflict with Iran depleted Israeli and U.S. stocks of antiballistic missiles. If there is another war, the pressure will be on to destroy Iranian missiles before they can be launched.",
+        "source": "NYT > World News",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "new war",
+            "israel run",
+            "missile interceptors"
+        ]
+    },
+    {
+        "title": "After a Speedboat Shootout in Cuba, There are More Questions Than Answers",
+        "link": "https://www.nytimes.com/2026/02/26/world/americas/cuba-gunfight-boat-miami.html",
+        "summary": "The Cuban governments account of a supposed armed raid into its territory was called into question after one of the men identified as being on the boat turned up in Miami.",
         "source": "NYT > World News",
         "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "bondi massacre pauline hanson",
-            "mass shooting"
+            "speedboat shootout",
+            "than answers"
         ]
     },
     {
-        "title": "President Emmanuel Macron\u2019s Cultural Legacy At Risk After Louvre Chief Resigns",
-        "link": "https://www.nytimes.com/2026/02/26/world/europe/louvre-macron-cultural-legacy.html",
-        "summary": "President Emmanuel Macron has championed a refurbishment of the museum, but the fallout from a sensational heist has put his plans at risk.",
+        "title": "Green Party Defeats Labour in U.K. Special Election, in Blow to Starmer",
+        "link": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-result-green-party-labour.html",
+        "summary": "The result marks the first time the Greens have won a British parliamentary by-election and signals the frustration of left-leaning voters with Prime Minister Keir Starmer.",
         "source": "NYT > World News",
-        "objectivity_score": 38,
+        "objectivity_score": 30,
         "sentiment": "Positive",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "emmanuel macron",
-            "cultural legacy",
-            "emmanuel macron"
-        ]
-    },
-    {
-        "title": "The Gorton and Denton By-Election Comes at a Bad Time for Keir Starmer",
-        "link": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-byelection-uk-starmer.html",
-        "summary": "A parliamentary by-election in Gorton and Denton, outside Manchester, will test support for Britains prime minister at a moment of intense political pressure.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Negative",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "denton by-election comes",
-            "keir starmer",
-            "parliamentary by-election"
+            "green party",
+            "defeats labour",
+            "special election"
         ]
     },
     {
@@ -1466,6 +1467,96 @@
         ]
     },
     {
+        "title": "Europe Needs Some Space From China and Trump. Its Firms Don\u2019t.",
+        "link": "https://www.nytimes.com/2026/02/26/world/europe/germany-china-merz-europe-business.html",
+        "summary": "Germanys chancellor seeks to reduce Europes reliance on China and the United States. He speaks with a bluntness that few business leaders share.",
+        "source": "NYT > World News",
+        "objectivity_score": 10,
+        "sentiment": "Negative",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "europe needs",
+            "firms don",
+            "business leaders"
+        ]
+    },
+    {
+        "title": "German Intelligence Must Temporarily Halt an Extremist Label for the AfD, Court Rules",
+        "link": "https://www.nytimes.com/2026/02/26/world/europe/germany-ruling-afd-extremist.html",
+        "summary": "The domestic intelligence agency can still spy on the far-right party, and the ruling may not change Germans views, but it is a symbolic victory for the AfD.",
+        "source": "NYT > World News",
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "temporarily halt",
+            "extremist label",
+            "domestic intelligence agency"
+        ]
+    },
+    {
+        "title": "Prime Minister Mette Frederiksen Calls Snap Elections in Denmark",
+        "link": "https://www.nytimes.com/2026/02/26/world/europe/denmark-election-frederiksen-greenland.html",
+        "summary": "Experts say Prime Minister Mette Frederiksen is trying to capitalize on her success standing up to President Trump.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "mette frederiksen",
+            "snap elections",
+            "mette frederiksen"
+        ]
+    },
+    {
+        "title": "Why Are Pakistan and Afghanistan Fighting?",
+        "link": "https://www.nytimes.com/2026/02/27/world/asia/afghanistan-pakistan-taliban-airstrikes.html",
+        "summary": "The renewed violence between the neighboring countries stems from Pakistans accusations that Afghanistans Taliban government has harbored a militant group.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "afghanistan fighting",
+            "afghanistans taliban",
+            "militant group"
+        ]
+    },
+    {
+        "title": "Fighting Wildfires Could Soon Get Harder",
+        "link": "https://www.nytimes.com/2026/02/27/climate/global-fire-weather.html",
+        "summary": "Simultaneous emergencies in different parts of the world could stop countries from sharing ground crews and equipment, new research warns.",
+        "source": "NYT > World News",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "fighting wildfires",
+            "harder simultaneous",
+            "different parts"
+        ]
+    },
+    {
+        "title": "South Korea Clears Way for Google Maps to Fully Operate",
+        "link": "https://www.nytimes.com/2026/02/27/world/asia/google-maps-south-korea.html",
+        "summary": "South Korea approved Googles request to export detailed map data, reversing a longstanding restriction that made the tool largely nonfunctional.",
+        "source": "NYT > World News",
+        "objectivity_score": 58,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "korea clears",
+            "google maps",
+            "fully operate"
+        ]
+    },
+    {
         "title": "Trump\u2019s Foreign Policy: Resurrecting Empire",
         "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
         "summary": "President Trumps approach is a revival of the mission of empire  acquiring the territories and resources of sovereign peoples.",
@@ -1477,51 +1568,6 @@
         "keywords": [
             "empire president",
             "sovereign peoples"
-        ]
-    },
-    {
-        "title": "Pakistan Strikes Afghanistan in \u2018Open War\u2019 Against Taliban Regime",
-        "link": "https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html",
-        "summary": "The airstrikes came hours after Afghan troops had attacked Pakistani border positions and follow months of worsening relations between the neighboring countries.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "pakistan strikes afghanistan",
-            "\u2018 open war \u2019",
-            "against taliban regime"
-        ]
-    },
-    {
-        "title": "Green Party Defeats Labour in U.K. Special Election, in Blow to Starmer",
-        "link": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-result-green-party-labour.html",
-        "summary": "The result marks the first time the Greens have won a British parliamentary by-election and signals the frustration of left-leaning voters with Prime Minister Keir Starmer.",
-        "source": "NYT > World News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "green party",
-            "defeats labour",
-            "special election"
-        ]
-    },
-    {
-        "title": "Iranians Cite Progress in Talks, but a Marathon Session Produces No Deal",
-        "link": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html",
-        "summary": "Representatives of the countries were in Geneva this week to discuss the fate of Irans nuclear program.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "iranians cite",
-            "marathon session produces",
-            "nuclear program"
         ]
     },
     {
@@ -1537,20 +1583,6 @@
             "russia launches",
             "u.s.-ukraine talks russia",
             "missile strikes"
-        ]
-    },
-    {
-        "title": "After a Speedboat Shootout in Cuba, There are More Questions Than Answers",
-        "link": "https://www.nytimes.com/2026/02/26/world/americas/cuba-gunfight-boat-miami.html",
-        "summary": "The Cuban governments account of a supposed armed raid into its territory was called into question after one of the men identified as being on the boat turned up in Miami.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "speedboat shootout",
-            "than answers"
         ]
     },
     {
@@ -1581,6 +1613,66 @@
             "snap parliamentary",
             "mette frederiksens",
             "public opinion polls"
+        ]
+    },
+    {
+        "title": "15 South Africans Duped Into Fighting for Russia in Ukraine Return Home",
+        "link": "https://www.nytimes.com/2026/02/26/world/africa/russia-ukraine-south-africa-fighters.html",
+        "summary": "The South African leader said that the men had come home two weeks after he had won agreement from President Vladimir V. Putin.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "africans duped",
+            "ukraine return",
+            "vladimir v. putin"
+        ]
+    },
+    {
+        "title": "Game-Changing Drugs",
+        "link": "https://www.nytimes.com/2026/02/26/world/ozempic-glp-1-iran-hillary-clinton.html",
+        "summary": "Ozempic and similar weight-loss medications are hailed as miracle drugs. But there are plenty of unknowns about long-term use.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "game-changing drugs ozempic",
+            "similar weight-loss medications",
+            "miracle drugs"
+        ]
+    },
+    {
+        "title": "What Your DNA Reveals About the Sex Life of Neanderthals",
+        "link": "https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html",
+        "summary": "Most people alive today carry fragments of Neanderthal DNA in their genome. Now scientists are gaining a more intimate understanding of the ancient encounters that put it there.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "your dna reveals",
+            "neanderthal dna",
+            "intimate understanding"
+        ]
+    },
+    {
+        "title": "Rising anger over \u2018lop-sided\u2019 and \u2018immoral\u2019 US health funding pacts with African countries",
+        "link": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
+        "summary": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutinyA series of bilateral health agreements being negotiated between African countries...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 20,
+        "sentiment": "Negative",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "\u2018 immoral \u2019 us health",
+            "african countries",
+            "court case"
         ]
     },
     {
@@ -1644,18 +1736,18 @@
         ]
     },
     {
-        "title": "Robert Mugabe\u2019s son charged with attempted murder over Johannesburg shooting",
-        "link": "https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes",
-        "summary": "Bellarmine Chatunga Mugabe, known for lavish lifestyle, also accused of theft and being illegal immigrant after man allegedly shot in backA son of the late Zimbabwean president Robert Mugabe has been ...",
+        "title": "\u2018More exploitation, fewer rights\u2019: Argentina braces for sweeping overhaul of labor laws",
+        "link": "https://www.theguardian.com/world/2026/feb/27/argentina-labor-law-overhaul",
+        "summary": "Javier Mileis boosters say law will revive employment, but critics decry cuts to severance and longer working hoursArgentinas senate is poised to approve a sweeping overhaul of labour laws aimed at we...",
         "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Negative",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "robert mugabe",
-            "\u2019 s son",
-            "bellarmine chatunga mugabe"
+            "rights \u2019",
+            "labor laws",
+            "javier mileis"
         ]
     },
     {
@@ -1716,21 +1808,6 @@
             "\u2018 de-escalation",
             "dialogue \u2019",
             "us oil embargo"
-        ]
-    },
-    {
-        "title": "Floods and landslides in Brazil kill at least 30 after record rainfall",
-        "link": "https://www.theguardian.com/world/2026/feb/24/floods-landslides-brazil-kill-after-record-rainfall",
-        "summary": "Firefighters search for 39 people missing in debris after river burst and houses were swept awayThree firefighters pulled a mans body from the mud amid the rubble of houses swept away in a landslide i...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 16,
-        "sentiment": "Negative",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "record rainfall",
-            "awaythree firefighters",
-            "mans body"
         ]
     },
     {
@@ -1809,48 +1886,48 @@
         ]
     },
     {
-        "title": "Burgertory founder\u2019s chant about Zionists at pro-Palestine rally incited hatred against Jews, tribunal rules",
-        "link": "https://www.theguardian.com/australia-news/2026/feb/27/burgertory-founder-zionist-chant-pro-palestine-rally-ntwnfb",
-        "summary": "Hash Tayeh flags appeal to Victorian civil and administrative tribunal finding over phrase used at Melbourne rally last yearFollow our Australia news live blog for latest updatesGet our breaking news ...",
+        "title": "Manifesto planning \u2018mass casualties\u2019 allegedly found at home of WA man charged with terror plot",
+        "link": "https://www.theguardian.com/australia-news/2026/feb/27/manifesto-planning-mass-casualties-allegedly-found-at-home-of-wa-man-charged-with-planning-terror-attack-ntwnfb",
+        "summary": "Police allege that 20-year-old Jayson Joseph Michaels was going to target mosques, WA police and parliamentGet our breaking news email, free app or daily news podcastPolice in Western Australia have c...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 21,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "\u2018 mass casualties \u2019",
+            "terror plot",
+            "jayson joseph michaels"
+        ]
+    },
+    {
+        "title": "Former NSW MP Rory Amon tells court 13-year-old boy said he was 17 before alleged sexual abuse",
+        "link": "https://www.theguardian.com/australia-news/2026/feb/27/former-nsw-mp-rory-amon-tells-court-13-year-old-boy-said-he-was-17-before-alleged-sexual-abuse-ntwnfb",
+        "summary": "Former state Liberal MP begins his evidence after pleading not guilty to 10 charges for various sexual actsGet our breaking news email, free app or daily news podcastA former state Liberal MP accused ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 42,
         "sentiment": "Positive",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "founder \u2019 s chant",
-            "pro-palestine rally",
-            "tribunal rules"
+            "nsw mp rory amon",
+            "court 13-year-old boy",
+            "sexual abuse"
         ]
     },
     {
-        "title": "News live: South Australia braces for \u2018highly unpredictable\u2019 weekend weather as Sydney commuters urged \u2018take care\u2019 after deluge",
-        "link": "https://www.theguardian.com/australia-news/live/2026/feb/27/coles-results-nsw-victoria-queensland-weather-politics-updates-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
-        "summary": "Follow updates liveNegative gearing changes on the table before May budget, Jim Chalmers confirmsGet our breaking news email, free app or daily news podcastSarah Mitchell, the NSW shadow minister for ...",
+        "title": "Liberal party executive agrees to permanently bury review into catastrophic 2025 election defeat",
+        "link": "https://www.theguardian.com/australia-news/2026/feb/27/liberal-party-executive-agrees-to-permanently-bury-review-into-catastrophic-2025-election-defeat",
+        "summary": "Party says whats important now is that we strengthen our party for the future but some MPs concerned they will not learn from lossGet our breaking news email, free app or daily news podcastA review of...",
         "source": "World news | The Guardian",
-        "objectivity_score": 48,
+        "objectivity_score": 53,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "unpredictable \u2019 weekend weather",
-            "care \u2019",
-            "updates livenegative"
-        ]
-    },
-    {
-        "title": "Last weekend of summer brings sparkle and stars to Sydney with Mardi Gras parade, Bad Bunny and Grace Jones",
-        "link": "https://www.theguardian.com/australia-news/2026/feb/27/sydney-mardi-gras-parade-bad-bunny-grace-jones",
-        "summary": "More than 350,000 people expected to turn out on Saturday for blockbuster lineup of music and culture eventsGet our breaking news email, free app or daily news podcastThe Mardi Gras annual parade, Bad...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "mardi gras",
-            "grace jones",
-            "culture eventsget"
+            "liberal party executive agrees",
+            "bury review",
+            "election defeat party"
         ]
     },
     {
@@ -1869,22 +1946,67 @@
         ]
     },
     {
-        "title": "Negative gearing changes on the table before May budget, Jim Chalmers confirms",
-        "link": "https://www.theguardian.com/australia-news/2026/feb/27/jim-chalmers-confirms-changes-to-negative-gearing-on-the-table-ahead-of-may-budget",
-        "summary": "Treasurer says not unusual for his department to examine options but stresses that no decision has been madeFollow our Australia news live blog for latest updatesGet our breaking news email, free app ...",
+        "title": "SA braces for \u2018highly unpredictable\u2019 weather as Sydney commuters urged \u2018take care\u2019 \u2013 as it happened",
+        "link": "https://www.theguardian.com/australia-news/live/2026/feb/27/coles-results-nsw-victoria-queensland-weather-politics-updates-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
+        "summary": "This blog is now closedNegative gearing changes on the table before May budget, Jim Chalmers confirmsGet our breaking news email, free app or daily news podcastSarah Mitchell, the NSW shadow minister ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 64,
+        "objectivity_score": 48,
+        "sentiment": "Negative",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "unpredictable \u2019 weather",
+            "care \u2019 \u2013",
+            "jim chalmers"
+        ]
+    },
+    {
+        "title": "France condemns decision to provisionally apply divisive Mercosur trade deal \u2013 Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/feb/27/russia-europe-nuclear-plant-iaea-southern-ukraine-latest-news-updates",
+        "summary": "Trade between the EU and two South American countries may start within two months under a provision application of the dealTrade between the EU and two South American countries may start within two mo...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "jim chalmers",
-            "news email",
-            "free app"
+            "condemns decision",
+            "south american countries",
+            "provision application"
         ]
     },
     {
-        "title": "Firefighters in Sicily rescue 400 rare books from library after landslide",
+        "title": "BA owner\u2019s profits rise by 20% despite drop in passenger numbers last year",
+        "link": "https://www.theguardian.com/business/2026/feb/27/ba-owner-profits-rise-despite-drop-in-passenger-numbers-last-year",
+        "summary": "IAG enjoys record operating profits on margins of more than 15% at British Airways and sister airline IberiaBritish Airways owner, International Airlines Group, has announced a sharp rise in annual pr...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "owner \u2019 s profits rise",
+            "passenger numbers",
+            "sister airline"
+        ]
+    },
+    {
+        "title": "Brigitte Bardot tribute at the C\u00e9sar awards greeted with boos",
+        "link": "https://www.theguardian.com/film/2026/feb/27/brigitte-bardot-tribute-cesar-awards-boos",
+        "summary": "A shout of racist could also be heard during the segment at Frances version of the OscarsA tribute to Brigitte Bardot at the Csars, Frances version of the Oscars, on Thursday was greeted with boos. In...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 37,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "brigitte bardot",
+            "brigitte bardot",
+            "video clip"
+        ]
+    },
+    {
+        "title": "Firefighters in Sicily rescue 400 rare library books from precipice after landslide",
         "link": "https://www.theguardian.com/world/2026/feb/27/firefighters-sicily-rescue-400-rare-books-library-after-landslide",
         "summary": "Landslide in Niscemi in January tore away entire slope of town and carved 4km chasmFirefighters in Sicily have rescued about 400 rare books from a library in Niscemi that hangs on the edge of a mudflo...",
         "source": "World news | The Guardian",
@@ -1893,7 +2015,7 @@
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "rare books",
+            "rare library books",
             "entire slope",
             "4km chasmfirefighters"
         ]
@@ -1911,51 +2033,6 @@
             "exhibition \u2019",
             "air-raid bunker",
             "windowless basement"
-        ]
-    },
-    {
-        "title": "Mandelson faces EU inquiry into Brussels trade role over Epstein links",
-        "link": "https://www.theguardian.com/politics/2026/feb/26/mandelson-faces-eu-inquiry-into-brussels-trade-role-over-epstein-links",
-        "summary": "European Anti-Fraud Office to look into the former US ambassadors time as trade commissioner in BrusselsPeter Mandelson is facing an inquiry by the EUs anti-fraud agency after the European Commission ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 15,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "trade role",
-            "us ambassadors time",
-            "trade commissioner"
-        ]
-    },
-    {
-        "title": "EU opens up funding to guarantee abortion rights across bloc",
-        "link": "https://www.theguardian.com/world/2026/feb/26/eu-funding-guarantee-abortion-rights-across-bloc",
-        "summary": "Women from countries with near-total bans on terminations will be given help to access services elsewhereEU states will be able to tap into a social fund to help citizens access safe abortions, in an ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 28,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "abortion rights",
-            "access services elsewhereeu states",
-            "social fund"
-        ]
-    },
-    {
-        "title": "Denmark\u2019s Mette Frederiksen calls March election amid \u2018Greenland bounce\u2019 in polls \u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/feb/26/europe-latest-news-updates-russia-ukraine-war",
-        "summary": "It will soon be spring  and the Danes will soon be going to the polls, Danish PM tells the parliament in a special statementNordic correspondentFrederiksen is speaking now. Continue reading...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 57,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "mette frederiksen",
-            "bounce \u2019",
-            "polls \u2013"
         ]
     },
     {
@@ -1989,6 +2066,21 @@
         ]
     },
     {
+        "title": "Anxiety mounts across Middle East amid fears of US-Iran war",
+        "link": "https://www.theguardian.com/world/2026/feb/26/us-iran-middle-east-travel-warnings",
+        "summary": "People across region are bracing for possibility of conflict as embassies evacuate staff and flights are cancelledMiddle East crisis  live updatesAnxiety is growing over a potential war between Iran a...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 41,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "war people",
+            "east crisis",
+            "potential war"
+        ]
+    },
+    {
         "title": "Iran enters critical nuclear talks with US insisting deal is within reach",
         "link": "https://www.theguardian.com/world/2026/feb/25/us-iran-nuclear-talks-critical-stage-trump",
         "summary": "Tehran insists deal is possible if Trump abides by preconditions agreed with Witkoff and KushnerIran enters critical talks on its nuclear programme with the US on Thursday, insisting a deal is in reac...",
@@ -2019,18 +2111,18 @@
         ]
     },
     {
-        "title": "Berlin film festival organisers to hold crisis talks amid Gaza rows",
-        "link": "https://www.theguardian.com/world/2026/feb/25/berlin-film-festival-managers-to-meet-for-talks-amid-gaza-rows",
-        "summary": "Emergency meeting called to discuss festivals future direction after series of controversiesThe organisation that manages the Berlin film festival is to meet for talks amid reports that its American d...",
+        "title": "\u2018Our patience has now run out\u2019: Pakistan declares \u2018open war\u2019 against Afghanistan after cross-border attack \u2013 live news",
+        "link": "https://www.theguardian.com/world/live/2026/feb/27/pakistan-afghanistan-taliban-war-cross-border-kabul-latest-news-updates",
+        "summary": "Pakistani forces launched airstrikes against military targets in the Afghan capital, Kabul, as well as other provinces close to the borderBoth sides are reporting they have inflicted heavy casualties ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 8,
+        "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "film festival organisers",
-            "festivals future direction",
-            "controversiesthe organisation"
+            "open war \u2019",
+            "cross-border attack \u2013",
+            "military targets"
         ]
     },
     {
@@ -2038,7 +2130,7 @@
         "link": "https://www.theguardian.com/world/2026/feb/27/afghanistan-pakistan-strikes-kabul",
         "summary": "Escalation of violence between the volatile neighbours makes a Qatar-mediated ceasefire appear increasingly shakyPakistan bombed Afghanistans capital of Kabul and two other provinces on Friday, hours ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 54,
+        "objectivity_score": 51,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
@@ -2094,168 +2186,153 @@
         ]
     },
     {
-        "title": "Pakistan strikes militant hideouts on Afghan border after surge in attacks",
-        "link": "https://www.theguardian.com/world/2026/feb/21/pakistan-strikes-militant-hideouts-on-afghan-border-after-surge-in-attacks",
-        "summary": "Intelligence-based, selective operations carried out against Pakistani Taliban camps, says information ministry Pakistan launched multiple airstrikes on Saturday night targeting militants in neighbour...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 29,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "strikes militant hideouts",
-            "selective operations",
-            "pakistani taliban"
-        ]
-    },
-    {
-        "title": "Polanski says Greens best party to defeat Reform after Spencer wins Gorton and Denton \u2013 UK politics live",
+        "title": "PM calls byelection loss \u2018very disappointing\u2019 as new Green MP Hannah Spencer says voters rejected hate \u2013 UK politics live",
         "link": "https://www.theguardian.com/politics/live/2026/feb/27/gorton-and-denton-byelection-result-labour-green-party-reform-uk-politics-latest-news",
-        "summary": "Reform UK finished second and Labour is pushed into third place in bad news for PM Keir Starmer Full story: Resounding victory for Green partyReform activists are hearing Matt Goodwin has all but conc...",
+        "summary": "The Green party pulls off an unlikely victory in Gorton and Denton as Reform UK finish second and Labour is pushed into third placeFull story: Resounding victory for Green partyAnalysis: Labours worst...",
         "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "reform uk",
-            "bad news",
-            "pm keir starmer"
-        ]
-    },
-    {
-        "title": "Green party wins Gorton and Denton byelection, pushing Labour to third place in blow to Keir Starmer",
-        "link": "https://www.theguardian.com/politics/2026/feb/27/green-party-wins-gorton-and-denton-byelection-in-blow-to-keir-starmer",
-        "summary": "Hannah Spencer elected as partys first MP in northern England, as Labour sees a 25.3% drop in vote compared to 2024Follow our UK politics live blogThe Green party has pulled off a landmark victory in ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "green party",
-            "keir starmer hannah spencer",
-            "% drop"
-        ]
-    },
-    {
-        "title": "Vegetarians have \u2018substantially lower risk\u2019 of five types of cancer",
-        "link": "https://www.theguardian.com/society/2026/feb/27/vegetarians-have-substantially-lower-risk-of-five-types-of-cancer",
-        "summary": "Study shows lower risk for multiple myeloma as well as pancreatic, prostate, breast and kidney cancersVegetarians have a substantially lower risk of five types of cancer, a landmark study on the role ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "risk \u2019",
-            "multiple myeloma",
-            "kidney cancersvegetarians"
-        ]
-    },
-    {
-        "title": "Observers raise concerns over secret ballot breaches at Gorton and Denton byelection",
-        "link": "https://www.theguardian.com/politics/2026/feb/26/election-observers-raise-concerns-over-secret-ballot-breaches-at-gorton-and-denton-byelection",
-        "summary": "Democracy Volunteers says it saw 32 cases of apparent collusion  the highest levels in its 10-year historyAn election observer group has raised concerns over people appearing to collude on voting in t...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 52,
+        "objectivity_score": 46,
         "sentiment": "Negative",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "secret ballot breaches",
-            "democracy volunteers",
-            "apparent collusion"
+            "calls byelection loss \u2018",
+            "disappointing \u2019",
+            "mp hannah spencer"
         ]
     },
     {
-        "title": "Kinship carers in England to be given financial support in government pilot",
-        "link": "https://www.theguardian.com/society/2026/feb/27/kinship-carers-in-england-to-be-given-financial-support-in-government-pilot",
-        "summary": "Charities hail groundbreaking scheme for grandparents and others who take full parental responsibility for a childGrandparents who step in to provide full-time care for their grandchildren to prevent ...",
+        "title": "Green win shows progressive voters are now voting against Labour as well as Reform",
+        "link": "https://www.theguardian.com/politics/2026/feb/27/green-win-gorton-and-denton-byelection-progressive-voters-labour-reform-analysis",
+        "summary": "Gorton and Denton byelection shatters Labour strategy of neglecting its core base while focusing on Reform defectorsUK politics live  latest updatesThe Gorton and Denton byelection produced Labours mo...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 49,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "financial support",
-            "government pilot",
-            "full parental responsibility"
+            "shows progressive voters",
+            "reform gorton",
+            "byelection shatters"
         ]
     },
     {
-        "title": "Hillary Clinton says she answered every question in Epstein testimony and confirms Republican asked about UFOs and Pizzagate \u2013 as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump",
-        "summary": "This live blog is now closed.Trump news at a glance: No deal reached in Iran talks as potential for US attack loomsSign up for the Breaking News US email to get newsletter alerts in your inboxCindy Mc...",
+        "title": "Green party wins Gorton and Denton byelection, pushing Labour to third place",
+        "link": "https://www.theguardian.com/politics/2026/feb/27/green-party-wins-gorton-and-denton-byelection-in-blow-to-keir-starmer",
+        "summary": "Hannah Spencer elected as partys first MP in northern England as vote share for Keir Starmers party plummetsUK politics live  latest updatesThe Green party has pulled off a landmark victory in the Gor...",
         "source": "World news | The Guardian",
-        "objectivity_score": 46,
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "green party",
+            "hannah spencer",
+            "vote share"
+        ]
+    },
+    {
+        "title": "Man arrested after Churchill statue outside UK parliament sprayed with graffiti",
+        "link": "https://www.theguardian.com/uk-news/2026/feb/27/man-arrested-winston-churchill-statue-uk-parliament-graffiti",
+        "summary": "Met arrests man on suspicion of racially aggravated criminal damage after slogans including Zionist war criminal sprayedA 38-year-old man has been arrested after the statue of Winston Churchill outsid...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Negative",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "arrests man",
+            "criminal damage",
+            "war criminal sprayeda 38-year-old man"
+        ]
+    },
+    {
+        "title": "Hornby sells slot car racing brand Scalextric for \u00a320m",
+        "link": "https://www.theguardian.com/business/2026/feb/27/hornby-sells-slot-car-racing-brand-scalextric",
+        "summary": "Purbeck Capital Partners seals deal for business and property rights of toy with model railway makerFor almost six decades Hornby has watched Scalextric drive revenues for its hobby business but on Fr...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 70,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "slot car",
+            "purbeck capital partners",
+            "property rights"
+        ]
+    },
+    {
+        "title": "Bill Clinton to face Congressional questions over Epstein ties \u2013 US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2026/feb/27/bill-clinton-jeffrey-epstein-donald-trump-us-politics-latest-news-updates",
+        "summary": "Clinton follows his wife, former secretary of state Hillary Clinton, who testified on Thursday calling for Donald Trump to appear before the panelAfter the FBI seized elections materials from Fulton c...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "hillary clinton",
-            "closed.trump news",
-            "us attack loomssign"
+            "bill clinton",
+            "congressional questions",
+            "ties \u2013 us politics"
         ]
     },
     {
-        "title": "Texas airspace closed after military reportedly downs US drone on accident",
-        "link": "https://www.theguardian.com/us-news/2026/feb/26/texas-airspace-closed-drone-laser",
-        "summary": "Federal Aviation Administration bars flights around Fort Hancock after reported use of anti-drone military laserThe Federal Aviation Administration barred flights on Thursday in an area around Fort Ha...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "downs us drone",
-            "military laserthe",
-            "congressional aides"
-        ]
-    },
-    {
-        "title": "Woman at heart of US trial says she was addicted to social media at age six",
-        "link": "https://www.theguardian.com/technology/2026/feb/26/us-trial-social-media-addiction",
-        "summary": "Lead plaintiff, now 20, says use of social media made her relationships with friends and family anxious and strained The young woman at the heart of the landmark trial about the addictive nature of so...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-02-27",
-        "image_url": null,
-        "keywords": [
-            "us trial",
-            "social media",
-            "social media"
-        ]
-    },
-    {
-        "title": "Burger King cooks up AI chatbot to spot if employees say \u2018please\u2019 and \u2018thank you\u2019",
-        "link": "https://www.theguardian.com/us-news/2026/feb/26/burger-king-ai-chatbot-employees-please-thank-you",
-        "summary": "OpenAI-powered assistant will help to understand overall service patterns, company says, as move sparks backlashFrom hospitality workers to retail employees, the exaggerated customer service voice, of...",
+        "title": "Most US coal plants could meet air pollution rules. Trump weakened them anyway",
+        "link": "https://www.theguardian.com/us-news/2026/feb/27/trump-coal-plant-air-pollution-rules",
+        "summary": "EPA found only 27 of 219 plants needed upgrades; 71 later got exemptions as Donald Trump scrapped mercury limitsAlmost all coal-fired power plants in the US had the ability to comply with rules limiti...",
         "source": "World news | The Guardian",
         "objectivity_score": 53,
         "sentiment": "Neutral",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "king cooks",
-            "overall service patterns",
-            "backlashfrom hospitality workers"
+            "us coal plants",
+            "air pollution rules",
+            "donald trump"
         ]
     },
     {
-        "title": "Netflix declines to match Paramount offer for Warner Bros Discovery",
-        "link": "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros",
-        "summary": "Company walks away from planned takeover as co-chiefs say deal no longer financially attractiveSign up for the Breaking News US email to get newsletter alerts in your inboxNetflix has walked away from...",
+        "title": "Hillary Clinton accuses Republicans of \u2018fishing expedition\u2019 in Epstein testimony | First Thing",
+        "link": "https://www.theguardian.com/us-news/2026/feb/27/first-thing-hillary-clinton-epstein-testimony",
+        "summary": "Former secretary of state says hearing is an attempt to deflect attention from Trump. Plus, the textile artist weaving patterns to inspire the labor movement Dont already get First Thing in your inbox...",
         "source": "World news | The Guardian",
-        "objectivity_score": 63,
+        "objectivity_score": 34,
+        "sentiment": "Neutral",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "hillary clinton",
+            "expedition \u2019",
+            "testimony |"
+        ]
+    },
+    {
+        "title": "Netflix walks away from Warner Bros deal, clearing way for Paramount takeover",
+        "link": "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros",
+        "summary": "Streaming service says deal no longer financially attractive at price required to match Paramount Skydance offerBusiness live   latest updatesNetflix has walked away from its planned takeover of Warne...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 86,
         "sentiment": "Positive",
         "date": "2026-02-27",
         "image_url": null,
         "keywords": [
-            "warner bros discovery",
-            "news us email",
-            "newsletter alerts"
+            "warner bros",
+            "paramount skydance",
+            "warner bros discovery"
+        ]
+    },
+    {
+        "title": "CBS News and CNN staffers fear \u2018disaster\u2019 as Paramount wins Warner Bros battle",
+        "link": "https://www.theguardian.com/media/2026/feb/27/cbs-news-cnn-paramount-warner-bros-employees",
+        "summary": "Decision by Netflix to walk away from takeover leaves workers anxious about possible merger of news networksNetflixs decision to walk away from its $83bn bid for Warner Bros Discovery (WBD) has left s...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 60,
+        "sentiment": "Positive",
+        "date": "2026-02-27",
+        "image_url": null,
+        "keywords": [
+            "cbs news",
+            "\u2018 disaster \u2019",
+            "warner bros"
         ]
     }
 ]
