@@ -737,75 +737,56 @@
         ]
     },
     {
-        "title": "Two drones headed to RAF base intercepted, Cyprus says",
-        "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss",
-        "summary": "No casualties were reported and the base sustained \"minimal damage\", the Ministry of Defence said.",
+        "title": "Starmer criticises Trump, saying UK 'does not believe in regime change from skies'",
+        "link": "https://www.bbc.com/news/articles/cj0dnq2v0e2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The PM told MPs that Trump had expressed his disagreement with the decision not to get involved in the initial strikes.",
         "source": "BBC News",
-        "objectivity_score": 86,
-        "sentiment": "Negative",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "minimal damage"
+            "initial strikes"
         ]
     },
     {
-        "title": "Oil prices jump and shares fall as conflict escalates",
-        "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
-        "summary": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
+        "title": "Will petrol and diesel prices go up now?",
+        "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "summary": "If oil prices remain high for some time, the knock-on effects could affect the costs of fuel and food",
         "source": "BBC News",
-        "objectivity_score": 25,
+        "objectivity_score": 53,
         "sentiment": "Positive",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "oil prices",
-            "shares fall",
-            "conflict escalates experts"
+            "diesel prices",
+            "oil prices"
         ]
     },
     {
-        "title": "Video appears to show US F-15 fighter jet crashing in Kuwait",
-        "link": "https://www.bbc.com/news/videos/ce8wed33e07o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US says six of its F-15 jets were \"mistakenly shot down by Kuwaiti air defenses\", with all crew in a stable condition.",
+        "title": "Limited flights leave UAE but disruption continues amid Iran strikes",
+        "link": "https://www.bbc.com/news/articles/c3v7ele1k4zo?at_medium=RSS&at_campaign=rss",
+        "summary": "The majority of flights to key Middle Eastern hubs have been cancelled for Monday as the conflict continues.",
         "source": "BBC News",
-        "objectivity_score": 28,
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "middle eastern hubs"
+        ]
+    },
+    {
+        "title": "Why did US and Israel attack Iran and how long could the war last?",
+        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+        "summary": "Iran has carried out strikes against Israel, across the Gulf and against a British base in Cyprus in retaliation.",
+        "source": "BBC News",
+        "objectivity_score": 36,
         "sentiment": "Negative",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "fighter jet",
-            "air defenses",
-            "stable condition"
-        ]
-    },
-    {
-        "title": "Allies of US in the Gulf bear brunt of Iran attacks",
-        "link": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Iran's attacks on Gulf Arab states suggest the Islamic Republic is targeting not just the US military but also civilian infrastructure.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "'s attacks",
-            "civilian infrastructure"
-        ]
-    },
-    {
-        "title": "UK will allow US to use bases to strike Iranian missile sites, PM says",
-        "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss",
-        "summary": "The prime minister says it remains the case that the UK will \"not join offensive action now\".",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "missile sites",
-            "prime minister",
-            "offensive action"
+            "british base"
         ]
     },
     {
@@ -823,103 +804,132 @@
         ]
     },
     {
-        "title": "Two injured in Edinburgh as armed police called to reports of man with knife",
-        "link": "https://www.bbc.com/news/articles/cn0ek3e6zk3o?at_medium=RSS&at_campaign=rss",
-        "summary": "The two people have been taken to the Royal Infirmary of Edinburgh while the suspect is thought to remain holed up in an 11th-floor flat.",
+        "title": "Bars close and hundreds lose jobs as US firm buys Brewdog in \u00a333m deal",
+        "link": "https://www.bbc.com/news/articles/c05v0p1d0peo?at_medium=RSS&at_campaign=rss",
+        "summary": "Beverage and cannabis company Tilray acquires the brewery, the brand and 11 bars after Brewdog went into administration.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "us firm",
+            "cannabis company"
+        ]
+    },
+    {
+        "title": "Man accused of driving wife to suicide developed software to track her, jury told",
+        "link": "https://www.bbc.com/news/articles/cd70zneyjpwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Christopher Trybus is on trial for manslaughter after his wife Tarryn Baird took her own life.",
+        "source": "BBC News",
+        "objectivity_score": 65,
+        "sentiment": "Positive",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "christopher trybus",
+            "tarryn baird",
+            "own life"
+        ]
+    },
+    {
+        "title": "Saturday Night Live criticised for 'hurtful' Tourette's sketch",
+        "link": "https://www.bbc.com/news/articles/c05v0ln6nq3o?at_medium=RSS&at_campaign=rss",
+        "summary": "The condition is \"not a joke\", the Tourette Action charity says, as the Baftas fallout continues.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "'s sketch",
+            "action charity"
+        ]
+    },
+    {
+        "title": "Long lost painting revealed to be early work by Rembrandt",
+        "link": "https://www.bbc.com/news/articles/c1kgln0yg3po?at_medium=RSS&at_campaign=rss",
+        "summary": "The painting, created by the Dutch master in 1633, had disappeared after being sold  in 1961.",
+        "source": "BBC News",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "early work"
+        ]
+    },
+    {
+        "title": "Daily Mail royal editor denies seeking Prince Harry flight details",
+        "link": "https://www.bbc.com/news/articles/cqxdy01z0r8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Rebecca English denies asking a freelance journalist for flight details, saying the information came from other sources.",
         "source": "BBC News",
         "objectivity_score": 12,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "11th-floor flat"
+            "daily mail",
+            "royal editor denies",
+            "flight details"
         ]
     },
     {
-        "title": "Scotland becomes first UK country to allow water cremations",
-        "link": "https://www.bbc.com/news/articles/cd9gkknee0zo?at_medium=RSS&at_campaign=rss",
-        "summary": "The process - called alkaline hydrolysis - will offer families a third option instead of burial or traditional cremation.",
+        "title": "France to boost nuclear arsenal and extend deterrence to European allies",
+        "link": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Emmanuel Macron said eight countries could enjoy protection from France's nuclear umbrella - but that Paris would retain sole decision-making power.",
         "source": "BBC News",
-        "objectivity_score": 36,
+        "objectivity_score": 25,
+        "sentiment": "Positive",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "nuclear arsenal",
+            "european allies",
+            "emmanuel macron"
+        ]
+    },
+    {
+        "title": "Tour or residency? Jade, CMAT and Wolf Alice on live music debate",
+        "link": "https://www.bbc.com/news/articles/cy8ly0gpl1xo?at_medium=RSS&at_campaign=rss",
+        "summary": "Some fans have been left upset after some of the world's biggest acts - including Harry Styles and Ariana Grande - chose to concentrate their upcoming shows in big cities.",
+        "source": "BBC News",
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "water cremations",
-            "alkaline hydrolysis",
-            "traditional cremation"
+            "wolf alice",
+            "live music debate",
+            "world 's"
         ]
     },
     {
-        "title": "Missing student's family 'continue to keep hope alive'",
-        "link": "https://www.bbc.com/news/articles/cly0g7xyp97o?at_medium=RSS&at_campaign=rss",
-        "summary": "Jack O'Sullivan disappeared after attending a house party in Hotwells, Bristol in March 2024.",
+        "title": "'Doctors said my excruciating period pain was anxiety'",
+        "link": "https://www.bbc.com/news/articles/cx2drw8l80no?at_medium=RSS&at_campaign=rss",
+        "summary": "Women with endometriosis say doctors failed to listen to them or take their pain seriously.",
         "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
+        "objectivity_score": 48,
+        "sentiment": "Negative",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "student 's family 'continue",
-            "jack o'sullivan",
-            "house party"
+            "period pain"
         ]
     },
     {
-        "title": "Stars hit the Actor Awards red carpet - in pictures",
-        "link": "https://www.bbc.com/news/articles/cj3286ym802o?at_medium=RSS&at_campaign=rss",
-        "summary": "Emma Stone, Wunmi Mosaku and Timothe Chalamet were among the stars posing for pictures in Los Angeles.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "actor awards",
-            "red carpet",
-            "emma stone"
-        ]
-    },
-    {
-        "title": "Souvenir ticket for Cruz Beckham's Wales gig says Cardiff is in England",
-        "link": "https://www.bbc.com/news/articles/c4gjk5l471xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Souvenir tickets given out at Cruz Beckham's gig in the Welsh capital said the venue was in Cardiff, England.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "cruz beckham",
-            "england souvenir",
-            "cruz beckham"
-        ]
-    },
-    {
-        "title": "Rembrandt painting rediscovered after 65 years",
-        "link": "https://www.bbc.com/news/articles/c1kgln0yg3po?at_medium=RSS&at_campaign=rss",
-        "summary": "The painting, created by the Dutch master in 1633, had disappeared after being sold  in 1961.",
+        "title": "What can players and clubs do about 'AI slop'?",
+        "link": "https://www.bbc.com/sport/football/articles/cy8pdr55219o?at_medium=RSS&at_campaign=rss",
+        "summary": "There is an exponential growth of AI 'slop' involving players and football clubs. Is there anything that can be done to stop it?",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "rembrandt"
-        ]
-    },
-    {
-        "title": "Sir John Curtice: Which issues will decide the elections in Scotland and Wales?",
-        "link": "https://www.bbc.com/news/articles/cj6dnrwnx01o?at_medium=RSS&at_campaign=rss",
-        "summary": "A poll carried out for the BBC examines the issues which will influence how people plan to vote on 7 May.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "sir john curtice",
-            "people plan"
+            "'ai slop",
+            "exponential growth",
+            "football clubs"
         ]
     },
     {
@@ -952,186 +962,165 @@
         ]
     },
     {
-        "title": "A rap star might just beat a former PM - what this says about Nepal's Gen Z election",
-        "link": "https://www.bbc.com/news/articles/c8r137lkj5zo?at_medium=RSS&at_campaign=rss",
-        "summary": "Many hope the vote could bring change after protests last year, and shatter decades of political paralysis.",
+        "title": "Video appears to show US F-15 fighter jet crashing in Kuwait",
+        "link": "https://www.bbc.com/news/videos/ce8wed33e07o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US says six of its F-15 jets were \"mistakenly shot down by Kuwaiti air defenses\", with all crew in a stable condition.",
         "source": "BBC News",
-        "objectivity_score": 16,
-        "sentiment": "Positive",
+        "objectivity_score": 28,
+        "sentiment": "Negative",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "rap star",
-            "shatter decades",
-            "political paralysis"
+            "fighter jet",
+            "air defenses",
+            "stable condition"
         ]
     },
     {
-        "title": "Iran, the US, and a World Cup that starts in three months",
-        "link": "https://www.bbc.com/sport/football/articles/c20j8jnezl8o?at_medium=RSS&at_campaign=rss",
-        "summary": "What does the US conflict with Iran mean for what was already set to be a highly politicised World Cup this summer?",
-        "source": "BBC News",
-        "objectivity_score": 61,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "world cup",
-            "us conflict",
-            "world cup"
-        ]
-    },
-    {
-        "title": "Iran's regime is still intact - the coming days will show if it can hold out",
-        "link": "https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Iran's surviving leaders are in crisis mode, battling to project security as US and Israel strikes continue.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "'s regime",
-            "crisis mode"
-        ]
-    },
-    {
-        "title": "Why are UK bases being used in Iran conflict?",
-        "link": "https://www.bbc.com/news/articles/c62drgvk263o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Prime Minister says the US can use British military bases for \"limited defensive purpose\".",
-        "source": "BBC News",
-        "objectivity_score": 8,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "british military bases",
-            "defensive purpose"
-        ]
-    },
-    {
-        "title": "More than 100,000 Britons register for help in Middle East",
-        "link": "https://www.bbc.com/news/articles/c62drgzled6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Foreign Office sources say no evacuation was imminent but the government is preparing for potential scenarios.",
+        "title": "Starmer seeks to carve out distinct UK approach to this conflict",
+        "link": "https://www.bbc.com/news/articles/c0rj4nvw07do?at_medium=RSS&at_campaign=rss",
+        "summary": "This is delicate terrain for the prime minister both in the UK and among international leaders too.",
         "source": "BBC News",
         "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "foreign office sources",
-            "potential scenarios"
+            "delicate terrain",
+            "prime minister",
+            "international leaders"
         ]
     },
     {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "link": "https://www.bbc.com/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-        "summary": "We look at the different circumstances that affect you if you're due a refund for cancelled or delayed flights.",
+        "title": "Two drones intercepted heading for RAF base, Cyprus says",
+        "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss",
+        "summary": "No casualties were reported and the base sustained \"minimal damage\", the Ministry of Defence said.",
         "source": "BBC News",
-        "objectivity_score": 48,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "different circumstances"
-        ]
-    },
-    {
-        "title": "Michael B Jordan upends Oscars race as Sinners wins big at Actor Awards",
-        "link": "https://www.bbc.com/news/articles/clyzklvk79yo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US star's best actor win for Sinners leaves the Oscars race too close to call.",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Positive",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "actor awards",
-            "us star 's"
-        ]
-    },
-    {
-        "title": "Brewdog closes all bars for a day as it looks to complete sale",
-        "link": "https://www.bbc.com/news/articles/c04319pzeg5o?at_medium=RSS&at_campaign=rss",
-        "summary": "The company brought in consultants AlixPartners last month, after failing to make a profit in recent years.",
-        "source": "BBC News",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "complete sale",
-            "recent years"
-        ]
-    },
-    {
-        "title": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
-        "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
-        "summary": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead.",
-        "source": "BBC News",
-        "objectivity_score": 44,
+        "objectivity_score": 86,
         "sentiment": "Negative",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "media outlets"
+            "minimal damage"
         ]
     },
     {
-        "title": "SEND transport staff 'kicked and bitten by pupils'",
-        "link": "https://www.bbc.com/news/articles/c4ge6vzvdxdo?at_medium=RSS&at_campaign=rss",
-        "summary": "A worker who was bitten three times by an eight-year-old boy wants more support from the council.",
+        "title": "'They hit so hard the house was shaking': Iranians describe impact of US-Israel attacks",
+        "link": "https://www.bbc.com/news/articles/cx2jyv3jp01o?at_medium=RSS&at_campaign=rss",
+        "summary": "People in Iran tell the BBC they hear explosions day and night, as the US and Israel continue striking the country for a third day.",
         "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "transport staff",
-            "eight-year-old boy"
-        ]
-    },
-    {
-        "title": "UK launches consultation asking for views on under-16s social media ban",
-        "link": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Discussions over what measures to implement to protect children's wellbeing will last for three months.",
-        "source": "BBC News",
-        "objectivity_score": 6,
+        "objectivity_score": 51,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "launches consultation",
-            "social media ban",
-            "children 's"
+            "describe impact",
+            "attacks people",
+            "explosions day"
         ]
     },
     {
-        "title": "India and Canada reset ties with 'landmark' nuclear energy deal",
-        "link": "https://www.bbc.com/news/articles/cx24gl7jrgno?at_medium=RSS&at_campaign=rss",
-        "summary": "A host of deals, including one to supply India with uranium, is unveiled as Mark Carney meets Narendra Modi in Delhi.",
+        "title": "Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens",
+        "link": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Lebanon's health ministry says 31 people were killed by Israeli strikes, while there are no reports of casualties in Israel.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Negative",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "rocket fire",
+            "conflict widens",
+            "'s health ministry"
+        ]
+    },
+    {
+        "title": "Souvenir ticket for Cruz Beckham's Wales gig says Cardiff is in England",
+        "link": "https://www.bbc.com/news/articles/c4gjk5l471xo?at_medium=RSS&at_campaign=rss",
+        "summary": "Souvenir tickets given out at Cruz Beckham's gig in the Welsh capital said the venue was in Cardiff, England.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "reset ties",
-            "nuclear energy",
-            "a host"
+            "cruz beckham",
+            "england souvenir",
+            "cruz beckham"
         ]
     },
     {
-        "title": "Villagers fear collapsing road will never reopen",
-        "link": "https://www.bbc.com/news/articles/cn87v1j9glxo?at_medium=RSS&at_campaign=rss",
-        "summary": "The C31 slipped into the river in January 2023 and residents want the council to finally fix it.",
+        "title": "Man guilty of murdering Saudi Arabian student",
+        "link": "https://www.bbc.com/news/articles/cvgv899led4o?at_medium=RSS&at_campaign=rss",
+        "summary": "A man is found guilty of stabbing a student who was studying at a summer school in Cambridge.",
         "source": "BBC News",
-        "objectivity_score": 100,
+        "objectivity_score": 93,
+        "sentiment": "Negative",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "saudi arabian",
+            "summer school"
+        ]
+    },
+    {
+        "title": "Suggested 'Welsh speakers only' condition on housing estate deemed illegal",
+        "link": "https://www.bbc.com/news/articles/cly13ngrd90o?at_medium=RSS&at_campaign=rss",
+        "summary": "A community council wanted a clause to only rent or sell the houses to Welsh speakers.",
+        "source": "BBC News",
+        "objectivity_score": 83,
+        "sentiment": "Negative",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "'welsh speakers",
+            "community council",
+            "welsh speakers"
+        ]
+    },
+    {
+        "title": "Killer grey seals suspected of claiming first dolphin in Welsh waters",
+        "link": "https://www.bbc.com/news/articles/c93w17k95vno?at_medium=RSS&at_campaign=rss",
+        "summary": "Marine investigators say the death may be linked to a group of grey seals operating between Wales and Devon.",
+        "source": "BBC News",
+        "objectivity_score": 17,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "villagers"
+            "grey seals",
+            "welsh waters marine investigators",
+            "grey seals"
+        ]
+    },
+    {
+        "title": "Scotland becomes first UK country to allow water cremations",
+        "link": "https://www.bbc.com/news/articles/cd9gkknee0zo?at_medium=RSS&at_campaign=rss",
+        "summary": "The process - called alkaline hydrolysis - will offer families a third option instead of burial or traditional cremation.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "water cremations",
+            "alkaline hydrolysis",
+            "traditional cremation"
+        ]
+    },
+    {
+        "title": "Man arrested after Edinburgh knife incident leaves two in hospital",
+        "link": "https://www.bbc.com/news/articles/cn0ek3e6zk3o?at_medium=RSS&at_campaign=rss",
+        "summary": "A suspect who was seen in an 11th floor flat is taken away by police officers after a standoff lasting several hours.",
+        "source": "BBC News",
+        "objectivity_score": 4,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "knife incident leaves",
+            "11th floor flat",
+            "police officers"
         ]
     },
     {
@@ -1179,6 +1168,79 @@
         ]
     },
     {
+        "title": "How can football's lawmakers fix Premier League corner chaos?",
+        "link": "https://www.bbc.com/sport/football/articles/c0431l6lzpyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Holding, wrestling, battling - call it what you will. Corner kicks in the Premier League are becoming dominated by it. Can anything be done?",
+        "source": "BBC News",
+        "objectivity_score": 85,
+        "sentiment": "Positive",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "football 's lawmakers fix premier league corner chaos",
+            "premier league"
+        ]
+    },
+    {
+        "title": "Why Archer may hold key for England against 'fearsome' India",
+        "link": "https://www.bbc.com/sport/cricket/articles/cp8r435nmlvo?at_medium=RSS&at_campaign=rss",
+        "summary": "England have some reasons for hope before their T20 World Cup semi-final against India, but other issues show the difficulty of their task.",
+        "source": "BBC News",
+        "objectivity_score": 68,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "india england",
+            "world cup semi-final"
+        ]
+    },
+    {
+        "title": "Spurs given suspended ticket ban over fans' Nazi salutes in Germany",
+        "link": "https://www.bbc.com/sport/football/articles/cqj92vnvp02o?at_medium=RSS&at_campaign=rss",
+        "summary": "Uefa fine Tottenham Hotspur and give them a suspended ban from selling away tickets after three supporters made Nazi salutes towards Eintracht Frankfurt fans.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "ticket ban",
+            "germany uefa",
+            "tottenham hotspur"
+        ]
+    },
+    {
+        "title": "Set-pieces mean Premier League no longer a joy - Slot",
+        "link": "https://www.bbc.com/sport/football/articles/c4gjwm99we8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Liverpool manager Arne Slot says his \"football heart doesn't like\" the reliance on set-pieces in this season's Premier League.",
+        "source": "BBC News",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "premier league",
+            "slot liverpool",
+            "arne slot"
+        ]
+    },
+    {
+        "title": "Sutton's predictions v singer-songwriter & Chelsea fan Noah Kahan",
+        "link": "https://www.bbc.com/sport/football/articles/cx2rvnz402lo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Sport football expert Chris Sutton takes on singer-songwriter Noah Kahan plus the BBC readers and AI with his predictions for this week's midweek Premier League fixtures on Tuesday, Wednesday and ...",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "'s predictions v singer-songwriter",
+            "noah kahan bbc sport",
+            "football expert"
+        ]
+    },
+    {
         "title": "'I knew the risks, I'd do it again' - Moody opens up in new BBC documentary",
         "link": "https://www.bbc.com/sport/rugby-union/articles/c5yqpqjkj95o?at_medium=RSS&at_campaign=rss",
         "summary": "Ex-England captain Lewis Moody tells former team-mate Ben Youngs he was \"very aware\" of the risks posed during his career.",
@@ -1206,78 +1268,18 @@
         ]
     },
     {
-        "title": "Set-pieces mean Premier League no longer a joy - Slot",
-        "link": "https://www.bbc.com/sport/football/articles/c4gjwm99we8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Liverpool manager Arne Slot says his \"football heart doesn't like\" the reliance on set-pieces in this season's Premier League.",
-        "source": "BBC News",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "premier league",
-            "slot liverpool",
-            "arne slot"
-        ]
-    },
-    {
-        "title": "New era of Formula 1 - what is changing in 2026?",
-        "link": "https://www.bbc.com/sport/formula1/articles/c14mk1vp5vmo?at_medium=RSS&at_campaign=rss",
-        "summary": "As Formula 1 steps into a new era with new rules, cars, engines and the addition of an 11th team, BBC Sport breaks down the changes for 2026.",
-        "source": "BBC News",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "new era",
-            "new era",
-            "new rules"
-        ]
-    },
-    {
-        "title": "What can players and clubs do about 'AI slop'?",
-        "link": "https://www.bbc.com/sport/football/articles/cy8pdr55219o?at_medium=RSS&at_campaign=rss",
-        "summary": "There is an exponential growth of AI 'slop' involving players and football clubs. Is there anything that can be done to stop it?",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "'ai slop",
-            "exponential growth",
-            "football clubs"
-        ]
-    },
-    {
-        "title": "'There were tears - but I had to peek behind curtain of head injuries in rugby'",
-        "link": "https://www.bbc.com/sport/rugby-union/articles/cj0dyrv2rv0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Ben Youngs, Englands most-capped men's player, looks into concussion and brain injuries in rugby.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Negative",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "head injuries",
-            "ben youngs",
-            "men 's player"
-        ]
-    },
-    {
-        "title": "Live Updates: Mideast Conflict Widens Across Multiple Fronts",
+        "title": "Live Updates: Trump Suggests Extended War on Iran as U.S. Adds to Forces in Mideast",
         "link": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump",
-        "summary": "Iran and allied militias, including Hezbollah, attacked Israel and U.S. targets in the Gulf in retaliation for Ayatollah Khameneis death. Israel struck in Lebanon as President Trump said that the U.S....",
+        "summary": "Iran and allied militias, including Hezbollah, attacked Israel and U.S. targets, and Israel struck in Lebanon. President Trump said the campaign could last four to five weeks, but we have the capabili...",
         "source": "NYT > World News",
-        "objectivity_score": 18,
+        "objectivity_score": 52,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
             "live updates",
-            "widens across multiple fronts iran",
-            "ayatollah khameneis"
+            "trump suggests extended",
+            "mideast iran"
         ]
     },
     {
@@ -1326,7 +1328,36 @@
         ]
     },
     {
-        "title": "Canada\u2019s Leader Hails New Ties With India, Setting Aside Rift Over Killing",
+        "title": "How the Bombing of Iran Is Affecting Lebanon, Kuwait and Other Countries",
+        "link": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-attacks-damage-what-to-know.html",
+        "summary": "The Middle East is facing deaths and destruction as Iran retaliates against a huge American-Israeli military campaign.",
+        "source": "NYT > World News",
+        "objectivity_score": 34,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "affecting lebanon",
+            "military campaign"
+        ]
+    },
+    {
+        "title": "After Attacks in Iran, Cubans Worry They Might Be Trump\u2019s Next Target",
+        "link": "https://www.nytimes.com/2026/03/02/world/americas/iran-attacks-cuba-trump.html",
+        "summary": "Many Cubans are wondering if the Trump administration plans to target their countrys Communist government next.",
+        "source": "NYT > World News",
+        "objectivity_score": 16,
+        "sentiment": "Positive",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "might be trump",
+            "administration plans",
+            "countrys communist government"
+        ]
+    },
+    {
+        "title": "Carney Hails New Ties Between Canada and India, Setting Aside Rift Over Killing",
         "link": "https://www.nytimes.com/2026/03/02/world/canada/carney-india-modi.html",
         "summary": "Prime Minister Mark Carney focused on business during a meeting with his Indian counterpart, Narendra Modi, with little mention of Indias alleged role in a deadly shooting in 2023.",
         "source": "NYT > World News",
@@ -1335,9 +1366,24 @@
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "\u2019 s leader",
+            "carney hails",
             "setting aside rift",
             "killing prime"
+        ]
+    },
+    {
+        "title": "Macron Expands French Nuclear Arsenal and Vows Protection for Neighbors",
+        "link": "https://www.nytimes.com/2026/03/02/world/europe/macron-expands-french-nuclear-arsenal-and-vows-protection-for-neighbors.html",
+        "summary": "The announcement was a significant step in forging a European deterrent as Russia grows more aggressive and the U.S. steps back.",
+        "source": "NYT > World News",
+        "objectivity_score": 27,
+        "sentiment": "Positive",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "macron expands",
+            "nuclear arsenal",
+            "vows protection"
         ]
     },
     {
@@ -1368,21 +1414,6 @@
             "abu dhabi",
             "u.s.-israeli strikes",
             "gulf cities"
-        ]
-    },
-    {
-        "title": "Who Could Take Over for Ayatollah Ali Khamenei?",
-        "link": "https://www.nytimes.com/2026/02/28/world/middleeast/ali-khamenei-iran-leader-succession.html",
-        "summary": "Now that Iran has declared that its supreme leader is dead, it is unclear which of his possible successors might rise.",
-        "source": "NYT > World News",
-        "objectivity_score": 70,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "ayatollah ali khamenei",
-            "supreme leader",
-            "possible successors"
         ]
     },
     {
@@ -1444,33 +1475,123 @@
         ]
     },
     {
-        "title": "The Bloody Rise and Fall of Mexico\u2019s Top Crime Boss",
-        "link": "https://www.nytimes.com/2026/02/28/world/americas/mexico-mencho-career-death.html",
-        "summary": "El Menchos brutality and business acumen put him atop the cartel world, until he made a fatal mistake.",
+        "title": "How Trump Decided to Go to War With Iran",
+        "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html",
+        "summary": "President Trumps embrace of military action in Iran was spurred by an Israeli leader determined to end diplomatic negotiations. Few of the presidents advisers voiced opposition.",
         "source": "NYT > World News",
-        "objectivity_score": 70,
-        "sentiment": "Negative",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "bloody rise",
-            "boss el menchos",
-            "business acumen"
-        ]
-    },
-    {
-        "title": "Trump Gives Green Light to Private Oil Sales to Cuba",
-        "link": "https://www.nytimes.com/2026/02/28/world/americas/trump-cuba-oil-sales.html",
-        "summary": "After blocking foreign oil shipments, the Trump administration is now allowing small amounts of oil to enter Cuba  as long as they circumvent government hands.",
-        "source": "NYT > World News",
-        "objectivity_score": 38,
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "trump gives",
-            "private oil",
-            "foreign oil shipments"
+            "trump decided",
+            "military action",
+            "diplomatic negotiations"
+        ]
+    },
+    {
+        "title": "Dubai Says \u2018Limited\u2019 Flights Will Resume From Its Airports",
+        "link": "https://www.nytimes.com/2026/03/02/world/middleeast/dubai-flights.html",
+        "summary": "Emirates and FlyDubai said they would make a small number of flights to and from Dubai starting Monday night after shutting down because of airstrikes in the region.",
+        "source": "NYT > World News",
+        "objectivity_score": 23,
+        "sentiment": "Negative",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "dubai says",
+            "flights will resume",
+            "airports emirates"
+        ]
+    },
+    {
+        "title": "The Unexpected Winners From Trump\u2019s New Global Tariff",
+        "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-tariffs-winners-losers.html",
+        "summary": "The presidents flat 10 percent tariff is most beneficial to nations that previously faced the highest rates. But its not clear how much that will prompt a new surge in imports.",
+        "source": "NYT > World News",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "unexpected winners",
+            "global tariff",
+            "presidents flat"
+        ]
+    },
+    {
+        "title": "Spain Denies U.S. Military Use of Its Bases for Iran Attack",
+        "link": "https://www.nytimes.com/2026/03/02/world/middleeast/spain-denies-us-air-base.html",
+        "summary": "The leftist government in Madrid said the war against Iran violated both international law and the agreement between Spain and the United States on the use of air bases.",
+        "source": "NYT > World News",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "spain denies u.s.",
+            "iran attack",
+            "leftist government"
+        ]
+    },
+    {
+        "title": "Behind Trump\u2019s Reversal On Regime Change",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000010745457/behind-trumps-reversal-on-regime-change.html",
+        "summary": "As a candidate, Donald J. Trump criticized regime change as a proven, absolute failure. Now he finds himself pursuing the exact kind of regime change he once criticized. Our chief White House correspo...",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "donald j. trump",
+            "absolute failure",
+            "exact kind"
+        ]
+    },
+    {
+        "title": "More Lebanese Flee Their Homes as Israel Strikes Back at Iran-Backed Hezbollah",
+        "link": "https://www.nytimes.com/2026/03/02/world/middleeast/israel-lebanon-strikes-hezbollah-iran.html",
+        "summary": "The three-day U.S.-Israeli war with Iran and its allies brought a new wave of displacement to war-weary Lebanon, after Israel retaliated for Hezbollah rocket attacks.",
+        "source": "NYT > World News",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "lebanese flee",
+            "israel strikes",
+            "iran-backed hezbollah"
+        ]
+    },
+    {
+        "title": "Iranian Strikes Hit Qatar and Saudi Energy Sites, Threatening Oil and Gas Supplies",
+        "link": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-attack-saudi-arabia-qatar-oil-gas-energy.html",
+        "summary": "Strikes on sites in Qatar and Saudi Arabia forced the closure of key production facilities and added to growing worries about global oil and gas supplies.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "iranian strikes",
+            "saudi energy sites",
+            "supplies strikes"
+        ]
+    },
+    {
+        "title": "Iran\u2019s Top Security Official Calls Trump\u2019s War Aims \u2018Delusional\u2019 and Says Iran \u2018Will Not Negotiate\u2019",
+        "link": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-trump-war-goals.html",
+        "summary": "Ali Larijani, seen as a pragmatist who could negotiate with Washington, struck a defiant tone and vowed to fight on.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s war",
+            "says iran",
+            "ali larijani"
         ]
     },
     {
@@ -1489,134 +1610,18 @@
         ]
     },
     {
-        "title": "Starmer Faces Dilemma as British Base in Cyprus Hit by Drone",
+        "title": "After a Drone Strikes RAF Base in Cyprus, UK Risks Being Dragged Further Into Iran Conflict",
         "link": "https://www.nytimes.com/2026/03/02/world/middleeast/starmer-faces-dilemma-as-british-base-in-cyprus-hit-by-drone.html",
-        "summary": "Prime Minister Keir Starmer risks being dragged deeper into the conflict, after allowing the U.S. military to use British bases for defensive purposes.",
+        "summary": "The government of Prime Minister Keir Starmer risks being dragged deeper into the conflict, after allowing the U.S. military to use British bases for defensive purposes.",
         "source": "NYT > World News",
-        "objectivity_score": 27,
+        "objectivity_score": 40,
         "sentiment": "Negative",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "starmer faces dilemma",
-            "drone prime",
+            "drone strikes raf base",
+            "uk risks",
             "keir starmer"
-        ]
-    },
-    {
-        "title": "After \u2018Priceless\u2019 Violin Flies on Lap, Lufthansa Changes Carry-On Rules",
-        "link": "https://www.nytimes.com/2026/03/02/travel/musical-instruments-travel-accommodations.html",
-        "summary": "Carolin Widmann had to cradle her centuries-old, multimillion-dollar instrument during a flight to Germany. Her predicament resonated with musicians who have faced similar challenges.",
-        "source": "NYT > World News",
-        "objectivity_score": 70,
-        "sentiment": "Positive",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "violin flies",
-            "carolin widmann",
-            "multimillion-dollar instrument"
-        ]
-    },
-    {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump/heres-the-latest",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 90,
-        "sentiment": "Positive",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "here\u2019s"
-        ]
-    },
-    {
-        "title": "Iran War Expands to Lebanon\u2019s Hezbollah",
-        "link": "https://www.nytimes.com/video/world/middleeast/100000010746291/israel-strikes-beirut-hezbollah.html",
-        "summary": "Israeli strikes hit a suburb of Beirut, Lebanon, on Monday in retaliation for attacks from Hezbollah, an Iran-backed militant group.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "hezbollah israeli",
-            "militant group"
-        ]
-    },
-    {
-        "title": "China\u2019s New Study Buddy: The A.I. Chatbot",
-        "link": "https://www.nytimes.com/video/world/asia/100000010707197/china-ai-chatbot-homework.html",
-        "summary": "Parents in China are using homegrown chatbots like DeepSeek and Doubao as well as Googles Gemini to help their children with homework and give them an academic edge.",
-        "source": "NYT > World News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "homegrown chatbots",
-            "googles gemini",
-            "academic edge"
-        ]
-    },
-    {
-        "title": "Iran Strikes U.S. Military Facilities in Dubai, Bahrain and Other Middle East Locations",
-        "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-strikes-us-military-facilities.html",
-        "summary": "A Times analysis of satellite imagery and verified videos shows Iran found vulnerabilities in U.S. locations in the region.",
-        "source": "NYT > World News",
-        "objectivity_score": 15,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "iran strikes u.s.",
-            "satellite imagery",
-            "videos shows"
-        ]
-    },
-    {
-        "title": "U.S. Takes Casualties as Attacks on Iran Intensify",
-        "link": "https://www.nytimes.com/video/world/middleeast/100000010745920/iran-us-israel-attack.html",
-        "summary": "The U.S. and Israel attacked Iran for a second day, and Iran retaliated, striking Israel and Persian Gulf countries. One strike killed three American service members at a base in Kuwait.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "u.s. takes casualties",
-            "iran intensify",
-            "persian gulf countries"
-        ]
-    },
-    {
-        "title": "Israel Strikes Beirut After Hezbollah Attacks",
-        "link": "https://www.nytimes.com/2026/03/01/world/middleeast/israel-strikes-beirut-hezbollah.html",
-        "summary": "Residents fled in panic as Israeli jets struck Hezbollah strongholds in response to a midnight barrage, an expansion of the war between Israel, the U.S. and Iran.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "israel strikes beirut",
-            "midnight barrage"
-        ]
-    },
-    {
-        "title": "Trump Says Iran War Could Last Weeks and Gives Competing Visions of New Regime",
-        "link": "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html",
-        "summary": "In a brief interview, he said the countrys hardened military should simply surrender their weapons to the Iranian public.",
-        "source": "NYT > World News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "trump says iran",
-            "gives competing visions",
-            "brief interview"
         ]
     },
     {
@@ -1845,228 +1850,228 @@
         ]
     },
     {
-        "title": "Former NSW Liberal premier Nick Greiner warned executive of internal backlash over burying of election defeat review",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/02/former-nsw-premier-nick-greiner-warned-executive-of-internal-backlash-over-burying-of-election-defeat-review",
-        "summary": "Release of review delayed after former leader Peter Dutton raised concerns about some findings against him and his chief-of-staffGet our breaking news email, free app or daily news podcastThe former N...",
+        "title": "Jacinta Allan says planned work-from-home law would affect all Victorian businesses",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/02/victoria-wfh-law-work-from-home-jacinta-allan",
+        "summary": "Small employers wont be exempt from proposed legislation designed to allow offsite working two days a weekGet our breaking news email, free app or daily news podcastAll employers will be affected by t...",
         "source": "World news | The Guardian",
-        "objectivity_score": 26,
+        "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "liberal premier",
-            "nick greiner",
-            "internal backlash"
+            "jacinta allan",
+            "work-from-home law",
+            "employers wont"
         ]
     },
     {
-        "title": "Hanson calls censure motion a \u2018stunt\u2019 before leaving chamber \u2013 as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/mar/02/politics-updates-federal-parliament-anthony-albanese-labor-angus-taylor-coalition-nsw-budget-estimates-iran-war-reactions-ntwnfb",
-        "summary": "This blog is now closedPauline Hanson censured over Muslim comments but only two Coalition senators back motionGet our breaking news email, free app or daily news podcastJoyce says petrol prices will ...",
+        "title": "Sydney to get its first new inner-city suburb in decades as Glebe Island becomes Bays West",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/02/sydney-new-suburb-bays-west-glebe-island",
+        "summary": "City-shaping transformation of industrial precinct to include more than 8,500 new homes and public waterfront accessGet our breaking news email, free app or daily news podcastSydney will get its first...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 32,
+        "sentiment": "Positive",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "new inner-city suburb",
+            "industrial precinct",
+            "new homes"
+        ]
+    },
+    {
+        "title": "Australian wildlife in \u2018harm\u2019s way\u2019 with volunteers left to \u2018pick up the pieces\u2019 amid climate crisis, fires and floods",
+        "link": "https://www.theguardian.com/environment/2026/mar/03/australian-wildlife-in-harms-way-with-volunteers-left-to-pick-up-the-pieces-amid-climate-crisis-fires-and-floods",
+        "summary": "Ken Henry leads push for federal government to do more to protect animals as biodiversity declinesGet our breaking news email, free app or daily news podcastLabor is being pushed to introduce tough ne...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 34,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "calls censure motion",
-            "\u2018 stunt \u2019",
-            "chamber \u2013"
+            "\u2018 harm \u2019 s way \u2019",
+            "pieces \u2019",
+            "climate crisis"
         ]
     },
     {
-        "title": "Pauline Hanson censured over Muslim comments but only two Coalition senators back motion",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/02/pauline-hanson-expected-censure-motion-senate-australian-muslim-comments-ntwnfb",
-        "summary": "It is Hansons second censure within four months, this time over comments questioning whether there were good MuslimsFollow our Australia news live blog for latest updatesGet our breaking news email, f...",
+        "title": "Men almost twice as likely as women to earn high salaries in \u2018reality check\u2019 on Australia\u2019s gender pay gap",
+        "link": "https://www.theguardian.com/business/2026/mar/02/australia-gender-pay-gap-men-top-salaries",
+        "summary": "Workplace Gender Equality Agency report shows a slight increase in number of women in highly paid roles, which are still dominated by menGet our breaking news email, free app or daily news podcastMen ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 49,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "\u2018 reality check \u2019",
+            "\u2019 s gender pay gap",
+            "workplace gender equality"
+        ]
+    },
+    {
+        "title": "Pauline Hanson claimed taxpayer-funded trips around Australia that coincided with One Nation fundraisers",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/02/pauline-hanson-one-nation-claimed-taxpayer-funded-trips-australia-ntwnfb",
+        "summary": "Queensland senator also billed taxpayers for flights to campaign alongside her daughter, Lee Hanson, in Tasmania at last electionGet our breaking news email, free app or daily news podcastPauline Hans...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "pauline hanson",
+            "lee hanson",
+            "news email"
+        ]
+    },
+    {
+        "title": "Judge adjourns Paris trial of Islam scholar accused of raping three women",
+        "link": "https://www.theguardian.com/world/2026/mar/02/islam-scholar-tariq-ramadan-goes-on-trial-in-paris-accused-of-raping-three-women",
+        "summary": "Former Oxford professor Tariq Ramadan did not appear in court as he was in a Geneva hospital, according to lawyersThe prominent Swiss academic and Islam scholar Tariq Ramadan has not appeared in court...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 22,
+        "sentiment": "Positive",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "judge adjourns",
+            "tariq ramadan",
+            "tariq ramadan"
+        ]
+    },
+    {
+        "title": "Hezbollah said to have launched drone that struck UK RAF airbase in Cyprus",
+        "link": "https://www.theguardian.com/world/2026/mar/02/uk-airbase-raf-akrotiri-cyprus-suspected-drone-strike",
+        "summary": "Two more drones intercepted on Monday, authorities say, in what appears to be sustained targeting of baseUS-Israel war on Iran  live updatesA one-way attack drone  said to have been launched by Lebano...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 48,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "uk raf",
+            "baseus-israel war",
+            "updatesa one-way attack drone"
+        ]
+    },
+    {
+        "title": "France to increase its number of nuclear warheads, Macron says \u2013 as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/mar/02/eu-response-middle-east-conflict-evacuate-citizens-europe-live-latest-news",
+        "summary": "French president says deterrent needs to be strengthened in recognition of  new challengesA Cypriot government spokesperson has just confirmed that two unmanned drones headed to RAF Akrotiri were inte...",
         "source": "World news | The Guardian",
         "objectivity_score": 36,
         "sentiment": "Positive",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "pauline hanson",
-            "news email",
-            "free app"
+            "nuclear warheads",
+            "french president",
+            "deterrent needs"
         ]
     },
     {
-        "title": "Angus Taylor snaps at journalist as Liberals ramp up rhetoric against Australian children in Syrian camp",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/02/angus-taylor-islamic-state-syria-comments-ntwnfb",
-        "summary": "Opposition leader suggests 23 children and 11 women attempting to leave al-Roj are Islamic State sympathisersFollow our Australia news live blog for latest updatesGet our breaking news email, free app...",
+        "title": "Spain denies US permission to use jointly operated bases to attack Iran",
+        "link": "https://www.theguardian.com/world/2026/mar/02/spain-denies-united-states-permission-military-bases-iran-pedro-sanchez",
+        "summary": "Refusal to allow use of bases in Rota and Morn follows Pedro Snchezs condemnation of US-Israeli actionUS-Israel war on Iran  live updatesWhat we know so far on day three of the Iran warSpain has denie...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "denies us permission",
+            "iran refusal",
+            "pedro snchezs"
+        ]
+    },
+    {
+        "title": "\u2018He worked on his speech in French for months\u2019: C\u00e9sar awards boss rejects Jim Carrey clone conspiracy theories",
+        "link": "https://www.theguardian.com/film/2026/mar/02/cesar-awards-boss-rejects-jim-carrey-clone-conspiracy-theories",
+        "summary": "Gregory Caulier has attempted to quash rumours that Mask actor was replaced by a heavily made-up impersonator for his appearance picking up an honorary award in ParisThe organiser of the Csar awards h...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "months \u2019",
+            "awards boss rejects",
+            "jim carrey"
+        ]
+    },
+    {
+        "title": "Trump vows to continue \u2018large-scale operations\u2019 and details Iran objectives after refusing to rule out boots on the ground \u2013 live",
+        "link": "https://www.theguardian.com/us-news/live/2026/mar/02/democrats-to-force-vote-in-congress-to-limit-trumps-war-powers-against-iran-us-politics-live",
+        "summary": "Trump says the US is already substantially ahead of its time projections after telling New York Post, I dont have the yips with respect to boots on the groundHegseth says US wont get bogged down in Ir...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 39,
         "sentiment": "Positive",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "angus taylor",
-            "liberals ramp",
-            "leader suggests"
+            "\u2018 large-scale operations \u2019",
+            "ground \u2013",
+            "time projections"
         ]
     },
     {
-        "title": "Desperate first home buyers are fuelling price \u2018up-crash\u2019 at lower end of market, experts say",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/02/australia-house-prices-interest-rates-buyers",
-        "summary": "Biggest house price increases in February come in smaller capital cities as buyers undeterred by interest rate hikesFollow our Australia news live blog for latest updatesGet our breaking news email, f...",
+        "title": "Middle East crisis live: Israel launches new attacks on Tehran and Beirut as Trump lays out objectives",
+        "link": "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news",
+        "summary": "Donald Trump said they projected the mission to go on for four-five weeks at the beginning, but adds they have capability to go far longerPodcast: The assassination of Irans ayatollahHave you been aff...",
         "source": "World news | The Guardian",
         "objectivity_score": 44,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "home buyers",
-            "price \u2018 up-crash \u2019",
-            "house price increases"
+            "new attacks",
+            "donald trump",
+            "four-five weeks"
         ]
     },
     {
-        "title": "EU considers response to Middle East conflict as countries prepare to evacuate citizens \u2013 Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/mar/02/eu-response-middle-east-conflict-evacuate-citizens-europe-live-latest-news",
-        "summary": "EUs top diplomat, Kaja Kallas, warns against further escalation following US and Israel strikes on IranA Cypriot government spokesperson has just confirmed that two unmanned drones headed to RAF Akrot...",
+        "title": "US-Israel war on Iran dramatically expands across Middle East",
+        "link": "https://www.theguardian.com/world/2026/mar/02/us-israel-war-on-iran-dramatically-expands-across-middle-east",
+        "summary": "US allies in Gulf states come under attack from Iranian missiles and drones as three US fighter jets mistakenly shot down by KuwaitUS-Israel war on Iran  live updatesThe war in the Middle East trigger...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "considers response",
-            "citizens \u2013",
-            "top diplomat"
-        ]
-    },
-    {
-        "title": "UK RAF airbase in Cyprus hit by drone strike",
-        "link": "https://www.theguardian.com/world/2026/mar/02/uk-airbase-raf-akrotiri-cyprus-suspected-drone-strike",
-        "summary": "Two more drones intercepted on Monday, authorities say, in what appears to be sustained targeting of base US-Israel war on Iran  live updatesA one-way attack drone struck the UKs RAF Akrotiri base in ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 53,
+        "objectivity_score": 30,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "uk raf",
-            "drone strike",
-            "updatesa one-way attack drone"
+            "us allies",
+            "gulf states",
+            "us fighter jets"
         ]
     },
     {
-        "title": "Islam scholar Tariq Ramadan goes on trial in Paris accused of raping three women",
-        "link": "https://www.theguardian.com/world/2026/mar/02/islam-scholar-tariq-ramadan-goes-on-trial-in-paris-accused-of-raping-three-women",
-        "summary": "Former Oxford University professor and UK government adviser faces up to 20 years in prison if convictedThe prominent Swiss academic and Islam scholar Tariq Ramadan will go trial in Paris on Monday on...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "tariq ramadan",
-            "university professor",
-            "government adviser"
-        ]
-    },
-    {
-        "title": "\u2018Some parents said they\u2019d break my knees\u2019: the teacher who exposed Putin\u2019s primary school propaganda",
-        "link": "https://www.theguardian.com/film/2026/mar/02/teacher-putin-primary-school-propoganda-mr-nobody-against-putin-pavel-talankin",
-        "summary": "Grenade-throwing contests replaced PE and denazification speeches became homework. Pavel Talankins undercover film about his schools indoctrination drive won a Bafta and is tipped for an Oscar, but ha...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 20,
-        "sentiment": "Positive",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "knees \u2019",
-            "\u2019 s primary school propaganda",
-            "denazification speeches"
-        ]
-    },
-    {
-        "title": "Rolls-Royce boss \u2018open\u2019 to Germany joining UK\u2019s fighter jet project",
-        "link": "https://www.theguardian.com/business/2026/mar/02/rolls-royce-germany-uk-fighter-jet-tufan-erginbilgic",
-        "summary": "Tufan Erginbilgi says decision is for the government but German participation remains a possibilityBusiness live  latest updatesThe boss of Rolls-Royce has said he would welcome Germany helping to bui...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 54,
-        "sentiment": "Positive",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "boss \u2018",
-            "open \u2019",
-            "\u2019 s fighter jet project"
-        ]
-    },
-    {
-        "title": "Middle East crisis live: Kuwait mistakenly shoots down three US fighter planes, as US says Iran\u2019s \u2018reckless\u2019 attacks threaten regional stability",
-        "link": "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news",
-        "summary": "Israeli military says fighting Iran-backed Hezbollah could take many more days; US crew bailed out safely after crash-landing, says KuwaitPodcast: The assassination of Irans ayatollahHave you been aff...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 37,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "us fighter planes",
-            "reckless \u2019 attacks",
-            "regional stability"
-        ]
-    },
-    {
-        "title": "Pete Hegseth to hold press conference about US action in Iran \u2013 US politics live",
-        "link": "https://www.theguardian.com/us-news/live/2026/mar/02/democrats-to-force-vote-in-congress-to-limit-trumps-war-powers-against-iran-us-politics-live",
-        "summary": "Defense secretary and Gen Dan Caine, chair of the joint chiefs of staff, to speak at 8am ET as Democrats aim to force Congress vote to limit Trumps war powersSign up for the Breaking News US email to ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "pete hegseth",
-            "press conference",
-            "us action"
-        ]
-    },
-    {
-        "title": "Trump says Starmer took \u2018far too much time\u2019 to let US use UK bases for Iran attacks \u2013 UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/mar/02/raf-cyprus-yvette-cooper-keir-starmer-us-iran-israel-uk-politics-latest-news",
-        "summary": "Report says US president is disappointed that Starmer didnt initially agree to allow the US to use British bases for military attacksSimply not true UK is being dragged into Iraq-style conflict, says ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "time \u2019",
-            "us use",
-            "attacks \u2013"
-        ]
-    },
-    {
-        "title": "Oil prices rise and stock markets dip as Iran war threatens global economy",
+        "title": "Gas prices soar and oil jumps as Iran war pushes down global stock markets",
         "link": "https://www.theguardian.com/world/2026/mar/02/oil-prices-iran-war-strait-of-hormuz-shipping",
-        "summary": "Brent crude up 13% in early trading with markets under pressure as US-Israeli strikes on Iran effectively close strait of Hormuz to shippingBusiness live  latest updatesOil prices rose and stock marke...",
+        "summary": "QatarEnergy says it has halted production of liquefied natural gas after attacks on Ras Laffan and Mesaieed sitesBusiness live  latest updatesUS-Israel war on Iran  live updatesGas prices surged on Mo...",
         "source": "World news | The Guardian",
-        "objectivity_score": 57,
+        "objectivity_score": 51,
         "sentiment": "Positive",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "oil prices rise",
-            "stock markets dip",
-            "war threatens"
+            "gas prices soar",
+            "oil jumps",
+            "war pushes"
         ]
     },
     {
-        "title": "Thousands of flights cancelled as world faces worst travel chaos since Covid pandemic",
-        "link": "https://www.theguardian.com/world/2026/mar/02/flights-cancelled-middle-east-travel-chaos-us-israeli-iran-conflictflights-cancelled-middle-east-travel-chaos-us-israeli-iran-conflict",
-        "summary": "Hundreds of thousands of passengers remain stranded, with key air hubs in Middle East closed amid fallout from US-Israeli strikes on IranUS-Israeli attack on Iran  live updatesThousands more flights w...",
+        "title": "Internet blackout is tool of desperate regime to isolate Iranians, say experts",
+        "link": "https://www.theguardian.com/world/2026/mar/02/internet-blackout-regime-iranians-experts-digital-censorship",
+        "summary": "Digital censorship analysts argue current outage is mostly about survival and control for the countrys rulersUS-Israel war on Iran  live updatesRoughly four hours after the first strikes hit Iran, the...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 38,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "travel chaos",
-            "key air hubs",
-            "global air travel"
+            "desperate regime",
+            "censorship analysts",
+            "current outage"
         ]
     },
     {
@@ -2145,153 +2150,153 @@
         ]
     },
     {
-        "title": "UK house prices rise in February as chancellor avoids \u2018negative speculation\u2019",
-        "link": "https://www.theguardian.com/business/2026/mar/02/uk-house-prices-rise-february-spring-forecast-rachel-reeves",
-        "summary": "Rachel Reevess upcoming spring forecast has not led to slowdown, as property tax rumours did in NovemberBusiness live  latest updatesUK politics live  latest updatesHouse prices in the UK increased in...",
+        "title": "Maritime insurers cancel war risk cover in Gulf as Iran conflict disrupts shipping",
+        "link": "https://www.theguardian.com/business/2026/mar/02/maritime-insurers-war-risk-cover-gulf-iran-shipping-strait-of-hormuz",
+        "summary": "Strait of Hormuz is effectively closed and vessels rerouted, sending some freight costs surgingLeading maritime insurers have cancelled war risk cover for vessels operating in the Gulf as the escalati...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 26,
+        "sentiment": "Negative",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "war risk",
+            "conflict disrupts shipping",
+            "freight costs"
+        ]
+    },
+    {
+        "title": "UK firms in Middle East face heightened threat from Iran hackers, agency warns",
+        "link": "https://www.theguardian.com/technology/2026/mar/02/uk-companies-middle-east-cyber-threat-iran-hacktivists",
+        "summary": "National Cyber Security Centre urges increased vigilance over risk of indirect attack by hacktivists amid conflictUS-Israel war on Iran  live updatesUK businesses with a presence in the Middle East ha...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 21,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "house prices rise",
-            "negative speculation \u2019",
-            "rachel reevess"
+            "agency warns",
+            "indirect attack",
+            "conflictus-israel war"
         ]
     },
     {
-        "title": "Top UK film and TV production school puts spotlight on students with disabilities",
-        "link": "https://www.theguardian.com/education/2026/mar/02/uk-national-film-and-television-school-puts-spotlight-on-students-with-disabilities",
-        "summary": "Exclusive: National Film and Television School introduces fully accessible accommodation and bursary scheme at its Beaconsfield campus For a long time, physically disabled students who dreamed of stud...",
+        "title": "BrewDog bought by US cannabis and drinks firm for \u00a333m, costing nearly 500 jobs",
+        "link": "https://www.theguardian.com/business/2026/mar/02/brewdog-us-cannabis-drinks-500-jobs",
+        "summary": "Many early stage crowdfunders left empty-handed as Tilray acquires beer companys UK and Irish assetsBusiness live  latest updatesThe UK and Irish assets of BrewDog, the Scottish self-styled punk brewe...",
         "source": "World news | The Guardian",
-        "objectivity_score": 34,
+        "objectivity_score": 39,
         "sentiment": "Positive",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "top uk",
-            "tv production school",
-            "school introduces"
+            "us cannabis",
+            "drinks firm",
+            "early stage crowdfunders"
         ]
     },
     {
-        "title": "UK competition watchdog investigates hotel groups over alleged data sharing",
-        "link": "https://www.theguardian.com/business/2026/mar/02/uk-competition-watchdog-investigates-hilton-marriott-intercontinental-hotel-groups-alleged-data-sharing",
-        "summary": "Regulator looks into claim Hilton, InterContinental Hotels and Marriott could be sharing competitively sensitive information via analytics tool Business live  latest updatesThe UK competition watchdog...",
+        "title": "Daily Mail royal editor denies using private investigator to \u2018blag\u2019 Harry information",
+        "link": "https://www.theguardian.com/media/2026/mar/02/daily-mail-royal-editor-denies-using-private-investigator-to-blag-harry-information",
+        "summary": "Rebecca English shown emails at high court trial suggesting investigator went out on a limb to help herThe Daily Mails royal editor has denied using a private investigator to blag information about th...",
         "source": "World news | The Guardian",
-        "objectivity_score": 56,
-        "sentiment": "Positive",
+        "objectivity_score": 16,
+        "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "competition watchdog investigates hotel groups",
-            "intercontinental hotels",
-            "sensitive information"
+            "daily mail",
+            "royal editor denies",
+            "private investigator"
         ]
     },
     {
-        "title": "Labour council accuses minister of \u2018moral bankruptcy\u2019 over social care dispute",
-        "link": "https://www.theguardian.com/society/2026/mar/02/labour-council-minister-steve-reed-moral-bankruptcy-social-care-dispute",
-        "summary": "Hartlepool leaders furious and appalled after meeting with Steve Reed about growing cost of social careThe housing, communities and local government secretary has been accused by a Labour council of s...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 34,
-        "sentiment": "Negative",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "council accuses minister",
-            "moral bankruptcy \u2019",
-            "social care dispute"
-        ]
-    },
-    {
-        "title": "Most senior council officers in England say building work hit by delays",
-        "link": "https://www.theguardian.com/society/2026/mar/02/senior-council-officers-building-work-hit-by-delays",
-        "summary": "Funding uncertainty is main concern, despite Labours pledge to revitalise construction, survey showsBusiness live  latest updatesAlmost two-thirds of senior council officers have said they are seeing ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "senior council officers",
-            "building work",
-            "main concern"
-        ]
-    },
-    {
-        "title": "As measles spreads in South Carolina, RFK Jr\u2019s allies work to gut vaccine laws",
-        "link": "https://www.theguardian.com/us-news/2026/mar/02/measles-south-carolina-rfk-jr-vaccine-laws",
-        "summary": "Activists who dispute safety of vaccines are pushing to limit immunization requirements in schoolsAs South Carolina grapples with a measles outbreak that has infected nearly 1,000 people, groups with ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Negative",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "rfk jr",
-            "\u2019 s allies work",
-            "gut vaccine laws"
-        ]
-    },
-    {
-        "title": "Missing Florida man found over a week later trapped in shoulder-deep mud",
-        "link": "https://www.theguardian.com/us-news/2026/mar/02/missing-florida-man-found-mud-rescue",
-        "summary": "Local crews rescued Andrew Giddens, 36, near a borrow pit after he faced freezing weather without food or waterA Florida man who had been missing since Valentines Day was found over a week later trapp...",
+        "title": "MPs\u2019 basic salary to rise to \u00a3110,000 by end of parliament, watchdog says",
+        "link": "https://www.theguardian.com/politics/2026/mar/02/mps-salary-pay-house-of-commons-watchdog-abuse-workload",
+        "summary": "Ipsa cites rising abuse and constituency workloads as reasons for above-inflation increase of 5% from AprilThe basic annual salary of MPs will soon rise to 110,000, the expenses watchdog has said, on ...",
         "source": "World news | The Guardian",
         "objectivity_score": 19,
-        "sentiment": "Negative",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "missing florida",
-            "shoulder-deep mud",
-            "local crews"
-        ]
-    },
-    {
-        "title": "Lack of a clear Iran plan could suck US into a long conflict: \u2018Where does this go?\u2019",
-        "link": "https://www.theguardian.com/world/2026/mar/02/iran-attack-plan-what-next",
-        "summary": "Fears that decision to strike could be open-ended as Trump comes under pressure to spell out his vision for the countryUS-Israel war on Iran  latest updatesSign up for the Breaking News US emailDonald...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-03-02",
-        "image_url": null,
-        "keywords": [
-            "suck us",
-            "long conflict",
-            "countryus-israel war"
-        ]
-    },
-    {
-        "title": "Austin bar shooting leaves three dead, including suspect, and 14 wounded",
-        "link": "https://www.theguardian.com/us-news/2026/mar/01/texas-bar-shooting",
-        "summary": "FBI official says evidence found on the suspect and in his car indicated a potential nexus to terrorismSign up for the Breaking News US email to get newsletter alerts in your inboxThe FBIs joint terro...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 66,
         "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "potential nexus",
-            "news us email",
-            "newsletter alerts"
+            "basic salary",
+            "constituency workloads",
+            "above-inflation increase"
         ]
     },
     {
-        "title": "Trump says he is open to talks with Iran as conflict deepens in Middle East",
-        "link": "https://www.theguardian.com/world/2026/mar/01/trump-open-to-talks-with-iran-as-conflict-deepens-in-middle-east",
-        "summary": "US president signals potential willingness to engage with surviving leadership as violence intensifies across regionUS-Israel war on Iran  latest updatesDonald Trump said on Sunday he was prepared to ...",
+        "title": "McDonald\u2019s CEO\u2019s awkward taste test sparks mocking online: \u2018His aura screams kale salad\u2019",
+        "link": "https://www.theguardian.com/business/2026/mar/02/mcdonalds-ceos-awkward-taste-test",
+        "summary": "Video of Chris Kempczinski trying new product the Big Arch burger criticized for feeling forced and corporateBusiness leaders are increasingly placing themselves in front of the camera, in an effort t...",
         "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Positive",
+        "objectivity_score": 42,
+        "sentiment": "Neutral",
         "date": "2026-03-02",
         "image_url": null,
         "keywords": [
-            "conflict deepens",
-            "us president signals potential willingness",
-            "violence intensifies"
+            "\u2019 s awkward taste test",
+            "aura screams kale salad \u2019",
+            "chris kempczinski"
+        ]
+    },
+    {
+        "title": "Authorities investigate mass shooting at Austin bar as potential act of terrorism",
+        "link": "https://www.theguardian.com/us-news/2026/mar/02/austin-bar-shooting-investigation-potential-terrorism",
+        "summary": "Officials continue to investigate Sunday shooting in Texas amid fears of further attacks following US airstrikes on IranAustin bar shooting leaves three dead, including suspect, and 14 woundedOfficial...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "mass shooting",
+            "potential act",
+            "terrorism officials"
+        ]
+    },
+    {
+        "title": "Fourth American service member killed in Iran operation",
+        "link": "https://www.theguardian.com/world/2026/mar/02/iran-attack-fourth-us-service-member-killed",
+        "summary": "US military also says three US fighter jets were shot down over in friendly fire incident, all six crew members survivedUS-Israel war on Iran  live updatesSign up for the Breaking News US email to get...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "american service member",
+            "operation us",
+            "us fighter jets"
+        ]
+    },
+    {
+        "title": "US Department of Education hangs Charlie Kirk banner outside DC building",
+        "link": "https://www.theguardian.com/us-news/2026/mar/02/us-department-of-education-charlie-kirk-banner",
+        "summary": "Banner has sparked criticism as Kirk was a polarizing figure who made incendiary and often racist and sexist commentsThe US Department of Education has hung large banners outside its building in Washi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 24,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "us department",
+            "education hangs",
+            "charlie kirk"
+        ]
+    },
+    {
+        "title": "The war in the Middle East in maps, video and photos",
+        "link": "https://www.theguardian.com/world/2026/mar/02/war-middle-east-maps-video-photos-us-israel-iran",
+        "summary": "How the US-Israeli war against Iran exploded into a regional conflict, as Tehran retaliated with strikes across the Middle EastUS-Israel war on Iran  live updatesA US-Israeli war against Iran that beg...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-03-02",
+        "image_url": null,
+        "keywords": [
+            "regional conflict",
+            "missile attacks",
+            "supreme leader"
         ]
     }
 ]
