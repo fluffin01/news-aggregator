@@ -737,21 +737,6 @@
         ]
     },
     {
-        "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
-        "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sri Lanka's navy says around 140 people are feared missing after a military vessel went down off its southern coast.",
-        "source": "BBC News",
-        "objectivity_score": 8,
-        "sentiment": "Negative",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "us sub sinks",
-            "indian ocean",
-            "sri lanka"
-        ]
-    },
-    {
         "title": "'Every day feels like a month': Iranians describe life under 'constant' US-Israeli strikes",
         "link": "https://www.bbc.com/news/articles/cj4zze5lzjpo?at_medium=RSS&at_campaign=rss",
         "summary": "Iranians are coping with daily strikes, internet blackouts, and security crackdowns - all while trying to stay in touch with loved ones.",
@@ -797,31 +782,32 @@
         ]
     },
     {
-        "title": "MP says she has seen nothing to suspect husband has broken law, after China spying arrests",
-        "link": "https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Met Police suspect three men of assisting Chinese intelligence services in the UK.",
+        "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
+        "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Sri Lanka's navy says around 140 people are feared missing after a military vessel went down off its southern coast.",
         "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 8,
         "sentiment": "Negative",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "chinese intelligence services"
+            "us sub sinks",
+            "indian ocean",
+            "sri lanka"
         ]
     },
     {
-        "title": "Russia blames Ukrainian naval drones as tanker sinks in Mediterranean",
-        "link": "https://www.bbc.com/news/articles/cr5ll27z52do?at_medium=RSS&at_campaign=rss",
-        "summary": "The Arctic Metagaz went down between Libya and Malta after it was hit by explosions and a fire, Libyan officials say.",
+        "title": "Mahmood to set out curbs to asylum seeker support",
+        "link": "https://www.bbc.com/news/articles/c0j559146e6o?at_medium=RSS&at_campaign=rss",
+        "summary": "The home secretary will say in a speech the move is required to restore \"trust\" to the asylum system.",
         "source": "BBC News",
-        "objectivity_score": 14,
-        "sentiment": "Negative",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "naval drones",
-            "tanker sinks",
-            "arctic metagaz"
+            "asylum seeker support",
+            "asylum system"
         ]
     },
     {
@@ -838,33 +824,60 @@
         ]
     },
     {
-        "title": "Venezuela's interim president says country will work with US on mining developments",
-        "link": "https://www.bbc.com/news/articles/cj322v8pjp5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Venezuela's interim president made the announcement after meeting with US interior minister Doug Burgum at the presidential palace in Caracas.",
+        "title": "China sets lowest economic growth target since 1991",
+        "link": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
+        "summary": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 26,
+        "sentiment": "Positive",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "'s interim president",
-            "'s interim president",
-            "interior minister"
+            "economic growth target"
         ]
     },
     {
-        "title": "Harry Styles shares how Liam Payne's death made him relook at his life",
-        "link": "https://www.bbc.com/news/articles/c75eerene5eo?at_medium=RSS&at_campaign=rss",
-        "summary": "The singer revealed the impact of losing his former bandmate while discussing his upcoming album.",
+        "title": "Dentists who failed to see enough NHS patients return \u00a3900m of government funding",
+        "link": "https://www.bbc.com/news/articles/cpqwwvnp7z8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Sum represents 1 out of every 7 they have been given by NHS as dentists opt to chase private work.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 39,
+        "sentiment": "Negative",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "harry styles",
-            "liam payne",
-            "'s death"
+            "patients return \u00a3900m",
+            "dentists opt",
+            "private work"
+        ]
+    },
+    {
+        "title": "Spring sunshine means parts of the UK to bask in temperatures of 19C",
+        "link": "https://www.bbc.com/weather/articles/cpqww7l55rwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Warm temperatures for many are expected on Thursday but spring is showing its fickle nature with the weather is set to change next week as Darren Bett explains.",
+        "source": "BBC News",
+        "objectivity_score": 37,
+        "sentiment": "Positive",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "spring sunshine",
+            "fickle nature",
+            "darren bett"
+        ]
+    },
+    {
+        "title": "Allergy training to become compulsory in schools in England",
+        "link": "https://www.bbc.com/news/articles/cp811lgp106o?at_medium=RSS&at_campaign=rss",
+        "summary": "The plans, due to come into force in September, follow support for Benedict's Law, a campaign to improve allergy safety in schools.",
+        "source": "BBC News",
+        "objectivity_score": 37,
+        "sentiment": "Negative",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "'s law",
+            "allergy safety"
         ]
     },
     {
@@ -952,6 +965,20 @@
         ]
     },
     {
+        "title": "First UK government flight for Britons stuck in Middle East yet to take off",
+        "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss",
+        "summary": "The UK government says more than 130,000 British nationals have registered their interest in leaving the Middle East region.",
+        "source": "BBC News",
+        "objectivity_score": 16,
+        "sentiment": "Positive",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "government flight",
+            "british nationals"
+        ]
+    },
+    {
         "title": "Starmer defends Iran response as Badenoch calls for more action",
         "link": "https://www.bbc.com/news/articles/c5y4458d9jdo?at_medium=RSS&at_campaign=rss",
         "summary": "It comes after Trump criticised the PM for refusing to allow the use of UK bases in the initial US-Israel strikes.",
@@ -962,20 +989,6 @@
         "image_url": null,
         "keywords": [
             "starmer"
-        ]
-    },
-    {
-        "title": "First UK government flight to leave Middle East with more planned",
-        "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss",
-        "summary": "The UK government says more than 130,000 British nationals have registered their interest in leaving the Middle East region.",
-        "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Positive",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "government flight",
-            "british nationals"
         ]
     },
     {
@@ -1093,47 +1106,75 @@
         ]
     },
     {
-        "title": "Spring sunshine means parts of the UK to bask in temperatures of 19C",
-        "link": "https://www.bbc.com/weather/articles/cpqww7l55rwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Warm temperatures for many are expected on Thursday but spring is showing its fickle nature with the weather is set to change next week as Darren Bett explains.",
+        "title": "Harry Styles shares how Liam Payne's death made him relook at his life",
+        "link": "https://www.bbc.com/news/articles/c75eerene5eo?at_medium=RSS&at_campaign=rss",
+        "summary": "The singer revealed the impact of losing his former bandmate while discussing his upcoming album.",
         "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "spring sunshine",
-            "fickle nature",
-            "darren bett"
-        ]
-    },
-    {
-        "title": "Rabies victim's deterioration was 'traumatic'",
-        "link": "https://www.bbc.com/news/articles/czr006e4x12o?at_medium=RSS&at_campaign=rss",
-        "summary": "Yvonne Ford's daughter tells an inquest they do not want another family to endure the same loss.",
-        "source": "BBC News",
-        "objectivity_score": 8,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "victim 's deterioration",
-            "yvonne ford",
-            "'s daughter"
+            "harry styles",
+            "liam payne",
+            "'s death"
         ]
     },
     {
-        "title": "Man on trial for rape that saw Andrew Malkinson wrongfully jailed",
-        "link": "https://www.bbc.com/news/articles/ce3gg9v13gyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Paul Quinn denies raping a woman in a case that led to one of the \"very worst\" miscarriages of justice.",
+        "title": "MP says she has seen nothing to suspect husband has broken law, after China spying arrests",
+        "link": "https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Met Police suspect three men of assisting Chinese intelligence services in the UK.",
         "source": "BBC News",
-        "objectivity_score": 100,
+        "objectivity_score": 20,
         "sentiment": "Negative",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "andrew malkinson",
-            "paul quinn"
+            "chinese intelligence services"
+        ]
+    },
+    {
+        "title": "Venezuela's interim president says country will work with US on mining developments",
+        "link": "https://www.bbc.com/news/articles/cj322v8pjp5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Venezuela's interim president made the announcement after meeting with US interior minister Doug Burgum at the presidential palace in Caracas.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "'s interim president",
+            "'s interim president",
+            "interior minister"
+        ]
+    },
+    {
+        "title": "I invested in Brewdog in my husband's memory. He would be turning in his grave",
+        "link": "https://www.bbc.com/news/articles/c33jj1ll5vgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Early investors in Brewdog are sharing their stories after the company's collapse wiped out their stakes.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "husband 's memory",
+            "company 's collapse"
+        ]
+    },
+    {
+        "title": "Russia blames Ukrainian naval drones as tanker sinks in Mediterranean",
+        "link": "https://www.bbc.com/news/articles/cr5ll27z52do?at_medium=RSS&at_campaign=rss",
+        "summary": "The Arctic Metagaz went down between Libya and Malta after it was hit by explosions and a fire, Libyan officials say.",
+        "source": "BBC News",
+        "objectivity_score": 14,
+        "sentiment": "Negative",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "naval drones",
+            "tanker sinks",
+            "arctic metagaz"
         ]
     },
     {
@@ -1149,34 +1190,6 @@
             "summon attorney",
             "nancy mace",
             "pam bondi"
-        ]
-    },
-    {
-        "title": "Sisters drowned after paddle at national park beauty spot",
-        "link": "https://www.bbc.com/news/articles/c1d66xp5e5wo?at_medium=RSS&at_campaign=rss",
-        "summary": "Mountain rescuers told the inquest the women somehow fell or slipped and were unable to get out of the water.",
-        "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Negative",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "national park beauty spot"
-        ]
-    },
-    {
-        "title": "Ant and Dec win court order to trace 'secret profits' from Banksy deals",
-        "link": "https://www.bbc.com/news/articles/c9dnnqy9w92o?at_medium=RSS&at_campaign=rss",
-        "summary": "A court heard that an art consultant working for the TV hosts took \"secret and unauthorised profits\".",
-        "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Neutral",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "court order",
-            "trace 'secret profits",
-            "art consultant"
         ]
     },
     {
@@ -1238,7 +1251,7 @@
         ]
     },
     {
-        "title": "'Only one team tried to play' - Arsenal earn the points, but not plaudits",
+        "title": "'Only one team tried to play' -  Hurzeler criticises Arsenal",
         "link": "https://www.bbc.com/sport/football/articles/cqlggkln202o?at_medium=RSS&at_campaign=rss",
         "summary": "Was this the evening the villains of the Premier League title race became victors? BBC Sport's chief football writer Phil McNulty assesses the ramifications of a big night in Brighton.",
         "source": "BBC News",
@@ -1247,9 +1260,9 @@
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
+            "arsenal was",
             "premier league title race",
-            "bbc sport",
-            "chief football writer"
+            "bbc sport"
         ]
     },
     {
@@ -1268,6 +1281,21 @@
         ]
     },
     {
+        "title": "'England at crossroads as seismic India semi-final looms'",
+        "link": "https://www.bbc.com/sport/cricket/articles/c6266nmn8n7o?at_medium=RSS&at_campaign=rss",
+        "summary": "England, Harry Brook and Brendon McCullum need Jos Buttler now as much as ever as they face reigning champions India in the T20 World Cup semi-final.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Positive",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "semi-final looms",
+            "brendon mccullum",
+            "jos buttler"
+        ]
+    },
+    {
         "title": "Are big-game players keeping Celtic in title hunt?",
         "link": "https://www.bbc.com/sport/football/articles/cvg331yp49xo?at_medium=RSS&at_campaign=rss",
         "summary": "Celtic relied on big moments from key players to haul them through against Aberdeen.",
@@ -1280,6 +1308,21 @@
             "big-game players",
             "title hunt",
             "big moments"
+        ]
+    },
+    {
+        "title": "Watershed moment as Russia's sporting exile ends",
+        "link": "https://www.bbc.com/sport/articles/ckgzzepvgx2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Sports Editor Dan Roan analyses Russia's controversial return to global sporting action at the Winter Paralympics and what it might mean for other sports.",
+        "source": "BBC News",
+        "objectivity_score": 42,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "exile ends",
+            "editor dan roan",
+            "controversial return"
         ]
     },
     {
@@ -1297,33 +1340,18 @@
         ]
     },
     {
-        "title": "'England at crossroads as seismic India semi-final looms'",
-        "link": "https://www.bbc.com/sport/cricket/articles/c6266nmn8n7o?at_medium=RSS&at_campaign=rss",
-        "summary": "England, Harry Brook and Brendon McCullum need Jos Buttler now as much as ever as they face reigning champions India in the T20 World Cup semi-final.",
+        "title": "Meet GB's first female Paralympic snowboarder",
+        "link": "https://www.bbc.com/sport/articles/cd9ej4k2vpxo?at_medium=RSS&at_campaign=rss",
+        "summary": "When Nina Sparks was diagnosed with multiple sclerosis in 2021, she decided it was going to be the making of her - now she's competing at the Winter Paralympics.",
         "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Positive",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "semi-final looms",
-            "brendon mccullum",
-            "jos buttler"
-        ]
-    },
-    {
-        "title": "Watershed moment as Russia's sporting exile ends",
-        "link": "https://www.bbc.com/sport/articles/ckgzzepvgx2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Sports Editor Dan Roan analyses Russia's controversial return to global sporting action at the Winter Paralympics and what it might mean for other sports.",
-        "source": "BBC News",
-        "objectivity_score": 42,
+        "objectivity_score": 16,
         "sentiment": "Neutral",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "exile ends",
-            "editor dan roan",
-            "controversial return"
+            "nina sparks",
+            "multiple sclerosis",
+            "winter paralympics"
         ]
     },
     {
@@ -1532,6 +1560,51 @@
         ]
     },
     {
+        "title": "On the Ground in Beirut",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000010747493/on-the-ground-in-beirut.html",
+        "summary": "Our Beirut bureau chief, Christina Goldbaum, reports on the escalating conflict between Israel and the Iran-backed armed group Hezbollah, as Israels military seizes areas of southern Lebanon and carri...",
+        "source": "NYT > World News",
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "bureau chief",
+            "christina goldbaum",
+            "military seizes areas"
+        ]
+    },
+    {
+        "title": "Australia\u2019s Sydney Jewish Museum to Memorialize Bondi Beach Massacre",
+        "link": "https://www.nytimes.com/2026/03/05/world/australia/bondi-australia-memorial.html",
+        "summary": "The country and its small Jewish community are still trying to process the mass shooting at Bondi Beach in December.",
+        "source": "NYT > World News",
+        "objectivity_score": 13,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "jewish museum",
+            "memorialize bondi",
+            "small jewish community"
+        ]
+    },
+    {
+        "title": "In a Riskier Era, China Bets on Technology to Resist U.S. Pressure",
+        "link": "https://www.nytimes.com/2026/03/04/world/asia/china-us-technology-trade-military.html",
+        "summary": "China announced a 7 percent increase in military spending and a five-year plan to try to reduce its military and industrys reliance on Western technology.",
+        "source": "NYT > World News",
+        "objectivity_score": 6,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "riskier era",
+            "china bets",
+            "resist u.s. pressure china"
+        ]
+    },
+    {
         "title": "Man Accused of Plotting to Kill Trump Blames Iran for Scheme",
         "link": "https://www.nytimes.com/2026/03/04/nyregion/iran-blackmail-trump-assassination-plot.html",
         "summary": "Asif Merchant testified in his own defense, saying he participated in the plot to protect his family in Iran. Prosecutors reject his account of his motives.",
@@ -1634,51 +1707,6 @@
             "thwarts bid",
             "curb trump",
             "\u2019 s war"
-        ]
-    },
-    {
-        "title": "Women and Leadership: 9 Figures Discuss Their Approach",
-        "link": "https://www.nytimes.com/2026/03/04/world/women-leaders-advice.html",
-        "summary": "A chef, a disability advocate, a tech executive, a ballerina. They and five other women share what drives and challenges them as leaders.",
-        "source": "NYT > World News",
-        "objectivity_score": 37,
-        "sentiment": "Negative",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "figures discuss",
-            "disability advocate",
-            "tech executive"
-        ]
-    },
-    {
-        "title": "Feminist Scholars and Activists on the Past and Future of Feminism",
-        "link": "https://www.nytimes.com/2026/03/04/world/americas/feminism-past-future-scholars.html",
-        "summary": "Feminist scholars and activists, including Gloria Steinem and Leymah Gbowee, reflected on a movement that they said remains unfinished.",
-        "source": "NYT > World News",
-        "objectivity_score": 18,
-        "sentiment": "Negative",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "feminist scholars",
-            "feminism feminist",
-            "gloria steinem"
-        ]
-    },
-    {
-        "title": "In Sierra Leone, a New Maternal Hospital Aims to be the Blueprint",
-        "link": "https://www.nytimes.com/2026/03/04/world/africa/women-maternal-health-sierra-leone.html",
-        "summary": "The country has one of the highest maternal mortality rates in the world. Isata Dumbuya, a nurse and midwife, has made it her mission to change that.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "sierra leone",
-            "maternal mortality rates",
-            "isata dumbuya"
         ]
     },
     {
@@ -1832,6 +1860,51 @@
         ]
     },
     {
+        "title": "Social climber: Punch the monkey starts to outgrow his Ikea plushie",
+        "link": "https://www.theguardian.com/world/2026/mar/05/punch-the-monkey-outgrowing-ikea-plushie-djungelskog",
+        "summary": "Japanese baby macaque, who appeared to find comfort in the djungelskog toy after being rejected by his mother, seems to be mixing more with his peersPunch, a baby macaque that stole the hearts of anim...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "social climber",
+            "japanese baby macaque",
+            "djungelskog toy"
+        ]
+    },
+    {
+        "title": "China sets lowest GDP growth target for decades as it braces for economic slowdown",
+        "link": "https://www.theguardian.com/world/2026/mar/05/china-gdp-growth-target-economic-slowdown",
+        "summary": "High-quality growth target of 4.5-5% outlined at Two Sessions as Chinese premier talks of complex situations at home and abroadWhat are Chinas Two Sessions and why do they matter?China has set its tar...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
+        "sentiment": "Positive",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "growth target",
+            "economic slowdown",
+            "growth target"
+        ]
+    },
+    {
+        "title": "Why does Yao Ming, the 7ft 6in ex-basketballer, attend China\u2019s Two Sessions meetings?",
+        "link": "https://www.theguardian.com/world/2026/mar/05/yao-ming-former-basketballer-china-two-sessions-meetings",
+        "summary": "Among the 3,000 delegates is former athlete who sits as an independent on the National Peoples CongressWhat are Chinas Two Sessions and why do they matter?More generals purged as gather in BeijingAmon...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "yao ming",
+            "7ft 6in ex-basketballer",
+            "peoples congresswhat"
+        ]
+    },
+    {
         "title": "Papua New Guinea offers cash for guns as amnesty opens to combat escalating tribal violence",
         "link": "https://www.theguardian.com/world/2026/mar/05/papua-new-guinea-cash-guns-amnesty",
         "summary": "Weapons amnesty and buyback scheme will run until August as PM James Marape says illegal guns destroying families and villages Papua New Guinea has asked residents to surrender illegal firearms in a b...",
@@ -1862,123 +1935,93 @@
         ]
     },
     {
-        "title": "China\u2019s Two Sessions: what are the meetings and why do they matter?",
-        "link": "https://www.theguardian.com/world/2026/mar/04/china-two-sessions-2026-meeting-what-are-they-when-is-it-explainer",
-        "summary": "Annual political gathering kicks off this week in Beijing with the economy, technology and the military high on the agendaMore generals purged as Chinese delegates gather for eventChinas annual Two Se...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "political gathering",
-            "agendamore generals",
-            "chinese delegates"
-        ]
-    },
-    {
-        "title": "New Zealand coalition votes to make English an official language as critics decry \u2018cynical\u2019 bill",
-        "link": "https://www.theguardian.com/world/2026/mar/04/new-zealand-english-official-language-bill",
-        "summary": "Push to give English same status as Mori and NZ sign languages triggers backlash from opposition parties and linguistic expertsA bill to recognise English as an official language of New Zealand has cl...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "coalition votes",
-            "official language",
-            "critics decry \u2018 cynical \u2019 bill"
-        ]
-    },
-    {
-        "title": "China calls for vessels in strait of Hormuz to be protected amid soaring shipping costs",
-        "link": "https://www.theguardian.com/business/2026/mar/03/china-calls-protection-vessels-strait-hormuz-amid-soaring-shipping-costs",
-        "summary": "Beijings foreign ministry urges all parties to avoid escalation as number of crossings drops 60% in one dayHow escalating Iran conflict is driving up oil and gas prices  a visual guideBusiness live  l...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "shipping costs",
-            "foreign ministry",
-            "crossings drops"
-        ]
-    },
-    {
-        "title": "Australia politics live: Albanese and Carney agree action against Iran must end its nuclear weapons program \u2018once and for all\u2019",
+        "title": "News live: two ADF aircraft sent to assist Australians stranded in Middle East; Turnbull says US will comply with international law \u2018only when it suits\u2019",
         "link": "https://www.theguardian.com/australia-news/live/2026/mar/05/australia-politics-live-anthony-albanese-angus-taylor-parliament-question-time-labor-coalition-one-nation-middle-east-mark-carney-canada-iran-ntwnfb",
-        "summary": "Australian PM also announces new annual emergency ministers meeting to boost cooperation on natural disasters. Follow todays news liveGet our breaking news email, free app or daily news podcastLiberal...",
+        "summary": "Follow todays news liveGet our breaking news email, free app or daily news podcastLiberal senator says military assets should be used if necessary to repatriate AustraliansThe shadow defence minister,...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 37,
         "sentiment": "Neutral",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "nuclear weapons",
-            "australian pm",
-            "new annual emergency ministers meeting"
+            "international law \u2018",
+            "suits \u2019",
+            "todays news liveget"
         ]
     },
     {
-        "title": "Australian PM Anthony Albanese gave Donald Trump model nuclear submarine on golden plate at White House",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/05/australian-pm-albanese-trump-white-house-visit-gold-submarine-gift",
-        "summary": "Exclusive: Prime minister also presented Melania Trump with a $3,000 Paspaley pearl pendantAnthony Albanese gave Donald Trump a gift of a model nuclear submarine with gold plates and finishes, interna...",
+        "title": "Police told Kelly Wilkinson to \u2018cool off\u2019 and give estranged husband \u2018a break\u2019 days before he burned her to death, inquest hears",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/05/queensland-police-kelly-wilkinson-turned-away-murder-inquest-ntwnfb",
+        "summary": "Wilkinson was turned away by police while seeking help four days before she was murdered, Queensland coroners court toldFollow our Australia news live blog for latest updatesGet our breaking news emai...",
         "source": "World news | The Guardian",
-        "objectivity_score": 9,
-        "sentiment": "Neutral",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "australian pm anthony albanese",
-            "donald trump",
-            "nuclear submarine"
-        ]
-    },
-    {
-        "title": "\u2018A win for democracy\u2019: Labor abandons freedom of information law changes that would have reduced transparency",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/05/a-win-for-democracy-labor-abandons-freedom-of-information-law-changes-that-would-have-reduced-transparency",
-        "summary": "Katy Gallagher says Albanese government still committed to reform and flags new fixes to system stuck in the 1980s Follow our Australia news live blog for latest updatesGet our breaking news email, fr...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 50,
+        "objectivity_score": 60,
         "sentiment": "Positive",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "democracy \u2019",
-            "labor abandons freedom",
-            "information law changes"
+            "kelly wilkinson",
+            "husband \u2018",
+            "break \u2019 days"
         ]
     },
     {
-        "title": "Canadian PM Mark Carney offers to team up with Australia as \u2018strategic cousins\u2019 to push back against dominant superpowers",
-        "link": "https://www.theguardian.com/world/2026/mar/05/canadian-pm-mark-carney-offers-to-team-up-with-australia-as-strategic-cousins-to-push-back-against-dominant-superpowers",
-        "summary": "Visiting PM tells Australias parliament middle power countries must work together on defence, trade and AICanada and Australia will be stronger negotiating together with superpowers including Donald T...",
+        "title": "Can you watch without wincing? Seven times Australian politicians burst into song",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/05/best-australian-politicians-song-stunts",
+        "summary": "Tim Wilsons take on a Billy Joel classic has triggered cheers and jeers in parliament. We look back at some unforgettable performancesOne hopes for a calm and dignified demeanour from our leaders but ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 29,
+        "objectivity_score": 38,
+        "sentiment": "Positive",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "tim wilsons",
+            "billy joel",
+            "unforgettable performancesone"
+        ]
+    },
+    {
+        "title": "Pro-Palestine protest organisers \u2018a pack of communists\u2019 intent on confrontation with police, Minns tells budget estimates",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/05/pro-palestine-protest-organisers-communists-nsw-premier-chris-minns-ntwnfb",
+        "summary": "New South Wales premier faces questions over what he told MPs who attended demonstration opposing Israeli president Isaac Herzogs visitFollow our Australia news live blog for latest updatesGet our bre...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 52,
         "sentiment": "Neutral",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "pm mark carney",
-            "strategic cousins \u2019",
-            "dominant superpowers"
+            "organisers \u2018",
+            "communists \u2019 intent",
+            "budget estimates"
         ]
     },
     {
-        "title": "Liberal senator breaks with party to urge \u2018mercy for the children\u2019 of IS-linked Australian women in Syria",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/04/liberal-mclachlan-syria-is-australian-women-children-ntwnfb",
-        "summary": "Backbencher Andrew McLachlan describes the 23 children as innocents victimised by their parents tragic attraction to a horrible ideologyFollow our Australia news live blog for latest updatesGet our br...",
+        "title": "Woolworths shoppers concerned new anti-theft gates may trap them and hit their children",
+        "link": "https://www.theguardian.com/business/2026/mar/05/woolworths-new-security-gates-customer-concerns",
+        "summary": "At one store trialling the gates, a customer said if you wanted to enter without hitting your child, youd have to go in backwardsGet our breaking news email, free app or daily news podcastThe trial of...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Negative",
+        "objectivity_score": 37,
+        "sentiment": "Positive",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "liberal senator",
-            "urge \u2018 mercy",
-            "children \u2019"
+            "new anti-theft gates",
+            "news email",
+            "free app"
+        ]
+    },
+    {
+        "title": "Ukraine war briefing: Russia claims LNG tanker in Mediterranean hit by drones",
+        "link": "https://www.theguardian.com/world/2026/mar/05/ukraine-war-briefing-putin-blames-ukraine-for-sinking-of-tanker-off-coast-of-libya",
+        "summary": "The Arctic Metagaz had been carrying 61,000 tonnes of liquefied natural gas when it exploded; Ukrainian drones reported to have hit southern Russia. What we know on day 1,471Vladimir Putin, the Russia...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 19,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "arctic metagaz",
+            "natural gas",
+            "day 1,471vladimir"
         ]
     },
     {
@@ -2042,33 +2085,33 @@
         ]
     },
     {
-        "title": "Union tries to seize control of works council at Tesla\u2019s German factory",
-        "link": "https://www.theguardian.com/business/2026/mar/04/union-tries-seize-control-works-council-tesla-german-factory",
-        "summary": "Lawsuits and slander claims fly in IG Metalls battle with Elon Musk over employment rights and conditionsBusiness live  latest updatesEuropes largest trade union is trying to gain control of the works...",
+        "title": "Middle East crisis live: Israel launches fresh strikes on Tehran; Iran claims to have targeted Kurdish groups in Iraq",
+        "link": "https://www.theguardian.com/world/live/2026/mar/05/iran-war-latest-updates-canada-carney-trump-israel-tehran-strikes",
+        "summary": "Tehran says it hit groups opposed to the revolution, amid reports the US is looking to arm Kurdish militias. Follow the latest newsAirstrikes hit Iran-Iraq border as US and Israeli plan to mobilise Ku...",
         "source": "World news | The Guardian",
         "objectivity_score": 40,
         "sentiment": "Positive",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "union tries",
-            "works council",
-            "german factory"
+            "fresh strikes",
+            "iraq tehran",
+            "gathers paceus"
         ]
     },
     {
-        "title": "Middle East crisis live: US submarine sank Iranian warship, Hegseth says; Israel launches fresh strikes on Tehran",
+        "title": "US submarine sank Iranian warship, Hegseth says \u2013 as it happened",
         "link": "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis",
-        "summary": "More than 80 people killed and 32 crew members rescued alive from the 180-crew frigate Iris DenaAnalysis: Trump administration still not settled on reasons for warTell us: how have you been affected b...",
+        "summary": "This blog is closed. Please follow our continuing coverage on our new liveblog hereLebanese state media said that four people were killed and six more were wounded in an Israeli strike on a building i...",
         "source": "World news | The Guardian",
-        "objectivity_score": 24,
+        "objectivity_score": 17,
         "sentiment": "Neutral",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
             "us submarine",
-            "fresh strikes",
-            "crew members"
+            "new liveblog herelebanese state media",
+            "initial toll"
         ]
     },
     {
@@ -2117,18 +2160,18 @@
         ]
     },
     {
-        "title": "Energy bills could rise by \u00a3160 after Iran conflict pushes gas prices higher",
-        "link": "https://www.theguardian.com/money/2026/mar/04/iran-conflict-energy-bills-gas-prices",
-        "summary": "Household costs could reach 1,800 a year from July as UK market hits three-year highMiddle East crisis  live updatesHousehold energy bills could climb by 160 a year from this summer after the war in I...",
+        "title": "Nepal votes in election pitting entrenched old guard against a powerful youth movement",
+        "link": "https://www.theguardian.com/world/2026/mar/05/nepal-election-2026-voting-balen-shah-sharma-oli",
+        "summary": "The general election is the first since gen-Z protests forced Nepals then-prime minister to quitNearly six months after a wave of unprecedented youth-led protests forced Nepals then prime minister to ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 56,
+        "objectivity_score": 49,
         "sentiment": "Positive",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "conflict pushes gas prices",
-            "market hits",
-            "three-year highmiddle"
+            "old guard",
+            "powerful youth movement",
+            "general election"
         ]
     },
     {
@@ -2192,18 +2235,48 @@
         ]
     },
     {
-        "title": "Pakistan declares state of \u2018open war\u2019 after bombing major Afghan cities",
-        "link": "https://www.theguardian.com/world/2026/feb/27/pakistan-declares-state-of-open-war-after-bombing-major-afghan-cities",
-        "summary": "Wave of strikes comes after Taliban forces attack Pakistani border troops following earlier action from IslamabadPakistan has bombed major cities in Afghanistan including the capital, Kabul, with Isla...",
+        "title": "Lobbyists send legal threats to councils over anti-wood burner campaigns",
+        "link": "https://www.theguardian.com/environment/2026/mar/05/lobbyists-send-legal-threats-to-councils-over-anti-wood-burner-campaigns",
+        "summary": "At least eight councils receive legal threats alleging flyers criticising wood burners are in breach of advertising codesLobbyists for the UK wood-burning stove industry have threatened councils with ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
+        "objectivity_score": 25,
         "sentiment": "Neutral",
         "date": "2026-03-05",
         "image_url": null,
         "keywords": [
-            "open war \u2019",
-            "bombing major",
-            "forces attack"
+            "legal threats",
+            "anti-wood burner campaigns",
+            "legal threats"
+        ]
+    },
+    {
+        "title": "US did not share details with the UK before attacking Iran, sources say",
+        "link": "https://www.theguardian.com/world/2026/mar/05/us-did-not-share-details-with-the-uk-before-attacking-iran-sources-say",
+        "summary": "Donald Trump has also criticised Keir Starmers initial decision not to allow the US to use UK military bases in the warThe US did not share exact operational details or timings with the UK before the ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 9,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "share details",
+            "donald trump",
+            "keir starmers"
+        ]
+    },
+    {
+        "title": "Economic abuse by a partner contributes to one death every 19 days, report finds",
+        "link": "https://www.theguardian.com/uk-news/2026/mar/05/economic-abuse-partner-deaths-report",
+        "summary": "Financial abuse is a factor in more than half of deaths related to domestic abuse but is often misunderstoodEconomic abuse from a partner contributes to one death from homicide or suicide every 19 day...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "economic abuse",
+            "partner contributes",
+            "domestic abuse"
         ]
     },
     {
@@ -2237,56 +2310,11 @@
         ]
     },
     {
-        "title": "Economic abuse by a partner contributes to one death every 19 days, report finds",
-        "link": "https://www.theguardian.com/uk-news/2026/mar/05/economic-abuse-partner-deaths-report",
-        "summary": "Financial abuse is a factor in more than half of deaths related to domestic abuse but is often misunderstoodEconomic abuse from a partner contributes to one death from homicide or suicide every 19 day...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "economic abuse",
-            "partner contributes",
-            "domestic abuse"
-        ]
-    },
-    {
-        "title": "Asylum seekers waiting over a year for claim in UK may be allowed to work under new measures",
-        "link": "https://www.theguardian.com/politics/2026/mar/04/asylum-seekers-allowed-to-enter-uk-jobs-market-under-new-measures",
-        "summary": "Shabana Mahmood hopes to reduce number of claimants in hotels by enabling them to support themselvesUp to 21,000 asylum seekers who have waited for a year for their claims to be processed could be all...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Neutral",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "new measures",
-            "shabana mahmood",
-            "support themselvesup"
-        ]
-    },
-    {
-        "title": "Two sisters drown while paddling at Snowdonia beauty spot",
-        "link": "https://www.theguardian.com/uk-news/2026/mar/04/sisters-drown-in-welsh-national-park-after-paddling-fully-clothed",
-        "summary": "Hajra and Haleema Zahid may have slipped into pools near path and were unable to swim to safety, inquest hearsTwo sisters accidentally drowned after they paddled fully clothed at a beauty spot in a na...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Negative",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "sisters drown",
-            "beauty spot",
-            "haleema zahid"
-        ]
-    },
-    {
-        "title": "White House pushes back against mounting questions over any US involvement in Iran school strike \u2013 live",
+        "title": "White House pushes back against mounting questions over any US involvement in Iran school strike \u2013 as it happened",
         "link": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
-        "summary": "Karoline Leavitt bats away question over bombing that reportedly killed 175 peopleSign up for the Breaking News US email to get newsletter alerts in your inboxGen Caine said today that the US will now...",
+        "summary": "This live blog is now closed.Trump news at a glance: Pentagon taking a look at deadly strike on girls school in Iran as UN office demands answersSign up for the Breaking News US email to get newslette...",
         "source": "World news | The Guardian",
-        "objectivity_score": 34,
+        "objectivity_score": 40,
         "sentiment": "Positive",
         "date": "2026-03-05",
         "image_url": null,
@@ -2297,11 +2325,56 @@
         ]
     },
     {
+        "title": "Pentagon releases names of final two soldiers of six killed in Kuwait",
+        "link": "https://www.theguardian.com/world/2026/mar/04/soldiers-killed-kuwait",
+        "summary": "Chief Warrant Officer Robert Marzan, 54, and Maj Jeffrey OBrien, 45, were from California and IowaThe Pentagon has released the names of the final two of the six soldiers who were killed during a rece...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "pentagon releases names",
+            "robert marzan",
+            "maj jeffrey obrien"
+        ]
+    },
+    {
+        "title": "Louisiana mayor convicted of raping 16-year-old boy at her home while still in office",
+        "link": "https://www.theguardian.com/us-news/2026/mar/04/louisiana-mayor-convicted-rape-16-year-old",
+        "summary": "Misty Roberts, 43, faces sentences of up to 10 and seven years in prison after July 2024 sexual assault at pool partyThe former mayor of a Louisiana city has been convicted of raping a 16-year-old boy...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "16-year-old boy",
+            "misty roberts",
+            "faces sentences"
+        ]
+    },
+    {
+        "title": "How a clump of moss helped convict grave robbers in Illinois",
+        "link": "https://www.theguardian.com/science/2026/mar/05/how-moss-helped-convict-grave-robbers-illinois",
+        "summary": "Four cemetery workers dug up and moved more than 100 bodies to resell the burial plots nearly 20 years agoIt was a particularly heinous crime. Four workers at a cemetery near Chicago dug up more than ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-03-05",
+        "image_url": null,
+        "keywords": [
+            "grave robbers",
+            "cemetery workers",
+            "burial plots"
+        ]
+    },
+    {
         "title": "Montana Republican Steve Daines drops Senate re-election bid minutes before deadline",
         "link": "https://www.theguardian.com/us-news/2026/mar/04/montana-senate-republican-steve-daines",
         "summary": "Trump ally Daines confirms resignation and withdraws bid for a third term, saying: It is time for new leadersRepublican US senator Steve Daines of Montana dropped his bid for re-election to a third te...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 30,
         "sentiment": "Positive",
         "date": "2026-03-05",
         "image_url": null,
@@ -2309,51 +2382,6 @@
             "montana republican steve daines",
             "drops senate re-election bid minutes",
             "confirms resignation"
-        ]
-    },
-    {
-        "title": "Texas lawmaker admits he had affair with aide who died by suicide",
-        "link": "https://www.theguardian.com/us-news/2026/mar/04/tony-gonzales-texas-rep-alleged-affair",
-        "summary": "Tony Gonzales claims God has forgiven him for affair with Regina Ann Santos-Aviles, who set herself on fireUS politics live  latest updatesSign up for the Breaking News US email to get newsletter aler...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Positive",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "lawmaker admits",
-            "tony gonzales",
-            "regina ann santos-aviles"
-        ]
-    },
-    {
-        "title": "Famous Brady Bunch house awarded Los Angeles landmark status",
-        "link": "https://www.theguardian.com/us-news/2026/mar/04/brady-bunch-house-los-angeles-historic-cultural-monument",
-        "summary": "Modest mid-century home in Studio City, used for sitcoms exterior shots, designated a historic-cultural monumentHeres the story  of how a modest mid-century home became a Los Angeles landmark.The Los ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 93,
-        "sentiment": "Positive",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "famous brady bunch",
-            "los angeles",
-            "landmark status"
-        ]
-    },
-    {
-        "title": "US tech firms pledge at White House to bear costs of energy for datacenters",
-        "link": "https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house",
-        "summary": "Companies will pay for upgrades and new electricity generation in agreement to mitigate concerns of rising billsGoogle, Microsoft, Meta, Amazon and several artificial intelligence companies signed a p...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-03-05",
-        "image_url": null,
-        "keywords": [
-            "us tech firms pledge",
-            "white house",
-            "new electricity generation"
         ]
     }
 ]
