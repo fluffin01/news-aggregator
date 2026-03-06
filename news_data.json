@@ -737,18 +737,567 @@
         ]
     },
     {
-        "title": "Live Updates: Israel Pummels Beirut, Intensifying Strikes on Hezbollah",
-        "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon",
-        "summary": "Thousands fled the heaviest Israeli attacks on Lebanons capital since a 2024 war with the Iran-backed militia. Israel also said it was hitting Tehran, while its air defenses battled new missile launch...",
-        "source": "NYT > World News",
+        "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
+        "link": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss",
+        "summary": "Energy Minister Saad al-Kaabi says oil could hit $150 a barrel if the Iran conflict continues over the coming weeks.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "oil price",
+            "gulf production"
+        ]
+    },
+    {
+        "title": "Iranian schools, hospital and landmarks among civilian sites hit during US-Israeli strikes",
+        "link": "https://www.bbc.com/news/articles/cpw004xqxnjo?at_medium=RSS&at_campaign=rss",
+        "summary": "A local in Tehran tell BBC Verify that the city has been turned into a \"ghost town\" as residents flee.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "civilian sites",
+            "bbc verify",
+            "ghost town"
+        ]
+    },
+    {
+        "title": "Flight paths squeezed as Iran conflict closes more airspace",
+        "link": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss",
+        "summary": "A drone attack on Azerbaijan has narrowed choices for airlines scrambling to respond to disruption in the Gulf.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "flight paths",
+            "conflict closes",
+            "drone attack"
+        ]
+    },
+    {
+        "title": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
+        "link": "https://www.bbc.com/news/articles/cwy9xlp46zgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Communities across huge swathes of Lebanon have been told by Israel to leave their homes due to military action against Hezbollah.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "n't sleep",
+            "beirut communities",
+            "huge swathes"
+        ]
+    },
+    {
+        "title": "Four arrested on suspicion of assisting Iran's intelligence service",
+        "link": "https://www.bbc.com/news/articles/cz6e7g96890o?at_medium=RSS&at_campaign=rss",
+        "summary": "The men were arrested on Friday on suspicion of assisting a foreign intelligence service.",
+        "source": "BBC News",
+        "objectivity_score": 12,
+        "sentiment": "Negative",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "'s intelligence service",
+            "foreign intelligence service"
+        ]
+    },
+    {
+        "title": "Man who murdered ex's sister and her children in revenge attack given whole-life sentence",
+        "link": "https://www.bbc.com/news/articles/cvg88v948d8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Bryonie Gawith and her children died when Sharaz Ali set fire to their home in revenge for her sister ending their relationship.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "ex 's sister",
+            "revenge attack",
+            "whole-life sentence"
+        ]
+    },
+    {
+        "title": "Driver who killed student after mistakenly hitting wrong pedal jailed",
+        "link": "https://www.bbc.com/news/articles/cze0xr9g5lno?at_medium=RSS&at_campaign=rss",
+        "summary": "Student Aalia Mahomed, 20, was described as  the \"most amazing daughter\" by her mother.",
+        "source": "BBC News",
+        "objectivity_score": 57,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "wrong pedal",
+            "aalia mahomed",
+            "amazing daughter"
+        ]
+    },
+    {
+        "title": "Withheld Epstein files with accusations against Trump released by justice department",
+        "link": "https://www.bbc.com/news/articles/c4g0dzg6e4mo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Department of Justice said the released files had been \"incorrectly coded as duplicative\" and inadvertently not published.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "withheld epstein",
+            "justice department"
+        ]
+    },
+    {
+        "title": "Lenders lift mortgage rates as Iran war hits borrowing costs",
+        "link": "https://www.bbc.com/news/articles/cly1jxdv439o?at_medium=RSS&at_campaign=rss",
+        "summary": "Nationwide, HSBC and Coventry Building Society are all putting some mortgage rates up.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "mortgage rates",
+            "war hits borrowing costs",
+            "building society"
+        ]
+    },
+    {
+        "title": "Three women interviewed on suspicion of sex trafficking in Al Fayed investigation",
+        "link": "https://www.bbc.com/news/articles/c2lrwv5p7e7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The women have been interviewed under suspicion of aiding and abetting rape and human trafficking, the Met Police says.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "al fayed"
+        ]
+    },
+    {
+        "title": "Relying on drugs to stop obesity would be 'societal failure', says Chris Whitty",
+        "link": "https://www.bbc.com/news/articles/clyzx4eypv8o?at_medium=RSS&at_campaign=rss",
+        "summary": "England's top doctor says the drugs should be for a minority and more effort is  needed to prevent obesity in the first place.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "'societal failure",
+            "chris whitty england",
+            "top doctor"
+        ]
+    },
+    {
+        "title": "Mandelson's bail conditions lifted after misconduct in public office arrest",
+        "link": "https://www.bbc.com/news/articles/ce8wjg507yro?at_medium=RSS&at_campaign=rss",
+        "summary": "Lord Peter Mandelson has had his passport returned by police, his lawyers say.",
+        "source": "BBC News",
+        "objectivity_score": 3,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "'s bail conditions",
+            "public office arrest lord",
+            "peter mandelson"
+        ]
+    },
+    {
+        "title": "Xbox confirms new console is coming - but can it revive the brand?",
+        "link": "https://www.bbc.com/news/articles/c875we893ggo?at_medium=RSS&at_campaign=rss",
+        "summary": "Microsoft is the first big company out of the gates with Project Helix - a \"next-generation\" console.",
+        "source": "BBC News",
+        "objectivity_score": 29,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "new console",
+            "big company",
+            "project helix"
+        ]
+    },
+    {
+        "title": "From killing her dog to luxury jets: Six times Kristi Noem made headlines",
+        "link": "https://www.bbc.com/news/articles/ce94mggvp9do?at_medium=RSS&at_campaign=rss",
+        "summary": "Noem boosted deportations during her first year, but her controversies reportedly frustrated Trump.",
+        "source": "BBC News",
+        "objectivity_score": 26,
+        "sentiment": "Negative",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "luxury jets",
+            "kristi noem"
+        ]
+    },
+    {
+        "title": "'It tried to attack me!' - Loose turkey gives police runaround",
+        "link": "https://www.bbc.com/news/videos/c5yrj2rm8g1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Bodycam footage from officers in the US state of Georgia shows multiple attempts to remove the fowl and clear traffic.",
+        "source": "BBC News",
+        "objectivity_score": 21,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "police runaround",
+            "us state",
+            "multiple attempts"
+        ]
+    },
+    {
+        "title": "Meet GB's first female Paralympic snowboarder",
+        "link": "https://www.bbc.com/sport/articles/cd9ej4k2vpxo?at_medium=RSS&at_campaign=rss",
+        "summary": "When Nina Sparks was diagnosed with multiple sclerosis in 2021, she decided it was going to be the making of her - now she's competing at the Winter Paralympics.",
+        "source": "BBC News",
+        "objectivity_score": 16,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "nina sparks",
+            "multiple sclerosis",
+            "winter paralympics"
+        ]
+    },
+    {
+        "title": "Sheep are disappearing from our hills - and our dinner plates",
+        "link": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Have we have passed \"peak sheep\" in the UK?",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "dinner plates",
+            "peak sheep"
+        ]
+    },
+    {
+        "title": "Singers praise new gospel music chart that will 'open doors'",
+        "link": "https://www.bbc.com/news/articles/c8xyyvw47k8o?at_medium=RSS&at_campaign=rss",
+        "summary": "A new Christian and Gospel Singles Chart is launched to reflect \"a vibrant sector of the UK music industry\".",
+        "source": "BBC News",
+        "objectivity_score": 34,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "new gospel music chart",
+            "'open doors",
+            "vibrant sector"
+        ]
+    },
+    {
+        "title": "Who's to blame for Spurs crisis?",
+        "link": "https://www.bbc.com/sport/football/articles/cwy9xd2y392o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Sport's chief football writer Phil McNulty examines who - or what - is to blame for Spurs' crisis as they fight to avoid relegation.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "bbc sport",
+            "chief football writer",
+            "phil mcnulty"
+        ]
+    },
+    {
+        "title": "Emirates resumes some Dubai flights \u2013 what's the latest on travel to UK?",
+        "link": "https://www.bbc.com/news/articles/c4ge52x4w37o?at_medium=RSS&at_campaign=rss",
+        "summary": "New flights to the UK from the Middle East follow days of widespread air travel disruption which had left Britons stranded.",
+        "source": "BBC News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "flights \u2013",
+            "new flights",
+            "widespread air travel disruption"
+        ]
+    },
+    {
+        "title": "Badenoch presses Starmer to strike Iranian missile sites",
+        "link": "https://www.bbc.com/news/articles/ce3gd22x3xgo?at_medium=RSS&at_campaign=rss",
+        "summary": "RAF jets have been shooting down missiles fired by Iran, but are not taking part in strikes on its sites.",
+        "source": "BBC News",
+        "objectivity_score": 28,
+        "sentiment": "Negative",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "missile sites"
+        ]
+    },
+    {
+        "title": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah",
+        "link": "https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC sees troops and tanks massing near the border, as speculation mounts that Israel is planning a full-scale ground invasion to fight Hezbollah.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "'s proxy",
+            "speculation mounts",
+            "full-scale ground invasion"
+        ]
+    },
+    {
+        "title": "Five ways the Iran war could affect you - in charts",
+        "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
+        "summary": "With fuel and gas prices having risen in recent days, here are some ways the conflict could affect households.",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "gas prices",
+            "recent days"
+        ]
+    },
+    {
+        "title": "UK immigration officers 'working for China' arrested after forcing entry into flat, court hears",
+        "link": "https://www.bbc.com/news/articles/c620jeyx2peo?at_medium=RSS&at_campaign=rss",
+        "summary": "One of the officers is on trial at the Old Bailey while the other was found dead in May 2024 after being arrested and bailed.",
+        "source": "BBC News",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "immigration officers",
+            "court hears"
+        ]
+    },
+    {
+        "title": "Two of the world's rarest lions put to sleep at zoo",
+        "link": "https://www.bbc.com/news/articles/c20zqgpyge8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Thheiba and Fidda were 22-years-old and were the remaining two females of a pride at the zoo, with one male lion named Qays remaining.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "world 's rarest lions",
+            "male lion"
+        ]
+    },
+    {
+        "title": "Russia was behind parcel fires in UK and Europe, investigators say",
+        "link": "https://www.bbc.com/news/articles/c0rjx947zqzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The attacks, which involved self-igniting packages, targeted couriers in Poland, Germany and at a DHL depot in the UK in 2024.",
+        "source": "BBC News",
+        "objectivity_score": 70,
+        "sentiment": "Negative",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "parcel fires"
+        ]
+    },
+    {
+        "title": "Pok\u00e9mon condemns White House for using its imagery",
+        "link": "https://www.bbc.com/news/articles/cj4z0l8wvvdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The company says its \"mission is not affiliated with any political viewpoint or agenda,\" in response to the latest White House meme.",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "white house",
+            "political viewpoint",
+            "white house meme"
+        ]
+    },
+    {
+        "title": "Axel Springer agrees to buy Telegraph Media Group in \u00a3575m deal",
+        "link": "https://www.bbc.com/news/articles/cyv916d999no?at_medium=RSS&at_campaign=rss",
+        "summary": "Last year the Daily Mail and General Trust proposed to buy the company in a 500m takeover.",
+        "source": "BBC News",
+        "objectivity_score": 18,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "axel springer",
+            "telegraph media",
+            "daily mail"
+        ]
+    },
+    {
+        "title": "Harry Styles gives pupils at old school 100 free tickets for show",
+        "link": "https://www.bbc.com/news/articles/cly1j4x2djro?at_medium=RSS&at_campaign=rss",
+        "summary": "The star made the kind gesture for his former school in the village of Holmes Chapel in Cheshire.",
+        "source": "BBC News",
         "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
+            "harry styles",
+            "old school",
+            "free tickets"
+        ]
+    },
+    {
+        "title": "Almost 150 injured at LFC parade before Doyle incident, report reveals",
+        "link": "https://www.bbc.com/news/articles/cewz7yrxw2jo?at_medium=RSS&at_campaign=rss",
+        "summary": "A report into traffic and crowd management at the event last May calls for tighter rules on flares.",
+        "source": "BBC News",
+        "objectivity_score": 15,
+        "sentiment": "Negative",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "report reveals",
+            "crowd management",
+            "tighter rules"
+        ]
+    },
+    {
+        "title": "BBC News app",
+        "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+        "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "news app",
+            "news topics"
+        ]
+    },
+    {
+        "title": "Iran War Q&A",
+        "link": "https://www.bbc.co.uk/sounds/play/p0n50hfr?at_medium=RSS&at_campaign=rss",
+        "summary": "We answer your questions about the US-Israel war with Iran.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "iran"
+        ]
+    },
+    {
+        "title": "Trump's war with Iran... what we still don't know",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct8bz7?at_medium=RSS&at_campaign=rss",
+        "summary": "Plus, has the president persuaded Americans to back his war?",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "'s war"
+        ]
+    },
+    {
+        "title": "Who is to blame for Spurs' chaotic descent towards relegation?",
+        "link": "https://www.bbc.com/sport/football/articles/cwy9xd2y392o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Sport's chief football writer Phil McNulty examines who - or what - is to blame for Spurs' crisis as they fight to avoid relegation.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "chaotic descent",
+            "bbc sport",
+            "chief football writer"
+        ]
+    },
+    {
+        "title": "McCullum and Key look set to retain ECB support",
+        "link": "https://www.bbc.com/sport/cricket/articles/cy03157wlneo?at_medium=RSS&at_campaign=rss",
+        "summary": "Head coach Brendon McCullum and director of cricket Rob Key look likely to retain the support of the England and Wales Cricket Board (ECB) despite a disappointing winter.",
+        "source": "BBC News",
+        "objectivity_score": 92,
+        "sentiment": "Negative",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "brendon mccullum",
+            "rob key",
+            "wales cricket"
+        ]
+    },
+    {
+        "title": "Five seconds off the pace - Aston Martin's dire situation unmasked in practice",
+        "link": "https://www.bbc.com/sport/formula1/articles/cpv8xr8j11mo?at_medium=RSS&at_campaign=rss",
+        "summary": "Aston Martin's dire start to the season has left Fernando Alonso in a \"hard mental place\", says team principal Adrian Newey.",
+        "source": "BBC News",
+        "objectivity_score": 24,
+        "sentiment": "Negative",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "aston martin",
+            "'s dire situation",
+            "aston martin"
+        ]
+    },
+    {
+        "title": "'We should not have played' - how tennis was caught in Middle East conflict",
+        "link": "https://www.bbc.com/sport/tennis/articles/cd6zzdylnylo?at_medium=RSS&at_campaign=rss",
+        "summary": "Players have criticised the decision for a tennis tournament to be held in the UAE in the midst of Iranian attacks - including one still stranded there.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "tennis tournament"
+        ]
+    },
+    {
+        "title": "Bethell's breakout winter boosts England's future",
+        "link": "https://www.bbc.com/sport/cricket/articles/cwy8dp1ev4zo?at_medium=RSS&at_campaign=rss",
+        "summary": "In completing the set of centuries across all formats despite T20 World Cup semi-final defeat by India, Jacob Bethell shows why he is integral to England's future, writes Matthew Henry.",
+        "source": "BBC News",
+        "objectivity_score": 12,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "'s breakout winter boosts",
+            "'s future",
+            "world cup semi-final defeat"
+        ]
+    },
+    {
+        "title": "Live Updates: Trump Says There Will Be \u2018No Deal\u2019 as Israel Unleashes Wave of Attacks on Iran",
+        "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon",
+        "summary": "President Trump repeated his call for the unconditional surrender of the Islamic Republic. Israel said it had struck a leadership bunker in Tehran, and sent thousands fleeing a bombardment in Lebanon.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
             "live updates",
-            "israel pummels beirut",
-            "intensifying strikes"
+            "trump says",
+            "will be"
         ]
     },
     {
@@ -767,21 +1316,6 @@
         ]
     },
     {
-        "title": "As Trump Out-Putins Putin, Russia\u2019s Global Influence Erodes",
-        "link": "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html",
-        "summary": "The conflict in Iran may give Moscow a short-term boost economically and in Ukraine. But it has also shown the limits of Russias partnerships.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "trump out-putins putin",
-            "global influence erodes",
-            "short-term boost"
-        ]
-    },
-    {
         "title": "He Had a Purple Heart, PTSD and a Rap Sheet. He Had to Leave the U.S.",
         "link": "https://www.nytimes.com/2026/03/06/world/asia/south-korea-deportee-immigration.html",
         "summary": "After a long battle with drug addiction, Sae Joon Park felt settled in a new life. But he was deported last year and is now fighting to get back to Hawaii.",
@@ -797,11 +1331,11 @@
         ]
     },
     {
-        "title": "Jamil Jivani, a Friend of JD Vance, Channels Charlie Kirk With Young Men",
+        "title": "Jamil Jivani, a Friend of JD Vance, Channels Charlie Kirk in Canada",
         "link": "https://www.nytimes.com/2026/03/06/world/canada/jamil-jivani-canada-conservative-jd-vance.html",
         "summary": "Jamil Jivani, a Conservative rookie member of Parliament, follows an American playbook to win over young men on college campuses.",
         "source": "NYT > World News",
-        "objectivity_score": 30,
+        "objectivity_score": 26,
         "sentiment": "Positive",
         "date": "2026-03-06",
         "image_url": null,
@@ -812,18 +1346,74 @@
         ]
     },
     {
-        "title": "The Good Times Are Over in China\u2019s Liquor Capital",
-        "link": "https://www.nytimes.com/2026/03/06/world/asia/maotai-china-liquor-capital.html",
-        "summary": "Once celebrated for its fiery spirits, the town of Maotai has reeled from a bad Chinese economy, changing tastes and a crackdown on boozy official banquets.",
+        "title": "Defense Without U.S. Help Is a Live Topic for Canada, Japan and Australia",
+        "link": "https://www.nytimes.com/2026/03/06/world/canada/carney-takaichi-japan-trump.html",
+        "summary": "The leaders of Japan and Canada are making a unified front on defense cooperation as President Trump raises the pressure over military spending.",
         "source": "NYT > World News",
-        "objectivity_score": 50,
+        "objectivity_score": 30,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "\u2019 s liquor",
+            "live topic",
+            "defense cooperation"
+        ]
+    },
+    {
+        "title": "Iran\u2019s Drone Attacks Plague the Gulf States",
+        "link": "https://www.nytimes.com/2026/03/06/world/middleeast/persian-gulf-states-air-defense-iran.html",
+        "summary": "Missile launches from Iran have slowed, but relentless drone volleys could deplete air defenses in the region.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "relentless drone volleys",
+            "deplete air defenses"
+        ]
+    },
+    {
+        "title": "As Trump Out-Putins Putin, Russia\u2019s Global Influence Erodes",
+        "link": "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html",
+        "summary": "The conflict in Iran may give Moscow a short-term boost economically and in Ukraine. But it has also shown the limits of Russias partnerships.",
+        "source": "NYT > World News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "trump out-putins putin",
+            "global influence erodes",
+            "short-term boost"
+        ]
+    },
+    {
+        "title": "\u2018Liquor Capital of China\u2019 Is Trying to Save Its Fortunes",
+        "link": "https://www.nytimes.com/2026/03/06/world/asia/maotai-china-liquor-capital.html",
+        "summary": "Once celebrated for its fiery spirits, the town of Maotai has reeled from a bad Chinese economy, changing tastes and a crackdown on boozy official banquets.",
+        "source": "NYT > World News",
+        "objectivity_score": 47,
+        "sentiment": "Negative",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "\u2018 liquor",
             "fiery spirits",
             "bad chinese economy"
+        ]
+    },
+    {
+        "title": "Indonesia to Block Children Under 16 From Social Media",
+        "link": "https://www.nytimes.com/2026/03/06/world/asia/indonesia-social-media-ban.html",
+        "summary": "The ban is to take effect March 28, according to a government minister, but details about how it would be carried out were scarce.",
+        "source": "NYT > World News",
+        "objectivity_score": 6,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "government minister"
         ]
     },
     {
@@ -898,194 +1488,156 @@
         ]
     },
     {
-        "title": "Who Is Eyal Zamir, the Architect of Israel\u2019s War Plans?",
-        "link": "https://www.nytimes.com/2026/03/05/world/middleeast/eyal-zamir-profile-iran-war.html",
-        "summary": "The Israeli general has long been focused on the threat from Iran and its proxies, and has called for a regional alliance against the country.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "eyal zamir",
-            "\u2019 s war",
-            "regional alliance"
-        ]
-    },
-    {
-        "title": "Israel Closes Al Aqsa Mosque at Ramadan, Citing Wartime Safety Concerns",
-        "link": "https://www.nytimes.com/2026/03/05/world/middleeast/israel-al-aqsa-mosque-ramadan-jerusalem.html",
-        "summary": "The temporary measure, during the holy Muslim fasting month, follows tensions as Jewish activists increasingly encroach on the contested religious site.",
+        "title": "Israel Says It Struck Underground Bunker at Khamenei\u2019s Compound",
+        "link": "https://www.nytimes.com/2026/03/06/world/middleeast/khamenei-bunker.html",
+        "summary": "The Israeli military said the facility, under the site where Irans supreme leader was killed by a strike last week, was still being used after the first attack.",
         "source": "NYT > World News",
         "objectivity_score": 12,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "israel closes al aqsa mosque",
-            "citing wartime safety concerns",
-            "temporary measure"
+            "israel says",
+            "struck underground bunker",
+            "supreme leader"
         ]
     },
     {
-        "title": "China Bets on Technology to Resist U.S. Pressure",
-        "link": "https://www.nytimes.com/2026/03/04/world/asia/china-us-technology-trade-military.html",
-        "summary": "China announced a 7 percent increase in military spending and a five-year plan to try to reduce its military and industrys reliance on Western technology.",
-        "source": "NYT > World News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "china bets",
-            "resist u.s. pressure china",
-            "percent increase"
-        ]
-    },
-    {
-        "title": "Air travel remains disrupted across the Middle East.",
-        "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon/air-travel-is-still-disrupted-across-the-middle-east",
+        "title": "A New England Patriots plane brought Americans back from the Middle East.",
+        "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon/a-new-england-patriots-plane-brought-americans-back-from-the-middle-east",
         "summary": "",
         "source": "NYT > World News",
-        "objectivity_score": 0,
+        "objectivity_score": 15,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "air travel"
+            "england patriots"
         ]
     },
     {
-        "title": "This is what happened on March 5.",
-        "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/this-is-what-happened-on-march-5",
-        "summary": "",
+        "title": "Trump Demands \u2018Unconditional Surrender\u2019 by Iran",
+        "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html",
+        "summary": "President Trumps comments on Friday reflected yet another shift in the goals of U.S. military actions.",
         "source": "NYT > World News",
-        "objectivity_score": 0,
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "this"
+            "trump demands",
+            "unconditional surrender",
+            "military actions"
         ]
     },
     {
-        "title": "Indonesia to Block Children Under 16 From Social Media",
-        "link": "https://www.nytimes.com/2026/03/06/world/asia/indonesia-social-media-ban.html",
-        "summary": "The ban is to take effect March 28, according to a government minister, but details about how it would be carried out were scarce.",
+        "title": "With Iran, Trump Takes the U.S. to War Without the Public\u2019s Support",
+        "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-iran-war-public-support.html",
+        "summary": "In opening a military campaign against Iran, President Trump is the first president in modern times to take the United States to war without the backing of the public.",
         "source": "NYT > World News",
-        "objectivity_score": 6,
+        "objectivity_score": 17,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "government minister"
+            "trump takes",
+            "public \u2019 s",
+            "military campaign"
         ]
     },
     {
-        "title": "4 Arrested in London on Suspicion of Spying on Jews for Iran",
-        "link": "https://www.nytimes.com/2026/03/06/world/europe/iran-london-spying-arrest-jewish-community.html",
-        "summary": "The police said one Iranian and three British-Iranians were detained as part of a counterterrorism investigation.",
+        "title": "From 1978: Golda Meir, 80, Dies in Jerusalem; Israelis Acclaim \u2018Stalwart Lioness\u2019",
+        "link": "https://www.nytimes.com/2026/03/06/world/middleeast/golda-meir-dead.html",
+        "summary": "Once a teacher in Milwaukee, she climbed the ranks of the Labor Party to become Israels first female prime minister.",
         "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "counterterrorism investigation"
-        ]
-    },
-    {
-        "title": "Khamenei\u2019s Killing Sparks Anger and Grief in South Asia\u2019s Shiite Muslims",
-        "link": "https://www.nytimes.com/2026/03/06/world/middleeast/iran-khamenei-shiite-india-pakistan.html",
-        "summary": "Ayatollah Ali Khamenei, who was killed during the U.S.-Israeli strikes on Iran, was deeply respected among the millions of Shiite Muslims in Pakistan and India.",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Negative",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "killing sparks anger",
-            "shiite muslims ayatollah ali khamenei",
-            "shiite muslims"
-        ]
-    },
-    {
-        "title": "U.S. and Venezuela Agree to Restore Relations",
-        "link": "https://www.nytimes.com/video/world/americas/100000010757865/us-venezuela-diplomatic-relations.html",
-        "summary": "The State Department announced on Thursday that it was re-establishing diplomatic relations with Venezuela. It came as a U.S. delegation negotiated for access to Venezuelas mining industry.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "venezuela agree",
-            "state department",
-            "diplomatic relations"
-        ]
-    },
-    {
-        "title": "3 Australians Were on U.S. Submarine That Sank an Iranian Warship",
-        "link": "https://www.nytimes.com/2026/03/06/world/middleeast/iran-warship-us-submarine-australia.html",
-        "summary": "Prime Minister Anthony Albaneses disclosure about the attack in the Indian Ocean prompted concern that Australias close military cooperation with the United States could draw it into the fighting in t...",
-        "source": "NYT > World News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "australians were",
-            "iranian warship prime",
-            "anthony albaneses"
-        ]
-    },
-    {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon/heres-the-latest",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 90,
+        "objectivity_score": 25,
         "sentiment": "Positive",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "here\u2019s"
+            "golda meir",
+            "israelis acclaim",
+            "stalwart lioness"
         ]
     },
     {
-        "title": "U.S. Restarts Diplomatic Relations With Venezuela",
-        "link": "https://www.nytimes.com/2026/03/05/world/americas/us-venezuela-diplomatic-relations.html",
-        "summary": "Washington has rapidly warmed up ties with Venezuela  and applied major pressure on it  since capturing the countrys president, Nicols Maduro, two months ago.",
+        "title": "From 2001: Beate Uhse, 81, Entrepreneur in the Business of Erotic Goods",
+        "link": "https://www.nytimes.com/2026/03/06/world/europe/beate-uhse-dead.html",
+        "summary": "She developed Europes biggest emporium of erotic goods and opened a three-story sex museum in Germany.",
         "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
+        "objectivity_score": 70,
+        "sentiment": "Positive",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "u.s. restarts diplomatic",
-            "venezuela washington",
-            "major pressure"
+            "beate uhse",
+            "erotic goods",
+            "erotic goods"
         ]
     },
     {
-        "title": "Panic in Beirut After Israel Warns Residents to Evacuate",
-        "link": "https://www.nytimes.com/video/world/middleeast/100000010756628/beirut-lebanon-strikes-israel.html",
-        "summary": "The streets of Beirut erupted in chaos on Thursday after Israel told people in the southern suburbs to evacuate. The Israeli military has been carrying out airstrikes in Dahiya, a Hezbollah stronghold...",
+        "title": "From 2011: Wangari Maathai, Nobel Peace Prize Laureate, Dies at 71",
+        "link": "https://www.nytimes.com/2026/03/06/world/africa/wangari-maathai-dead.html",
+        "summary": "A Kenyan environmentalist, she began by paying women a few shillings to plant trees and went on to become the first African woman to win a Nobel Peace Prize.",
         "source": "NYT > World News",
         "objectivity_score": 20,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "wangari maathai",
+            "peace prize",
+            "peace prize"
+        ]
+    },
+    {
+        "title": "Christine Keeler, Central Figure in British \u2018Scandal of the Century,\u2019 Is Dead at 75",
+        "link": "https://www.nytimes.com/2026/03/06/world/europe/christine-keeler-dead.html",
+        "summary": "News of her affair with the government minister John Profumo and other revelations set England abuzz in the early 1960s.",
+        "source": "NYT > World News",
+        "objectivity_score": 26,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "israel warns residents",
-            "southern suburbs",
-            "militant group"
+            "christine keeler",
+            "british \u2018",
+            "government minister"
+        ]
+    },
+    {
+        "title": "From 2007: Benazir Bhutto, 54, Who Weathered Pakistan\u2019s Political Storm for 3 Decades, Dies",
+        "link": "https://www.nytimes.com/2026/03/06/world/asia/benazir-bhutto-dead.html",
+        "summary": "She was the first democratically elected woman to lead a modern Muslim country.",
+        "source": "NYT > World News",
+        "objectivity_score": 24,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "benazir bhutto",
+            "who weathered pakistan"
+        ]
+    },
+    {
+        "title": "From 1984: Indira Gandhi, Born to Politics, Left Her Own Imprint on India",
+        "link": "https://www.nytimes.com/2026/03/06/world/asia/indira-gandhi-dead.html",
+        "summary": "The dominant figure in Indian politics for nearly two decades, she was elected prime minister four times before being assassinated by her bodyguards.",
+        "source": "NYT > World News",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "indira gandhi",
+            "own imprint",
+            "dominant figure"
         ]
     },
     {
         "title": "Weight-loss jab could be made for $3 a month, study finds",
         "link": "https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study",
-        "summary": "Cheap semaglutide, the drug in Ozempic and Wegovy, could help millions with diabetes and obesity in 160 countriesWeight-loss jabs such as Wegovy and Ozempic could be made for just $3 a month, accordin...",
+        "summary": "Cheap semaglutide, the drug in Ozempic and Wegovy, could help millions with diabetes and obesity in 160 countriesWeight-loss jabs such as Wegovy could be made for just $3 a month, according to new ana...",
         "source": "World news | The Guardian",
         "objectivity_score": 58,
         "sentiment": "Positive",
@@ -1158,6 +1710,51 @@
         ]
     },
     {
+        "title": "Peruvian state responsible for mother\u2019s death in forced sterilisation, court rules",
+        "link": "https://www.theguardian.com/global-development/2026/mar/06/peruvian-state-responsible-for-mothers-death-in-forced-sterilisation-court-rules",
+        "summary": "Landmark ruling in Celia Ramos case finds 310,000 women, most Indigenous, were targeted in brutal 1990s campaignThe highest human rights court in Latin America condemned Peru on Thursday over the deat...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "peruvian state",
+            "mother \u2019 s death",
+            "court rules"
+        ]
+    },
+    {
+        "title": "Iranian mathematician missing in Canada may have been targeted by Tehran, activists say",
+        "link": "https://www.theguardian.com/world/2026/mar/06/missing-iranian-canada-masood-masjoody",
+        "summary": "Police say Masood Masjoody was most likely murdered; Iranian expats suspect he was killed for his criticism of the theocratic regimePolice in Canada have concluded that a missing Iranian activist was ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "masood masjoody",
+            "theocratic regimepolice",
+            "transnational repression campaign"
+        ]
+    },
+    {
+        "title": "Iran is not Venezuela, despite Trump\u2019s hopes of repeating \u2018regime capture\u2019 strategy",
+        "link": "https://www.theguardian.com/world/2026/mar/06/iran-venezuela-trump-regime-capture",
+        "summary": "Experts say US influence over South American neighbour will be hard to replicate in country with deep and long-standing antipathy to the westFirst, the CIA tracks the head of an oil-rich, US-baiting n...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 34,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "\u2018 regime",
+            "\u2019 strategy experts",
+            "south american neighbour"
+        ]
+    },
+    {
         "title": "US and Venezuela move to restore diplomatic ties two months after Maduro\u2019s capture",
         "link": "https://www.theguardian.com/us-news/2026/mar/06/us-venezuela-diplomatic-ties-relations-delcy-rodriguez",
         "summary": "Re-establishing diplomatic relations will support Venezuelas economy, US state department claims, amid push for minerals accessVenezuela and the US are restoring diplomatic ties, the two countries ann...",
@@ -1188,48 +1785,18 @@
         ]
     },
     {
-        "title": "\u2018It creates a sense of belonging\u2019: Brazil bets on hiking trails for conservation",
-        "link": "https://www.theguardian.com/environment/2026/mar/05/brazil-hiking-trails-conservation",
-        "summary": "The countrys network of footpaths is growing  with hopes they will develop local economies and better preserve the environmentFollow the yellow footprints along Brazils newest long-distance trail, and...",
+        "title": "Indonesia to ban social media for children under 16",
+        "link": "https://www.theguardian.com/technology/2026/mar/06/indonesia-social-media-ban-children",
+        "summary": "Platforms include YouTube, TikTok and Instagram as communication minister says our children face real threatsIndonesia will ban social media for children under 16, its communication and digital affair...",
         "source": "World news | The Guardian",
-        "objectivity_score": 25,
+        "objectivity_score": 31,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "countrys network",
-            "local economies",
-            "yellow footprints"
-        ]
-    },
-    {
-        "title": "Blackout in Cuba leaves millions without power amid US oil chokehold",
-        "link": "https://www.theguardian.com/world/2026/mar/04/blackout-cuba-us-oil",
-        "summary": "Latest outage darkens island facing dwindling oil reserves and increasing pressure from WashingtonA blackout hit the western half of Cuba on Wednesday, leaving millions of people in Havana and beyond ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "leaves millions",
-            "us oil chokehold",
-            "outage darkens island"
-        ]
-    },
-    {
-        "title": "Cuba charges six exiles with terrorism in wake of deadly speedboat attack",
-        "link": "https://www.theguardian.com/world/2026/mar/04/cuba-charges-six-exiles-terrorism-speedboat-attack",
-        "summary": "Detainees accused of coming from the US with intent to sow chaos and attack military units on Communist-ruled islandCuban prosecutors have formally charged six people with crimes of terrorism after a ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 24,
-        "sentiment": "Negative",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "speedboat attack",
-            "military units",
-            "islandcuban prosecutors"
+            "social media",
+            "communication minister",
+            "real threatsindonesia"
         ]
     },
     {
@@ -1293,18 +1860,18 @@
         ]
     },
     {
-        "title": "Social climber: Punch the monkey starts to outgrow his Ikea plushie",
-        "link": "https://www.theguardian.com/world/2026/mar/05/punch-the-monkey-outgrowing-ikea-plushie-djungelskog",
-        "summary": "Japanese baby macaque, who appeared to find comfort in the djungelskog toy after being rejected by his mother, seems to be mixing more with his peersPunch, a baby macaque that stole the hearts of anim...",
+        "title": "Jillian Segal\u2019s office hand-picked candidate to assess controversial university antisemitism report card",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/07/jillian-segals-office-hand-picked-candidate-to-assess-controversial-university-antisemitism-report-card",
+        "summary": "Greg Craven, a former vice-chancellor of Australian Catholic University, chosen after no other bids made for the tenderGet our breaking news email, free app or daily news podcastAustralias antisemitis...",
         "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "social climber",
-            "japanese baby macaque",
-            "djungelskog toy"
+            "jillian segal",
+            "\u2019 s office",
+            "controversial university antisemitism report card"
         ]
     },
     {
@@ -1368,22 +1935,67 @@
         ]
     },
     {
-        "title": "NSW police admit to making \u2018very unfortunate\u2019 wrong claim after officer shot man dead",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/06/nsw-police-admit-to-making-very-unfortunate-wrong-claim-after-officer-shot-man-dead",
-        "summary": "Inquest into fatal shooting of Steve Pampalian told statement by assistant commissioner he was known to police was incorrectA man shot dead by a NSW police officer after he ran at him with two knives ...",
+        "title": "German twist in the Telegraph tale shatters Lord Rothermere\u2019s dreams",
+        "link": "https://www.theguardian.com/media/2026/mar/06/german-twist-in-the-telegraph-tale-shatters-lord-rothermeres-dreams",
+        "summary": "The European media giant Axel Springer has scuppered the Daily Mail owner. But why did it not bid sooner? And what will Brexit-backing readers think?After three years, a series of failed bids stretchi...",
         "source": "World news | The Guardian",
-        "objectivity_score": 62,
-        "sentiment": "Negative",
+        "objectivity_score": 31,
+        "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "unfortunate \u2019",
-            "wrong claim",
-            "officer shot man"
+            "german twist",
+            "tale shatters lord",
+            "\u2019 s dreams"
         ]
     },
     {
-        "title": "BP\u2019s new boss will earn at least \u00a311.7m this year, more than double her predecessor",
+        "title": "Hungary \u2018demands answers\u2019 over seized Ukrainian gold and cash as Kyiv accuses Budapest of \u2018hostage\u2019 situation \u2013 as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/mar/06/ukraine-russia-hungary-orban-zelenskyy-putin-middle-east-iran-cyprus-europe-latest-news-updates",
+        "summary": "Ukraine police investigating what foreign ministry calls  a hostage situation involving seven employees of Oschadbank stopped by HungaryIcelandic foreign minister orgerur Katrn Gunnarsdttir submitted ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 6,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "\u2018 demands answers \u2019",
+            "\u2018 hostage \u2019 situation \u2013",
+            "foreign ministry calls"
+        ]
+    },
+    {
+        "title": "Hungary seizes millions of euros in cash and gold from Ukrainian convoy",
+        "link": "https://www.theguardian.com/world/2026/mar/06/hungary-seizes-millions-euros-cash-gold-ukrainian-convoy",
+        "summary": "Seven Ukrainians arrested and money-laundering investigation launched in latest spat between Kyiv and BudapestAn increasingly acrimonious spat between Hungary and Ukraine has escalated further, as Bud...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 51,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "seizes millions",
+            "acrimonious spat",
+            "bank vehicles"
+        ]
+    },
+    {
+        "title": "Ant\u00f3nio Lobo Antunes, Portuguese novelist who chronicled dictatorship and war, dies aged 83",
+        "link": "https://www.theguardian.com/books/2026/mar/06/antonio-lobo-antunes-portuguese-novelist-dies-aged-83",
+        "summary": "Author of more than 30 novels, including Fado Alexandrino and The Inquisitors Manual, was widely seen as one of the most important voices in modern Portuguese literatureAntnio Lobo Antuness exhilarati...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "ant\u00f3nio lobo antunes",
+            "portuguese novelist",
+            "fado alexandrino"
+        ]
+    },
+    {
+        "title": "BP\u2019s new boss will take home at least \u00a311.7m this year, more than double her predecessor",
         "link": "https://www.theguardian.com/business/2026/mar/06/bp-new-boss-will-earn-more-than-double-predecessor",
         "summary": "Meg ONeill will be first woman to serve as CEO of 117-year-oil firm when joining from Woodside Energy in AprilThe incoming chief executive of BP will take home at least 11.7m this year after joining t...",
         "source": "World news | The Guardian",
@@ -1398,97 +2010,7 @@
         ]
     },
     {
-        "title": "Iceland proposes referendum on resuming EU accession talks in August \u2013 Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/mar/06/ukraine-russia-hungary-orban-zelenskyy-putin-middle-east-iran-cyprus-europe-latest-news-updates",
-        "summary": "Final deal with EU would be put to another referendum, Icelandic prime minister saysIcelandic foreign minister orgerur Katrn Gunnarsdttir submitted a government motion for a referendum on resuming acc...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "prime minister saysicelandic",
-            "foreign minister orgerur",
-            "katrn gunnarsdttir"
-        ]
-    },
-    {
-        "title": "Italy wins claim over name of Spanish restaurant chain The Mafia Sits at the Table",
-        "link": "https://www.theguardian.com/world/2026/mar/06/italy-wins-claim-name-spanish-restaurant-chain-the-mafia-sits-at-the-table",
-        "summary": "After years of court action and complaints, trademark office in Spain rules name is counter to public order and moralityA Spanish restaurant chain called The Mafia Sits at the Table may soon have to c...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 11,
-        "sentiment": "Neutral",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "spanish restaurant chain",
-            "mafia sits",
-            "court action"
-        ]
-    },
-    {
-        "title": "Italian activists and journalist targeted by spyware in 2024, prosecutors confirm",
-        "link": "https://www.theguardian.com/world/2026/mar/06/italy-activists-and-journalist-targeted-by-spyware-in-2024-prosecutors-confirm",
-        "summary": "Investigation finds three were hacked by Paragon spyware at same time, potentially fuelling questions for governmentItalian prosecutors investigating a domestic spying scandal say they have independen...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Neutral",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "italian activists",
-            "governmentitalian prosecutors",
-            "immigration activists"
-        ]
-    },
-    {
-        "title": "A lone battle: Why is Pedro S\u00e1nchez the only European leader to take on Trump?",
-        "link": "https://www.theguardian.com/world/2026/mar/06/pedro-sanchez-spain-european-leader-take-on-trump",
-        "summary": "As the Spanish PM decries the war in Iran, other politicians are unable  or unwilling  to speak against the US presidentOn Wednesday morning, Pedro Snchez delivered a 10-minute televised address with ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "lone battle",
-            "pedro s\u00e1nchez",
-            "european leader"
-        ]
-    },
-    {
-        "title": "Iran\u2019s president says mediation efforts under way to end war with US and Israel",
-        "link": "https://www.theguardian.com/world/2026/mar/06/new-supreme-leader-anti-iran-us-propaganda-reformists",
-        "summary": "Mediation by some countries should address those who started conflict, Masoud Pezeshkian says in post on XMiddle East crisis  live updatesIrans president, Masoud Pezeshkian, has said for the first tim...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s president",
-            "mediation efforts",
-            "israel mediation"
-        ]
-    },
-    {
-        "title": "Nigel Farage to discuss Chagos Islands deal at Mar-a-Lago dinner with Donald Trump tonight - UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/mar/06/david-lammy-raf-jets-cyprus-iran-middle-east-labour-keir-starmer-uk-politics-live-news-updates",
-        "summary": "Reform UK leader told a Save Chagos Boat Party yesterday he would be raising the issue in his meeting with the president Middle East crisis  live updatesA second government charter flight to bring UK ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "nigel farage",
-            "donald trump",
-            "reform uk"
-        ]
-    },
-    {
-        "title": "Middle East crisis live: Israel bombards Tehran and Beirut as US says attacks to intensify",
+        "title": "Middle East crisis live: Israel bombs Tehran and Beirut as Trump says no deal with Iran \u2018except unconditional surrender\u2019",
         "link": "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut",
         "summary": "Israel launched huge attacks on Iran and Lebanon overnightTell us: how have you been affected by the latest events in the Middle East?Iran and Lebanon were hit with a wave of intense Israeli strikes o...",
         "source": "World news | The Guardian",
@@ -1497,39 +2019,69 @@
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
+            "unconditional surrender \u2019",
             "huge attacks",
-            "strikes overnight.israels",
-            "broad-scale wave"
+            "strikes overnight.israels"
         ]
     },
     {
-        "title": "US officials increase security over fear of attack by Iran amid US-Israel bombing",
-        "link": "https://www.theguardian.com/world/2026/mar/06/security-increase-iran-attack-us-israel-bombing",
-        "summary": "Federal and local officials have announced more patrols, counterterrorism measures and heightened monitoringGovernment officials across the US have taken new security measures because of fears that Ir...",
+        "title": "Trump demands Iran\u2019s \u2018unconditional surrender\u2019 as bombs pound Tehran and Beirut",
+        "link": "https://www.theguardian.com/world/2026/mar/06/us-israel-threaten-major-escalation-airstrikes-iran-lebanon",
+        "summary": "US president again calls on Iranian people to overthrow government or face absolutely guaranteed deathMiddle East crisis  live updatesDonald Trump has said only Irans unconditional surrender will brin...",
         "source": "World news | The Guardian",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "us officials increase security",
-            "local officials",
-            "counterterrorism measures"
-        ]
-    },
-    {
-        "title": "US grants waiver to allow India to buy Russian oil amid Iran war",
-        "link": "https://www.theguardian.com/us-news/2026/mar/05/us-waiver-india-russian-oil",
-        "summary": "Stopgap measure designed to keep oil flowing into global market as Middle East crisis disrupts crude shipmentsBusiness live  latest updatesThe US has temporarily allowed India to buy Russian oil curre...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
+        "objectivity_score": 53,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "us grants waiver",
-            "russian oil",
-            "global market"
+            "\u2019 s \u2018 unconditional surrender \u2019",
+            "us president",
+            "overthrow government"
+        ]
+    },
+    {
+        "title": "\u2018If they don\u2019t stop, Tehran will turn into Gaza\u2019: Iranians describe night of terror",
+        "link": "https://www.theguardian.com/world/2026/mar/06/tehran-bombing-iran-night-of-terror",
+        "summary": "People tell of scenes of panic during airstrikes on Irans capital, with several saying they feared they would dieMiddle East crisis  live updatesSleeplessness, fear and exhaustion gripped residents of...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 62,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "don \u2019 t",
+            "describe night",
+            "terror people"
+        ]
+    },
+    {
+        "title": "\u2018The memories stay behind\u2019: hundreds of thousands flee the Israeli bombs in Beirut",
+        "link": "https://www.theguardian.com/world/2026/mar/06/thousands-flee-israeli-bombs-beirut",
+        "summary": "The normally vibrant southern suburbs are a ghost town, their throngs of people replaced by rubble and firesThe ding of half a million phones, a pause and a collective gasp: in an instant, more than 5...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 51,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "thousands flee",
+            "vibrant southern suburbs",
+            "ghost town"
+        ]
+    },
+    {
+        "title": "Iran war pushes oil price above $90 threatening rise in global inflation",
+        "link": "https://www.theguardian.com/business/2026/mar/06/iran-war-pushes-oil-price-above-90-dollars-a-barrel",
+        "summary": "Reports Kuwait was cutting output pushed up cost of barrel of Brent crude to highest weekly gain since Covid pandemic beganThe Iran conflict has driven the oil price past $90 a barrel to its highest w...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 51,
+        "sentiment": "Negative",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "war pushes oil price",
+            "global inflation reports",
+            "weekly gain"
         ]
     },
     {
@@ -1608,153 +2160,153 @@
         ]
     },
     {
-        "title": "Peter Mandelson released from bail conditions",
-        "link": "https://www.theguardian.com/uk-news/2026/mar/06/peter-mandelson-released-from-bail-conditions",
-        "summary": "Officers have decided former minister is not a flight risk, but he remains under investigationPolice have released Peter Mandelson from his bail conditions after deciding he was not a flight risk, the...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 4,
-        "sentiment": "Neutral",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "peter mandelson",
-            "bail conditions",
-            "flight risk"
-        ]
-    },
-    {
-        "title": "Axel Springer to buy Telegraph for \u00a3575m, elbowing aside Daily Mail owner",
-        "link": "https://www.theguardian.com/media/2026/mar/06/axel-springer-buy-telegraph-daily-mail-owner",
-        "summary": "German owner of Bild and Die Welt is understood to have agreed all-cash deal for one of UKs oldest newspapersBusiness live  latest updatesAxel Springer, the owner of Politico and Business Insider, is ...",
+        "title": "Man accused of Natalie McNally\u2019s murder beat previous partner, court told",
+        "link": "https://www.theguardian.com/uk-news/2026/mar/06/man-accused-of-natalie-mcnallys-beat-previous-partner-court-told",
+        "summary": "Stephen McCullagh also covertly recorded ex-girlfriends counselling sessions after loss of a babyA man accused of murdering his pregnant girlfriend in Northern Ireland beat a previous partner, a court...",
         "source": "World news | The Guardian",
         "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "axel springer",
-            "daily mail owner",
-            "german owner"
+            "natalie mcnally",
+            "\u2019 s murder",
+            "previous partner"
         ]
     },
     {
-        "title": "A century of care: Wildlife Trusts mark 100th birthday with woodland project",
-        "link": "https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk",
-        "summary": "First of the trusts, formed with 12 people in a Norfolk pub in 1926, buys swath of farmland to restore to natureThe place where Norton Wood once stood is now a vast field of decaying wheat stubble. Th...",
+        "title": "Met interviews three suspects over Mohamed Al Fayed\u2019s alleged sexual assaults",
+        "link": "https://www.theguardian.com/world/2026/mar/06/met-interviews-three-women-mohamed-al-fayed-alleged-sexual-assaults",
+        "summary": "The women in their 40s, 50s and 60s are suspected of facilitating alleged abuse by the late Harrods ownerThree women have been interviewed under caution on suspicion of facilitating one of Britains wo...",
         "source": "World news | The Guardian",
-        "objectivity_score": 49,
+        "objectivity_score": 48,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "wildlife trusts",
-            "mark 100th birthday",
-            "woodland project"
+            "mohamed al fayed",
+            "sexual assaults",
+            "ownerthree women"
         ]
     },
     {
-        "title": "Rail passengers warned over six-day Easter shutdown on west coast mainline",
-        "link": "https://www.theguardian.com/business/2026/mar/06/rail-passengers-warned-over-six-day-easter-shutdown-on-west-coast-mainline",
-        "summary": "Engineering work means there will be no mainline services between London Euston and Milton Keynes from 3-8 AprilRail passengers planning to travel over the Easter break face disrupted journeys owing t...",
+        "title": "\u2018Someone\u2019s paid a grand in cash\u2019: fans camp out in Manchester for first Harry Styles concert since 2023",
+        "link": "https://www.theguardian.com/music/2026/mar/06/fans-camp-out-in-manchester-for-first-harry-styles-concert-since-2023",
+        "summary": "Styles will perform new album in full at Co-op Live arena show, with tickets being traded for well above 20 face valueMore than 20,000 fans from all over the world flocked towards the Co-op Live arena...",
         "source": "World news | The Guardian",
-        "objectivity_score": 60,
+        "objectivity_score": 38,
         "sentiment": "Positive",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "coast mainline",
-            "mainline services",
-            "london euston"
+            "cash \u2019",
+            "fans camp",
+            "harry styles"
         ]
     },
     {
-        "title": "Home Office may forcibly remove child asylum seekers from UK in handcuffs",
-        "link": "https://www.theguardian.com/uk-news/2026/mar/06/home-office-may-forcibly-remove-child-asylum-seekers-from-uk-in-handcuffs",
-        "summary": "Move is part of scheme to target families for expedited voluntary removals before enforced removal proceedingsChildren may be forcibly removed from the UK in handcuffs to overcome noncompliance as par...",
+        "title": "Keir Starmer accused of \u2018mimicking Trump\u2019 with Middle East crisis TikTok post",
+        "link": "https://www.theguardian.com/politics/2026/mar/06/keir-starmer-accused-of-mimicking-trump-with-middle-east-crisis-tiktok-post",
+        "summary": "PM justifies position on US-Israel war on Iran in social media post using the Dire Straits song Money for NothingKeir Starmer has been accused of trying to mimic Donald Trumps social media output afte...",
         "source": "World news | The Guardian",
-        "objectivity_score": 50,
+        "objectivity_score": 15,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "keir starmer",
+            "justifies position",
+            "social media post"
+        ]
+    },
+    {
+        "title": "Supermarkets hit by falling demand for nitrite-cured bacon due to cancer fears",
+        "link": "https://www.theguardian.com/uk-news/2026/mar/06/supermarkets-falling-demand-nitrite-cured-bacon-cancer-fears",
+        "summary": "Sales of products made the traditional way dropped 7% in three months to 25 January while nitrite-free sales rose 20%UK supermarkets have been hit by a bacon backlash as consumers fear that chemicals ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 70,
         "sentiment": "Positive",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "child asylum seekers",
-            "target families",
-            "voluntary removals"
+            "cancer fears",
+            "traditional way",
+            "nitrite-free sales"
         ]
     },
     {
-        "title": "Democrats celebrate Kristi Noem\u2019s ouster but warn of battle to come for future of DHS \u2013 live",
+        "title": "Democrats attack Trump after US jobs report shows economy \u2018teetering on the edge of a recession\u2019 \u2013 live",
         "link": "https://www.theguardian.com/us-news/live/2026/mar/06/kristi-noem-democrats-ice-donald-trump-pete-hegseth-iran-middle-east-us-politics-latest-news-updates",
-        "summary": "Democrats say Noem deserved to be fired but warn that pressure must be kept up against ICE and her replacement nominee, Maga warrior Markwayne MullinAnalysis: Noem confronts grim truth that everyone i...",
+        "summary": "Chuck Schumer and other Democrats express concern over latest jobs report showing US economy shed about 92,000 jobs in February US lost 92,000 jobs in February just before Trump joined Iran conflictMi...",
         "source": "World news | The Guardian",
         "objectivity_score": 56,
-        "sentiment": "Negative",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "kristi noem",
-            "\u2019 s ouster",
-            "replacement nominee"
-        ]
-    },
-    {
-        "title": "Family of detainee who died under ICE custody says he was denied medical care",
-        "link": "https://www.theguardian.com/us-news/2026/mar/06/detainee-died-ice-custody-california",
-        "summary": "Alberto Gutirrez Reyes died in a California hospital in February after suffering chest pain and shortness of breathA man under the custody of federal immigration agents died in a California hospital l...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 14,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "medical care",
-            "alberto gutirrez reyes",
-            "chest pain"
+            "us jobs",
+            "shows economy \u2018",
+            "recession \u2019 \u2013"
         ]
     },
     {
-        "title": "\u2018Maga warrior\u2019 nominated by Trump to lead DHS said shooting of January 6 rioter Ashli Babbitt was justified \u2013 as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
-        "summary": "This live blog is now closed.Trump news at a glance: president shows Kristi Noem the door, but already has another job lined up for herMarkwayne Mullin, Maga warrior and ICE defender, to replace Krist...",
+        "title": "US preparing system to process refunds on billions in illegal Trump tariffs",
+        "link": "https://www.theguardian.com/us-news/2026/mar/06/us-judge-lawyers-175bn-trump-tariffs-refunds",
+        "summary": "Top official at customs agency says total sum held in relation to tariffs is estimated to be about $166bnThe US customs agency is preparing a system that will be ready to process refunds on billions o...",
         "source": "World news | The Guardian",
-        "objectivity_score": 60,
-        "sentiment": "Positive",
-        "date": "2026-03-06",
-        "image_url": null,
-        "keywords": [
-            "warrior \u2019",
-            "ashli babbitt",
-            "closed.trump news"
-        ]
-    },
-    {
-        "title": "Bernard LaFayette, civil rights leader who helped launch Voting Rights Act, dies aged 85",
-        "link": "https://www.theguardian.com/us-news/2026/mar/05/bernard-lafayette-civil-rights-leader-dies",
-        "summary": "Early in a life of service, LaFayette did the risky groundwork for the voter registration campaign in Selma, AlabamaBernard LaFayette, the advance man who did the risky groundwork for the voter regist...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
+        "objectivity_score": 51,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "bernard lafayette",
-            "civil rights leader",
-            "risky groundwork"
+            "process refunds",
+            "customs agency",
+            "total sum"
         ]
     },
     {
-        "title": "Man charged with aggravated murder in killings of three women in Utah",
-        "link": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
-        "summary": "Suspect identified as Ivan Miller, 22, found after he was tracked in one of the victims vehicles, authorities saySign up for the Breaking News US email to get newsletter alerts in your inboxAuthoritie...",
+        "title": "US senator seeks perjury investigation into Kristi Noem over DHS spending",
+        "link": "https://www.theguardian.com/us-news/2026/mar/06/kristi-noem-congress-investigation",
+        "summary": "Senator Richard Blumenthal alleges the ousted DHS secretary lied to Congress about the agencys contractsSign up for the Breaking News US email to get newsletter alerts in your inboxSenator Richard Blu...",
         "source": "World news | The Guardian",
-        "objectivity_score": 25,
+        "objectivity_score": 31,
         "sentiment": "Neutral",
         "date": "2026-03-06",
         "image_url": null,
         "keywords": [
-            "ivan miller",
-            "victims vehicles",
-            "authorities saysign"
+            "us senator",
+            "perjury investigation",
+            "kristi noem"
+        ]
+    },
+    {
+        "title": "White House releases video promoting \u2018justice the American way\u2019 featuring Hollywood characters",
+        "link": "https://www.theguardian.com/us-news/2026/mar/06/white-house-propaganda-video-characters",
+        "summary": "Critics have called Trump administrations provocative video slopaganda, used to promote presidents agendaA piece of supremely nasty mischief: the Guardians film critic on the latest White House war vi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "white house releases video",
+            "\u2018 justice",
+            "american way \u2019"
+        ]
+    },
+    {
+        "title": "DoJ releases Epstein files containing uncorroborated abuse allegations against Trump",
+        "link": "https://www.theguardian.com/us-news/2026/mar/06/justice-department-epstein-files-trump-allegations",
+        "summary": "Justice department said the files were initially withheld because they were mistakenly categorized as duplicatesSign up for the Breaking News US email to get newsletter alerts in your inboxThe US just...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-03-06",
+        "image_url": null,
+        "keywords": [
+            "abuse allegations",
+            "justice department",
+            "news us email"
         ]
     }
 ]
