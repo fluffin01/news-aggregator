@@ -737,18 +737,18 @@
         ]
     },
     {
-        "title": "UK warship HMS Dragon departs for eastern Mediterranean",
-        "link": "https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&at_campaign=rss",
-        "summary": "The Type 45 destroyer's main role will be protecting RAF Akrotiri, which was hit with an Iranian-made drone.",
+        "title": "Government approves Met request to ban Al Quds Day march",
+        "link": "https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss",
+        "summary": "The government grants a request from the Metropolitan Police to ban a march due to take place in London on Sunday.",
         "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
+        "objectivity_score": 37,
+        "sentiment": "Negative",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "hms dragon",
-            "destroyer 's",
-            "main role"
+            "government approves",
+            "al quds",
+            "day march"
         ]
     },
     {
@@ -767,7 +767,7 @@
         ]
     },
     {
-        "title": "University tuition fees system is a 'mess', says Clegg",
+        "title": "University tuition fees system is a 'mess', says Sir Nick Clegg",
         "link": "https://www.bbc.com/news/articles/c1e9yyg23dyo?at_medium=RSS&at_campaign=rss",
         "summary": "The ex-deputy PM told the BBC he would \"take on the chin\" any criticism surrounding his involvement",
         "source": "BBC News",
@@ -776,7 +776,8 @@
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "university tuition fees system"
+            "university tuition fees system",
+            "sir nick clegg"
         ]
     },
     {
@@ -795,47 +796,17 @@
         ]
     },
     {
-        "title": "First Mandelson files expected to be published on Wednesday",
-        "link": "https://www.bbc.com/news/articles/c4gqj5z4qwqo?at_medium=RSS&at_campaign=rss",
-        "summary": "The documents are expected to detail parts of the process prior to Lord Mandelson's appointment as ambassador.",
+        "title": "Inside the Russian explosives plot that targeted the UK",
+        "link": "https://www.bbc.com/news/articles/cpd83zwqlvno?at_medium=RSS&at_campaign=rss",
+        "summary": "Aleksandr Suranovas, charged with carrying out an act of terrorism for Russia, speaks to the BBC.",
         "source": "BBC News",
-        "objectivity_score": 28,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "detail parts",
-            "'s appointment"
-        ]
-    },
-    {
-        "title": "The Aldi-style insurgents who could be about to shake up the vets market",
-        "link": "https://www.bbc.com/news/articles/cj6dw3r09x0o?at_medium=RSS&at_campaign=rss",
-        "summary": "As pet owners complain of rising prices, independent practices want to take on the big chains.",
-        "source": "BBC News",
-        "objectivity_score": 11,
-        "sentiment": "Neutral",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "vets market",
-            "pet owners complain",
-            "independent practices"
-        ]
-    },
-    {
-        "title": "MPs demand urgent action on London grooming gangs",
-        "link": "https://www.bbc.com/news/articles/c24dyjlypd9o?at_medium=RSS&at_campaign=rss",
-        "summary": "The government's inquiry into grooming gangs \"must look specifically at London as part of its local investigations\", says a group of MPs.",
-        "source": "BBC News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "urgent action",
-            "government 's inquiry",
-            "local investigations"
+            "russian explosives plot",
+            "uk aleksandr suranovas"
         ]
     },
     {
@@ -854,46 +825,101 @@
         ]
     },
     {
+        "title": "The Aldi-style insurgents who could be about to shake up the vets market",
+        "link": "https://www.bbc.com/news/articles/cj6dw3r09x0o?at_medium=RSS&at_campaign=rss",
+        "summary": "As pet owners complain of rising prices, independent practices want to take on the big chains.",
+        "source": "BBC News",
+        "objectivity_score": 11,
+        "sentiment": "Neutral",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "vets market",
+            "pet owners complain",
+            "independent practices"
+        ]
+    },
+    {
+        "title": "Meghan to headline \u00a31,400 per person 'girls' weekend' in Australia",
+        "link": "https://www.bbc.com/news/articles/cwykl5d02rno?at_medium=RSS&at_campaign=rss",
+        "summary": "The Duke and Duchess of Sussex are returning to Australia in April, their first visit since 2018.",
+        "source": "BBC News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "headline \u00a31,400",
+            "person 'girls"
+        ]
+    },
+    {
+        "title": "First Mandelson files expected to be published on Wednesday",
+        "link": "https://www.bbc.com/news/articles/c4gqj5z4qwqo?at_medium=RSS&at_campaign=rss",
+        "summary": "The documents are expected to detail parts of the process prior to Lord Mandelson's appointment as ambassador.",
+        "source": "BBC News",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "detail parts",
+            "'s appointment"
+        ]
+    },
+    {
+        "title": "Hereditary peers to be removed from Lords as bill passes",
+        "link": "https://www.bbc.com/news/articles/cdxg76rgdp7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The bill abolishes the 92 seats reserved for peers who inherit their titles through their families.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "bill abolishes"
+        ]
+    },
+    {
         "title": "Wildlife to replace historical characters on banknotes",
         "link": "https://www.bbc.com/news/articles/c4geyyg9en6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Nature was the most popular theme among the public, with the new notes designed to deter counterfeiting.",
+        "summary": "The public will help choose which animals and birds will appear on the Bank of England's new notes.",
         "source": "BBC News",
-        "objectivity_score": 38,
+        "objectivity_score": 17,
+        "sentiment": "Neutral",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "historical characters"
+        ]
+    },
+    {
+        "title": "UK warship HMS Dragon departs for eastern Mediterranean",
+        "link": "https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&at_campaign=rss",
+        "summary": "The Type 45 destroyer's main role will be protecting RAF Akrotiri, which was hit with an Iranian-made drone.",
+        "source": "BBC News",
+        "objectivity_score": 33,
         "sentiment": "Positive",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "historical characters",
-            "popular theme"
+            "hms dragon",
+            "destroyer 's",
+            "main role"
         ]
     },
     {
-        "title": "Prioritising AI data centres could block new homes, builders warn",
-        "link": "https://www.bbc.com/news/articles/c9dn2znzez7o?at_medium=RSS&at_campaign=rss",
-        "summary": "The government plans to give data centres priority access to the electricity grid to speed up development.",
+        "title": "Inside the Australian hotel where Iranian footballers escaped to claim asylum",
+        "link": "https://www.bbc.com/news/articles/c15x1928n48o?at_medium=RSS&at_campaign=rss",
+        "summary": "Activists played a key role in making contact with the women as they tried to dodge their minders.",
         "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "prioritising ai",
-            "data centres",
-            "new homes"
-        ]
-    },
-    {
-        "title": "Secret of hedgehog hearing discovered at far beyond human range",
-        "link": "https://www.bbc.com/news/articles/c8d52n0dnzro?at_medium=RSS&at_campaign=rss",
-        "summary": "Researchers played a sountrack to hedgehogs to identify the frequency of sounds they can hear",
-        "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Negative",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "hedgehog hearing",
-            "human range"
+            "claim asylum",
+            "key role"
         ]
     },
     {
@@ -1016,19 +1042,6 @@
         ]
     },
     {
-        "title": "An 'epidemic' of violence: The women and girls killed by men last year",
-        "link": "https://www.bbc.com/news/articles/cg5nelp5enpo?at_medium=RSS&at_campaign=rss",
-        "summary": "We tracked reports and contacted police and prosecutors for a deeper look at the situation across UK.",
-        "source": "BBC News",
-        "objectivity_score": 3,
-        "sentiment": "Neutral",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "news"
-        ]
-    },
-    {
         "title": "Watch: Wildflowers cover Death Valley in best display since 2016",
         "link": "https://www.bbc.com/news/videos/cly2eken4pgo?at_medium=RSS&at_campaign=rss",
         "summary": "An unusually wet autumn hit one of the hottest places on Earth, soaking long-dormant wildflower seeds and washing off their protective coatings to trigger the riot of colour.",
@@ -1058,30 +1071,45 @@
         ]
     },
     {
-        "title": "Georgia voters to pick replacement for Marjorie Taylor Greene in special election",
-        "link": "https://www.bbc.com/news/articles/c77ey1v7jrzo?at_medium=RSS&at_campaign=rss",
-        "summary": "The shadow of Greene, who resigned from Congress after a rift with the president, looms large over a crowded contest.",
+        "title": "Secret of hedgehog hearing discovered at far beyond human range",
+        "link": "https://www.bbc.com/news/articles/c8d52n0dnzro?at_medium=RSS&at_campaign=rss",
+        "summary": "Researchers played a sountrack to hedgehogs to identify the frequency of sounds they can hear",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
+        "objectivity_score": 60,
+        "sentiment": "Negative",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "marjorie taylor greene",
-            "special election"
+            "hedgehog hearing",
+            "human range"
         ]
     },
     {
-        "title": "Meghan to headline 'girls' weekend' in Australia for 300 women",
-        "link": "https://www.bbc.com/news/articles/cwykl5d02rno?at_medium=RSS&at_campaign=rss",
-        "summary": "The Duke and Duchess of Sussex are returning to Australia in April, their first visit since 2018.",
+        "title": "MPs demand urgent action on London grooming gangs",
+        "link": "https://www.bbc.com/news/articles/c24dyjlypd9o?at_medium=RSS&at_campaign=rss",
+        "summary": "The government's inquiry into grooming gangs \"must look specifically at London as part of its local investigations\", says a group of MPs.",
         "source": "BBC News",
-        "objectivity_score": 33,
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "urgent action",
+            "government 's inquiry",
+            "local investigations"
+        ]
+    },
+    {
+        "title": "UK ticket holder wins \u00a3181m EuroMillions jackpot",
+        "link": "https://www.bbc.com/news/articles/c743gk3gdljo?at_medium=RSS&at_campaign=rss",
+        "summary": "Tuesday's win is the third-largest in UK National Lottery history, operator Allwyn says.",
+        "source": "BBC News",
+        "objectivity_score": 30,
         "sentiment": "Positive",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "headline 'girls"
+            "ticket holder"
         ]
     },
     {
@@ -1098,74 +1126,47 @@
         ]
     },
     {
-        "title": "Hereditary peers to be removed from Lords as bill passes",
-        "link": "https://www.bbc.com/news/articles/cdxg76rgdp7o?at_medium=RSS&at_campaign=rss",
-        "summary": "The bill abolishes the 92 seats reserved for peers who inherit their titles through their families.",
+        "title": "Australian designer Katie Perry wins trademark appeal vs Katy Perry",
+        "link": "https://www.bbc.com/news/articles/c9dn8l021l2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US singer lost the case in 2023 and later won on appeal, but now judges have ruled against her.",
+        "source": "BBC News",
+        "objectivity_score": 6,
+        "sentiment": "Neutral",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "katie perry",
+            "trademark appeal vs",
+            "katy perry"
+        ]
+    },
+    {
+        "title": "Member of Iranian football delegation granted Australian asylum changes her mind",
+        "link": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
+        "summary": "One of the seven women who received visas has reversed her decision after speaking to teammates, minister says",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "bill abolishes"
+            "football delegation",
+            "asylum changes"
         ]
     },
     {
-        "title": "Google employee loses tribunal claim after sexual harassment complaint",
-        "link": "https://www.bbc.com/news/articles/c8r1nxe1rp4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Judge rejects case brought by the senior worker who alleged she was made redundant after reporting a manager for sharing inappropriate stories about his swinger lifestyle.",
-        "source": "BBC News",
-        "objectivity_score": 28,
-        "sentiment": "Neutral",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "tribunal claim",
-            "sexual harassment complaint judge rejects case",
-            "senior worker"
-        ]
-    },
-    {
-        "title": "Nottingham triple killer assaulted husband and wife weeks before attacks, inquiry told",
-        "link": "https://www.bbc.com/news/articles/cze094zdelko?at_medium=RSS&at_campaign=rss",
-        "summary": "Valdo Calocane attacked two colleagues weeks before he killed three people in Nottingham.",
+        "title": "Woman charged with attempted murder after shooting at Rihanna's home",
+        "link": "https://www.bbc.com/news/articles/cgjze644wjvo?at_medium=RSS&at_campaign=rss",
+        "summary": "The woman posted about the singer online prior to the attack, the BBC's US news partner CBS reports.",
         "source": "BBC News",
         "objectivity_score": 0,
-        "sentiment": "Negative",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "triple killer",
-            "wife weeks",
-            "valdo calocane"
-        ]
-    },
-    {
-        "title": "MSPs back six month amendment to assisted dying bill",
-        "link": "https://www.bbc.com/news/articles/c75eydwyp0yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Holyrood members will wade through about 300 proposed changes to the law before a final vote.",
-        "source": "BBC News",
-        "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "month amendment",
-            "final vote"
-        ]
-    },
-    {
-        "title": "Italy buys rare Caravaggio portrait for \u20ac30m",
-        "link": "https://www.bbc.com/news/articles/c93j2ekgwqko?at_medium=RSS&at_campaign=rss",
-        "summary": "The purchase is part of wider plans to prevent major artworks from being bought by private collectors.",
-        "source": "BBC News",
-        "objectivity_score": 59,
-        "sentiment": "Positive",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "major artworks",
-            "private collectors"
+            "'s home",
+            "singer online",
+            "'s us news partner cbs reports"
         ]
     },
     {
@@ -1300,18 +1301,18 @@
         ]
     },
     {
-        "title": "Iran Live Updates: U.S. Says It Struck 16 Iranian Mine-Laying Vessels Near Oil Route",
+        "title": "U.S. Says It Struck 16 Iranian Mine-Laying Vessels Near Oil Route",
         "link": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel",
         "summary": "Whether any mines had been laid in the Strait of Hormuz since the war began on Feb. 28 is unclear. The Pentagon said 140 American service members had been wounded, eight severely, in the war.",
         "source": "NYT > World News",
-        "objectivity_score": 30,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "iran live updates",
             "u.s. says",
-            "iranian mine-laying vessels near"
+            "iranian mine-laying vessels near",
+            "oil route"
         ]
     },
     {
@@ -1506,6 +1507,91 @@
         ]
     },
     {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel/heres-the-latest",
+        "summary": "",
+        "source": "NYT > World News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "here\u2019s"
+        ]
+    },
+    {
+        "title": "See Where U.S. Sites Have Been Damaged in War With Iran",
+        "link": "https://www.nytimes.com/interactive/2026/03/11/world/middleeast/iran-us-military-bases-strikes-map.html",
+        "summary": "A New York Times analysis of satellite imagery and verified videos shows damage to more than a dozen American military sites and installations from Irans retaliatory strikes.",
+        "source": "NYT > World News",
+        "objectivity_score": 26,
+        "sentiment": "Positive",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "u.s. sites have been damaged",
+            "satellite imagery",
+            "videos shows damage"
+        ]
+    },
+    {
+        "title": "This is what happened on March 10.",
+        "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/this-is-what-happened-on-march-10",
+        "summary": "",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "this"
+        ]
+    },
+    {
+        "title": "Iran\u2019s New Supreme Leader Was Wounded Early in the War, Iranian and Israeli Officials Say",
+        "link": "https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html",
+        "summary": "Officials say Mojtaba Khameneis legs were hurt, but the circumstances as well as the extent of his injuries were unclear. He has remained out of view since being announced as leader three days ago.",
+        "source": "NYT > World News",
+        "objectivity_score": 37,
+        "sentiment": "Positive",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "new supreme leader",
+            "was wounded early",
+            "mojtaba khameneis"
+        ]
+    },
+    {
+        "title": "Ukraine Can Now Manufacture \u2018China-Free\u2019 Drones",
+        "link": "https://www.nytimes.com/2026/03/11/world/europe/ukraine-drones-china.html",
+        "summary": "The country has prioritized self-sufficiency in producing a crucial battlefield weapon, though weaning itself fully off cheaper Chinese components is difficult.",
+        "source": "NYT > World News",
+        "objectivity_score": 66,
+        "sentiment": "Negative",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "crucial battlefield weapon",
+            "chinese components"
+        ]
+    },
+    {
+        "title": "How Trump and His Advisers Miscalculated Iran\u2019s Response to War",
+        "link": "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html",
+        "summary": "In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "advisers miscalculated iran",
+            "\u2019 s response",
+            "energy markets"
+        ]
+    },
+    {
         "title": "Missiles, Drones and Airstrikes Pound Middle East Into 12th Day of War",
         "link": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-israel-middle-east-strikes.html",
         "summary": "The effects of the war are being felt through the Persian Gulf.",
@@ -1565,90 +1651,18 @@
         ]
     },
     {
-        "title": "U.S. Forces Attack Iranian Mine-Laying Ships Near the Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-mines-strait-of-hormuz.html",
-        "summary": "A video posted by the U.S. Central Command showed munitions striking nine vessels, most of which were moored at the time. Whether any mines have been laid in Gulf waters was unclear.",
-        "source": "NYT > World News",
-        "objectivity_score": 53,
+        "title": "Prison sentences for pair who attacked gay men hailed as sign of hope for Kenya\u2019s LGBTQ+ community",
+        "link": "https://www.theguardian.com/global-development/2026/mar/11/prison-sentences-attacked-gay-men-hope-kenya-lgbtq-community",
+        "summary": "The perpetrators were jailed for 15 years for robbery with violence in the east African country, where homophobic attacks are increasingThe sentencing of two people who attacked and robbed two gay men...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
         "sentiment": "Positive",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "forces attack iranian mine-laying ships near",
-            "central command",
-            "gulf waters"
-        ]
-    },
-    {
-        "title": "Iranian Military Shows It Knows How to Adapt, U.S. Officials Say",
-        "link": "https://www.nytimes.com/2026/03/10/us/politics/iran-military-tactics.html",
-        "summary": "Iran appears to be targeting what it views as American vulnerabilities, including air defenses meant to guard troops and assets in the region.",
-        "source": "NYT > World News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "say iran",
-            "american vulnerabilities",
-            "air defenses"
-        ]
-    },
-    {
-        "title": "Trump Tries to Sidestep Blame for Any Civilian Deaths in Iran",
-        "link": "https://www.nytimes.com/2026/03/10/us/politics/trump-civilian-deaths-iran-war.html",
-        "summary": "The president and the Pentagon have cast blame on Iran for the mounting toll. More than 1,800 people have died in the war, including many civilians.",
-        "source": "NYT > World News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "trump tries",
-            "sidestep blame",
-            "civilian deaths"
-        ]
-    },
-    {
-        "title": "War in Iran Could Lead to Food Shortages in Region, Experts Warn",
-        "link": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-food-prices.html",
-        "summary": "Some residents of Lebanon, Gaza and Iran are reporting shortages of food, rising food prices and other disruptions to food supplies as the conflict in the Middle East continues.",
-        "source": "NYT > World News",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "food prices",
-            "food supplies"
-        ]
-    },
-    {
-        "title": "Boots on the Ground \u2014 but Whose?",
-        "link": "https://www.nytimes.com/2026/03/10/world/iran-kurds-iraq-lebanon-war.html",
-        "summary": "The Kurds have been let down time and again by the U.S. Heres why they might still partner with Americans in Iran.",
-        "source": "NYT > World News",
-        "objectivity_score": 28,
-        "sentiment": "Negative",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "u.s. heres"
-        ]
-    },
-    {
-        "title": "U.S. Showers Iran With Bombs in Most Intense Strikes of the War, Pentagon Says",
-        "link": "https://www.nytimes.com/2026/03/10/world/middleeast/us-iran-war-strikes-pentagon.html",
-        "summary": "Iranians cowered under the barrage as Pete Hegseth, the U.S. defense secretary, said the U.S. aimed to wipe out Irans capacity to obtain nuclear weapons forever.",
-        "source": "NYT > World News",
-        "objectivity_score": 75,
-        "sentiment": "Positive",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "u.s. showers iran",
-            "intense strikes",
-            "says iranians"
+            "gay men",
+            "homophobic attacks",
+            "gay men"
         ]
     },
     {
@@ -1709,21 +1723,6 @@
             "us file",
             "legal case",
             "criminal sentences"
-        ]
-    },
-    {
-        "title": "South Africa\u2019s president calls Trump\u2019s policy to offer refuge to white Afrikaners \u2018racist\u2019",
-        "link": "https://www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist",
-        "summary": "US president is truly uninformed for spreading claims of white genocide in South Africa, Cyril Ramaphosa tells New York TimesSouth Africas president, Cyril Ramaphosa, has called Donald Trumps policy o...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 28,
-        "sentiment": "Neutral",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s president calls",
-            "\u2019 s policy",
-            "\u2018 racist \u2019 us president"
         ]
     },
     {
@@ -1877,93 +1876,123 @@
         ]
     },
     {
-        "title": "Politics live: Canavan calls for \u2018more Australian babies, more Australian everything\u2019 after being elected Nationals leader",
+        "title": "ACCC calls emergency meeting with fuel suppliers \u2013 as it happened",
         "link": "https://www.theguardian.com/australia-news/live/2026/mar/11/federal-politics-updates-iran-womens-football-team-asylum-anthony-albanese-tony-burke-labor-angus-taylor-coalition-ntwnfb",
-        "summary": "Senator says he is humbled by Wednesday leadership ballot after David Littleprouds shock resignation. Follow updates liveGet our breaking news email, free app or daily news podcastThere are developmen...",
+        "summary": "This blog is now closedMember of Iranian football squad changes mind on asylum claim in Australia, minister confirmsGet our breaking news email, free app or daily news podcastThere are developments th...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
+        "objectivity_score": 33,
         "sentiment": "Positive",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "leader senator",
-            "leadership ballot",
-            "david littleprouds"
+            "calls emergency meeting",
+            "fuel suppliers \u2013",
+            "football squad changes mind"
         ]
     },
     {
-        "title": "Naplan resumes after tech issues paused testing on first day for 1.4 million students",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/11/naplan-testing-technology-issues",
-        "summary": "Schools told they can begin testing after nationwide problem with pupils logging on to platformFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news...",
+        "title": "Time Out names Melbourne the best city in the world \u2013 but is it more \u2018vibes\u2019 than hard data?",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/11/time-out-melbourne-best-city-world",
+        "summary": "About 24,000 people surveyed about food, nightlife, affordability, culture and happinessAn annual global ranking has named Melbourne the best city in the world for the first time. But it may be more t...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
+        "objectivity_score": 31,
         "sentiment": "Positive",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "tech issues",
-            "students schools",
-            "nationwide problem"
+            "world \u2013",
+            "\u2018 vibes \u2019",
+            "hard data"
         ]
     },
     {
-        "title": "Bundaberg floods: hundreds of homes and businesses inundated after river bursts banks",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/11/queensland-northern-territory-floods-bundaberg-evauctaed-weather-rain-forecast",
-        "summary": "Bundaberg regional council says the full extent of the flood impacts will not be known for probably a weekFollow our Australia news live blog for latest updatesGet our breaking news email, free app or...",
+        "title": "Sale of rat poisons could be restricted to protect Australian wildlife",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/11/rat-poisons-sale-could-be-restricted-australia-wildlife",
+        "summary": "Regulator recommends rodenticides be removed from Bunnings and supermarkets shelves and sold only to licensed professionalsFollow our Australia news live blog for latest updatesGet our breaking news e...",
         "source": "World news | The Guardian",
         "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "river bursts banks",
-            "regional council",
-            "full extent"
+            "rat poisons",
+            "supermarkets shelves",
+            "news email"
         ]
     },
     {
-        "title": "Muslim community in shock after police opt not to arrest man accused of crashing Ballarat Iftar dinner",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/11/muslim-community-in-shock-after-police-opt-not-to-arrest-man-accused-of-crashing-ballarat-iftar-dinner-ntwnfb",
-        "summary": "Tony Burke expected to discuss incident with Australian federal police commissioner Krissy Barrett on WednesdayFollow our Australia news live blog for latest updatesGet our breaking news email, free a...",
+        "title": "NSW government apologises for leaving foster children in home with triple killer",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/11/foster-children-left-in-home-triple-killer-regina-arthurell-ntwnfb",
+        "summary": "Convicted murderer Regina Arthurell was removed from a home with two children on Monday despite a December report warning of the situationFollow our Australia news live blog for latest updatesGet our ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 31,
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "government apologises",
+            "foster children",
+            "triple killer"
+        ]
+    },
+    {
+        "title": "Naplan authority CEO apologises for technical glitch that delayed test on first day",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/11/naplan-testing-technology-issues",
+        "summary": "One expert warns it may be perceived as unfair that some students undertook test on Wednesday while others didntFollow our Australia news live blog for latest updatesGet our breaking news email, free ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "technical glitch",
+            "expert warns",
+            "students undertook test"
+        ]
+    },
+    {
+        "title": "Ultrasound repellers could keep hedgehogs off roads, scientists hope",
+        "link": "https://www.theguardian.com/environment/2026/mar/11/ultrasound-repellers-hedgehogs-roads-scientists",
+        "summary": "Study shows animals hear very high frequencies, making it possible to design a deterrent to cut deathsHedgehogs have been discovered to hear high-frequency ultrasound, raising hopes that they could be...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 59,
         "sentiment": "Neutral",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "police opt",
-            "arrest man",
-            "ballarat iftar"
+            "scientists hope",
+            "shows animals",
+            "high frequencies"
         ]
     },
     {
-        "title": "Two robodebt officials engaged in serious corrupt conduct, Nacc finds, but Scott Morrison cleared",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/11/robodebt-officials-serious-corrupt-conduct-nacc-finds-scott-morrison-cleared-ntwnfb",
-        "summary": "Anti-corruption watchdog makes adverse findings against two former public servants but clears four other individuals Two former public servants referred to the anti-corruption watchdog by the royal co...",
+        "title": "Cologne Cathedral\u2019s plans to charge for tickets spark outcry",
+        "link": "https://www.theguardian.com/artanddesign/2026/mar/11/cologne-cathedral-plans-visitor-fees-outcry",
+        "summary": "Limiting access to German church to well-off visitors would be socially unjust, critics sayPlans at Cologne Cathedral to start charging visitor fees have sparked an outcry, with critics warning agains...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "robodebt officials",
-            "serious corrupt conduct",
-            "scott morrison"
+            "cathedral \u2019 s plans",
+            "german church",
+            "well-off visitors"
         ]
     },
     {
-        "title": "At least six people killed and five injured in bus fire in Switzerland",
+        "title": "At least six killed in Swiss bus fire in possible deliberate act",
         "link": "https://www.theguardian.com/world/2026/mar/10/multiple-deaths-injuries-bus-fire-switzerland",
-        "summary": "The blaze happened in Kerzers in Fribourg canton, which is about 12 miles west of BerneA bus caught fire in western Switzerland on Tuesday killing at least six people and injuring five others, in what...",
+        "summary": "Police investigating blaze in Kerzers in Fribourg canton, about 12 miles west of BerneA bus caught fire in western Switzerland on Tuesday killing at least six people and injuring five others, in what ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 25,
+        "objectivity_score": 36,
         "sentiment": "Negative",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "bus fire",
-            "deliberate act.the fire",
-            "main street"
+            "swiss bus fire",
+            "possible deliberate act",
+            "deliberate act.the fire"
         ]
     },
     {
@@ -1997,48 +2026,63 @@
         ]
     },
     {
-        "title": "Emmanuel Macron vows Europe will stand by Cyprus after Iran drone strike",
-        "link": "https://www.theguardian.com/world/2026/mar/09/emmanuel-macron-cyprus-europe-iran-war-drone-strike",
-        "summary": "French president says attack on island is an attack on Europe as EU states send military supportMiddle East crisis  live updatesEmmanuel Macron has vowed that Europe will do whatever it takes to stand...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "emmanuel macron",
-            "drone strike",
-            "french president"
-        ]
-    },
-    {
-        "title": "Ukraine sent drone experts to protect US bases in Jordan, says Zelenskyy",
-        "link": "https://www.theguardian.com/world/2026/mar/09/ukraine-sent-drone-experts-protect-us-bases-jordan-zelenskyy",
-        "summary": "Interceptor drones and operators deployed to Middle East after requests for help from 11 countries neighbouring IranMiddle East crisis  live updatesUkraines president has said he dispatched intercepto...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 12,
-        "sentiment": "Neutral",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "drone experts",
-            "us bases",
-            "zelenskyy interceptor"
-        ]
-    },
-    {
-        "title": "Iran war live updates: Regime issues threat against protesters; US \u2018destroyed\u2019 mine laying ships near strait of Hormuz",
+        "title": "Middle East crisis live: Regime issues threat against protesters; Iran launches wave of strikes on Gulf as Israel pounds Lebanon",
         "link": "https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news",
-        "summary": "Irans police chief says protesters will be treated as enemies and that security forces remain stationed in the streetsHow have you been affected by the latest Middle East events?US Central Command has...",
+        "summary": "How have you been affected by the latest Middle East events?Over in Senate question time, the foreign affairs minister, Penny Wong, has confirmed embassies in Abu Dhabi and Tel Aviv and the consulate ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
+        "objectivity_score": 36,
         "sentiment": "Positive",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
             "issues threat",
-            "\u2019 mine",
-            "hormuz irans"
+            "launches wave",
+            "senate question time"
+        ]
+    },
+    {
+        "title": "Why Iran\u2019s vital Kharg Island oil hub is still untouched by US-Israel bombers",
+        "link": "https://www.theguardian.com/world/2026/mar/11/why-irans-vital-kharg-island-oil-hub-is-still-untouched-by-us-israel-bombers",
+        "summary": "While some argue for destroying the terminal though which 90% of Irans oil exports flow, others caution of a global market tailspinKharg Island  through which 90% of Irans oil exports flow  is arguabl...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "island oil hub",
+            "oil exports flow",
+            "others caution"
+        ]
+    },
+    {
+        "title": "Iran\u2019s regional proxies hold back from all-out war with US and Israel",
+        "link": "https://www.theguardian.com/world/2026/mar/11/irans-regional-proxies-hold-back-from-all-out-war-with-us-and-israel",
+        "summary": "Observers wait to see if Yemen-based Houthis will reopen hostilities as US warships approach Red Sea chokepointIranian-backed militias around the Middle East are continuing attacks against Israel, the...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "regional proxies",
+            "all-out war",
+            "israel observers"
+        ]
+    },
+    {
+        "title": "US attacks Iran\u2019s mine-laying boats in strait of Hormuz as tensions rise over oil",
+        "link": "https://www.theguardian.com/news/2026/mar/11/us-iran-strait-of-hormuz-mine-boat-attacks",
+        "summary": "Intelligence sources claim Iran has begun mine laying as US energy secretary backtracks on claim US escorted a ship through strategic chokepointMiddle East crisis live  latest updates The US military ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 39,
+        "sentiment": "Positive",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "us attacks",
+            "tensions rise",
+            "us energy secretary backtracks"
         ]
     },
     {
@@ -2054,51 +2098,6 @@
             "health ministry reports \u2013",
             "east crisis",
             "swift resolution"
-        ]
-    },
-    {
-        "title": "Iran is becoming more defiant in face of US-Israeli onslaught",
-        "link": "https://www.theguardian.com/world/2026/mar/10/iranian-regime-is-not-weakening-in-face-of-us-israel-onslaught-but-becoming-more-defiant",
-        "summary": "Tehran spurns Trump envoy Steve Witkoff and insists on guarantees it will not be attacked againIran has spurned two messages from Donald Trumps special envoy, Steve Witkoff, seeking a ceasefire as its...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 51,
-        "sentiment": "Positive",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "steve witkoff",
-            "donald trumps",
-            "special envoy"
-        ]
-    },
-    {
-        "title": "Aramco warns of oil market \u2018catastrophe\u2019 unless strait of Hormuz reopens soon",
-        "link": "https://www.theguardian.com/business/2026/mar/10/aramco-warns-oil-market-catastrophe-strait-of-hormuz",
-        "summary": "Saudi Arabian state oil firm calls crisis by far the biggest the region has seen but firm can reroute 70% of exports and tap crude held in storageHow the Iran conflict could affect energy prices  vide...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 63,
-        "sentiment": "Negative",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "oil market \u2018 catastrophe \u2019",
-            "saudi arabian",
-            "state oil firm calls crisis"
-        ]
-    },
-    {
-        "title": "Iranians living in UK tell Starmer that war will only strengthen Tehran regime",
-        "link": "https://www.theguardian.com/world/2026/mar/10/iranians-living-in-uk-warn-starmer-war-nazanin-zaghari-ratcliffe-letter",
-        "summary": "Nazanin Zaghari-Ratcliffe among more than 100 signatories to letter urging PM not to get drawn further into the conflictNazanin Zaghari-Ratcliffe is among three of Irans former political prisoners and...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "nazanin zaghari-ratcliffe",
-            "political prisoners",
-            "british prime minister"
         ]
     },
     {
@@ -2177,6 +2176,36 @@
         ]
     },
     {
+        "title": "Reaching net zero by 2050 \u2018cheaper for UK than one fossil fuel crisis\u2019",
+        "link": "https://www.theguardian.com/environment/2026/mar/11/reaching-net-zero-by-2050-cheaper-for-uk-than-one-fossil-fuel-crisis",
+        "summary": "Climate change committee finds move to renewable energy would also bring health, economic and security benefitsAchieving the UKs net zero target by 2050 will cost less than a single oil shock and brin...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 21,
+        "sentiment": "Positive",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "net zero",
+            "fossil fuel crisis \u2019",
+            "renewable energy"
+        ]
+    },
+    {
+        "title": "\u2018We can\u2019t go back\u2019: mother of six-year-old cancer survivor fears UK visa changes",
+        "link": "https://www.theguardian.com/uk-news/2026/mar/11/mother-cancer-survivor-uk-visa-changes-togo",
+        "summary": "Woman, from Togo, faces uncertain wait for indefinite leave to remain because of changes coming into force next monthThe mother of a six-year-old cancer survivor has spoken of her overwhelming fear he...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 56,
+        "sentiment": "Positive",
+        "date": "2026-03-11",
+        "image_url": null,
+        "keywords": [
+            "six-year-old cancer survivor fears",
+            "visa changes",
+            "uncertain wait"
+        ]
+    },
+    {
         "title": "Hereditary peers to lose their seats in the House of Lords",
         "link": "https://www.theguardian.com/politics/2026/mar/10/hereditary-peers-to-lose-their-seats-in-the-house-of-lords",
         "summary": "Upper chamber accepts final draft of bill, which offers life peerages to some of those who would otherwise be removedHereditary peerages will be abolished before the next kings speech after a deal was...",
@@ -2222,41 +2251,26 @@
         ]
     },
     {
-        "title": "Jess Phillips reveals she is \u2018victim of courts backlog\u2019 as jury trial bill passes",
-        "link": "https://www.theguardian.com/society/2026/mar/10/jess-phillips-backs-jury-bill-victim-courts-backlog",
-        "summary": "Exclusive: Safeguarding minister says man accused of restraining order breach will not come to court until 2028A man accused of breaching a restraining order related to Jess Phillips will not have his...",
+        "title": "Trump\u2019s pick for state department role withdraws after backlash over past \u2018anti-Israel\u2019 and race remarks",
+        "link": "https://www.theguardian.com/us-news/2026/mar/11/trump-state-department-pick-jeremy-carl-backlash",
+        "summary": "Failure to appoint Jeremy Carl is a rare setback for Trump, with Republican-controlled Senate mostly approving his appointmentsDonald Trumps nominee for a top diplomatic post has been withdrawn from c...",
         "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "jess phillips",
-            "\u2018 victim",
-            "courts backlog \u2019"
-        ]
-    },
-    {
-        "title": "Glasgow Central station\u2019s upper level to remain closed for rest of week after fire next door",
-        "link": "https://www.theguardian.com/uk-news/2026/mar/10/glasgow-central-station-upper-level-remain-closed-union-street-fire",
-        "summary": "Safety checks needed after neighbouring building gutted by huge blaze on Sunday night, with only facade remainingGlasgow Central stations high level will remain closed for the rest of the week, after ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 37,
         "sentiment": "Neutral",
         "date": "2026-03-11",
         "image_url": null,
         "keywords": [
-            "central station \u2019 s",
-            "upper level",
-            "huge blaze"
+            "state department role withdraws",
+            "past \u2018 anti-israel \u2019",
+            "jeremy carl"
         ]
     },
     {
-        "title": "Democrat blasts Trump\u2019s \u2018incoherent\u2019 Iran strategy after Pentagon says 140 US service members wounded in operation \u2013 live",
+        "title": "Democrat blasts Trump\u2019s \u2018incoherent\u2019 Iran strategy after Pentagon says 140 US service members wounded in operation \u2013 as it happened",
         "link": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
-        "summary": "Chris Murphy attacks Trump administrations strategy after classified briefing on Iran war; at least 140 US personnel injured in Operation Epic FuryTrump news at a glance: war on Iran is either very co...",
+        "summary": "This live blog is now closed.Trump news at a glance: war on Iran is either very complete or just starting, depending on who is talkingSign up for the Breaking News US email to get newsletter alerts in...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
+        "objectivity_score": 29,
         "sentiment": "Neutral",
         "date": "2026-03-11",
         "image_url": null,
@@ -2309,21 +2323,6 @@
             "rihanna ivanna lisette ortiz",
             "semiautomatic firearm",
             "homea 35-year-old"
-        ]
-    },
-    {
-        "title": "Mike Johnson refuses to condemn anti-Muslim comments by Republican lawmakers",
-        "link": "https://www.theguardian.com/us-news/2026/mar/10/mike-johnson-anti-muslim-comments",
-        "summary": "Andy Ogles said Muslims do not belong in the US and Randy Fine made a comparison of Muslims to dogsSign up for the Breaking News US email to get newsletter alerts in your inboxMike Johnson, the speake...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
-        "date": "2026-03-11",
-        "image_url": null,
-        "keywords": [
-            "mike johnson",
-            "condemn anti-muslim comments",
-            "andy ogles"
         ]
     }
 ]
