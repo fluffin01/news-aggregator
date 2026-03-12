@@ -751,36 +751,6 @@
         ]
     },
     {
-        "title": "Starmer was warned of 'reputational risk' over Mandelson's links with Epstein, files show",
-        "link": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Documents also suggest the peer explored the possibility of a 500,000 severance payment after being sacked as US ambassador.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "'reputational risk",
-            "'s links",
-            "severance payment"
-        ]
-    },
-    {
-        "title": "Chris Mason: Some nuggets but no huge revelations in first batch of Mandelson files",
-        "link": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&at_campaign=rss",
-        "summary": "This first digital document drop about the prime minister's decision to appoint Lord Mandelson as US ambassador is interesting, but not explosive.",
-        "source": "BBC News",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "chris mason",
-            "huge revelations",
-            "digital document drop"
-        ]
-    },
-    {
         "title": "Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns",
         "link": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&at_campaign=rss",
         "summary": "The number of fit notes issued has been rising, with more than 11.2m approved in England last year.",
@@ -810,6 +780,51 @@
         ]
     },
     {
+        "title": "PM warned of 'reputational risk' over Mandelson's Epstein links",
+        "link": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&at_campaign=rss",
+        "summary": "Documents also suggest the peer explored the possibility of a 500,000 severance payment after being sacked as US ambassador.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "'reputational risk",
+            "severance payment",
+            "us ambassador"
+        ]
+    },
+    {
+        "title": "Chris Mason: There may be no knockout blows from Mandelson files but it's far from over",
+        "link": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&at_campaign=rss",
+        "summary": "This first digital document drop about the prime minister's decision to appoint Lord Mandelson as US ambassador is interesting, but not explosive.",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "chris mason",
+            "knockout blows",
+            "digital document drop"
+        ]
+    },
+    {
+        "title": "'It was the stuff of dreams' - Liza Tarbuck leaves Radio 2 Saturday show",
+        "link": "https://www.bbc.com/news/articles/c2lrq2n7l9eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Shaun Keaveny, host of The Rock Show, will stand in for her until the end of the end of the month.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "liza tarbuck",
+            "leaves radio",
+            "shaun keaveny"
+        ]
+    },
+    {
         "title": "Inquiry into student loans launched by MPs",
         "link": "https://www.bbc.com/news/articles/cdxg70rr2geo?at_medium=RSS&at_campaign=rss",
         "summary": "The Treasury Committee will look at whether \"the goalposts [have] been moved in a way which is unfair\".",
@@ -822,21 +837,6 @@
             "student loans",
             "treasury committee",
             "goalposts ["
-        ]
-    },
-    {
-        "title": "Wind warnings issued as colder weather and mountain snow head south",
-        "link": "https://www.bbc.com/weather/articles/cz9q7y44ep4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Strong winds are likely across many parts of the UK and conditions are turning colder towards the end of the week.",
-        "source": "BBC News",
-        "objectivity_score": 74,
-        "sentiment": "Positive",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "colder weather",
-            "mountain snow head",
-            "turning colder"
         ]
     },
     {
@@ -855,18 +855,33 @@
         ]
     },
     {
-        "title": "Prison inmate charged with Huntley murder appears in court",
-        "link": "https://www.bbc.com/news/articles/cr5l9d1dv9eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ian Huntley had been serving a life sentence with a minimum term of 40 years for the murders of 10-year-olds Holly Wells and Jessica Chapman.",
+        "title": "Head chef resigns from world-famous restaurant Noma amid abuse allegations",
+        "link": "https://www.bbc.com/news/articles/c07jr2pe5j9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ren Redzepi had previously apologised after ex-employees of the Danish restaurant accused him of creating a toxic work environment.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 16,
+        "sentiment": "Negative",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "ian huntley",
-            "life sentence",
-            "minimum term"
+            "chef resigns",
+            "world-famous restaurant",
+            "abuse allegations"
+        ]
+    },
+    {
+        "title": "Wind warnings issued as colder weather and mountain snow head south",
+        "link": "https://www.bbc.com/weather/articles/cz9q7y44ep4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Strong winds are likely across many parts of the UK and conditions are turning colder towards the end of the week.",
+        "source": "BBC News",
+        "objectivity_score": 74,
+        "sentiment": "Positive",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "colder weather",
+            "mountain snow head",
+            "turning colder"
         ]
     },
     {
@@ -880,21 +895,6 @@
         "image_url": null,
         "keywords": [
             "boy,"
-        ]
-    },
-    {
-        "title": "Volcanic fragments rain down as Hawaii's Kilauea volcano erupts",
-        "link": "https://www.bbc.com/news/videos/c2e4ljy1kp8o?at_medium=RSS&at_campaign=rss",
-        "summary": "This eruption episode sent fragments made of ash, pumice, and pieces of volcanic glass into communities, forcing highway closures and the evacuation of tourists.",
-        "source": "BBC News",
-        "objectivity_score": 28,
-        "sentiment": "Negative",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "fragments rain",
-            "eruption episode",
-            "volcanic glass"
         ]
     },
     {
@@ -913,32 +913,47 @@
         ]
     },
     {
-        "title": "Ships hit in Strait of Hormuz as countries agree to release emergency oil reserves",
-        "link": "https://www.bbc.com/news/articles/cr5l988qr47o?at_medium=RSS&at_campaign=rss",
-        "summary": "Pressure has intensified on the strait, one of the world's most important shipping lanes, since Israel and the US attacked Iran late last month.",
+        "title": "What role has cyber warfare played in Iran?",
+        "link": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Militaries are often cagey about their cyber activities. But the US has hinted at the role it has played.",
         "source": "BBC News",
-        "objectivity_score": 54,
-        "sentiment": "Positive",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "release emergency oil reserves",
-            "world 's",
-            "important shipping lanes"
-        ]
-    },
-    {
-        "title": "Mortgage rates rise and deals pulled over Iran war turmoil",
-        "link": "https://www.bbc.com/news/articles/c24dm9vgrz7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Average mortgage rates hit highest since last August in the biggest upheaval since the mini-Budget.",
-        "source": "BBC News",
-        "objectivity_score": 23,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "mortgage rates rise",
-            "mortgage rates"
+            "cyber warfare",
+            "cyber activities"
+        ]
+    },
+    {
+        "title": "Pete Hegseth brings combative style as face of Trump's war in Iran",
+        "link": "https://www.bbc.com/news/articles/cx2g4e5z0d3o?at_medium=RSS&at_campaign=rss",
+        "summary": "The former Fox host projects an image of unapologetic frontman for the world's most powerful military.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "pete hegseth",
+            "combative style",
+            "'s war"
+        ]
+    },
+    {
+        "title": "Oil price jumps despite deal to release record amount of reserves",
+        "link": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss",
+        "summary": "It comes as Iranian attacks on ships intensify in the crucial Strait of Hormuz waterway.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "oil price jumps",
+            "release record",
+            "ships intensify"
         ]
     },
     {
@@ -952,21 +967,6 @@
         "image_url": null,
         "keywords": [
             "dan johnson"
-        ]
-    },
-    {
-        "title": "Iranian minister says country will not play in World Cup",
-        "link": "https://www.bbc.com/sport/football/articles/cx2d5r92rk0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Iran is not in a position to participate in the 2026 World Cup, says the country's Minister of Sports and Youth.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "world cup",
-            "world cup",
-            "country 's minister"
         ]
     },
     {
@@ -984,16 +984,33 @@
         ]
     },
     {
-        "title": "China's biggest political meeting is ending - what have we learned?",
-        "link": "https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC correspondents give us their biggest takeaways from China's National People's Congress.",
+        "title": "War in Ukraine spills into Hungarian election campaign",
+        "link": "https://www.bbc.com/news/articles/crm8rxwyyz8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Hungary is going to the polls soon and Prime Minister Viktor Orbn has one public enemy in his sights - Ukraine's president.",
         "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 6,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "political meeting"
+            "election campaign",
+            "viktor orbn",
+            "public enemy"
+        ]
+    },
+    {
+        "title": "The Papers: 'Starmer did ignore Epstein warnings' and 'Record oil release'",
+        "link": "https://www.bbc.com/news/articles/cm21g1lzll6o?at_medium=RSS&at_campaign=rss",
+        "summary": "Thursday's papers all lead with files released on Lord Mandelson's vetting for the US ambassador role.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "'record oil release",
+            "'s papers",
+            "us ambassador role"
         ]
     },
     {
@@ -1026,16 +1043,61 @@
         ]
     },
     {
-        "title": "Watch: What's on the menu for celebrities on Oscars night",
-        "link": "https://www.bbc.com/news/videos/c3v703npx1ro?at_medium=RSS&at_campaign=rss",
-        "summary": "From sushi to gold-dusted chocolate statuettes, a feast will be served at the Oscars after party on Sunday.",
+        "title": "China's biggest political meeting is ending - what have we learned?",
+        "link": "https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC correspondents give us their biggest takeaways from China's National People's Congress.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "chocolate statuettes"
+            "political meeting"
+        ]
+    },
+    {
+        "title": "Volcanic fragments rain down as Hawaii's Kilauea volcano erupts",
+        "link": "https://www.bbc.com/news/videos/c2e4ljy1kp8o?at_medium=RSS&at_campaign=rss",
+        "summary": "This eruption episode sent fragments made of ash, pumice, and pieces of volcanic glass into communities, forcing highway closures and the evacuation of tourists.",
+        "source": "BBC News",
+        "objectivity_score": 28,
+        "sentiment": "Negative",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "fragments rain",
+            "eruption episode",
+            "volcanic glass"
+        ]
+    },
+    {
+        "title": "US launches probe into trading partners including the EU, China and India",
+        "link": "https://www.bbc.com/news/articles/c15x1dxp3wpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The move comes weeks after the US Supreme Court struck down a key part of Trump's tariffs policies.",
+        "source": "BBC News",
+        "objectivity_score": 64,
+        "sentiment": "Neutral",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "us launches",
+            "supreme court",
+            "key part"
+        ]
+    },
+    {
+        "title": "Kanye West ordered to pay $140K in Malibu mansion renovation lawsuit",
+        "link": "https://www.bbc.com/news/articles/c62g90w8dkko?at_medium=RSS&at_campaign=rss",
+        "summary": "A handyman had sought $1.7m (1.267m) from the rapper over claims of unpaid work, medical expenses and being unfairly fired.",
+        "source": "BBC News",
+        "objectivity_score": 46,
+        "sentiment": "Neutral",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "$ 140k",
+            "mansion renovation lawsuit",
+            "$ 1.7m"
         ]
     },
     {
@@ -1053,16 +1115,16 @@
         ]
     },
     {
-        "title": "Fuel tax hike plan to be kept under review over Iran, says PM",
-        "link": "https://www.bbc.com/news/articles/cvg593l3yd5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Fuel duty on petrol and diesel is due to rise from September, when a 5p cut is phased out.",
+        "title": "Bodies of two Chinese backpackers found in Australian floodwaters",
+        "link": "https://www.bbc.com/news/articles/c2k872k980po?at_medium=RSS&at_campaign=rss",
+        "summary": "The pair had been reported missing on Tuesday after failing to reach their destination.",
         "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Negative",
+        "objectivity_score": 1,
+        "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "pm fuel"
+            "chinese backpackers"
         ]
     },
     {
@@ -1081,61 +1143,33 @@
         ]
     },
     {
-        "title": "Army officers deny charges linked to soldier's death",
-        "link": "https://www.bbc.com/news/articles/cj0d378vq14o?at_medium=RSS&at_campaign=rss",
-        "summary": "The two high-ranking officers failed to act when Gunner Jaysley Beck, 19, reported a sexual assault.",
+        "title": "Three brothers arrested after explosion at US embassy in Oslo",
+        "link": "https://www.bbc.com/news/articles/cx2grl7lrrmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Norway's police attorney says the authorities are investigating whether a foreign state actor was involved.",
         "source": "BBC News",
-        "objectivity_score": 56,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "army officers",
-            "soldier 's death",
-            "gunner jaysley beck"
-        ]
-    },
-    {
-        "title": "UK government loses appeal over quashed Kneecap terror charge",
-        "link": "https://www.bbc.com/news/articles/c5yjdpy7vvro?at_medium=RSS&at_campaign=rss",
-        "summary": "Liam g  hAnnaidh, known as Mo Chara, had been accused of showing support for proscribed organisation Hezbollah following a gig in London in 2024.",
-        "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 12,
         "sentiment": "Negative",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "terror charge",
-            "g hannaidh",
-            "mo chara"
+            "us embassy",
+            "oslo norway",
+            "'s police attorney"
         ]
     },
     {
-        "title": "UK couple die after being pulled from water at Australian beach",
-        "link": "https://www.bbc.com/news/articles/ce8n52p3mr4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Local police say members of the public pulled the couple from the water and tried to save them.",
+        "title": "New US ambassador to South Africa summoned over 'undiplomatic remarks'",
+        "link": "https://www.bbc.com/news/articles/c14m1vzmxz3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Leo Brent Bozell apologises after weighing in on a dispute rooted in the country's apartheid past.",
         "source": "BBC News",
-        "objectivity_score": 2,
+        "objectivity_score": 35,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "local police"
-        ]
-    },
-    {
-        "title": "Pop music's bias towards English is fading, says Spotify",
-        "link": "https://www.bbc.com/news/articles/c9v04gney9yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Songs in 16 languages featured in the global chart last year, as genres like Brazilian Funk explode.",
-        "source": "BBC News",
-        "objectivity_score": 2,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "music 's bias",
-            "spotify songs",
-            "global chart"
+            "new us ambassador",
+            "leo brent bozell",
+            "country 's apartheid past"
         ]
     },
     {
@@ -1267,32 +1301,46 @@
         ]
     },
     {
-        "title": "Il Etait Temps wins Queen Mother Champion Chase",
-        "link": "https://www.bbc.com/sport/horse-racing/articles/cpqw8v5dzz3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Il Etait Temps powers over the line in the Queen Mother Champion Chase to earn trainer Willie Mullins his third win of day two at the Cheltenham Festival.",
+        "title": "Meet ParalympicsGB's 26th team member",
+        "link": "https://www.bbc.com/sport/articles/ckg1eq7818po?at_medium=RSS&at_campaign=rss",
+        "summary": "Guide dog Pickle has been stealing the spotlight in Milan-Cortina.",
         "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Positive",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "il etait temps",
-            "queen mother champion",
-            "chase il etait temps"
-        ]
-    },
-    {
-        "title": "Iran War Live Updates: Israeli Airstrikes Shake Beirut and Drone Attacks Hit Tehran",
-        "link": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel",
-        "summary": "The fighting in the Middle East showed no sign of letup, as the Pentagon told Congress that the first six days of the war had cost the U.S. at least $11.3 billion.",
-        "source": "NYT > World News",
-        "objectivity_score": 30,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
+            "'s 26th team member"
+        ]
+    },
+    {
+        "title": "Iran War Live Updates: Oil Tops $100 a Barrel as Attacks Spread Across Middle East",
+        "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel",
+        "summary": "Global oil prices surged despite pledges from the United States and other countries to release reserves. Airstrikes shook Beirut and Tehran, and more ships were attacked in the Persian Gulf.",
+        "source": "NYT > World News",
+        "objectivity_score": 27,
+        "sentiment": "Positive",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
             "live updates",
-            "israeli airstrikes shake beirut"
+            "spread across",
+            "oil prices"
+        ]
+    },
+    {
+        "title": "Iran\u2019s Retaliatory Strikes Appear to Be Slowing",
+        "link": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-weapons-missiles-israel-gulf.html",
+        "summary": "U.S. officials say the countrys weapons have been diminished, slowing its attacks on Gulf nations and Israel. Iran may also be holding some weapons in reserve in case the conflict is prolonged.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "retaliatory strikes appear",
+            "be slowing u.s.",
+            "countrys weapons"
         ]
     },
     {
@@ -1308,6 +1356,21 @@
             "\u2019 s war",
             "iran changed",
             "travel patterns"
+        ]
+    },
+    {
+        "title": "At China\u2019s Big Political Meeting, a Rare Debate About Inequality",
+        "link": "https://www.nytimes.com/2026/03/12/world/asia/china-pensions-inequality-farmers.html",
+        "summary": "Chinas plan to raise pensions for farmers by less than $3 a month prompted rare criticism from lawmakers about the countrys threadbare social safety net.",
+        "source": "NYT > World News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "inequality chinas",
+            "rare criticism",
+            "countrys threadbare"
         ]
     },
     {
@@ -1443,21 +1506,6 @@
         ]
     },
     {
-        "title": "World Heritage Sites Hit in Airstrikes on Iran",
-        "link": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-heritage-sites-damaged.html",
-        "summary": "Revered cultural icons that have withstood the upheavals of history are being hit hard in the war being waged by Israel and the United States.",
-        "source": "NYT > World News",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "world heritage",
-            "iran revered",
-            "cultural icons"
-        ]
-    },
-    {
         "title": "A Dublin Pub-Crawl, but Hold the Booze",
         "link": "https://www.nytimes.com/2026/03/11/world/europe/ireland-pubs-alcohol-free.html",
         "summary": "A wander through some famed watering holes in Irelands capital reveals a booming alcohol-free scene and a cultural shift.",
@@ -1473,32 +1521,58 @@
         ]
     },
     {
-        "title": "The Killing Of Haiti\u2019s President Heads to a U.S. Court. What to Know.",
-        "link": "https://www.nytimes.com/2026/03/10/world/americas/haiti-president-murder-assassination-trial-miami-florida.html",
-        "summary": "Four men are accused in South Florida of plotting to kill President Jovenel Moise in 2021. His death plunged Haiti into chaos that continues today.",
+        "title": "Here is the latest.",
+        "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel/here-is-the-latest",
+        "summary": "",
+        "source": "NYT > World News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "here"
+        ]
+    },
+    {
+        "title": "Israeli Attacks Rock Beirut, Displacing Hundreds of Thousands",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000010770501/beirut-lebanon-israel-hezbollah.html",
+        "summary": "Explosions shook Lebanons capital, Beirut, from Wednesday night into Thursday morning as Israel unleashed a wave of attacks that it said targeted Hezbollah.",
         "source": "NYT > World News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "\u2019 s president",
-            "jovenel moise"
+            "rock beirut",
+            "displacing hundreds"
         ]
     },
     {
-        "title": "Slain Haitian President\u2019s Widow Gives Chilling Account of His Killing",
-        "link": "https://www.nytimes.com/2026/03/11/world/americas/martine-moise-haiti-president-assassination-trial-miami.html",
-        "summary": "Martine Mose also testified that the men who killed her husband spoke Spanish, which the prosecution highlighted to support its claim that the assassination was carried out by a hired Colombian hit sq...",
+        "title": "This is what happened on March 11.",
+        "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/this-is-what-happened-on-march-11",
+        "summary": "",
         "source": "NYT > World News",
-        "objectivity_score": 30,
-        "sentiment": "Negative",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "slain haitian",
+            "this"
+        ]
+    },
+    {
+        "title": "Haitian President\u2019s Widow Recalls Killers Spoke Spanish and Used Nicknames",
+        "link": "https://www.nytimes.com/2026/03/11/world/americas/martine-moise-haiti-president-assassination-trial-miami.html",
+        "summary": "The prosecution used testimony by Martine Mose about the language she heard on the night her husband was killed to support its claim that the assassination was carried out by a hired Colombian hit squ...",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
             "president \u2019 s",
-            "widow gives chilling account"
+            "widow recalls killers spoke",
+            "used nicknames"
         ]
     },
     {
@@ -1592,45 +1666,18 @@
         ]
     },
     {
-        "title": "Two People Die After Paid Plasma Donation at Clinics in Canada",
-        "link": "https://www.nytimes.com/2026/03/11/world/canada/winnipeg-plasma-blood-donation-deaths.html",
-        "summary": "Grifols, a Spanish health care company, operates clinics in Canada that collect blood plasma from donors in exchange for an honorarium.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
+        "title": "\u2018Invasive\u2019 AI-led mass surveillance in Africa violating freedoms, warn experts",
+        "link": "https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts",
+        "summary": "Countries across the continent have spent more than $2bn on Chinese tracking technology that is not necessary or proportionate, new report findsThe rapid expansion of AI-powered mass-surveillance syst...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "paid plasma donation",
-            "canada grifols",
-            "spanish health care company"
-        ]
-    },
-    {
-        "title": "What Happened in the U.S.-Israeli War on Iran on Wednesday",
-        "link": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-war-middle-east-recap.html",
-        "summary": "Israel and the Iran-backed armed group Hezbollah in Lebanon traded strikes on Wednesday. Three ships were hit near the Strait of Hormuz, a vital oil route.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "vital oil route"
-        ]
-    },
-    {
-        "title": "Strong or Weak? How Trump Picks His Battles.",
-        "link": "https://www.nytimes.com/2026/03/11/us/politics/trump-adversaries-picking-battles.html",
-        "summary": "Despite his tough talk, President Trump has consistently made allowances for countries he sees as powerful or dominant.",
-        "source": "NYT > World News",
-        "objectivity_score": 68,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "trump picks",
-            "tough talk"
+            "mass surveillance",
+            "new report findsthe",
+            "rapid expansion"
         ]
     },
     {
@@ -1694,18 +1741,18 @@
         ]
     },
     {
-        "title": "Prison sentences for pair who attacked gay men hailed as sign of hope for Kenya\u2019s LGBTQ+ community",
-        "link": "https://www.theguardian.com/global-development/2026/mar/11/prison-sentences-attacked-gay-men-hope-kenya-lgbtq-community",
-        "summary": "The perpetrators were jailed for 15 years for robbery with violence in the east African country, where homophobic attacks are increasingThe sentencing of two people who attacked and robbed two gay men...",
+        "title": "Quit fossil fuels to stem deadly floods in Brazil\u2019s coffee heartland, say scientists",
+        "link": "https://www.theguardian.com/world/2026/mar/12/quit-fossil-fuels-to-stem-deadly-floods-in-brazils-coffee-heartland-say-scientists",
+        "summary": "Global heating linked to rising risk of extreme rain that causes devastating landslides and rising coffee pricesThe record floods that have brought death and destruction to the heartland of Brazils co...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
+        "objectivity_score": 51,
+        "sentiment": "Negative",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "gay men",
-            "homophobic attacks",
-            "gay men"
+            "\u2019 s coffee heartland",
+            "extreme rain",
+            "coffee pricesthe record floods"
         ]
     },
     {
@@ -1769,18 +1816,33 @@
         ]
     },
     {
-        "title": "Shots fired at US consulate in Canada in what police call \u2018national security incident\u2019",
-        "link": "https://www.theguardian.com/world/2026/mar/10/shots-fired-canada-consulate-toronto",
-        "summary": "No injuries reported but security boosted at US and Israeli diplomatic buildings in Toronto and OttawaSign up for the Breaking News US email to get newsletter alerts in your inboxTwo men fired multipl...",
+        "title": "A young girl is knocked over at Tokyo crossing \u2013 what\u2019s behind Japan\u2019s \u2018bumping\u2019 trend?",
+        "link": "https://www.theguardian.com/world/2026/mar/12/japan-butsukari-otoko-bumping-man-trend-explained-tokyo-girl-shoved",
+        "summary": "Viral video of girl being shoved by fellow pedestrian has reignited debate over butsukari  with experts blaming stress and gender dynamicsIt starts out as a heartwarming clip. A young girl, clearly de...",
         "source": "World news | The Guardian",
-        "objectivity_score": 7,
+        "objectivity_score": 46,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "us consulate",
-            "national security incident \u2019",
-            "diplomatic buildings"
+            "young girl",
+            "\u2019 trend",
+            "fellow pedestrian"
+        ]
+    },
+    {
+        "title": "Asia scrambles to confront energy crisis unleashed by Iran war \u2013 with no end in sight",
+        "link": "https://www.theguardian.com/world/2026/mar/12/asia-energy-crisis-iran-war",
+        "summary": "From fuel caps to four-day work weeks, the Middle East conflict has left the worlds top crude oil importing region desperate to shore up suppliesDonald Trump has scrambled in recent days to reassure t...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "energy crisis",
+            "fuel caps",
+            "four-day work weeks"
         ]
     },
     {
@@ -1829,108 +1891,108 @@
         ]
     },
     {
-        "title": "\u2018My lovely distraction\u2019: live stream of k\u0101k\u0101p\u014d \u2013 world\u2019s fattest parrot \u2013 and her chicks captivates New Zealand",
-        "link": "https://www.theguardian.com/world/2026/mar/11/kakapo-cam-live-stream-parrot-new-zealand",
-        "summary": "More than 100,000 people have tuned in to watch kkp cam, which captures a rare flightless bird sleeping, tidying her nest and fighting off intrudersOn an island in New Zealands remote south , one of t...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "lovely distraction \u2019",
-            "k\u0101k\u0101p\u014d \u2013 world \u2019 s fattest parrot \u2013",
-            "chicks captivates"
-        ]
-    },
-    {
-        "title": "China-North Korea trains to restart, six years after Covid brought them to stop",
-        "link": "https://www.theguardian.com/world/2026/mar/10/china-north-korea-trains-to-resume-after-six-year-halt-following-covid-outbreak",
-        "summary": "Travel operators say Chinese and North Koreans can now buy tickets for services leaving this weekPassenger train services between China and North Korea are to resume this week, six years after their s...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "china-north korea",
-            "weekpassenger train services",
-            "travel operators"
-        ]
-    },
-    {
-        "title": "Australia politics live: sealed section of robodebt royal commission released; Wong urges remaining Australians in Middle East to leave",
+        "title": "Australia news live: ASX suffers more heavy losses as Middle East crisis spooks investors",
         "link": "https://www.theguardian.com/australia-news/live/2026/mar/12/federal-politics-parliament-reactions-anthony-albanese-labor-angus-taylor-matt-canavan-liberals-nationals-coalition-ntwnfb",
-        "summary": "Follow updatesGet our breaking news email, free app or daily news podcastDennis Richardson says his decision to resign from the royal commission into antisemitism had nothing to do with the government...",
+        "summary": "Follow updatesNSW prepares for fuel shortages at hospitals as Australia relaxes petrol standards for 60 daysGet our breaking news email, free app or daily news podcastDennis Richardson says his decisi...",
         "source": "World news | The Guardian",
-        "objectivity_score": 51,
-        "sentiment": "Positive",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "royal commission",
-            "news email",
-            "free app"
-        ]
-    },
-    {
-        "title": "Queensland floods: police believe bodies found are those of missing backpackers",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/12/police-believe-bodies-of-missing-backpackpackers-found-in-queensland-floods",
-        "summary": "Two international tourists travelling to flood-ravaged North Burnett region from Brisbane thought to be first flood-related deathsFollow our Australia news live blog for latest updatesGet our breaking...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 29,
+        "objectivity_score": 53,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "international tourists",
-            "news email",
-            "free app"
+            "heavy losses",
+            "crisis spooks investors",
+            "fuel shortages"
         ]
     },
     {
-        "title": "The scale of northern Australia\u2019s record-breaking floods revealed in data and maps",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/12/northern-australia-floods-bundaberg-katherine-queensland",
-        "summary": "Some river levels are still increasing after parts of Queensland recorded their highest three-day rainfall totalsFollow our Australia news live blog for latest updatesGet our breaking news email, free...",
+        "title": "Former spy chief on $5,000 a day quits antisemitism royal commission, saying he was \u2018way overpaid\u2019",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/11/former-spy-chief-quits-royal-commission-into-antisemitism-and-bondi-attack-ntwnfb",
+        "summary": "Dennis Richardson quits Bondi attack inquiry a fortnight after its opening hearing, telling the ABC he felt surplus to requirementsGet our breaking news email, free app or daily news podcastThe former...",
         "source": "World news | The Guardian",
-        "objectivity_score": 46,
+        "objectivity_score": 33,
         "sentiment": "Positive",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "river levels",
-            "three-day rainfall totalsfollow",
-            "news email"
+            "spy chief",
+            "day quits antisemitism",
+            "royal commission"
         ]
     },
     {
-        "title": "Atlassian lays off 1,600 workers ahead of AI push",
+        "title": "More airlines hike flight prices as Iran war continues to disrupt oil supply",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/12/flights-airlines-hike-prices-airfares-iran-war-middle-east-oil",
+        "summary": "Cathay Pacific, AirAsia and Thai Airways join Qantas in increasing prices, as travellers flock to airlines that dont have Middle East stopoversCathay Pacific, AirAsia and Thai Airways are among a grow...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 16,
+        "sentiment": "Positive",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "flight prices",
+            "disrupt oil",
+            "thai airways"
+        ]
+    },
+    {
+        "title": "Woman and child found dead in Queensland home",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/12/woman-and-child-found-dead-in-queensland-home",
+        "summary": "Police discovered the bodies of the mother and daughter after reports of an injured man, covered in blood, in Logan, in Brisbanes southFollow our Australia news live blog for latest updatesGet our bre...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 48,
+        "sentiment": "Positive",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "news email",
+            "free app",
+            "news podcasta mother"
+        ]
+    },
+    {
+        "title": "\u2018Devastating blow\u2019: Atlassian lays off 1,600 workers ahead of AI push",
         "link": "https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx",
         "summary": "Layoffs to affect 10% of workforce amid Australian companys restructuring plan to push into artificial intelligence and enterprise salesSoftware giant Atlassian has announced it is laying off about 10...",
         "source": "World news | The Guardian",
-        "objectivity_score": 66,
+        "objectivity_score": 67,
+        "sentiment": "Negative",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "blow \u2019",
+            "artificial intelligence",
+            "enterprise salessoftware"
+        ]
+    },
+    {
+        "title": "European drivers face \u20ac220 a year jump in fuel costs due to Iran conflict, say experts",
+        "link": "https://www.theguardian.com/money/2026/mar/12/european-drivers-fuel-costs-jump-iran-conflict",
+        "summary": "Exclusive: Oil at $100 a barrel means higher prices in the EU and UK, making savings for those with electric vehicles even greater, analysts sayEuropean drivers face paying an extra 220 (190) a year a...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "artificial intelligence",
-            "enterprise salessoftware",
-            "chief technology officer"
+            "european drivers",
+            "fuel costs",
+            "electric vehicles"
         ]
     },
     {
-        "title": "Former spy chief quits royal commission into antisemitism and Bondi attack, saying he was \u2018way overpaid\u2019",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/11/former-spy-chief-quits-royal-commission-into-antisemitism-and-bondi-attack-ntwnfb",
-        "summary": "A fortnight after its opening hearing, Dennis Richardson resigns, telling the ABC he felt surplus to requirementsFollow our Australia news live blog for latest updatesGet our breaking news email, free...",
+        "title": "Noma chef resigns amid shocking allegations of physical abuse of staff",
+        "link": "https://www.theguardian.com/food/2026/mar/11/noma-chef-resigns-rene-redzepi",
+        "summary": "Ren Redzepi also steps down from non-profit board after accusations of both physical and psychological abuseRen Redzepi, the head chef and co-founder of Noma, announced Wednesday he was resigning from...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
+        "objectivity_score": 33,
+        "sentiment": "Negative",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "spy chief quits",
-            "royal commission",
-            "\u2018 way overpaid \u2019"
+            "chef resigns",
+            "physical abuse",
+            "ren redzepi"
         ]
     },
     {
@@ -1979,48 +2041,33 @@
         ]
     },
     {
-        "title": "\u2018Stunned, sidelined and disunited\u2019: how war in the Middle East paralysed the EU",
-        "link": "https://www.theguardian.com/world/2026/mar/11/stunned-sidelined-and-disunited-how-war-in-the-middle-east-paralysed-the-eu",
-        "summary": "Amid fears the conflict will strengthen Russia, Ursula von der Leyens embrace of US-backed regime change already looks like a doomed strategy Dont get This Is Europe delivered to your inbox? Sign up h...",
+        "title": "Gordon Brown calls for international criminal court for crimes against children",
+        "link": "https://www.theguardian.com/world/2026/mar/12/gordon-brown-calls-for-international-criminal-court-for-crimes-against-children",
+        "summary": "Former PM says schools deserve same moral status as hospitals after 168 schoolgirls killed in US-Israel war on IranGordon Brown: Children killed, a school turned into a graveyard: even in wartime, we ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 17,
+        "objectivity_score": 12,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "eu amid",
-            "von der",
-            "herethe message"
+            "gordon brown",
+            "international criminal court",
+            "schools deserve"
         ]
     },
     {
-        "title": "Mojtaba Khamenei was hurt in strike that killed his father, Iran\u2019s Cyprus ambassador confirms",
-        "link": "https://www.theguardian.com/world/2026/mar/11/mojtaba-khamenei-was-hurt-in-strike-that-killed-his-father-irans-cyprus-ambassador-confirms",
-        "summary": "Alireza Salarian says Irans new supreme leader was lucky to survive strike that killed six of his family membersMiddle East crisis  live updatesIrans new supreme leader, Mojtaba Khamenei, was injured ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "mojtaba khamenei",
-            "ambassador confirms",
-            "alireza salarian"
-        ]
-    },
-    {
-        "title": "Middle East crisis live: Iraqi tankers hit as Iran targets oil supplies; US orders petroleum reserve release in bid to calm markets",
+        "title": "US orders petroleum reserve release in bid to calm markets \u2013 as it happened",
         "link": "https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news",
-        "summary": "Iraq officials say at least one person was killed in the attack on the tankers; US to release 172m barrels of oil from strategic reserve How have you been affected by the latest Middle East events?Ove...",
+        "summary": "This blog is now closed- follow the latest news and live updates in the Middle East crisis hereMiddle East crisis live updatesOver in Senate question time, the foreign affairs minister, Penny Wong, ha...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 39,
         "sentiment": "Positive",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "targets oil supplies",
             "us orders petroleum reserve release",
-            "release 172m barrels"
+            "markets \u2013",
+            "crisis heremiddle"
         ]
     },
     {
@@ -2066,21 +2113,6 @@
             "mojtaba khamenei",
             "supreme leader shows",
             "war machine"
-        ]
-    },
-    {
-        "title": "US responsible for deadly missile strike on Iran school, preliminary inquiry says",
-        "link": "https://www.theguardian.com/world/2026/mar/11/iran-war-missile-strike-elementary-school",
-        "summary": "Strike that killed at least 175 people, most of them children, reportedly due to targeting mistake by US military plannersMinab school bombing: a visual guideSign up for the Breaking News US newslette...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "missile strike",
-            "preliminary inquiry",
-            "military plannersminab school bombing"
         ]
     },
     {
@@ -2159,6 +2191,66 @@
         ]
     },
     {
+        "title": "Families given a week to decide whether to leave UK voluntarily plead for more time",
+        "link": "https://www.theguardian.com/uk-news/2026/mar/12/families-given-a-week-to-decide-whether-to-leave-uk-voluntarily-plead-for-more-time",
+        "summary": "Home Office targets 150 families whose asylum claims were refused and offers them up to 40,000 to leave or face forcible removalFamilies who received notices asking them to agree to return to their ho...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 64,
+        "sentiment": "Positive",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "time home office targets",
+            "asylum claims",
+            "forcible removalfamilies"
+        ]
+    },
+    {
+        "title": "Bruce Springsteen, Kate Moss and Johnny Depp to appear on all-star Shane MacGowan tribute album",
+        "link": "https://www.theguardian.com/music/2026/mar/12/bruce-springsteen-kate-moss-and-johnny-depp-to-appear-on-all-star-shane-macgowan-tribute-album",
+        "summary": "Irish artists, British indie legends and US stars such as Tom Waits also contribute, with Springsteen writing essay about the bottomless humanity of the late Pogues frontmanBruce Springsteen has writt...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 51,
+        "sentiment": "Neutral",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "bruce springsteen",
+            "kate moss",
+            "johnny depp"
+        ]
+    },
+    {
+        "title": "Proposed law change will protect abusive men who push women to suicide, campaigners warn",
+        "link": "https://www.theguardian.com/society/2026/mar/12/proposed-law-change-will-protect-abusive-men-who-push-women-to-suicide-campaigners-warn",
+        "summary": "Charity criticises new measures that would make it harder for inquests to pass verdict of unlawful killingMen whose abusive behaviour drives women to take their own lives are more likely to get away w...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 56,
+        "sentiment": "Positive",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "abusive men",
+            "new measures",
+            "unlawful killingmen"
+        ]
+    },
+    {
+        "title": "MPs launch student loans inquiry amid \u2018perfect storm\u2019 for young people in UK",
+        "link": "https://www.theguardian.com/money/2026/mar/12/mps-launch-student-loans-inquiry-amid-perfect-storm-for-young-people-in-uk",
+        "summary": "Influential Treasury committee chair Meg Hillier says review follows growing concern over graduate debtUK firms struggling to hire young people amid cost pressures, MPs toldYoung adults in the UK face...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 59,
+        "sentiment": "Positive",
+        "date": "2026-03-12",
+        "image_url": null,
+        "keywords": [
+            "launch student loans inquiry",
+            "perfect storm \u2019",
+            "young people"
+        ]
+    },
+    {
         "title": "\u2018Convincing\u2019 AI scams drove UK fraud cases to record 444,000 last year",
         "link": "https://www.theguardian.com/money/2026/mar/12/ai-scams-uk-fraud-artificial-intelligence-mobile-bank-online-shopping-cifas",
         "summary": "Criminals using artificial intelligence tools to take over mobile, bank and online shopping accounts, says CifasCriminals are increasingly exploiting AI technology to take over peoples mobile, banking...",
@@ -2174,78 +2266,48 @@
         ]
     },
     {
-        "title": "\u2018Sly stowaway\u2019 fox finds new home at Bronx Zoo after illicit transatlantic trip",
-        "link": "https://www.theguardian.com/uk-news/2026/mar/11/stowaway-fox-travels-on-cargo-ship-from-england-to-us",
-        "summary": "The fox is said to be settling in well after mischievous 3,400 mile journey from Southampton to New YorkA sly fox slipped on to a cargo ship and travelled from Southampton to New York, according to of...",
+        "title": "Middle East crisis live: Iran steps up campaign to disrupt energy markets as oil price hits $100 a barrel",
+        "link": "https://www.theguardian.com/world/live/2026/mar/12/iran-war-live-updates-oil-trump-middle-east-crisis-israel-lebanon-iraq-latest-news",
+        "summary": "Iran has set ablaze two tankers in Iraqi waters as it increased attacks on oil and transport facilities across the Middle EastIran escalates attacks on infrastructure and transport across the GulfHow ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "stowaway \u2019 fox",
-            "new home",
-            "bronx zoo"
-        ]
-    },
-    {
-        "title": "Starmer overruled warning of \u2018reputational risk\u2019 over Mandelson appointment, files show",
-        "link": "https://www.theguardian.com/politics/2026/mar/11/starmer-overruled-warning-of-reputational-risk-over-mandelson-appointment-files-show",
-        "summary": "Newly released documents also show Peter Mandelson was offered highly classified briefings before formal vetting was completeKeir Starmer overruled officials who warned of a reputational risk in makin...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "\u2018 reputational risk \u2019",
-            "peter mandelson",
-            "reputational risk"
-        ]
-    },
-    {
-        "title": "Starmer\u2019s national security adviser expressed concern about Mandelson appointment, documents show - as it happened",
-        "link": "https://www.theguardian.com/politics/live/2026/mar/11/peter-mandelson-documents-keir-starmer-pmqs-iran-latest-news-updates",
-        "summary": "Release shows that Jonathan Powell warned Morgan McSweeney about the appointment of Mandelson as US ambassadorAs reported by Nadeem Badshah this morning, the documents relating to Peter Mandelsons app...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 45,
+        "objectivity_score": 39,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "national security adviser",
-            "jonathan powell",
-            "morgan mcsweeney"
+            "disrupt energy markets",
+            "oil price hits $",
+            "transport facilities"
         ]
     },
     {
-        "title": "Mandelson documents raise questions about Starmer\u2019s decision-making",
-        "link": "https://www.theguardian.com/politics/2026/mar/11/mandelson-documents-raise-questions-about-starmers-decision-making",
-        "summary": "PM knew of US ambassadors close relationship with Jeffrey Epstein and potential conflicts of interest from his lobbying roleFour months after Peter Mandelson was sacked as UK ambassador to Washington ...",
+        "title": "Oil price tops $100 again as Iran strikes economic targets across Middle East",
+        "link": "https://www.theguardian.com/us-news/2026/mar/11/us-oil-iran-israel-war",
+        "summary": "Vast release of emergency crude reserves fails to quell mounting fears around energy supply crunch, rattling global marketsOil prices again topped $100 per barrel on Thursday as widespread Iranian att...",
         "source": "World news | The Guardian",
-        "objectivity_score": 27,
+        "objectivity_score": 41,
         "sentiment": "Neutral",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "\u2019 s decision-making",
-            "us ambassadors",
-            "jeffrey epstein"
+            "oil price tops $",
+            "economic targets",
+            "vast release"
         ]
     },
     {
-        "title": "Trump puts pressure on Senate majority leader in blunt message: pass strict voter ID bill \u2013 live",
+        "title": "Trump puts pressure on Senate majority leader \u2013 as it happened",
         "link": "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio",
         "summary": "President tells John Thune to force through Save America act, which requires proof of citizenship while registering to vote and curbs mail-in votingDonald Trump said that the US-Israel war in Iran wil...",
         "source": "World news | The Guardian",
-        "objectivity_score": 58,
+        "objectivity_score": 60,
         "sentiment": "Positive",
         "date": "2026-03-12",
         "image_url": null,
         "keywords": [
-            "senate majority leader",
-            "blunt message",
-            "strict voter"
+            "senate majority leader \u2013",
+            "john thune",
+            "save america"
         ]
     },
     {
@@ -2276,36 +2338,6 @@
             "supreme court administration",
             "new trade investigation",
             "foreign countriesthe"
-        ]
-    },
-    {
-        "title": "Trump tells Kentucky rally Iran\u2019s military and nuclear capabilities degraded",
-        "link": "https://www.theguardian.com/us-news/2026/mar/11/trump-kentucky-rally-iran",
-        "summary": "While offering no details to hundreds of supporters, US president seemed to suggest conflict would not end soonSign up for the Breaking News US email to get newsletter alerts in your inboxDonald Trump...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "nuclear capabilities",
-            "us president",
-            "end soonsign"
-        ]
-    },
-    {
-        "title": "US to release 172m barrels of oil from strategic petroleum reserve",
-        "link": "https://www.theguardian.com/us-news/2026/mar/11/us-oil-iran-israel-war",
-        "summary": "Energy secretary says move is part of broader release as oil prices soar due to supply shocks from US-Israel war on IranThe United States will release 172m barrels of oil from its strategic petroleum ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-03-12",
-        "image_url": null,
-        "keywords": [
-            "release 172m barrels",
-            "strategic petroleum reserve",
-            "broader release"
         ]
     }
 ]
