@@ -751,7 +751,7 @@
         ]
     },
     {
-        "title": "Energy bills rise 'inescapable' if prices stay high, says British Gas boss",
+        "title": "Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss",
         "link": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss",
         "summary": "The boss of Centrica says it is \"too early\" to speculate but if oil costs continue to rise, homes will be hit.",
         "source": "BBC News",
@@ -761,34 +761,112 @@
         "image_url": null,
         "keywords": [
             "bills rise",
-            "british gas boss",
-            "oil costs"
+            "oil prices",
+            "british gas boss"
         ]
     },
     {
-        "title": "Trump at a crossroads as US weighs tough options in Iran",
-        "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-        "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
+        "title": "'Club vibes without the hangover': The twenty-somethings going out - in the gym",
+        "link": "https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Young people are driving a gym boom as more fitness spaces are transformed into vibrant hangouts.",
         "source": "BBC News",
-        "objectivity_score": 83,
-        "sentiment": "Negative",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "tough options"
-        ]
-    },
-    {
-        "title": "Sombr stopped a show over safety - but are concerts in the UK really that risky?",
-        "link": "https://www.bbc.com/news/articles/cpd8ww2y6wlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Musicians are increasingly interrupting their own shows to help fans - but venues might be safer than you think.",
-        "source": "BBC News",
-        "objectivity_score": 60,
+        "objectivity_score": 41,
         "sentiment": "Positive",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "own shows"
+            "'club vibes",
+            "young people",
+            "gym boom"
+        ]
+    },
+    {
+        "title": "'We cannot be in peace', say Guthrie family as they renew appeal over missing mother",
+        "link": "https://www.bbc.com/news/articles/c0q9zx4g1w9o?at_medium=RSS&at_campaign=rss",
+        "summary": "A seven-week nationwide search for 84-year-old Nancy Guthrie, the mother of TV anchor Savannah Guthrie has not identified any suspects.",
+        "source": "BBC News",
+        "objectivity_score": 5,
+        "sentiment": "Negative",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "nationwide search",
+            "nancy guthrie",
+            "tv anchor"
+        ]
+    },
+    {
+        "title": "What did critics think of Saturday Night Live UK's debut?",
+        "link": "https://www.bbc.com/news/articles/c8ejl730wl2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The long-running US sketch show now has a British equivalent, which received a broadly positive reaction on its debut.",
+        "source": "BBC News",
+        "objectivity_score": 34,
+        "sentiment": "Positive",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "live uk",
+            "'s debut",
+            "us sketch show"
+        ]
+    },
+    {
+        "title": "Jorginho's criticism of Chappell Roan over daughter's tears goes viral",
+        "link": "https://www.bbc.com/sport/football/articles/c4gdryn1ky8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ex-Chelsea and Arsenal midfielder Jorginho goes viral with a social media post alleging singer Chappell Roan's security guard made his daughter cry.",
+        "source": "BBC News",
+        "objectivity_score": 6,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "'s criticism",
+            "chappell roan",
+            "daughter 's tears"
+        ]
+    },
+    {
+        "title": "Hillsborough campaigners blame Mahmood for law delay",
+        "link": "https://www.bbc.com/news/articles/cn9qdn7lzlyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Hillsborough Law has been further delayed and will not be passed in this session of parliament.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "campaigners blame",
+            "law delay"
+        ]
+    },
+    {
+        "title": "Newcastle-Sunderland paused after reported racism towards Geertruida",
+        "link": "https://www.bbc.com/sport/football/articles/c80mr4xjg85o?at_medium=RSS&at_campaign=rss",
+        "summary": "Referee Anthony Taylor stopped the Premier League match in line with the competition's on-field anti-discrimination protocol.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "geertruida referee anthony taylor",
+            "premier league",
+            "competition 's on-field anti-discrimination protocol"
+        ]
+    },
+    {
+        "title": "National blackout hits Cuba for second time in a week",
+        "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
+        "source": "BBC News",
+        "objectivity_score": 35,
+        "sentiment": "Negative",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "national blackout hits",
+            "total failure",
+            "power grid underlines"
         ]
     },
     {
@@ -806,7 +884,20 @@
         ]
     },
     {
-        "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
+        "title": "Trump at a crossroads as US weighs tough options in Iran",
+        "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
+        "source": "BBC News",
+        "objectivity_score": 83,
+        "sentiment": "Negative",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "tough options"
+        ]
+    },
+    {
+        "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
         "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
         "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
         "source": "BBC News",
@@ -834,61 +925,44 @@
         ]
     },
     {
-        "title": "Foreign secretary denounces 'reckless Iran threats' after missiles fired at Diego Garcia",
-        "link": "https://www.bbc.com/news/articles/c5yljdgwppzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Iran reportedly fired two ballistic missiles at Indian Ocean base, but neither reached the target.",
+        "title": "'A direct hit' - BBC visits Israeli town after Iranian strike",
+        "link": "https://www.bbc.com/news/videos/c3v6k0l631vo?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC's Sebastian Usher reports from Dimona in southern Israel, which was hit by an Iranian missile.",
         "source": "BBC News",
-        "objectivity_score": 56,
-        "sentiment": "Negative",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "foreign secretary denounces 'reckless",
-            "diego garcia iran",
-            "ballistic missiles"
-        ]
-    },
-    {
-        "title": "Food prices likely to rise due to Iran war, farmers' union says",
-        "link": "https://www.bbc.com/news/articles/cy413ke31d8o?at_medium=RSS&at_campaign=rss",
-        "summary": "The National Farmers' Union says the price of cucumbers, tomatoes and peppers could rise over the next six weeks.",
-        "source": "BBC News",
-        "objectivity_score": 45,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "national farmers"
+            "direct hit",
+            "sebastian usher"
         ]
     },
     {
-        "title": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
-        "link": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss",
-        "summary": "The world's biggest band returns after more than three years with a huge concert in the South Korean capital.",
+        "title": "Sombr stopped a show over safety - but are concerts in the UK really that risky?",
+        "link": "https://www.bbc.com/news/articles/cpd8ww2y6wlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Musicians are increasingly interrupting their own shows to help fans - but venues might be safer than you think.",
         "source": "BBC News",
-        "objectivity_score": 46,
+        "objectivity_score": 60,
         "sentiment": "Positive",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "historic centre",
-            "comeback concert",
-            "world 's"
+            "own shows"
         ]
     },
     {
-        "title": "'Club vibes without the hangover': The twenty-somethings going out - in the gym",
-        "link": "https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Young people are driving a gym boom as more fitness spaces are transformed into vibrant hangouts.",
+        "title": "AI videos of sexualised black women removed from TikTok after BBC investigation",
+        "link": "https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.",
         "source": "BBC News",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
+        "objectivity_score": 43,
+        "sentiment": "Negative",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "'club vibes",
-            "young people",
-            "gym boom"
+            "black women",
+            "explicit content"
         ]
     },
     {
@@ -907,17 +981,32 @@
         ]
     },
     {
-        "title": "AI videos of sexualised black women removed from TikTok after BBC investigation",
-        "link": "https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.",
+        "title": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
+        "link": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss",
+        "summary": "The world's biggest band returns after more than three years with a huge concert in the South Korean capital.",
         "source": "BBC News",
-        "objectivity_score": 43,
-        "sentiment": "Negative",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "black women",
-            "explicit content"
+            "historic centre",
+            "comeback concert",
+            "world 's"
+        ]
+    },
+    {
+        "title": "'They think I just go home and make TikToks - it's not true'",
+        "link": "https://www.bbc.com/sport/football/articles/c2lw1172z1qo?at_medium=RSS&at_campaign=rss",
+        "summary": "Leicester forward Alisha Lehmann  is the most-followed female footballer in the world and says she has learned to cope.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "alisha lehmann",
+            "female footballer"
         ]
     },
     {
@@ -936,35 +1025,6 @@
         ]
     },
     {
-        "title": "Meningitis cases fall in Kent outbreak",
-        "link": "https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
-        "summary": "Number of confirmed cases drops, says UKHSA, as suspected case linked to another Kent college.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Positive",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "cases fall",
-            "cases drops"
-        ]
-    },
-    {
-        "title": "'Peace is a gradual thing': How land, cattle and identity fuel a deadly Nigerian conflict",
-        "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
-        "summary": "How a lack of justice and trust in the security forces perpetuates deadly violence in Plateau state.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "gradual thing",
-            "identity fuel",
-            "security forces perpetuates"
-        ]
-    },
-    {
         "title": "Italy is voting on whether to change its constitution. What does this mean for Meloni?",
         "link": "https://www.bbc.com/news/articles/cm29n1lvp64o?at_medium=RSS&at_campaign=rss",
         "summary": "The dry subject matter of this weekend's vote seems obscure but for many it is a vote on the PM.",
@@ -979,133 +1039,75 @@
         ]
     },
     {
-        "title": "Arsenal and Man City meet in cup final with season-defining implications",
-        "link": "https://www.bbc.com/sport/football/articles/cvg03xv5qq0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Premier League leaders Arsenal face title rivals Manchester City in the EFL Cup final on Sunday, but how important could the result prove in title race?",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Positive",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "man city",
-            "implications premier league leaders",
-            "title rivals"
-        ]
-    },
-    {
-        "title": "Sudan army denies carrying out hospital attack that killed 64 during Eid",
-        "link": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
-        "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head.",
+        "title": "Army joins search for remains of mother and son killed 50 years ago",
+        "link": "https://www.bbc.com/news/articles/c4gj5k9pxzgo?at_medium=RSS&at_campaign=rss",
+        "summary": "William MacDowell, 81, was convicted of the murders of Renee MacRae and her son Andrew in 2022 but their bodies have never been found.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Negative",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "army denies",
-            "hospital attack"
+            "army joins search",
+            "william macdowell",
+            "renee macrae"
         ]
     },
     {
-        "title": "Watch: BBC in Cuba as island plunged into darkness",
-        "link": "https://www.bbc.com/news/videos/cj94jp3jmv8o?at_medium=RSS&at_campaign=rss",
-        "summary": "More than 10 million people are enduring power cuts after Cuba's national electrical grid collapsed again.",
+        "title": "Qatari and Turkish citizens die in military helicopter crash",
+        "link": "https://www.bbc.com/news/articles/cx2v4k0xn9no?at_medium=RSS&at_campaign=rss",
+        "summary": "Four Qatari military personnel, one Turkish serviceman and two technicians from a Turkish defence company were on board.",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "power cuts",
-            "national electrical grid"
-        ]
-    },
-    {
-        "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
-        "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
-        "summary": "A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election",
-        "source": "BBC News",
-        "objectivity_score": 3,
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "robert mueller",
-            "ex-fbi chief",
-            "fbi director"
+            "turkish citizens",
+            "military helicopter crash",
+            "military personnel"
         ]
     },
     {
-        "title": "I used to be a bouncer - now I'm a UFC title contender",
-        "link": "https://www.bbc.com/news/articles/cgl5jlgrdk6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Ffion Davies, 31, is a leading competitor in Brazilian jiu-jitsu, winning multiple championships.",
-        "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "title contender",
-            "ffion davies",
-            "multiple championships"
-        ]
-    },
-    {
-        "title": "Red kite with sausage roll snapped by photographer",
-        "link": "https://www.bbc.com/news/articles/cx2g290ve2vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Mark Hopkins managed to get some pictures of the bird from his back garden.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "red kite",
-            "sausage roll",
-            "mark hopkins"
-        ]
-    },
-    {
-        "title": "Beef dripping from first Everest summit auctioned",
-        "link": "https://www.bbc.com/news/articles/cy030n9z3gjo?at_medium=RSS&at_campaign=rss",
-        "summary": "The 70-year-old can is on the way to a new owner after previously being taken up Everest.",
-        "source": "BBC News",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "new owner"
-        ]
-    },
-    {
-        "title": "Mum 'so proud' of deafblind son's Eastenders debut",
-        "link": "https://www.bbc.com/news/articles/c1kgk9pmpelo?at_medium=RSS&at_campaign=rss",
-        "summary": "Five-year-old Harvey Hind, from Clitheroe, Lancashire, appeared on the BBC One soap on Wednesday.",
+        "title": "Meningitis cases reduced in Kent outbreak",
+        "link": "https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
+        "summary": "Number of confirmed cases redcued, says UKHSA, as suspected case linked to another Kent college.",
         "source": "BBC News",
         "objectivity_score": 100,
         "sentiment": "Positive",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "deafblind son 's",
-            "five-year-old harvey hind"
+            "meningitis"
         ]
     },
     {
-        "title": "Artist uses eyelash to paint Peaky Blinders microsculpture",
-        "link": "https://www.bbc.com/news/articles/cx2g83l3zqpo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sculptor Dr Willard Wigan made the miniature Tommy Shelby artwork as part of a charity exhibition.",
+        "title": "Killed by the same abuser: Families demand answers",
+        "link": "https://www.bbc.com/news/articles/c363dk662xyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Fiona Holm and Naomi Hunte were killed by the same man only 16 months apart. Could police have done more?",
         "source": "BBC News",
-        "objectivity_score": 40,
+        "objectivity_score": 29,
         "sentiment": "Neutral",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "artist uses eyelash",
-            "peaky blinders",
-            "sculptor dr willard wigan"
+            "demand answers",
+            "fiona holm",
+            "naomi hunte"
+        ]
+    },
+    {
+        "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
+        "link": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
+        "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head.",
+        "source": "BBC News",
+        "objectivity_score": 33,
+        "sentiment": "Negative",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "drone attack",
+            "key hospital"
         ]
     },
     {
@@ -1123,16 +1125,16 @@
         ]
     },
     {
-        "title": "The Week: The War In Iran Escalates",
-        "link": "https://www.bbc.co.uk/sounds/play/p0n6h0cj?at_medium=RSS&at_campaign=rss",
-        "summary": "Has President Trump lost control of the war in Iran?",
+        "title": "Is Iran Capable of Hitting the UK?",
+        "link": "https://www.bbc.co.uk/sounds/play/p0n6h0r8?at_medium=RSS&at_campaign=rss",
+        "summary": "Israel claims Iranian missiles can reach London, Paris or Berlin.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "iran escalates"
+            "news"
         ]
     },
     {
@@ -1151,47 +1153,45 @@
         ]
     },
     {
-        "title": "Who needs cup final victory most - Arteta or Guardiola?",
-        "link": "https://www.bbc.com/sport/football/articles/cvg03xv5qq0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Premier League leaders Arsenal face title rivals Manchester City in the EFL Cup final on Sunday, but how important could the result prove in title race?",
+        "title": "'Impossible for him to stay' - what next for Tudor and Tottenham?",
+        "link": "https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss",
+        "summary": "How does boss Igor Tudor survive at Tottenham after another damaging defeat? Nick Mashiter analyses the situation.",
         "source": "BBC News",
-        "objectivity_score": 87,
-        "sentiment": "Positive",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "needs cup",
-            "final victory",
-            "premier league leaders"
+            "igor tudor",
+            "nick mashiter"
         ]
     },
     {
-        "title": "Jorginho's criticism of Chappell Roan over daughter's tears goes viral",
-        "link": "https://www.bbc.com/sport/football/articles/c4gdryn1ky8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Ex-Chelsea and Arsenal midfielder Jorginho goes viral with a social media post alleging singer Chappell Roan's security guard made his daughter cry.",
+        "title": "New low for 'pathetic' Newcastle - as Sunderland in dreamland",
+        "link": "https://www.bbc.com/sport/football/articles/cd6lqdqjlwzo?at_medium=RSS&at_campaign=rss",
+        "summary": "From mocking and celebration to despair and disbelief - Newcastle fans go through every emotion as their poor Tyne-Wear derby record continues.",
         "source": "BBC News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
+        "objectivity_score": 58,
+        "sentiment": "Negative",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "'s criticism",
-            "chappell roan",
-            "daughter 's tears"
+            "derby record"
         ]
     },
     {
-        "title": "'They think I just go home and make TikToks - it's not true'",
-        "link": "https://www.bbc.com/sport/football/articles/c2lw1172z1qo?at_medium=RSS&at_campaign=rss",
-        "summary": "Leicester forward Alisha Lehmann  is the most-followed female footballer in the world and says she has learned to cope.",
+        "title": "Littler suffers third-round exit in Belgian Open",
+        "link": "https://www.bbc.com/sport/darts/articles/c78ldpxv5dpo?at_medium=RSS&at_campaign=rss",
+        "summary": "World champion Luke Littler is knocked out of the Belgian Darts Open in the third round by Niels Zonneveld.",
         "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
+        "objectivity_score": 42,
+        "sentiment": "Negative",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "alisha lehmann",
-            "female footballer"
+            "suffers third-round exit",
+            "belgian open world champion",
+            "luke littler"
         ]
     },
     {
@@ -1251,6 +1251,21 @@
             "loss meets",
             "war thousands",
             "dog walkers"
+        ]
+    },
+    {
+        "title": "Attack on a Sudan Hospital Kills Dozens, Head of W.H.O. Says",
+        "link": "https://www.nytimes.com/2026/03/22/world/africa/sudan-hospital-darfur-attack.html",
+        "summary": "The groups director general said 13 children were among those killed in the latest violence in the Darfur region, and he decried the targeting of health care facilities in the civil war.",
+        "source": "NYT > World News",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "kills dozens",
+            "groups director general",
+            "health care facilities"
         ]
     },
     {
@@ -1384,32 +1399,46 @@
         ]
     },
     {
-        "title": "Iranian Sailors, Including Survivors of Torpedoed Ship, Remain in Limbo",
-        "link": "https://www.nytimes.com/2026/03/21/world/asia/iran-sri-lanka-sailors.html",
-        "summary": "Sri Lanka has kept more than 250 sailors in protective custody since the early days of the war. Iran wants them back, but Sri Lanka is unsure what to do with them.",
+        "title": "Iran Responds to Trump\u2019s Energy Threat With Defiance and Warnings of Its Own",
+        "link": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump/iran-response-trump-threat-power-plants",
+        "summary": "Tehran will not hesitate in defending its people and its land, a senior official said, after President Trump threatened to destroy Iranian power plants.",
         "source": "NYT > World News",
-        "objectivity_score": 22,
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "iranian sailors",
-            "torpedoed ship",
-            "limbo sri lanka"
+            "iran responds",
+            "own tehran",
+            "power plants"
         ]
     },
     {
-        "title": "Residents of Arad Are Shaken After Direct Strike by Iranian Missile",
-        "link": "https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html",
-        "summary": "Attacks on Saturday injured dozens in Arad and Dimona, two cities closest to Israels main nuclear research facility.",
+        "title": "Israel Orders Military to Intensify Demolitions in Southern Lebanon",
+        "link": "https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html",
+        "summary": "Israel Katz, the defense minister, said he ordered troops to destroy more bridges and buildings in southern Lebanon, stoking worries that Israel was widening a military-controlled buffer zone there.",
         "source": "NYT > World News",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
+        "objectivity_score": 12,
+        "sentiment": "Neutral",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "direct strike",
-            "iranian missile",
+            "israel orders",
+            "intensify demolitions",
+            "lebanon israel katz"
+        ]
+    },
+    {
+        "title": "Residents in Southern Israel Are Shaken After Direct Strikes by Iranian Missiles",
+        "link": "https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html",
+        "summary": "Attacks on Saturday injured dozens in Arad and Dimona, two cities closest to Israels main nuclear research facility.",
+        "source": "NYT > World News",
+        "objectivity_score": 24,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "direct strikes",
             "main nuclear research facility"
         ]
     },
@@ -1506,36 +1535,6 @@
         "image_url": null,
         "keywords": [
             "90-mile waterway"
-        ]
-    },
-    {
-        "title": "Umberto Bossi, Fiery Founder of Italian Separatist Party, Dies at 84",
-        "link": "https://www.nytimes.com/2026/03/21/world/europe/umberto-bossi-dead.html",
-        "summary": "A charismatic populist, he channeled the anger of a disaffected North, arguing  in inflammatory oratory  for secession and railing against a tide of migrants.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "umberto bossi",
-            "fiery founder",
-            "italian separatist"
-        ]
-    },
-    {
-        "title": "K-Pop\u2019s BTS Returns to the Stage",
-        "link": "https://www.nytimes.com/2026/03/21/world/asia/bts-concert-photos-seoul.html",
-        "summary": "The groups first concert in nearly four years  held in the historic center of Seoul  was heavy on songs from its new album. They also played a few old hits.",
-        "source": "NYT > World News",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "bts returns",
-            "historic center",
-            "new album"
         ]
     },
     {
@@ -1764,6 +1763,66 @@
         ]
     },
     {
+        "title": "Queensland government \u2018opens old wounds\u2019 as police officer criticised after Palm Island riots appointed to Legal Aid board",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/23/queensland-police-detective-darren-robinson-palm-island-legal-aid-board-ntwnfb",
+        "summary": "Exclusive: Townsville lawyer and former detective Darren Robinsons appointment by attorney general Deb Frecklington has brought back a lot of trauma for Indigenous communityGet our breaking news email...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "government \u2018",
+            "old wounds \u2019",
+            "police officer"
+        ]
+    },
+    {
+        "title": "Social cohesion has lost its feelgood vibe. What will it take to offer a fair go for all?",
+        "link": "https://www.theguardian.com/society/ng-interactive/2026/mar/23/social-cohesion-meaning-has-lost-feelgood-vibe",
+        "summary": "The phrase should evoke optimism, positive expectations about the future, trust and belonging. That seems almost out of reach in a chaotic worldOne term has already become the well-intentioned weasel ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "social cohesion",
+            "feelgood vibe",
+            "evoke optimism"
+        ]
+    },
+    {
+        "title": "Almost half of Australians think foreign military will attack within five years, ANU study suggests",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/23/almost-half-of-australians-think-foreign-military-will-attack-within-five-years-anu-study-suggests",
+        "summary": "University polling and focus groups found sharpest increase in those worried about national security was cohort aged 18 to 24Nearly half of Australians believe a foreign military will attack the count...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "study suggests university",
+            "focus groups",
+            "sharpest increase"
+        ]
+    },
+    {
+        "title": "As Labor faces pressure to respond boldly to oil shock, it needs to find more unconventional levers to pull",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/23/as-labor-faces-pressure-to-respond-boldly-to-oil-shock-it-needs-to-find-more-unconventional-levers-to-pull",
+        "summary": "Leveraging Australian gas exports to ensure we get oil in return is among the offbeat ideas we could be hearing more aboutGet our breaking news email, free app or daily news podcastThe International E...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "labor faces pressure",
+            "oil shock",
+            "unconventional levers"
+        ]
+    },
+    {
         "title": "One Nation wins at least one SA seat as Liberals consider \u2018sobering lessons\u2019 from election defeat",
         "link": "https://www.theguardian.com/australia-news/2026/mar/22/sa-state-election-one-nation-wins-seat-liberals-lessons-defeat-labor-ntwnfb",
         "summary": "Labors Peter Malinauskas secures at least 32 seats while Pauline Hansons party outpolls Liberals and could become de facto oppositionOne Nation will win at least one South Australian lower house seat,...",
@@ -1779,63 +1838,18 @@
         ]
     },
     {
-        "title": "Liberals have \u2018a lot of work to do\u2019 after SA wipeout, Anne Ruston says \u2013 As it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/mar/22/australia-news-live-tropical-cyclone-narelle-south-australia-election-peter-malinauskas-labor-one-nation-chris-bowen-anthony-albanese-fuel-prices-ntwnfb",
-        "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastAustralia not contemplating fuel rationing but state and federal governments have powers, Bowen saysState governments ...",
+        "title": "Trump lauds Viktor Orb\u00e1n as Europe\u2019s far-right leaders gather in Budapest",
+        "link": "https://www.theguardian.com/world/2026/mar/22/trump-lauds-viktor-orban-far-right-leaders-gather-budapest",
+        "summary": "US presidents backing comes as Hungarys PM faces toughest election campaign of 16 years in officeDonald Trump has endorsed Hungarys prime minister, Viktor Orbn, who faces his toughest electoral challe...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
+        "objectivity_score": 62,
         "sentiment": "Positive",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "anne ruston",
-            "news email",
-            "free app"
-        ]
-    },
-    {
-        "title": "Six fuel ships bound for Australia cancelled as Bowen concedes \u2018flow of oil to Asian refineries has slowed\u2019",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/22/six-fuel-ships-bound-for-australia-cancelled-as-bowen-concedes-flow-of-oil-to-asian-refineries-has-slowed",
-        "summary": "Energy minister says war on Iran creating uncertain environment but insists government doing all the preparatory workFollow our Australia news live blog for latest updatesGet our breaking news email, ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "fuel ships",
-            "concedes \u2018 flow",
-            "asian refineries"
-        ]
-    },
-    {
-        "title": "Superannuation should be used for aged care, not inherited by next generation, aged care CEO says",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/21/superannuation-should-be-used-for-aged-care-not-inherited-by-next-generation-aged-care-ceo-says",
-        "summary": "Labor should urge Australians to rethink purpose of super, Tracey Burton says, so countrys $4tn in superannuation could help plug funding shortfallsFollow our Australia news live blog for latest updat...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "rethink purpose",
-            "tracey burton",
-            "countrys $ 4tn"
-        ]
-    },
-    {
-        "title": "Petrol theft expected to rise in Australia as police call for more CCTV and prepaid pumps",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/22/petrol-theft-expected-to-rise-in-australia-as-police-call-for-more-cctv-and-prepaid-pumps",
-        "summary": "Amid a surge in fuel prices and fear of shortages, SA police chief signals officers might stop investigating drive-offs unless service stations install prepaid pumpsFollow our Australia news live blog...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Positive",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "prepaid pumps",
-            "fuel prices",
-            "chief signals officers"
+            "viktor orb\u00e1n",
+            "\u2019 s far-right leaders",
+            "us presidents"
         ]
     },
     {
@@ -1899,33 +1913,48 @@
         ]
     },
     {
-        "title": "Owners from Great Britain travelling to EU warned over pet passport \u2018dodge\u2019",
-        "link": "https://www.theguardian.com/lifeandstyle/2026/mar/21/pet-passport-dodge-travel-uk-eu-animal-health-certificate",
-        "summary": "Bypassing animal health certificate system by using cheaper pet passport issued abroad could backfire, experts sayBritish pet owners who want to take their furry friends elsewhere in Europe have been ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 60,
-        "sentiment": "Positive",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "pet passport \u2018 dodge \u2019",
-            "animal health certificate system",
-            "pet passport"
-        ]
-    },
-    {
-        "title": "Middle East crisis live: Iran warns of \u2018irreversible damage\u2019 to region if power plants attacked after Trump threat",
+        "title": "Middle East crisis live: Iran will completely close strait of Hormuz if Trump acts on infrastructure threats, says IRG",
         "link": "https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation",
-        "summary": "US president has given Iran 48 hours to reopen strait of Hormuz or face destruction of its energy infrastructureSeveral blasts could be heard from Jerusalem on Sunday, AFP journalists said, after the ...",
+        "summary": "Statement from Irans Revolutionary Guards comes after the US threatened to target energy infrastructure Several blasts could be heard from Jerusalem on Sunday, AFP journalists said, after the Israeli ...",
         "source": "World news | The Guardian",
         "objectivity_score": 17,
         "sentiment": "Neutral",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "\u2018 irreversible damage \u2019",
-            "power plants",
-            "threat us president"
+            "infrastructure threats",
+            "irg statement",
+            "target energy infrastructure"
+        ]
+    },
+    {
+        "title": "Israeli settlers carry out series of West Bank attacks as security forces stand by",
+        "link": "https://www.theguardian.com/world/2026/mar/22/israeli-settlers-carry-out-series-of-west-bank-attacks-as-security-forces-stand-by",
+        "summary": "Witnesses describe coordinated raids in which homes and vehicles were set on fire and several Palestinians injuredMiddle East crisis live  latest updatesIsraeli settlers have carried out a series of a...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "west bank attacks",
+            "security forces stand",
+            "east crisis"
+        ]
+    },
+    {
+        "title": "Iran says it will \u2018irreversibly destroy\u2019 Middle East infrastructure if US attacks energy sites",
+        "link": "https://www.theguardian.com/world/2026/mar/22/iran-says-destroy-middle-east-infrastructure-us-energy-sites",
+        "summary": "Energy and oil sites across region would become legitimate targets, Tehran saysMiddle East crisis live  latest updatesTehran has said it will irreversibly destroy essential infrastructure across the M...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "us attacks energy sites",
+            "oil sites",
+            "legitimate targets"
         ]
     },
     {
@@ -1956,36 +1985,6 @@
             "responsible \u2019",
             "ex-cia chief",
             "leon panetta"
-        ]
-    },
-    {
-        "title": "Iran not believed to have capability or intent to bomb Britain, says UK minister",
-        "link": "https://www.theguardian.com/world/2026/mar/22/iran-capability-intent-bomb-missiles-britain-steve-reed",
-        "summary": "Steve Reed says UK is not going to be dragged into this war after Israeli warnings that Iranian missiles could hit EuropeMiddle East crisis live  latest updatesIran is not believed to have the capabil...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Neutral",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "steve reed",
-            "east crisis",
-            "cabinet minister"
-        ]
-    },
-    {
-        "title": "Projectile strikes vessel off coast of UAE - as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-        "summary": "This blog is now closedCircling back now to Diego Garcia, Iran fired two intermediate-range ballistic missiles at the joint US-UK military base in the Indian Ocean  but neither of them hit, according ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Negative",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "strikes vessel",
-            "diego garcia",
-            "intermediate-range ballistic missiles"
         ]
     },
     {
@@ -2064,153 +2063,153 @@
         ]
     },
     {
-        "title": "Number of confirmed meningitis cases linked to fatal Kent outbreak drops to 20",
-        "link": "https://www.theguardian.com/uk-news/2026/mar/22/kent-meningitis-confirmed-cases-drop",
-        "summary": "Three cases previously confirmed reclassified by UK Health Security Agency following further testingThe number of confirmed meningitis cases linked to the Kent outbreak has fallen from 23 to 20.The UK...",
+        "title": "British-Iranians in UK report safety concerns to authorities amid Iran war",
+        "link": "https://www.theguardian.com/uk-news/2026/mar/22/british-iranians-safety-concerns-authorities-iran-war-uk-diaspora",
+        "summary": "Accusations of intimidation and harassment within UK diaspora including aggressive and coercive videos onlineIranians living in the UK have expressed safety concerns to authorities amid heightened ten...",
         "source": "World news | The Guardian",
-        "objectivity_score": 65,
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "report safety",
+            "coercive videos onlineiranians",
+            "feeling unsafe"
+        ]
+    },
+    {
+        "title": "ICC to consider legal advice that criticises UN inquiry into Karim Khan allegations",
+        "link": "https://www.theguardian.com/law/2026/mar/22/icc-legal-advice-un-report-prosecutor-karim-khan",
+        "summary": "Inquiry into sexual assault claims did not establish that chief prosecutors actions amounted to misconduct, judges adviseThe international criminal courts governing body is expected to meet on Monday ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "legal advice",
+            "criticises un inquiry",
+            "karim khan"
+        ]
+    },
+    {
+        "title": "Palantir extends reach into British state as it gets access to sensitive FCA data",
+        "link": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
+        "summary": "Exclusive: Allowing US tech firm to analyse intelligence in name of tackling fraud raises fresh concerns over privacyCampaign groups rail against Palantir, but the UK contracts keep comingPalantir is ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "british state",
+            "us tech firm",
+            "analyse intelligence"
+        ]
+    },
+    {
+        "title": "Campaign groups rail against Palantir, but the UK contracts keep coming",
+        "link": "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
+        "summary": "AI analytics firm has become influential in Whitehall, and FCA deal gives it yet more access to dataPalantir extends reach into British state as it gets access to sensitive FCA dataPalantirs latest UK...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 37,
         "sentiment": "Positive",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "meningitis cases",
-            "outbreak drops",
-            "health security agency"
+            "groups rail",
+            "analytics firm",
+            "british state"
         ]
     },
     {
-        "title": "Evgeny Lebedev and Ian Botham have lowest Lords attendance, records show",
-        "link": "https://www.theguardian.com/politics/2026/mar/22/evgeny-lebedev-ian-botham-lowest-lords-attendance-peers",
-        "summary": "Figures seen by the Guardian show the two peers each attended just 1.12% of sessions in past four yearsEvgeny Lebedevs longstanding commitment to being the most relaxed member of the House of Lords ha...",
+        "title": "James Cleverly says he disagrees with Nick Timothy about Islamic public prayer",
+        "link": "https://www.theguardian.com/politics/2026/mar/22/james-cleverly-disagrees-nick-timothy-islamic-public-prayer-trafalgar-square",
+        "summary": "Shadow justice secretary had called Trafalgar Square event an act of dominationJames Cleverly has said he disagrees with his Conservative frontbench colleague Nick Timothys assertion that public Musli...",
         "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "evgeny lebedev",
-            "ian botham",
-            "longstanding commitment"
-        ]
-    },
-    {
-        "title": "Tory chief whip reposts AI video created by far-right figure who was jailed for hate crimes",
-        "link": "https://www.theguardian.com/politics/2026/mar/22/tory-chief-whip-reposts-ai-video-created-by-far-right-figure-jailed-for-hate-crimes",
-        "summary": "Exclusive: Rebecca Harris promotes latest Crewkerne Gazette skit, created by Joshua Bonehill-Paine who says he is Tory memberThe Conservative partys chief whip has been condemned for promoting AI-gene...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 72,
-        "sentiment": "Negative",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "far-right figure",
-            "rebecca harris",
-            "crewkerne gazette"
-        ]
-    },
-    {
-        "title": "MPs threaten fresh inquiry into carers allowance scandal amid redress delays",
-        "link": "https://www.theguardian.com/society/2026/mar/22/mps-threaten-fresh-inquiry-into-carers-allowance-scandal-amid-redress-delays",
-        "summary": "Unpaid carers say they remain in limbo as DWP continues to pursue discredited repayment billsMPs have threatened to launch a fresh inquiry into the handling of the carers allowance scandal after unpai...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 55,
-        "sentiment": "Neutral",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "fresh inquiry",
-            "carers allowance scandal",
-            "redress delays"
-        ]
-    },
-    {
-        "title": "Family courts in England and Wales \u2018not good enough\u2019 for women and children, minister says",
-        "link": "https://www.theguardian.com/society/2026/mar/22/family-courts-in-england-and-wales-not-good-enough-for-women-and-children-minister-says",
-        "summary": "Problem-solving, child-focused courts to replace adversarial hearings, with earlier intervention to cut delaysFamily courts are not good enough and have treated women and children unfairly for decades...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 56,
-        "sentiment": "Negative",
-        "date": "2026-03-22",
-        "image_url": null,
-        "keywords": [
-            "family courts",
-            "adversarial hearings",
-            "government minister"
-        ]
-    },
-    {
-        "title": "Weather extremes gripping US bear climate crisis \u2018fingerprint\u2019, experts say",
-        "link": "https://www.theguardian.com/us-news/2026/mar/22/climate-crisis-march-extreme-weather",
-        "summary": "There are flooding rains in Hawaii, rare snow in Alabama and a severe heatwave in the west coastSign up for the Breaking News US email to get newsletter alerts in your inboxThe US is experiencing a st...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 66,
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "climate crisis \u2018 fingerprint \u2019",
-            "rare snow",
-            "severe heatwave"
+            "james cleverly",
+            "nick timothy",
+            "public prayer"
         ]
     },
     {
-        "title": "Excommunicated Catholic deacon still waiting on overdue appeal outcome after his son was molested by priest",
-        "link": "https://www.theguardian.com/us-news/2026/mar/22/louisiana-deacon-excoummunication-appeal",
-        "summary": "Scott Peyton left the Lafayette, Louisiana, diocese after priest admitted to abusing his son and was excommunicated months laterA Louisiana man who resigned as a Roman Catholic deacon after a priest m...",
+        "title": "\u2018Someone knows something\u2019: Guthrie family pleads for new information",
+        "link": "https://www.theguardian.com/us-news/2026/mar/22/savannah-guthrie-missing-mother-plea",
+        "summary": "Today show host Savannah Guthries family released new statement asking for help in locating missing mother, 84Savannah Guthrie and her family have released a new statement about their missing mother, ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
+        "objectivity_score": 53,
         "sentiment": "Neutral",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "catholic deacon",
-            "overdue appeal outcome",
-            "scott peyton"
+            "new information",
+            "show host",
+            "savannah guthries"
         ]
     },
     {
-        "title": "Iran social media strategy pivots to information war amid US-Israel attack",
-        "link": "https://www.theguardian.com/world/2026/mar/22/iran-social-media-strategy-information-war-us-israel-attack",
-        "summary": "Cyber experts say influence operations in asymmetric campaign to intensify moral pressure on US and IsraelMiddle East crisis live  latest updatesIran has radically overhauled its social media strategy...",
+        "title": "Suspected meteorite crashes into Houston home, officials say",
+        "link": "https://www.theguardian.com/us-news/2026/mar/22/meteorite-crashes-houston-home",
+        "summary": "Nasa confirms meteor after residents reported hearing thunder-like noises about the time the fireball was visibleA suspected meteorite crashed into a home in suburban Houston on Saturday night, accord...",
         "source": "World news | The Guardian",
-        "objectivity_score": 26,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "social media strategy pivots",
-            "information war",
-            "asymmetric campaign"
+            "meteorite crashes",
+            "confirms meteor",
+            "hearing thunder-like noises"
         ]
     },
     {
-        "title": "Hawaii urges residents to \u2018leave now\u2019 amid worst flooding in over 20 years",
-        "link": "https://www.theguardian.com/us-news/2026/mar/21/hawaii-flooding-warnings",
-        "summary": "People in hard-hit areas of Oahu and Maui told to evacuate with still more rain expected over the weekendAs Hawaii endures its worst flooding in more than 20 years, officials urged people in hard-hit ...",
+        "title": "ICE agents will be deployed to US airports on Monday to ease long lines",
+        "link": "https://www.theguardian.com/us-news/2026/mar/22/ice-agents-us-airports",
+        "summary": "Trump and border czar Tom Homan confirm plan to assist TSA agents amid  partial government shutdown standoffDonald Trump and his border czar, Tom Homan, have confirmed that the presidents administrati...",
         "source": "World news | The Guardian",
-        "objectivity_score": 58,
-        "sentiment": "Negative",
+        "objectivity_score": 48,
+        "sentiment": "Neutral",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "years people",
-            "hard-hit areas",
-            "hard-hit areas"
+            "us airports",
+            "border czar",
+            "tom homan"
         ]
     },
     {
-        "title": "Trump threatens to send ICE to airports on Monday amid DHS funding standoff",
-        "link": "https://www.theguardian.com/us-news/2026/mar/21/trump-threatens-to-send-ice-agents-to-airports-unless-dhs-deal-reached",
-        "summary": "President attacks Radical Left Democrats after homeland security funding bill again sinks in SenateSign up for the Breaking News US email to get newsletter alerts in your inboxDonald Trump threatened ...",
+        "title": "Firefighting departments close in some US states amid lack of volunteers",
+        "link": "https://www.theguardian.com/us-news/2026/mar/22/us-fire-departments-volunteer-firefighters",
+        "summary": "About 65% of US firefighters are volunteers, as New York state says number has fallen to lowest level in 40 yearsOfficials have warned of serious consequences after the number of volunteer firefighter...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
         "date": "2026-03-22",
         "image_url": null,
         "keywords": [
-            "standoff president attacks",
-            "radical left",
-            "homeland security"
+            "us states",
+            "us firefighters",
+            "serious consequences"
+        ]
+    },
+    {
+        "title": "Charges dropped against woman in anti-ICE church protest over mistaken identity",
+        "link": "https://www.theguardian.com/us-news/2026/mar/22/charges-dropped-against-woman-minnesota-church-protest",
+        "summary": "Heather Danae Lewis who was one of 30 people charged in Minnesota church protest showed she did not attend eventFederal prosecutors have dropped criminal charges against a woman accused of participati...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-03-22",
+        "image_url": null,
+        "keywords": [
+            "anti-ice church",
+            "mistaken identity",
+            "heather danae lewis"
         ]
     }
 ]
