@@ -737,18 +737,18 @@
         ]
     },
     {
-        "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
-        "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
-        "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
+        "title": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike",
+        "link": "https://www.bbc.com/news/articles/c62lx8ek9x9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Jawad Younes and his uncle Ragheb were laid to rest on Saturday after their family compound was hit a day earlier.",
         "source": "BBC News",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "war splits",
-            "pressure builds",
-            "exit ramp"
+            "family bury child",
+            "jawad younes",
+            "family compound"
         ]
     },
     {
@@ -765,77 +765,62 @@
         ]
     },
     {
-        "title": "Parkinson's drugs warnings review after some patients 'misled' over impulsive side effects",
-        "link": "https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss",
-        "summary": "Warnings for dopamine agonist drugs are to be reviewed after BBC identified an error in patient leaflets.",
+        "title": "Another car crash and another arrest - what now for Tiger Woods?",
+        "link": "https://www.bbc.com/sport/golf/articles/cn5322p5k99o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC golf correspondent Iain Carter assesses where Tiger Woods' latest arrest leaves his legacy.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "car crash",
+            "tiger woods",
+            "golf correspondent"
+        ]
+    },
+    {
+        "title": "'I was naive,' says minister who quit over Labour Together claims",
+        "link": "https://www.bbc.com/news/articles/cy8135ny182o?at_medium=RSS&at_campaign=rss",
+        "summary": "Josh Simons resigned after facing claims a think tank he used to run commissioned a report into journalists' backgrounds.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "labour together",
+            "josh simons"
+        ]
+    },
+    {
+        "title": "Drone footage shows huge fire engulf historic mill",
+        "link": "https://www.bbc.com/news/articles/c1w40e82w98o?at_medium=RSS&at_campaign=rss",
+        "summary": "The former silk mill has been derelict since 2007 and has attracted anti-social behaviour.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "footage shows",
+            "huge fire engulf",
+            "historic mill"
+        ]
+    },
+    {
+        "title": "Where have weekend jobs for teenagers gone?",
+        "link": "https://www.bbc.com/news/articles/cwywxlvelevo?at_medium=RSS&at_campaign=rss",
+        "summary": "Youth unemployment and minimum wage increases are causing teens to be squeezed out of job market.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "'s drugs warnings review",
-            "impulsive side",
-            "dopamine agonist drugs"
-        ]
-    },
-    {
-        "title": "What now for Tiger Woods after latest arrest?",
-        "link": "https://www.bbc.com/sport/golf/articles/cn5322p5k99o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC golf correspondent Iain Carter assesses where Tiger Woods' latest arrest leaves his legacy.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "tiger woods",
-            "golf correspondent",
-            "iain carter"
-        ]
-    },
-    {
-        "title": "Video shows US missile likely used in deadly strike on Iranian town, experts say",
-        "link": "https://www.bbc.com/news/articles/cx29mzmwdw2o?at_medium=RSS&at_campaign=rss",
-        "summary": "The analysts identified a Precision Strike Missile (PrSM) in footage of the strike on the southern town of Lamerd.",
-        "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "shows us missile",
-            "precision strike missile",
-            "southern town"
-        ]
-    },
-    {
-        "title": "Tiramisu hot cross buns, doughnut eggs: Have Easter treats gone too far?",
-        "link": "https://www.bbc.com/news/articles/clyenwrz23go?at_medium=RSS&at_campaign=rss",
-        "summary": "With the cost of living rising, shoppers give us their thoughts about the new versions of the Easter classics.",
-        "source": "BBC News",
-        "objectivity_score": 57,
-        "sentiment": "Positive",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "hot cross buns",
-            "doughnut eggs",
-            "have easter"
-        ]
-    },
-    {
-        "title": "I escaped North Korea with my mum. Now I'm terrified she might be sent back",
-        "link": "https://www.bbc.com/news/articles/c239n93ejm8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Geumseong survived a dangerous journey to South Korea, but his mother is stuck in a Chinese prison and may be forcibly repatriated.",
-        "source": "BBC News",
-        "objectivity_score": 47,
-        "sentiment": "Neutral",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "dangerous journey",
-            "chinese prison"
+            "weekend jobs",
+            "youth unemployment",
+            "minimum wage increases"
         ]
     },
     {
@@ -854,6 +839,50 @@
         ]
     },
     {
+        "title": "Tiramisu hot cross buns, doughnut eggs: Have Easter treats gone too far?",
+        "link": "https://www.bbc.com/news/articles/clyenwrz23go?at_medium=RSS&at_campaign=rss",
+        "summary": "With the cost of living rising, shoppers give us their thoughts about the new versions of the Easter classics.",
+        "source": "BBC News",
+        "objectivity_score": 57,
+        "sentiment": "Positive",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "hot cross buns",
+            "doughnut eggs",
+            "have easter"
+        ]
+    },
+    {
+        "title": "Parkinson's drugs warnings review after some patients 'misled' over impulsive side effects",
+        "link": "https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss",
+        "summary": "Warnings for dopamine agonist drugs are to be reviewed after BBC identified an error in patient leaflets.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "'s drugs warnings review",
+            "impulsive side",
+            "dopamine agonist drugs"
+        ]
+    },
+    {
+        "title": "I escaped North Korea with my mum. Now I'm terrified she might be sent back",
+        "link": "https://www.bbc.com/news/articles/c239n93ejm8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Geumseong survived a dangerous journey to South Korea, but his mother is stuck in a Chinese prison and may be forcibly repatriated.",
+        "source": "BBC News",
+        "objectivity_score": 47,
+        "sentiment": "Neutral",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "dangerous journey",
+            "chinese prison"
+        ]
+    },
+    {
         "title": "'We're having a moment' - fear and denial in Silicon Valley over social media addiction trial",
         "link": "https://www.bbc.com/news/articles/c86e3eglv2go?at_medium=RSS&at_campaign=rss",
         "summary": "The landmark decision in an LA court may go beyond immediate impacts on defendants Meta and YouTube.",
@@ -869,31 +898,33 @@
         ]
     },
     {
-        "title": "No new meningitis cases in a week - but the threat might not be over",
-        "link": "https://www.bbc.com/news/articles/c93eqvxydzqo?at_medium=RSS&at_campaign=rss",
-        "summary": "The worst seems to be over, but questions remain about why this happened and whether it could happen again.",
+        "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+        "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
+        "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
         "source": "BBC News",
-        "objectivity_score": 72,
-        "sentiment": "Negative",
+        "objectivity_score": 27,
+        "sentiment": "Positive",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "new meningitis cases"
+            "war splits",
+            "pressure builds",
+            "exit ramp"
         ]
     },
     {
-        "title": "Where have weekend jobs for teenagers gone?",
-        "link": "https://www.bbc.com/news/articles/cwywxlvelevo?at_medium=RSS&at_campaign=rss",
-        "summary": "Youth unemployment and minimum wage increases are causing teens to be squeezed out of job market.",
+        "title": "Video shows US missile likely used in deadly strike on Iranian town, experts say",
+        "link": "https://www.bbc.com/news/articles/cx29mzmwdw2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The analysts identified a Precision Strike Missile (PrSM) in footage of the strike on the southern town of Lamerd.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 46,
         "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "weekend jobs",
-            "youth unemployment",
-            "minimum wage increases"
+            "shows us missile",
+            "precision strike missile",
+            "southern town"
         ]
     },
     {
@@ -926,61 +957,31 @@
         ]
     },
     {
-        "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
-        "link": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
-        "summary": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.",
+        "title": "Thousands gather for anti far-right march in London",
+        "link": "https://www.bbc.com/news/articles/cm2rn03ryz8o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Together Alliance march has been backed by several high-profile celebrities.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "'my daughter",
-            "civilian toll",
-            "strikes rises"
+            "far-right march",
+            "alliance march",
+            "high-profile celebrities"
         ]
     },
     {
-        "title": "Why is it so hard to pass through the Strait of Hormuz?",
-        "link": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Paul Adams explains why it is so dangerous to navigate the strait, one of the world's busiest oil shipping channels.",
-        "source": "BBC News",
-        "objectivity_score": 72,
-        "sentiment": "Negative",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "paul adams",
-            "world 's busiest oil shipping channels"
-        ]
-    },
-    {
-        "title": "New EU border checks delayed again over tech issues",
-        "link": "https://www.bbc.com/news/articles/c33l77k88vyo?at_medium=RSS&at_campaign=rss",
-        "summary": "The new system was due to be fully implemented at the Eurotunnel and Port of Dover on 10 April.",
-        "source": "BBC News",
-        "objectivity_score": 42,
-        "sentiment": "Neutral",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "border checks",
-            "tech issues",
-            "new system"
-        ]
-    },
-    {
-        "title": "Gaza peace doubts deepen as attention shifts to Iran",
-        "link": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
-        "summary": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
+        "title": "Looksmaxxing influencer Clavicular arrested on battery charge",
+        "link": "https://www.bbc.com/news/articles/cr513g72vqgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Peters is accused of instigating a fight between two women and then posting a video of it online, authorities say.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "peace doubts deepen",
-            "attention shifts"
+            "battery charge"
         ]
     },
     {
@@ -999,7 +1000,7 @@
         ]
     },
     {
-        "title": "When and why do the clocks go forward?",
+        "title": "When and why the clocks go forward",
         "link": "https://www.bbc.com/weather/articles/c8xye522g9xo?at_medium=RSS&at_campaign=rss",
         "summary": "Lighter evenings are incoming. The clocks go forward on Sunday marking a big step towards warmer months and longer days.",
         "source": "BBC News",
@@ -1013,45 +1014,100 @@
         ]
     },
     {
-        "title": "Ultrasound delays putting pregnant women and cancer patients at risk, sonographers say",
-        "link": "https://www.bbc.com/news/articles/cd7jdp9gxjdo?at_medium=RSS&at_campaign=rss",
-        "summary": "Demand for ultrasound has increased but too few people are being trained for the job, sonographers warn.",
+        "title": "Twenty-two migrants die off Greek coast after six days at sea",
+        "link": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss",
+        "summary": "Poor weather and a lack of food and water contributed to the deaths, the Greek coastguard says.",
         "source": "BBC News",
-        "objectivity_score": 30,
+        "objectivity_score": 20,
+        "sentiment": "Negative",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "greek coast",
+            "greek coastguard"
+        ]
+    },
+    {
+        "title": "Senegal parade Afcon trophy despite title controversy",
+        "link": "https://www.bbc.com/sport/football/articles/cqxl0gj9787o?at_medium=RSS&at_campaign=rss",
+        "summary": "Senegal parade the Africa Cup of Nations trophy before Saturday's friendly match against Peru in Paris - despite being stripped of the title earlier this month.",
+        "source": "BBC News",
+        "objectivity_score": 36,
         "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "pregnant women",
-            "cancer patients"
+            "title controversy"
         ]
     },
     {
-        "title": "Arrest after major fire tears through historic mill",
-        "link": "https://www.bbc.com/news/articles/c1w40e82w98o?at_medium=RSS&at_campaign=rss",
-        "summary": "The former silk mill has been derelict since 2007 and has attracted anti-social behaviour.",
+        "title": "Fresh delay for new EU border checks at Dover",
+        "link": "https://www.bbc.com/news/articles/c33l77k88vyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The new system was due to be fully implemented at the Eurotunnel and Port of Dover on 10 April.",
         "source": "BBC News",
-        "objectivity_score": 12,
-        "sentiment": "Neutral",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "major fire tears",
-            "historic mill",
-            "silk mill"
-        ]
-    },
-    {
-        "title": "Maldives tells UK it does not recognise Chagos Islands deal with Mauritius",
-        "link": "https://www.bbc.com/news/articles/c74vedxjq8zo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Maldives is threatening international legal action to press its claim for control of the Chagos Islands.",
-        "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 44,
         "sentiment": "Positive",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "international legal action"
+            "fresh delay",
+            "border checks",
+            "new system"
+        ]
+    },
+    {
+        "title": "Gaza peace doubts deepen as attention shifts to Iran",
+        "link": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+        "summary": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "peace doubts deepen",
+            "attention shifts"
+        ]
+    },
+    {
+        "title": "No new meningitis cases in a week - but the threat might not be over",
+        "link": "https://www.bbc.com/news/articles/c93eqvxydzqo?at_medium=RSS&at_campaign=rss",
+        "summary": "The worst seems to be over, but questions remain about why this happened and whether it could happen again.",
+        "source": "BBC News",
+        "objectivity_score": 72,
+        "sentiment": "Negative",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "new meningitis cases"
+        ]
+    },
+    {
+        "title": "Beckhams' 'Blackpool' lighting plans irk neighbours",
+        "link": "https://www.bbc.com/news/articles/c4g4xyylneno?at_medium=RSS&at_campaign=rss",
+        "summary": "Neighbours of the Beckhams in Great Tew compare the plans to the Blackpool illuminations.",
+        "source": "BBC News",
+        "objectivity_score": 75,
+        "sentiment": "Positive",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "plans irk neighbours"
+        ]
+    },
+    {
+        "title": "Major Scottish gangland figure Steven Lyons arrested in Bali",
+        "link": "https://www.bbc.com/news/articles/cvgk157ex41o?at_medium=RSS&at_campaign=rss",
+        "summary": "It comes after police in Scotland and Spain carried out a series of simultaneous pre-dawn raids on Friday.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "scottish gangland figure",
+            "steven lyons",
+            "simultaneous pre-dawn raids"
         ]
     },
     {
@@ -1140,21 +1196,22 @@
         ]
     },
     {
-        "title": "The Week: Is There A Path To Peace?",
-        "link": "https://www.bbc.co.uk/sounds/play/p0n6h1jb?at_medium=RSS&at_campaign=rss",
-        "summary": "The US and Iran make proposals for peace, but can they actually start talking?",
+        "title": "Why Josh Simons Resigned From Government",
+        "link": "https://www.bbc.co.uk/sounds/play/p0n9cclk?at_medium=RSS&at_campaign=rss",
+        "summary": "The former minister says hed been naive and is sorry over journalist investigation.",
         "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
+        "objectivity_score": 66,
+        "sentiment": "Negative",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "news"
+            "josh simons resigned",
+            "journalist investigation"
         ]
     },
     {
         "title": "What is RFK doing to vaccines for children in America?",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct8bzb?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
         "summary": "Trumps Health Secretary hits a major setback to Make America Healthy Again",
         "source": "BBC News",
         "objectivity_score": 50,
@@ -1181,7 +1238,7 @@
         ]
     },
     {
-        "title": "What now for Woods after latest arrest?",
+        "title": "Another crash, another bleary-eyed mugshot - what now for Woods?",
         "link": "https://www.bbc.com/sport/golf/articles/cn5322p5k99o?at_medium=RSS&at_campaign=rss",
         "summary": "BBC golf correspondent Iain Carter assesses where Tiger Woods' latest arrest leaves his legacy.",
         "source": "BBC News",
@@ -1211,60 +1268,48 @@
         ]
     },
     {
-        "title": "England players will support White - Henderson",
-        "link": "https://www.bbc.com/sport/football/articles/cd0rnndx7vxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Jordan Henderson says England players will support Ben White after the Arsenal defender was booed by fans at Wembley in Friday's 1-1 draw with Uruguay.",
+        "title": "Man City 'handling pressure' of WSL title race with 'statement' win",
+        "link": "https://www.bbc.com/sport/football/articles/c3v6wdg6dq2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester City's manager Andree Jeglertz says he \"enjoyed\" his side's performance in a dominating win at Manchester United that edges them closer to a first WSL title in a decade.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "henderson jordan henderson",
-            "ben white"
-        ]
-    },
-    {
-        "title": "Mary Rand - the trailblazing Olympic champion who captured Mick Jagger's eye",
-        "link": "https://www.bbc.com/sport/athletics/articles/crr1dz940v9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Mary Rand, the first British woman to win athletics gold at the Olympics, was described as \"Marilyn Monroe on spikes\".",
-        "source": "BBC News",
-        "objectivity_score": 24,
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "mary rand",
-            "olympic champion",
-            "mick jagger"
+            "man city",
+            "title race",
+            "city 's manager"
         ]
     },
     {
-        "title": "Pidcock out of Volta a Catalunya after 'horror' crash",
-        "link": "https://www.bbc.com/sport/cycling/articles/cz78v95vl87o?at_medium=RSS&at_campaign=rss",
-        "summary": "British rider Tom Pidcock crashed into a ravine on Friday and will miss the remainder of the race.",
+        "title": "Kohli hits fifty as RCB open IPL with impressive win",
+        "link": "https://www.bbc.com/sport/cricket/articles/cg54deeq8mmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Virat Kohli hits an unbeaten 69 as Royal Challengers Bengaluru begin the defence of their Indian Premier League title by cruising past Sunrisers Hyderabad.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "british rider",
-            "tom pidcock"
+            "virat kohli",
+            "challengers bengaluru",
+            "indian premier league title"
         ]
     },
     {
-        "title": "When football turned to penalties to end 'cruel' system",
-        "link": "https://www.bbc.com/sport/football/articles/cr71enxvrd3o?at_medium=RSS&at_campaign=rss",
-        "summary": "No-one knew what to expect at football's first official penalty shootout - and no-one wanted to go down in history as the first to miss.",
+        "title": "Britain's Muir wins historic World Cup ski titles",
+        "link": "https://www.bbc.com/sport/articles/crm1jv3rvllo?at_medium=RSS&at_campaign=rss",
+        "summary": "Kirsty Muir becomes the first British woman to win both the slopestyle and overall World Cup titles by finishing second in the season finale in Switzerland.",
         "source": "BBC News",
-        "objectivity_score": 48,
-        "sentiment": "Negative",
+        "objectivity_score": 13,
+        "sentiment": "Positive",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "football 's",
-            "official penalty shootout"
+            "historic world cup ski titles",
+            "kirsty muir",
+            "british woman"
         ]
     },
     {
@@ -1328,18 +1373,18 @@
         ]
     },
     {
-        "title": "Iran War Live Updates: Iran-Backed Houthis Enter War With Missile Attack on Israel",
+        "title": "Iran War Live Updates: U.S. Marines Arrive in Middle East, as Houthis Enter War",
         "link": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil",
-        "summary": "Earlier, U.S. officials said an Iranian strike at a military base in Saudi Arabia injured 12 U.S. troops, one of the most serious breaches of American defenses since the war began.",
+        "summary": "A U.S. official said that earlier an Iranian strike at a military base in Saudi Arabia injured around two dozen U.S. troops, one of the most serious breaches of American defenses since the war began.",
         "source": "NYT > World News",
-        "objectivity_score": 46,
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
             "live updates",
-            "iran-backed houthis enter",
-            "missile attack"
+            "houthis enter",
+            "military base"
         ]
     },
     {
@@ -1475,9 +1520,23 @@
         ]
     },
     {
+        "title": "Israeli Strike Kills 3 Journalists in Southern Lebanon, Officials Say",
+        "link": "https://www.nytimes.com/2026/03/28/world/middleeast/lebanon-journalists-killed-israeli-strike.html",
+        "summary": "Israel accused one of the reporters of being a Hezbollah operative. Lebanons president said they were journalists and condemned the killings.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "israeli strike kills",
+            "say israel"
+        ]
+    },
+    {
         "title": "Pakistan Set to Host Top Regional Diplomats for Talks on Iran War",
         "link": "https://www.nytimes.com/2026/03/28/world/middleeast/iran-pakistan-diplomacy.html",
-        "summary": "The foreign ministers of Saudi Arabia, Turkey, and Egypt are expected in Islamabad on Sunday as the Pakistani government strives to find a diplomatic solution to the war.",
+        "summary": "The foreign ministers of Saudi Arabia, Turkey and Egypt are expected in Islamabad on Sunday as the Pakistani government strives to find a diplomatic solution to the war.",
         "source": "NYT > World News",
         "objectivity_score": 34,
         "sentiment": "Neutral",
@@ -1604,21 +1663,6 @@
             "trolls sling memes",
             "online trenches",
             "war officials"
-        ]
-    },
-    {
-        "title": "Europe Is Drafting Postwar Plan to Escort Tankers, Officials Say",
-        "link": "https://www.nytimes.com/2026/03/27/world/middleeast/europe-plan-escort-hormuz.html",
-        "summary": "France and Britain are leading planning to have warships escort vessels through the Strait of Hormuz, which officials say is farther along than has been revealed publicly.",
-        "source": "NYT > World News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "drafting postwar",
-            "escort tankers",
-            "say france"
         ]
     },
     {
@@ -1847,6 +1891,21 @@
         ]
     },
     {
+        "title": "Victorians get free public transport for a month in bid to ease surge in fuel demand",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/29/victoria-free-public-transport-april-petrol-prices",
+        "summary": "Allan government says measure is temporary as energy shock from Middle East conflict sees petrol prices soarGet our breaking news email, free app or daily news podcastPublic transport will be free in ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "free public transport",
+            "fuel demand",
+            "energy shock"
+        ]
+    },
+    {
         "title": "\u2018No one has had a dry run\u2019: weather warnings for storm-ravaged WA after Cyclone Narelle downgraded to tropical low",
         "link": "https://www.theguardian.com/australia-news/2026/mar/28/tropical-cyclone-narelle-wa-carnavon-exmouth-perth-bom-weather-warning-forecasts",
         "summary": "Major gas infrastructure hit by outages as weather system continues south-eastGet our breaking news email, free app or daily news podcastZac Saber did not sleep a wink as ex-Tropical Cyclone Narelle b...",
@@ -1907,33 +1966,33 @@
         ]
     },
     {
-        "title": "Weather tracker: Cold weather sweeps Europe and cyclone hits Australia",
-        "link": "https://www.theguardian.com/world/2026/mar/27/weather-tracker-cold-weather-sweeps-europe-cyclone-hits-australia",
-        "summary": "Low pressure brings unsettled conditions to southern Europe, and rain and snow to western and central areasSouthern Europe has been under a variety of severe weather warnings this week owing to widely...",
+        "title": "Two Sudanese men face court in Greece after at least 22 people die off Crete coast",
+        "link": "https://www.theguardian.com/world/2026/mar/28/22-people-die-after-six-days-adrift-in-boat-attempting-to-reach-europe-from-libya",
+        "summary": "Survivors tell coastguard smugglers ordered victims to be thrown overboard after six days adrift in boat from LibyaTwo Sudanese men, believed by Greek authorities to have been behind a smuggling opera...",
         "source": "World news | The Guardian",
-        "objectivity_score": 29,
-        "sentiment": "Neutral",
+        "objectivity_score": 23,
+        "sentiment": "Negative",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "weather sweeps",
-            "cyclone hits",
-            "australia low"
+            "coast survivors",
+            "coastguard smugglers",
+            "thrown overboard"
         ]
     },
     {
-        "title": "22 people die after six days adrift in boat attempting to reach Europe from Libya",
-        "link": "https://www.theguardian.com/world/2026/mar/28/22-people-die-after-six-days-adrift-in-boat-attempting-to-reach-europe-from-libya",
-        "summary": "Survivors tell coastguard smugglers ordered victims to be thrown overboard after running out of food and water22 people hoping to reach Europe from north Africa have died off the coast of Greece after...",
+        "title": "Police in Paris foil attempted bomb attack outside Bank of America building",
+        "link": "https://www.theguardian.com/world/2026/mar/28/paris-police-foil-attempted-bomb-attack-bank-of-america",
+        "summary": "Incident in the citys 8th arrondissement reportedly involved a homemade explosive deviceFrench police prevented an apparent bomb attack outside a US bank in Paris on Saturday when they arrested a man ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 8,
+        "objectivity_score": 15,
         "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "days adrift",
-            "coastguard smugglers",
-            "thrown overboard"
+            "bomb attack",
+            "explosive devicefrench police",
+            "apparent bomb attack"
         ]
     },
     {
@@ -1982,93 +2041,78 @@
         ]
     },
     {
-        "title": "Italy investigates beauty brands over concerns about young girls\u2019 mental health",
-        "link": "https://www.theguardian.com/world/2026/mar/27/italian-regulator-probes-sephora-benefit-cosmeticorexia-claims",
-        "summary": "Regulator fears use of covert marketing strategies by Sephora and Benefit might fuel compulsive habits  Italian regulators are investigating Sephora and Benefit Cosmetics over the apparent use of cove...",
+        "title": "Media association condemns \u2018violent assault\u2019 on CNN crew by Israeli soldiers",
+        "link": "https://www.theguardian.com/world/2026/mar/28/israeli-soldiers-cnn-crew-west-bank-foreign-press-association",
+        "summary": "CNN team detained while reporting on aftermath of attack by settlers in West Bank, Foreign Press Association saysMiddle East crisis  live updatesAn international media association has condemned what i...",
         "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "investigates beauty brands",
-            "young girls \u2019",
-            "mental health"
-        ]
-    },
-    {
-        "title": "Hundreds of organised protests show resilience of Iranian regime, experts say",
-        "link": "https://www.theguardian.com/world/2026/mar/28/iran-pro-regime-demonstrations-detained-people",
-        "summary": "More than 850 public demonstrations of support held since start of war and at least 1,400 arrests, research revealsParents of Iran school bombing victims describe their worst dayIrans regime has organ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Neutral",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "public demonstrations",
-            "research revealsparents",
-            "school bombing victims describe"
-        ]
-    },
-    {
-        "title": "Yemen\u2019s Houthis launch first attack on Israel since outbreak of conflict, as Rubio says war to end in \u2018weeks\u2019",
-        "link": "https://www.theguardian.com/world/2026/mar/27/us-expects-iran-operation-to-end-in-weeks-not-months-says-marco-rubio",
-        "summary": "Missile fired from Yemen the first since the Iran war began and came hours after the US secretary set a new timeline for the conflictMiddle East crisis  live updatesParents of Iran school bombing vict...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Neutral",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "\u2018 weeks \u2019",
-            "us secretary",
-            "new timeline"
-        ]
-    },
-    {
-        "title": "Gulf countries warn of rising threat from Iran-backed militias and proxies",
-        "link": "https://www.theguardian.com/world/2026/mar/28/gulf-countries-threat-iran-backed-militias-proxies-war-us-israel-middle-east",
-        "summary": "Fears grow that Tehran may start activating sleeper cells across Middle East as part of war with US and IsraelMiddle East crisis  live updatesParents of Iran school bombing victims describe their wors...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 45,
         "sentiment": "Negative",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "gulf countries",
-            "sleeper cells",
-            "east crisis"
+            "association condemns \u2018",
+            "violent assault \u2019",
+            "west bank"
         ]
     },
     {
-        "title": "UAE targeted with missiles and drones \u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east",
-        "summary": "This blog is closed. Follow our new liveblog hereMore now on India slashing taxes on diesel and petrol amid the global disruption in energy supplies: finance minister Nirmala Sitharaman said the move ...",
+        "title": "BBC Arabic defended as lone voice in region for giving \u2018Israeli perspective\u2019",
+        "link": "https://www.theguardian.com/media/2026/mar/28/bbc-arabic-defended-lone-voice-region-israeli-perspective",
+        "summary": "Exclusive: World Service director Fiona Crack says platform pursues stories ignored by the Gulfs state-owned mediaA senior BBC executive has defended BBC Arabic as a lone voice in the region covering ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 17,
         "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "drones \u2013",
-            "new liveblog heremore",
-            "global disruption"
+            "bbc arabic",
+            "lone voice",
+            "perspective \u2019"
         ]
     },
     {
-        "title": "Blink and miss: Trump\u2019s tactic of threats first and U-turn later is proving stale in Iran war",
-        "link": "https://www.theguardian.com/business/2026/mar/27/trump-iran-strategy-taco",
-        "summary": "Presidents move, dubbed Trump Always Chickens Out, appears to have soured as he loses hold on situation in IranMiddle East crisis  live updatesFrom Wall Street to the White House, the dish everyones t...",
+        "title": "Lebanon condemns \u2018blatant war crime\u2019 after Israel kills three journalists",
+        "link": "https://www.theguardian.com/world/2026/mar/28/lebanon-condemns-blatant-war-crime-israel-kills-three-journalists",
+        "summary": "Israeli military says primary target, killed in a missile strike far from the frontlines, was a Hezbollah terroristMiddle East crisis  live updatesIsrael killed three journalists in south Lebanon on S...",
         "source": "World news | The Guardian",
-        "objectivity_score": 24,
+        "objectivity_score": 34,
+        "sentiment": "Negative",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "condemns \u2018 blatant war crime \u2019",
+            "primary target",
+            "missile strike"
+        ]
+    },
+    {
+        "title": "Houthi forces enter Iran conflict with missile attacks on Israeli military sites",
+        "link": "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites",
+        "summary": "Escalation represents dangerous spread of war and brings threat of even more damage to the global economyMiddle East crisis  live updatesParents of Iran school bombing victims describe their worst day...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 41,
+        "sentiment": "Negative",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "missile attacks",
+            "military sites",
+            "dangerous spread"
+        ]
+    },
+    {
+        "title": "As US troops sail to Middle East, how likely is Trump to order boots on the ground?",
+        "link": "https://www.theguardian.com/us-news/2026/mar/28/as-us-troops-sail-to-middle-east-how-likely-is-trump-to-order-boots-on-the-ground",
+        "summary": "Secretary of state Marco Rubio repeats administrations belief that US can achieve its aims without a ground warAmid tentative White House efforts at diplomacy to end the war in Iran, US troops have al...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 30,
         "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "\u2019 s tactic",
-            "east crisis",
-            "white house"
+            "us troops sail",
+            "order boots",
+            "marco rubio"
         ]
     },
     {
@@ -2147,153 +2191,153 @@
         ]
     },
     {
-        "title": "Crowds gather for London march against the far right \u2013 live",
+        "title": "Huge crowds take part in London march against the far right \u2013 live",
         "link": "https://www.theguardian.com/uk-news/live/2026/mar/28/london-protest-march-together-alliance-against-the-far-right-latest-news-updates",
-        "summary": "Together Alliance march begins in central London at midday; a separate event organised by the Palestine Coalition is also taking placeCo-organiser of Saturdays event, Sabby Dhalu, who is joint secreta...",
+        "summary": "Organisers claim half a million people are marching through central London, protesting against the rise of the far rightSome protesters have spoken to PA earmarking opposition to Reform UK, support fo...",
         "source": "World news | The Guardian",
         "objectivity_score": 53,
         "sentiment": "Positive",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "alliance march",
-            "separate event",
-            "palestine coalition"
+            "rightsome protesters",
+            "reform uk",
+            "racist incidents"
         ]
     },
     {
-        "title": "\u2018Our assumptions are broken\u2019: how fraudulent church data revealed AI\u2019s threat to polling",
-        "link": "https://www.theguardian.com/technology/2026/mar/28/how-fraudulent-church-data-revealed-ais-threat-to-polling",
-        "summary": "Experts say paid participants are using automated tools to generate unreliable survey responses at scaleIf you had been keeping tabs on the news about church attendance in Britain lately, you would be...",
+        "title": "Thousands march against far right in London in biggest ever multicultural protest",
+        "link": "https://www.theguardian.com/uk-news/2026/mar/28/london-far-right-march-biggest-ever-multicultural-protest",
+        "summary": "More than 100 charities, campaign groups and trade unions marched in a show of unity against far right politicsTogether Alliance march  live updatesTens of thousands of people have gathered in London ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 48,
+        "objectivity_score": 64,
         "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "fraudulent church data",
-            "\u2019 s threat",
-            "unreliable survey responses"
+            "thousands march",
+            "campaign groups",
+            "trade unions"
         ]
     },
     {
-        "title": "\u2018It was bonkers\u2019: Samba the runaway capybara inspires a wild rodent hunt",
-        "link": "https://www.theguardian.com/world/2026/mar/28/samba-runaway-capybara-search",
-        "summary": "Members of the UK public join the search after specialist dog units and thermal drones have yet to locate herBarely 24 hours after nine-month-old capybaras Samba and Tango were brought to Marwell zoo ...",
+        "title": "Reform UK\u2019s \u2018pro-family\u2019 policies are an exclusionary sham, minister says",
+        "link": "https://www.theguardian.com/politics/2026/mar/28/reform-uk-family-policies-labour-best-start-centres-olivia-bailey",
+        "summary": "Olivia Bailey says she wants Sure Start-style hubs that will be rolled out in England on Monday to be inclusive for allReform UKs pro-family policies are a sham and exclude non-traditional families, t...",
         "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "bonkers \u2019",
-            "runaway capybara inspires",
-            "wild rodent hunt members"
-        ]
-    },
-    {
-        "title": "Hundreds of North Sea licences granted by Conservatives have \u2018so far produced only 36  days worth of gas\u2019",
-        "link": "https://www.theguardian.com/business/2026/mar/28/north-sea-oil-gas-licences-conservatives",
-        "summary": "Exclusive: Findings cast doubt on claims new drilling would help cut bills and boost energy security, researchers sayHundreds of licences granted for new oil and gas projects in the North Sea under th...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 61,
+        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "north sea licences",
-            "days worth",
-            "cast doubt"
+            "reform uk",
+            "\u2019 policies",
+            "exclusionary sham"
         ]
     },
     {
-        "title": "UK \u2018weeks away\u2019 from medicine shortages if Iran war continues, experts say",
-        "link": "https://www.theguardian.com/business/2026/mar/28/uk-weeks-away-medicine-shortages-iran-war-impacts-experts-warn",
-        "summary": "Concern that supply chain disruption could hit health essentials  and prices  from painkillers to cancer treatmentMiddle East crisis  live updatesBritain is a few weeks away from medicine shortages ra...",
+        "title": "Met police investigate stabbing death near Westminster Abbey",
+        "link": "https://www.theguardian.com/uk-news/2026/mar/28/stabbing-death-westminster-abbey-london-met-police-investigate",
+        "summary": "Murder investigation launched after man, 26, killed in central London on Friday nightThe Metropolitan police have launched a murder investigation after a man was stabbed in central London on Friday ni...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 35,
         "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "\u2018 weeks",
-            "medicine shortages",
-            "chain disruption"
+            "metropolitan police",
+            "murder investigation",
+            "parliament square"
         ]
     },
     {
-        "title": "US House passes stopgap DHS funding bill after Republicans reject Senate deal",
-        "link": "https://www.theguardian.com/us-news/2026/mar/28/us-house-stopgap-dhs-funding-bill-republicans-senate",
-        "summary": "Bill passes by 213 to 203 votes in move prolonging weeks-long budget standoff that has disrupted travelUS House Republicans rejected a bipartisan Senate deal to temporarily fund the Department of Home...",
+        "title": "How EVs could be part of answer to UK\u2019s fuel reserve worries",
+        "link": "https://www.theguardian.com/environment/2026/mar/28/how-evs-could-be-part-of-answer-to-uk-fuel-reserve-worries",
+        "summary": "More use of two-way charging will earn money for owners and could avoid the need to expand North Sea oil drillingThe Iran war has sent petrol and diesel prices to their highest levels in years, sparke...",
         "source": "World news | The Guardian",
-        "objectivity_score": 71,
+        "objectivity_score": 73,
         "sentiment": "Positive",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "us house passes stopgap",
-            "reject senate",
-            "weeks-long budget standoff"
+            "\u2019 s fuel reserve worries",
+            "north sea oil drillingthe",
+            "diesel prices"
         ]
     },
     {
-        "title": "Third No Kings protests to see millions across US push back on Trump administration",
-        "link": "https://www.theguardian.com/us-news/2026/mar/28/no-kings-protests-trump",
-        "summary": "Anti-authoritarian rallies, taking place in all 50 states plus 16 countries, are expected to be biggest in US historyMillions of Americans are expected to take to the streets on Saturday for the No Ki...",
+        "title": "No Kings protests live updates: hundreds of thousands rally in cities around the world against Trump and his administration",
+        "link": "https://www.theguardian.com/us-news/live/2026/mar/28/no-kings-protests-us-trump-administration-latest-updates",
+        "summary": "More than 3,000 No Kings events scheduled across the US in third set of protests since Trump re-electionWhat to know about the third No Kings protests happening in MarchIn the year since Donald Trump ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 23,
+        "objectivity_score": 34,
+        "sentiment": "Positive",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "thousands rally",
+            "donald trump",
+            "retook office"
+        ]
+    },
+    {
+        "title": "Michigan student disciplined for protesting against war on Gaza reaches settlement with school",
+        "link": "https://www.theguardian.com/us-news/2026/mar/28/michigan-student-protesting-gaza-war-school-settlement",
+        "summary": "Teenager alleged she faced racism from teacher who told her to go back to her country for refusing to stand for pledge of allegianceA Palestinian and Arab middle school student in Michigan who was pub...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 17,
         "sentiment": "Neutral",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "us historymillions",
-            "anti-authoritarian groups",
-            "labor unions"
+            "middle school student",
+            "school district",
+            "free speech rights.the teenager"
         ]
     },
     {
-        "title": "North Carolina woman forgives mom for disappearing without a word 24 years ago",
-        "link": "https://www.theguardian.com/us-news/2026/mar/28/north-carolina-woman-forgives-mom-for-disappearing-without-a-word-24-years-ago",
-        "summary": "Amanda Smith was reunited with her mother, Michele Hundley Smith, on Thursday after decades-long searchSign up for the Breaking News US email to get newsletter alerts in your inboxA North Carolina wom...",
+        "title": "US treasury department demands retraction of story on increased oversight of Federal Reserve",
+        "link": "https://www.theguardian.com/us-news/2026/mar/28/treasury-department-financial-times-federal-reserve",
+        "summary": "Treasury department said Financial Times article about Scott Bessents views on Fed oversight was manufactured The US treasury department demanded on Friday that the Financial Times (FT) retract a repo...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "woman forgives mom",
-            "amanda smith",
-            "michele hundley smith"
-        ]
-    },
-    {
-        "title": "House Republicans are \u2018the only thing standing\u2019 in the way of ending DHS shutdown, Hakeem Jeffries says \u2013 as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/mar/27/senate-dhs-shutdown-funding-deal-trump-iran-hormuz-latest-news-updates",
-        "summary": "This live blog is now closed.Sign up for the Breaking US News emailsPeter Ticktin, an 80-year-old Florida lawyer who has various ties to Donald Trump and represents some 2020 election deniers, has bec...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-03-28",
-        "image_url": null,
-        "keywords": [
-            "hakeem jeffries",
-            "us news emailspeter",
-            "various ties"
-        ]
-    },
-    {
-        "title": "Three killed as tourist helicopter crashes on Hawaiian island of Kauai",
-        "link": "https://www.theguardian.com/us-news/2026/mar/27/hawaii-kauai-helicopter-crash",
-        "summary": "Two others injured after sightseeing aircraft comes down on remote beach on Na Pali CoastA tourist helicopter crashed on a remote beach off the coast of Kauai, Hawaii, killing three people and injurin...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
+        "objectivity_score": 16,
         "sentiment": "Negative",
         "date": "2026-03-28",
         "image_url": null,
         "keywords": [
-            "tourist helicopter crashes",
-            "hawaiian island",
-            "remote beach"
+            "us treasury department demands retraction",
+            "federal reserve treasury department",
+            "scott bessents"
+        ]
+    },
+    {
+        "title": "Two Iowans accused of lacing lasagna with drugs to cause woman\u2019s miscarriage",
+        "link": "https://www.theguardian.com/us-news/2026/mar/28/iowa-drug-laced-lasagna-pregnant-woman",
+        "summary": "Matthew Uthoff and his wife, Amber Dena Snow, allegedly gave oxycodone-laced pasta dish to unknowing victimTwo people in Iowa were accused of giving a pregnant woman a lasagna laced with narcotics wit...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "woman \u2019 s miscarriage",
+            "matthew uthoff",
+            "amber dena snow"
+        ]
+    },
+    {
+        "title": "Nine people sick from E coli linked to raw cheese from California farm, more than half of them children",
+        "link": "https://www.theguardian.com/us-news/2026/mar/28/california-dairy-e-coli-raw-cheese",
+        "summary": "Raw Farm was also linked to 2024 salmonella outbreak that sickened 165 people and deaths of two cats from bird fluA California raw milk dairy that was previously linked to a fatal outbreak of bird flu...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 49,
+        "sentiment": "Negative",
+        "date": "2026-03-28",
+        "image_url": null,
+        "keywords": [
+            "raw cheese",
+            "salmonella outbreak",
+            "bird flua"
         ]
     }
 ]
