@@ -737,7 +737,7 @@
         ]
     },
     {
-        "title": "Artemis II blasts ever closer to the far side of the Moon",
+        "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
         "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
         "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
         "source": "BBC News",
@@ -747,8 +747,38 @@
         "image_url": null,
         "keywords": [
             "artemis ii",
-            "mission 's",
-            "lunar journey"
+            "'s orbit",
+            "mission 's"
+        ]
+    },
+    {
+        "title": "Watch: Artemis II astronauts speak from space",
+        "link": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
+        "summary": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "artemis ii",
+            "artemis ii",
+            "video link"
+        ]
+    },
+    {
+        "title": "Funeral boss will pay for what he did, says baby's mum",
+        "link": "https://www.bbc.com/news/articles/cy01w2yjzr8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Jasmine Beverley's son was stillborn and his funeral was arranged by the now-disgraced Robert Bush.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "funeral boss",
+            "baby 's mum",
+            "jasmine beverley"
         ]
     },
     {
@@ -767,17 +797,30 @@
         ]
     },
     {
-        "title": "Marmalade to be rebranded in post-Brexit food deal",
-        "link": "https://www.bbc.com/news/articles/c0e53x475qjo?at_medium=RSS&at_campaign=rss",
-        "summary": "The breakfast favourite will be legally renamed when Britain aligns with new EU labelling rules.",
+        "title": "Boy, 14, shot dead and teens arrested for murder",
+        "link": "https://www.bbc.com/news/articles/cj40ekewqrgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Two teenagers and one man are arrested after a boy, 14, was shot dead in Woolwich on Thursday.",
         "source": "BBC News",
-        "objectivity_score": 32,
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "boy,"
+        ]
+    },
+    {
+        "title": "No positive drug tests during Winter Olympics, for first time in 28 years",
+        "link": "https://www.bbc.com/sport/articles/ce8jzpj6nyko?at_medium=RSS&at_campaign=rss",
+        "summary": "For the first time in 28 years, no athlete has been found to have taken a banned substance at an Olympics - so far.",
+        "source": "BBC News",
+        "objectivity_score": 55,
         "sentiment": "Positive",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "post-brexit food",
-            "breakfast favourite"
+            "positive drug tests",
+            "winter olympics"
         ]
     },
     {
@@ -796,31 +839,47 @@
         ]
     },
     {
-        "title": "Crisis staff found 'unforgivable scene' at convicted undertaker's funeral home",
-        "link": "https://www.bbc.com/news/articles/cvg33l4g88lo?at_medium=RSS&at_campaign=rss",
-        "summary": "An international crisis team was drafted in after police raided Hull's Legacy funeral home.",
+        "title": "Major Euston rail disruption across Easter weekend",
+        "link": "https://www.bbc.com/news/articles/cz0e18jjkx5o?at_medium=RSS&at_campaign=rss",
+        "summary": "West Coast Main Line services will not run to London Euston station for six days from Good Friday.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "'unforgivable scene",
-            "undertaker 's funeral home",
-            "international crisis team"
-        ]
-    },
-    {
-        "title": "Police offered support to tackle rising threats against MPs",
-        "link": "https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss",
-        "summary": "Reports of crimes against MPs have more than doubled since 2019, reaching almost 1,000 last year.",
-        "source": "BBC News",
-        "objectivity_score": 28,
+        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "police"
+            "rail disruption",
+            "west coast",
+            "main line services"
+        ]
+    },
+    {
+        "title": "Marmalades may need to be relabelled under post-Brexit food deal",
+        "link": "https://www.bbc.com/news/articles/c0e53x475qjo?at_medium=RSS&at_campaign=rss",
+        "summary": "The breakfast favourite will be legally renamed when Britain aligns with new EU labelling rules.",
+        "source": "BBC News",
+        "objectivity_score": 32,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "post-brexit food",
+            "breakfast favourite"
+        ]
+    },
+    {
+        "title": "Italy part company with manager after failing to qualify for World Cup",
+        "link": "https://www.bbc.com/sport/football/articles/cevk0mn93ejo?at_medium=RSS&at_campaign=rss",
+        "summary": "Manager Gennaro Gattuso and Italy agree to \"mutually terminate\" his contract after their failure to qualify for a third successive World Cup.",
+        "source": "BBC News",
+        "objectivity_score": 15,
+        "sentiment": "Negative",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "part company",
+            "world cup manager",
+            "gennaro gattuso"
         ]
     },
     {
@@ -838,205 +897,47 @@
         ]
     },
     {
-        "title": "Judge dismisses most of Blake Lively's claims in harassment lawsuit against Baldoni",
-        "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
-        "summary": "The judge left in place three allegations against Baldoni, meaning the civil trial will go ahead next month.",
+        "title": "When will the Iran war end? Tracing the Trump administration's timelines",
+        "link": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
+        "summary": "Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.",
         "source": "BBC News",
-        "objectivity_score": 25,
+        "objectivity_score": 75,
         "sentiment": "Positive",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "judge dismisses",
-            "blake lively",
-            "'s claims"
+            "war end",
+            "administration 's timelines experts",
+            "us presidents"
         ]
     },
     {
-        "title": "Prince William praises \u00a320m milestone for Bowelbabe fund",
-        "link": "https://www.bbc.com/news/articles/c4gvd994x15o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Bowelbabe fund, set up by Dame Deborah James in 2022, helps to support Cancer Research UK.",
+        "title": "International law experts allege violations in Iran war",
+        "link": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
+        "summary": "The White House says it is making the entire region safer by eliminating short and long-term threats.",
+        "source": "BBC News",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "international law experts allege violations",
+            "white house",
+            "entire region safer"
+        ]
+    },
+    {
+        "title": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge",
+        "link": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
+        "summary": "President Trump has warned Iran of strikes on bridges and electric power plants if its leaders do not agree to his terms to end the war.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "praises \u00a320m milestone",
-            "dame deborah james",
-            "support cancer research"
-        ]
-    },
-    {
-        "title": "BBC boss Tim Davie says it was 'very clear' Scott Mills had to go",
-        "link": "https://www.bbc.com/news/articles/cy01wd437x2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Outgoing BBC boss Davie says on his final day Scott Mills' sacking \"was a real shock to the organisation\".",
-        "source": "BBC News",
-        "objectivity_score": 59,
-        "sentiment": "Positive",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "tim davie",
-            "scott mills",
-            "outgoing bbc"
-        ]
-    },
-    {
-        "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
-        "link": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
-        "source": "BBC News",
-        "objectivity_score": 95,
-        "sentiment": "Positive",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "artemis ii",
-            "artemis ii",
-            "video link"
-        ]
-    },
-    {
-        "title": "What nearly went wrong on Nasa's space mission - and what still could",
-        "link": "https://www.bbc.com/news/articles/c36rxe9w97zo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Artemis II crew are now hurtling around the Earth's orbit, carrying out final tests and checks before they head towards the Moon.",
-        "source": "BBC News",
-        "objectivity_score": 76,
-        "sentiment": "Negative",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "'s space mission",
-            "artemis ii",
-            "'s orbit"
-        ]
-    },
-    {
-        "title": "Why isn't Artemis II landing on the Moon?",
-        "link": "https://www.bbc.com/news/videos/c3w344wyxg5o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?",
-        "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "artemis ii",
-            "lunar surface"
-        ]
-    },
-    {
-        "title": "Artemis II is in orbit - what happens next?",
-        "link": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&at_campaign=rss",
-        "summary": "What are the mission's four astronauts doing and when will they go to the Moon?",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "artemis ii",
-            "mission 's"
-        ]
-    },
-    {
-        "title": "'I ended up paying \u00a3500': Your subscription trap stories",
-        "link": "https://www.bbc.com/news/articles/cz78lv9qej4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Many readers have experienced the ordeal of cancelling a subscription.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Positive",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "subscription trap stories"
-        ]
-    },
-    {
-        "title": "The Papers: UK's 'most evil funeral director' and 'Back to the moon'",
-        "link": "https://www.bbc.com/news/articles/c3v6dz590eno?at_medium=RSS&at_campaign=rss",
-        "summary": "A funeral director pleading guilty to preventing lawful and decent burial dominates Friday's papers.",
-        "source": "BBC News",
-        "objectivity_score": 52,
-        "sentiment": "Negative",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "'s 'most",
-            "evil funeral director",
-            "funeral director"
-        ]
-    },
-    {
-        "title": "Weekly quiz: Why did bananas cause a stir in Orkney?",
-        "link": "https://www.bbc.com/news/articles/ce8j09786pdo?at_medium=RSS&at_campaign=rss",
-        "summary": "How much attention did you pay to what happened in the world over the past seven days?",
-        "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "weekly"
-        ]
-    },
-    {
-        "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-        "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "n't slept",
-            "war ordinary people",
-            "various parts"
-        ]
-    },
-    {
-        "title": "Arlo Parks: 'I got out of my head and into my body'",
-        "link": "https://www.bbc.com/news/articles/cq8wzkyxyyyo?at_medium=RSS&at_campaign=rss",
-        "summary": "The singer-songwriter found herself on the dancefloor. On a new album, she asks us to join her.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "arlo parks",
-            "new album"
-        ]
-    },
-    {
-        "title": "'We fell off the face of the earth': Dad and daughter raced across world but had to keep it secret",
-        "link": "https://www.bbc.com/news/articles/c9951jrr18no?at_medium=RSS&at_campaign=rss",
-        "summary": "Molly Clifford and her father are part of this year's line up for the BBC's Race Across the World.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Negative",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "molly clifford",
-            "year 's line",
-            "'s race"
-        ]
-    },
-    {
-        "title": "The thorny issues facing F1 over racing, qualifying and safety",
-        "link": "https://www.bbc.com/sport/formula1/articles/c4gv75ndl1xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Andrew Benson analyses what we have learned during the first month of the new F1 rules, and the problems that need to be addressed.",
-        "source": "BBC News",
-        "objectivity_score": 39,
-        "sentiment": "Positive",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "thorny issues",
-            "andrew benson"
+            "us strike",
+            "electric power plants"
         ]
     },
     {
@@ -1055,67 +956,161 @@
         ]
     },
     {
-        "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-        "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-        "summary": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.",
+        "title": "Researchers spent years interviewing 160 Bigfoot hunters - this is what they learnt",
+        "link": "https://www.bbc.com/news/articles/cvg58ydn4jpo?at_medium=RSS&at_campaign=rss",
+        "summary": "There have been thousands of reported Bigfoot sightings since it rose to prominence in the 1960s.",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "serious ...",
-            "apparent jab",
-            "us leader 's"
-        ]
-    },
-    {
-        "title": "Watch: Trump's shifting deadlines for ending Iran war",
-        "link": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC's chief international correspondent analyses the US President's latest White House address.",
-        "source": "BBC News",
-        "objectivity_score": 30,
+        "objectivity_score": 52,
         "sentiment": "Positive",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "chief international correspondent analyses",
-            "us president 's",
-            "white house address"
+            "researchers"
         ]
     },
     {
-        "title": "Iran's focus on survival means same regime still firmly in place",
-        "link": "https://www.bbc.com/news/articles/cq8wzyz998xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Tehran is showing resilience despite Trump's claims of regime change, writes BBC Persian editor Amir Azimi.",
+        "title": "'I ended up paying \u00a3500': Your subscription trap stories",
+        "link": "https://www.bbc.com/news/articles/cz78lv9qej4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Many readers have experienced the ordeal of cancelling a subscription.",
         "source": "BBC News",
-        "objectivity_score": 26,
+        "objectivity_score": 70,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "subscription trap stories"
+        ]
+    },
+    {
+        "title": "Weekly quiz: Why did bananas cause a stir in Orkney?",
+        "link": "https://www.bbc.com/news/articles/ce8j09786pdo?at_medium=RSS&at_campaign=rss",
+        "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+        "source": "BBC News",
+        "objectivity_score": 22,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "'s focus",
-            "'s claims",
-            "persian editor"
+            "weekly"
         ]
     },
     {
-        "title": "Major Euston rail disruption across Easter weekend",
-        "link": "https://www.bbc.com/news/articles/cz0e18jjkx5o?at_medium=RSS&at_campaign=rss",
-        "summary": "West Coast Main Line services will not run to London Euston station for six days from Good Friday.",
+        "title": "How does the NHS in Scotland compare with the rest of the UK?",
+        "link": "https://www.bbc.com/news/articles/c4g87rlmrnyo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Verify looks at key measures to see what progress is being made and whether Scotland can be compared with other nations.",
         "source": "BBC News",
-        "objectivity_score": 47,
+        "objectivity_score": 68,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "bbc verify",
+            "key measures"
+        ]
+    },
+    {
+        "title": "'We fell off the face of the earth': Dad and daughter raced across world but had to keep it secret",
+        "link": "https://www.bbc.com/news/articles/c9951jrr18no?at_medium=RSS&at_campaign=rss",
+        "summary": "Molly Clifford and her father are part of this year's line up for the BBC's Race Across the World.",
+        "source": "BBC News",
+        "objectivity_score": 70,
+        "sentiment": "Negative",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "molly clifford",
+            "year 's line",
+            "'s race"
+        ]
+    },
+    {
+        "title": "Arlo Parks: 'I got out of my head and into my body'",
+        "link": "https://www.bbc.com/news/articles/cq8wzkyxyyyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The singer-songwriter found herself on the dancefloor. On a new album, she asks us to join her.",
+        "source": "BBC News",
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "rail disruption",
-            "west coast",
-            "main line services"
+            "arlo parks",
+            "new album"
         ]
     },
     {
-        "title": "Who is Christopher LaNeve, set to lead the US army?",
+        "title": "The thorny issues facing F1 over racing, qualifying and safety",
+        "link": "https://www.bbc.com/sport/formula1/articles/c4gv75ndl1xo?at_medium=RSS&at_campaign=rss",
+        "summary": "Andrew Benson analyses what we have learned during the first month of the new F1 rules, and the problems that need to be addressed.",
+        "source": "BBC News",
+        "objectivity_score": 39,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "thorny issues",
+            "andrew benson"
+        ]
+    },
+    {
+        "title": "Police offered support to tackle rising threats against MPs",
+        "link": "https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Reports of crimes against MPs have more than doubled since 2019, reaching almost 1,000 last year.",
+        "source": "BBC News",
+        "objectivity_score": 28,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "police"
+        ]
+    },
+    {
+        "title": "France's Muslim gathering ban overturned by courts",
+        "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "gathering ban",
+            "police department",
+            "four-day gathering"
+        ]
+    },
+    {
+        "title": "Cuba to release more than 2,000 prisoners, as pressure from US mounts",
+        "link": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
+        "summary": "US President Trump has made clear his desire to change Cuba's leadership and has placed the country under an oil embargo.",
+        "source": "BBC News",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "us mounts us president",
+            "'s leadership",
+            "oil embargo"
+        ]
+    },
+    {
+        "title": "Judge dismisses most of Blake Lively's claims in harassment lawsuit against Baldoni",
+        "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The judge left in place three allegations against Baldoni, meaning the civil trial will go ahead next month.",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "judge dismisses",
+            "blake lively",
+            "'s claims"
+        ]
+    },
+    {
+        "title": "Who is Christopher LaNeve, set to lead the US Army?",
         "link": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss",
         "summary": "He will replace Randy George, who was asked to step down from his post by Defence Secretary Pete Hegseth.",
         "source": "BBC News",
@@ -1130,75 +1125,32 @@
         ]
     },
     {
-        "title": "Funeral fraudster who kept bodies and ashes was 'living beyond his means', ex-worker says",
-        "link": "https://www.bbc.com/news/articles/c80ddxmlm8vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Robert Bush conned the bereaved while living in luxury and enjoying foreign holidays.",
+        "title": "Fears cost of water and beer to soar as India's scorching summer hits",
+        "link": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
         "source": "BBC News",
-        "objectivity_score": 36,
+        "objectivity_score": 46,
+        "sentiment": "Negative",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "summer hits",
+            "glass bottles",
+            "raw materials"
+        ]
+    },
+    {
+        "title": "US jobs surge in March despite Iran war",
+        "link": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Employers added 178,000 jobs, far more than had expected, the Labor Department says.",
+        "source": "BBC News",
+        "objectivity_score": 63,
         "sentiment": "Positive",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "funeral fraudster",
-            "robert bush",
-            "foreign holidays"
-        ]
-    },
-    {
-        "title": "Investigation into IVF clinics in northern Cyprus after UK families given wrong sperm",
-        "link": "https://www.bbc.com/news/articles/ce9mx2ggdg3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Most of the families the BBC has spoken to have completed commercial DNA tests which have confirmed their fears.",
-        "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "wrong sperm"
-        ]
-    },
-    {
-        "title": "'Unbelievable!': Backshall overjoyed at rare sighting of orcas",
-        "link": "https://www.bbc.com/news/videos/c5y80gl0rd1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Steve Backshall spotted two of the UK's last surviving orcas which he described as one of his \"greatest British wildlife moments\".",
-        "source": "BBC News",
-        "objectivity_score": 59,
-        "sentiment": "Positive",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "steve backshall",
-            "british wildlife moments"
-        ]
-    },
-    {
-        "title": "Tiger Woods crash bodycam footage released by police",
-        "link": "https://www.bbc.com/sport/golf/articles/c393zx19xemo?at_medium=RSS&at_campaign=rss",
-        "summary": "Body camera footage showing Tiger Woods straight after he clipped a truck and rolled his car in Florida last month is released by police.",
-        "source": "BBC News",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "tiger woods",
-            "crash bodycam footage",
-            "camera footage"
-        ]
-    },
-    {
-        "title": "Fifa is charging up to $10,990 for World Cup final tickets in first open sale",
-        "link": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo?at_medium=RSS&at_campaign=rss",
-        "summary": "Fifa is charging what is thought to be the most expensive general admission price for a football match.",
-        "source": "BBC News",
-        "objectivity_score": 58,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "world cup",
-            "final tickets",
-            "open sale"
+            "us jobs surge",
+            "labor department"
         ]
     },
     {
@@ -1243,6 +1195,20 @@
         ]
     },
     {
+        "title": "Chelsea's Fernandez dropped after 'crossing a line'",
+        "link": "https://www.bbc.com/sport/football/articles/cz78l5nj4j3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Chelsea's Enzo Fernandez will sit out their next two games after he \"crossed a line\", says manager Liam Rosenior.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "enzo fernandez",
+            "liam rosenior"
+        ]
+    },
+    {
         "title": "The thorny issues facing F1 over racing, qualifying and safety",
         "link": "https://www.bbc.com/sport/formula1/articles/c4gv75ndl1xo?at_medium=RSS&at_campaign=rss",
         "summary": "Andrew Benson analyses what we have learned during the first month of the new F1 rules, and the problems that need to be addressed.",
@@ -1257,312 +1223,92 @@
         ]
     },
     {
-        "title": "Woods crash bodycam footage released by police",
-        "link": "https://www.bbc.com/sport/golf/articles/c393zx19xemo?at_medium=RSS&at_campaign=rss",
-        "summary": "Body camera footage showing Tiger Woods straight after he clipped a truck and rolled his car in Florida last month is released by police.",
+        "title": "Italy and Gattuso 'mutually terminate' contract",
+        "link": "https://www.bbc.com/sport/football/articles/cevk0mn93ejo?at_medium=RSS&at_campaign=rss",
+        "summary": "Manager Gennaro Gattuso and Italy agree to \"mutually terminate\" his contract after their failure to qualify for a third successive World Cup.",
         "source": "BBC News",
+        "objectivity_score": 15,
+        "sentiment": "Negative",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "contract manager",
+            "gennaro gattuso",
+            "successive world cup"
+        ]
+    },
+    {
+        "title": "Iran War Live Updates: Drone Hits Kuwaiti Oil Refinery in New Attack on Gulf Energy Sites",
+        "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil",
+        "summary": "The strike set several refinery units ablaze, its operator said. There was no sign of a deal to end the war after President Trump threatened to destroy Irans infrastructure.",
+        "source": "NYT > World News",
         "objectivity_score": 23,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "crash bodycam footage",
-            "camera footage",
-            "tiger woods"
+            "live updates",
+            "drone hits kuwaiti",
+            "energy sites"
         ]
     },
     {
-        "title": "'Only Lauren can match her' - Price in talks to fight Shields",
-        "link": "https://www.bbc.com/sport/boxing/articles/c4gld344v4lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Welterweight champion Lauren Price is in discussions to fight undisputed heavyweight champion Claressa Shields at middleweight.",
-        "source": "BBC News",
-        "objectivity_score": 100,
+        "title": "How Israel Is Taking Control of Southern Lebanon",
+        "link": "https://www.nytimes.com/interactive/2026/04/03/world/middleeast/israel-military-southern-lebanon-hezbollah.html",
+        "summary": "Israel says it will occupy much of southern Lebanon after its ground invasion. Heres what the Israeli military presence there looks like now.",
+        "source": "NYT > World News",
+        "objectivity_score": 3,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "shields welterweight",
-            "lauren price",
-            "undisputed heavyweight champion"
+            "lebanon israel",
+            "ground invasion",
+            "military presence"
         ]
     },
     {
-        "title": "What De Zerbi needs to do to turn Tottenham around",
-        "link": "https://www.bbc.com/sport/football/articles/cj402p5ezylo?at_medium=RSS&at_campaign=rss",
-        "summary": "Tony Pulis explores why Tottenham are in such a mess and what their new manager Roberto de Zerbi might do to change things as they seek to stay in the Premier League.",
-        "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "de zerbi",
-            "tony pulis",
-            "new manager"
-        ]
-    },
-    {
-        "title": "Sutton's FA Cup predictions v boxer Richard Riakporhe",
-        "link": "https://www.bbc.com/sport/football/articles/ce3dvdryr4zo?at_medium=RSS&at_campaign=rss",
-        "summary": "Chris Sutton takes on boxer Richard Riakporhe plus the BBC readers and AI with his predictions for this weekend's FA Cup quarter-finals.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "cup predictions v boxer",
-            "richard riakporhe chris sutton",
-            "richard riakporhe"
-        ]
-    },
-    {
-        "title": "Price wins in Manchester after Littler and Van Veen spat",
-        "link": "https://www.bbc.com/sport/darts/articles/cx2el7j729jo?at_medium=RSS&at_campaign=rss",
-        "summary": "Gerywn Price secures victory in Manchester after Gian van Veen accuses Luke Littler of being \"out of order\" on night nine of the Premier League.",
-        "source": "BBC News",
-        "objectivity_score": 20,
+        "title": "At War With Iran Again, Some Israelis Fear Conflict Is Becoming Routine",
+        "link": "https://www.nytimes.com/2026/04/03/world/middleeast/israel-war-mood.html",
+        "summary": "A majority of Israelis support the war with Iran, but many doubt that it will solve Israels long-term security problems. Some also question their prime ministers assurances and motives.",
+        "source": "NYT > World News",
+        "objectivity_score": 67,
         "sentiment": "Positive",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "van veen",
-            "gerywn price",
-            "secures victory"
+            "israelis fear",
+            "becoming routine",
+            "long-term security problems"
         ]
     },
     {
-        "title": "Thunder inflict one of Lakers' heaviest defeats",
-        "link": "https://www.bbc.com/sport/basketball/articles/cwyjexdqz34o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Oklahoma City Thunder condemn the Los Angeles Lakers to one of the heaviest defeats in their history, as Luka Doncic suffers an injury.",
-        "source": "BBC News",
+        "title": "In Syria, Kidnappings of Women and Girls Fuel a Minority Group\u2019s Fears",
+        "link": "https://www.nytimes.com/2026/04/03/world/middleeast/syria-kidnapping-alawite-woman-girls.html",
+        "summary": "A Times investigation found that abductions of women and girls from Syrias Alawite minority were more common, and more brutal, than the government has acknowledged.",
+        "source": "NYT > World News",
+        "objectivity_score": 62,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "girls fuel",
+            "group \u2019 s",
+            "syrias alawite"
+        ]
+    },
+    {
+        "title": "Could There Be a Popular Uprising in Cuba?",
+        "link": "https://www.nytimes.com/2026/04/03/world/americas/cuba-opposition-uprising.html",
+        "summary": "There is no organized opposition on the island because many critics of the regime have fled. But anti-government protests have been growing.",
+        "source": "NYT > World News",
         "objectivity_score": 70,
-        "sentiment": "Negative",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "heaviest defeats",
-            "los angeles lakers",
-            "heaviest defeats"
-        ]
-    },
-    {
-        "title": "Strikes Hit Infrastructure Sites in Iran After Trump\u2019s Threat",
-        "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news",
-        "summary": "President Trump celebrated an attack on a major highway bridge outside of Tehran after vowing to take Iran back to the Stone Ages. And a leading public health institution in the country was destroyed.",
-        "source": "NYT > World News",
-        "objectivity_score": 27,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "infrastructure sites",
-            "major highway bridge",
-            "stone ages"
-        ]
-    },
-    {
-        "title": "In a Muzzled Russia, He Still Speaks His Mind",
-        "link": "https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html",
-        "summary": "While hundreds of other journalists fled into exile after Moscows invasion of Ukraine in 2022, the Nobel Peace Prize laureate Dmitri A. Muratov stayed. But he did not stay quiet.",
-        "source": "NYT > World News",
-        "objectivity_score": 35,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "muzzled russia",
-            "peace prize laureate",
-            "dmitri a. muratov"
-        ]
-    },
-    {
-        "title": "After Sting Operation, Cousin of Bashar al-Assad Convicted in Arms for Drugs Deal",
-        "link": "https://www.nytimes.com/2026/04/02/world/middleeast/drugs-arms-syria-antoine-kassis.html",
-        "summary": "The cousin, Antoine Kassis, was found guilty of conspiracy to support a terrorist group, after trying to sell weapons from the fallen regime to a Colombian militia.",
-        "source": "NYT > World News",
-        "objectivity_score": 100,
-        "sentiment": "Negative",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "drugs deal",
-            "antoine kassis",
-            "terrorist group"
-        ]
-    },
-    {
-        "title": "China\u2019s Aiming for the Moon, and NASA Is Looking Over Its Shoulder",
-        "link": "https://www.nytimes.com/2026/04/02/world/asia/china-space-moon-nasa-artemis.html",
-        "summary": "The U.S. space agency launched a lunar flyby Wednesday, but Beijing is pursuing its own space program with formidable focus. Heres what we know about it, in photos and videos.",
-        "source": "NYT > World News",
-        "objectivity_score": 100,
         "sentiment": "Positive",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "space agency",
-            "lunar flyby",
-            "own space program"
-        ]
-    },
-    {
-        "title": "Russia Is Sending a Second Oil Tanker to Fuel-Starved Cuba",
-        "link": "https://www.nytimes.com/2026/04/02/world/americas/cuba-russia-oil-tanker.html",
-        "summary": "The announcement of a second shipment follows the arrival of a first oil tanker sent by the Kremlin earlier this week.",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "fuel-starved cuba",
-            "oil tanker"
-        ]
-    },
-    {
-        "title": "Pope Leo Returns to Tradition, Washing Priests\u2019 Feet",
-        "link": "https://www.nytimes.com/2026/04/02/world/europe/pope-leo-wash-feet-holy-thursday.html",
-        "summary": "Pope Francis washed and kissed the feet of prisoners and refugees. On Thursday, his successor performed the rite of humility and service for priests.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "pope leo returns",
-            "washing priests",
-            "feet pope francis"
-        ]
-    },
-    {
-        "title": "U.K. to Host Talks on Securing Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/04/02/world/uk-reopen-strait-of-hormuz-talks.html",
-        "summary": "It was not clear whether the talks, expected to involve dozens of countries, would satisfy President Trumps demand that other nations take a more active part in the Iran war.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "host talks",
-            "securing strait",
-            "active part"
-        ]
-    },
-    {
-        "title": "Try Living in Cape Town, Where 70% of Downtown Housing Is for Tourists",
-        "link": "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html",
-        "summary": "A shortage of affordable housing in the coastal city in South Africa has forced many people to live far outside the city center, while tourists occupy prime real estate.",
-        "source": "NYT > World News",
-        "objectivity_score": 37,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "cape town",
-            "coastal city",
-            "city center"
-        ]
-    },
-    {
-        "title": "Europe Pushes for a Gentler Internet for Children",
-        "link": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
-        "summary": "The European Union and national capitals are trying to make social media and algorithms less addictive and safer, especially for children.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "europe pushes",
-            "gentler internet",
-            "european union"
-        ]
-    },
-    {
-        "title": "Evacuated From War-Torn Gaza, 11 Toddlers Return Home to Hugs and Tears",
-        "link": "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html",
-        "summary": "The Palestinian children were born prematurely in the early days of the war and moved from a besieged hospital to Egypt. They have now returned home to the enclave, which lies in ruins.",
-        "source": "NYT > World News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "war-torn gaza",
-            "toddlers return",
-            "early days"
-        ]
-    },
-    {
-        "title": "U.S. Plans Military Expansion in Greenland",
-        "link": "https://www.nytimes.com/2026/04/01/world/europe/us-military-seeks-expansion-in-greenland.html",
-        "summary": "The Pentagon is in talks with Denmark for access to three more areas on the Arctic island. Several Greenlanders said they didnt like the idea.",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Positive",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "u.s. plans"
-        ]
-    },
-    {
-        "title": "Lost Friendships, Broken Relationships: How the War in Iran Is Dividing the Diaspora",
-        "link": "https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-diaspora.html",
-        "summary": "Amid months of protest, repression and war in their native country, Iranians living abroad are navigating their biggest rifts yet.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "lost friendships",
-            "broken relationships",
-            "diaspora amid"
-        ]
-    },
-    {
-        "title": "Every Trump Threat to Abandon NATO Hollows It Out",
-        "link": "https://www.nytimes.com/2026/04/02/world/europe/trump-nato-iran.html",
-        "summary": "Doubts that the United States would come to the aid of NATO allies increase each time, prompting Europeans to consider an alliance without Washington.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "nato allies increase"
-        ]
-    },
-    {
-        "title": "When Racism Is a Crime: Brazil Puts a Tourist on Trial for Word and Gesture",
-        "link": "https://www.nytimes.com/2026/04/01/world/americas/brazil-argentina-tourist-racism-trial.html",
-        "summary": "An Argentine woman, who is white, could face years in prison after being accused of racism. The case has set off intense debate in Argentina and Brazil.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "brazil puts",
-            "intense debate"
-        ]
-    },
-    {
-        "title": "Myanmar Junta Chief Ascends to President, Five Years After Coup",
-        "link": "https://www.nytimes.com/2026/04/03/world/asia/myanmar-president-min-aung-hlaing.html",
-        "summary": "U Min Aung Hlaings elevation to the civilian post is the conclusion of elections in the country, which were stage managed by the military.",
-        "source": "NYT > World News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "myanmar junta",
-            "coup u min aung hlaings",
-            "civilian post"
+            "popular uprising",
+            "anti-government protests"
         ]
     },
     {
@@ -1581,18 +1327,176 @@
         ]
     },
     {
-        "title": "In Syria, Kidnappings of Women and Girls Fuel a Minority Group\u2019s Fears",
-        "link": "https://www.nytimes.com/2026/04/03/world/middleeast/syria-kidnapping-alawite-woman-girls.html",
-        "summary": "A Times investigation found that abductions of women and girls from Syrias Alawite minority were more common, and more brutal, than the government has acknowledged.",
+        "title": "Myanmar Junta Chief Ascends to President, Five Years After Coup",
+        "link": "https://www.nytimes.com/2026/04/03/world/asia/myanmar-president-min-aung-hlaing.html",
+        "summary": "U Min Aung Hlaings elevation to the civilian post is the conclusion of elections in the country, which were stage managed by the military.",
         "source": "NYT > World News",
-        "objectivity_score": 62,
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "girls fuel",
-            "group \u2019 s",
-            "syrias alawite"
+            "myanmar junta",
+            "coup u min aung hlaings",
+            "civilian post"
+        ]
+    },
+    {
+        "title": "In a Muzzled Russia, He Still Speaks His Mind",
+        "link": "https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html",
+        "summary": "While hundreds of other journalists fled into exile after Moscows invasion of Ukraine in 2022, the Nobel Peace Prize laureate Dmitri A. Muratov stayed. But he did not stay quiet.",
+        "source": "NYT > World News",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "muzzled russia",
+            "peace prize laureate",
+            "dmitri a. muratov"
+        ]
+    },
+    {
+        "title": "Pope Leo Returns to Tradition, Washing Priests\u2019 Feet",
+        "link": "https://www.nytimes.com/2026/04/02/world/europe/pope-leo-wash-feet-holy-thursday.html",
+        "summary": "Pope Francis washed and kissed the feet of prisoners and refugees. On Thursday, his successor performed the rite of humility and service for priests.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "pope leo returns",
+            "washing priests",
+            "feet pope francis"
+        ]
+    },
+    {
+        "title": "China\u2019s Aiming for the Moon, and NASA Is Looking Over Its Shoulder",
+        "link": "https://www.nytimes.com/2026/04/02/world/asia/china-space-moon-nasa-artemis.html",
+        "summary": "The U.S. space agency launched a lunar flyby Wednesday, but Beijing is pursuing its own space program with formidable focus. Heres what we know about it, in photos and videos.",
+        "source": "NYT > World News",
+        "objectivity_score": 100,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "space agency",
+            "lunar flyby",
+            "own space program"
+        ]
+    },
+    {
+        "title": "After Sting Operation, Cousin of Bashar al-Assad Convicted in Arms for Drugs Deal",
+        "link": "https://www.nytimes.com/2026/04/02/world/middleeast/drugs-arms-syria-antoine-kassis.html",
+        "summary": "The cousin, Antoine Kassis, was found guilty of conspiracy to support a terrorist group, after trying to sell weapons from the fallen regime to a Colombian militia.",
+        "source": "NYT > World News",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "drugs deal",
+            "antoine kassis",
+            "terrorist group"
+        ]
+    },
+    {
+        "title": "Russia Is Sending a Second Oil Tanker to Fuel-Starved Cuba",
+        "link": "https://www.nytimes.com/2026/04/02/world/americas/cuba-russia-oil-tanker.html",
+        "summary": "The announcement of a second shipment follows the arrival of a first oil tanker sent by the Kremlin earlier this week.",
+        "source": "NYT > World News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "fuel-starved cuba",
+            "oil tanker"
+        ]
+    },
+    {
+        "title": "As H-1B Visa Program Changes, Skilled Foreign Workers Consider Leaving U.S.",
+        "link": "https://www.nytimes.com/2026/04/03/video/h-1b-visa-skilled-workers-trump.html",
+        "summary": "As the Trump administration cracks down on the H-1B visa program, which allows skilled workers like software engineers to work in the United States, foreign professionals are debating whether to stay ...",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "h-1b visa program",
+            "consider leaving u.s.",
+            "administration cracks"
+        ]
+    },
+    {
+        "title": "Try Living in Cape Town, Where 70% of Downtown Housing Is for Tourists",
+        "link": "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html",
+        "summary": "A shortage of affordable housing in the coastal city in South Africa has forced many people to live far outside the city center, while tourists occupy prime real estate.",
+        "source": "NYT > World News",
+        "objectivity_score": 37,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "cape town",
+            "coastal city",
+            "city center"
+        ]
+    },
+    {
+        "title": "Israel plans to seize control of parts of southern Lebanon.",
+        "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/israel-plans-to-seize-control-of-parts-of-southern-lebanon",
+        "summary": "",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "israel"
+        ]
+    },
+    {
+        "title": "More Infrastructure Sites in Gulf Countries Are Attacked",
+        "link": "https://www.nytimes.com/2026/04/03/world/middleeast/infrastructure-attacked-gulf-kuwait-iran.html",
+        "summary": "In Kuwait, an Iranian attack on Friday damaged a power and water desalination plant, officials said. Both sides in the Iran war have ramped up strikes on civilian targets.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "infrastructure sites",
+            "water desalination plant",
+            "civilian targets"
+        ]
+    },
+    {
+        "title": "How Do You Count 1.4 Billion People? India Is Trying.",
+        "link": "https://www.nytimes.com/2026/04/03/world/asia/india-census-population.html",
+        "summary": "Indias 2027 census will shape how wealth and power is distributed and inform policies around castes and women in the worlds most populous nation.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "populous nation"
+        ]
+    },
+    {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/heres-the-latest",
+        "summary": "",
+        "source": "NYT > World News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "here\u2019s"
         ]
     },
     {
@@ -1657,7 +1561,7 @@
     },
     {
         "title": "Iranians hold a nature festival in the shadow of war.",
-        "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranians-mark-a-nature-festival-in-the-shadow-of-war",
+        "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/iranians-mark-a-nature-festival-in-the-shadow-of-war",
         "summary": "",
         "source": "NYT > World News",
         "objectivity_score": 0,
@@ -1669,7 +1573,7 @@
         ]
     },
     {
-        "title": "Macron Criticized Trump for War in Iran and for Berating NATO Allies",
+        "title": "Macron Criticizes Trump for War in Iran and for Berating NATO Allies",
         "link": "https://www.nytimes.com/video/world/100000010818606/macron-trump-war-in-iran-nato.html",
         "summary": "President Emmanuel Macron of France on Thursday criticized President Trump for shifting his goals with the war in Iran during a trip through Asia. Mr. Macron also warned that the attacks on NATO were ...",
         "source": "NYT > World News",
@@ -1678,24 +1582,24 @@
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "macron criticized trump",
+            "macron criticizes trump",
             "emmanuel macron",
             "mr. macron"
         ]
     },
     {
-        "title": "The Race for the Future of the Moon",
-        "link": "https://www.nytimes.com/2026/04/02/world/space-artemis-us-china-trump-iran-pam-bondi.html",
-        "summary": "The Artemis II mission isnt just about science and exploration. Its part of a high-stakes space race between the U.S. and China.",
-        "source": "NYT > World News",
-        "objectivity_score": 12,
+        "title": "People of Burkina Faso should forget about democracy, says military ruler",
+        "link": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
+        "summary": "Ibrahim Traor, who took power in 2022 coup, tells state broadcaster we must tell the truth, democracy isnt for usPeople in Burkina Faso should forget about democracy as it is not for us, the military ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "artemis ii",
-            "mission isnt",
-            "high-stakes space race"
+            "burkina faso",
+            "military ruler",
+            "ibrahim traor"
         ]
     },
     {
@@ -1759,18 +1663,18 @@
         ]
     },
     {
-        "title": "Urgent action needed to prevent surge in digital violence in Africa, experts say",
-        "link": "https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say",
-        "summary": "A huge rise in internet users under the age of 30 has fuelled an increase in online violence against women and girls with devastating real-life effects, activists sayActivists and lawyers in Africa ar...",
+        "title": "Cuba to pardon more than 2,000 prisoners as US eases fuel blockade",
+        "link": "https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade",
+        "summary": "Havana calls releases a Holy Week humanitarian gesture as Russian tanker is allowed to reach oil-starved islandCuba has announced plans to pardon 2,010 prisoners as a humanitarian gesture during Holy ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 48,
+        "objectivity_score": 37,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "digital violence",
-            "huge rise",
-            "internet users"
+            "us eases fuel blockade",
+            "holy week humanitarian gesture",
+            "russian tanker"
         ]
     },
     {
@@ -1806,7 +1710,7 @@
     {
         "title": "Costa Rica strikes deal to accept third country deportees from US",
         "link": "https://www.theguardian.com/us-news/2026/apr/02/trump-costa-rica-deported-migrants-deal",
-        "summary": "Central American country to receive up to 25 migrants a day expelled as part of Trumps immigration crackdownSign up for the Breaking News US email to get newsletter alerts in your inboxThe Costa Rican...",
+        "summary": "Central American country to receive up to 25 migrants a week expelled as part of Trumps immigration crackdownSign up for the Breaking News US email to get newsletter alerts in your inboxThe Costa Rica...",
         "source": "World news | The Guardian",
         "objectivity_score": 31,
         "sentiment": "Neutral",
@@ -1831,21 +1735,6 @@
             "us lifts sanctions",
             "delcy rodr\u00edguez",
             "nicols madurothe"
-        ]
-    },
-    {
-        "title": "Stephen Lewis, Canadian politician and social activist, dies aged 88",
-        "link": "https://www.theguardian.com/world/2026/apr/01/stephen-lewis-canadian-politician-and-social-activist-dies-aged-88",
-        "summary": "Lewiss son Avi Lewis was elected leader of progressive New Democratic party a day before his fathers deathStephen Lewis, the Canadian diplomat, politician and human rights advocate, who spent decades ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "stephen lewis",
-            "canadian politician",
-            "social activist"
         ]
     },
     {
@@ -1999,6 +1888,36 @@
         ]
     },
     {
+        "title": "Trump claims Starmer is weak as he mocks PM and UK aircraft carriers",
+        "link": "https://www.theguardian.com/us-news/2026/apr/03/trump-claims-starmer-weak-mocks-pm-uk-aircraft-carriers-iran-war",
+        "summary": "Footage shows US president saying UK should be our best ally and accusing PM of prevarication over sending shipsMiddle East crisis  live updatesFootage has emerged of Donald Trump mocking Keir Starmer...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "aircraft carriers",
+            "shows us president",
+            "east crisis"
+        ]
+    },
+    {
+        "title": "Storm Erminio lashes much of Greece as Saharan dust blankets Crete",
+        "link": "https://www.theguardian.com/news/2026/apr/03/storm-erminio-saharan-dust-crete-greece-italy-rain-flooding-afghanistan",
+        "summary": "South-east Italy also affected by heavy rain, and snow at higher altitudes, while deadly flooding hits AfghanistanParts of the Mediterranean have been lashed by Storm Erminio this week. Heavy rain, th...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "storm erminio",
+            "dust blankets",
+            "crete south-east italy"
+        ]
+    },
+    {
         "title": "Nuns who broke back into their Austrian convent \u2018are step closer to being able to stay\u2019",
         "link": "https://www.theguardian.com/world/2026/apr/03/nuns-who-broke-back-into-their-austrian-convent-are-step-closer-to-being-able-to-stay",
         "summary": "Plan for three nuns who escaped from care home last year to go to Rome thought to be positive sign of Vaticans decisionThree nuns who escaped from a care home to return to their convent in a castle cl...",
@@ -2044,33 +1963,33 @@
         ]
     },
     {
-        "title": "\u2018A wow moment\u2019: ancient Romanian gold helmet returned in plea deal with theft suspects",
-        "link": "https://www.theguardian.com/artanddesign/2026/apr/02/stolen-romanian-gold-helmet-recovered-netherlands",
-        "summary": "Prosecutors unveil artefact linked to lost Dacian civilisation after it was stolen from Dutch museum last yearA priceless ancient gold helmet from Romania that was stolen last year from a museum in th...",
+        "title": "Middle East crisis live: Trump calls for more time to open strait of Hormuz; Iran says it shot down US fighter jet",
+        "link": "https://www.theguardian.com/world/live/2026/apr/03/middle-east-crisis-live-trump-urges-iran-to-make-deal-after-bridge-strike",
+        "summary": "Iranian attacks reported across the Gulf as Trump tells Tehran the US will launch further strikesAuthorities in Abu Dhabi have reported two incidents of debris falling from intercepted aerial threats ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "wow moment \u2019",
-            "gold helmet",
-            "unveil artefact"
+            "us fighter jet",
+            "abu dhabi",
+            "aerial threats"
         ]
     },
     {
-        "title": "Oil price jumps and markets slide after Trump warning to Iran",
-        "link": "https://www.theguardian.com/business/2026/apr/02/oil-price-rises-markets-slide-following-trump-iran-war-address",
-        "summary": "Brent crude rises 8% as US president vows to hit Iran extremely hard over coming weeksBusiness live  latest updatesOil prices have soared after Donald Trump vowed in a televised speech to hit Iran ext...",
+        "title": "Iraqi leaders face balancing act as Iran conflict exposes deep rifts",
+        "link": "https://www.theguardian.com/world/2026/apr/03/iraq-deep-rifts-balancing-act-iran-war",
+        "summary": "Country is torn between those who hope for end to Tehrans influence and those loyal to Islamic republicOf all the countries being pulled into the US-Israeli war on Iran, it is Iraq  a country that sti...",
         "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Negative",
+        "objectivity_score": 49,
+        "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "oil price jumps",
-            "markets slide",
-            "iran brent"
+            "conflict exposes",
+            "rifts country",
+            "physical scars"
         ]
     },
     {
@@ -2119,33 +2038,18 @@
         ]
     },
     {
-        "title": "Trump warns Tehran \u2018more to follow\u2019 after strike destroys Iran\u2019s largest bridge",
-        "link": "https://www.theguardian.com/world/2026/apr/02/trump-warns-tehran-more-to-follow-after-strike-destroys-irans-largest-bridge",
-        "summary": "Eight people reported killed in attack on newly completed suspension bridge after strike splits structure in halfMiddle East crisis  live updatesDonald Trump claimed responsibility for destroying Iran...",
+        "title": "Myanmar junta chief Min Aung Hlaing appointed president after \u2018sham\u2019 election",
+        "link": "https://www.theguardian.com/world/2026/apr/03/mynanmar-junta-chief-min-aung-hlaing-profile",
+        "summary": "Min Aung Hlaing seized control five years ago and plunged Myanmar into conflict and economic chaosMin Aung Hlaing, the military general who plunged Myanmar into conflict and economic chaos when he too...",
         "source": "World news | The Guardian",
-        "objectivity_score": 29,
+        "objectivity_score": 30,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "strike destroys",
-            "suspension bridge",
-            "strike splits structure"
-        ]
-    },
-    {
-        "title": "Coalition of countries discuss \u2018every possible measure\u2019 to pressure Iran into reopening strait of Hormuz",
-        "link": "https://www.theguardian.com/world/2026/apr/02/coalition-countries-ships-strait-of-hormuz-yvette-cooper",
-        "summary": "Yvette Cooper hosts virtual summit of more than 40 countries to consider coordinated action in face of closure of vital shipping laneMiddle East crisis live  latest updatesMore than 40 countries gathe...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "possible measure \u2019",
-            "hormuz yvette cooper",
-            "hosts virtual summit"
+            "junta chief",
+            "min aung hlaing",
+            "\u2018 sham \u2019 election"
         ]
     },
     {
@@ -2209,168 +2113,153 @@
         ]
     },
     {
-        "title": "\u2018This is the saddest moment\u2019: families search for loved ones on Eid after Kabul hospital strike",
-        "link": "https://www.theguardian.com/world/2026/mar/21/kabul-hospital-strike-eid-pakistan-taliban-families-search-for-victims",
-        "summary": "At least 400 killed in Pakistans strike on drug rehab centre, Taliban say, with families searching unmarked mass gravesSohrab Faqiri spent Eid, the Muslim festival to mark the end of the fasting month...",
+        "title": "\u2018This is what you don\u2019t see in F1\u2019: the university where future race engineers are made",
+        "link": "https://www.theguardian.com/education/2026/apr/03/oxford-brookes-f1-formula-student-competition-fastest-race-car",
+        "summary": "With alumni in every F1 team, Oxford Brookes Universitys Formula Student team is the most prestigious in the countryAt the Oxford Brookes Headington campus, more than 100 students are busy building th...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "saddest moment \u2019",
-            "families search",
-            "hospital strike"
-        ]
-    },
-    {
-        "title": "Two lost 1965 Doctor Who episodes released after being found in private collection",
-        "link": "https://www.theguardian.com/tv-and-radio/2026/apr/03/two-lost-1965-doctor-who-episodes-released-after-being-found-in-private-collection",
-        "summary": "Episodes from William Hartnell era are from mostly lost 12-part adventure called The Daleks Master PlanTwo episodes of Doctor Who from the William Hartnell era, which have not been seen since 1965, ha...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
+        "objectivity_score": 41,
         "sentiment": "Positive",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "private collection",
-            "william hartnell",
-            "12-part adventure"
+            "don \u2019 t",
+            "future race engineers",
+            "oxford brookes universitys"
         ]
     },
     {
-        "title": "Contractor that cut back ancient oak in London park identified",
-        "link": "https://www.theguardian.com/uk-news/2026/apr/03/contractor-ancient-oak-whitewebbs-park-london-identified",
-        "summary": "Document shows partial felling last year, which led to legal action against Toby Carvery, was done by Ground ControlA mystery contractor who chainsawed an ancient oak in north London for the Toby Carv...",
+        "title": "It can\u2019t be them: London national lottery jackpot winner misses out on \u00a310.6m",
+        "link": "https://www.theguardian.com/uk-news/2026/apr/03/it-cant-be-them-london-national-lottery-jackpot-winner-misses-out-on-106m",
+        "summary": "Ticket bought in Bexley expires after 180-day claim period, despite extensive search for holderFor many people in south-east London, the thought of winning the lottery and becoming an overnight millio...",
         "source": "World news | The Guardian",
-        "objectivity_score": 19,
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "national lottery jackpot winner",
+            "180-day claim period",
+            "extensive search"
+        ]
+    },
+    {
+        "title": "Keir Starmer urged to ban \u2018cruel\u2019 greyhound racing in England",
+        "link": "https://www.theguardian.com/news/2026/apr/03/keir-starmer-urged-ban-greyhound-racing-england-dogs",
+        "summary": "Exclusive: Group of MPs and animal charities call for end to practice after Scotland and Wales vote to phase it outKeir Starmer is coming under pressure from backbench Labour MPs to ban the cruel prac...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 64,
+        "sentiment": "Negative",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "keir starmer",
+            "ban \u2018 cruel \u2019 greyhound",
+            "england exclusive"
+        ]
+    },
+    {
+        "title": "\u2018It has been traumatic\u2019: the Cornwall landmark left battered by Storm Goretti",
+        "link": "https://www.theguardian.com/uk-news/2026/apr/03/it-has-been-traumatic-the-cornwall-landmark-left-battered-by-storm-goretti",
+        "summary": "St Michaels Mount and the people who live near it are still healing from the scars left by storms 100mph windsThree months after Storm Goretti battered St Michaels Mount in Cornwall, the signs of the ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "ancient oak",
-            "shows partial",
-            "legal action"
+            "traumatic \u2019",
+            "storm goretti st michaels",
+            "storms 100mph windsthree months"
         ]
     },
     {
-        "title": "Birmingham city council doubles agency spending during bin strikes",
-        "link": "https://www.theguardian.com/uk-news/2026/apr/03/birmingham-city-council-doubles-agency-spending-during-bin-strikes",
-        "summary": "Unite accuses authority of trying to break industrial action as waste dispute enters second yearUnite has accused Birmingham city council of trying to break the bin strikes after analysis showed the c...",
+        "title": "Food prices spiked in March as Middle East conflict drove up energy costs, UN says",
+        "link": "https://www.theguardian.com/business/2026/apr/03/food-prices-spike-march-middle-east-conflict-drove-energy-prices-up-un-says",
+        "summary": "Biggest rises were in vegetable oil and sugar prices, which increased by 5% and 7% respectivelyVisual guide to the Gulf fertiliser blockadeFood prices rose sharply in March as war in the Middle East d...",
         "source": "World news | The Guardian",
-        "objectivity_score": 2,
+        "objectivity_score": 34,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "city council doubles agency spending",
-            "bin strikes",
-            "accuses authority"
+            "energy costs",
+            "vegetable oil",
+            "sugar prices"
         ]
     },
     {
-        "title": "NHS rehabilitation care staff shortage fails stroke patients, say health leaders",
-        "link": "https://www.theguardian.com/society/2026/apr/03/nhs-rehabiliation-care-staff-shortage-stroke-patients",
-        "summary": "People receive rehab only three to four days a week in hospital  and one to two days once they are discharged, data suggestsThe NHS is failing stroke patients and limiting their chances of recovery be...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 54,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "rehabilitation care staff shortage",
-            "stroke patients",
-            "health leaders people"
-        ]
-    },
-    {
-        "title": "UK flag-raising group leader arrested on suspicion of causing \u2018alarm and distress\u2019",
-        "link": "https://www.theguardian.com/uk-news/2026/apr/02/uk-flag-raising-group-leader-arrested-alarm-distress-raise-the-colours",
-        "summary": "Ryan Bridge is co-founder of Raise the Colours, which has been criticised for anti-immigrant rhetoric  The leader of a flag campaign group has been arrested on suspicion of causing religiously and rac...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "group leader",
-            "\u2018 alarm",
-            "distress \u2019"
-        ]
-    },
-    {
-        "title": "Middle East crisis live: Iran warns against UN vote on use of \u2018defensive force\u2019 in strait of Hormuz",
-        "link": "https://www.theguardian.com/world/live/2026/apr/03/middle-east-crisis-live-trump-urges-iran-to-make-deal-after-bridge-strike",
-        "summary": "Iranian foreign minister criticises security council vote on military protection for shipping in the strait a provocative actionFull report: Trump warns Tehran more to follow after strike destroys Ira...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "un vote",
-            "defensive force \u2019",
-            "hormuz iranian"
-        ]
-    },
-    {
-        "title": "Trump reportedly mulling more firings after removing Pam Bondi as attorney general - as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/apr/02/trump-white-house-ballroom-republicans-dhs-funding-deal-tariffs-latest-news-updates",
-        "summary": "This live blog is now closed.Trump fires Pam Bondi as attorney generalSign up for Breaking News US email alertsDuring its brief pro forma session today, the US House took no action on the funding bill...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 24,
-        "sentiment": "Neutral",
-        "date": "2026-04-03",
-        "image_url": null,
-        "keywords": [
-            "pam bondi",
-            "attorney general",
-            "closed.trump fires"
-        ]
-    },
-    {
-        "title": "Firm backed by Trump sons tries to sell drone interceptors to Gulf states being attacked by Iran",
-        "link": "https://www.theguardian.com/us-news/2026/apr/02/eric-trump-drones-gulf-states-iran",
-        "summary": "Drone-maker backed by Eric Trump and Donald Trump Jr tries to win contracts with Gulf countries protected by USA drone-maker backed by Donald Trumps two oldest sons is trying to sell to Gulf countries...",
+        "title": "Todd Blanche takes over justice department after Pam Bondi sacking \u2013 US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates",
+        "summary": "Trump announced deputy attorney general, who was his former personal attorney, would act up until permanent replacement is confirmedTrump accused of running misogynistic administration after Bondi dis...",
         "source": "World news | The Guardian",
         "objectivity_score": 39,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "sons tries",
-            "drone interceptors",
-            "gulf states"
+            "todd blanche",
+            "justice department",
+            "pam bondi"
         ]
     },
     {
-        "title": "Democrats pay visit to ICE detention facility where abuse claims rife",
-        "link": "https://www.theguardian.com/us-news/2026/apr/02/democrats-ice-detention-center",
-        "summary": "California House members tour Otay Mesa center, which has faced allegations of poor conditions and sexual assaultsTwo California lawmakers conducted an oversight visit Thursday at ICEs Otay Mesa deten...",
+        "title": "US jobs market surpassed expectations in March but February losses were worse than first reported",
+        "link": "https://www.theguardian.com/business/2026/apr/03/march-labor-market-jobs-report",
+        "summary": "Employers added 178,000 new jobs in March and unemployment rate fell to 4.3%, ahead of economists predictionsSign up for the Breaking News US email to get newsletter alerts in your inboxThe US labor m...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 49,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "detention facility",
-            "abuse claims rife",
-            "house members tour"
+            "us jobs market",
+            "new jobs",
+            "unemployment rate"
         ]
     },
     {
-        "title": "Pete Hegseth allows troops to carry personal firearms on military bases",
-        "link": "https://www.theguardian.com/us-news/2026/apr/02/hegeseth-military-service-members-firearms",
-        "summary": "Defense secretary signs memo letting members request permission to carry firearms on military installationsDefense secretary Pete Hegseth signed a memo on Thursday that would allow military service me...",
+        "title": "Trump accused of running \u2018misogynistic administration\u2019 after Bondi dismissal | First Thing",
+        "link": "https://www.theguardian.com/us-news/2026/apr/03/first-thing-trump-accused-of-running-misogynistic-administration-pam-bondi-kristi-noem",
+        "summary": "Pam Bondi and Kristi Noem only two cabinet members to be fired despite string of scandals facing male officials. Plus, why New Yorkers are swapping gas for induction stoves Dont already get First Thin...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
+        "objectivity_score": 27,
         "sentiment": "Neutral",
         "date": "2026-04-03",
         "image_url": null,
         "keywords": [
-            "pete hegseth",
-            "personal firearms",
-            "military bases defense secretary signs memo"
+            "\u2018 misogynistic administration \u2019",
+            "dismissal |",
+            "thing pam bondi"
+        ]
+    },
+    {
+        "title": "US judge rules against deporting man whose murder conviction was overturned after 44 years in prison",
+        "link": "https://www.theguardian.com/us-news/2026/apr/03/pennsylvania-murder-conviction-overturned-deportation",
+        "summary": "Decision came after hearing in which Subramanyam Vedam, 64, said he didnt kill Thomas Kinser when he was 19A judge has cleared the way for the potential release of an Indian citizen who was taken into...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Neutral",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "us judge rules",
+            "murder conviction",
+            "subramanyam vedam"
+        ]
+    },
+    {
+        "title": "Top US army officer steps down after Hegseth reportedly demanded removal",
+        "link": "https://www.theguardian.com/us-news/2026/apr/02/randy-george-pete-hegseth-us-army",
+        "summary": "Pentagon announces Randy George retiring from role as US army chief of staff, effective immediatelySign up for the Breaking News US email to get newsletter alerts in your inboxRandy George, the US arm...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 52,
+        "sentiment": "Positive",
+        "date": "2026-04-03",
+        "image_url": null,
+        "keywords": [
+            "us army officer steps",
+            "removal pentagon announces",
+            "randy george"
         ]
     }
 ]
