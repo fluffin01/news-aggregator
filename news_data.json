@@ -737,21 +737,6 @@
         ]
     },
     {
-        "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
-        "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "issues expletive-laden threat",
-            "hormuz strait",
-            "us president"
-        ]
-    },
-    {
         "title": "How rescue of US airman in remote part of Iran unfolded",
         "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
         "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
@@ -764,6 +749,19 @@
             "us airman",
             "remote part",
             "hostile territory"
+        ]
+    },
+    {
+        "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
+        "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
+        "summary": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "news"
         ]
     },
     {
@@ -782,16 +780,17 @@
         ]
     },
     {
-        "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
-        "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
-        "summary": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
+        "title": "'Two weeks will make such a difference': UK first as Northern Ireland brings in miscarriage leave",
+        "link": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Northern Ireland becomes first part of UK to bring in legal entitlement for parents affected by miscarriage at any stage of a pregnancy to have paid leave.",
         "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
+        "objectivity_score": 34,
+        "sentiment": "Positive",
         "date": "2026-04-06",
         "image_url": null,
         "keywords": [
-            "news"
+            "'two weeks",
+            "legal entitlement"
         ]
     },
     {
@@ -807,21 +806,6 @@
             "festival sponsor",
             "west backlash",
             "sir keir starmer"
-        ]
-    },
-    {
-        "title": "Family 'utterly devastated' after boy, 13, killed in crash as two charged",
-        "link": "https://www.bbc.com/news/articles/c8jkm74yvzjo?at_medium=RSS&at_campaign=rss",
-        "summary": "Noah Campbell's family say he was a \"talented, versatile sportsman\" who was \"incredibly well-liked\".",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Positive",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "noah campbell",
-            "'s family",
-            "versatile sportsman"
         ]
     },
     {
@@ -851,6 +835,21 @@
         "keywords": [
             "financial worries",
             "disability benefits"
+        ]
+    },
+    {
+        "title": "Family 'utterly devastated' after boy, 13, killed in crash as two charged",
+        "link": "https://www.bbc.com/news/articles/c8jkm74yvzjo?at_medium=RSS&at_campaign=rss",
+        "summary": "Noah Campbell's family say he was a \"talented, versatile sportsman\" who was \"incredibly well-liked\".",
+        "source": "BBC News",
+        "objectivity_score": 70,
+        "sentiment": "Positive",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "noah campbell",
+            "'s family",
+            "versatile sportsman"
         ]
     },
     {
@@ -884,33 +883,18 @@
         ]
     },
     {
-        "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
-        "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
-        "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Positive",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "pope leo",
-            "global leaders",
-            "easter mass pope leo xiv"
-        ]
-    },
-    {
-        "title": "Oil back above $110 after expletive-laden Trump threat to Iran",
+        "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
         "link": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president said Iran's bridges and power plants would be destroyed unless it opened the Strait of Hormuz.",
+        "summary": "Brent crude rose above $110 before those gains eased after a report of US-Iran talks over a potential ceasefire.",
         "source": "BBC News",
-        "objectivity_score": 5,
+        "objectivity_score": 65,
         "sentiment": "Neutral",
         "date": "2026-04-06",
         "image_url": null,
         "keywords": [
-            "us president",
-            "'s bridges",
-            "power plants"
+            "oil prices",
+            "iran brent",
+            "potential ceasefire"
         ]
     },
     {
@@ -972,7 +956,7 @@
         ]
     },
     {
-        "title": "Trump's 'expletive-laden tirade' and US airman's 'got gun' miracle escape",
+        "title": "The Papers: Trump's 'expletive-laden tirade' and US airman's 'got gun' miracle escape",
         "link": "https://www.bbc.com/news/articles/c0lekzk59z5o?at_medium=RSS&at_campaign=rss",
         "summary": "The majority of the papers lead with Donald Trump's latest threat to Iran to open the Strait of Hormuz.",
         "source": "BBC News",
@@ -1045,6 +1029,21 @@
         ]
     },
     {
+        "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
+        "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
+        "source": "BBC News",
+        "objectivity_score": 22,
+        "sentiment": "Positive",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "pope leo",
+            "global leaders",
+            "easter mass pope leo xiv"
+        ]
+    },
+    {
         "title": "Two more murder arrests after boy, 14, shot dead",
         "link": "https://www.bbc.com/news/articles/cvg0v2lgp4lo?at_medium=RSS&at_campaign=rss",
         "summary": "A man and a boy are arrested on suspicion of murder after Eghosa Ogbebor was fatally shot.",
@@ -1071,19 +1070,6 @@
             "girl 's belongings",
             "marylyn minetts",
             "school book"
-        ]
-    },
-    {
-        "title": "Do cats like being taken for walks or is it an Instagram fad?",
-        "link": "https://www.bbc.com/news/articles/cn8j3y2mr91o?at_medium=RSS&at_campaign=rss",
-        "summary": "Owners say they train their cats to walk on a lead because letting them outside alone is dangerous.",
-        "source": "BBC News",
-        "objectivity_score": 47,
-        "sentiment": "Negative",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "news"
         ]
     },
     {
@@ -1129,6 +1115,81 @@
         ]
     },
     {
+        "title": "Totti, Puyol, Maldini, Carragher - ranking football's greatest one-club men",
+        "link": "https://www.bbc.com/sport/football/articles/cqxl2w1r7rwo?at_medium=RSS&at_campaign=rss",
+        "summary": "From Francesco Totti to Matthew Le Tissier, one-club men share a rare and special bond with the fans - we've ranked the top 10 here.",
+        "source": "BBC News",
+        "objectivity_score": 74,
+        "sentiment": "Positive",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "football 's",
+            "one-club men",
+            "francesco totti"
+        ]
+    },
+    {
+        "title": "Lijnders hints at Man City departure for  Silva",
+        "link": "https://www.bbc.com/sport/football/articles/c1krz9kxrdvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester City assistant manager Pep Lijnders hints that midfielder Bernardo Silva could be leaving in the summer.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "man city departure",
+            "silva manchester",
+            "city assistant manager"
+        ]
+    },
+    {
+        "title": "Why it's time for Rose to come of age at Masters",
+        "link": "https://www.bbc.com/sport/golf/articles/c1mkz2lejk0o?at_medium=RSS&at_campaign=rss",
+        "summary": "In the field for this week's 90th Masters there will be no player seeking a first Augusta crown with a better pedigree than Justin Rose, writes Iain Carter.",
+        "source": "BBC News",
+        "objectivity_score": 68,
+        "sentiment": "Positive",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "'s time",
+            "week 's 90th",
+            "justin rose"
+        ]
+    },
+    {
+        "title": "Depression fears drove Orie's retirement decision",
+        "link": "https://www.bbc.com/sport/boxing/articles/c070klg98gmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Delicious Orie discusses his shock decision to retire from boxing and why he wants to be a role model for the younger generation.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "'s retirement decision",
+            "delicious orie",
+            "shock decision"
+        ]
+    },
+    {
+        "title": "Female coaches make huge difference - Scarratt",
+        "link": "https://www.bbc.com/sport/rugby-union/articles/c9qdxjenxgjo?at_medium=RSS&at_campaign=rss",
+        "summary": "More female coaches would be \"huge\" for women's rugby, says new Red Roses coach Emily Scarratt.",
+        "source": "BBC News",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "huge difference",
+            "female coaches",
+            "women 's rugby"
+        ]
+    },
+    {
         "title": "Leeds 'greedy to go to the next step' as Wembley awaits",
         "link": "https://www.bbc.com/sport/football/articles/cly9x7755w0o?at_medium=RSS&at_campaign=rss",
         "summary": "After a 39-year absence, Leeds are back in the FA Cup semi-finals, with supporters dreaming of a major trophy after a dramatic win over West Ham.",
@@ -1159,93 +1220,18 @@
         ]
     },
     {
-        "title": "Lijnders hints at Man City departure for  Silva",
-        "link": "https://www.bbc.com/sport/football/articles/c1krz9kxrdvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Manchester City assistant manager Pep Lijnders hints that midfielder Bernardo Silva's could be leaving in the summer.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "man city departure",
-            "silva manchester",
-            "city assistant manager"
-        ]
-    },
-    {
-        "title": "Was 11 minutes of stoppage time at West Ham excessive?",
-        "link": "https://www.bbc.com/sport/football/articles/cvge47evx0no?at_medium=RSS&at_campaign=rss",
-        "summary": "There were 11 minutes of stoppage time at the end of the second half of West Ham's FA Cup quarter-final against Leeds - but was that an excessive or an explainable amount of added time?",
-        "source": "BBC News",
-        "objectivity_score": 54,
-        "sentiment": "Negative",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "stoppage time",
-            "stoppage time",
-            "cup quarter-final"
-        ]
-    },
-    {
-        "title": "Zhao thrashes Trump to win Tour Championship",
-        "link": "https://www.bbc.com/sport/snooker/articles/cy41r7zwv9vo?at_medium=RSS&at_campaign=rss",
-        "summary": "China's Zhao Xintong thrashes world number one Judd Trump 10-3 to claim his first Tour Championship title in Manchester.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "tour championship china",
-            "zhao xintong",
-            "thrashes world number"
-        ]
-    },
-    {
-        "title": "O'Neill hails Celtic spirit as they stay in title hunt",
-        "link": "https://www.bbc.com/sport/football/articles/c93e0gxp1zyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Celtic interim manager Martin O'Neill hails his team's spirit after they battle to a crucial victory in the Scottish Premiership at Dundee.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "title hunt",
-            "interim manager",
-            "martin o'neill"
-        ]
-    },
-    {
-        "title": "MacIntyre misses out as Spaun wins Texas Open",
-        "link": "https://www.bbc.com/sport/golf/articles/cwywnxwr0y9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Scotland's Robert MacIntyre misses out on a chance to win a third PGA Tour title as he is overtaken by American JJ Spaun at the weather-interrupted Texas Open.",
-        "source": "BBC News",
-        "objectivity_score": 26,
-        "sentiment": "Positive",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "robert macintyre",
-            "pga tour",
-            "jj spaun"
-        ]
-    },
-    {
-        "title": "Iran War Live Updates: Trump Escalates Threat to Hit Iranian Power Plants After U.S. Rescues Downed Airman",
+        "title": "Trump Escalates Threat to Hit Iranian Power Plants After U.S. Rescues Downed Airman",
         "link": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news",
         "summary": "President Trump used an expletive-laden social media post to taunt Iranian leaders, saying that the United States would attack if they did not fully reopen the Strait of Hormuz.",
         "source": "NYT > World News",
-        "objectivity_score": 28,
+        "objectivity_score": 6,
         "sentiment": "Neutral",
         "date": "2026-04-06",
         "image_url": null,
         "keywords": [
-            "live updates",
             "trump escalates",
-            "iranian power plants"
+            "iranian power plants",
+            "u.s. rescues downed airman"
         ]
     },
     {
@@ -1441,6 +1427,34 @@
         ]
     },
     {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel/heres-the-latest",
+        "summary": "",
+        "source": "NYT > World News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "here\u2019s"
+        ]
+    },
+    {
+        "title": "This Is Not China\u2019s War, but Beijing Started Preparing for It Years Ago",
+        "link": "https://www.nytimes.com/2026/04/06/business/china-oil-shock-iran-war.html",
+        "summary": "Long concerned about geopolitical crises, China redoubled efforts to secure energy security when President Trump started raising the stakes in his first term.",
+        "source": "NYT > World News",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s war",
+            "beijing started preparing",
+            "years ago"
+        ]
+    },
+    {
         "title": "Here\u2019s What Happened in the War in the Middle East on Sunday",
         "link": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-israel-us-war-middle-east.html",
         "summary": "President Trump taunted Iran on social media, while strikes continued in Iran, Israel, Lebanon and some Gulf states.",
@@ -1553,32 +1567,6 @@
             "trump seems emboldened",
             "social post",
             "social media post"
-        ]
-    },
-    {
-        "title": "The Scale of the War in the Middle East in Five Maps",
-        "link": "https://www.nytimes.com/interactive/2026/04/05/world/middleeast/war-middle-east-five-maps.html",
-        "summary": "See how the area of the countries affected by the war compares with other parts of the world.",
-        "source": "NYT > World News",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "war compares"
-        ]
-    },
-    {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news/heres-the-latest",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 90,
-        "sentiment": "Positive",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "here\u2019s"
         ]
     },
     {
@@ -1807,78 +1795,78 @@
         ]
     },
     {
-        "title": "Australia news live: Petrol prices drop nearly 32 cents in a week after fuel tax cuts; BoM says Cyclone Maila may approach Queensland",
-        "link": "https://www.theguardian.com/australia-news/live/2026/apr/06/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-moira-deeming-ntwnfb",
-        "summary": "Follow todays news liveWatch American sprinter ShaCarri Richardson win her Stawell Gift heatThe Paris Olympic 100m silver medallist started from scratch but powered past the field with ease. Continue ...",
+        "title": "Diesel access remains volatile as prices rise again despite Labor\u2019s fuel tax relief",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/06/diesel-price-access-australia-fuel-volatile",
+        "summary": "Energy minister Chris Bowen says 3.4% of Australias service stations had no diesel, as of Monday, after wholesale prices surgedTrack Australias fuel prices, service station outages and shipments in ch...",
         "source": "World news | The Guardian",
-        "objectivity_score": 31,
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "prices rise",
+            "labor \u2019 s fuel tax relief",
+            "chris bowen"
+        ]
+    },
+    {
+        "title": "Track current petrol and diesel prices, service station outages and shipments \u2013 Australia's fuel crisis\u00a0in charts",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/06/petrol-diesel-price-tracker-check-fuel-australia-crisis-shortage-gas-oil-reserves-charts-graphs",
+        "summary": "How much fuel does Australia have left today, and when could we run out? Check how much petrol and diesel prices have risen near you in Sydney, Melbourne and across the country since the US and Israel...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 34,
+        "sentiment": "Neutral",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "current petrol",
+            "diesel prices",
+            "service station outages"
+        ]
+    },
+    {
+        "title": "Man\u2019s body found after being swept away in outback flood waters",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/06/mans-body-found-swept-away-innamincka-outback-australia-flood",
+        "summary": "Three-day search effort ends after 65-year-old disappeared near Innamincka in remote north-eastern South Australia on Easter SaturdayGet our breaking news email, free app or daily news podcastPolice h...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 56,
+        "sentiment": "Neutral",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "man \u2019 s body",
+            "outback flood waters",
+            "search effort ends"
+        ]
+    },
+    {
+        "title": "National auction clearance rate hits lowest point since 2022 \u2013 as it happened",
+        "link": "https://www.theguardian.com/australia-news/live/2026/apr/06/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-moira-deeming-ntwnfb",
+        "summary": "This blog is now closedWatch American sprinter ShaCarri Richardson win her Stawell Gift heatThe Paris Olympic 100m silver medallist started from scratch but powered past the field with ease. Continue ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 21,
         "sentiment": "Positive",
         "date": "2026-04-06",
         "image_url": null,
         "keywords": [
-            "prices drop",
-            "fuel tax cuts",
-            "cyclone maila"
+            "national auction clearance rate hits",
+            "american sprinter",
+            "shacarri richardson"
         ]
     },
     {
-        "title": "Australian Human Rights Commission investigates racial discrimination complaint against NSW government",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/05/alleged-racial-discrimination-by-nsw-government-investigated-by-human-rights-commission",
-        "summary": "Investigation comes after South Asian Muslim and caste-oppressed Hindu community representatives lodged formal complaintGet our breaking news email, free app or daily news podcastThe Australian Human ...",
+        "title": "Passengers forced to stand for hours on regional Victoria trains as free tickets supercharge long weekend demand",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/06/victoria-trains-free-travel-passengers-forced-stand",
+        "summary": "Reduced public holiday services and school holidays heighten pressure on network, leading to overcrowdingFollow our Australia news live blog for latest updatesGet our breaking news email, free app or ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 15,
+        "objectivity_score": 43,
         "sentiment": "Neutral",
         "date": "2026-04-06",
         "image_url": null,
         "keywords": [
-            "commission investigates",
-            "racial discrimination complaint",
-            "government investigation"
-        ]
-    },
-    {
-        "title": "Aboriginal child moved 1,700km from remote NT community should be returned, family court rules",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/06/aboriginal-child-moved-1700km-from-remote-nt-community-should-be-returned-family-court-rules-ntwnfb",
-        "summary": "Judge says boy should go back to his community to learn about stories and rituals that can only be taught on countryGet our breaking news email, free app or daily news podcastAn Aboriginal child who w...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "family court rules judge",
-            "news email",
-            "free app"
-        ]
-    },
-    {
-        "title": "They\u2019re in clouds, electric sockets and even on toast. Why do humans see faces in everyday objects?",
-        "link": "https://www.theguardian.com/science/2026/apr/06/why-humans-see-faces-everyday-objects",
-        "summary": "Human brains are designed to detect faces as quickly as possible, which can lead to the perception of false facesFaces: we see them in clouds, electrical outlets and even a $28,000 toasted sandwich sa...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 58,
-        "sentiment": "Neutral",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "electric sockets",
-            "everyday objects",
-            "human brains"
-        ]
-    },
-    {
-        "title": "Sisters of officer killed by Dezi Freeman plan to sue police for negligence, lawyer says",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/05/sisters-of-officer-killed-by-dezi-freeman-plan-to-sue-police-for-negligence-lawyer-says-ntwnfb",
-        "summary": "Dianne Thompson and Lois Kirk tell Victoria police in letter we did not expect to feel invisible after Neal Thompsons deathGet our breaking news email, free app or daily news podcastThe sisters of Nea...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 37,
-        "sentiment": "Neutral",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "dezi freeman",
-            "dianne thompson",
-            "lois kirk"
+            "free tickets supercharge",
+            "long weekend demand",
+            "public holiday services"
         ]
     },
     {
@@ -1957,18 +1945,33 @@
         ]
     },
     {
-        "title": "Middle East crisis live: Tehran warns Trump over strait of Hormuz threat; Netanyahu suggests Israel helped US rescue airman",
-        "link": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
-        "summary": "US president tells Iran: Open the Fuckin Strait, you crazy bastards, or youll be living in Hell; Israeli PM says Trump expressed his appreciation for Israels helpTrump warns Iran to reopen strait of H...",
+        "title": "Middle East crisis live: Iran warns of \u2018devastating\u2019 retaliation after Trump\u2019s expletive-laden threats over strait of Hormuz",
+        "link": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
+        "summary": "Irans parliamentary speaker decries US presidents reckless moves after his social media threats over the strait of HormuzTrump warns Iran to reopen strait of Hormuz by Tuesday or face hellUnhinged mad...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
+        "objectivity_score": 32,
         "sentiment": "Negative",
         "date": "2026-04-06",
         "image_url": null,
         "keywords": [
-            "us rescue airman us president",
-            "fuckin strait",
-            "crazy bastards"
+            "\u2019 retaliation",
+            "\u2019 s expletive-laden threats",
+            "hormuz irans"
+        ]
+    },
+    {
+        "title": "At least 15 killed in strikes on Lebanon \u2013 as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
+        "summary": "This blog has now closed. Our live coverage of the US-Israel war on Iran continues hereIranian media has claims that a US aircraft was destroyed while searching for the crew member of a missing US F-1...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 19,
+        "sentiment": "Negative",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "hereiranian media",
+            "us aircraft",
+            "crew member"
         ]
     },
     {
@@ -2014,21 +2017,6 @@
             "us rescues",
             "crew member",
             "fighter jet"
-        ]
-    },
-    {
-        "title": "Netanyahu confirms attack on petrochemical plant\u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
-        "summary": "This live blog is now closed. Our coverage of the Middle East crisis continues hereIran has executed two men convicted of membership in a banned opposition group and carrying out disruptive actions ai...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Neutral",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "confirms attack",
-            "petrochemical plant\u2013",
-            "opposition group"
         ]
     },
     {
@@ -2107,6 +2095,66 @@
         ]
     },
     {
+        "title": "Valid Euro Car Parks ticket holders chased by debt collectors",
+        "link": "https://www.theguardian.com/money/2026/apr/06/valid-euro-car-parks-ticket-holders-chased-by-debt-collectors",
+        "summary": "Even if motorists can provide evidence theyve paid for parking, they are threatened with bailiffs and courtDrivers have accused a leading car park management company of issuing false parking fines  le...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "valid euro car parks",
+            "ticket holders",
+            "debt collectors"
+        ]
+    },
+    {
+        "title": "People living with incontinence face shortage of sanitary pads as NHS limits supplies",
+        "link": "https://www.theguardian.com/society/2026/apr/06/people-living-with-incontinence-face-shortage-of-sanitary-pads-as-nhs-limits-supplies",
+        "summary": "More than half of NHS trusts have cap on availability of products, forcing patients to pay for products themselvesMillions of people across the UK living with incontinence are facing shortages of sani...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "sanitary pads",
+            "limits supplies",
+            "products themselvesmillions"
+        ]
+    },
+    {
+        "title": "Compensation for crime victims capped in 1996 not enough, say campaigners",
+        "link": "https://www.theguardian.com/law/2026/apr/06/compensation-victims-crime-capped-great-britain-lifetime-care",
+        "summary": "Figures suggest if 500,000 limit set for Great Britain 30 years ago was adjusted for inflation the maximum would be more than 1mA 30-year freeze on compensation for victims of crime should be lifted, ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 54,
+        "sentiment": "Positive",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "crime victims",
+            "1ma 30-year",
+            "injuries compensation"
+        ]
+    },
+    {
+        "title": "Sick pay rule changes to benefit up to 9.6m UK workers, TUC says",
+        "link": "https://www.theguardian.com/law/2026/apr/06/sick-pay-rule-changes-benefit-uk-workers-tuc",
+        "summary": "Union says new entitlements, part of Employment Rights Act 2025, will help lower-income householdsUp to 9.6 million UK workers are to benefit from the changes to sick pay rules, according to unions. T...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 74,
+        "sentiment": "Negative",
+        "date": "2026-04-06",
+        "image_url": null,
+        "keywords": [
+            "rule changes",
+            "new entitlements",
+            "lower-income householdsup"
+        ]
+    },
+    {
         "title": "NHS urges patients not to put off care as doctors in England prepare for strike",
         "link": "https://www.theguardian.com/society/2026/apr/06/nhs-patients-care-doctors-england-strike-bma-pay",
         "summary": "People encouraged to come forward as normal when BMA members begin industrial action over pay on TuesdayThe NHS is urging patients not to put off seeking the care they need when resident doctors press...",
@@ -2122,63 +2170,18 @@
         ]
     },
     {
-        "title": "Blue badge permits now held by 1 in 15 adults in England",
-        "link": "https://www.theguardian.com/money/2026/apr/06/blue-badge-permits-record-1-20-people-in-england",
-        "summary": "Councils urged to crack down on misuse of parking permits that help people with disabilities and health conditionsCouncils in England have been urged to crack down on the misuse of blue badge parking ...",
+        "title": "Artemis II astronauts expected to reach far side of moon on Monday",
+        "link": "https://www.theguardian.com/science/2026/apr/05/artemis-ii-astronauts-nasa-far-side-of-moon",
+        "summary": "Nasa team get deeper into space than any humans have ever venturedAstronauts on the historic Artemis II mission are expected to reach the far side of the moon on Monday, venturing deeper into space th...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 59,
         "sentiment": "Neutral",
         "date": "2026-04-06",
         "image_url": null,
         "keywords": [
-            "blue badge",
-            "england councils",
-            "health conditionscouncils"
-        ]
-    },
-    {
-        "title": "New UK farm inheritance tax rule will cause \u2018significant challenges\u2019, say accountants",
-        "link": "https://www.theguardian.com/money/2026/apr/06/new-uk-farm-inheritance-tax-rule-will-cause-significant-challenges-say-accountants",
-        "summary": "Levy on inherited farms and family businesses worth 2.5m or more comes into force 6 AprilA new inheritance tax regime for UK farms and family businesses comes into force on Monday and will present sig...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "farm inheritance tax rule",
-            "family businesses worth 2.5m",
-            "new inheritance tax regime"
-        ]
-    },
-    {
-        "title": "Hubs to help young people away from crime and into work to open in England",
-        "link": "https://www.theguardian.com/uk-news/2026/apr/06/hubs-to-help-young-people-away-from-and-into-work-to-open-in-england",
-        "summary": "Announcement of eight young futures hubs made as concerns grow over the number of knives on the streetsEight young futures youth hubs aimed at giving young people support towards work and away from st...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Neutral",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "young people",
-            "england announcement",
-            "young futures hubs"
-        ]
-    },
-    {
-        "title": "Diageo and Pepsi drop Wireless sponsorship amid criticism of Kanye West booking",
-        "link": "https://www.theguardian.com/music/2026/apr/05/kanye-west-wireless-festival-deeply-concerning-keir-starmer",
-        "summary": "Sponsors pull out after Keir Starmer calls decision to book rapper who wrote song titled Heil Hitler deeply concerningPepsi and Diageo have said they will withdraw their sponsorship of a UK music fest...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "keir starmer",
-            "calls decision",
-            "book rapper"
+            "artemis ii",
+            "artemis ii",
+            "humans before.nasa"
         ]
     },
     {
@@ -2239,21 +2242,6 @@
             "alien life \u2018",
             "heart \u2019",
             "space missions"
-        ]
-    },
-    {
-        "title": "\u2018Unhinged madman\u2019: US politicians react to Trump\u2019s expletive-laden threat to Iran",
-        "link": "https://www.theguardian.com/us-news/2026/apr/05/trump-iran-threats-politician-reactions",
-        "summary": "Marjorie Taylor Greene and Bernie Sanders among those responding with alarm to Trump writing open the fuckin strait, you crazy bastardsMiddle East crisis  live updatesSome US politicians have reacted ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 54,
-        "sentiment": "Negative",
-        "date": "2026-04-06",
-        "image_url": null,
-        "keywords": [
-            "madman \u2019",
-            "us politicians",
-            "\u2019 s expletive-laden threat"
         ]
     }
 ]
