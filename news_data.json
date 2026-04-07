@@ -737,9 +737,23 @@
         ]
     },
     {
-        "title": "Kanye West blocked from travelling to UK, government tells BBC",
+        "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
+        "link": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show.",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "steel plants",
+            "pharmaceutical facilities"
+        ]
+    },
+    {
+        "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
         "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
-        "summary": "West was due to headline London's Wireless Festival in July but drew criticism over past antisemitic comments.",
+        "summary": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
         "source": "BBC News",
         "objectivity_score": 31,
         "sentiment": "Negative",
@@ -750,33 +764,48 @@
         ]
     },
     {
-        "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
-        "link": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years.",
+        "title": "Has Artemis II shown we can land on the Moon again?",
+        "link": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
+        "summary": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?",
         "source": "BBC News",
-        "objectivity_score": 44,
-        "sentiment": "Neutral",
+        "objectivity_score": 63,
+        "sentiment": "Positive",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
             "artemis ii",
-            "crew head",
-            "artemis ii"
+            "artemis ii",
+            "test flight"
         ]
     },
     {
-        "title": "Watch: Artemis II's historic lunar flyby... in 90 seconds",
-        "link": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&at_campaign=rss",
-        "summary": "The four astronauts in the Orion spacecraft set a new record for distance travelled from Earth.",
+        "title": "Bill Gates set to testify before US Congress in Epstein investigation",
+        "link": "https://www.bbc.com/news/articles/cx2vdekdweqo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Microsoft co-founder is the latest high-profile figure to agree to testify before the committee investigating Epstein's wrongdoing.",
         "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "artemis ii",
-            "historic lunar flyby ...",
-            "new record"
+            "bill gates",
+            "high-profile figure",
+            "'s wrongdoing"
+        ]
+    },
+    {
+        "title": "Strictly star will not face rape charges, police say",
+        "link": "https://www.bbc.com/news/articles/cvgld1vjdewo?at_medium=RSS&at_campaign=rss",
+        "summary": "Detectives determined there was \"insufficient evidence\" to bring criminal charges against the unnamed man.",
+        "source": "BBC News",
+        "objectivity_score": 55,
+        "sentiment": "Negative",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "rape charges",
+            "insufficient evidence",
+            "criminal charges"
         ]
     },
     {
@@ -791,6 +820,49 @@
         "keywords": [
             "student loan interest rates",
             "postgraduate loan interest rates"
+        ]
+    },
+    {
+        "title": "Dad, 84, 'under awful stress' as son's care package set to end",
+        "link": "https://www.bbc.com/news/articles/cly0922zj0vo?at_medium=RSS&at_campaign=rss",
+        "summary": "A health trust is withdrawing a care package that helped an 84-year-old man to look after his two sons.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "'under awful stress",
+            "son 's care package",
+            "a health trust"
+        ]
+    },
+    {
+        "title": "Temperatures hit 25C making it the warmest day in the UK for six months",
+        "link": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The warmest weather of the year is expected on Tuesday and Wednesday as temperatures rise above average, as Simon King explains",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "25c making",
+            "warmest day",
+            "warmest weather"
+        ]
+    },
+    {
+        "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
+        "link": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
+        "summary": "No Israeli diplomats are currently in Turkey and the Istanbul consulate has been empty for the past two-and-a-half years.",
+        "source": "BBC News",
+        "objectivity_score": 28,
+        "sentiment": "Negative",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "past two-and-a-half years"
         ]
     },
     {
@@ -809,74 +881,33 @@
         ]
     },
     {
-        "title": "Disruption expected as six-day doctors' strike begins",
-        "link": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss",
-        "summary": "The NHS is advising patients in England to only use emergency services when necessary but attend any confirmed appointments.",
+        "title": "What the US military could do if Iran fails to meet Trump's ultimatum",
+        "link": "https://www.bbc.com/news/articles/c98kn1zlxr1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US can do a lot of damage to civilian infrastructure but military experts say it's not feasible to carry out all Trump's threats.",
         "source": "BBC News",
-        "objectivity_score": 85,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "emergency services"
-        ]
-    },
-    {
-        "title": "Warmest weather of the year expected with 25C on Wednesday",
-        "link": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&at_campaign=rss",
-        "summary": "The warmest weather of the year is expected on Tuesday and Wednesday as temperatures rise above average, as Simon King explains",
-        "source": "BBC News",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "warmest weather",
-            "temperatures rise",
-            "simon king"
-        ]
-    },
-    {
-        "title": "More than 1,700 Brits who fell ill in Cape Verde join action against Tui",
-        "link": "https://www.bbc.com/news/articles/c70d8dn1nrpo?at_medium=RSS&at_campaign=rss",
-        "summary": "Tui is investigating the claims and says it is \"not in a position to provide a statement at this stage\".",
-        "source": "BBC News",
-        "objectivity_score": 53,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "tui tui"
-        ]
-    },
-    {
-        "title": "Music giant Universal gets $64bn takeover offer",
-        "link": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
-        "summary": "The music giant behind acts such as Taylor Swift and Sabrina Carpenter gets an offer from Bill Ackman's Pershing Square.",
-        "source": "BBC News",
-        "objectivity_score": 64,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "$ 64bn takeover",
-            "taylor swift",
-            "sabrina carpenter"
-        ]
-    },
-    {
-        "title": "One dead as train travelling 99mph collides with lorry in France",
-        "link": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
-        "summary": "The lorry driver is in custody after the train driver died during the collision in northern France.",
-        "source": "BBC News",
-        "objectivity_score": 40,
+        "objectivity_score": 16,
         "sentiment": "Negative",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "99mph collides",
-            "lorry driver",
-            "train driver"
+            "'s ultimatum",
+            "civilian infrastructure",
+            "military experts"
+        ]
+    },
+    {
+        "title": "Two major airlines cut flights and hike fares as fuel prices surge",
+        "link": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Airlines have reduced services and lifted ticket costs as the Iran war weighs on jet fuel costs.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "major airlines",
+            "fuel prices surge",
+            "ticket costs"
         ]
     },
     {
@@ -908,18 +939,32 @@
         ]
     },
     {
-        "title": "Trump's deadline looms but Asian nations already have shipping route deals with Iran",
-        "link": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy.",
+        "title": "Watch: Artemis II's historic lunar flyby... in 90 seconds",
+        "link": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&at_campaign=rss",
+        "summary": "The four astronauts in the Orion spacecraft set a new record for distance travelled from Earth.",
         "source": "BBC News",
-        "objectivity_score": 16,
+        "objectivity_score": 22,
         "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "'s deadline looms",
-            "asian nations",
-            "shipping route deals"
+            "artemis ii",
+            "historic lunar flyby ...",
+            "new record"
+        ]
+    },
+    {
+        "title": "Kanye West controversies - how did we get here?",
+        "link": "https://www.bbc.com/news/articles/c9vl1pn70ddo?at_medium=RSS&at_campaign=rss",
+        "summary": "West has a history of making antisemitic remarks and other controversial comments.",
+        "source": "BBC News",
+        "objectivity_score": 66,
+        "sentiment": "Positive",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "west controversies",
+            "controversial comments"
         ]
     },
     {
@@ -938,6 +983,19 @@
         ]
     },
     {
+        "title": "Mum of twins who says home was bombed in Lebanon speaks to BBC",
+        "link": "https://www.bbc.com/news/videos/c5yx8my3724o?at_medium=RSS&at_campaign=rss",
+        "summary": "More than one million people in Lebanon have been displaced since the start of the war as Israel expands its ground operation there.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "ground operation"
+        ]
+    },
+    {
         "title": "China is winning one AI race, the US another - but either might pull ahead",
         "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
         "summary": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further.",
@@ -948,19 +1006,6 @@
         "image_url": null,
         "keywords": [
             "china"
-        ]
-    },
-    {
-        "title": "Holiday let owner says legislation will 'destroy me'",
-        "link": "https://www.bbc.com/news/articles/cly6826p8j8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Paul Martin says his only option is to \"dismantle the cottages and render them unhabitable\".",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "paul martin"
         ]
     },
     {
@@ -979,104 +1024,118 @@
         ]
     },
     {
-        "title": "Why are resident doctors striking and how much are they paid?",
-        "link": "https://www.bbc.com/news/articles/cn0qyl4ljjko?at_medium=RSS&at_campaign=rss",
-        "summary": "Resident doctors in England are striking between 7 and 13 April, the 15th walkout in a long-running dispute.",
+        "title": "Holiday let owner says legislation will 'destroy me'",
+        "link": "https://www.bbc.com/news/articles/cly6826p8j8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Paul Martin says his only option is to \"dismantle the cottages and render them unhabitable\".",
         "source": "BBC News",
-        "objectivity_score": 73,
-        "sentiment": "Positive",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "news"
+            "paul martin"
         ]
     },
     {
-        "title": "JD Vance arrives in Hungary to back Orb\u00e1n's re-election bid",
-        "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+        "title": "HMS Dragon docks after 'minor technical issue'",
+        "link": "https://www.bbc.com/news/articles/c4gxw7px8glo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Type 45 destroyer left Portsmouth last month to protect Britain's air bases in Cyprus.",
         "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
+        "objectivity_score": 9,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "hms dragon",
+            "technical issue",
+            "'s air bases"
+        ]
+    },
+    {
+        "title": "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says",
+        "link": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Kataib Hezbollah says the release comes on condition that she leave Iraq immediately.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "us journalist",
+            "shelly kittleson",
+            "kataib hezbollah"
+        ]
+    },
+    {
+        "title": "More than 1,700 Brits who fell ill in Cape Verde join action against Tui",
+        "link": "https://www.bbc.com/news/articles/c70d8dn1nrpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Tui is investigating the claims and says it is \"not in a position to provide a statement at this stage\".",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "tui tui"
+        ]
+    },
+    {
+        "title": "JD Vance backs Orb\u00e1n's re-election bid in Budapest visit and hits out at EU",
+        "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+        "summary": "US Vice-President JD Vance intervenes in the campaign to give Orbn a ringing endorsement in Budapest.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
             "jd vance",
             "'s re-election bid",
-            "us vice-president 's visit"
+            "us vice-president"
         ]
     },
     {
-        "title": "Schools in knife crime hotspots to get specialist training",
-        "link": "https://www.bbc.com/news/articles/c4gxz5zw348o?at_medium=RSS&at_campaign=rss",
-        "summary": "A new partnership will provide training for school leaders about knife-crime risk, the government says.",
+        "title": "Woman jailed for defrauding aunt out of \u00a3300k to build gym",
+        "link": "https://www.bbc.com/news/articles/cr413lknz7yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Margaret Cassidy used most of the money to convert the disused former St Kenneth's Church in Glasgow into the Sanctuary Gym.",
         "source": "BBC News",
-        "objectivity_score": 45,
+        "objectivity_score": 25,
         "sentiment": "Positive",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "knife crime hotspots",
-            "specialist training",
-            "new partnership"
+            "margaret cassidy",
+            "st kenneth",
+            "'s church"
         ]
     },
     {
-        "title": "Police officer jailed for killing woman in crash while responding to 999 call",
-        "link": "https://www.bbc.com/news/articles/c20d5g6v4z0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Mark Roberts was responding to reports of a choking baby when he hit a motorbike, a court hears.",
+        "title": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops",
+        "link": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Israel's military says troops fired at a vehicle driven by the Palestinian because they believed it posed \"an immediate threat\".",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "police officer",
-            "mark roberts",
-            "court hears"
-        ]
-    },
-    {
-        "title": "Rapper Offset shot in Florida, reports say",
-        "link": "https://www.bbc.com/news/articles/c1w4lnjej4do?at_medium=RSS&at_campaign=rss",
-        "summary": "Reports suggest the former Migos rapper is in a \"stable\" condition.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "rapper offset"
-        ]
-    },
-    {
-        "title": "Vietnam's leader To Lam strengthens power in unanimous assembly vote",
-        "link": "https://www.bbc.com/news/articles/ckgwkmn1rzxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Vietnam's communist party chief is now also the country's president - an unusual concentration of power.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Positive",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "'s leader",
-            "strengthens power",
-            "unanimous assembly vote"
-        ]
-    },
-    {
-        "title": "Girl, 11, turns marsh trees into quirky characters",
-        "link": "https://www.bbc.com/news/articles/cn0wqjxkpqxo?at_medium=RSS&at_campaign=rss",
-        "summary": "An 11yearold has spent the past year on family walks inventing backstories for each tree.",
-        "source": "BBC News",
-        "objectivity_score": 45,
+        "objectivity_score": 3,
         "sentiment": "Negative",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "marsh trees",
-            "quirky characters",
-            "past year"
+            "medical evacuations",
+            "immediate threat"
+        ]
+    },
+    {
+        "title": "Lost Joan Eardley painting found in charity shop sells for \u00a329,500",
+        "link": "https://www.bbc.com/news/articles/cr71mv1e770o?at_medium=RSS&at_campaign=rss",
+        "summary": "Staff at the shop in the East Midlands found a faded and worn label on the back of the painting, which linked it to The Scottish Gallery in Edinburgh.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "lost joan eardley",
+            "charity shop",
+            "scottish gallery"
         ]
     },
     {
@@ -1121,61 +1180,31 @@
         ]
     },
     {
-        "title": "Hearts and Celtic given potential final-day title decider",
-        "link": "https://www.bbc.com/sport/football/articles/c9qdn5zyqzgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Celtic to host Heart of Midlothian in potential final-day title decider as the Scottish Premiership's post-split fixtures are revealed.",
+        "title": "Masters tee-times for rounds one and two announced",
+        "link": "https://www.bbc.com/sport/golf/articles/crl12d8520eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Find out the tee-times for Thursday and Friday's first two rounds of the Masters at Augusta National in Georgia.",
+        "source": "BBC News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "masters"
+        ]
+    },
+    {
+        "title": "Thousands of England and Scotland World Cup tickets on resale at inflated prices",
+        "link": "https://www.bbc.com/sport/football/articles/c20d5pq6zplo?at_medium=RSS&at_campaign=rss",
+        "summary": "England and Scotland fans hoping to get to ticket to this summer's World Cup finals face paying vastly inflated prices through Fifa's official resale platform.",
         "source": "BBC News",
         "objectivity_score": 100,
         "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "potential final-day title decider",
-            "potential final-day title decider",
-            "'s post-split fixtures"
-        ]
-    },
-    {
-        "title": "Maguire takes pay cut to sign new Man Utd deal",
-        "link": "https://www.bbc.com/sport/football/articles/cly92470le8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Former captain Harry Maguire signs a new one-year contract with Manchester United.",
-        "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "new man",
-            "harry maguire",
-            "new one-year contract"
-        ]
-    },
-    {
-        "title": "Ex-Australia batter Warner charged with drink-driving",
-        "link": "https://www.bbc.com/sport/cricket/articles/ckgez0k0jd0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Former Australia opener David Warner is charged with drink-driving in Sydney.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "david warner"
-        ]
-    },
-    {
-        "title": "Szubarczyk, 15, breaks World Championship record",
-        "link": "https://www.bbc.com/sport/snooker/articles/crk1l0xnyemo?at_medium=RSS&at_campaign=rss",
-        "summary": "Polish teenager Michal Szubarczyk becomes the youngest player to win a World Championship match as he beats former women's world champion Onyee Ng in qualifying.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Positive",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "michal szubarczyk",
-            "women 's world champion",
-            "onyee ng"
+            "world cup tickets",
+            "summer 's world cup finals",
+            "official resale platform"
         ]
     },
     {
@@ -1194,48 +1223,47 @@
         ]
     },
     {
-        "title": "Selfish Woods put others in harms way - major champion Day",
-        "link": "https://www.bbc.com/sport/golf/articles/c98kn4996x6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Jason Day says Tiger Woods was \"a little bit selfish\" to drive under the influence and \"put other people in harm's way\" when he crashed his car in Florida last month.",
+        "title": "Amad backs Carrick for Manchester United job",
+        "link": "https://www.bbc.com/sport/football/articles/c62je742e0no?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester United winger Amad Diallo backs interim boss Michael Carrick to become the club's permanent manager.",
         "source": "BBC News",
-        "objectivity_score": 57,
-        "sentiment": "Negative",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "selfish woods",
-            "harms way",
-            "major champion day"
-        ]
-    },
-    {
-        "title": "Wales captain and ex-Arsenal midfielder Ramsey retires",
-        "link": "https://www.bbc.com/sport/football/articles/cp9jvpl3m8go?at_medium=RSS&at_campaign=rss",
-        "summary": "Wales captain and former Arsenal midfielder Aaron Ramsey retires from professional football with immediate effect.",
-        "source": "BBC News",
-        "objectivity_score": 5,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "ex-arsenal midfielder",
-            "aaron ramsey",
-            "professional football"
+            "amad diallo",
+            "backs interim boss",
+            "michael carrick"
         ]
     },
     {
-        "title": "Iran War Live Updates: Trump Issues Grave Threats as Hormuz Deadline Draws Closer",
+        "title": "Beauty forged in pain for Wales' greatest midfielder",
+        "link": "https://www.bbc.com/sport/football/articles/cj9r4gjewmno?at_medium=RSS&at_campaign=rss",
+        "summary": "Aaron Ramsey will be remembered as a great after overcoming shattering setbacks to become a brilliant midfielder for Wales and Arsenal.",
+        "source": "BBC News",
+        "objectivity_score": 91,
+        "sentiment": "Positive",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "aaron ramsey",
+            "brilliant midfielder"
+        ]
+    },
+    {
+        "title": "Iran War Live Updates: Trump Calls to Wipe Out a \u2018Whole Civilization\u2019 as Iranians Reject Threats",
         "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
-        "summary": "President Trump warned that a whole civilization will die tonight if Iran does not make a deal to reopen the Strait of Hormuz by 8 p.m. Eastern, as the U.S. attacked Irans main oil export hub.",
+        "summary": "The United States and Israel stepped up their attacks on Iran ahead of President Trumps 8 p.m. Eastern deadline to make a deal to reopen the Strait of Hormuz. There were conflicting accounts over whet...",
         "source": "NYT > World News",
-        "objectivity_score": 41,
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
             "live updates",
-            "trump issues grave threats",
-            "hormuz deadline draws closer"
+            "whole civilization",
+            "iranians reject threats"
         ]
     },
     {
@@ -1281,6 +1309,21 @@
             "ukraine ramps up",
             "russian oil",
             "curb iran"
+        ]
+    },
+    {
+        "title": "Shelly Kittleson, American Journalist Abducted in Iraq, Is Freed",
+        "link": "https://www.nytimes.com/2026/04/07/world/middleeast/shelly-kittleson-journalist-iraq.html",
+        "summary": "The journalist, Shelly Kittleson, was abducted by a militia allied with Iran and held for a week. Iraqi officials say she was freed in exchange for the release of militia members.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "shelly kittleson",
+            "journalist abducted",
+            "shelly kittleson"
         ]
     },
     {
@@ -1416,160 +1459,166 @@
         ]
     },
     {
-        "title": "How Iran\u2019s Islands Strengthen Its Hold on the Strait of Hormuz",
-        "link": "https://www.nytimes.com/interactive/2026/04/06/world/middleeast/iran-islands-strait-of-hormuz-control.html",
-        "summary": "A U.S. invasion of islands in the worlds most vital oil corridor would come with extraordinary risks.",
+        "title": "Pentagon Stays Mum on School Strike, Even As Trump Boasts of Iran Rescue",
+        "link": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-school-strike-pentagon.html",
+        "summary": "President Trump and Secretary of Defense Pete Hegseths eagerness to recount details of the rescue of a downed airman followed weeks of silence on the deadly Tomahawk missile strike on an Iranian schoo...",
         "source": "NYT > World News",
-        "objectivity_score": 63,
-        "sentiment": "Positive",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "vital oil corridor",
-            "extraordinary risks"
-        ]
-    },
-    {
-        "title": "Iranians Voice Shock and Defiance in Face of Trump\u2019s Latest Deadline",
-        "link": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html",
-        "summary": "President Trump has threatened devastating attacks if Iran does not reopen the Strait of Hormuz. Some Iranians questioned what had happened to American values.",
-        "source": "NYT > World News",
-        "objectivity_score": 63,
+        "objectivity_score": 40,
         "sentiment": "Negative",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "iranians voice shock",
-            "latest deadline",
-            "american values"
+            "stays mum",
+            "trump boasts",
+            "iran rescue"
         ]
     },
     {
-        "title": "Amid Escalating Threats, U.S. and Iran Float Ideas to End War",
-        "link": "https://www.nytimes.com/2026/04/07/world/middleeast/amid-escalating-threats-us-and-iran-float-ideas-to-end-war.html",
-        "summary": "Both countries have offered plans that could form the basis of negotiations. So far, each sides leaders have publicly dismissed the other sides proposals.",
+        "title": "Iranian Officials Say Indirect Talks With U.S. Ended After Trump\u2019s Latest Threat",
+        "link": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-trump-negotiations-talks-threat.html",
+        "summary": "As the United States 8 p.m. deadline to open the Strait of Hormuz approaches, Iran vowed to retaliate if its power plants were attacked.",
         "source": "NYT > World News",
-        "objectivity_score": 48,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "amid escalating threats",
-            "iran float ideas",
-            "end war"
-        ]
-    },
-    {
-        "title": "Weakened and Reluctant, Yemen\u2019s Houthis Belatedly Enter War",
-        "link": "https://www.nytimes.com/2026/04/07/world/middleeast/houthis-iran-yemen-war.html",
-        "summary": "Analysts say their delay in supporting Iran is partly because their capabilities were severely degraded by the U.S.-Israeli campaign last year.",
-        "source": "NYT > World News",
-        "objectivity_score": 15,
+        "objectivity_score": 70,
         "sentiment": "Positive",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "houthis belatedly enter",
-            "war analysts"
+            "say indirect talks",
+            "u.s. ended",
+            "power plants"
         ]
     },
     {
-        "title": "Here\u2019s the latest.",
-        "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news/heres-the-latest",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 90,
-        "sentiment": "Positive",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "here\u2019s"
-        ]
-    },
-    {
-        "title": "Here\u2019s What Happened in the War in Iran and the Middle East on Monday",
-        "link": "https://www.nytimes.com/2026/04/06/world/middleeast/middle-east-iran-war-week-6.html",
-        "summary": "President Trump escalated his threats ahead of his pending Tuesday deadline for Iran to reopen the Strait of Hormuz.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "here\u2019s"
-        ]
-    },
-    {
-        "title": "Trump Says Iran Proposal Isn\u2019t Enough to Stop Attacks on Bridges and Power Plants",
-        "link": "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html",
-        "summary": "President Trump has told Iran it must open the Strait of Hormuz by 8 p.m. Tuesday or face the consequences, although he has delayed previous deadlines.",
-        "source": "NYT > World News",
-        "objectivity_score": 38,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "trump says iran proposal isn",
-            "power plants",
-            "previous deadlines"
-        ]
-    },
-    {
-        "title": "Iran\u2019s 10-Point Proposal Demands an End to Attacks and Sanctions",
-        "link": "https://www.nytimes.com/2026/04/06/world/middleeast/iran-10-point-proposal.html",
-        "summary": "As President Trumps deadline for new attacks loomed, Iran conveyed its conditions through Pakistani intermediaries.",
+        "title": "Trump Threatens Broad Attacks in Iran. How Is Illegal Conduct in War Defined?",
+        "link": "https://www.nytimes.com/2026/04/07/us/politics/war-crimes-civilians.html",
+        "summary": "It is illegal for any military to target civilians, as President Trump has suggested he would in threats against Iran. But the U.S. has sought significant leeway in defining a civilian target.",
         "source": "NYT > World News",
         "objectivity_score": 45,
+        "sentiment": "Negative",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "trump threatens broad",
+            "illegal conduct",
+            "target civilians"
+        ]
+    },
+    {
+        "title": "C\u00e9cile Kohler and Jacques Paris, French Couple Held in Iran, Are Free",
+        "link": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-french-couple-freed.html",
+        "summary": "The couple, who had been arrested during a tourist visit in 2022, were accused of spying in a case that galvanized the French public.",
+        "source": "NYT > World News",
+        "objectivity_score": 21,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "c\u00e9cile kohler",
+            "jacques paris",
+            "tourist visit"
+        ]
+    },
+    {
+        "title": "Gunman Killed in Clash With Police Near Israeli Consulate in Istanbul",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000010827246/istanbul-israel-consulate-gunman-killed.html",
+        "summary": "Three armed men clashed with the police in a shootout near the Israeli Consulate in Istanbul on Tuesday. The police killed one of the attackers and wounded the two others, officials said.",
+        "source": "NYT > World News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "gunman killed",
+            "near israeli consulate",
+            "israeli consulate"
+        ]
+    },
+    {
+        "title": "U.S., Israel and Iran Accelerate Strikes Ahead of Trump\u2019s Deadline",
+        "link": "https://www.nytimes.com/2026/04/07/world/middleeast/us-israel-strikes-iran.html",
+        "summary": "The United States and Israel are trying to force Iran to open the Strait of Hormuz, according to American and Israel officials.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "iran accelerate strikes ahead"
+        ]
+    },
+    {
+        "title": "U.S. Strikes Kharg Island as Trump Raises Iran Threats to Apocalyptic Levels",
+        "link": "https://www.nytimes.com/2026/04/07/us/politics/us-israel-iran-strikes-kharg-trump.html",
+        "summary": "U.S. forces launched more than 90 restrikes on Kharg Island, Irans oil export hub, early on Tuesday but have avoided hitting oil infrastructure.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
         "sentiment": "Positive",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "\u2019 s 10-point",
-            "proposal demands",
-            "new attacks"
+            "strikes kharg",
+            "trump raises iran threats",
+            "apocalyptic levels u.s."
         ]
     },
     {
-        "title": "Trump\u2019s Deportation Deals",
-        "link": "https://www.nytimes.com/2026/04/06/world/us-trump-deportations-iran-deadline-artemis-moon.html",
-        "summary": "The president wants third countries to take migrants who cant be sent back home. To get that, almost everything is up for negotiation.",
+        "title": "Lebanese Mourn Couple Killed in Israeli Strike, Exposing Rift Over Hezbollah",
+        "link": "https://www.nytimes.com/2026/04/07/world/middleeast/lebanon-couple-killed-israeli-strike.html",
+        "summary": "The victims had no ties to Hezbollah, and Israel said they were not targets. Many Lebanese are angry with Israel, but also with Hezbollah for embroiling their country in the war.",
         "source": "NYT > World News",
-        "objectivity_score": 3,
+        "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "deportation deals"
+            "lebanese mourn couple killed",
+            "israeli strike",
+            "exposing rift"
         ]
     },
     {
-        "title": "As Trump Deadline Looms, Iran and U.S. Mix Threats With Hints of Deal",
-        "link": "https://www.nytimes.com/2026/04/06/world/middleeast/iran-trump-deadline.html",
-        "summary": "One potential off-ramp appeared when Iran offered a 10-point counterproposal for ending the war that President Trump called a significant step, if not good enough.",
+        "title": "\u2018Definitely a Sham\u2019: As Tariffs Climb, Trade Fraud and Accounting Tricks Proliferate",
+        "link": "https://www.nytimes.com/2026/04/07/us/politics/tariffs-trade-import-fraud.html",
+        "summary": "U.S. imports from China have shrunk drastically. But billions of dollars of the change appear to be the result of accounting gimmicks and outright fraud.",
         "source": "NYT > World News",
-        "objectivity_score": 74,
+        "objectivity_score": 30,
+        "sentiment": "Negative",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "tariffs climb",
+            "tricks proliferate u.s.",
+            "outright fraud"
+        ]
+    },
+    {
+        "title": "6 Takeaways From the Story of Trump\u2019s Decision to Go to War With Iran",
+        "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war-takeaways.html",
+        "summary": "New details from the weeks leading up to the campaign show how President Trumps alignment with Benjamin Netanyahu and a lack of sustained opposition from his inner circle put the United States on a co...",
+        "source": "NYT > World News",
+        "objectivity_score": 31,
         "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "trump deadline looms",
-            "mix threats",
-            "potential off-ramp"
+            "new details",
+            "campaign show",
+            "benjamin netanyahu"
         ]
     },
     {
-        "title": "Israel Steps Up Attacks on Lebanon, Killing Dozens",
-        "link": "https://www.nytimes.com/2026/04/06/world/middleeast/israel-attacks-lebanon-kill-dozens.html",
-        "summary": "Sunday was a particularly deadly day, as Israel targeted areas around the country  including a Christian area long regarded as safe by residents.",
-        "source": "NYT > World News",
-        "objectivity_score": 32,
+        "title": "\u2018We still deserve due process,\u2019 says Cambodian man deported by US to Eswatini",
+        "link": "https://www.theguardian.com/world/2026/apr/07/cambodian-man-pheap-rom-deported-us-eswatini",
+        "summary": "Pheap Rom was one of 15 people sent to prison in African kingdom last year despite completing US sentencesA Cambodian man deported by the US said he would have accepted being sent to Cambodia, but ins...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "israel steps up",
-            "killing dozens",
-            "christian area"
+            "eswatini pheap rom",
+            "african kingdom",
+            "us sentencesa"
         ]
     },
     {
@@ -1633,24 +1682,69 @@
         ]
     },
     {
-        "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
-        "link": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
-        "summary": "Abnormally strong jet stream triggers deluge in Middle East, while north Africa braces for 60-80mph gustsAn unusual weather pattern unleashed severe thunderstorms across parts of the Middle East last ...",
+        "title": "Stork warning: woman gives birth midair on Jamaica-to-New York flight",
+        "link": "https://www.theguardian.com/us-news/2026/apr/07/plane-birth-jamaica-new-york",
+        "summary": "Baby was delivered during Caribbean Airlines flight from Kingston to the US; nationality of child to be determinedSign up for the Breaking News US email to get newsletter alerts in your inboxA routine...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 39,
+        "sentiment": "Positive",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "birth midair",
+            "jamaica-to-new york",
+            "news us email"
+        ]
+    },
+    {
+        "title": "First Nation asks court to block Alberta referendum on seceding from Canada",
+        "link": "https://www.theguardian.com/world/2026/apr/07/first-nation-decries-alberta-separatist-push-canada",
+        "summary": "Sturgeon Lake Cree Nation has asked a court to halt the separatist push, arguing it would violate their treaty rightsA First Nation in Alberta has said that a separatist push for the province to seced...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "canada sturgeon",
+            "cree nation",
+            "treaty rightsa"
+        ]
+    },
+    {
+        "title": "Row over \u2018virtual gated community\u2019 AI surveillance plan in Toronto neighbourhood",
+        "link": "https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock",
+        "summary": "Rosedale residents considering car licence plate-scanning Flock system in bid to tackle property crimeA row has broken out in one of Canadas wealthiest neighbourhoods over plans to use an AI-powered s...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
         "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "saudi arabia abnormally",
-            "strong jet stream triggers deluge",
-            "60-80mph gustsan"
+            "\u2018 virtual",
+            "community \u2019",
+            "surveillance plan"
+        ]
+    },
+    {
+        "title": "#MeToo movement brings wave of harassment claims across Colombia",
+        "link": "https://www.theguardian.com/world/2026/apr/07/metoo-movement-brings-wave-of-harassment-claims-across-colombia",
+        "summary": "Female journalists accounts of harassment trigger avalanche of allegations reaching as far as governmentJuanita Gmez was reporting on an international assignment for Caracol, a Colombian television ch...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "harassment claims",
+            "colombia female",
+            "journalists accounts"
         ]
     },
     {
         "title": "US is \u2018using Mexico as a garbage sink\u2019 leading to \u2018toxic crisis\u2019, UN expert says",
         "link": "https://www.theguardian.com/world/2026/apr/07/mexico-us-toxic-waste-un-special-rapporteur",
-        "summary": "Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulateMexico is facing a toxic crisis and has become a garbage sink for the US, ...",
+        "summary": "Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulateRevealed: Mexicos industrial boomtown is making goods for the US. Resident...",
         "source": "World news | The Guardian",
         "objectivity_score": 48,
         "sentiment": "Neutral",
@@ -1660,66 +1754,6 @@
             "\u2018 toxic crisis \u2019",
             "un expert",
             "marcos orellana"
-        ]
-    },
-    {
-        "title": "House Democrats demand end to \u2018cruel\u2019 US energy blockade after visit to Cuba",
-        "link": "https://www.theguardian.com/us-news/2026/apr/06/cuba-blockade-energy-house-democrats",
-        "summary": "Pramila Jayapal and Jonathan Jackson denounce collective punishment amid vast disruption s from US oil blockadeSign up for the Breaking News US email to get newsletter alerts in your inboxTwo Democrat...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 72,
-        "sentiment": "Negative",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "demand end",
-            "\u2018 cruel \u2019 us energy blockade",
-            "cuba pramila jayapal"
-        ]
-    },
-    {
-        "title": "Mexican art world protests over plan to send Frida Kahlo masterpieces to Spain",
-        "link": "https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain",
-        "summary": "Cultural figures sign open letter asking government for clarity on how long landmark collection will remain abroadOne of the worlds most important collections of 20th-century Mexican art, including wo...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "mexican art world protests",
-            "frida kahlo",
-            "spain cultural"
-        ]
-    },
-    {
-        "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
-        "link": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
-        "summary": "Despite hostile rhetoric Trump let a Russian ship break his blockade  could it herald a Venezuela-style outcome?When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cubas Matanzas oil...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "study oil tanker diplomacy",
-            "secret talks",
-            "hostile rhetoric"
-        ]
-    },
-    {
-        "title": "One dead and dozens injured at Peru football stadium during pre-match event",
-        "link": "https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead",
-        "summary": "Initial reports suggested parts of arenas wall had collapsed, but Alianza Lima says there were no structural failuresOne person has been killed and dozens more injured at the Alejandro Villanueva Stad...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "football stadium",
-            "pre-match event",
-            "arenas wall"
         ]
     },
     {
@@ -1798,6 +1832,51 @@
         ]
     },
     {
+        "title": "Student claiming RMIT is \u2018complicit in genocide\u2019 in social media post faces misconduct action",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/07/rmit-student-gaza-genocide-social-media-post-misconduct-hearing-ntwnfb",
+        "summary": "Student accused of sharing a video of the universitys defence and aerospace research centre with the RMIT Students for Palestine Instagram accountFollow our Australia news live blog for latest updates...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 42,
+        "sentiment": "Positive",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "\u2018 complicit",
+            "genocide \u2019",
+            "social media post"
+        ]
+    },
+    {
+        "title": "Max Chandler-Mather says Greens can use \u2018progressive populism\u2019 to win voters deserting major parties for One Nation",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/07/australian-greens-max-chandler-mather-voters-major-parties-one-nation",
+        "summary": "The new head of the Greens Institute will organise thousands of volunteers for a major survey of economic and social life around AustraliaGet our breaking news email, free app or daily news podcastMax...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "max chandler-mather",
+            "\u2018 progressive populism \u2019",
+            "major parties"
+        ]
+    },
+    {
+        "title": "Ben Roberts-Smith is back in court, now as a defendant. His case reminds us that there are laws even amid war",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/07/ben-roberts-smith-alleged-war-crimes-analysis-ntwnfb",
+        "summary": "The former soldiers previous defamation trial presents the rare situation of there being hours of evidence of his alleged crimes already on the public record For almost every day of his marathon defam...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "ben roberts-smith",
+            "case reminds",
+            "previous defamation trial"
+        ]
+    },
+    {
         "title": "Albanese brings forward Singapore trip and speaks with China in bid to shore up petrol shipments to Australia",
         "link": "https://www.theguardian.com/australia-news/2026/apr/07/fuel-prices-petrol-australia-singapore-albanese-trip",
         "summary": "Petrol prices have stopped falling, despite the federal governments cut to the fuel excise last weekTrack Australias fuel prices, service station outages and shipments in chartsFollow our Australia ne...",
@@ -1828,57 +1907,12 @@
         ]
     },
     {
-        "title": "Australians buy record number of new EVs \u2013 as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/apr/07/australia-news-live-cyclone-maila-threat-queensland-road-toll-trump-iran-ntwnfb",
-        "summary": "This blog is now closedBen Roberts-Smith arrested over alleged war crimesGet our breaking news email, free app or daily news podcastThe NSW government is rolling out a free nasal spray flu vaccine for...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "record number",
-            "war crimesget",
-            "news email"
-        ]
-    },
-    {
-        "title": "Pauline Hanson says she won\u2019t \u2018abandon\u2019 Ben Roberts-Smith as Greens argue \u2018no one should be above the law\u2019",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/07/ben-roberts-smith-pauline-hanson-support-ntwnfb",
-        "summary": "Queensland senator steadfast in her support of former Australian soldier as police charge him with five counts of war crime  murderFollow our Australia news live blog for latest updatesGet our breakin...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "pauline hanson",
-            "\u2019 t \u2018 abandon \u2019",
-            "ben roberts-smith"
-        ]
-    },
-    {
-        "title": "Accused Pinochet agent turned Bondi nanny Adriana Rivas to be extradited to Chile",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/07/bondi-nanny-adriana-rivas-accused-pinochet-agent-extradited",
-        "summary": "Woman denies allegations of aggravated kidnapping during Augusto Pinochets 1970s military dictatorshipFollow our Australia news live blog for latest updatesGet our breaking news email, free app or dai...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "accused pinochet",
-            "adriana rivas",
-            "chile woman"
-        ]
-    },
-    {
-        "title": "Vance accuses EU of \u2018foreign interference\u2019 in upcoming Hungarian election while endorsing Orb\u00e1n \u2013 Europe live",
+        "title": "Vance accuses EU of \u2018foreign interference\u2019 in upcoming Hungarian election while endorsing Orb\u00e1n \u2013 as it happened",
         "link": "https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news",
         "summary": "US vice-president claims the bureaucrats in Brussels have tried to destroy the economy of Hungary  and here they are!JD Vance and Usha Vance off the Air Force Two, welcomed by Hungarian foreign minist...",
         "source": "World news | The Guardian",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
+        "objectivity_score": 8,
+        "sentiment": "Negative",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
@@ -1888,18 +1922,18 @@
         ]
     },
     {
-        "title": "Viktor Orb\u00e1n told Putin \u2018I am at your service\u2019 in October phone call",
-        "link": "https://www.theguardian.com/world/2026/apr/07/viktor-orban-told-putin-i-am-at-your-service-in-october-phonecall",
-        "summary": "Transcript reportedly details Hungarian leader offering whatever assistance he can to his Russian counterpartEurope live  latest updatesHungary elections explainerHungarys Viktor Orbn offered to go to...",
+        "title": "JD Vance accuses EU of \u2018interference\u2019 as he visits Hungary to help Orb\u00e1n win election",
+        "link": "https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban",
+        "summary": "US vice-president rails against bureaucrats in Brussels interfering in Sundays vote as he arrives in BudapestJD Vance has railed against the EU, accusing it of blatantly interfering in Hungarys upcomi...",
         "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Positive",
+        "objectivity_score": 42,
+        "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "viktor orb\u00e1n",
-            "service \u2019",
-            "leader offering"
+            "jd vance",
+            "\u2018 interference \u2019",
+            "election us vice-president rails"
         ]
     },
     {
@@ -1918,6 +1952,21 @@
         ]
     },
     {
+        "title": "Viktor Orb\u00e1n told Putin \u2018I am at your service\u2019 in October phone call",
+        "link": "https://www.theguardian.com/world/2026/apr/07/viktor-orban-told-putin-i-am-at-your-service-in-october-phonecall",
+        "summary": "Transcript reportedly details Hungarian leader offering whatever assistance he can to his Russian counterpartHungary elections explainerHungarys Viktor Orbn offered to go to great lengths to help Vlad...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "viktor orb\u00e1n",
+            "service \u2019",
+            "leader offering"
+        ]
+    },
+    {
         "title": "Hungary pipeline false-flag claims swirl as JD Vance makes election intervention",
         "link": "https://www.theguardian.com/world/2026/apr/06/hungary-puts-gas-pipeline-under-military-protection-amid-false-flag-accusations",
         "summary": "Claims explosives found near pipeline come before election in which PM Viktor Orbn is trailing in most pollsHungary has placed the gas pipeline that straddles the Serbian border under military protect...",
@@ -1933,93 +1982,78 @@
         ]
     },
     {
-        "title": "Greek PM vows to tackle \u2018deep state\u2019 in wake of farm fraud scandal",
-        "link": "https://www.theguardian.com/world/2026/apr/06/greek-pm-vows-to-tackle-deep-state-in-wake-of-farm-scandal",
-        "summary": "Kyriakos Mitsotakis calls alleged scamming of EU agricultural funds a turning point  The Greek prime minister has vowed to tackle what he has called a deep state he says is plaguing the country, as he...",
+        "title": "UN chief decries \u2018incendiary rhetoric\u2019 after Trump ramps up threats against Iran as deal deadline looms \u2013 Middle East crisis live",
+        "link": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
+        "summary": "UN chief warns that deliberate attacks on civilians amount to war crime; Trump once again implores Iran to make a deal to avert attackTrump says a whole civilisation will die if Iran ignores demandsDe...",
         "source": "World news | The Guardian",
-        "objectivity_score": 21,
+        "objectivity_score": 46,
         "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "farm fraud scandal",
-            "kyriakos mitsotakis",
-            "agricultural funds"
+            "un chief decries \u2018 incendiary rhetoric \u2019",
+            "deadline looms \u2013",
+            "un chief warns"
         ]
     },
     {
-        "title": "Trump says \u2018a whole civilisation will die tonight\u2019 if Iran does not make a deal \u2013 Middle East crisis live",
-        "link": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
-        "summary": "The US president once again warned Iran to make a deal to avert threat of massive attacksHere are some of the latest images coming in from the Middle East as the war continues in week six.The Israeli ...",
+        "title": "Donald Trump says \u2018a whole civilisation will die\u2019 if Iran ignores demands",
+        "link": "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline",
+        "summary": "Attacks on Iran increase and Israel tells Iranians to avoid train travel as deadline to reopen strait of Hormuz loomsMiddle East crisis  live updatesDonald Trump has warned that Irans whole civilisati...",
         "source": "World news | The Guardian",
-        "objectivity_score": 46,
+        "objectivity_score": 52,
         "sentiment": "Positive",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
+            "donald trump",
             "whole civilisation",
-            "us president",
-            "avert threat"
+            "ignores demands"
         ]
     },
     {
-        "title": "Israel warns Iranians not to use trains as Trump deadline looms",
-        "link": "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline",
-        "summary": "Threat comes after US president said he would bomb power plants and bridges if Iran did not reopen strait of HormuzMiddle East crisis  live updatesIsrael has warned Iranians their lives will be at ris...",
+        "title": "American journalist released a week after being kidnapped in Iraq",
+        "link": "https://www.theguardian.com/world/2026/apr/07/us-journalist-kidnapped-iraq-released",
+        "summary": "Freelancer Shelly Kittleson was reportedly held by Iran-backed militia which says she must now leave countryThe US journalist Shelly Kittleson, who was kidnapped from a Baghdad street corner last week...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 18,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "american journalist",
+            "iraq freelancer shelly kittleson",
+            "countrythe us journalist"
+        ]
+    },
+    {
+        "title": "Iran calls on young people to form human chains around power plants as Trump deadline looms",
+        "link": "https://www.theguardian.com/world/2026/apr/07/iran-young-people-human-chains-power-plants-donald-trump-deadline-looms",
+        "summary": "President Masoud Pezeshkian says 14m people declared their readiness to sacrifice their lives for defence of IranMiddle East crisis  live updatesIranians officials called on young people to form human...",
         "source": "World news | The Guardian",
         "objectivity_score": 33,
         "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "deadline looms",
-            "us president",
-            "bomb power plants"
+            "young people",
+            "human chains",
+            "power plants"
         ]
     },
     {
-        "title": "Talks to end Iran war appear to falter a day before Trump deadline",
-        "link": "https://www.theguardian.com/world/2026/apr/06/proposals-for-immediate-ceasefire-us-israel-iran-war",
-        "summary": "US president acknowledges significant 10-point peace plan submitted by Tehran but says it is not good enoughMiddle East crisis  live updatesDiplomatic negotiations aimed at halting the war in the Midd...",
+        "title": "Democrats outraged at Trump\u2019s Iran post: \u2018A threat to commit a war crime\u2019",
+        "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-threat-truth-social",
+        "summary": "President threatens in Truth Social post to annihilate Iran if government ignores deadline to reopen strait of HormuzUS politics live  latest updatesSign up for the Breaking News US newsletter emailDo...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "deadline us president acknowledges",
-            "significant 10-point peace plan",
-            "good enoughmiddle"
-        ]
-    },
-    {
-        "title": "Middle East crisis live: Iran warns of \u2018devastating\u2019 retaliation after Trump\u2019s expletive-laden threats over strait of Hormuz",
-        "link": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
-        "summary": "This blog is now closed  our live coverage continues hereA Japanese shipping firm said on Monday that an Indian-flagged tanker owned by its subsidiary had passed through the strait of Hormuz and was e...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Negative",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "\u2019 retaliation",
-            "\u2019 s expletive-laden threats",
-            "japanese shipping firm"
-        ]
-    },
-    {
-        "title": "Down the rabbit hole: Trump offers dark Iran warnings after Easter bunny act",
-        "link": "https://www.theguardian.com/us-news/2026/apr/06/trump-iran-easter-press-conference",
-        "summary": "Presidents press conference after White House Easter egg roll did little to dispel fears he has lost touch with realityMiddle East crisis live  latest updatesDonald Trump began his day standing with a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
+        "objectivity_score": 44,
         "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "rabbit hole",
-            "bunny act",
-            "press conference"
+            "war crime \u2019 president threatens",
+            "social post",
+            "government ignores deadline"
         ]
     },
     {
@@ -2098,153 +2132,153 @@
         ]
     },
     {
-        "title": "UK government bans Kanye West from entering country",
-        "link": "https://www.theguardian.com/music/2026/apr/07/home-office-bans-kanye-west-from-entering-uk-wireless-festival",
-        "summary": "Rapper, who is legally known as Ye, has been criticised for making antisemitic remarks including voicing admiration for Adolf HitlerUK politics live  latest updatesThe rapper formerly known as Kanye W...",
+        "title": "Starmer urged to limit US access to UK bases after \u2018dangerous\u2019 Trump threats",
+        "link": "https://www.theguardian.com/world/2026/apr/07/pressure-starmer-curb-access-trump-threat-iran",
+        "summary": "Lib Dems, Greens and some Labour MPs demand UK block US from using its airbases for Iran missionsMiddle East crisis  live updatesKeir Starmer is facing increasing pressure to limit US access to Britis...",
         "source": "World news | The Guardian",
-        "objectivity_score": 29,
-        "sentiment": "Positive",
+        "objectivity_score": 52,
+        "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "adolf hitleruk",
-            "updatesthe rapper",
-            "political row"
+            "limit us access",
+            "dangerous \u2019",
+            "lib dems"
         ]
     },
     {
-        "title": "Greens urge Streeting to \u2018get serious\u2019 about concerns of resident doctors \u2013 UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/apr/07/doctors-strike-wes-streeting-snp-fuel-prices-nigel-farage-reform-uk-keir-starmer-labour-strait-hormuz-uk-politics-latest-updates",
-        "summary": "Co-deputy leader for the Greens Mothin Ali says the governments 10-year plan for the NHS will go nowhere if the workforce feels unappreciated The Green party is backing resident doctors who are on str...",
+        "title": "Charity cleared after false claims online over migrant welcome project",
+        "link": "https://www.theguardian.com/society/2026/apr/07/refugee-charity-schools-valentines-cards-asylum-seekers",
+        "summary": "Watchdog finds allegations against City of Sanctuary UK were misleading after complaint from Tory MPA refugee charity subjected to vicious social media attacks over a migrant welcome project in school...",
         "source": "World news | The Guardian",
         "objectivity_score": 51,
         "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "serious \u2019",
-            "greens mothin ali",
-            "10-year plan"
+            "false claims online",
+            "tory mpa",
+            "refugee charity"
         ]
     },
     {
-        "title": "JP Morgan reaches agreement with City airport for Canary Wharf\u2019s tallest tower",
-        "link": "https://www.theguardian.com/business/2026/apr/07/jp-morgan-clears-hurdle-canary-wharf-tallest-tower-london-city-airport",
-        "summary": "Bank to submit planning application shortly after securing deal on 265m-high London Docklands buildingBusiness live  latest updatesJP Morgan Chase has reached agreement with London City airport to bui...",
+        "title": "National Gallery picks Tokyo Olympic stadium architect to design new wing",
+        "link": "https://www.theguardian.com/artanddesign/2026/apr/07/national-gallery-new-wing-london-design-kengo-kuma-architect-tokyo-olympic-stadium",
+        "summary": "London gallery to undergo biggest transformation in its 200-year history, with Kengo Kumas design called exemplaryThe National Gallery has announced that its largest and most significant transformatio...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
+        "objectivity_score": 43,
         "sentiment": "Positive",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "jp morgan",
-            "city airport",
-            "canary wharf"
+            "national gallery",
+            "olympic stadium architect",
+            "new wing"
         ]
     },
     {
-        "title": "Scientists develop gene-edited wheat that can make toasted bread less carcinogenic",
-        "link": "https://www.theguardian.com/science/2026/apr/07/crispr-gene-edited-wheat-toasted-bread-less-carcinogenic-acrylamide",
-        "summary": "Bread and biscuits made from Crispr-edited wheat showed substantially reduced acrylamide levelsScientists have developed gene-edited wheat that can be used to make bread that is less carcinogenic when...",
+        "title": "UK politics: Farage says Trump\u2019s Iranian \u2018civilisation will die\u2019 threats went \u2018way too far\u2019\u2013 as it happened",
+        "link": "https://www.theguardian.com/politics/live/2026/apr/07/doctors-strike-wes-streeting-snp-fuel-prices-nigel-farage-reform-uk-keir-starmer-labour-strait-hormuz-uk-politics-latest-updates",
+        "summary": "The Reform UK leader says he is shocked by the remarks which were over the top in every single wayThe Green party is backing resident doctors who are on strike. This morning the party issued a stateme...",
         "source": "World news | The Guardian",
-        "objectivity_score": 20,
+        "objectivity_score": 54,
         "sentiment": "Neutral",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "acrylamide levelsscientists",
-            "genome editing",
-            "genome editing systems"
+            "\u2018 civilisation",
+            "\u2019 threats",
+            "reform uk"
         ]
     },
     {
-        "title": "UK Jewish groups threaten protests if Kanye West\u2019s Wireless shows go ahead",
-        "link": "https://www.theguardian.com/music/2026/apr/07/kanye-west-ye-statement-uk-jewish-community-wireless-festival-backlash",
-        "summary": "Campaign Against Antisemitism calls on rapper to cancel gigs, while rapper offers to meet Jewish representativesKanye West will face mass protests if his three-night residency at Londons Wireless fest...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "jewish groups",
-            "west \u2019 s",
-            "campaign against antisemitism"
-        ]
-    },
-    {
-        "title": "Democrats accuse ICE of creating \u2018disappearances\u2019 on US soil",
-        "link": "https://www.theguardian.com/us-news/2026/apr/07/democrats-letter-ice-disappearances",
-        "summary": "Lawmakers led by Elizabeth Warren in scathing letter say system used to track detainees increasingly unreliableA group of 36 lawmakers says the Department of Homeland Security (DHS) has created disapp...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 62,
-        "sentiment": "Negative",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "\u2018 disappearances \u2019",
-            "us soil",
-            "elizabeth warren"
-        ]
-    },
-    {
-        "title": "DHS shutdown enters eighth week as Mike Johnson faces Republican revolt over funding deal \u2013 live",
-        "link": "https://www.theguardian.com/us-news/live/2026/apr/07/government-shutdown-congress-house-of-representatives-donald-trump-republicans-democrats-ice-us-politics-latest-updates-news",
-        "summary": "The partial government shutdown has now lasted eight weeks; Markwayne Mullin considers pulling US customs agents from airports in sanctuary citiesOne note, we were expecting a Pentagon press conferenc...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 60,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "shutdown enters",
-            "mike johnson",
-            "partial government shutdown"
-        ]
-    },
-    {
-        "title": "Porn, dog poo and social media snaps: the \u2018taskers\u2019 scraping the internet for Meta-owned AI firm",
-        "link": "https://www.theguardian.com/technology/2026/apr/07/meta-scale-ai-social-media-technology",
-        "summary": "Scale AI gig workers describe desperation of using peoples personal profiles and copyrighted work to train AITens of thousands of people have been paid by a company part-owned by Meta to train AI by c...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "dog poo",
-            "social media snaps",
-            "\u2018 taskers \u2019"
-        ]
-    },
-    {
-        "title": "\u2018There\u2019s a lot of desperation\u2019: skilled older workers turn to AI training to stay afloat",
-        "link": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
-        "summary": "They have degrees, expertise and years of experience  but cant find work. For many Americans, AI training has become a last refuge in a brutal job marketWhen Patrick Ciriello lost his job and couldnt ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-04-07",
-        "image_url": null,
-        "keywords": [
-            "desperation \u2019",
-            "brutal job marketwhen",
-            "patrick ciriello"
-        ]
-    },
-    {
-        "title": "Members of neo-Nazi \u2018active clubs\u2019 join combat events at secretive Virginia compound",
-        "link": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/07/neo-nazi-virginia-combat-event",
-        "summary": "Licensed school teacher and one-time police officer among those participating in riot-style gatherings as experts warn of threat to public safetyA network of militant neo-Nazi active clubs from around...",
+        "title": "UK veterans \u2018forced to resign\u2019 for being gay launch legal action against MoD",
+        "link": "https://www.theguardian.com/world/2026/apr/07/veterans-forced-to-resign-gay-legal-action-against-ministry-defence",
+        "summary": "Steven Stewart and Mark Shephard claim in high court that LGBT Financial Recognition Scheme is structurally unfairTwo veterans who were forced to resign for being gay due to a ban on LGBT personnel in...",
         "source": "World news | The Guardian",
         "objectivity_score": 29,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "veterans \u2018",
+            "resign \u2019",
+            "gay launch"
+        ]
+    },
+    {
+        "title": "Maga movement splinters as Trump threatens to eradicate a \u2018whole civilization\u2019 if Iran doesn\u2019t make deal \u2013 live",
+        "link": "https://www.theguardian.com/us-news/live/2026/apr/07/government-shutdown-congress-house-of-representatives-donald-trump-republicans-democrats-ice-us-politics-latest-updates-news",
+        "summary": "Tucker Carlson calls Trump strategy vile on every level and Marjorie Taylor Greene joins Democrats calls to remove president using 25th amendmentSign up for Breaking News US email alertsDuring a press...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "movement splinters",
+            "whole civilization \u2019",
+            "doesn \u2019 t"
+        ]
+    },
+    {
+        "title": "Parents charged after toddler snuck into wolf enclosure at Pennsylvania zoo",
+        "link": "https://www.theguardian.com/us-news/2026/apr/07/parents-charged-child-endangerment-hersheypark-pennsylvania",
+        "summary": "Parents face child endangerment charge after their kid suffered a minor injury at ZooAmerica in HersheyparkThe parents of a toddler who suffered a minor injury at a Pennsylvania theme park zoo after s...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "toddler snuck",
+            "wolf enclosure",
+            "zoo parents"
+        ]
+    },
+    {
+        "title": "Republicans silent as Democrats call on US cabinet to oust Trump over Iran",
+        "link": "https://www.theguardian.com/us-news/2026/apr/07/democrats-trump-iran-25th-amendment",
+        "summary": "Lawmakers call for use of 25th amendment after president brazenly threatens to commit war crimes in IranAs Donald Trump unleashes curse-filled threats against Iran, Democrats are raising alarm over hi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
         "sentiment": "Negative",
         "date": "2026-04-07",
         "image_url": null,
         "keywords": [
-            "neo-nazi \u2018",
-            "active clubs \u2019",
-            "school teacher"
+            "us cabinet",
+            "iran lawmakers",
+            "war crimes"
+        ]
+    },
+    {
+        "title": "Human skull discovered during Easter egg hunt near Los Angeles",
+        "link": "https://www.theguardian.com/us-news/2026/apr/07/human-skull-found-near-los-angeles-easter",
+        "summary": "Authorities launch investigation after human remains found at DeForest Park in Long BeachSign up for the Breaking News US email to get newsletter alerts in your inboxThe discovery of a human skull dur...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "human skull",
+            "egg hunt",
+            "los angeles authorities"
+        ]
+    },
+    {
+        "title": "ICE arrested more than 800 people after tips from TSA, investigation shows",
+        "link": "https://www.theguardian.com/us-news/2026/apr/07/tsa-ice-arrests-airports",
+        "summary": "Reuters uncovers that the TSA shared more than 31,000 traveler records with ICE for immigration enforcementSign up for the Breaking News US email to get newsletter alerts in your inboxUS Immigration a...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
+        "sentiment": "Positive",
+        "date": "2026-04-07",
+        "image_url": null,
+        "keywords": [
+            "investigation shows",
+            "traveler records",
+            "immigration enforcementsign"
         ]
     }
 ]
