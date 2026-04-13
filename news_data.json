@@ -739,7 +739,7 @@
     {
         "title": "Orb\u00e1n era swept away by P\u00e9ter Magyar's Hungary election landslide",
         "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Viktor Orbn's 16 years in power is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+        "summary": "Viktor Orbn's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
@@ -752,77 +752,18 @@
         ]
     },
     {
-        "title": "'A truly historic moment': Hungarian opposition wins election landslide",
-        "link": "https://www.bbc.com/news/videos/c2lwrjwg29lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Rajini Vaidyanathan broadcasts from outside Hungary's parliament as crowds hear about the prime minister's concession.",
+        "title": "UK could adopt EU single market rules under new legislation",
+        "link": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Sir Keir Starmer is planning a law which will mean that the UK government can adopt EU single market rules, without them being voted on in Parliament.",
         "source": "BBC News",
-        "objectivity_score": 8,
+        "objectivity_score": 39,
         "sentiment": "Neutral",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "historic moment",
-            "election landslide",
-            "rajini vaidyanathan"
-        ]
-    },
-    {
-        "title": "McIlroy proves he really is free by defending Masters title",
-        "link": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Moments after winning the Masters last year, Rory McIlroy said it would be transformative. He has proved that by defending the title at Augusta National.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "title moments",
-            "rory mcilroy"
-        ]
-    },
-    {
-        "title": "Swinney says Scottish independence referendum could be held in 2028",
-        "link": "https://www.bbc.com/news/articles/cm2r89y9n3go?at_medium=RSS&at_campaign=rss",
-        "summary": "The SNP leader made the claim in the BBC's televised debate ahead of next month's Scottish election.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "scottish independence referendum",
-            "month 's",
-            "scottish election"
-        ]
-    },
-    {
-        "title": "Deep-fried food banned in new plans for school dinners",
-        "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss",
-        "summary": "Schools are being told to cut down on sugary desserts, and provide more vegetables and whole grains.",
-        "source": "BBC News",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "new plans",
-            "school dinners schools",
-            "sugary desserts"
-        ]
-    },
-    {
-        "title": "Olivier Awards 2026: Rachel Zegler's heroes, Brian Cranston's nap schedule and more moments from the night",
-        "link": "https://www.bbc.com/news/articles/c78rjxj19mno?at_medium=RSS&at_campaign=rss",
-        "summary": "The 50th Oliviers at the Royal Albert Hall provided some memorable conversations away from the ceremony.",
-        "source": "BBC News",
-        "objectivity_score": 75,
-        "sentiment": "Positive",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "olivier awards",
-            "rachel zegler",
-            "'s heroes"
+            "market rules",
+            "new legislation",
+            "sir keir starmer"
         ]
     },
     {
@@ -841,18 +782,91 @@
         ]
     },
     {
-        "title": "UK will not join Trump's blockade of Iran's ports in the Strait of Hormuz",
-        "link": "https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&at_campaign=rss",
-        "summary": "UK minesweepers and anti-drone capabilities will continue operating in the region, as pressure ramps up to reopen the key shipping route.",
+        "title": "Deep-fried food banned in new plans for school dinners",
+        "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss",
+        "summary": "Schools are being told to cut down on sugary desserts, and provide more vegetables and whole grains.",
         "source": "BBC News",
-        "objectivity_score": 100,
+        "objectivity_score": 41,
+        "sentiment": "Positive",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "new plans",
+            "school dinners schools",
+            "sugary desserts"
+        ]
+    },
+    {
+        "title": "Rachel Zegler's heroes, prizes for Paddington and more moments from the Olivier Awards",
+        "link": "https://www.bbc.com/news/articles/c78rjxj19mno?at_medium=RSS&at_campaign=rss",
+        "summary": "The 50th Oliviers at the Royal Albert Hall provided some memorable conversations away from the ceremony.",
+        "source": "BBC News",
+        "objectivity_score": 75,
+        "sentiment": "Positive",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "rachel zegler",
+            "'s heroes",
+            "olivier awards"
+        ]
+    },
+    {
+        "title": "PM to scrap spy chiefs' Hillsborough Law veto",
+        "link": "https://www.bbc.com/news/articles/c77mezv330lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Security chiefs will not be able to block spies from giving evidence to future public inquiries.",
+        "source": "BBC News",
+        "objectivity_score": 27,
+        "sentiment": "Positive",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "scrap spy chiefs",
+            "law veto security chiefs",
+            "public inquiries"
+        ]
+    },
+    {
+        "title": "Swinney says Scottish independence referendum could be held in 2028",
+        "link": "https://www.bbc.com/news/articles/cm2r89y9n3go?at_medium=RSS&at_campaign=rss",
+        "summary": "The SNP leader made the claim in the BBC's televised debate ahead of next month's Scottish election.",
+        "source": "BBC News",
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "'s blockade",
-            "'s ports",
-            "hormuz uk"
+            "scottish independence referendum",
+            "month 's",
+            "scottish election"
+        ]
+    },
+    {
+        "title": "Trump attacks Pope over criticism of Iran war",
+        "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
+        "source": "BBC News",
+        "objectivity_score": 58,
+        "sentiment": "Negative",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "us president accuses",
+            "foreign policy"
+        ]
+    },
+    {
+        "title": "Eight to be awarded for bravery in Bondi Junction stabbing in Sydney",
+        "link": "https://www.bbc.com/news/articles/c1w4539z0y9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Six people were killed and ten injured after a man went on a stabbing rampage in an Australian mall.",
+        "source": "BBC News",
+        "objectivity_score": 32,
+        "sentiment": "Negative",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "bondi junction",
+            "sydney six"
         ]
     },
     {
@@ -871,36 +885,6 @@
         ]
     },
     {
-        "title": "Pope prioritises world's fastest-growing Catholic region in major Africa tour",
-        "link": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says.",
-        "source": "BBC News",
-        "objectivity_score": 24,
-        "sentiment": "Neutral",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "prioritises world 's",
-            "catholic region",
-            "leo xiv"
-        ]
-    },
-    {
-        "title": "The BBC Scotland election debate fact-checked",
-        "link": "https://www.bbc.com/news/articles/c62j07q046eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Claims made by leaders of six political parties who took part in a TV debate for the 2026 Holyrood election campaign are checked.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "bbc scotland",
-            "election debate",
-            "political parties"
-        ]
-    },
-    {
         "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
         "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
         "summary": "The conflict is now a test of wills - Irans capacity to absorb strikes versus Trumps tolerance for the war's costs.",
@@ -916,7 +900,22 @@
         ]
     },
     {
-        "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
+        "title": "UK will not join blockade of Iran's ports in the Strait of Hormuz",
+        "link": "https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&at_campaign=rss",
+        "summary": "UK minesweepers and anti-drone capabilities will continue operating in the region, as pressure ramps up to reopen the key shipping route.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "'s ports",
+            "hormuz uk",
+            "anti-drone capabilities"
+        ]
+    },
+    {
+        "title": "What is a naval blockade and how would it work?",
         "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
         "summary": "Donald Trump says that the US is going to start blockading the Strait of Hormuz. What does this mean in practice?",
         "source": "BBC News",
@@ -927,19 +926,6 @@
         "keywords": [
             "naval blockade",
             "donald trump"
-        ]
-    },
-    {
-        "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
-        "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
-        "summary": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
-        "source": "BBC News",
-        "objectivity_score": 13,
-        "sentiment": "Negative",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "global energy crisis"
         ]
     },
     {
@@ -958,48 +944,32 @@
         ]
     },
     {
-        "title": "After Iran talks falter, the big question is what happens next?",
-        "link": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
-        "summary": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet.",
+        "title": "Oil prices rise back above $100 after peace talks fail",
+        "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
+        "summary": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
         "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
+        "objectivity_score": 13,
+        "sentiment": "Negative",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "talks falter",
-            "big question",
-            "lyse doucet"
+            "oil prices rise",
+            "global energy crisis"
         ]
     },
     {
-        "title": "Viktor Orb\u00e1n's Hungarian experiment runs out of steam",
-        "link": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Pter Magyar's historic win offers peace for a country exhausted by the tensions of Viktor Orbn's rule,  Nick Thorpe reports from Budapest.",
+        "title": "Rory McIlroy defends Masters title, underlining why he is one of golf's greats",
+        "link": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo?at_medium=RSS&at_campaign=rss",
+        "summary": "Moments after winning the Masters last year, Rory McIlroy said it would be transformative. He has proved that by defending the title at Augusta National.",
         "source": "BBC News",
-        "objectivity_score": 27,
+        "objectivity_score": 40,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "viktor orb\u00e1n",
-            "experiment runs",
-            "pter magyar"
-        ]
-    },
-    {
-        "title": "The Papers: 'PM refuses to join blockade' and 'Hungary enters new era'",
-        "link": "https://www.bbc.com/news/articles/cqxld498z9qo?at_medium=RSS&at_campaign=rss",
-        "summary": "Starmer ruling out the UK's role in the US blockade of Iran's ports and Hungary electing a new leader lead Monday's papers.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "'pm refuses",
-            "'hungary enters",
-            "new era"
+            "rory mcilroy",
+            "golf 's greats moments",
+            "rory mcilroy"
         ]
     },
     {
@@ -1018,73 +988,105 @@
         ]
     },
     {
-        "title": "Frostbite is least of worries for Canada forces grappling with new Arctic reality",
+        "title": "On the road with Canadian forces training for a new Arctic reality",
         "link": "https://www.bbc.com/news/articles/cwyj8jjkl78o?at_medium=RSS&at_campaign=rss",
         "summary": "Across 5,200 km of Canada's Arctic, some 1,300 members of Canada's military spent two winter months on a mission to meet the challenges of a changing north.",
         "source": "BBC News",
-        "objectivity_score": 26,
+        "objectivity_score": 21,
         "sentiment": "Neutral",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
+            "canadian forces training",
             "winter months"
         ]
     },
     {
-        "title": "Political turmoil in Indian border state as nine million lose voting rights",
-        "link": "https://www.bbc.com/news/articles/cy51qg00dezo?at_medium=RSS&at_campaign=rss",
-        "summary": "Nine million voters have been dropped from rolls in West Bengal, raising concerns over exclusion and fairness.",
+        "title": "Viktor Orb\u00e1n's Hungarian experiment runs out of steam",
+        "link": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Pter Magyar's historic win offers peace for a country exhausted by the tensions of Viktor Orbn's rule,  Nick Thorpe reports from Budapest.",
+        "source": "BBC News",
+        "objectivity_score": 27,
+        "sentiment": "Positive",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "viktor orb\u00e1n",
+            "experiment runs",
+            "pter magyar"
+        ]
+    },
+    {
+        "title": "The BBC Scotland election debate fact-checked",
+        "link": "https://www.bbc.com/news/articles/c62j07q046eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Claims made by leaders of six political parties who took part in a TV debate for the 2026 Holyrood election campaign are checked.",
         "source": "BBC News",
         "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "indian border state"
+            "bbc scotland",
+            "election debate",
+            "political parties"
         ]
     },
     {
-        "title": "Congressman Eric Swalwell quits California governor race amid sexual misconduct claims",
-        "link": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss",
-        "summary": "Top Democratic allies intensified pressure on him to exit the gubernatorial race.",
+        "title": "The Papers: 'PM refuses to join blockade' and 'Hungary enters new era'",
+        "link": "https://www.bbc.com/news/articles/cqxld498z9qo?at_medium=RSS&at_campaign=rss",
+        "summary": "Starmer ruling out the UK's role in the US blockade of Iran's ports and Hungary electing a new leader lead Monday's papers.",
         "source": "BBC News",
-        "objectivity_score": 66,
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "eric swalwell",
-            "governor race",
-            "sexual misconduct claims"
+            "'pm refuses",
+            "'hungary enters",
+            "new era"
         ]
     },
     {
-        "title": "Paddington musical dominates Olivier Awards",
-        "link": "https://www.bbc.com/news/articles/c3v6n7wqd07o?at_medium=RSS&at_campaign=rss",
-        "summary": "The beloved bear's stage show won seven prizes including best new musical and three acting prizes.",
+        "title": "The Dutch village at risk of being demolished",
+        "link": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Moerdijk has been earmarked for removal, to make way for a vast electricity substation.",
         "source": "BBC News",
-        "objectivity_score": 29,
-        "sentiment": "Positive",
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "musical dominates",
-            "olivier awards",
-            "'s stage show"
+            "vast electricity substation"
         ]
     },
     {
-        "title": "Eight to be awarded for bravery in Bondi Junction stabbing in Sydney",
-        "link": "https://www.bbc.com/news/articles/c1w4539z0y9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Six people were killed and ten injured after a man went on a stabbing rampage in an Australian mall.",
+        "title": "Pope prioritises world's fastest-growing Catholic region in major Africa tour",
+        "link": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says.",
         "source": "BBC News",
-        "objectivity_score": 32,
+        "objectivity_score": 24,
+        "sentiment": "Neutral",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "prioritises world 's",
+            "catholic region",
+            "leo xiv"
+        ]
+    },
+    {
+        "title": "Cold sore virus left mum with brain damage",
+        "link": "https://www.bbc.com/news/articles/c0lenp4r70eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Helen Edwards initially thought she had flu, but then spent 12 weeks in hospital and was diagnosed with encephalitis.",
+        "source": "BBC News",
+        "objectivity_score": 27,
         "sentiment": "Negative",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "bondi junction",
-            "sydney six"
+            "sore virus",
+            "brain damage",
+            "helen edwards"
         ]
     },
     {
@@ -1102,16 +1104,18 @@
         ]
     },
     {
-        "title": "Woman raped by several men outside church",
-        "link": "https://www.bbc.com/news/articles/crk18mke8gjo?at_medium=RSS&at_campaign=rss",
-        "summary": "A woman in her 20s was followed after leaving a nightclub and raped outside Epsom Methodist Church.",
+        "title": "Eric Swalwell quits California governor race amid sexual misconduct claims",
+        "link": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss",
+        "summary": "Top Democratic allies intensified pressure on him to exit the gubernatorial race.",
         "source": "BBC News",
-        "objectivity_score": 3,
-        "sentiment": "Neutral",
+        "objectivity_score": 66,
+        "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "methodist church"
+            "eric swalwell",
+            "governor race",
+            "sexual misconduct claims"
         ]
     },
     {
@@ -1127,21 +1131,6 @@
             "reform uk",
             "deputy leader 's \u00a391,000 tax",
             "'minor admin error"
-        ]
-    },
-    {
-        "title": "Cold sore virus left mum with brain damage",
-        "link": "https://www.bbc.com/news/articles/c0lenp4r70eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Helen could never have imagined a virus she may have had for years would leave her with brain damage.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "sore virus",
-            "brain damage",
-            "brain damage"
         ]
     },
     {
@@ -1214,17 +1203,18 @@
         ]
     },
     {
-        "title": "McIlroy proves he really is free by defending Masters title",
-        "link": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Moments after winning the Masters last year, Rory McIlroy said it would be transformative. He has proved that by defending the title at Augusta National.",
+        "title": "Where does McIlroy rank among greats after Masters defence?",
+        "link": "https://www.bbc.com/sport/golf/articles/cz78ge3g77qo?at_medium=RSS&at_campaign=rss",
+        "summary": "Rory McIlroy has added a rare Masters defence to the career Grand Slam - now he is aiming to keep climbing the all-time list of major victories.",
         "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
+        "objectivity_score": 82,
+        "sentiment": "Neutral",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "title moments",
-            "rory mcilroy"
+            "rory mcilroy",
+            "all-time list",
+            "major victories"
         ]
     },
     {
@@ -1243,18 +1233,18 @@
         ]
     },
     {
-        "title": "Man City smell blood - why Arsenal should fear title rivals",
-        "link": "https://www.bbc.com/sport/football/articles/cpd58x923jyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Manchester City capitalise on Arsenal's latest slip-up in style - and now Pep Guardiola's side must be feared as the Premier League title race hots up.",
+        "title": "Man City have psychological edge over Arsenal - Rooney",
+        "link": "https://www.bbc.com/sport/football/articles/cde54lry1pyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Wayne Rooney says Manchester City have the psychological edge over leaders Arsenal in the Premier League title race.",
         "source": "BBC News",
-        "objectivity_score": 90,
-        "sentiment": "Positive",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
             "man city",
-            "title rivals",
-            "city capitalise"
+            "psychological edge",
+            "rooney wayne rooney"
         ]
     },
     {
@@ -1273,21 +1263,6 @@
         ]
     },
     {
-        "title": "Europe's greatest? McIlroy wants more as majors record nears",
-        "link": "https://www.bbc.com/sport/golf/articles/cd0r3vknlmpo?at_medium=RSS&at_campaign=rss",
-        "summary": "Rory McIlroy says \"I don't want to stop here\" after emerging victorious from a rollercoaster final round to retain the Masters and match European great Sir Nick Faldo's haul of six major titles.",
-        "source": "BBC News",
-        "objectivity_score": 53,
-        "sentiment": "Positive",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "majors record nears",
-            "rory mcilroy",
-            "final round"
-        ]
-    },
-    {
         "title": "Will thrilling Scottish title race be decided on goal difference?",
         "link": "https://www.bbc.com/sport/football/articles/clyxgvq0lyro?at_medium=RSS&at_campaign=rss",
         "summary": "Rangers' 6-3 win over Falkirk extends the Ibrox side's advantage over leaders Heart of Midlothian and Celtic should the Scottish Premiership title be decided on goal difference.",
@@ -1303,18 +1278,107 @@
         ]
     },
     {
-        "title": "Five key shots that helped McIlroy win second Masters",
-        "link": "https://www.bbc.com/sport/golf/articles/cpqxwdxjl2jo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport NI looks back on the moments that won Rory McIlroy the 2026 Masters, his second title at Augusta National.",
-        "source": "BBC News",
-        "objectivity_score": 27,
+        "title": "Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade",
+        "link": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news",
+        "summary": "The U.S. said it would block ships entering or exiting Iranian ports or coastal areas starting at 10 a.m. Eastern on Monday. It was unclear how that would affect the cease-fire.",
+        "source": "NYT > World News",
+        "objectivity_score": 17,
+        "sentiment": "Neutral",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "live updates",
+            "u.s. plans hormuz blockade",
+            "block ships"
+        ]
+    },
+    {
+        "title": "Orban Loss May Ease Hungary\u2019s Tensions with European Union",
+        "link": "https://www.nytimes.com/2026/04/13/world/europe/hungary-eu-orban-magyar.html",
+        "summary": "Prime Minister Viktor Orban has stymied the European Union for years, and particularly in recent months. Peter Magyars election could change that, if only so much.",
+        "source": "NYT > World News",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "orban loss may ease hungary",
+            "european union",
+            "viktor orban"
+        ]
+    },
+    {
+        "title": "In Myanmar, Even Flowers Stoke Fear",
+        "link": "https://www.nytimes.com/2026/04/13/world/asia/myanmar-war-military-fear.html",
+        "summary": "Myanmars generals have brutalized the country for decades. But they have come to dread garlands as a sign of resistance.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "stoke fear myanmars",
+            "dread garlands"
+        ]
+    },
+    {
+        "title": "Pope Leo Heads to Africa to Meet the Future of Catholicism",
+        "link": "https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html",
+        "summary": "On a four-country tour of the continent, where the faith is growing faster than anywhere else, the pontiff will be greeted by enthusiastic crowds and authoritarian leaders.",
+        "source": "NYT > World News",
+        "objectivity_score": 51,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "key shots",
-            "bbc sport ni",
-            "rory mcilroy"
+            "pope leo heads",
+            "four-country tour",
+            "enthusiastic crowds"
+        ]
+    },
+    {
+        "title": "\u2018The Strangest Sleepover Ever\u2019: Dutch Skeptical as Their Royals Visit Trump",
+        "link": "https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html",
+        "summary": "The Dutch king and queen are set to stay at the White House on Monday night. At a time of trans-Atlantic tension, the Netherlands isnt sure how it feels about that.",
+        "source": "NYT > World News",
+        "objectivity_score": 46,
+        "sentiment": "Neutral",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "strangest sleepover ever",
+            "dutch skeptical",
+            "royals visit trump"
+        ]
+    },
+    {
+        "title": "Aiming at China, Malaysia Puts New Restrictions on Electric Cars",
+        "link": "https://www.nytimes.com/2026/04/13/world/asia/malaysia-electric-cars-china.html",
+        "summary": "The move was a tacit acknowledgment of Chinas dominance in the global market and the power of its automakers to keep prices low.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "malaysia puts",
+            "tacit acknowledgment",
+            "global market"
+        ]
+    },
+    {
+        "title": "After Chaotic Election Day, Peru Orders 2nd Day of Voting for Some Areas",
+        "link": "https://www.nytimes.com/2026/04/13/world/americas/peru-election-extended-voting.html",
+        "summary": "Frustrated voters in long lines were unable to cast ballots in parts of the capital, Lima, due to logistical failures, eroding trust for some in the process.",
+        "source": "NYT > World News",
+        "objectivity_score": 29,
+        "sentiment": "Negative",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "election day",
+            "peru orders",
+            "areas frustrated"
         ]
     },
     {
@@ -1330,21 +1394,6 @@
             "viktor orban concedes defeat",
             "congratulates peter magyar prime",
             "viktor orban"
-        ]
-    },
-    {
-        "title": "Iran War Live Updates: U.S. to Blockade Ships From Iranian Ports",
-        "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
-        "summary": "The blockade on ships entering or departing Iranian ports and coastal areas will begin on Monday, U.S. Central Command said. But U.S. forces will not impede vessels transiting the Strait of Hormuz, a ...",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "live updates",
-            "blockade ships",
-            "iranian ports"
         ]
     },
     {
@@ -1436,97 +1485,67 @@
         ]
     },
     {
-        "title": "Christine Fr\u00e9chette Is Chosen to Lead Coalition Avenir Qu\u00e9bec",
-        "link": "https://www.nytimes.com/2026/04/12/world/americas/canada-quebec-premier-christine-frechette.html",
-        "summary": "Far behind in the polls, Quebecs governing party chose Christine Frchette to succeed Franois Legault and to lead it in a vote this fall.",
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news/heres-the-latest",
+        "summary": "",
         "source": "NYT > World News",
-        "objectivity_score": 85,
-        "sentiment": "Negative",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "christine fr\u00e9chette",
-            "lead coalition avenir qu\u00e9bec far",
-            "christine frchette"
-        ]
-    },
-    {
-        "title": "Asha Bhosle, One of India\u2019s Most Beloved Singers, Dies at 92",
-        "link": "https://www.nytimes.com/2026/04/12/world/asia/asha-bhosle-india-singer-bollywood.html",
-        "summary": "Her distinctive and adventurous voice was the soundtrack for generations of Bollywood films.",
-        "source": "NYT > World News",
-        "objectivity_score": 80,
+        "objectivity_score": 90,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "asha bhosle",
-            "beloved singers",
-            "adventurous voice"
+            "here\u2019s"
         ]
     },
     {
-        "title": "Peru Votes for President, With 35 Names on the Ballot",
-        "link": "https://www.nytimes.com/2026/04/12/world/americas/peru-presidential-election.html",
-        "summary": "Few expect the vote to resolve the political instability that has plagued the country for years. Three presidents have come and gone since 2021.",
+        "title": "In the Desert, a \u2018Cleaning Station\u2019 for Ants",
+        "link": "https://www.nytimes.com/2026/04/13/science/harvester-cone-ants-cleaning.html",
+        "summary": "A unique choreography between two ant species suggests a distinctive partnership in which one provides a carwash service to the other.",
         "source": "NYT > World News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "peru votes",
-            "ballot few",
-            "political instability"
-        ]
-    },
-    {
-        "title": "Rejected by Dozens of Emergency Rooms: South Korea\u2019s Medical Crisis",
-        "link": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
-        "summary": "Hundreds of patients every year have trouble finding emergency care, even though the country has a world-class medical system. For some, the delays have been fatal.",
-        "source": "NYT > World News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "emergency rooms",
-            "crisis hundreds",
-            "emergency care"
-        ]
-    },
-    {
-        "title": "Inside Tyre, a Lebanese City Bombarded by Israel",
-        "link": "https://www.nytimes.com/2026/04/12/world/middleeast/lebanon-hezbollah-israel-iran-war-tyre.html",
-        "summary": "In Tyre, a city on Lebanons coast, near-daily bombardments by Israel have killed and injured civilians, and left many searching for shelter.",
-        "source": "NYT > World News",
-        "objectivity_score": 16,
-        "sentiment": "Neutral",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "inside"
-        ]
-    },
-    {
-        "title": "Many Polls Say Orban Will Lose. But He Has an Edge Even Before Voting Begins.",
-        "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-polls.html",
-        "summary": "Over 16 years, Prime Minister Viktor Orbans party has repeatedly tweaked the electoral system to its advantage, making the vote free, but not entirely fair.",
-        "source": "NYT > World News",
-        "objectivity_score": 73,
+        "objectivity_score": 68,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "say orban will lose",
-            "voting begins",
-            "viktor orbans"
+            "station \u2019",
+            "unique choreography",
+            "ant species suggests"
+        ]
+    },
+    {
+        "title": "What to Know About Pope Leo\u2019s Voyage to Africa",
+        "link": "https://www.nytimes.com/2026/04/13/world/europe/what-to-know-pope-africa.html",
+        "summary": "The pontiff will visit four countries on the worlds poorest continent, demonstrating his urgent focus on the most vulnerable members of the Church.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "pope leo",
+            "worlds poorest continent",
+            "urgent focus"
+        ]
+    },
+    {
+        "title": "China\u2019s Electrostate Is Poised to Win From War in the Middle East",
+        "link": "https://www.nytimes.com/2026/04/13/business/energy-environment/china-energy-battery-grid.html",
+        "summary": "A cluster of Chinese firms is poised to win big from the energy crisis set off by the war in the Middle East, building on booming investment in artificial intelligence.",
+        "source": "NYT > World News",
+        "objectivity_score": 27,
+        "sentiment": "Positive",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "chinese firms",
+            "energy crisis",
+            "artificial intelligence"
         ]
     },
     {
         "title": "How Would a Blockade of the Strait of Hormuz Work? Here Are Some Possibilities.",
         "link": "https://www.nytimes.com/2026/04/12/world/middleeast/hormuz-us-blockade.html",
-        "summary": "The goal of the naval operation ordered by ordered by President Trump is to deny Iran the revenues it needs to fund its military, but there are many unknowns.",
+        "summary": "The goal of the naval operation ordered by President Trump is to deny Iran the revenues it needs to fund its military, but there are many unknowns.",
         "source": "NYT > World News",
         "objectivity_score": 30,
         "sentiment": "Positive",
@@ -1582,6 +1601,21 @@
         ]
     },
     {
+        "title": "Christine Fr\u00e9chette Is Chosen to Lead Coalition Avenir Qu\u00e9bec",
+        "link": "https://www.nytimes.com/2026/04/12/world/americas/canada-quebec-premier-christine-frechette.html",
+        "summary": "Far behind in the polls, Quebecs governing party chose Christine Frchette to succeed Franois Legault and to lead it in a vote this fall.",
+        "source": "NYT > World News",
+        "objectivity_score": 85,
+        "sentiment": "Negative",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "christine fr\u00e9chette",
+            "lead coalition avenir qu\u00e9bec far",
+            "christine frchette"
+        ]
+    },
+    {
         "title": "Israel\u2019s War",
         "link": "https://www.nytimes.com/2026/04/12/world/israel-lebanon-iran-hungary-orban.html",
         "summary": "Prime Minister Benjamin Netanyahu was instrumental in taking the U.S. to war with Iran. Now, he is trying to prolong the fighting.",
@@ -1596,77 +1630,18 @@
         ]
     },
     {
-        "title": "Iran\u2019s Underground Air Force Base Was Hit Earlier in the War",
-        "link": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-underground-air-force-base.html",
-        "summary": "Satellite imagery shows impact craters at and near the tunnel entrances to aircraft shelters at Irans remote Eagle 44 base.",
-        "source": "NYT > World News",
-        "objectivity_score": 62,
-        "sentiment": "Negative",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "air force",
-            "base was",
-            "imagery shows impact craters"
-        ]
-    },
-    {
-        "title": "U.S.-Iran Negotiations End With No Deal",
-        "link": "https://www.nytimes.com/video/world/middleeast/100000010836654/iran-united-states-war-negotiations.html",
-        "summary": "Marathon peace talks between the United States and Iran failed to produce a deal to fully reopen the Strait of Hormuz and end the war. President Trump said on social media Sunday that the U.S. would e...",
-        "source": "NYT > World News",
-        "objectivity_score": 46,
-        "sentiment": "Negative",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "u.s.-iran negotiations",
-            "deal marathon",
-            "social media"
-        ]
-    },
-    {
-        "title": "Iran\u2019s Top Negotiator Says Talks Failed Because U.S. Failed to Win Trust",
-        "link": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html",
-        "summary": "Iranian officials said that while Iran had approached the negotiations in good faith, the U.S. team had not gained the Iranian delegations trust.",
-        "source": "NYT > World News",
-        "objectivity_score": 42,
+        "title": "\u2018This scene is alive\u2019: Abidjan art week showcases city as growing cultural hub",
+        "link": "https://www.theguardian.com/world/2026/apr/13/abidjan-art-week-cote-d-ivoire-culture",
+        "summary": "Late-night gallery tours and new venues signal a city staking its claim as a regional arts capitalOn a recent weekday evening, the doors of more than a dozen galleries and museums across Abidjan staye...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "top negotiator says talks failed",
-            "u.s. failed",
-            "good faith"
-        ]
-    },
-    {
-        "title": "Clearing naval mines is painstaking, dangerous work.",
-        "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan/clearing-naval-mines-is-painstaking-dangerous-work",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 90,
-        "sentiment": "Negative",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "naval mines",
-            "dangerous work"
-        ]
-    },
-    {
-        "title": "Israel Launches New Attacks in Lebanon, Days Ahead of Rare Direct Talks",
-        "link": "https://www.nytimes.com/2026/04/12/world/middleeast/israel-lebanon-attacks-talks.html",
-        "summary": "Israels campaign targeting Hezbollah in Lebanon has been a source of tension in the U.S.-Iran cease-fire. Israeli and Lebanese officials plan to meet for rare talks in Washington this week.",
-        "source": "NYT > World News",
-        "objectivity_score": 66,
-        "sentiment": "Positive",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "israel launches",
-            "rare direct talks israels",
-            "officials plan"
+            "alive \u2019",
+            "art week showcases city",
+            "cultural hub"
         ]
     },
     {
@@ -1727,21 +1702,6 @@
             "bitter fallout",
             "co-founded.the charity",
             "high court"
-        ]
-    },
-    {
-        "title": "Four men deported by US to Eswatini have right to see lawyer, court rules",
-        "link": "https://www.theguardian.com/us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule",
-        "summary": "The men, sent to the southern African country in July, have been denied in-person counsel for nine months Four men deported by the US to Eswatini and denied in-person legal counsel for nine months whi...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 16,
-        "sentiment": "Neutral",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "court rules",
-            "in-person counsel",
-            "legal counsel"
         ]
     },
     {
@@ -1895,99 +1855,144 @@
         ]
     },
     {
-        "title": "Susan Coyle to be first woman to lead Australian army in \u2018deeply historic moment\u2019",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/13/susan-coyle-chief-of-army-australia",
-        "summary": "Appointment part of a raft of senior defence changes as current navy chief Mark Hammond promoted to chief of defence forceFollow our Australia news live blog for latest updatesGet our breaking news em...",
+        "title": "Defence chief says Australian ships \u2018ready, capable\u2019 as Albanese calls on US and Iran to reopen strait of Hormuz",
+        "link": "https://www.theguardian.com/world/2026/apr/13/australia-pm-albanese-us-iran-peace-talks-reopen-strait-of-hormuz",
+        "summary": "Australian prime minister says its disappointing that there was no resolution on freedom of movement during weekends talksFollow our Australia news live blog for latest updatesGet our breaking news em...",
         "source": "World news | The Guardian",
-        "objectivity_score": 35,
+        "objectivity_score": 38,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "susan coyle",
-            "historic moment \u2019 appointment part",
-            "senior defence changes"
+            "ships \u2018",
+            "capable \u2019",
+            "reopen strait"
         ]
     },
     {
-        "title": "Australia news live: Susan Coyle to become nation\u2019s first female army chief as PM announces slate of defence top brass changes",
+        "title": "Australia news live: Barnaby Joyce says criminals need \u2018redemption\u2019 after Pauline Hanson sacks convicted rapist; Labor \u2018not considering\u2019 joining US blockade of strait of Hormuz",
         "link": "https://www.theguardian.com/australia-news/live/2026/apr/13/australia-news-live-anthony-albanese-prime-minister-fuel-supply-diesel-oil-cost-of-living-inflation-budget-ntwnfb",
-        "summary": "Coyle to replace the retiring chief of army, Lieutenant General Simon Stuart. Follow todays news liveGet our breaking news email, free app or daily news podcastGovernment to fund ads for helpline on p...",
+        "summary": "Follow todays news liveGet our breaking news email, free app or daily news podcastGovernment to fund ads for helpline on pornography websitesThe child abuse prevention service is operated by Jesuit So...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
+        "sentiment": "Positive",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "barnaby joyce",
+            "criminals need \u2018 redemption \u2019",
+            "pauline hanson"
+        ]
+    },
+    {
+        "title": "Girl, 13, looked up punishment for running someone over after hitting cyclist in stolen car, court hears",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/13/melbourne-teen-girl-searched-punishment-for-running-someone-over-ntwnfb",
+        "summary": "Teen who allegedly targeted Jewish community members thrived on notoriety and was invested in social media reaction to her alleged offending, police sayFollow our Australia news live blog for latest u...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "court hears",
+            "jewish community members",
+            "social media reaction"
+        ]
+    },
+    {
+        "title": "Uber adds fuel surcharge for non-EV fares in Australia amid petrol price rises",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/13/uber-fuel-surcharge-australia-petrol-prices",
+        "summary": "Trips in electric vehicles will be exempt from the temporary fee of 5 cents a kilometre, rideshare firm saysFollow our Australia news live blog for latest updatesGet our breaking news email, free app ...",
         "source": "World news | The Guardian",
         "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "susan coyle",
-            "nation \u2019 s",
-            "female army chief"
+            "fuel surcharge",
+            "non-ev fares",
+            "petrol price rises"
         ]
     },
     {
-        "title": "Pauline Hanson says convicted rapist employed by One Nation has been sacked",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/12/one-nation-convicted-rapist-staff-pauline-hanson-liberal-ntwnfb",
-        "summary": "James Paterson had called decision by Pauline Hansons party to rehire Sean Black absolutely extraordinaryFollow our Australia news live blog for latest updatesGet our breaking news email, free app or ...",
+        "title": "Is Gout Gout faster than Usain Bolt? Australian sprinter sets sights on Jamaican great\u2019s 200m record",
+        "link": "https://www.theguardian.com/sport/2026/apr/13/how-fast-gout-gout-australian-sprinter-usain-bolt",
+        "summary": "Coach believes theres no limit to 18-year-olds talent while athlete himself says hes ready for moreHaving cracked the 20-second barrier with a sizzling run over 200m  and in the process fulled compari...",
         "source": "World news | The Guardian",
-        "objectivity_score": 44,
+        "objectivity_score": 43,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "pauline hanson",
-            "james paterson",
-            "pauline hansons"
+            "gout gout",
+            "usain bolt",
+            "great \u2019 s 200m record coach"
         ]
     },
     {
-        "title": "All Australian immigration detainees to be handcuffed while travelling, US company says after spate of escapes",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/13/all-australian-immigration-detainees-to-be-handcuffed-while-travelling-us-company-says-after-spate-of-escapes-ntwnfb",
-        "summary": "Exclusive: Documents viewed by Guardian Australia reveal private prison contractor told staff restraints must be used for all risk levelsFollow our Australia news live blog for latest updatesGet our b...",
+        "title": "Magyar set to outline Hungary plans after resounding victory over Orb\u00e1n \u2013 Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/apr/13/hungary-peter-magyar-viktor-orban-trump-russia-ukraine-iran-eu-europe-latest-news-updates",
+        "summary": "Winners Tisza party to control more than two-thirds of new parliament, offering chance for a complete break with changes wrought by illiberal regimeGood morning from Budapest, as the city reluctantly ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
+        "objectivity_score": 51,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "immigration detainees",
-            "us company",
-            "guardian australia"
+            "winners tisza",
+            "new parliament",
+            "changes wrought"
         ]
     },
     {
-        "title": "Australia should set immigration targets to achieve a \u2018stable temporary population\u2019, report says",
-        "link": "https://www.theguardian.com/world/2026/apr/13/australia-should-set-immigration-targets-to-achieve-a-stable-temporary-population-report-says",
-        "summary": "Experts say our preoccupation with net overseas migration figures has distracted from a more meaningful discussion on the scale of temporarinessFollow our Australia news live blog for latest updatesGe...",
+        "title": "Monday briefing: Hungary chooses P\u00e9ter Magyar over Viktor Orb\u00e1n",
+        "link": "https://www.theguardian.com/world/2026/apr/13/monday-briefing-hungary-election-peter-magyar-viktor-orban",
+        "summary": "In todays newsletter: Orbn concedes defeat after 16 years in power, ushering in a new era for Hungarys relations with the EU, US and RussiaGood morning. The people of Hungary are waking up in an unfam...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "p\u00e9ter magyar",
+            "viktor orb\u00e1n",
+            "todays newsletter"
+        ]
+    },
+    {
+        "title": "\u2018Hungary has chosen Europe\u2019: EU leaders jubilant after P\u00e9ter Magyar\u2019s victory over Orb\u00e1n",
+        "link": "https://www.theguardian.com/world/2026/apr/13/hungary-election-results-eu-europe-leaders-react-peter-magyar-viktor-orban",
+        "summary": "Congratulations pour in from across EU, with leaders from Spain, Poland, France, Britain, Denmark, Romania, Sweden and beyond hailing a new chapterFull report: Hungarian opposition ousts Viktor Orbn a...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "immigration targets",
-            "stable temporary population \u2019",
-            "net overseas migration figures"
+            "leaders jubilant",
+            "p\u00e9ter magyar",
+            "\u2019 s victory"
         ]
     },
     {
-        "title": "Magyar celebrates as Orb\u00e1n\u2019s 16-year rule ends - as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates",
-        "summary": "This live blog is now closed. You can read more about election night hereEurope correspondentNot a regular observer of Hungarian politics? Weve got you. Continue reading...",
+        "title": "\u20ac1m Picasso painting to be won for \u20ac100 in charity raffle",
+        "link": "https://www.theguardian.com/artanddesign/2026/apr/13/picasso-tete-de-femme-charity-raffle",
+        "summary": "Number of tickets to win Tte de Femme will be capped at 120,000 and proceeds will go to Alzheimers researchA raffle in France is offering the chance to win a portrait by Pablo Picasso for the price of...",
         "source": "World news | The Guardian",
-        "objectivity_score": 29,
+        "objectivity_score": 26,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "\u2019 s 16-year rule ends",
-            "election night hereeurope correspondentnot",
-            "regular observer"
+            "charity raffle",
+            "researcha raffle",
+            "pablo picasso"
         ]
     },
     {
         "title": "Hungarian opposition ousts Viktor Orb\u00e1n after 16 years in power",
         "link": "https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election",
-        "summary": "Pter Magyars Tisza party wins election as prime minister concedes defeat, in result likely to reshape ties with EUHungary election liveHungarys opposition Tisza party, led by Pter Magyar, has won the ...",
+        "summary": "Pter Magyars Tisza party wins election as prime minister concedes defeat, in result likely to reshape ties with EUHungary has chosen Europe: EU leaders jubilant after Magyars victoryHungarys oppositio...",
         "source": "World news | The Guardian",
         "objectivity_score": 53,
         "sentiment": "Neutral",
@@ -2000,48 +2005,18 @@
         ]
     },
     {
-        "title": "Irish police clear Dublin blockade staged by fuel price protesters",
-        "link": "https://www.theguardian.com/world/2026/apr/12/irish-police-clear-dublin-blockade-fuel-price-protesters-farmers-hauliers",
-        "summary": "Hundreds of officers deployed to regain control of OConnell Street on sixth day of protests by farmers and hauliersPolice have cleared a blockade of central Dublin by farmers and hauliers who were pro...",
+        "title": "Middle East crisis live: US blockade of Iran\u2019s ports to begin later today as Trump says he doesn\u2019t care about further talks",
+        "link": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+        "summary": "Centcom says blockade to begin at 10am ET; US president says I dont care if they come back or notFull report: Trump says US will blockade strait of Hormuz after Iran peace talks failPlaneloads of nego...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
+        "objectivity_score": 33,
         "sentiment": "Neutral",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "irish police",
-            "fuel price protesters",
-            "regain control"
-        ]
-    },
-    {
-        "title": "Britain could adopt single market rules without MPs\u2019 vote as part of UK-EU reset",
-        "link": "https://www.theguardian.com/politics/2026/apr/12/britain-single-market-rules-uk-eu-reset",
-        "summary": "Exclusive: Ministers planning new legislation for alignment without full parliamentary scrutiny if in national interestMinisters are planning to fundamentally reshape Britains relationship with the Eu...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Neutral",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "market rules",
-            "\u2019 vote",
-            "new legislation"
-        ]
-    },
-    {
-        "title": "Interest in EVs surges in Europe as fuel prices jump after Iran war",
-        "link": "https://www.theguardian.com/environment/2026/apr/12/interest-evs-surge-europe-fuel-prices-iran-war",
-        "summary": "Demand at online marketplaces could settle at a new, higher normal, with the crisis leaving consumers scarredCar buyers interest in electric cars has surged across Europe since the start of the war in...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 58,
-        "sentiment": "Positive",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "fuel prices",
-            "online marketplaces",
-            "consumers scarredcar buyers interest"
+            "us blockade",
+            "\u2019 s ports",
+            "doesn \u2019 t care"
         ]
     },
     {
@@ -2057,21 +2032,6 @@
             "strike kills paramedic",
             "red cross \u2013",
             "herea post"
-        ]
-    },
-    {
-        "title": "Middle East crisis live: Iran warns US blockade of strait of Hormuz would violate ceasefire",
-        "link": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
-        "summary": "Centcom says blockade of Iranian ports to begin at 10am ET; Irans negotiator says we will not bow to threats; oil prices rise. Follow the latest newsFull report: Trump says US will blockade strait of ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "warns us blockade",
-            "oil prices rise",
-            "newsfull report"
         ]
     },
     {
@@ -2092,16 +2052,16 @@
     {
         "title": "Planeloads of negotiators and too little time: US and Iran\u2019s 21 hours of talks",
         "link": "https://www.theguardian.com/world/2026/apr/12/us-iran-21-hours-talks-war-vance-pakistan",
-        "summary": "The two sides turned up to test one anothers resolve. It was probably unrealistic to expect a dispute that has taken up years of discussion to be settled in one marathon session Middle East crisis  li...",
+        "summary": "The two sides turned up to test one anothers resolve. It was probably unrealistic to expect a dispute that has taken up years of discussion to be settled in one marathon sessionMiddle East crisis  liv...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "marathon session",
-            "sheer number",
-            "negotiators flown"
+            "marathon sessionmiddle",
+            "east crisis",
+            "sheer number"
         ]
     },
     {
@@ -2195,6 +2155,51 @@
         ]
     },
     {
+        "title": "More than a fifth of UK\u2019s \u2018austerity children\u2019 scarred by poverty, study says",
+        "link": "https://www.theguardian.com/society/2026/apr/13/uk-austerity-children-scarred-poverty-study-conservatives",
+        "summary": "Researchers say hardship is a direct legacy of welfare benefit cuts imposed by Tory governments in recent years More than a fifth of all austerity generation British children have been scarred by pove...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s \u2018 austerity children \u2019",
+            "direct legacy",
+            "welfare benefit cuts"
+        ]
+    },
+    {
+        "title": "Private firms providing services to NHS made \u00a31.6bn profit in two years, research finds",
+        "link": "https://www.theguardian.com/society/2026/apr/13/private-companies-nhs-services-profit-chpi-research",
+        "summary": "Exclusive: MPs say profit-making levels in England are scandalous and call for cap on amount private companies can make from NHSPrivate firms providing services to the NHS including healthcare and con...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "private firms",
+            "\u00a31.6bn profit",
+            "private companies"
+        ]
+    },
+    {
+        "title": "Mysterious Lake District barn joins national treasures on heritage list",
+        "link": "https://www.theguardian.com/culture/2026/apr/13/mysterious-lake-district-barn-national-treasures-heritage",
+        "summary": "Officials grant Grade II* protection to rare building that raises more questions than it answersIt is an elite list with some of the most significant and beautiful buildings and structures in England,...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 72,
+        "sentiment": "Positive",
+        "date": "2026-04-13",
+        "image_url": null,
+        "keywords": [
+            "lake district barn joins",
+            "national treasures",
+            "heritage list officials grant"
+        ]
+    },
+    {
         "title": "Massive Attack frontman Robert Del Naja among 500 arrested at Palestine Action protest",
         "link": "https://www.theguardian.com/music/2026/apr/13/robert-del-naja-massive-attack-arrested-palestine-action-protest-trafalgar-square-london",
         "summary": "Musician says he wanted to attend the protest despite the consequences a potential arrest could have on his music careerMassive Attack frontman Robert Del Naja has been arrested on suspicion of showin...",
@@ -2225,48 +2230,48 @@
         ]
     },
     {
-        "title": "Fried nuggets and steamed sponges off menu in school food overhaul in England",
-        "link": "https://www.theguardian.com/education/2026/apr/12/school-food-overhaul-england-fried-nuggets-steamed-sponges",
-        "summary": "Campaigners welcome first update of school food standards in 13 years, which aims to help lower obesity ratesThe government is to announce an overhaul to school food standards in England that will lea...",
+        "title": "Oil price tops $100 a barrel after US-Iran talks fail and Trump orders strait of Hormuz blockade",
+        "link": "https://www.theguardian.com/business/2026/apr/13/oil-price-tops-100-dollars-barrel-us-blockade-strait-of-hormuz",
+        "summary": "US Navy to impose blockade today in bid to choke off flow of Iranian oil Explainer: strait of Hormuz blockadeBusiness live  latest updatesOil prices have jumped back above $100 a barrel after weekend ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "school food overhaul",
-            "england campaigners",
-            "school food standards"
+            "oil price tops $",
+            "orders strait",
+            "blockade us navy"
         ]
     },
     {
-        "title": "No need for hard stares as Paddington: The Musical triumphs at Olivier awards",
-        "link": "https://www.theguardian.com/stage/2026/apr/12/paddington-the-musical-triumphs-at-the-olivier-awards",
-        "summary": "West End spectacular about beloved bear wins seven prizes, while Rachel Zegler, Rosamund Pike and Paapa Essiedu all recognisedOlivier awards 2026: full list of winnersIt was a night of sweet victory f...",
+        "title": "Donald Trump launches extraordinary attack on Pope Leo calling him \u2018weak\u2019 and \u2018terrible\u2019",
+        "link": "https://www.theguardian.com/world/2026/apr/13/donald-trump-pope-leo",
+        "summary": "President says US-born pope is not doing a very good job and is a very liberal person in unprecedented assault on leader of Catholic church President Donald Trump has delivered an extraordinary broads...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
+        "objectivity_score": 55,
         "sentiment": "Positive",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "hard stares",
-            "west end",
-            "rachel zegler"
+            "donald trump",
+            "extraordinary attack",
+            "pope leo"
         ]
     },
     {
-        "title": "UK will not join any Trump blockade of strait of Hormuz",
-        "link": "https://www.theguardian.com/world/2026/apr/12/wes-streeting-attacks-trump-outrageous-iran-war-rhetoric",
-        "summary": "UKs willingness to consider role in removing mines from strait is seen as distinct from Trumps blockade proposalMiddle East crisis  live updatesThe UK will not be involved in any blockade of the strai...",
+        "title": "Iran war could plunge 32 million into poverty, says United Nations",
+        "link": "https://www.theguardian.com/society/2026/apr/13/iran-conflict-poverty-united-nations-development-reverse",
+        "summary": "Development in reverse taking place involving rising energy and food costs and weaker economic growthMore than 32 million people worldwide could be plunged into poverty by the economic fallout from th...",
         "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
         "date": "2026-04-13",
         "image_url": null,
         "keywords": [
-            "hormuz uks",
-            "blockade proposalmiddle",
-            "east crisis"
+            "food costs",
+            "economic growthmore",
+            "people worldwide"
         ]
     },
     {
@@ -2297,51 +2302,6 @@
             "conspiracy theorist",
             "joel gilbert",
             "accuses congressman"
-        ]
-    },
-    {
-        "title": "\u2018This is not serious leadership\u2019: Donald Trump and Marco Rubio watch UFC in Miami as Iran talks fail",
-        "link": "https://www.theguardian.com/sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war",
-        "summary": "President has long been a fan of mixed martial artsIvanka and Donald Trump Jr also at eventDonald Trump and US secretary of state Marco Rubio attended a UFC event in Miami night on Saturday night as p...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "serious leadership \u2019",
-            "donald trump",
-            "marco rubio"
-        ]
-    },
-    {
-        "title": "One dead and six wounded after mass shooting at Chick-fil-A in New Jersey",
-        "link": "https://www.theguardian.com/us-news/2026/apr/12/mass-shooting-chick-fil-a-new-jersey",
-        "summary": "Officials say no arrests made at this time and that shooting does not appear to be a random act of violenceSeven people were shot, including one fatally, at a fast-food chain restaurant in Union Towns...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Neutral",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "mass shooting",
-            "random act",
-            "violenceseven people"
-        ]
-    },
-    {
-        "title": "Move to expel Democrat Eric Swalwell from Congress gains steam",
-        "link": "https://www.theguardian.com/us-news/2026/apr/12/congress-eric-swalwell-tony-gonzales",
-        "summary": "Pressure mounts on Californian, who denies rape claims, and on Texan Tony Gonzales, who had affair with staffer who died by suicideSign up for the Breaking News US email to get newsletter alerts in yo...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Positive",
-        "date": "2026-04-13",
-        "image_url": null,
-        "keywords": [
-            "democrat eric swalwell",
-            "gains steam",
-            "denies rape claims"
         ]
     }
 ]
