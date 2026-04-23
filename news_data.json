@@ -737,76 +737,100 @@
         ]
     },
     {
-        "title": "Health data of 500,000 people offered for sale online in China after UK Biobank breach",
-        "link": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
-        "summary": "The government said medical data was affected but no personally identifiable information had been made available.",
+        "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+        "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+        "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
         "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "health data",
-            "sale online",
-            "uk biobank"
-        ]
-    },
-    {
-        "title": "High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals",
-        "link": "https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&at_campaign=rss",
-        "summary": "Across the UK, shopfronts are being exploited by criminal gangs pushing illegal drugs, experts say.",
-        "source": "BBC News",
-        "objectivity_score": 57,
-        "sentiment": "Negative",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "high street mini-marts",
-            "prescription drugs",
-            "criminal gangs"
-        ]
-    },
-    {
-        "title": "Lyse Doucet: In Tehran, money is short and a return to war looms over daily life",
-        "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
-        "source": "BBC News",
-        "objectivity_score": 22,
+        "objectivity_score": 45,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "lyse doucet",
-            "war looms",
-            "daily life"
+            "king 's visit",
+            "repair relations",
+            "phone interview"
         ]
     },
     {
-        "title": "Three men guilty of 'callous' Brighton beach rape",
-        "link": "https://www.bbc.com/news/articles/cvg090pe65vo?at_medium=RSS&at_campaign=rss",
-        "summary": "The men had denied targeting the woman in the early hours of 4 October.",
+        "title": "Police arrest two over alleged drug sales through shops in West Midlands after BBC investigation",
+        "link": "https://www.bbc.com/news/articles/c3w3v77l23xo?at_medium=RSS&at_campaign=rss",
+        "summary": "It follows a BBC investigation that found High Street mini-marts were selling drugs in some West Midlands towns.",
         "source": "BBC News",
-        "objectivity_score": 65,
-        "sentiment": "Negative",
+        "objectivity_score": 21,
+        "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "beach rape",
-            "early hours"
+            "police arrest",
+            "drug sales",
+            "high street mini-marts"
         ]
     },
     {
-        "title": "Senior manager who worked at Lucy Letby's hospital arrested",
-        "link": "https://www.bbc.com/news/articles/c5ylnvpg3l9o?at_medium=RSS&at_campaign=rss",
-        "summary": "The arrest was made as part of a wider investigation into leadership at the Countess of Chester Hospital.",
+        "title": "Masked Iranian forces appear to seize ships in staged video",
+        "link": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Analysis indicates that parts of the video appear to have been filmed hours after the ships were reportedly seized.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "lucy letby",
-            "'s hospital"
+            "masked iranian"
+        ]
+    },
+    {
+        "title": "Rapist who infected men and boys with HIV jailed",
+        "link": "https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&at_campaign=rss",
+        "summary": "A judge says Adam Hall took away the futures of his victims, including boys aged 15 and 17.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "adam hall"
+        ]
+    },
+    {
+        "title": "Proxy attacks in UK a real and growing concern, says PM",
+        "link": "https://www.bbc.com/news/articles/clyxlnzrq41o?at_medium=RSS&at_campaign=rss",
+        "summary": "The prime minister says he is increasingly worried a number of countries are behind attacks in the UK.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "prime minister"
+        ]
+    },
+    {
+        "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
+        "link": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
+        "summary": "Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way.",
+        "source": "BBC News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "glacier blocks",
+            "world 's",
+            "huge block"
+        ]
+    },
+    {
+        "title": "No rape took place outside Epsom church, say police",
+        "link": "https://www.bbc.com/news/articles/c86ezy3qvjno?at_medium=RSS&at_campaign=rss",
+        "summary": "The force says the woman concerned had injured her head on a night out and made 'a confused report'.",
+        "source": "BBC News",
+        "objectivity_score": 37,
+        "sentiment": "Negative",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "news"
         ]
     },
     {
@@ -825,66 +849,109 @@
         ]
     },
     {
-        "title": "Riot police to deploy on French beaches under new deal to stop illegal Channel migrant crossings",
-        "link": "https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&at_campaign=rss",
-        "summary": "The three-year agreement will see at least 50 riot-trained police officers drafted in to tackle violence and hostile crowds.",
+        "title": "Health data of 500,000 people offered for sale online in China after UK Biobank breach",
+        "link": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
+        "summary": "The government said medical data was affected but no personally identifiable information had been made available.",
         "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Negative",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "illegal channel migrant crossings",
-            "three-year agreement",
-            "police officers"
+            "health data",
+            "sale online",
+            "uk biobank"
         ]
     },
     {
-        "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
-        "link": "https://www.bbc.com/news/articles/c9d4zgnqpqeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Evie and her mother were enjoying a day trip to south Wales when they came across the amphibian.",
+        "title": "Which airlines are cancelling flights to the UK - and what can you do?",
+        "link": "https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Airlines are putting up prices and cancelling flights in response to higher jet fuel prices.",
         "source": "BBC News",
         "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "rare mexican axolotl",
-            "day trip"
+            "jet fuel prices"
         ]
     },
     {
-        "title": "No Fifa plan for Italy to replace Iran at World Cup",
-        "link": "https://www.bbc.com/sport/football/articles/cy813gy08v2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Fifa stands by comments made last week by president Gianni Infantino in which he said that \"the Iranian team is coming, for sure\".",
-        "source": "BBC News",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "world cup",
-            "gianni infantino"
-        ]
-    },
-    {
-        "title": "Prince Louis holiday photo released to mark eighth birthday",
+        "title": "Prince Louis holiday video released to mark eighth birthday",
         "link": "https://www.bbc.com/news/articles/cp3lge56zxwo?at_medium=RSS&at_campaign=rss",
-        "summary": "The portrait was taken by photographer Matt Porteous in Cornwall earlier this month.",
+        "summary": "The footage was filmed by photographer Matt Porteous in Cornwall earlier this month.",
         "source": "BBC News",
         "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "holiday photo",
+            "holiday video",
             "matt porteous"
+        ]
+    },
+    {
+        "title": "My rapist deliberately gave me HIV. I was just 15",
+        "link": "https://www.bbc.com/news/articles/c86ed7zj86qo?at_medium=RSS&at_campaign=rss",
+        "summary": "Sam, who was heading home from school when he got his diagnosis, says Hall's jailing is a relief.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "hall 's"
+        ]
+    },
+    {
+        "title": "Lyse Doucet: In Tehran, money is short and a return to war looms over daily life",
+        "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
+        "source": "BBC News",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "lyse doucet",
+            "war looms",
+            "daily life"
+        ]
+    },
+    {
+        "title": "Key takeaways from senior official on Mandelson vetting",
+        "link": "https://www.bbc.com/news/articles/cy91387ljeeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Cat Little, the top official at the Cabinet Office, tells MPs \"due process\" was followed in the appointment.",
+        "source": "BBC News",
+        "objectivity_score": 59,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "cat little",
+            "top official",
+            "cabinet office"
+        ]
+    },
+    {
+        "title": "A tiny island church where couples worry about high tide making them late",
+        "link": "https://www.bbc.com/news/articles/c3r3pz82g58o?at_medium=RSS&at_campaign=rss",
+        "summary": "The little medieval church - where you need the tide book alongside a prayer book.",
+        "source": "BBC News",
+        "objectivity_score": 42,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "tiny island church",
+            "high tide making",
+            "medieval church"
         ]
     },
     {
         "title": "The boy who vanished: 50 years on from the disappearance of Sandy Davidson",
         "link": "https://www.bbc.com/news/articles/cqj8nekkg09o?at_medium=RSS&at_campaign=rss",
-        "summary": "The three--year-old went missing after chasing after a dog that escaped from his grandparents' garden in Irvine in 1976.",
+        "summary": "The three-year-old went missing after chasing after a dog that escaped from his grandparents' garden in Irvine in 1976.",
         "source": "BBC News",
         "objectivity_score": 5,
         "sentiment": "Negative",
@@ -895,163 +962,121 @@
         ]
     },
     {
-        "title": "The furious debate over building houses on golf courses",
-        "link": "https://www.bbc.com/news/articles/ce8jjne5ereo?at_medium=RSS&at_campaign=rss",
-        "summary": "Are golf courses the right places to build housing, or are they simply a soft target?",
-        "source": "BBC News",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "furious debate",
-            "golf courses",
-            "golf courses"
-        ]
-    },
-    {
-        "title": "Watch: BBC goes undercover at mini-mart selling drugs",
-        "link": "https://www.bbc.com/news/videos/cd6ldv655lpo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC UK editor Ed Thomas confronts a shopkeeper secretly filmed selling cannabis and cocaine to one of our researchers.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Negative",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "bbc uk",
-            "ed thomas"
-        ]
-    },
-    {
-        "title": "'My instinct was to help him': Runners help exhausted man finish Boston Marathon",
-        "link": "https://www.bbc.com/news/videos/cj0v65l4y9yo?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC spoke to Boston marathon runner, Ajay Haridasse, who was helped over the finish line by two strangers.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Negative",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "'my instinct",
-            "man finish",
-            "boston marathon"
-        ]
-    },
-    {
-        "title": "The Drama star Jordyn Curet says playing young Zendaya is 'dream come true'",
+        "title": "Playing teen version of Zendaya's character is 'dream come true' for The Drama's Jordyn Curet",
         "link": "https://www.bbc.com/news/articles/cvgkwk9525zo?at_medium=RSS&at_campaign=rss",
         "summary": "Jordyn Curet speaks of the \"pressure\" and \"excitement\" of playing the younger version of Zendaya.",
         "source": "BBC News",
-        "objectivity_score": 35,
+        "objectivity_score": 21,
         "sentiment": "Positive",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "jordyn curet",
-            "jordyn curet"
+            "teen version",
+            "'s character",
+            "jordyn curet jordyn curet"
         ]
     },
     {
-        "title": "'My baby scratches and scratches': Families say their homes are making their children sick",
-        "link": "https://www.bbc.com/news/articles/cm2r70gwkjjo?at_medium=RSS&at_campaign=rss",
-        "summary": "A cross-party report has called for safer conditions for the record number of families living in temporary accommodation.",
+        "title": "Meet the 19-metre octopus that prowled the seas 100 million years ago",
+        "link": "https://www.bbc.com/news/articles/cyv1rgm16r2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Giant octopuses may have ruled the oceans 100 million years ago, according to fossil evidence.",
         "source": "BBC News",
-        "objectivity_score": 85,
-        "sentiment": "Negative",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "'my baby scratches",
-            "cross-party report",
-            "safer conditions"
-        ]
-    },
-    {
-        "title": "How Russell is surprising himself in title race - and the positives of F1's new rules",
-        "link": "https://www.bbc.com/sport/formula1/articles/c0kr03vynjro?at_medium=RSS&at_campaign=rss",
-        "summary": "George Russell tells BBC Sport how he would enjoy more competition for the F1 title and why his approach to racing is the same as when he was 10 years old.",
-        "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "title race",
-            "new rules",
-            "george russell"
-        ]
-    },
-    {
-        "title": "Israeli strikes kill eight Palestinians in Gaza, first responders say",
-        "link": "https://www.bbc.com/news/articles/cly60dwxjd1o?at_medium=RSS&at_campaign=rss",
-        "summary": "One strike killed three children and two adults near a mosque in the northern town of Beit Lahia on Wednesday evening.",
-        "source": "BBC News",
-        "objectivity_score": 24,
+        "objectivity_score": 100,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "northern town",
-            "beit lahia"
+            "19-metre octopus",
+            "fossil evidence"
         ]
     },
     {
-        "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
-        "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
+        "title": "Three men guilty of 'callous' Brighton beach rape",
+        "link": "https://www.bbc.com/news/articles/cvg090pe65vo?at_medium=RSS&at_campaign=rss",
+        "summary": "The men, who are all asylum seekers, had denied targeting the woman in the early hours of October 4.",
+        "source": "BBC News",
+        "objectivity_score": 65,
+        "sentiment": "Negative",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "beach rape",
+            "asylum seekers",
+            "early hours"
+        ]
+    },
+    {
+        "title": "PC Andrew Harper's widow unveils 'hero' memorial",
+        "link": "https://www.bbc.com/news/articles/c5ywjn9zpyjo?at_medium=RSS&at_campaign=rss",
+        "summary": "A stone tribute honours PC Harper, who was dragged by a car after confronting quad bike thieves.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "air strike",
-            "prime minister",
-            "war crimes"
+            "pc andrew harper",
+            "'s widow unveils 'hero",
+            "stone tribute honours"
         ]
     },
     {
-        "title": "Travelodge gave us keys to other people's rooms twice in a week",
-        "link": "https://www.bbc.com/news/articles/c203771ek9lo?at_medium=RSS&at_campaign=rss",
-        "summary": "John Nowell says his key card allowed him into a room that was occupied by a guest taking a shower.",
+        "title": "Doctor warned Nottingham attacker he would end up killing",
+        "link": "https://www.bbc.com/news/articles/c5y9nln8pvwo?at_medium=RSS&at_campaign=rss",
+        "summary": "However, Dr Faizal Seedat told the Nottingham Inquiry he did not actually believe Valdo Calocane would kill.",
         "source": "BBC News",
-        "objectivity_score": 68,
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "people 's rooms",
-            "john nowell",
-            "key card"
+            "dr faizal seedat",
+            "nottingham inquiry",
+            "valdo calocane"
         ]
     },
     {
-        "title": "Knife killings down by 21% in England and Wales, figures show",
-        "link": "https://www.bbc.com/news/articles/c30re70lqn1o?at_medium=RSS&at_campaign=rss",
-        "summary": "The annual ONS crime data also shows overall recorded homicides have fallen.",
+        "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
+        "link": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
+        "summary": "The approval came as Donald Trump is to attend a dinner with billionaire Paramount backers the Ellisons.",
         "source": "BBC News",
-        "objectivity_score": 14,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "crime data",
-            "shows overall"
+            "warner bros",
+            "'s $ 111bn takeover",
+            "donald trump"
         ]
     },
     {
-        "title": "Trump administration reclassifies cannabis as less dangerous",
-        "link": "https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&at_campaign=rss",
-        "summary": "Medical marijuana was moved into a lower category of drugs in order to increase research and access.",
+        "title": "Jewish man called 'baby killer' in antisemitic attack",
+        "link": "https://www.bbc.com/news/articles/c1mk487eppno?at_medium=RSS&at_campaign=rss",
+        "summary": "The victim says he feared for his life after being assaulted and subjected to antisemitic abuse.",
         "source": "BBC News",
-        "objectivity_score": 32,
-        "sentiment": "Negative",
+        "objectivity_score": 2,
+        "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "administration reclassifies cannabis",
-            "dangerous medical marijuana"
+            "jewish man",
+            "'baby killer",
+            "antisemitic attack"
+        ]
+    },
+    {
+        "title": "Watch: Girl describes finding rare Mexican axolotl in Wales",
+        "link": "https://www.bbc.com/news/videos/c0q9k3lekn3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Evie, 10, tells the BBC about finding the axolotl - named Dippy - and bringing it home to Leicester.",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "rare mexican axolotl",
+            "wales evie"
         ]
     },
     {
@@ -1111,6 +1136,35 @@
         ]
     },
     {
+        "title": "Big clubs and big names - a summer of managerial upheaval awaits",
+        "link": "https://www.bbc.com/sport/football/articles/cp8dgjyy714o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Sport senior football correspondent Sami Mokbel analyses a summer that promises plenty of change in the Premier League.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "big clubs",
+            "big names",
+            "managerial upheaval awaits"
+        ]
+    },
+    {
+        "title": "Football Focus to end after 52 years",
+        "link": "https://www.bbc.com/sport/football/articles/c98kz9pe01po?at_medium=RSS&at_campaign=rss",
+        "summary": "Football Focus is to end after 52 years, BBC Sport announces.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "years football",
+            "bbc sport"
+        ]
+    },
+    {
         "title": "Lamine Yamal season over but Spain star should make World Cup",
         "link": "https://www.bbc.com/sport/football/articles/cly60l1e6nxo?at_medium=RSS&at_campaign=rss",
         "summary": "Lamine Yamal will miss the rest of Barcelona's season with a hamstring injury but he is expected to return for Spain at the World Cup.",
@@ -1126,21 +1180,6 @@
         ]
     },
     {
-        "title": "Coventry owner not worried by Lampard links with Chelsea",
-        "link": "https://www.bbc.com/sport/football/articles/czjwxmd0ll3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Doug King tells BBC CWR about plans for next season and why Frank Lampard is happy at Coventry.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "chelsea doug",
-            "bbc cwr",
-            "frank lampard"
-        ]
-    },
-    {
         "title": "No Fifa plan for Italy to replace Iran at World Cup",
         "link": "https://www.bbc.com/sport/football/articles/cy813gy08v2o?at_medium=RSS&at_campaign=rss",
         "summary": "Fifa stands by comments made last week by president Gianni Infantino in which he said that \"the Iranian team is coming, for sure\".",
@@ -1152,64 +1191,6 @@
         "keywords": [
             "world cup",
             "gianni infantino"
-        ]
-    },
-    {
-        "title": "Pietersen criticises Cook for Bethell comments",
-        "link": "https://www.bbc.com/sport/cricket/articles/cy01r8ye841o?at_medium=RSS&at_campaign=rss",
-        "summary": "Kevin Pietersen rekindles an old feud with Alastair Cook by defending Jacob Bethells continued presence at the Indian Premier League.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "kevin pietersen",
-            "old feud",
-            "alastair cook"
-        ]
-    },
-    {
-        "title": "How Russell is surprising himself in F1 title race",
-        "link": "https://www.bbc.com/sport/formula1/articles/c0kr03vynjro?at_medium=RSS&at_campaign=rss",
-        "summary": "George Russell tells BBC Sport how he would enjoy more competition for the F1 title and why his approach to racing is the same as when he was 10 years old.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "title race",
-            "george russell",
-            "bbc sport"
-        ]
-    },
-    {
-        "title": "'Arsenal have been trying to nick 1-0 wins' - do they need mindset change?",
-        "link": "https://www.bbc.com/sport/football/articles/cwyw9q4vz5vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Arsenal and Manchester City are locked on points and goal difference heading into the final five games of the Premier League season.",
-        "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Positive",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "goal difference",
-            "premier league season"
-        ]
-    },
-    {
-        "title": "Iran War Live Updates: Trump Threatens Iranian Boats He Says Are Mining the Strait of Hormuz",
-        "link": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news",
-        "summary": "President Trumps latest threats came after the Pentagon said the U.S. military had boarded a second tanker carrying oil from Iran. Both sides are trying to exert authority over shipping amid uncertain...",
-        "source": "NYT > World News",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "live updates",
-            "trump threatens iranian boats"
         ]
     },
     {
@@ -1228,26 +1209,26 @@
         ]
     },
     {
-        "title": "War in Iran Gives New Fuel to a Tax Debate in Australia",
-        "link": "https://www.nytimes.com/2026/04/23/world/asia/iran-australia-natural-gas-tax.html",
-        "summary": "The worlds third-largest exporter of natural gas, Australia has been too lenient in taxing lucrative gas exports, many in the country argue.",
+        "title": "Iran War Live Updates: Trump to Host Israeli and Lebanese Officials at White House",
+        "link": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news",
+        "summary": "The talks, scheduled for later today, were moved to the White House from the State Department. The fighting in Lebanon between Israel and Hezbollah, mainly halted by a cease-fire, has threatened to un...",
         "source": "NYT > World News",
-        "objectivity_score": 56,
-        "sentiment": "Positive",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "iran gives",
-            "tax debate",
-            "worlds third-largest exporter"
+            "live updates",
+            "host israeli",
+            "white house"
         ]
     },
     {
         "title": "$106 Billion Loan Reflects E.U.\u2019s View That Peace in Ukraine Is Far Away",
         "link": "https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html",
-        "summary": "The delayed funding, which was approved on Thursday, is heavily weighted toward military spending, unlike previous European packages.",
+        "summary": "Unlike previous European assistance packages, this one is heavily weighted toward military spending, meant to put Ukraine on solid footing for a long fight.",
         "source": "NYT > World News",
-        "objectivity_score": 35,
+        "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
@@ -1255,6 +1236,63 @@
             "reflects e.u.",
             "\u2019 s view",
             "far away"
+        ]
+    },
+    {
+        "title": "Touring Africa, Pope Leo Raised His Voice, but Didn\u2019t Like the Echo",
+        "link": "https://www.nytimes.com/2026/04/23/world/europe/pope-leo-africa-trump.html",
+        "summary": "On his recent trip abroad, Leo XIV made some of his most forthright comments since becoming pope last year, but grew uncomfortable at how that criticism was interpreted.",
+        "source": "NYT > World News",
+        "objectivity_score": 53,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "touring africa",
+            "pope leo raised",
+            "recent trip"
+        ]
+    },
+    {
+        "title": "Afghans Who Helped U.S. Forces Say They\u2019re Being Pushed Back to the Taliban",
+        "link": "https://www.nytimes.com/2026/04/23/world/asia/afghans-qatar-refugees-congo.html",
+        "summary": "Once promised a move to the United States, Afghan refugees who helped U.S. forces say they face bad or worse options: resettlement to Congo or returning home to live under the Taliban.",
+        "source": "NYT > World News",
+        "objectivity_score": 44,
+        "sentiment": "Negative",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "afghans who helped u.s",
+            "forces say"
+        ]
+    },
+    {
+        "title": "Journalist Detained in Kuwait After Posting About Iran War Is Acquitted",
+        "link": "https://www.nytimes.com/2026/04/23/world/middleeast/kuwait-journalist-acquitted.html",
+        "summary": "Ahmed Shihab-Eldin, a Kuwaiti-American journalist, is expected to be released soon, after 52 days in detention, a lawyer for two of his family members said.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "journalist detained",
+            "acquitted ahmed shihab-eldin",
+            "family members"
+        ]
+    },
+    {
+        "title": "Crash That Killed 2 Americans Is a Reminder of the Depth of Security Ties in Mexico",
+        "link": "https://www.nytimes.com/2026/04/23/world/americas/mexico-crash-us-security-cia.html",
+        "summary": "The deaths of two C.I.A. officers in a crash in northern Mexico sparked questions about authorization and sovereignty, but also reflected a longstanding, sensitive security partnership between the two...",
+        "source": "NYT > World News",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "sensitive security partnership"
         ]
     },
     {
@@ -1273,6 +1311,51 @@
         ]
     },
     {
+        "title": "Tanzania Report Blames \u2018Outside Forces\u2019 for Deadly Election Violence",
+        "link": "https://www.nytimes.com/2026/04/23/world/africa/tanzania-election-violence-report.html",
+        "summary": "The findings in a new report by a commission appointed by the government were at odds with details from human rights groups, which estimate that hundreds and possibly thousands of people were killed.",
+        "source": "NYT > World News",
+        "objectivity_score": 33,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "\u2018 outside",
+            "new report",
+            "human rights groups"
+        ]
+    },
+    {
+        "title": "War in Iran Gives New Fuel to a Tax Debate in Australia",
+        "link": "https://www.nytimes.com/2026/04/23/world/asia/iran-australia-natural-gas-tax.html",
+        "summary": "The worlds third-largest exporter of natural gas, Australia has been too lenient in taxing lucrative gas exports, many in the country argue.",
+        "source": "NYT > World News",
+        "objectivity_score": 56,
+        "sentiment": "Positive",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "iran gives",
+            "tax debate",
+            "worlds third-largest exporter"
+        ]
+    },
+    {
+        "title": "Rodrigo Duterte Will Stand Trial for Crimes Against Humanity, Court Rules",
+        "link": "https://www.nytimes.com/2026/04/23/world/asia/duterte-icc-trial-drug-war.html",
+        "summary": "The International Criminal Court found there was enough evidence to try Rodrigo Duterte, the former Philippine president, for killings carried out during his crackdown on drugs.",
+        "source": "NYT > World News",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "rodrigo duterte will stand trial",
+            "crimes against humanity",
+            "international criminal court"
+        ]
+    },
+    {
         "title": "A Lost Tribe in India Makes Its Exodus to Israel",
         "link": "https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html",
         "summary": "The Bnei Menashe believe they are the children of Manasseh, a king of Judah exiled about 2,800 years ago. Evidence is thin, but Israel is welcoming them home.",
@@ -1288,120 +1371,107 @@
         ]
     },
     {
-        "title": "Trains Collide in Denmark, Leaving 5 Critically Injured",
-        "link": "https://www.nytimes.com/2026/04/23/world/europe/denmark-trains-collision-copenhagen.html",
-        "summary": "The head-on collision of two local trains happened north of Copenhagen on Thursday morning, the authorities said. The cause was not yet known.",
+        "title": "Russian Officials Say Town\u2019s Air Is Toxic, Days After Strike on Oil Refinery",
+        "link": "https://www.nytimes.com/2026/04/23/world/europe/russia-oil-refinery-black-rain.html",
+        "summary": "Since Ukraine attacked the refinery in Tuapse, starting a huge fire, residents have reported drops of dark, oily toxins falling from the sky.",
         "source": "NYT > World News",
-        "objectivity_score": 40,
+        "objectivity_score": 35,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "trains collide",
-            "critically injured",
-            "local trains"
+            "russian officials",
+            "town \u2019 s air",
+            "huge fire"
         ]
     },
     {
-        "title": "How China Is Building Its Next Outpost at Sea",
-        "link": "https://www.nytimes.com/interactive/2026/04/22/world/asia/south-china-sea-island.html",
-        "summary": "China has been quietly and quickly building an island in disputed waters off of the coast of Vietnam over the last few months.",
+        "title": "Germany, a Steadfast Ally of Israel, Now Voices Some Frustration",
+        "link": "https://www.nytimes.com/2026/04/23/world/europe/germany-israel-iran-war-support.html",
+        "summary": "In recent weeks, German officials have issued critical comments about Israel that convey Berlins recent frustration with its longtime ally.",
         "source": "NYT > World News",
-        "objectivity_score": 20,
+        "objectivity_score": 42,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "news"
+            "steadfast ally",
+            "recent weeks",
+            "german officials"
         ]
     },
     {
-        "title": "Threat of Evictions Darkens Russia\u2019s Rosy Picture of Occupied Ukraine",
-        "link": "https://www.nytimes.com/2026/04/22/world/europe/russia-occupied-territories-mariupol.html",
-        "summary": "A new law forces Ukrainians in the captured regions to get Russian title deeds or risk losing their homes.",
+        "title": "Top Condom Producer to Increase Prices Due to War in Iran",
+        "link": "https://www.nytimes.com/video/world/asia/100000010858682/iran-war-condom-prices-increase.html",
+        "summary": "The worlds top condom maker is raising prices of its products by up to 30 percent, warning that shortages of raw materials and chemicals because of the war in Iran could disrupt production.",
         "source": "NYT > World News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "evictions darkens russia",
-            "occupied ukraine",
-            "new law forces"
-        ]
-    },
-    {
-        "title": "To Iran, Trump Blinked First by Extending the Cease-Fire",
-        "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html",
-        "summary": "Irans leaders believe that they can withstand an enduring standoff longer than President Trump. The strategy could be economically devastating for average Iranians.",
-        "source": "NYT > World News",
-        "objectivity_score": 57,
-        "sentiment": "Negative",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "trump blinked",
-            "cease-fire irans"
-        ]
-    },
-    {
-        "title": "Pope Leo Is Skipping Some of Africa\u2019s Biggest Catholic Nations",
-        "link": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html",
-        "summary": "As the pontiff arrives in the tiny authoritarian nation of Equatorial Guinea, some Catholics in Africa say they are excited about his visit but are feeling a little left out.",
-        "source": "NYT > World News",
-        "objectivity_score": 37,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "pope leo",
-            "pontiff arrives",
-            "tiny authoritarian nation"
-        ]
-    },
-    {
-        "title": "A Year After Terrorist Attack, a Kashmir Town Longs for Tourists",
-        "link": "https://www.nytimes.com/2026/04/22/world/asia/kashmir-attacks-kashmir-india.html",
-        "summary": "Pahalgam, with steep ravines, grassy hillsides and pine forests, is a base for Hindu pilgrimages that business operators hope will revive visitors.",
-        "source": "NYT > World News",
-        "objectivity_score": 100,
-        "sentiment": "Negative",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "terrorist attack",
-            "tourists pahalgam",
-            "steep ravines"
-        ]
-    },
-    {
-        "title": "US Withholding Iraq\u2019s Own Oil Money Over Ties to Iran",
-        "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iraq-us-dollars-shipment-iran.html",
-        "summary": "The United States has halted dollar shipments to Iraqs cash-based economy in an effort to force the Baghdad government to distance itself from Iran. The money comes from Iraqs oil revenues.",
-        "source": "NYT > World News",
-        "objectivity_score": 100,
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "withholding iraq",
-            "oil money",
-            "dollar shipments"
+            "top condom",
+            "top condom maker",
+            "raw materials"
         ]
     },
     {
-        "title": "Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair",
-        "link": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-equatorial-guinea.html",
-        "summary": "Life is not defined solely by ones mistakes, the pope told inmates being held in a port city of Equatorial Guinea.",
+        "title": "What Questions Do You Have About the Trump-Xi Summit?",
+        "link": "https://www.nytimes.com/2026/04/23/world/trump-xi-china-reader-callout.html",
+        "summary": "Ask a Correspondent will take your questions to David Pierson, who covers Chinas foreign policy for The Times.",
+        "source": "NYT > World News",
+        "objectivity_score": 12,
+        "sentiment": "Negative",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "trump-xi summit",
+            "david pierson",
+            "foreign policy"
+        ]
+    },
+    {
+        "title": "World\u2019s Top Producer of Condoms Raises Prices as Iran War Rattles Supply Chains",
+        "link": "https://www.nytimes.com/2026/04/23/world/middleeast/karex-condom-price-increase-iran-war.html",
+        "summary": "The Malaysian company Karex, which produces about five billion condoms a year, said it was raising prices by 30 percent because of higher raw material prices and global shipping disruptions.",
+        "source": "NYT > World News",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "world \u2019 s",
+            "condoms raises prices",
+            "raw material prices"
+        ]
+    },
+    {
+        "title": "\u2018God Will Never Abandon You,\u2019 Pope Tells Prisoners in Equatorial Guinea",
+        "link": "https://www.nytimes.com/video/world/africa/100000010858713/pope-leo-prison-africa-equatorial-guinea.html",
+        "summary": "Pope Leo XIV offered words of encouragement at a prison in the tiny authoritarian nation of Equatorial Guinea, one of four countries he visited during a tour of Africa.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "god will never abandon",
+            "pope tells prisoners",
+            "equatorial guinea pope leo xiv"
+        ]
+    },
+    {
+        "title": "Zelensky details deals Ukraine signed to bolster Gulf nations\u2019 defense against Iranian drones.",
+        "link": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news/zelensky-deals-ukraine-gulf-drones",
+        "summary": "",
         "source": "NYT > World News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "pope leo",
-            "visiting african prison",
-            "urges inmates"
+            "details deals",
+            "bolster gulf nations \u2019 defense"
         ]
     },
     {
@@ -1419,31 +1489,17 @@
         ]
     },
     {
-        "title": "U.S. forces stop a second tanker they say is carrying Iranian oil.",
-        "link": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news/us-forces-stop-a-second-tanker-they-say-is-carrying-iranian-oil",
-        "summary": "",
+        "title": "U.S. Forces Board a 2nd Tanker They Say Is Carrying Oil From Iran",
+        "link": "https://www.nytimes.com/2026/04/23/world/middleeast/us-iran-oil-tanker-indian-ocean-mt-majestic-x.html",
+        "summary": "It was the second such action this week, as the Trump administration ramps up pressure on Tehran.",
         "source": "NYT > World News",
-        "objectivity_score": 0,
+        "objectivity_score": 15,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "u.s."
-        ]
-    },
-    {
-        "title": "Germany, a Steadfast Ally of Israel, Now Voices Some Frustration",
-        "link": "https://www.nytimes.com/2026/04/23/world/europe/germany-israel-iran-war-support.html",
-        "summary": "In recent weeks, German officials have issued critical comments about Israel that convey Berlins recent frustration with its longtime ally.",
-        "source": "NYT > World News",
-        "objectivity_score": 42,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "steadfast ally",
-            "recent weeks",
-            "german officials"
+            "such action",
+            "administration ramps"
         ]
     },
     {
@@ -1475,77 +1531,18 @@
         ]
     },
     {
-        "title": "Israeli Strikes Kill a Journalist and Injure Another in Lebanon",
-        "link": "https://www.nytimes.com/2026/04/22/world/middleeast/journalist-killed-israel-lebanon-strikes.html",
-        "summary": "Lebanese officials say rescue teams came under fire while trying to aid Amal Khalil, a reporter for a Lebanese newspaper, and Zeinab Faraj, a photojournalist.",
+        "title": "Trains Collide in Denmark, Leaving 5 Critically Injured",
+        "link": "https://www.nytimes.com/2026/04/23/world/europe/denmark-trains-collision-copenhagen.html",
+        "summary": "The head-on collision of two local trains happened north of Copenhagen on Thursday morning, the authorities said. The cause was not yet known.",
         "source": "NYT > World News",
-        "objectivity_score": 0,
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "israeli strikes kill",
-            "lebanon lebanese",
-            "rescue teams"
-        ]
-    },
-    {
-        "title": "King Charles Will Not Meet Epstein Victims During U.S. State Visit",
-        "link": "https://www.nytimes.com/2026/04/22/us/politics/king-charles-epstein-victims.html",
-        "summary": "Representative Ro Khanna had asked Buckingham Palace for a private meeting between the victims and King Charles during his planned visit to the U.S. next week.",
-        "source": "NYT > World News",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "charles will",
-            "epstein victims",
-            "ro khanna"
-        ]
-    },
-    {
-        "title": "Ice Sculpture Promoting Drake Album Melted by Fire Crews",
-        "link": "https://www.nytimes.com/video/world/americas/100000010856788/drake-ice-sculpture-toronto.html",
-        "summary": "Fire crews in Toronto hosed down a 25-foot tall ice sculpture that had been installed to promote a new album by the rapper Drake.",
-        "source": "NYT > World News",
-        "objectivity_score": 37,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "ice sculpture promoting drake album melted",
-            "fire crews",
-            "25-foot tall ice sculpture"
-        ]
-    },
-    {
-        "title": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-ships-strait-of-hormuz.html",
-        "summary": "A British naval agency said the two vessels had come under attack near the strait, as a U.S. blockade on Irans ports continued.",
-        "source": "NYT > World News",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "iran says",
-            "ships near",
-            "british naval agency"
-        ]
-    },
-    {
-        "title": "Anti-Trumpism Unites Europe",
-        "link": "https://www.nytimes.com/2026/04/22/world/anti-trumpism-europe-spain-italy-ukraine.html",
-        "summary": "Trumps brand has sunk so low that conservatives are now joining leftist politicians in opposing him.",
-        "source": "NYT > World News",
-        "objectivity_score": 44,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "anti-trumpism unites europe trumps",
-            "leftist politicians"
+            "trains collide",
+            "critically injured",
+            "local trains"
         ]
     },
     {
@@ -1624,11 +1621,26 @@
         ]
     },
     {
+        "title": "Dozens of Mexican mafia members arrested in California crackdown",
+        "link": "https://www.theguardian.com/us-news/2026/apr/23/mexican-mafia-arrests-california",
+        "summary": "Prosecutors say 43 people indicted on charges including murder, kidnapping, extortion and drug traffickingMore than two dozen members and associates of the Mexican mafia were arrested during an early ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 14,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "mexican mafia members",
+            "drug traffickingmore",
+            "dozen members"
+        ]
+    },
+    {
         "title": "St Vincent and Grenadines government pauses constitutional amendment bills after public backlash",
         "link": "https://www.theguardian.com/world/2026/apr/23/st-vincent-and-grenadines-government-constitutional-amendment-bills-godwin-friday",
-        "summary": "Bills are response to election petitions challenging Godwin Friday and fellow politicians eligibility to be MPs because of dual citizenshipThe St Vincent and the Grenadines government has delayed a co...",
+        "summary": "Bills are seeking to change section that opposition says makes Godwin Friday, a dual citizen, ineligible to be PMThe St Vincent and the Grenadines government has delayed a controversial effort to amen...",
         "source": "World news | The Guardian",
-        "objectivity_score": 67,
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-04-23",
         "image_url": null,
@@ -1681,21 +1693,6 @@
             "us officials",
             "drug raid",
             "possible breach"
-        ]
-    },
-    {
-        "title": "Carney names broad team to advise on tense US-Canada trade talks",
-        "link": "https://www.theguardian.com/world/2026/apr/21/mark-carney-advisers-us-canada-economic-trade",
-        "summary": "Conservatives and former provincial premiers among those PM names to advisory committee on economic relationsCanadas prime minister, Mark Carney, says his new advisory committee on economic relations ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "broad team",
-            "provincial premiers",
-            "advisory committee"
         ]
     },
     {
@@ -1774,6 +1771,36 @@
         ]
     },
     {
+        "title": "After collapse and controversy, Adelaide writers\u2019 week has a new director: \u2018I don\u2019t envy anyone in this position\u2019",
+        "link": "https://www.theguardian.com/books/2026/apr/23/after-collapse-and-controversy-adelaide-writers-week-has-a-new-director-i-dont-envy-anyone-in-this-position",
+        "summary": "Rosemarie Milsom, who formed and runs Newcastle writers festival, will take over from Louise Adler after the literary festival imploded over invitation to Randa Abdel-FattahIn January, as the implosio...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "writers \u2019 week",
+            "new director",
+            "don \u2019 t envy"
+        ]
+    },
+    {
+        "title": "\u2018A history of the Earth\u2019: Twelve Apostles revealed to be as old as 14m years",
+        "link": "https://www.theguardian.com/environment/2026/apr/24/a-history-of-the-earth-twelve-apostles-revealed-to-be-as-old-as-14m-years",
+        "summary": "Tectonic plate movements over millions of years have lifted and tilted the layers, with records of ancient earthquakes in the rocksGet our breaking news email, free app or daily news podcastMicroscopi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 55,
+        "sentiment": "Positive",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "14m years",
+            "plate movements",
+            "ancient earthquakes"
+        ]
+    },
+    {
         "title": "Bibby Stockholm asylum barge contractor admits overcharging UK government \u00a3118m",
         "link": "https://www.theguardian.com/uk-news/2026/apr/23/bibby-stockholm-asylum-barge-corporate-travel-management-uk-government",
         "summary": "Australias Corporate Travel Management is negotiating commercial arrangements to refund the moneyThe Australian company that ran the Bibby Stockholm asylum barge has admitted it overcharged the Britis...",
@@ -1819,63 +1846,63 @@
         ]
     },
     {
-        "title": "Ben Roberts-Smith planned to leave Australia and researched buying wellness business in Spain, court documents show",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/23/ben-roberts-smith-planned-to-leave-australia-and-researched-buying-wellness-business-in-spain-court-documents-show",
-        "summary": "Partner of soldier accused of war crimes says the couple discussed possibility of moving overseas to create some normalcy in our livesGet our breaking news email, free app or daily news podcastBen Rob...",
+        "title": "Slovenia to air films about Palestine instead of Eurovision song contest",
+        "link": "https://www.theguardian.com/tv-and-radio/2026/apr/23/slovenia-to-air-films-about-palestine-instead-of-eurovision-song-contest",
+        "summary": "Ireland and Spain will also not broadcast Eurovision after decision to boycott live event over Israels participationNational broadcasters in Ireland, Spain and Slovenia will not air the Eurovision son...",
         "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "ben roberts-smith",
-            "buying wellness business",
-            "court documents"
-        ]
-    },
-    {
-        "title": "David Malouf, Australian author of Remembering Babylon and Ransom, dies aged 92",
-        "link": "https://www.theguardian.com/books/2026/apr/23/david-malouf-australian-author-of-remembering-babylon-and-ransom-dies-aged-92",
-        "summary": "Acclaimed Brisbane-born writer was known for his work exploring his own childhood, great myths and colonial AustraliaObituary: David Malouf, Australian writer whose work spanned the ancient world and ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "david malouf",
-            "remembering babylon",
-            "acclaimed brisbane-born"
-        ]
-    },
-    {
-        "title": "EU approves \u20ac90bn loan for Ukraine and fresh Russia sanctions \u2013 Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/apr/23/eu-ukraine-loan-russia-sanctions-zelenskyy-cyprus-latest-news-updates",
-        "summary": "Move comes after Hungary and Slovakia dropped opposition following reopening of the Druzhba oil pipelineMeanwhile, Ukraines president Volodymyr Zelenskiy said that Kyiv will seek to receive the first ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 28,
+        "objectivity_score": 66,
         "sentiment": "Positive",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "approves \u20ac90bn loan",
-            "sanctions \u2013",
-            "oil pipelinemeanwhile"
+            "air films",
+            "song contest",
+            "participationnational broadcasters"
         ]
     },
     {
-        "title": "Eighteen wolves found dead in Italian national park in suspected poisoning",
-        "link": "https://www.theguardian.com/world/2026/apr/23/wolves-found-dead-italian-national-park-suspected-poisoning",
-        "summary": "Criminal investigation under way after carcasses found across Abruzzo, Lazio and Molise national park within a weekThe carcasses of 18 wolves have been found in an Italian national park within the spa...",
+        "title": "UK prepared to deploy RAF Typhoons to keep strait of Hormuz open after Iran war",
+        "link": "https://www.theguardian.com/uk-news/2026/apr/23/uk-raf-typhoons-strait-of-hormuz-iran-war",
+        "summary": "Proposal at heart of offer made during a 30-country two-day meeting jointly organised by FranceMiddle East crisis  live updatesBritain is prepared to deploy a squadron of RAF Typhoons based in Qatar t...",
         "source": "World news | The Guardian",
         "objectivity_score": 39,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "national park",
-            "criminal investigation",
-            "national park"
+            "raf typhoons",
+            "30-country two-day meeting",
+            "east crisis"
+        ]
+    },
+    {
+        "title": "EU formally approves \u20ac90bn Ukraine loan and 20th sanctions package against Russia",
+        "link": "https://www.theguardian.com/world/2026/apr/23/eu-approves-ukraine-loan-sanctions-russia",
+        "summary": "Ursula von der Leyen hails good news after Hungarys lifting of vetoes allows leaders to sign off on agreementsEU leaders have welcomed the end of diplomatic deadlock over a long-awaited 90bn (78bn) lo...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 20,
+        "sentiment": "Positive",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "approves \u20ac90bn",
+            "20th sanctions package",
+            "russia ursula"
+        ]
+    },
+    {
+        "title": "\u2018Hairdryer or lighter?\u2019: French police look at claim of sensor tampering to win weather bets",
+        "link": "https://www.theguardian.com/world/2026/apr/23/hairdryer-or-lighter-french-police-look-at-claim-of-sensor-tampering-to-win-weather-bets",
+        "summary": "Forecasting service raises alarm over data from Paris airport used to settle Polymarket wagers on temperatureFrench police are investigating alleged tampering with national weather forecasting service...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "french police look",
+            "weather bets",
+            "service raises alarm"
         ]
     },
     {
@@ -1894,39 +1921,9 @@
         ]
     },
     {
-        "title": "Head-on train collision near Copenhagen leaves five critically injured",
-        "link": "https://www.theguardian.com/world/2026/apr/23/train-collision-denmark-near-copenhagen",
-        "summary": "At least 18 people hurt after crash involving two local services north of Denmarks capitalTwo trains have collided head-on in Denmark, injuring at least 18 people, five of whom are in a critical condi...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "train collision",
-            "people hurt",
-            "local services"
-        ]
-    },
-    {
-        "title": "Spanish conservatives revive regional pacts with far-right Vox party",
-        "link": "https://www.theguardian.com/world/2026/apr/23/spanish-conservatives-revive-regional-pacts-with-far-right-vox-party",
-        "summary": "Hard line on immigration adopted by Peoples party as right seeks to overthrow socialist government in 2027Europe live  latest updatesSpains opposition conservatives are rekindling their regional pacts...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "spanish conservatives",
-            "regional pacts",
-            "overthrow socialist government"
-        ]
-    },
-    {
         "title": "Middle East crisis live: Trump orders navy to attack any boats laying mines in strait of Hormuz",
         "link": "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
-        "summary": "President says forces can shoot and kill any boat laying mines and the US has total control of the straitImpossible to reopen strait of Hormuz amid flagrant ceasefire breaches, Iran saysThe Pentagon a...",
+        "summary": "President says forces can shoot and kill any boat laying mines and claims the US has total control of the straitImpossible to reopen strait of Hormuz amid flagrant ceasefire breaches, Iran saysThe Pen...",
         "source": "World news | The Guardian",
         "objectivity_score": 56,
         "sentiment": "Positive",
@@ -1939,63 +1936,63 @@
         ]
     },
     {
-        "title": "Lebanese journalist killed in Israeli attack had spoken of death threat",
+        "title": "Trump may talk of regime infighting, but Iran seems united by strategy born of war",
+        "link": "https://www.theguardian.com/world/2026/apr/23/trump-may-talk-of-regime-infighting-but-iran-seems-united-by-strategy-born-of-war",
+        "summary": "Tensions around US negotiations may reflect mistake of assassinating more pragmatic and experienced figuresMiddle East crisis  live updatesDonald Trump has claimed that the infighting between moderate...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 57,
+        "sentiment": "Positive",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "us negotiations",
+            "reflect mistake",
+            "east crisis"
+        ]
+    },
+    {
+        "title": "Extended naval blockade is admission US military escalation poses even greater risk",
+        "link": "https://www.theguardian.com/world/2026/apr/23/extended-naval-blockade-is-an-admission-us-military-escalation-poses-even-greater-risk",
+        "summary": "Battle of the blockades may still have more time to run as the US and Iran try to assert control over the strait of HormuzDonald Trumps decision to extend the naval blockade of Iran indefinitely may d...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "naval blockade",
+            "admission us",
+            "military escalation poses"
+        ]
+    },
+    {
+        "title": "Trump claims US has total control over strait of Hormuz after Iran seizes two container ships",
+        "link": "https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships",
+        "summary": "US president says Tehran hobbled by infighting as Pentagon reportedly briefs mine clearance may take six monthsMiddle East crisis  live updatesDonald Trump has again said that the US has total control...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 67,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "claims us",
+            "total control",
+            "container ships us president"
+        ]
+    },
+    {
+        "title": "Israeli killing of Lebanese journalist draws international condemnation",
         "link": "https://www.theguardian.com/world/2026/apr/23/lebanon-journalist-amal-khalil-israel-death-threat",
-        "summary": "Media rights groups condemn killing of Amal Khalil, who said in 2024 she had been threatened by an Israeli enemyMiddle East crisis  live updatesThe Lebanese journalist killed in an Israeli attack on W...",
+        "summary": "Lebanese PM calls attack that killed Amal Khalil a war crime, with rescuers attempting to free her also targetedMiddle East crisis  live updatesIsraels killing of a prominent Lebanese journalist in a ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 15,
+        "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "death threat",
-            "rights groups condemn",
-            "amal khalil"
-        ]
-    },
-    {
-        "title": "Erdogan says Iran war \u2018starting to weaken Europe\u2019 \u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
-        "summary": "This blog is now closed. Follow our new live blog on the Middle East crisis hereIf youre just joining us, heres the main news of the day. It is 9.30am in Tehran, 9am in Jerusalem and Beirut, and 2am i...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "crisis hereif youre",
-            "main news",
-            "washington dc.donald trump"
-        ]
-    },
-    {
-        "title": "Israeli strike kills journalist after ongoing attacks blocked rescuers, Lebanon says",
-        "link": "https://www.theguardian.com/world/2026/apr/22/lebanon-accuses-israel-of-blocking-attempt-to-rescue-journalist-after-bomb-strike",
-        "summary": "Amal Khalil had been buried in rubble after an Israeli strike that also injured another journalist, Zeinab Faraj Israeli strikes in southern Lebanon killed a journalist on Wednesday after rescuers wer...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "strike kills journalist",
-            "amal khalil",
-            "zeinab faraj israeli"
-        ]
-    },
-    {
-        "title": "\u2018Impossible\u2019 to reopen strait of Hormuz amid \u2018flagrant\u2019 ceasefire breaches, Iran says",
-        "link": "https://www.theguardian.com/world/2026/apr/22/iranian-forces-ships-seized-strait-of-hormuz-us-peace-talks",
-        "summary": "Iranian forces seize two ships in critical waterway as Washington and Tehran maintain separate blockadesMiddle East crisis  live updatesIranian forces have seized two ships in the strait of Hormuz as ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 64,
-        "sentiment": "Negative",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "reopen strait",
-            "\u2018 flagrant \u2019 ceasefire breaches",
-            "critical waterway"
+            "journalist draws",
+            "international condemnation",
+            "lebanese pm"
         ]
     },
     {
@@ -2074,11 +2071,71 @@
         ]
     },
     {
+        "title": "\u2018Toxic\u2019 views of Reform UK candidates raise questions about party\u2019s vetting",
+        "link": "https://www.theguardian.com/politics/2026/apr/23/toxic-views-reform-uk-candidates-raise-questions-about-elections-vetting",
+        "summary": "Hope Not Hate campaign identifies election hopefuls calling for a white Britain and complaining of kowtowing to the black communityA Reform UK candidate who called for a white Britain and said Keir St...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "reform uk",
+            "party \u2019 s",
+            "campaign identifies election hopefuls"
+        ]
+    },
+    {
+        "title": "Baby died after NHS trust failed to warn mother of \u2018unsafe\u2019 home birth, coroner finds",
+        "link": "https://www.theguardian.com/society/2026/apr/23/baby-died-after-nhs-trust-failed-to-warn-mother-of-unsafe-home-birth-coroner-finds",
+        "summary": "Seven-day-old Poppy Hope Lomas died after complications during home birth encouraged by midwives at Barnet hospitalA mother who lost her baby a week after an unsafe home birth that went against medica...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 20,
+        "sentiment": "Negative",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "\u2018 unsafe \u2019 home birth",
+            "seven-day-old poppy hope lomas",
+            "hospitala mother"
+        ]
+    },
+    {
+        "title": "Foreign Office unit tracking Israel\u2019s potential breaches of international law closes due to cuts",
+        "link": "https://www.theguardian.com/politics/2026/apr/23/foreign-office-unit-israel-potential-breaches-international-law-closed",
+        "summary": "Exclusive: Officials warn department will also lose access to database of 26,000 verified incidents due to cutsThe Foreign Office unit tracking potential breaches of international law by Israel in Gaz...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "foreign office unit",
+            "\u2019 s potential breaches",
+            "international law closes"
+        ]
+    },
+    {
+        "title": "Thousands call on UK ministers to cut ties with US tech giant Palantir",
+        "link": "https://www.theguardian.com/technology/2026/apr/23/thousands-call-on-uk-ministers-to-cut-ties-with-us-tech-giant-palantir",
+        "summary": "More than 200,000 have signed petitions urging the government to break contracts amid concerns about the companys supervillain manifestoMore than 200,000 people have called on ministers to break contr...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 31,
+        "sentiment": "Neutral",
+        "date": "2026-04-23",
+        "image_url": null,
+        "keywords": [
+            "us tech",
+            "companys supervillain manifestomore",
+            "apparent groundswell"
+        ]
+    },
+    {
         "title": "Private health records of half a million Britons offered for sale on Chinese website",
         "link": "https://www.theguardian.com/technology/2026/apr/23/private-health-records-uk-biobank-chinese-website-alibaba",
-        "summary": "Technology minister tells Commons de-identified information from UK Biobank advertised for sale on AlibabaUK politics live  latest updatesThe confidential health records of half a million British volu...",
+        "summary": "Technology minister tells Commons de-identified information from UK Biobank advertised for sale on AlibabaThe confidential health records of half a million British volunteers have been offered for sal...",
         "source": "World news | The Guardian",
-        "objectivity_score": 24,
+        "objectivity_score": 9,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
@@ -2089,138 +2146,78 @@
         ]
     },
     {
-        "title": "Former Labour MP calls for Starmer to face Commons committee over Mandelson vetting",
-        "link": "https://www.theguardian.com/politics/2026/apr/23/karl-turner-former-labour-mp-calls-starmer-face-commons-committee-mandelson-vetting",
-        "summary": "Karl Turner, who lost Labour whip after criticising PM and No 10, calls for privileges committee to examine if Starmer misled parliamentUK politics live  latest updatesA former Labour MP has joined op...",
+        "title": "DoJ inspector general to audit department\u2019s compliance with Epstein Files Transparency Act",
+        "link": "https://www.theguardian.com/us-news/2026/apr/23/epstein-files-transparency-act-audit",
+        "summary": "Mandated release of files was marred by missed deadlines, leaked victims  information and excessive redactionsUS politics live  latest updatesThe US Department of Justices office of the inspector gene...",
         "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Positive",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "labour mp",
-            "karl turner",
-            "privileges committee"
-        ]
-    },
-    {
-        "title": "Police and ombudsman investigate death of boy, 16, at young offender institution",
-        "link": "https://www.theguardian.com/society/2026/apr/23/police-investigate-death-boy-feltham-young-offender-institution",
-        "summary": "Teenager found unresponsive at Feltham YOI, the first such death in England or Wales since 2019Police and the prisons ombudsman are investigating the death of a 16-year-old boy who was being held at a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "young offender institution",
-            "feltham yoi",
-            "such death"
+            "inspector general",
+            "audit department \u2019 s compliance",
+            "epstein files transparency"
         ]
     },
     {
-        "title": "UK undershoots annual borrowing target by \u00a3700m",
-        "link": "https://www.theguardian.com/business/2026/apr/23/uk-undershoots-annual-borrowing-target",
-        "summary": "Figure hits three-year low but Iran war expected to blow hole in Reevess fiscal headroomBusiness live  latest updatesThe UK government budget came in below its annual borrowing target by 700m, officia...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "annual borrowing target",
-            "blow hole",
-            "fiscal headroombusiness"
-        ]
-    },
-    {
-        "title": "Starmer brushes off reports that cabinet ministers don\u2019t support him over sacking of Olly Robbins \u2013 UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/apr/23/keir-starmer-peter-mandelson-vetting-cat-little-olly-robbins-vet-uk-politics-latest-news-updates",
-        "summary": "The prime minister said that cabinet is still united and focused on delivering the governments policy agendaLittle says in March she had a meeting when she asked to see the Foreign Offices documentati...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "cabinet ministers don \u2019 t support",
-            "olly robbins",
-            "prime minister"
-        ]
-    },
-    {
-        "title": "Italian sports minister dismisses plan for Azzurri to replace Iran at 2026 World Cup",
-        "link": "https://www.theguardian.com/football/2026/apr/23/italy-iran-usa-world-cup-andrea-abodi-paolo-zampolli-donald-trump",
-        "summary": "Special envoy to Donald Trump suggested the ideaFirstly not possible  secondly not appropriateThe Italian sports minister, Andrea Abodi, has described a proposal for his country to replace Iran at the...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2026-04-23",
-        "image_url": null,
-        "keywords": [
-            "italian sports minister dismisses plan",
-            "world cup",
-            "special envoy"
-        ]
-    },
-    {
-        "title": "Senate Republicans bypass Democrats to advance $70bn ICE and border patrol plan in \u2018vote-a-rama\u2019\u2013 US politics live",
+        "title": "US justice department watchdog to review release of Jeffrey Epstein files \u2013 live",
         "link": "https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates",
-        "summary": "Republicans deploy measure known as budget reconciliation to push through plan without backing from Democrats during lengthy late-night voteSign up for the Breaking News US emailYouve likely seen that...",
+        "summary": "Watchdog to evaluate the DOJs processes for identifying, redacting, and releasing records in its possession as required by lawSign up for the Breaking News US emailYouve likely seen that the Senate ad...",
         "source": "World news | The Guardian",
         "objectivity_score": 75,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "advance $ 70bn",
-            "border patrol plan",
-            "\u2018 vote-a-rama \u2019 \u2013 us politics"
+            "us justice department watchdog",
+            "jeffrey epstein",
+            "files \u2013"
         ]
     },
     {
-        "title": "Trump to host bash for crypto investors tied to his coin sales",
-        "link": "https://www.theguardian.com/us-news/2026/apr/23/trump-crypto-memecoin-event-mar-a-lago",
-        "summary": "Top buyers promised access at Mar-a-Lago event as Democrats and watchdogs warn of pay-to-play risksDonald Trump is slated to star at a cryptocurrency bash on 25 April at his Mar-a-Lago club for scores...",
+        "title": "D4vd possessed child sexual abuse images, LA murder prosecutors say",
+        "link": "https://www.theguardian.com/us-news/2026/apr/23/d4vd-singer-murder-trial",
+        "summary": "Police allegedly found images on iCloud account of singer accused of killing 14-year-old Celeste Rivas HernandezA Los Angeles prosecutor said that the singer D4vd, who was charged this week in the kil...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 42,
         "sentiment": "Positive",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "host bash",
-            "crypto investors",
-            "coin sales"
+            "child sexual abuse images",
+            "murder prosecutors",
+            "icloud account"
         ]
     },
     {
-        "title": "\u2018Can I have some, please?\u2019: has Trump opened the door to a psychedelic future?",
-        "link": "https://www.theguardian.com/us-news/2026/apr/23/trump-psychedelic-drugs-order",
-        "summary": "Order to speed hallucinogen research hailed as threshold moment but concerns remain over access and protectionsThe scene seemed so far-fetched you could be forgiven for thinking you might be hallucina...",
+        "title": "Landmark report details lasting impact of slavery in key Georgia county",
+        "link": "https://www.theguardian.com/us-news/2026/apr/23/fulton-county-georgia-slavery",
+        "summary": "Taskforce report examines how effects of slavery and Jim Crow in Fulton county continue to harm Black residentsA Georgia taskforce has released a landmark report that details the lasting impact of sla...",
         "source": "World news | The Guardian",
-        "objectivity_score": 22,
+        "objectivity_score": 49,
         "sentiment": "Positive",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "hallucinogen research",
-            "threshold moment",
-            "protectionsthe scene"
+            "report details",
+            "report examines",
+            "jim crow"
         ]
     },
     {
-        "title": "California officials tout historic drop in violence as killings fall to record low",
-        "link": "https://www.theguardian.com/us-news/2026/apr/23/california-officials-homicides-killings",
-        "summary": "States strict gun policies heralded as data shows 35% reduction in homicides between 2022 and 2024California officials are touting a historic three-year decrease in homicides and gun violence that has...",
+        "title": "Man arrested on suspicion of planning mass shooting at New Orleans festival",
+        "link": "https://www.theguardian.com/us-news/2026/apr/23/man-suspected-planning-mass-shooting-new-orleans-arrested",
+        "summary": "Man from North Carolina arrested at Florida hotel with a handgun and about 200 rounds of ammo, authorities saySign up for the Breaking News US email to get newsletter alerts in your inboxAuthorities s...",
         "source": "World news | The Guardian",
-        "objectivity_score": 27,
+        "objectivity_score": 39,
         "sentiment": "Neutral",
         "date": "2026-04-23",
         "image_url": null,
         "keywords": [
-            "officials tout",
-            "historic drop",
-            "killings fall"
+            "mass shooting",
+            "festival man",
+            "authorities saysign"
         ]
     }
 ]
