@@ -737,24 +737,90 @@
         ]
     },
     {
-        "title": "Protesters jeer as Starmer arrives in Golders Green",
-        "link": "https://www.bbc.com/news/videos/c62xgrlpw2no?at_medium=RSS&at_campaign=rss",
-        "summary": "A group shouted \"Keir Starmer, Jew harmer\" as his car entered a building where the prime minister met with emergency services.",
+        "title": "It's a miracle I survived, Golders Green victim tells BBC",
+        "link": "https://www.bbc.com/news/articles/cdxprzdjewjo?at_medium=RSS&at_campaign=rss",
+        "summary": "Shloime Rand says he is thankful he survived after being stabbed during the attack in north London on Wednesday.",
         "source": "BBC News",
-        "objectivity_score": 30,
+        "objectivity_score": 17,
         "sentiment": "Negative",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "keir starmer",
-            "prime minister",
-            "emergency services"
+            "green victim",
+            "bbc shloime rand"
+        ]
+    },
+    {
+        "title": "Teens who lured man to beach to kill him sentenced to between five and seven years' custody",
+        "link": "https://www.bbc.com/news/articles/c1m290e0x3xo?at_medium=RSS&at_campaign=rss",
+        "summary": "Alexander Cashford was attacked on a Kent beach by three teenagers who thought he was a paedophile.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "alexander cashford"
+        ]
+    },
+    {
+        "title": "WW2 bomb to be blown up as 1,200 homes evacuated",
+        "link": "https://www.bbc.com/news/articles/c62650ld8p3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Teams are working through the night to limit most of the damage to the surrounding area.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "news"
+        ]
+    },
+    {
+        "title": "Trump to lift some whisky tariffs after King's visit",
+        "link": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "whisky tariffs",
+            "king 's visit",
+            "us president"
+        ]
+    },
+    {
+        "title": "Trainee driver crashes bus into River Seine near Paris",
+        "link": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss",
+        "summary": "The driver hit a parked car and veered off the road into the river - about 12 miles south of Paris - early on Thursday.",
+        "source": "BBC News",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "driver crashes bus"
+        ]
+    },
+    {
+        "title": "Banksy confirms he's behind statue in central London",
+        "link": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&at_campaign=rss",
+        "summary": "The sculpture in central London of a man walking off a plinth while holding a flag has been drawing crowds.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "drawing crowds"
         ]
     },
     {
         "title": "Interest rates held at 3.75% as Bank of England hints at future rises over Iran war",
         "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Bank of England votes for no immediate change to borrowing costs as it monitors the knock-on effects of the Middle East conflict.",
+        "summary": "The Bank of England voted to hold interest rates at 3.75% as it monitors the knock-on effects of the Middle East conflict.",
         "source": "BBC News",
         "objectivity_score": 6,
         "sentiment": "Neutral",
@@ -762,126 +828,41 @@
         "image_url": null,
         "keywords": [
             "future rises",
-            "borrowing costs"
+            "interest rates"
         ]
     },
     {
-        "title": "Oil price jumps after report Trump to be given new Iran options",
-        "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-        "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+        "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+        "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "oil price jumps",
-            "central command"
-        ]
-    },
-    {
-        "title": "Neo-Nazi guilty of terror charge after MI5 sting",
-        "link": "https://www.bbc.com/news/articles/cy4145vexypo?at_medium=RSS&at_campaign=rss",
-        "summary": "Jurors at the Old Bailey hear Alfie Coleman, 21, believed in fighting a race war.",
-        "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "terror charge",
-            "alfie coleman",
-            "race war"
-        ]
-    },
-    {
-        "title": "Have the royals got their mojo back from US visit?",
-        "link": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&at_campaign=rss",
-        "summary": "Many commentators, even critics of the monarchy, seem delighted at the spectacle.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "us visit"
-        ]
-    },
-    {
-        "title": "Statue with Banksy's signature appears in London",
-        "link": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&at_campaign=rss",
-        "summary": "A sculpture of a man marching off a plinth in St James's appears to bear the artist's name.",
-        "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 6,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "'s signature",
-            "a sculpture",
-            "st james"
+            "aung san suu kyi",
+            "house arrest",
+            "peace prize laureate"
         ]
     },
     {
-        "title": "'We will kill you and burn your house': Council staff under attack from High Street gangs",
-        "link": "https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Dozens of Trading Standards officers describe intimidation from criminals running mini-marts and vape shops.",
+        "title": "US House votes to end partial government shutdown after 76 days",
+        "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
+        "summary": "The bill, already cleared by the US Senate, now moves to the desk of President Donald Trump who is expected to swiftly sign the legislation.",
         "source": "BBC News",
-        "objectivity_score": 53,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "council staff",
-            "high street gangs",
-            "officers describe intimidation"
-        ]
-    },
-    {
-        "title": "Row over job losses after Meta smart glasses sex revelations",
-        "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant.",
-        "source": "BBC News",
-        "objectivity_score": 42,
+        "objectivity_score": 35,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "job losses",
-            "smart glasses sex revelations",
-            "subcontractor disagree"
+            "us house votes",
+            "partial government shutdown",
+            "us senate"
         ]
     },
     {
-        "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-        "link": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
-        "source": "BBC News",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "international waters",
-            "greek island"
-        ]
-    },
-    {
-        "title": "Fourteen treated after 'chemical smell' at Farringdon station",
-        "link": "https://www.bbc.com/news/articles/c707wj5k4d2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Passengers reported feeling unwell on an Elizabeth line platform at the station.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "feeling unwell",
-            "line platform"
-        ]
-    },
-    {
-        "title": "We hope he will be home in time for Shabbat, attack victim's mother says",
+        "title": "We hope he will be home in time for Shabbat, victim's mother says",
         "link": "https://www.bbc.com/news/articles/c8e8lyj1z7no?at_medium=RSS&at_campaign=rss",
         "summary": "The two men stabbed in Golders Green have been named locally as Shloime Rand, 34, and Moshe Shine, 76.",
         "source": "BBC News",
@@ -890,24 +871,35 @@
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "attack victim 's mother",
+            "victim 's mother",
             "shloime rand",
             "moshe shine"
         ]
     },
     {
-        "title": "Watch: Met Police body-worn footage of Golders Green arrest",
-        "link": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Footage shows the moment a man was arrested after two Jewish men were stabbed in north London.",
+        "title": "'Globalise the intifada' chant is racist, says Starmer",
+        "link": "https://www.bbc.com/news/articles/c78k1r7rd7ko?at_medium=RSS&at_campaign=rss",
+        "summary": "The prime minister said the use of the chant on marches had left Jews feeling scared and intimidated.",
         "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "body-worn footage",
-            "green arrest",
-            "jewish men"
+            "prime minister"
+        ]
+    },
+    {
+        "title": "Shock and anger among the Jewish community in Golders Green",
+        "link": "https://www.bbc.com/news/articles/cn4pzd7zj2vo?at_medium=RSS&at_campaign=rss",
+        "summary": "There is a mixture of defiance and fear among those living here - some of whom are planning to leave.",
+        "source": "BBC News",
+        "objectivity_score": 16,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "jewish community"
         ]
     },
     {
@@ -926,33 +918,78 @@
         ]
     },
     {
-        "title": "'It was horrific': Jewish security volunteers first on scene of Golders Green attack",
-        "link": "https://www.bbc.com/news/articles/cy52yygkd2lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Volunteers from Shomrim describe the \"pandemonium on the streets\" as they rushed to help police apprehend the attacker.",
+        "title": "Met chief defends knife attack officers after Greens criticism",
+        "link": "https://www.bbc.com/news/articles/c74r9rlw9ngo?at_medium=RSS&at_campaign=rss",
+        "summary": "Sir Mark Rowley says he is \"disappointed\" that Green Party leader Zack Polanski shared a post condemning how police subdued the suspect.",
         "source": "BBC News",
-        "objectivity_score": 40,
+        "objectivity_score": 52,
         "sentiment": "Negative",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "jewish security volunteers",
-            "green attack",
-            "police apprehend"
+            "knife attack officers",
+            "sir mark rowley",
+            "green party leader"
         ]
     },
     {
-        "title": "What we know about the stabbings",
-        "link": "https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Two Jewish men have been stabbed in Golders Green, north London, an attack police have declared a terrorist incident.",
+        "title": "'Horrendous' stress for couple forced to pay monthly mortgage twice after law firm collapse",
+        "link": "https://www.bbc.com/news/articles/c1j2l680ek0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Gabriella and Kurtiss Smith feared their home would be repossessed when PM Property Law collapsed.",
         "source": "BBC News",
-        "objectivity_score": 15,
+        "objectivity_score": 30,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "monthly mortgage",
+            "law firm collapse",
+            "kurtiss smith"
+        ]
+    },
+    {
+        "title": "Five key takeaways from the Bank of England meeting",
+        "link": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Bank reveals some interesting details on how our finances might be affected due to the Iran war.",
+        "source": "BBC News",
+        "objectivity_score": 62,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "key takeaways",
+            "bank reveals",
+            "interesting details"
+        ]
+    },
+    {
+        "title": "'We will kill you and burn your house': Council staff under attack from High Street gangs",
+        "link": "https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Dozens of Trading Standards officers describe intimidation from criminals running mini-marts and vape shops.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "council staff",
+            "high street gangs",
+            "officers describe intimidation"
+        ]
+    },
+    {
+        "title": "Faisal Islam: Bank of England is trying to manage expectations",
+        "link": "https://www.bbc.com/news/articles/cg4pqg250p2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Bank tries to manage expectations over what outcomes are plausible if the Middle East conflict lasts several months.",
+        "source": "BBC News",
+        "objectivity_score": 22,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "jewish men",
-            "attack police",
-            "terrorist incident"
+            "faisal islam",
+            "manage expectations",
+            "bank tries"
         ]
     },
     {
@@ -971,18 +1008,16 @@
         ]
     },
     {
-        "title": "'Being raped was a death sentence for Levi': A call for more support for survivors of sexual violence",
-        "link": "https://www.bbc.com/news/articles/c9vllwn3nlpo?at_medium=RSS&at_campaign=rss",
-        "summary": "The family of the 20-year-old say her death reveals the mental torment inflicted on victims.",
+        "title": "Have the royals got their mojo back from US visit?",
+        "link": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&at_campaign=rss",
+        "summary": "Many commentators, even critics of the monarchy, seem delighted at the spectacle.",
         "source": "BBC News",
-        "objectivity_score": 51,
+        "objectivity_score": 40,
         "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "death sentence",
-            "sexual violence",
-            "death reveals"
+            "us visit"
         ]
     },
     {
@@ -1000,178 +1035,76 @@
         ]
     },
     {
-        "title": "'Very weak': Lawyers sceptical of latest seashell charges against James Comey",
-        "link": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Acting AG Todd Blanche said the case was investigated for months, adding \"it's serious when you threaten the president.\"",
+        "title": "Ex-Spandau Ballet star Ross Davidson jailed for rape",
+        "link": "https://www.bbc.com/news/articles/ce3pwkkp25jo?at_medium=RSS&at_campaign=rss",
+        "summary": "The former musical theatre star was found guilty of a series of rapes and sexual assaults against six women.",
         "source": "BBC News",
-        "objectivity_score": 59,
+        "objectivity_score": 45,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "'very weak",
-            "seashell charges",
-            "james comey"
+            "ballet star",
+            "ross davidson",
+            "musical theatre star"
         ]
     },
     {
-        "title": "'Watershed' moment as communities gain new rights to buy important local buildings",
-        "link": "https://www.bbc.com/news/articles/clypwyzk71po?at_medium=RSS&at_campaign=rss",
-        "summary": "Ministers say the new law in England gives power to local people who want to help others.",
+        "title": "Kenya's Sabastian Sawe welcomed home after record-breaking London Marathon win",
+        "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
         "source": "BBC News",
-        "objectivity_score": 38,
+        "objectivity_score": 54,
         "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "communities gain",
-            "new rights",
-            "important local buildings"
+            "sabastian sawe",
+            "london marathon",
+            "competitive race"
         ]
     },
     {
-        "title": "A son overlooked and a jailed tycoon: Inside Samsung's succession drama",
-        "link": "https://www.bbc.com/news/articles/c9d313g91g4o?at_medium=RSS&at_campaign=rss",
-        "summary": "The family dynasty behind Samsung is so complicated it regularly makes headline news in South Korea.",
+        "title": "Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire",
+        "link": "https://www.bbc.com/news/articles/cx21mlr8kk3o?at_medium=RSS&at_campaign=rss",
+        "summary": "In a phone call with President Trump, Putin proposed a ceasefire on 9 May, the anniversary of the defeat of Nazi Germany in WW2.",
         "source": "BBC News",
-        "objectivity_score": 59,
+        "objectivity_score": 33,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "expands oil strikes",
+            "brief ceasefire",
+            "nazi germany"
+        ]
+    },
+    {
+        "title": "Soldiers 'overreacted' when they shot five people dead in Belfast, judge says",
+        "link": "https://www.bbc.com/news/articles/c4g8qd1w053o?at_medium=RSS&at_campaign=rss",
+        "summary": "On 9 July 1972 three Catholic teenagers, a father-of-six and a priest were shot dead in the Springhill estate, west Belfast.",
+        "source": "BBC News",
+        "objectivity_score": 30,
         "sentiment": "Negative",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "'s succession drama",
-            "family dynasty",
-            "headline news"
+            "catholic teenagers"
         ]
     },
     {
-        "title": "Watch: BBC goes inside heavily targeted US-UK base in Iraq",
-        "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East.",
-        "source": "BBC News",
-        "objectivity_score": 44,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "fragile ceasefire",
-            "military bases"
-        ]
-    },
-    {
-        "title": "Smiles and wonder: How the US reacted to King Charles",
-        "link": "https://www.bbc.com/news/articles/ce8pd1kr387o?at_medium=RSS&at_campaign=rss",
-        "summary": "A divided US has come together to watch King Charles' visit with a mix of awe, delight and hope.",
+        "title": "Starmer's sister-in-law 'scared' after arson attack on her home, court hears",
+        "link": "https://www.bbc.com/news/articles/cn0p3kkjzl6o?at_medium=RSS&at_campaign=rss",
+        "summary": "Roman Lavrynovych, Petro Pochynok and Stanislav Carpiuc are accused of targeting two properties and a car linked to Sir Keir Starmer.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "smiles"
-        ]
-    },
-    {
-        "title": "Mamdani says he would ask King Charles to return Koh-i-Noor",
-        "link": "https://www.bbc.com/news/articles/czx2gen0kwlo?at_medium=RSS&at_campaign=rss",
-        "summary": "New York's mayor made the comments hours before meeting King Charles, but it's unclear if he brought up the diamond.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "'s mayor",
-            "comments hours",
-            "'s unclear"
-        ]
-    },
-    {
-        "title": "In pictures: Fashion royalty meets British royalty",
-        "link": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
-        "summary": "King Charles III and Queen Camilla continued their state visit to the US by attending a ceremony at the National September 11 Memorial in New York City.",
-        "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "fashion royalty",
-            "british royalty king",
-            "charles iii"
-        ]
-    },
-    {
-        "title": "What the royals did on their third day in the US",
-        "link": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss",
-        "summary": "After visiting the 9/11 Memorial, Queen Camilla read to children at the New York Public Library and King Charles visited a community organisation in Harlem.",
-        "source": "BBC News",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "public library",
-            "community organisation"
-        ]
-    },
-    {
-        "title": "King and Queen lay flowers at 9/11 Memorial in New York",
-        "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
-        "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "lay flowers",
-            "state visit",
-            "us visit"
-        ]
-    },
-    {
-        "title": "Saudi Arabia to stop funding LIV Golf next season",
-        "link": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf at the end of the season, plunging the future of the series into doubt.",
-        "source": "BBC News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "saudi arabia",
-            "saudi arabia",
-            "multi-billion dollar"
-        ]
-    },
-    {
-        "title": "'Olivia's Law' gets final approval, forcing criminals to be present for sentencing hearings",
-        "link": "https://www.bbc.com/news/articles/c4g59z32e26o?at_medium=RSS&at_campaign=rss",
-        "summary": "The legislation will force criminals to come up from their court cell and attend sentencing hearings.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "'olivia 's law",
-            "final approval",
-            "court cell"
-        ]
-    },
-    {
-        "title": "Mortimer and Whitehouse saddened by death of Gone Fishing dog",
-        "link": "https://www.bbc.com/news/articles/c4gv457vreeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ted first appeared in Mortimer and Whitehouse: Gone Fishing in 2020 and became popular with fans.",
-        "source": "BBC News",
-        "objectivity_score": 61,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "gone fishing",
-            "gone fishing"
+            "'s sister-in-law",
+            "arson attack",
+            "court hears"
         ]
     },
     {
@@ -1188,18 +1121,16 @@
         ]
     },
     {
-        "title": "Video that police denied existed shows woman pinned down",
-        "link": "https://www.bbc.com/news/articles/c5yxley0pp5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Nadine Buzzard-Quashie speaks for first time about her \"David and Goliath battle\" against two police forces.",
+        "title": "OpenAI tells ChatGPT models to stop talking about goblins",
+        "link": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
+        "summary": "The AI firm said that unlike previous model bugs, the issue \"crept in subtly\".",
         "source": "BBC News",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
+        "objectivity_score": 35,
+        "sentiment": "Negative",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "shows woman",
-            "nadine buzzard-quashie",
-            "police forces"
+            "previous model bugs"
         ]
     },
     {
@@ -1245,18 +1176,33 @@
         ]
     },
     {
-        "title": "Burnley want Bellamy after Parker leaves",
-        "link": "https://www.bbc.com/sport/football/articles/c332vpz2kgmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Burnley are interested in appointing Craig Bellamy as manager after Scott Parker leaves following relegation from the Premier League.",
+        "title": "What now for Rahm, DeChambeau and LIV's biggest names?",
+        "link": "https://www.bbc.com/sport/golf/articles/c936y6y5rx4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Star names including Jon Rahm and Bryson DeChambeau face an uncertain future on the LIV tour, writes Iain Carter.",
         "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
+        "objectivity_score": 12,
+        "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "craig bellamy",
-            "scott parker",
-            "premier league"
+            "star names",
+            "jon rahm",
+            "bryson dechambeau"
+        ]
+    },
+    {
+        "title": "Why Coventry talks are key to Lampard future",
+        "link": "https://www.bbc.com/sport/football/articles/cq8px38ewxyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Coventry boss Frank Lampard is attracting interest from Premier League clubs - but talks with the Sky Blues are key to his future.",
+        "source": "BBC News",
+        "objectivity_score": 56,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "frank lampard",
+            "premier league clubs",
+            "sky blues"
         ]
     },
     {
@@ -1271,66 +1217,6 @@
         "keywords": [
             "millie bright",
             "bbc sport"
-        ]
-    },
-    {
-        "title": "Saudi Arabia to stop funding LIV Golf at end of season",
-        "link": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf at the end of the season, plunging the future of the series into doubt.",
-        "source": "BBC News",
-        "objectivity_score": 12,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "saudi arabia",
-            "saudi arabia",
-            "multi-billion dollar"
-        ]
-    },
-    {
-        "title": "Mainoo signs new Man Utd deal until 2031",
-        "link": "https://www.bbc.com/sport/football/articles/cq6p4rynndpo?at_medium=RSS&at_campaign=rss",
-        "summary": "Kobbie Mainoo signs a new contract with Manchester United that will keep him at Old Trafford until 2031.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "new man",
-            "kobbie mainoo",
-            "new contract"
-        ]
-    },
-    {
-        "title": "The 92mph England fast bowler ready to move on from difficult debut",
-        "link": "https://www.bbc.com/sport/cricket/articles/c392llypge3o?at_medium=RSS&at_campaign=rss",
-        "summary": "A stronger and faster Sonny Baker is ready to put last summer's difficult white-ball debuts for England behind him.",
-        "source": "BBC News",
-        "objectivity_score": 62,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "fast bowler",
-            "difficult debut",
-            "sonny baker"
-        ]
-    },
-    {
-        "title": "Lomu, Wilkinson, Pollock? Rugby's search for a crossover star",
-        "link": "https://www.bbc.com/sport/rugby-union/articles/cm2p8nzm81jo?at_medium=RSS&at_campaign=rss",
-        "summary": "Henry Pollock has signed with Eddie Hearn's talent agency in the hope of boosting his profile, but why has rugby found it so hard to forge mainstream figureheads?",
-        "source": "BBC News",
-        "objectivity_score": 54,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "'s search",
-            "crossover star",
-            "henry pollock"
         ]
     },
     {
@@ -1364,18 +1250,18 @@
         ]
     },
     {
-        "title": "Ukraine Reacts With Shrug to Phone Call Between Trump and Putin",
-        "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-putin-ukraine-zelensky-peace-talks.html",
-        "summary": "More than a year of similar conversations have failed to bring the country any closer to peace, so Ukrainians have stopped hoping they will.",
+        "title": "Mother Runs for Office in India After Daughter Was Raped and Killed",
+        "link": "https://www.nytimes.com/2026/04/30/world/asia/india-elections-bjp-ratna-debnath.html",
+        "summary": "Ratna Debnath is a candidate for Prime Minister Narendra Modis party, which is campaigning on womens safety in an Indian state election.",
         "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
+        "objectivity_score": 0,
+        "sentiment": "Negative",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "ukraine reacts",
-            "phone call",
-            "similar conversations"
+            "daughter was raped",
+            "killed ratna debnath",
+            "narendra modis"
         ]
     },
     {
@@ -1394,6 +1280,35 @@
         ]
     },
     {
+        "title": "Iran\u2019s Supreme Leader Signals Plan to Maintain Control Over Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/04/30/world/middleeast/iran-war-supreme-leader-mojtaba-khamenei-strait-hormuz.html",
+        "summary": "Ayatollah Mojtaba Khamenei said in a statement that Iran would establish new legal frameworks for the Strait of Hormuz. He also said his country would retain its nuclear capabilities.",
+        "source": "NYT > World News",
+        "objectivity_score": 32,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "supreme leader",
+            "hormuz ayatollah mojtaba khamenei",
+            "new legal frameworks"
+        ]
+    },
+    {
+        "title": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
+        "link": "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html",
+        "summary": "The British police said the attack on Wednesday was being treated as terrorism, and they warned of rising antisemitic hate crimes.",
+        "source": "NYT > World News",
+        "objectivity_score": 42,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "stabbing attack against",
+            "british police"
+        ]
+    },
+    {
         "title": "Police in Australia Were Warned of Terror Risk Before Bondi Attack, Report Says",
         "link": "https://www.nytimes.com/2026/04/30/world/asia/australia-bondi-beach-attack-antisemitism.html",
         "summary": "A Jewish security group told police an attack on the community was likely because of heightened antisemitism, days before Decembers mass shooting in Sydney.",
@@ -1406,6 +1321,21 @@
             "australia were warned",
             "bondi attack",
             "jewish security group"
+        ]
+    },
+    {
+        "title": "Journalist Detained in Kuwait Says He Was Stripped of Citizenship",
+        "link": "https://www.nytimes.com/2026/04/30/world/middleeast/ahmed-shihab-eldin-citizenship.html",
+        "summary": "Ahmed Shihab-Eldin, a Kuwaiti-American, was held for several weeks after posting about the Iran war. Kuwait does not appear to have commented publicly on his case.",
+        "source": "NYT > World News",
+        "objectivity_score": 3,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "journalist detained",
+            "kuwait says",
+            "was stripped"
         ]
     },
     {
@@ -1424,32 +1354,45 @@
         ]
     },
     {
-        "title": "In France, Trump\u2019s Triumphal Arch Draws Eye Rolls",
-        "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-triumphal-arch-france.html",
-        "summary": "The Arc de Triomphe in Paris, which the president vows to top in Washington, offers a lesson in the complicated history of monuments.",
+        "title": "Daw Aung San Suu Kyi Is Moved to House Arrest From Prison in Myanmar",
+        "link": "https://www.nytimes.com/2026/04/30/world/asia/myanmar-aung-san-suu-kyi.html",
+        "summary": "The ousted civilian leader has been detained since a military coup forced her from power in 2021.",
         "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "triumphal arch draws eye rolls",
-            "president vows"
-        ]
-    },
-    {
-        "title": "Mother Runs for Office in India After Daughter Was Raped and Killed",
-        "link": "https://www.nytimes.com/2026/04/30/world/asia/india-elections-bjp-ratna-debnath.html",
-        "summary": "Ratna Debnath is a candidate for Prime Minister Narendra Modis party, which is campaigning on womens safety in an Indian state election.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
+        "objectivity_score": 10,
         "sentiment": "Negative",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "daughter was raped",
-            "killed ratna debnath",
-            "narendra modis"
+            "daw aung san suu kyi",
+            "civilian leader"
+        ]
+    },
+    {
+        "title": "Ukraine Reacts With Shrug to Phone Call Between Trump and Putin",
+        "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-putin-ukraine-zelensky-peace-talks.html",
+        "summary": "More than a year of similar conversations have failed to bring the country any closer to peace, so Ukrainians have stopped hoping they will.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "ukraine reacts",
+            "phone call",
+            "similar conversations"
+        ]
+    },
+    {
+        "title": "Trump May Pull Troops From Germany. That Isn\u2019t as Scary as It Once Was.",
+        "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html",
+        "summary": "Germany has hugely increased its military spending, aiming to be less dependent on Washington. Its support for U.S. attacks on Iran may also give it leverage.",
+        "source": "NYT > World News",
+        "objectivity_score": 51,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "trump may pull troops"
         ]
     },
     {
@@ -1468,6 +1411,65 @@
         ]
     },
     {
+        "title": "In France, Trump\u2019s Triumphal Arch Draws Eye Rolls",
+        "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-triumphal-arch-france.html",
+        "summary": "The Arc de Triomphe in Paris, which the president vows to top in Washington, offers a lesson in the complicated history of monuments.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "triumphal arch draws eye rolls",
+            "president vows"
+        ]
+    },
+    {
+        "title": "Israel Intercepts Gaza-Bound Aid Flotilla in International Waters",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000010872184/israel-intercepts-gaza-aid-flotilla-detains-activists.html",
+        "summary": "The Israeli military boarded multiple boats in a flotilla that was sailing from Barcelona to Gaza, the protest group behind the mission said. The group has repeatedly challenged Israels naval blockade...",
+        "source": "NYT > World News",
+        "objectivity_score": 20,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "israel intercepts gaza-bound",
+            "multiple boats",
+            "naval blockade"
+        ]
+    },
+    {
+        "title": "How Trump\u2019s Iran Blockade Is Complicating a High-Stakes Trip to China",
+        "link": "https://www.nytimes.com/2026/04/30/us/politics/trump-china-iran.html",
+        "summary": "If President Trump flies to China as planned in May, the primary topic will clearly be the rippling economic effects of a war that Beijing has made clear it viewed as unnecessary.",
+        "source": "NYT > World News",
+        "objectivity_score": 47,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "iran blockade",
+            "high-stakes trip",
+            "primary topic"
+        ]
+    },
+    {
+        "title": "August Wilson Like You\u2019ve Never Heard Him Before: In Italian",
+        "link": "https://www.nytimes.com/2026/04/30/theater/august-wilson-italian-jitney.html",
+        "summary": "In three U.S. cities, a new production of the playwrights cabdriver drama Jitney will be imported from Italy.",
+        "source": "NYT > World News",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "august wilson",
+            "never heard him",
+            "new production"
+        ]
+    },
+    {
         "title": "Missing Indigenous Girl in Australia Is Found Dead After 5-Day Search",
         "link": "https://www.nytimes.com/2026/04/30/world/australia/missing-girl-found-dead.html",
         "summary": "The police are seeking a man who was last seen holding hands with the 5-year-old girl on Saturday night near Alice Springs.",
@@ -1480,93 +1482,6 @@
             "missing indigenous girl",
             "found dead",
             "5-year-old girl"
-        ]
-    },
-    {
-        "title": "Epstein Obtained Objects From Islam\u2019s Holiest Site for His Island \u2018Mosque\u2019",
-        "link": "https://www.nytimes.com/2026/04/29/world/americas/jeffrey-epstein-islam-mosque-island-kaaba-sex-offender-kiswa.html",
-        "summary": "Jeffrey Epsteins messages cast light on an unusual building on his private island and show how his connections helped him secure tapestries from Mecca for it.",
-        "source": "NYT > World News",
-        "objectivity_score": 66,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "epstein obtained objects",
-            "holiest site",
-            "island \u2018"
-        ]
-    },
-    {
-        "title": "Gallows Humor Provides Respite From Mideast Wars",
-        "link": "https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html",
-        "summary": "Arab digital creators on social media are turning out edgy material to cope with the conflicts and bring levity to a pain that often feels too raw.",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "gallows humor provides respite",
-            "mideast wars arab",
-            "digital creators"
-        ]
-    },
-    {
-        "title": "U.S. Indictment Accuses Mexican Governor of Conspiring With Sinaloa Cartel",
-        "link": "https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html",
-        "summary": "Prosecutors accused Rubn Rocha Moya, the governor of Sinaloa state, and other Mexican officials of a yearslong conspiracy to protect the powerful cartel.",
-        "source": "NYT > World News",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "indictment accuses",
-            "mexican governor",
-            "sinaloa cartel prosecutors"
-        ]
-    },
-    {
-        "title": "Paraguay Says It\u2019s Not Abandoning Taiwan. China Has Other Plans.",
-        "link": "https://www.nytimes.com/2026/04/29/world/paraguay-taiwan-china-pena.html",
-        "summary": "Beijing is trying to unravel an unlikely long-distance relationship that has endured for decades. Could Paraguay be tempted to stray?",
-        "source": "NYT > World News",
-        "objectivity_score": 43,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "paraguay says",
-            "abandoning taiwan",
-            "unlikely long-distance relationship"
-        ]
-    },
-    {
-        "title": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
-        "link": "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html",
-        "summary": "The British police said the attack on Wednesday was being treated as terrorism, and they warned of rising antisemitic hate crimes.",
-        "source": "NYT > World News",
-        "objectivity_score": 42,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "stabbing attack against",
-            "british police"
-        ]
-    },
-    {
-        "title": "Trump May Pull Troops From Germany. That Isn\u2019t as Scary as It Once Was.",
-        "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html",
-        "summary": "Germany has hugely increased its military spending, aiming to be less dependent on Washington. Its support for U.S. attacks on Iran may also give it leverage.",
-        "source": "NYT > World News",
-        "objectivity_score": 51,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "trump may pull troops"
         ]
     },
     {
@@ -1659,36 +1574,6 @@
         ]
     },
     {
-        "title": "Trump and Putin Call for a Brief Cease-Fire in Ukraine",
-        "link": "https://www.nytimes.com/2026/04/29/world/europe/ukraine-russia-ceasefire-trump-putin.html",
-        "summary": "Previous truces have broken down amid competing accusations of violations, and it is not clear that Ukraine will agree to Moscows terms.",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "putin call",
-            "brief cease-fire",
-            "ukraine previous"
-        ]
-    },
-    {
-        "title": "\u2018Timmy\u2019 the Stranded Whale Begins Journey to the North Sea",
-        "link": "https://www.nytimes.com/video/world/europe/100000010869732/timmy-stranded-whale-germany-rescue.html",
-        "summary": "A barge carrying a whale made its way toward the North Sea, where rescuers hope the humpback will swim further into the Atlantic Ocean. The whale, nicknamed Timmy, had been stranded off Germanys Balti...",
-        "source": "NYT > World News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "stranded whale begins journey",
-            "north sea",
-            "north sea"
-        ]
-    },
-    {
         "title": "South Africa deports Mugabe\u2019s son for unrelated offences after employee shot at family home",
         "link": "https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home",
         "summary": "Bellarmine Chatunga Mugabe also fined after pleading guilty to immigration and firearms-related offencesTwo months after an employee was shot in the back at the Mugabe family home in a wealthy suburb ...",
@@ -1764,6 +1649,21 @@
         ]
     },
     {
+        "title": "US charges Sinaloa governor and other Mexican officials with drug trafficking offences",
+        "link": "https://www.theguardian.com/world/2026/apr/30/us-charges-sinaloa-governor-and-other-mexican-officials-with-drug-trafficking-offences",
+        "summary": "Indictment accuses high-level officials in Sinaloa of offences such as drug trafficking,  weapons offences and kidnapping The US justice department has charged the governor of Sinaloa and nine other c...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "us charges",
+            "mexican officials",
+            "accuses high-level officials"
+        ]
+    },
+    {
         "title": "Canada to create powerful financial crimes agency as US weakens its approach",
         "link": "https://www.theguardian.com/world/2026/apr/30/canada-financial-crimes-agency-us-weakens-approach-cryptocurrency-atms-money-laundering",
         "summary": "Cryptocurrency ATMs also face ban, after public inquiry found Canada lacked anti-money-laundering strategyCanada is to establish a new and powerful law enforcement agency to investigate financial crim...",
@@ -1806,21 +1706,6 @@
             "breakthrough \u2019",
             "fossil fuel phaseout",
             "voluntary roadmaps"
-        ]
-    },
-    {
-        "title": "US charges Sinaloa governor and other Mexican officials with drug trafficking offences",
-        "link": "https://www.theguardian.com/world/2026/apr/30/us-charges-sinaloa-governor-and-other-mexican-officials-with-drug-trafficking-offences",
-        "summary": "Indictment accuses high-level officials in Sinaloa of offences such as drug trafficking,  weapons offences and kidnapping The US justice department has charged the governor of Sinaloa and nine other c...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "us charges",
-            "mexican officials",
-            "accuses high-level officials"
         ]
     },
     {
@@ -1914,6 +1799,51 @@
         ]
     },
     {
+        "title": "Queensland rejects key Bondi report recommendation as Albanese\u2019s gun buyback flounders",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/30/queensland-rejects-key-bondi-report-recommendation-as-albaneses-gun-buyback-flounders",
+        "summary": "States police minister says buyback doesnt focus on keeping guns out of the hands of terrorists and criminals, leaving NSW only clear supporter of planGet our breaking news email, free app or daily ne...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 63,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "rejects key",
+            "report recommendation",
+            "\u2019 s gun buyback flounders"
+        ]
+    },
+    {
+        "title": "Australians will pay more if Albanese fast-tracks fossil fuel projects, former oil and gas leaders warn",
+        "link": "https://www.theguardian.com/environment/2026/may/01/australians-will-pay-more-if-albanese-fast-tracks-fossil-fuel-projects-former-oil-and-gas-leaders-warn",
+        "summary": "Exclusive: Government should back projects that prioritise renewables to protect consumers from ongoing price shocks, they sayGet our breaking news email, free app or daily news podcastFormer oil and ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "fast-tracks fossil fuel projects",
+            "gas leaders",
+            "prioritise renewables"
+        ]
+    },
+    {
+        "title": "The chips are down: pizza, fried chicken and doughnut shares plunge on ASX as living costs bite budgets",
+        "link": "https://www.theguardian.com/business/2026/apr/30/asx-fast-food-shares-down-cost-of-living-australia-dominos-kfc",
+        "summary": "Shares in Dominos Pizza, KFC operator Collins Foods and multi-brand food franchise owner Retail Food Group have all suffered double-digit fallsGet our breaking news email, free app or daily news podca...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 59,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "doughnut shares plunge",
+            "dominos pizza",
+            "multi-brand food franchise owner"
+        ]
+    },
+    {
         "title": "Limiting capital gains tax changes to new investments would \u2018severely delay\u2019 budget reforms, Deloitte says",
         "link": "https://www.theguardian.com/australia-news/2026/apr/30/limiting-capital-gains-tax-changes-to-new-investments-would-severely-delay-budget-reforms-deloitte-says",
         "summary": "Treasurer Jim Chalmers had indicated transitional proposed changes as Labor attempts to repair a structurally flawed budgetFollow our Australia news live blog for latest updatesGet our breaking news e...",
@@ -1944,84 +1874,54 @@
         ]
     },
     {
-        "title": "At least six Australian activists detained by Israel navy after Gaza flotilla boats intercepted",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/30/at-least-six-australian-activists-detained-by-israel-navy-after-gaza-flotilla-boats-intercepted",
-        "summary": "Spokesperson says just two out of 14 Australians remain in communication, after CCTV footage showed Israeli navy boarding vessels in international watersGet our breaking news email, free app or daily ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "flotilla boats",
-            "international watersget",
-            "news email"
-        ]
-    },
-    {
-        "title": "\u2018We\u2019re coming for you\u2019: NT police search for suspect after body of missing five-year-old found",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/30/body-found-in-search-for-missing-aboriginal-girl-alice-springs-ntwnfb",
-        "summary": "Mother of Kumanjayi Little Baby, whose body was found after five-day search near Alice Springs, says its going to be so hard to live the rest of our lives without you Warning: This article contains re...",
+        "title": "German artist Georg Baselitz dies aged 88",
+        "link": "https://www.theguardian.com/artanddesign/2026/apr/30/german-artist-georg-baselitz-dies",
+        "summary": "Prominent contemporary visual artist explored range of techniques across six decades of workGeorg Baselitz obituary The German artist Georg Baselitz, whose expressive paintings and sculptures stirred ...",
         "source": "World news | The Guardian",
         "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "german artist",
+            "georg baselitz",
+            "contemporary visual artist"
+        ]
+    },
+    {
+        "title": "Venice Biennale jury quits amid row over participation of Russia",
+        "link": "https://www.theguardian.com/artanddesign/2026/apr/30/venice-biennale-jury-quits-amid-row-russia",
+        "summary": "Decision follows backlash from Italian government and European CommissionThe jury of the Venice Biennale has quit just days before the prestigious art exhibition is due to begin, amid a row over the d...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 18,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "police search",
-            "kumanjayi little baby",
-            "five-day search"
+            "venice biennale",
+            "jury quits",
+            "russia decision"
         ]
     },
     {
-        "title": "Mother says she \u2018misses and loves\u2019 daughter after NT girl\u2019s body found \u2013 as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb",
-        "summary": "This blog is now closedWarning: This article contains references to Indigenous Australians who have diedGet our breaking news email, free app or daily news podcastChalmers understands calls for gas ex...",
+        "title": "Four rescued from Seine after bus plunges into river near Paris",
+        "link": "https://www.theguardian.com/world/2026/apr/30/bus-crash-seine-river-juvisy-sur-orge-paris",
+        "summary": "Vehicle was travelling through Juvisy-sur-Orge when it veered off the road into the riverFour people have been rescued from the Seine near Paris after a bus driven by a trainee driver collided with a ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Positive",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "\u2019 daughter",
-            "girl \u2019 s body",
-            "article contains references"
-        ]
-    },
-    {
-        "title": "Trump launches fresh attack on Merz after threatening US troop reduction in Germany \u2013 Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
-        "summary": "US president uses social media post to criticise chancellor over Ukraine, immigration and interfering in Iran conflictThe Commission was also asked about yesterdays meeting of Hungarys incoming prime ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "fresh attack",
-            "us troop reduction",
-            "us president uses"
-        ]
-    },
-    {
-        "title": "Eurozone inflation soars to 3% as Iran war drives up energy prices",
-        "link": "https://www.theguardian.com/business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices",
-        "summary": "ECB keeps interest rates on hold as growth stumbles and price rises gather pace, up from 2.6% in March and 1.9% in FebruaryBusiness live  latest updatesAir France-KLM cuts forecasts amid $2.4bn fuel b...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 64,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "inflation soars",
-            "energy prices",
-            "interest rates"
+            "bus plunges",
+            "paris vehicle",
+            "riverfour people"
         ]
     },
     {
         "title": "Israel intercepts and detains crews of Gaza aid flotilla near Crete",
         "link": "https://www.theguardian.com/world/2026/apr/30/israel-intercepts-detains-crews-gaza-aid-flotillas-crete",
-        "summary": "Global Sumud Flotilla describes interception as violent raid as IDF urges activists to deliver aid via established channelsIsraeli forces have intercepted and detained the crews of at least 22 boats n...",
+        "summary": "Global Sumud Flotilla describes interception as violent raid while Turkey condemns it as act of piracyIsraeli forces have intercepted and detained the crews of at least 22 boats near the Greek island ...",
         "source": "World news | The Guardian",
         "objectivity_score": 31,
         "sentiment": "Negative",
@@ -2034,41 +1934,26 @@
         ]
     },
     {
-        "title": "Air France-KLM cuts capacity growth forecast amid expected $2.4bn fuel bill rise",
-        "link": "https://www.theguardian.com/business/2026/apr/30/air-france-klm-cuts-capacity-growth-forecast-amid-expected-24bn-fuel-bill-rise",
-        "summary": "Move comes as airline industry reacts to uncertainty over Iran war and increase in price of Brent crudeBusiness live  latest updatesAir France-KLM has cut its capacity growth forecasts for this year a...",
+        "title": "Trump tells Merz to \u2018fix his broken country\u2019 in new attack on German chancellor",
+        "link": "https://www.theguardian.com/world/2026/apr/30/trump-tells-merz-to-fix-his-broken-country-in-new-attack-on-german-chancellor",
+        "summary": "US presidents latest outburst comes a day after he suggested a possible reduction in US troops in GermanyWhy does the US have military bases in Germany  and will Trump follow through on his threat?Don...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 42,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "cuts capacity growth",
-            "$ 2.4bn fuel bill rise",
-            "airline industry reacts"
-        ]
-    },
-    {
-        "title": "\u2018Nightmare\u2019 queues and missed flights: a turbulent start to EU entry-exit system",
-        "link": "https://www.theguardian.com/business/2026/apr/30/eu-entry-exit-system-ees-queues-missed-flights-readers",
-        "summary": "Some travellers spent hours in lines at airport, with kiosks not working, little seating and few staff on hand to helpSome travellers passing through the new EU entry-exit system (EES) have faced huge...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "\u2019 queues",
-            "entry-exit system",
-            "helpsome travellers"
+            "country \u2019",
+            "new attack",
+            "german chancellor us presidents"
         ]
     },
     {
         "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last \u2018months\u2019",
         "link": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
-        "summary": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shutBusiness live  latest updatesThe global oil price has soared above $126 a barrel, ...",
+        "summary": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shutBusiness live  latest updatesThe global oil price hit $126 a barrel on Thursday, i...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 47,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
@@ -2214,153 +2099,153 @@
         ]
     },
     {
-        "title": "Farage did not need to declare \u00a35m donation as it was \u2018private\u2019, claims Braverman \u2013 UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/apr/30/local-election-campaign-labour-reform-conservatives-tories-greens-lib-dems-latest-news-updates",
-        "summary": "Former Tory home secretary turned Reform UK education spokesperson defends party leader over undeclared giftOn BBC Radio Merseyside the presenter, Tony Snell, put it to Kemi Badenoch that Merseyside w...",
+        "title": "PM vows to act against people \u2018venerating the murder of Jews\u2019 as terror threat level rises",
+        "link": "https://www.theguardian.com/uk-news/2026/apr/30/starmer-calls-on-public-to-open-their-eyes-to-jewish-pain-in-wake-of-golders-green-attack",
+        "summary": "Keir Starmer pledges crackdown on protesters chanting or displaying antisemitic slogans as terror attack is assessed to be highly likely Keir Starmer has pledged to crack down on those venerating the ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 35,
+        "objectivity_score": 39,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "\u00a35m donation",
-            "private \u2019",
-            "home secretary"
+            "people \u2018",
+            "terror threat level rises",
+            "keir starmer"
         ]
     },
     {
-        "title": "Golders Green attack suspect was previously referred to Prevent \u2013 live updates",
-        "link": "https://www.theguardian.com/uk-news/live/2026/apr/30/golders-green-terror-incident-security-jewish-community-safety-latest-news",
-        "summary": "Man had been referred to scheme to try to stop people becoming terrorists in 2020 but case was closed the same yearFull report: Golders Green attack suspect referred to Prevent scheme in 2020, say pol...",
+        "title": "Starmer restores powers to ousted hereditary peers in Lords shake-up",
+        "link": "https://www.theguardian.com/politics/2026/apr/30/keir-starmer-restores-powers-hereditary-peers-house-of-lords",
+        "summary": "Dozens handed life peerages in apparent concession, enabling their return to red benchesDozens of hereditary peers whose seats have been abolished have had their lawmaking powers restored as Keir Star...",
         "source": "World news | The Guardian",
-        "objectivity_score": 28,
+        "objectivity_score": 11,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "restores powers",
+            "hereditary peers",
+            "life peerages"
+        ]
+    },
+    {
+        "title": "British soldiers lost control in 1972 Springhill shootings, inquest finds",
+        "link": "https://www.theguardian.com/uk-news/2026/apr/30/british-soldiers-1972-springhill-shootings-belfast-inquest",
+        "summary": "Coroner says none of the five civilians killed in incident in Belfast during Troubles should have been shotBritish army soldiers lost control and used force that was not reasonable in the killing of f...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 17,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "british soldiers",
+            "shotbritish army soldiers",
+            "inquest judge"
+        ]
+    },
+    {
+        "title": "AI outperforms doctors in Harvard trial of emergency triage diagnoses",
+        "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+        "summary": "Researchers say results mark a profound change in technology that will reshape medicineFrom George Clooney in ER to Noah Wyle in The Pitt, emergency department doctors have long been popular heroes. B...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 60,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "emergency triage diagnoses",
+            "results mark",
+            "reshape medicinefrom"
+        ]
+    },
+    {
+        "title": "Golders Green attack suspect named as Essa Suleiman, 45",
+        "link": "https://www.theguardian.com/uk-news/2026/apr/30/golders-green-attack-suspect-referred-prevent-scheme",
+        "summary": "Suspect, who has been arrested on suspicion of attempted murder, was known to the Prevent anti-radicalisation schemeGolders Green attack  latest updatesThe suspect in the Golders Green attack was refe...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
             "green attack",
-            "updates man",
-            "yearfull report"
+            "essa suleiman",
+            "anti-radicalisation schemegolders"
         ]
     },
     {
-        "title": "UK stole 25 million years of life and labour through slavery in Barbados, research finds",
-        "link": "https://www.theguardian.com/world/2026/apr/30/uk-stole-25-million-years-of-life-and-labour-through-slavery-in-barbados-research-finds",
-        "summary": "Experts estimate accounting of the harm that was done by 200 years of chattel slavery would be US$2tn in damagesBritain stole 25 million years of life and labour through slavery in Barbados, according...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 15,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "chattel slavery",
-            "us $ 2tn",
-            "new research"
-        ]
-    },
-    {
-        "title": "Labour calls on Jenrick to give \u00a337,500 campaign donation to charity amid electoral law investigation",
-        "link": "https://www.theguardian.com/politics/2026/apr/30/labour-robert-jenrick-give-campaign-donation-charity-allegation",
-        "summary": "Electoral Commission is investigating claims money given to MP came from US businessman now convicted of wire fraudUK politics live  latest updatesLabour has called on Robert Jenrick to give up almost...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "\u00a337,500 campaign donation",
-            "electoral law investigation",
-            "electoral commission"
-        ]
-    },
-    {
-        "title": "Masterpieces by Klimt, Matisse and Freud set for London\u2019s most valuable auction",
-        "link": "https://www.theguardian.com/artanddesign/2026/apr/30/masterpieces-by-klimt-matisse-and-freud-set-for-londons-most-valuable-auction",
-        "summary": "Sothebys said collection of billionaire Spurs owner Joe Lewis and daughter Vivienne expected to fetch more than 150m in June saleA major group of masterpieces by some of modern arts biggest names is t...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": "https://i.guim.co.uk/img/media/e7a5893a46bafb3fb80824806eaef081c8383668/0_338_2349_1879/master/2349.jpg?width=140&quality=85&auto=format&fit=max&s=ee27560ad183d4b2c86b01f288707097",
-        "keywords": [
-            "valuable auction",
-            "joe lewis",
-            "salea major group"
-        ]
-    },
-    {
-        "title": "Hegseth faces further grilling over war costs as Iranian supreme leader releases fresh US threats \u2013 US politics live",
+        "title": "Republicans again block war powers resolution after Democrats grill Hegseth on Trump\u2019s \u2018unauthorized war\u2019 in Iran\u2013 live",
         "link": "https://www.theguardian.com/us-news/live/2026/apr/30/donald-trump-pete-hegseth-iran-war-oil-king-charles-latest-news-updates",
-        "summary": "Defense secretary to be quizzed in Senate as Khamenei says foreigners have no place in Gulf except at bottom of its watersSign up for the Breaking News US emailLouisiana governor Jeff Landry yesterday...",
+        "summary": "Republican senators blocked a sixth attempt to limit US military action in Iran; Democrats criticize Trumps defense secretary and strategy in the Middle EastSign up for the Breaking News US emailLouis...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
+        "objectivity_score": 24,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "war costs",
-            "supreme leader releases",
-            "fresh us threats \u2013 us politics"
+            "block war powers resolution",
+            "limit us",
+            "military action"
         ]
     },
     {
-        "title": "David Allan Coe, outlaw country singer-songwriter, dies aged 86",
-        "link": "https://www.theguardian.com/music/2026/apr/30/david-allan-coe-dies-aged-86",
-        "summary": "The musician was known for working-class anthem Take This Job and Shove It as well as hits like The Ride and othersDavid Allan Coe, the country singer-songwriter who wrote the working-class anthem Tak...",
+        "title": "Trump says Tennessee governor working to \u2018give us one extra seat\u2019 as states race to redraw congressional maps \u2013 live",
+        "link": "https://www.theguardian.com/us-news/live/2026/apr/30/supreme-court-voting-rights-act-ruling-louisiana-primary-election-live",
+        "summary": "Presidents social post comes after Louisiana postpones primaries to redraw maps just a day after supreme court ruling guts Voting Rights ActLouisiana postpones primaries as states rush to redraw distr...",
         "source": "World news | The Guardian",
-        "objectivity_score": 70,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "david allan coe",
-            "outlaw country singer-songwriter",
-            "working-class anthem"
-        ]
-    },
-    {
-        "title": "Governor Janet Mills drops Maine Senate bid weeks before primary clash",
-        "link": "https://www.theguardian.com/us-news/2026/apr/30/maine-governor-janet-mills-drops-senate-race",
-        "summary": "Mills cites lack of funds as rival to unseat Susan Collins fuels Democratic rift under Donald TrumpSign up for the Breaking News US email to get newsletter alerts in your inboxJanet Mills, the Maine g...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "janet mills",
-            "senate bid weeks",
-            "primary clash"
+            "extra seat \u2019",
+            "states race",
+            "congressional maps \u2013"
         ]
     },
     {
-        "title": "US economic growth rebounds 2% as consumer spending slows amid Iran war",
-        "link": "https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war",
-        "summary": "First quarter output, driven by AI investment and government spending, rose as oil shock fuels inflation fearsUS gross domestic product (GDP) accelerated 2% in the first three months of 2026, though c...",
+        "title": "Camp Mystic halts summer reopening after Texas flood deaths",
+        "link": "https://www.theguardian.com/us-news/2026/apr/30/camp-mystic-closes-summer-reopening-flood",
+        "summary": "Decision follows pressure from lawmakers and families as investigations continue into response to deadly disasterThe embattled Camp Mystic organization on Thursday halted plans to reopen this summer i...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
+        "objectivity_score": 29,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "halts summer",
+            "flood deaths",
+            "political leaders"
+        ]
+    },
+    {
+        "title": "US House passes bill funding much of DHS, ending agency\u2019s longest shutdown",
+        "link": "https://www.theguardian.com/us-news/2026/apr/30/government-shutdown-dhs-funding-bill",
+        "summary": "Bipartisan measure includes funding for Secret Service and TSA, but excludes immigration enforcement operationsPartial government shutdown ends after Congress votes to fund DHS The US House of Represe...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "economic growth rebounds",
-            "consumer spending slows",
-            "quarter output"
+            "us house passes bill",
+            "agency \u2019 s longest shutdown",
+            "secret service"
         ]
     },
     {
-        "title": "Trump administration move to reclassify cannabis sparks confusion",
-        "link": "https://www.theguardian.com/us-news/2026/apr/30/trump-administration-cannabis-rescheduling-confusing",
-        "summary": "Order last week is only partial rescheduling, making an already complex process more confusing, expert saysThe Trump administration is making good on its promise to reschedule cannabis, but only parti...",
+        "title": "Hegseth \u2018dangerously exaggerated\u2019 US military triumph in Iran, Senate hears",
+        "link": "https://www.theguardian.com/us-news/2026/apr/30/pete-hegseth-iran-war-hearing",
+        "summary": "Senator Jack Reed says at hearing that defense secretary failed to give Trump accurate picture of war in IranUS politics live  latest updatesSign up for the Breaking News US newsletter emailPete Hegse...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 58,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "reclassify cannabis",
-            "confusion order",
-            "complex process"
+            "military triumph",
+            "senate hears senator",
+            "jack reed"
         ]
     }
 ]
