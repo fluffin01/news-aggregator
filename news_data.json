@@ -737,18 +737,32 @@
         ]
     },
     {
-        "title": "Watch: Met Police body-worn footage of Golders Green arrest",
-        "link": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Footage shows the moment a man was arrested after two Jewish men were stabbed in north London.",
+        "title": "Protesters jeer as Starmer arrives in Golders Green",
+        "link": "https://www.bbc.com/news/videos/c62xgrlpw2no?at_medium=RSS&at_campaign=rss",
+        "summary": "A group shouted \"Keir Starmer, Jew harmer\" as his car entered a building where the prime minister met with emergency services.",
         "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 30,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "keir starmer",
+            "prime minister",
+            "emergency services"
+        ]
+    },
+    {
+        "title": "Interest rates held at 3.75% as Bank of England hints at future rises over Iran war",
+        "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Bank of England votes for no immediate change to borrowing costs as it monitors the knock-on effects of the Middle East conflict.",
+        "source": "BBC News",
+        "objectivity_score": 6,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "body-worn footage",
-            "green arrest",
-            "jewish men"
+            "future rises",
+            "borrowing costs"
         ]
     },
     {
@@ -763,6 +777,49 @@
         "keywords": [
             "oil price jumps",
             "central command"
+        ]
+    },
+    {
+        "title": "Neo-Nazi guilty of terror charge after MI5 sting",
+        "link": "https://www.bbc.com/news/articles/cy4145vexypo?at_medium=RSS&at_campaign=rss",
+        "summary": "Jurors at the Old Bailey hear Alfie Coleman, 21, believed in fighting a race war.",
+        "source": "BBC News",
+        "objectivity_score": 60,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "terror charge",
+            "alfie coleman",
+            "race war"
+        ]
+    },
+    {
+        "title": "Have the royals got their mojo back from US visit?",
+        "link": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&at_campaign=rss",
+        "summary": "Many commentators, even critics of the monarchy, seem delighted at the spectacle.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "us visit"
+        ]
+    },
+    {
+        "title": "Statue with Banksy's signature appears in London",
+        "link": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&at_campaign=rss",
+        "summary": "A sculpture of a man marching off a plinth in St James's appears to bear the artist's name.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "'s signature",
+            "a sculpture",
+            "st james"
         ]
     },
     {
@@ -781,16 +838,151 @@
         ]
     },
     {
-        "title": "Have the royals got their mojo back from US visit?",
-        "link": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&at_campaign=rss",
-        "summary": "Many commentators, even critics of the monarchy, seem delighted at the spectacle.",
+        "title": "Row over job losses after Meta smart glasses sex revelations",
+        "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
+        "summary": "Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant.",
         "source": "BBC News",
-        "objectivity_score": 40,
+        "objectivity_score": 42,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "job losses",
+            "smart glasses sex revelations",
+            "subcontractor disagree"
+        ]
+    },
+    {
+        "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+        "link": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
+        "source": "BBC News",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "international waters",
+            "greek island"
+        ]
+    },
+    {
+        "title": "Fourteen treated after 'chemical smell' at Farringdon station",
+        "link": "https://www.bbc.com/news/articles/c707wj5k4d2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Passengers reported feeling unwell on an Elizabeth line platform at the station.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "feeling unwell",
+            "line platform"
+        ]
+    },
+    {
+        "title": "We hope he will be home in time for Shabbat, attack victim's mother says",
+        "link": "https://www.bbc.com/news/articles/c8e8lyj1z7no?at_medium=RSS&at_campaign=rss",
+        "summary": "The two men stabbed in Golders Green have been named locally as Shloime Rand, 34, and Moshe Shine, 76.",
+        "source": "BBC News",
+        "objectivity_score": 11,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "attack victim 's mother",
+            "shloime rand",
+            "moshe shine"
+        ]
+    },
+    {
+        "title": "Watch: Met Police body-worn footage of Golders Green arrest",
+        "link": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Footage shows the moment a man was arrested after two Jewish men were stabbed in north London.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "body-worn footage",
+            "green arrest",
+            "jewish men"
+        ]
+    },
+    {
+        "title": "Antisemitism 'a national security emergency', government terror adviser says",
+        "link": "https://www.bbc.com/news/articles/cy820jz41w8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Home Secretary Shabana Mahmood says the issue is being treated as an \"absolute priority\" but does not agree it constitutes a national emergency.",
+        "source": "BBC News",
+        "objectivity_score": 90,
         "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "us visit"
+            "national security emergency",
+            "government terror adviser",
+            "home secretary"
+        ]
+    },
+    {
+        "title": "'It was horrific': Jewish security volunteers first on scene of Golders Green attack",
+        "link": "https://www.bbc.com/news/articles/cy52yygkd2lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Volunteers from Shomrim describe the \"pandemonium on the streets\" as they rushed to help police apprehend the attacker.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "jewish security volunteers",
+            "green attack",
+            "police apprehend"
+        ]
+    },
+    {
+        "title": "What we know about the stabbings",
+        "link": "https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss",
+        "summary": "Two Jewish men have been stabbed in Golders Green, north London, an attack police have declared a terrorist incident.",
+        "source": "BBC News",
+        "objectivity_score": 15,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "jewish men",
+            "attack police",
+            "terrorist incident"
+        ]
+    },
+    {
+        "title": "F1's Alex Albon on getting ready for the Miami GP - and his 14 cats",
+        "link": "https://www.bbc.com/news/articles/c995evrg4e1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Williams driver is ready to race again this weekend after the unexpected five-week break.",
+        "source": "BBC News",
+        "objectivity_score": 66,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "alex albon",
+            "miami gp",
+            "unexpected five-week"
+        ]
+    },
+    {
+        "title": "'Being raped was a death sentence for Levi': A call for more support for survivors of sexual violence",
+        "link": "https://www.bbc.com/news/articles/c9vllwn3nlpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The family of the 20-year-old say her death reveals the mental torment inflicted on victims.",
+        "source": "BBC News",
+        "objectivity_score": 51,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "death sentence",
+            "sexual violence",
+            "death reveals"
         ]
     },
     {
@@ -808,134 +1000,33 @@
         ]
     },
     {
-        "title": "Women can wait years for an endometriosis diagnosis. New tech could change that",
-        "link": "https://www.bbc.com/news/articles/clyplwvgxjvo?at_medium=RSS&at_campaign=rss",
-        "summary": "A new scan technique could spot areas of endometriosis missed by conventional scans, scientists say.",
+        "title": "'Very weak': Lawyers sceptical of latest seashell charges against James Comey",
+        "link": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Acting AG Todd Blanche said the case was investigated for months, adding \"it's serious when you threaten the president.\"",
         "source": "BBC News",
-        "objectivity_score": 42,
+        "objectivity_score": 59,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "endometriosis diagnosis",
-            "new tech",
-            "new scan technique"
+            "'very weak",
+            "seashell charges",
+            "james comey"
         ]
     },
     {
-        "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
-        "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East.",
+        "title": "'Watershed' moment as communities gain new rights to buy important local buildings",
+        "link": "https://www.bbc.com/news/articles/clypwyzk71po?at_medium=RSS&at_campaign=rss",
+        "summary": "Ministers say the new law in England gives power to local people who want to help others.",
         "source": "BBC News",
-        "objectivity_score": 44,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "fragile ceasefire",
-            "military bases"
-        ]
-    },
-    {
-        "title": "Interest rates expected to be held as uncertainty over Iran war continues",
-        "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
-        "summary": "Future base rate changes are hard to predict as analysts judge the economic impact of the Iran war.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "base rate changes",
-            "analysts judge",
-            "economic impact"
-        ]
-    },
-    {
-        "title": "Video that police denied existed shows woman pinned down",
-        "link": "https://www.bbc.com/news/articles/c5yxley0pp5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Nadine Buzzard-Quashie speaks for first time about her \"David and Goliath battle\" against two police forces.",
-        "source": "BBC News",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "shows woman",
-            "nadine buzzard-quashie",
-            "police forces"
-        ]
-    },
-    {
-        "title": "Hereditary peers' last hurrah as 700-year-old system abolished",
-        "link": "https://www.bbc.com/news/articles/ckgp5j5gpplo?at_medium=RSS&at_campaign=rss",
-        "summary": "It comes after legislation to remove their right to sit in the upper chamber passed last month.",
-        "source": "BBC News",
-        "objectivity_score": 16,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "700-year-old system",
-            "upper chamber"
-        ]
-    },
-    {
-        "title": "What we know about the attack",
-        "link": "https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Two Jewish men have been stabbed in Golders Green, north London, an attack police have declared a terrorist incident.",
-        "source": "BBC News",
-        "objectivity_score": 15,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "jewish men",
-            "attack police",
-            "terrorist incident"
-        ]
-    },
-    {
-        "title": "'We were first on scene' The Jewish security volunteers who rushed to help",
-        "link": "https://www.bbc.com/news/articles/cy52yygkd2lo?at_medium=RSS&at_campaign=rss",
-        "summary": "\"We got a phone call to the hotline saying that there's a man stabbing people,\" a Shomrim member says.",
-        "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "jewish security volunteers"
-        ]
-    },
-    {
-        "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
-        "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
-        "summary": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
-        "source": "BBC News",
-        "objectivity_score": 61,
+        "objectivity_score": 38,
         "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "sabastian sawe",
-            "jubilant celebrations",
-            "competitive race"
-        ]
-    },
-    {
-        "title": "Legal experts sceptical of DoJ case against Comey over seashell post",
-        "link": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Acting AG Todd Blanche said the case was investigated for months, adding \"it's serious when you threaten the president.\"",
-        "source": "BBC News",
-        "objectivity_score": 28,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "experts sceptical",
-            "seashell post",
-            "ag todd blanche"
+            "communities gain",
+            "new rights",
+            "important local buildings"
         ]
     },
     {
@@ -954,33 +1045,17 @@
         ]
     },
     {
-        "title": "Newspaper headlines: 'Terror on our streets' and 'UK antisemitism out of control'",
-        "link": "https://www.bbc.com/news/articles/cpwp5xv2kg1o?at_medium=RSS&at_campaign=rss",
-        "summary": "The stabbing of two Jewish men in north London being declared a terrorist incident dominates Thursday's papers.",
+        "title": "Watch: BBC goes inside heavily targeted US-UK base in Iraq",
+        "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East.",
         "source": "BBC News",
-        "objectivity_score": 40,
+        "objectivity_score": 44,
         "sentiment": "Negative",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "'uk antisemitism",
-            "jewish men",
-            "terrorist incident dominates"
-        ]
-    },
-    {
-        "title": "The 'Polar Bear Capital' with Arctic gateway ambitions",
-        "link": "https://www.bbc.com/news/articles/cyv1zdey7pmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Canada is weighing whether a year-round northern trade route to Europe from Churchill, Manitoba, is viable, as climate change speeds Arctic warming.",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "bear capital",
-            "gateway ambitions",
-            "year-round northern trade route"
+            "fragile ceasefire",
+            "military bases"
         ]
     },
     {
@@ -997,32 +1072,32 @@
         ]
     },
     {
-        "title": "The royal couple lay flowers at 9/11 Memorial in New York",
-        "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
-        "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
+        "title": "Mamdani says he would ask King Charles to return Koh-i-Noor",
+        "link": "https://www.bbc.com/news/articles/czx2gen0kwlo?at_medium=RSS&at_campaign=rss",
+        "summary": "New York's mayor made the comments hours before meeting King Charles, but it's unclear if he brought up the diamond.",
         "source": "BBC News",
         "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "royal couple",
-            "lay flowers",
-            "state visit"
+            "'s mayor",
+            "comments hours",
+            "'s unclear"
         ]
     },
     {
-        "title": "The subtle messages hidden in the King's speeches",
-        "link": "https://www.bbc.com/news/articles/c5y73ndv83qo?at_medium=RSS&at_campaign=rss",
-        "summary": "How King Charles III navigated a diplomatic tightrope in his speech to the US Congress.",
+        "title": "In pictures: Fashion royalty meets British royalty",
+        "link": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
+        "summary": "King Charles III and Queen Camilla continued their state visit to the US by attending a ceremony at the National September 11 Memorial in New York City.",
         "source": "BBC News",
-        "objectivity_score": 41,
-        "sentiment": "Negative",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "subtle messages",
-            "king 's speeches",
+            "fashion royalty",
+            "british royalty king",
             "charles iii"
         ]
     },
@@ -1041,18 +1116,18 @@
         ]
     },
     {
-        "title": "The state visit in pictures",
-        "link": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
-        "summary": "King Charles III and Queen Camilla continued their state visit to the US by attending a ceremony at the National September 11 Memorial in New York City.",
+        "title": "King and Queen lay flowers at 9/11 Memorial in New York",
+        "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
+        "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
         "source": "BBC News",
         "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
+            "lay flowers",
             "state visit",
-            "pictures king",
-            "charles iii"
+            "us visit"
         ]
     },
     {
@@ -1071,90 +1146,60 @@
         ]
     },
     {
-        "title": "China to ban drone sales in Beijing citing security concerns",
-        "link": "https://www.bbc.com/news/articles/c4gv4dvngygo?at_medium=RSS&at_campaign=rss",
-        "summary": "Drone users will also be required to register their devices and secure permits before flying them.",
+        "title": "'Olivia's Law' gets final approval, forcing criminals to be present for sentencing hearings",
+        "link": "https://www.bbc.com/news/articles/c4g59z32e26o?at_medium=RSS&at_campaign=rss",
+        "summary": "The legislation will force criminals to come up from their court cell and attend sentencing hearings.",
         "source": "BBC News",
-        "objectivity_score": 60,
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "'olivia 's law",
+            "final approval",
+            "court cell"
+        ]
+    },
+    {
+        "title": "Mortimer and Whitehouse saddened by death of Gone Fishing dog",
+        "link": "https://www.bbc.com/news/articles/c4gv457vreeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ted first appeared in Mortimer and Whitehouse: Gone Fishing in 2020 and became popular with fans.",
+        "source": "BBC News",
+        "objectivity_score": 61,
         "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "ban drone sales"
+            "gone fishing",
+            "gone fishing"
         ]
     },
     {
-        "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
-        "link": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
+        "title": "Mum horrified by 'sexualised' swimwear for children",
+        "link": "https://www.bbc.com/news/articles/cqjpl702lpro?at_medium=RSS&at_campaign=rss",
+        "summary": "Kayleigh Shore says she was shocked to find the \"inappropriate\" item on sale at a charity shop.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 80,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "charity shop"
+        ]
+    },
+    {
+        "title": "Video that police denied existed shows woman pinned down",
+        "link": "https://www.bbc.com/news/articles/c5yxley0pp5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Nadine Buzzard-Quashie speaks for first time about her \"David and Goliath battle\" against two police forces.",
+        "source": "BBC News",
+        "objectivity_score": 31,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "us singer",
-            "tools online",
-            "girl 's body"
-        ]
-    },
-    {
-        "title": "Meta shares slide as plan to spend billions more on AI spooks investors",
-        "link": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Other tech giants Alphabet, Microsoft and Amazon also reported quarterly earnings on Wednesday.",
-        "source": "BBC News",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "shares slide",
-            "spooks investors",
-            "tech giants"
-        ]
-    },
-    {
-        "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
-        "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-        "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "troop cuts",
-            "criticises war",
-            "german chancellor"
-        ]
-    },
-    {
-        "title": "Jewish agency warned of 'high' threat level ahead of Bondi shooting, report finds",
-        "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Gun reforms should be prioritised and policing around Jewish events increased, royal commission says.",
-        "source": "BBC News",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "jewish agency",
-            "threat level",
-            "jewish events"
-        ]
-    },
-    {
-        "title": "Ukraine volunteer claims MP stole idea to donate ventilators - to divert them to Cuba",
-        "link": "https://www.bbc.com/news/articles/clyxydp664xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Steve Witherden MP has been accused of plagiarism over a letter written to him about the ventilators.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "donate ventilators",
-            "cuba steve witherden mp"
+            "shows woman",
+            "nadine buzzard-quashie",
+            "police forces"
         ]
     },
     {
@@ -1200,6 +1245,35 @@
         ]
     },
     {
+        "title": "Burnley want Bellamy after Parker leaves",
+        "link": "https://www.bbc.com/sport/football/articles/c332vpz2kgmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Burnley are interested in appointing Craig Bellamy as manager after Scott Parker leaves following relegation from the Premier League.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "craig bellamy",
+            "scott parker",
+            "premier league"
+        ]
+    },
+    {
+        "title": "'I lost myself' - Bright on retirement, abuse and the future",
+        "link": "https://www.bbc.com/sport/football/articles/c2l2nx48jwko?at_medium=RSS&at_campaign=rss",
+        "summary": "Former England and Chelsea captain Millie Bright speaks to BBC Sport a day after announcing her retirement.",
+        "source": "BBC News",
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "millie bright",
+            "bbc sport"
+        ]
+    },
+    {
         "title": "Saudi Arabia to stop funding LIV Golf at end of season",
         "link": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo?at_medium=RSS&at_campaign=rss",
         "summary": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf at the end of the season, plunging the future of the series into doubt.",
@@ -1215,62 +1289,33 @@
         ]
     },
     {
-        "title": "Were Arsenal right to be 'fuming' with refereeing after Atletico draw?",
-        "link": "https://www.bbc.com/sport/football/articles/cr5p4335v7qo?at_medium=RSS&at_campaign=rss",
-        "summary": "Mikel Arteta was left \"fuming\" with the officials after Arsenal's draw at Atletico Madrid - what did they get right and wrong?",
+        "title": "Mainoo signs new Man Utd deal until 2031",
+        "link": "https://www.bbc.com/sport/football/articles/cq6p4rynndpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Kobbie Mainoo signs a new contract with Manchester United that will keep him at Old Trafford until 2031.",
         "source": "BBC News",
-        "objectivity_score": 49,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "were arsenal",
-            "mikel arteta",
-            "atletico madrid"
-        ]
-    },
-    {
-        "title": "Murphy to face Higgins after dashing Zhao's Crucible hopes",
-        "link": "https://www.bbc.com/sport/snooker/articles/c62er2ey37xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Shaun Murphy dashes Zhao Xintong's hopes of lifting the Crucible curse with a superb 13-10 win as he moves into the semi-finals of the World Championship.",
-        "source": "BBC News",
-        "objectivity_score": 70,
+        "objectivity_score": 36,
         "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "shaun murphy",
-            "zhao xintong"
+            "new man",
+            "kobbie mainoo",
+            "new contract"
         ]
     },
     {
-        "title": "Arsenal 'hunt' Man City - what 7-0 win means for WSL title race",
-        "link": "https://www.bbc.com/sport/football/articles/ce3pwllz5kjo?at_medium=RSS&at_campaign=rss",
-        "summary": "Arsenal have made up ground on Manchester City, but can they actually win the Women's Super League title this season?",
+        "title": "The 92mph England fast bowler ready to move on from difficult debut",
+        "link": "https://www.bbc.com/sport/cricket/articles/c392llypge3o?at_medium=RSS&at_campaign=rss",
+        "summary": "A stronger and faster Sonny Baker is ready to put last summer's difficult white-ball debuts for England behind him.",
         "source": "BBC News",
-        "objectivity_score": 48,
-        "sentiment": "Positive",
+        "objectivity_score": 62,
+        "sentiment": "Negative",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "man city",
-            "title race",
-            "league title"
-        ]
-    },
-    {
-        "title": "Music & methods - why Forest could be Europa League favourites",
-        "link": "https://www.bbc.com/sport/football/articles/ckgegjz4xd0o?at_medium=RSS&at_campaign=rss",
-        "summary": "A recent revival has lifted Nottingham Forest's hopes as they chase their Europa League dream against Aston Villa.",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "league favourites",
-            "recent revival",
-            "forest 's"
+            "fast bowler",
+            "difficult debut",
+            "sonny baker"
         ]
     },
     {
@@ -1289,17 +1334,152 @@
         ]
     },
     {
-        "title": "Man Utd can win Premier League next season - Mount",
-        "link": "https://www.bbc.com/sport/football/articles/cvgzl47l5l2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Manchester United's Mason Mount feels the club can end their 13-year wait for a Premier League title next season.",
-        "source": "BBC News",
+        "title": "Iranians Live With Pain and Powerlessness, Beneath a Smooth Veneer",
+        "link": "https://www.nytimes.com/2026/04/30/world/middleeast/iranian-mood-after-war.html",
+        "summary": "After months of upheaval, many are attempting to get on with their lives while quietly grappling with grief, economic stress and a loss of hope.",
+        "source": "NYT > World News",
+        "objectivity_score": 37,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "iranians live",
+            "smooth veneer",
+            "economic stress"
+        ]
+    },
+    {
+        "title": "Attacks on Jewish Targets in Europe Suggest Hybrid Warfare",
+        "link": "https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html",
+        "summary": "Officials are investigating similar attacks across Europe, all claimed by a shadowy Islamist group that may be using low-cost, unsophisticated methods to sow fear in Jewish communities.",
+        "source": "NYT > World News",
         "objectivity_score": 13,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "europe suggest hybrid warfare",
+            "similar attacks",
+            "jewish communities"
+        ]
+    },
+    {
+        "title": "Ukraine Reacts With Shrug to Phone Call Between Trump and Putin",
+        "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-putin-ukraine-zelensky-peace-talks.html",
+        "summary": "More than a year of similar conversations have failed to bring the country any closer to peace, so Ukrainians have stopped hoping they will.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "ukraine reacts",
+            "phone call",
+            "similar conversations"
+        ]
+    },
+    {
+        "title": "Iceland\u2019s Pools and Hot Tubs Are Now UNESCO-Recognized. Some Locals Aren\u2019t Thrilled.",
+        "link": "https://www.nytimes.com/2026/04/30/world/europe/iceland-hot-tub-pools-tourism.html",
+        "summary": "Icelands swimming pools and hot tubs serve as hubs of social life, a cultural distinction recently honored by UNESCO. Some Icelanders arent so thrilled.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "premier league",
-            "premier league title"
+            "hot tubs",
+            "locals aren",
+            "hot tubs"
+        ]
+    },
+    {
+        "title": "Police in Australia Were Warned of Terror Risk Before Bondi Attack, Report Says",
+        "link": "https://www.nytimes.com/2026/04/30/world/asia/australia-bondi-beach-attack-antisemitism.html",
+        "summary": "A Jewish security group told police an attack on the community was likely because of heightened antisemitism, days before Decembers mass shooting in Sydney.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "australia were warned",
+            "bondi attack",
+            "jewish security group"
+        ]
+    },
+    {
+        "title": "Israel Intercepts Aid Flotilla Heading to Breach Naval Blockade of Gaza",
+        "link": "https://www.nytimes.com/2026/04/30/world/middleeast/israel-gaza-aid-flotilla.html",
+        "summary": "Activists said the Israeli military boarded and disabled boats carrying humanitarian assistance to the territory in international waters near Greece.",
+        "source": "NYT > World News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "israel intercepts",
+            "flotilla heading",
+            "breach naval blockade"
+        ]
+    },
+    {
+        "title": "In France, Trump\u2019s Triumphal Arch Draws Eye Rolls",
+        "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-triumphal-arch-france.html",
+        "summary": "The Arc de Triomphe in Paris, which the president vows to top in Washington, offers a lesson in the complicated history of monuments.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "triumphal arch draws eye rolls",
+            "president vows"
+        ]
+    },
+    {
+        "title": "Mother Runs for Office in India After Daughter Was Raped and Killed",
+        "link": "https://www.nytimes.com/2026/04/30/world/asia/india-elections-bjp-ratna-debnath.html",
+        "summary": "Ratna Debnath is a candidate for Prime Minister Narendra Modis party, which is campaigning on womens safety in an Indian state election.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "daughter was raped",
+            "killed ratna debnath",
+            "narendra modis"
+        ]
+    },
+    {
+        "title": "How the War in Iran is Affecting Africa\u2019s Economy and Fuel Supply",
+        "link": "https://www.nytimes.com/2026/04/30/world/africa/iran-war-africa-economic-consequences.html",
+        "summary": "Despite the fragile cease-fire in the Middle East, many Africans say they are bracing for tougher times ahead and making difficult decisions about the future.",
+        "source": "NYT > World News",
+        "objectivity_score": 42,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "affecting africa",
+            "fragile cease-fire",
+            "difficult decisions"
+        ]
+    },
+    {
+        "title": "Missing Indigenous Girl in Australia Is Found Dead After 5-Day Search",
+        "link": "https://www.nytimes.com/2026/04/30/world/australia/missing-girl-found-dead.html",
+        "summary": "The police are seeking a man who was last seen holding hands with the 5-year-old girl on Saturday night near Alice Springs.",
+        "source": "NYT > World News",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "missing indigenous girl",
+            "found dead",
+            "5-year-old girl"
         ]
     },
     {
@@ -1363,197 +1543,60 @@
         ]
     },
     {
-        "title": "Stabbing in Jewish Area in North London Treated as a Terrorist Incident, Police Say",
-        "link": "https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html",
-        "summary": "Two men who were stabbed in Golders Green on Wednesday were in stable condition, the police said. One man was arrested on suspicion of attempted murder.",
+        "title": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
+        "link": "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html",
+        "summary": "The British police said the attack on Wednesday was being treated as terrorism, and they warned of rising antisemitic hate crimes.",
         "source": "NYT > World News",
-        "objectivity_score": 36,
+        "objectivity_score": 42,
         "sentiment": "Negative",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "jewish area",
-            "london treated",
-            "terrorist incident"
+            "stabbing attack against",
+            "british police"
         ]
     },
     {
-        "title": "Acid Attack in Indonesia Evokes Brutality of Suharto Era",
-        "link": "https://www.nytimes.com/2026/04/28/world/asia/indonesia-andrei-acid-trial.html",
-        "summary": "The victim had protested against the widening role of the military, which activists say is reminiscent of the countrys decades-long dictatorship.",
-        "source": "NYT > World News",
-        "objectivity_score": 21,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "acid attack",
-            "indonesia evokes brutality",
-            "suharto era"
-        ]
-    },
-    {
-        "title": "Trump and Putin Call for a Brief Cease-Fire in Ukraine",
-        "link": "https://www.nytimes.com/2026/04/29/world/europe/ukraine-russia-ceasefire-trump-putin.html",
-        "summary": "Previous truces have broken down amid competing accusations of violations, and it is not clear that Ukraine will agree to Moscows terms.",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "putin call",
-            "brief cease-fire",
-            "ukraine previous"
-        ]
-    },
-    {
-        "title": "Trump\u2019s Clash With Merz Shows It\u2019s Hard to Stay Friends With the President",
-        "link": "https://www.nytimes.com/2026/04/29/world/europe/trump-merz-iran.html",
-        "summary": "Throughout the war in Iran, Friedrich Merz, the German chancellor, did all he could to keep President Trump happy. This week, Mr. Merz appeared to lose patience.",
+        "title": "Trump May Pull Troops From Germany. That Isn\u2019t as Scary as It Once Was.",
+        "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html",
+        "summary": "Germany has hugely increased its military spending, aiming to be less dependent on Washington. Its support for U.S. attacks on Iran may also give it leverage.",
         "source": "NYT > World News",
         "objectivity_score": 51,
-        "sentiment": "Positive",
+        "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "merz shows",
-            "friedrich merz",
-            "german chancellor"
+            "trump may pull troops"
         ]
     },
     {
-        "title": "In France, American Universities Lose Their Allure in the Trump Era",
-        "link": "https://www.nytimes.com/2026/04/29/world/europe/france-american-universities-trump-sciences-po.html",
-        "summary": "Worries about visas, academic freedom and safety are making foreign schools, like Sciences Po in Paris, more attractive to some students than the Ivy League.",
+        "title": "Korean Air Bans Roosters on U.S. Flights to the Philippines",
+        "link": "https://www.nytimes.com/2026/04/30/world/asia/korean-air-cockfighting-roosters-philippines.html",
+        "summary": "The airline was used by chicken breeders in Texas to illegally transport roosters for cockfights, an animal welfare group said.",
         "source": "NYT > World News",
-        "objectivity_score": 32,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "universities lose",
-            "trump era worries",
-            "academic freedom"
-        ]
-    },
-    {
-        "title": "Russia\u2019s Victory Day Parade Will Be Missing Tanks and Other Heavy Military Armor",
-        "link": "https://www.nytimes.com/2026/04/29/world/europe/russia-victory-day-parade-tanks.html",
-        "summary": "The absence of tanks and other heavy military vehicles on Red Square will highlight the heavy toll of the war in Ukraine.",
-        "source": "NYT > World News",
-        "objectivity_score": 24,
+        "objectivity_score": 72,
         "sentiment": "Negative",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "parade will be missing tanks",
-            "heavy military vehicles",
-            "red square"
+            "bans roosters",
+            "u.s. flights",
+            "chicken breeders"
         ]
     },
     {
-        "title": "Almost All of Europe Was Abnormally Hot in 2025, Report Finds",
-        "link": "https://www.nytimes.com/2026/04/29/world/europe/europe-climate-2025-report.html",
-        "summary": "The continent, which is warming faster than the global average, saw wildfires, floods and a sub-Arctic heat wave, the European State of the Climate report said.",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "europe was abnormally hot",
-            "global average",
-            "sub-arctic heat wave"
-        ]
-    },
-    {
-        "title": "Indian Tycoon Offers Refuge to Pablo Escobar\u2019s Condemned Hippos",
-        "link": "https://www.nytimes.com/2026/04/29/world/asia/indian-tycoon-ambani-hippos-colombia-escobar.html",
-        "summary": "Colombia was planning to slaughter 80 hippopotamuses after a small herd imported in the 1980s by the drug lord grew out of control. An Indian tycoon has offered them a new home instead.",
-        "source": "NYT > World News",
-        "objectivity_score": 28,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "tycoon offers refuge",
-            "pablo escobar",
-            "condemned hippos colombia"
-        ]
-    },
-    {
-        "title": "Men Accused in Fires Targeting Starmer Received Orders in Russian, Prosecutors Say",
-        "link": "https://www.nytimes.com/2026/04/29/world/europe/arson-keir-starmer-homes.html",
-        "summary": "Two buildings and a car linked to Prime Minister Keir Starmer of Britain were set afire last year. The men on trial for it were recruited through a Russian-language Telegram account, a jury was told.",
-        "source": "NYT > World News",
-        "objectivity_score": 3,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "men accused",
-            "fires targeting starmer received orders",
-            "prosecutors say"
-        ]
-    },
-    {
-        "title": "Hockey Fans in Buffalo Finish \u2018O Canada\u2019 After Singer\u2019s Mic Malfunctions",
-        "link": "https://www.nytimes.com/2026/04/29/sports/hockey/buffalo-sabres-nhl-canadian-anthem.html",
-        "summary": "A crowd in Buffalo chimed in to sing the Canadian national anthem before an N.H.L. playoff game. That presented a contrast to ongoing U.S.-Canada tensions.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "hockey fans",
-            "buffalo finish",
-            "mic malfunctions"
-        ]
-    },
-    {
-        "title": "Rising Fuel Prices Could Force Excruciating Choices on Economic Policies",
+        "title": "Rising Fuel Prices Force Policymakers to Weigh Excruciating Choices",
         "link": "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html",
-        "summary": "The European Central Bank and Bank of England were expected to hold interest rates steady on Thursday while searching for signs of possible longer-term damage.",
+        "summary": "The Bank of England and European Central Bank held interest rates steady on Thursday, as officials search for signs of possible longer-term damage and warn of the impact of a prolonged energy shock.",
         "source": "NYT > World News",
-        "objectivity_score": 39,
+        "objectivity_score": 43,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
             "rising fuel prices",
-            "excruciating choices",
+            "weigh excruciating choices",
             "european central bank"
-        ]
-    },
-    {
-        "title": "Mother Runs for Office in India After Daughter Was Raped and Killed",
-        "link": "https://www.nytimes.com/2026/04/30/world/asia/india-elections-bjp-ratna-debnath.html",
-        "summary": "Ratna Debnath is a candidate for Prime Minister Narendra Modis party, which is campaigning on womens safety in an Indian state election.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "daughter was raped",
-            "killed ratna debnath",
-            "narendra modis"
-        ]
-    },
-    {
-        "title": "In France, Trump\u2019s Triumphal Arch Draws Eye Rolls",
-        "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-triumphal-arch-france.html",
-        "summary": "The Arc de Triomphe in Paris, which the president vows to top in Washington, offers a lesson in the complicated history of monuments.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "triumphal arch draws eye rolls",
-            "president vows"
         ]
     },
     {
@@ -1616,6 +1659,21 @@
         ]
     },
     {
+        "title": "Trump and Putin Call for a Brief Cease-Fire in Ukraine",
+        "link": "https://www.nytimes.com/2026/04/29/world/europe/ukraine-russia-ceasefire-trump-putin.html",
+        "summary": "Previous truces have broken down amid competing accusations of violations, and it is not clear that Ukraine will agree to Moscows terms.",
+        "source": "NYT > World News",
+        "objectivity_score": 31,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "putin call",
+            "brief cease-fire",
+            "ukraine previous"
+        ]
+    },
+    {
         "title": "\u2018Timmy\u2019 the Stranded Whale Begins Journey to the North Sea",
         "link": "https://www.nytimes.com/video/world/europe/100000010869732/timmy-stranded-whale-germany-rescue.html",
         "summary": "A barge carrying a whale made its way toward the North Sea, where rescuers hope the humpback will swim further into the Atlantic Ocean. The whale, nicknamed Timmy, had been stranded off Germanys Balti...",
@@ -1628,36 +1686,6 @@
             "stranded whale begins journey",
             "north sea",
             "north sea"
-        ]
-    },
-    {
-        "title": "North London Stabbing Is Being Treated as Terrorism, Police Say",
-        "link": "https://www.nytimes.com/video/world/europe/100000010869878/golders-green-london-stabbing-terrorism.html",
-        "summary": "Two men were stabbed in north London on Wednesday, in an area that is home to just over half of Britains 300,000 Jewish residents. The citys main police force said the attack was being treated as terr...",
-        "source": "NYT > World News",
-        "objectivity_score": 32,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "london stabbing",
-            "jewish residents",
-            "main police force"
-        ]
-    },
-    {
-        "title": "Coast Guard Calls Off Search for Crew of Capsized Cargo Ship",
-        "link": "https://www.nytimes.com/2026/04/29/world/asia/typhoon-sinlaku-us-ship-dead-coast-guard.html",
-        "summary": "The Mariana, a 145-foot vessel with six crew members, was found overturned after a typhoon, prompting an 11-day search which found no survivors.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "coast guard",
-            "off search",
-            "capsized cargo ship"
         ]
     },
     {
@@ -1736,11 +1764,56 @@
         ]
     },
     {
+        "title": "Canada to create powerful financial crimes agency as US weakens its approach",
+        "link": "https://www.theguardian.com/world/2026/apr/30/canada-financial-crimes-agency-us-weakens-approach-cryptocurrency-atms-money-laundering",
+        "summary": "Cryptocurrency ATMs also face ban, after public inquiry found Canada lacked anti-money-laundering strategyCanada is to establish a new and powerful law enforcement agency to investigate financial crim...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 41,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "powerful financial crimes agency",
+            "us weakens",
+            "cryptocurrency atms"
+        ]
+    },
+    {
+        "title": "Mexico\u2019s cartel crackdown hits top ranks \u2013 but will it fuel Jalisco violence?",
+        "link": "https://www.theguardian.com/world/2026/apr/30/mexico-jalisco-cartel-el-mencho-flores",
+        "summary": "Arrest of potential next leader found hiding in drainage pipe highlights renewed tactics  and fears of cartel infightingUS politics live  latest updatesThe golden coffin of El Mencho, the late leader ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 42,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s cartel crackdown hits",
+            "top ranks \u2013",
+            "drainage pipe highlights"
+        ]
+    },
+    {
+        "title": "\u2018Historic breakthrough\u2019: Colombia climate talks end with hopes raised for fossil fuel phaseout",
+        "link": "https://www.theguardian.com/environment/2026/apr/30/colombia-climate-talks-end-fossil-fuel-phaseout",
+        "summary": "Nearly 60 countries back voluntary roadmaps to wean world off coal, oil and gas, at conference prompted by frustration with UN climate summitsBusiness live  latest updatesEurope live  latest updatesGo...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "breakthrough \u2019",
+            "fossil fuel phaseout",
+            "voluntary roadmaps"
+        ]
+    },
+    {
         "title": "US charges Sinaloa governor and other Mexican officials with drug trafficking offences",
         "link": "https://www.theguardian.com/world/2026/apr/30/us-charges-sinaloa-governor-and-other-mexican-officials-with-drug-trafficking-offences",
         "summary": "Indictment accuses high-level officials in Sinaloa of offences such as drug trafficking,  weapons offences and kidnapping The US justice department has charged the governor of Sinaloa and nine other c...",
         "source": "World news | The Guardian",
-        "objectivity_score": 28,
+        "objectivity_score": 25,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
@@ -1766,57 +1839,12 @@
         ]
     },
     {
-        "title": "Thousands of US hockey fans sing Canadian anthem amid tensions between neighbor countries",
-        "link": "https://www.theguardian.com/world/2026/apr/29/us-ice-hockey-fans-canadian-anthem",
-        "summary": "Fans in Buffalo, only a few miles from Ontario, filled the silence when a microphone cut out at the start of a matchThe Electric City. Nickel City. Queen City. City of No Illusions.Buffalo, New York, ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 55,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "us hockey fans",
-            "canadian anthem",
-            "neighbor countries"
-        ]
-    },
-    {
-        "title": "\u2018Total peace\u2019 or \u2018all-out war\u2019? Colombian voters face stark choice as rebel attacks surge",
-        "link": "https://www.theguardian.com/world/2026/apr/29/colombia-election-total-peace-promise-violence",
-        "summary": "As the country prepares to elect a new president, a fierce debate is raging on how to end the decades-long armed conflict for good  The landmark 2016 peace deal between the Colombian government and th...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 51,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "\u2018 total peace \u2019",
-            "all-out war \u2019",
-            "stark choice"
-        ]
-    },
-    {
-        "title": "Families sue OpenAI over failure to report Canada mass shooter\u2019s behavior on ChatGPT",
-        "link": "https://www.theguardian.com/technology/2026/apr/29/openai-tumbler-ridge-shooter-chatgpt-lawsuit",
-        "summary": "New lawsuits allege employees urged company to notify authorities months before deadly Tumbler Ridge attackFamilies of seven victims of a mass shooting at a secondary school in British Columbia are su...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "mass shooter \u2019 s behavior",
-            "new lawsuits allege employees",
-            "notify authorities months"
-        ]
-    },
-    {
-        "title": "Jailed Hong Kong pro-democracy activist Jimmy Lai wins freedom of speech award in Germany",
+        "title": "Jailed Hong Kong pro-democracy activist Jimmy Lai wins free speech award in Germany",
         "link": "https://www.theguardian.com/world/2026/apr/30/jailed-hong-kong-pro-democracy-activist-jimmy-lai-wins-freedom-of-speech-award-in-germany",
         "summary": "Media tycoon honoured in absentia as critics decry his 20-year sentence under national security lawThe jailed media entrepreneur Jimmy Lai has been awarded Deutsche Welles freedom of speech award for ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
+        "objectivity_score": 21,
+        "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
@@ -1886,11 +1914,56 @@
         ]
     },
     {
+        "title": "Limiting capital gains tax changes to new investments would \u2018severely delay\u2019 budget reforms, Deloitte says",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/30/limiting-capital-gains-tax-changes-to-new-investments-would-severely-delay-budget-reforms-deloitte-says",
+        "summary": "Treasurer Jim Chalmers had indicated transitional proposed changes as Labor attempts to repair a structurally flawed budgetFollow our Australia news live blog for latest updatesGet our breaking news e...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 54,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "capital gains tax changes",
+            "new investments",
+            "delay \u2019 budget reforms"
+        ]
+    },
+    {
+        "title": "The Bondi terror report raises more questions than answers about the massacre - and illuminated its horror",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/30/royal-commission-interim-report-bondi-terror-attack-questions-ntwnfb",
+        "summary": "The 155-page interim report released on Thursday shows how little is known  and can be shared  about the 14 December shootingGet our breaking news email, free app or daily news podcastIf theres one th...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "terror report raises",
+            "155-page interim report",
+            "news email"
+        ]
+    },
+    {
+        "title": "At least six Australian activists detained by Israel navy after Gaza flotilla boats intercepted",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/30/at-least-six-australian-activists-detained-by-israel-navy-after-gaza-flotilla-boats-intercepted",
+        "summary": "Spokesperson says just two out of 14 Australians remain in communication, after CCTV footage showed Israeli navy boarding vessels in international watersGet our breaking news email, free app or daily ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 17,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "flotilla boats",
+            "international watersget",
+            "news email"
+        ]
+    },
+    {
         "title": "\u2018We\u2019re coming for you\u2019: NT police search for suspect after body of missing five-year-old found",
         "link": "https://www.theguardian.com/australia-news/2026/apr/30/body-found-in-search-for-missing-aboriginal-girl-alice-springs-ntwnfb",
         "summary": "Mother of Kumanjayi Little Baby, whose body was found after five-day search near Alice Springs, says its going to be so hard to live the rest of our lives without you Warning: This article contains re...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 36,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
@@ -1901,82 +1974,82 @@
         ]
     },
     {
-        "title": "Australia news live: mother says she \u2018misses and loves\u2019 daughter after NT girl\u2019s body found as Nampijinpa Price grieves \u2018devastating\u2019 loss",
+        "title": "Mother says she \u2018misses and loves\u2019 daughter after NT girl\u2019s body found \u2013 as it happened",
         "link": "https://www.theguardian.com/australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb",
-        "summary": "Follow todays news liveWarning: This article contains references to Indigenous Australians who have diedGet our breaking news email, free app or daily news podcastChalmers understands calls for gas ex...",
+        "summary": "This blog is now closedWarning: This article contains references to Indigenous Australians who have diedGet our breaking news email, free app or daily news podcastChalmers understands calls for gas ex...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 32,
         "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
             "\u2019 daughter",
             "girl \u2019 s body",
-            "nampijinpa price"
+            "article contains references"
         ]
     },
     {
-        "title": "Trump administration urges countries to help citizens stuck in Syria as Australia maintains hardline stance",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/30/syria-australian-citizens-repatriation-us-trump",
-        "summary": "Syrian officials say a group Australians awaiting a solution as Albanese government refuses to repatriate themGet our breaking news email, free app or daily news podcastThe Trump administration says i...",
+        "title": "Trump launches fresh attack on Merz after threatening US troop reduction in Germany \u2013 Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
+        "summary": "US president uses social media post to criticise chancellor over Ukraine, immigration and interfering in Iran conflictThe Commission was also asked about yesterdays meeting of Hungarys incoming prime ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "hardline stance",
-            "government refuses",
-            "repatriate themget"
-        ]
-    },
-    {
-        "title": "\u2018Outrageous\u2019: Rebel Wilson denies she was behind Snapchat leak of actor\u2019s nude photo, court hears",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/30/rebel-wilson-defamation-trial-third-day-testimony",
-        "summary": "The Pitch Perfect star is being sued for defamation by Charlotte MacInnes, the lead actor of Wilsons directorial debut, The DebFollow our Australia news live blog for latest updatesGet our breaking ne...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "rebel wilson",
-            "actor \u2019 s nude photo",
-            "court hears"
-        ]
-    },
-    {
-        "title": "Bondi royal commission: report calls for better policing of Jewish festivals after \u2018high\u2019 terror risk flagged for Hanukah event",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/30/bondi-beach-antisemitism-royal-commission-findings-ntwnfb",
-        "summary": "Interim report contains 14 recommendations, after inquiry examined agencies actions before the attack in which 15 people were killedFollow our Australia news live blog for latest updatesGet our breaki...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 32,
         "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "royal commission",
-            "report calls",
-            "jewish festivals"
+            "fresh attack",
+            "us troop reduction",
+            "us president uses"
         ]
     },
     {
-        "title": "Trump threatens Germany with US troop reduction after Merz\u2019s Iran war criticism \u2013 Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
-        "summary": "US presidents statement follows comments by German chancellor that the US was being humiliated in conflictUS president Donald Trump threatened to reduce the number of troops deployed in Germany last n...",
+        "title": "Eurozone inflation soars to 3% as Iran war drives up energy prices",
+        "link": "https://www.theguardian.com/business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices",
+        "summary": "ECB keeps interest rates on hold as growth stumbles and price rises gather pace, up from 2.6% in March and 1.9% in FebruaryBusiness live  latest updatesAir France-KLM cuts forecasts amid $2.4bn fuel b...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
+        "objectivity_score": 64,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "inflation soars",
+            "energy prices",
+            "interest rates"
+        ]
+    },
+    {
+        "title": "Israel intercepts and detains crews of Gaza aid flotilla near Crete",
+        "link": "https://www.theguardian.com/world/2026/apr/30/israel-intercepts-detains-crews-gaza-aid-flotillas-crete",
+        "summary": "Global Sumud Flotilla describes interception as violent raid as IDF urges activists to deliver aid via established channelsIsraeli forces have intercepted and detained the crews of at least 22 boats n...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 31,
+        "sentiment": "Negative",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "detains crews",
+            "aid flotilla",
+            "crete global sumud flotilla"
+        ]
+    },
+    {
+        "title": "Air France-KLM cuts capacity growth forecast amid expected $2.4bn fuel bill rise",
+        "link": "https://www.theguardian.com/business/2026/apr/30/air-france-klm-cuts-capacity-growth-forecast-amid-expected-24bn-fuel-bill-rise",
+        "summary": "Move comes as airline industry reacts to uncertainty over Iran war and increase in price of Brent crudeBusiness live  latest updatesAir France-KLM has cut its capacity growth forecasts for this year a...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 37,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "us troop reduction",
-            "war criticism \u2013",
-            "us presidents statement"
+            "cuts capacity growth",
+            "$ 2.4bn fuel bill rise",
+            "airline industry reacts"
         ]
     },
     {
-        "title": "\u2018Nightmare\u2019 queues and missed flights: readers report turbulent start to EU entry-exit system",
+        "title": "\u2018Nightmare\u2019 queues and missed flights: a turbulent start to EU entry-exit system",
         "link": "https://www.theguardian.com/business/2026/apr/30/eu-entry-exit-system-ees-queues-missed-flights-readers",
         "summary": "Some travellers spent hours in lines at airport, with kiosks not working, little seating and few staff on hand to helpSome travellers passing through the new EU entry-exit system (EES) have faced huge...",
         "source": "World news | The Guardian",
@@ -1991,63 +2064,33 @@
         ]
     },
     {
-        "title": "Trump threatens to reduce troop numbers in Germany amid growing row with Nato allies",
-        "link": "https://www.theguardian.com/world/2026/apr/30/trump-threatens-to-reduce-troop-numbers-in-germany-amid-growing-row-with-nato-allies",
-        "summary": "US presidents threat comes after Germanys Friedrich Merz suggests Trump team is being outplayed in its negotiations with IranThe US may reduce its number of troops deployed in Germany, Donald Trump ha...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "troop numbers",
-            "allies us presidents threat",
-            "germanys friedrich merz"
-        ]
-    },
-    {
-        "title": "Raise tax on alcohol and junk food to cut deaths from liver disease, experts say",
-        "link": "https://www.theguardian.com/society/2026/apr/29/alcohol-junk-food-liver-disease-taxes-health-europe",
-        "summary": "Report calls for tough action to combat escalating and unsustainable burden of liver-related problems in EuropeGovernments in Europe should impose much higher taxes on alcohol and unhealthy food to ta...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 51,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "junk food",
-            "liver disease",
-            "tough action"
-        ]
-    },
-    {
-        "title": "Knee surgery for cartilage damage does not benefit patients, study suggests",
-        "link": "https://www.theguardian.com/science/2026/apr/29/knee-surgery-cartilage-damage-patients-study",
-        "summary": "People with meniscus tears who underwent surgery had poorer knee function and worse osteoarthritis after 10 years than those who did notA common knee surgery for cartilage damage does not benefit pati...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Negative",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "cartilage damage",
-            "benefit patients",
-            "study suggests people"
-        ]
-    },
-    {
-        "title": "Oil price tops $120 a barrel after Trump warns Iran blockade could last \u2018months\u2019",
+        "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last \u2018months\u2019",
         "link": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
-        "summary": "Oil markets spooked as US president appears willing to maintain US Navy blockade and Iran keeps strait of Hormuz all but shut The price of Brent oil soared above $126 a barrel on Wednesday, its highes...",
+        "summary": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shutBusiness live  latest updatesThe global oil price has soared above $126 a barrel, ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 43,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
             "oil price tops $",
-            "\u2018 months \u2019 oil markets",
+            "\u2018 months \u2019",
             "us president"
+        ]
+    },
+    {
+        "title": "Iran supreme leader issues defiant statement on strait of Hormuz",
+        "link": "https://www.theguardian.com/world/2026/apr/30/iran-supreme-leader-issues-defiant-statement-on-strait-of-hormuz",
+        "summary": "Mojtaba Khamenei says Tehran will eliminate enemys abuses of the waterway and guard its nuclear and missile programmesUS politics live  latest updatesIrans supreme leader has broken his recent silence...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "supreme leader issues defiant statement",
+            "hormuz mojtaba khamenei",
+            "enemys abuses"
         ]
     },
     {
@@ -2096,18 +2139,18 @@
         ]
     },
     {
-        "title": "King Charles agrees with me on Iran nuclear weapon ban, claims Trump",
-        "link": "https://www.theguardian.com/us-news/2026/apr/29/king-charles-agrees-with-me-on-iran-nuclear-weapon-ban-says-trump",
-        "summary": "Remarks by US president likely to cause embarrassment for aides of UK monarch, who usually remains neutralUK politics live  latest updatesDonald Trump has claimed King Charles agrees with him that Ira...",
+        "title": "Shock in India after man takes remains of his sister to bank to prove her death",
+        "link": "https://www.theguardian.com/world/2026/apr/30/india-man-body-corpse-dead-sister-bank",
+        "summary": "Jitu Munda says he was refused access to money in case highlighting lack of humanity in Indian bureaucracyThe sight of a man bringing the remains of his dead sister to a bank in India after officials ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 49,
+        "objectivity_score": 17,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "nuclear weapon ban",
-            "trump remarks",
-            "us president"
+            "jitu munda",
+            "indian bureaucracythe sight",
+            "dead sister"
         ]
     },
     {
@@ -2171,168 +2214,153 @@
         ]
     },
     {
-        "title": "India voices anger after Trump shares comments calling it a \u2018hellhole\u2019",
-        "link": "https://www.theguardian.com/world/2026/apr/24/india-trump-hellhole-post",
-        "summary": "Foreign ministry calls remarks of rightwing podcast host shared by Trump uninformed, inappropriate and in poor tasteThe Indian government has denounced a social media post shared by Donald Trump that ...",
+        "title": "Farage did not need to declare \u00a35m donation as it was \u2018private\u2019, claims Braverman \u2013 UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/apr/30/local-election-campaign-labour-reform-conservatives-tories-greens-lib-dems-latest-news-updates",
+        "summary": "Former Tory home secretary turned Reform UK education spokesperson defends party leader over undeclared giftOn BBC Radio Merseyside the presenter, Tony Snell, put it to Kemi Badenoch that Merseyside w...",
         "source": "World news | The Guardian",
         "objectivity_score": 35,
-        "sentiment": "Negative",
+        "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "voices anger",
-            "shares comments",
-            "\u2018 hellhole \u2019"
+            "\u00a35m donation",
+            "private \u2019",
+            "home secretary"
         ]
     },
     {
-        "title": "Ministers under pressure to tackle antisemitism after Golders Green terror attack \u2013 live updates",
+        "title": "Golders Green attack suspect was previously referred to Prevent \u2013 live updates",
         "link": "https://www.theguardian.com/uk-news/live/2026/apr/30/golders-green-terror-incident-security-jewish-community-safety-latest-news",
-        "summary": "The government has announced 25m to increase security for Jewish communitiesSeveral of the UKs leading imams have come together to utterly condemn the Golders Green attack.The leaders, including the c...",
+        "summary": "Man had been referred to scheme to try to stop people becoming terrorists in 2020 but case was closed the same yearFull report: Golders Green attack suspect referred to Prevent scheme in 2020, say pol...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 28,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "green terror attack \u2013",
-            "jewish communitiesseveral",
-            "green attack.the leaders"
+            "green attack",
+            "updates man",
+            "yearfull report"
         ]
     },
     {
-        "title": "Could Starmer bring back Rayner to steady ship \u2013 and would she get onboard?",
-        "link": "https://www.theguardian.com/politics/2026/apr/30/keir-starmer-angela-rayner-labour-reshuffle-elections",
-        "summary": "Former deputy PM has walked a line between loyalty and interventionism since resigning last SeptemberIt is nearly eight months since Angela Rayner quit the cabinet because of her tax arrangements, but...",
+        "title": "UK stole 25 million years of life and labour through slavery in Barbados, research finds",
+        "link": "https://www.theguardian.com/world/2026/apr/30/uk-stole-25-million-years-of-life-and-labour-through-slavery-in-barbados-research-finds",
+        "summary": "Experts estimate accounting of the harm that was done by 200 years of chattel slavery would be US$2tn in damagesBritain stole 25 million years of life and labour through slavery in Barbados, according...",
         "source": "World news | The Guardian",
-        "objectivity_score": 17,
+        "objectivity_score": 15,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "steady ship \u2013",
-            "angela rayner",
-            "tax arrangements"
+            "chattel slavery",
+            "us $ 2tn",
+            "new research"
         ]
     },
     {
-        "title": "UK to invest further \u00a325m in security for Jewish communities after London stabbing",
-        "link": "https://www.theguardian.com/uk-news/2026/apr/30/uk-invest-security-jewish-communities-after-golders-green-stabbing-london",
-        "summary": "Home secretary pledges to do everything in my power to keep British Jews safe as police say suspect is Somalia-born UK nationalShabana Mahmood has promised to do everything in my power to keep British...",
+        "title": "Labour calls on Jenrick to give \u00a337,500 campaign donation to charity amid electoral law investigation",
+        "link": "https://www.theguardian.com/politics/2026/apr/30/labour-robert-jenrick-give-campaign-donation-charity-allegation",
+        "summary": "Electoral Commission is investigating claims money given to MP came from US businessman now convicted of wire fraudUK politics live  latest updatesLabour has called on Robert Jenrick to give up almost...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 52,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": null,
+        "keywords": [
+            "\u00a337,500 campaign donation",
+            "electoral law investigation",
+            "electoral commission"
+        ]
+    },
+    {
+        "title": "Masterpieces by Klimt, Matisse and Freud set for London\u2019s most valuable auction",
+        "link": "https://www.theguardian.com/artanddesign/2026/apr/30/masterpieces-by-klimt-matisse-and-freud-set-for-londons-most-valuable-auction",
+        "summary": "Sothebys said collection of billionaire Spurs owner Joe Lewis and daughter Vivienne expected to fetch more than 150m in June saleA major group of masterpieces by some of modern arts biggest names is t...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-04-30",
+        "image_url": "https://i.guim.co.uk/img/media/e7a5893a46bafb3fb80824806eaef081c8383668/0_338_2349_1879/master/2349.jpg?width=140&quality=85&auto=format&fit=max&s=ee27560ad183d4b2c86b01f288707097",
+        "keywords": [
+            "valuable auction",
+            "joe lewis",
+            "salea major group"
+        ]
+    },
+    {
+        "title": "Hegseth faces further grilling over war costs as Iranian supreme leader releases fresh US threats \u2013 US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2026/apr/30/donald-trump-pete-hegseth-iran-war-oil-king-charles-latest-news-updates",
+        "summary": "Defense secretary to be quizzed in Senate as Khamenei says foreigners have no place in Gulf except at bottom of its watersSign up for the Breaking News US emailLouisiana governor Jeff Landry yesterday...",
         "source": "World news | The Guardian",
         "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "jewish communities",
-            "home secretary pledges",
-            "somalia-born uk"
+            "war costs",
+            "supreme leader releases",
+            "fresh us threats \u2013 us politics"
         ]
     },
     {
-        "title": "Sounds of hope in Kent as more nightingales join dawn chorus",
-        "link": "https://www.theguardian.com/environment/2026/apr/30/rspb-cautiously-welcomes-slight-increase-in-uk-nightingale-population",
-        "summary": "Elusive nightingale doing well at Northward Hill, Kent, but experts cite concerns around loss of habitatThe dawn chorus at RSPB Northward Hill in Kent is a riot of sound: the melodic robin, the two-to...",
+        "title": "David Allan Coe, outlaw country singer-songwriter, dies aged 86",
+        "link": "https://www.theguardian.com/music/2026/apr/30/david-allan-coe-dies-aged-86",
+        "summary": "The musician was known for working-class anthem Take This Job and Shove It as well as hits like The Ride and othersDavid Allan Coe, the country singer-songwriter who wrote the working-class anthem Tak...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 70,
         "sentiment": "Positive",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "dawn chorus",
-            "experts cite",
-            "habitatthe dawn chorus"
+            "david allan coe",
+            "outlaw country singer-songwriter",
+            "working-class anthem"
         ]
     },
     {
-        "title": "Revealed: British ad firm\u2019s billion-dollar greenwash of US oil industry",
-        "link": "https://www.theguardian.com/media/2026/apr/30/revealed-british-ad-firm-billion-dollar-greenwash-of-us-oil-industry",
-        "summary": "WPP accused of breaching its climate policy after report reveals firm linked to twice as much oil advertising as US rivalsA British advertising conglomerate has helped the oil companies ExxonMobil, Ch...",
+        "title": "Governor Janet Mills drops Maine Senate bid weeks before primary clash",
+        "link": "https://www.theguardian.com/us-news/2026/apr/30/maine-governor-janet-mills-drops-senate-race",
+        "summary": "Mills cites lack of funds as rival to unseat Susan Collins fuels Democratic rift under Donald TrumpSign up for the Breaking News US email to get newsletter alerts in your inboxJanet Mills, the Maine g...",
         "source": "World news | The Guardian",
-        "objectivity_score": 21,
+        "objectivity_score": 41,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "firm \u2019 s billion-dollar greenwash",
-            "us oil industry",
-            "climate policy"
+            "janet mills",
+            "senate bid weeks",
+            "primary clash"
         ]
     },
     {
-        "title": "The $13bn World Cup: how the numbers stack up on Fifa\u2019s 2026 balance sheet",
-        "link": "https://www.theguardian.com/football/ng-interactive/2026/apr/30/the-13bn-world-cup-how-the-numbers-stack-up-on-fifas-2026-balance-sheet",
-        "summary": "The earnings from the tournament in the US, Mexico and Canada will make it the most lucrative competition in the history of sport, even if some of the 48 competing countries say they are struggling to...",
+        "title": "US economic growth rebounds 2% as consumer spending slows amid Iran war",
+        "link": "https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war",
+        "summary": "First quarter output, driven by AI investment and government spending, rose as oil shock fuels inflation fearsUS gross domestic product (GDP) accelerated 2% in the first three months of 2026, though c...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "$ 13bn world cup",
-            "numbers stack",
-            "balance sheet"
-        ]
-    },
-    {
-        "title": "US father and daughter admit selling fake Picasso and Banksy works, duping art world",
-        "link": "https://www.theguardian.com/us-news/2026/apr/30/father-daughter-fake-picasso-warhol-banksy-artworks",
-        "summary": "Pair apologise in court after being accused of defrauding buyers including some of New Yorks most prominent fine art auction housesA father and daughter in New Jersey have pleaded guilty to running a ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 68,
+        "objectivity_score": 30,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "us father",
-            "art world",
-            "prominent fine art auction housesa father"
+            "economic growth rebounds",
+            "consumer spending slows",
+            "quarter output"
         ]
     },
     {
-        "title": "\u2018A day of loss for our democracy\u2019: civil rights groups slam supreme court ruling that weakens key part of Voting Rights Act \u2013 as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/apr/29/king-charles-new-york-donald-trump-zohran-mamdani-iran-us-politics-live",
-        "summary": "This live blog is now closed.Sign up for the Breaking News US emailUS supreme court demolishes key Voting Rights Act provision that prevented racial discriminationThe US Federal Reserve is widely expe...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "democracy \u2019",
-            "civil rights groups slam",
-            "supreme court ruling"
-        ]
-    },
-    {
-        "title": "Brown University shooting suspect driven by \u2018accumulation of grievances\u2019, FBI says",
-        "link": "https://www.theguardian.com/us-news/2026/apr/29/brown-university-shooting-suspect-fbi",
-        "summary": "Claudio Neves Valente, who killed himself after deadly attack, began planning for violence in 2022, authorities sayThe gunman behind a deadly shooting at Brown University in December appeared to have ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-04-30",
-        "image_url": null,
-        "keywords": [
-            "\u2018 accumulation",
-            "grievances \u2019",
-            "claudio neves valente"
-        ]
-    },
-    {
-        "title": "Bernie Sanders urges international cooperation to halt AI\u2019s \u2018runaway train\u2019",
-        "link": "https://www.theguardian.com/us-news/2026/apr/29/bernie-sanders-ai-panel",
-        "summary": "US senator holds panel with leading Chinese scientists and warns of risks to society unless new technology is regulated The US senator Bernie Sanders espoused the importance of international cooperati...",
+        "title": "Trump administration move to reclassify cannabis sparks confusion",
+        "link": "https://www.theguardian.com/us-news/2026/apr/30/trump-administration-cannabis-rescheduling-confusing",
+        "summary": "Order last week is only partial rescheduling, making an already complex process more confusing, expert saysThe Trump administration is making good on its promise to reschedule cannabis, but only parti...",
         "source": "World news | The Guardian",
         "objectivity_score": 36,
         "sentiment": "Neutral",
         "date": "2026-04-30",
         "image_url": null,
         "keywords": [
-            "bernie sanders",
-            "international cooperation",
-            "\u2019 s \u2018 runaway train \u2019 us senator"
+            "reclassify cannabis",
+            "confusion order",
+            "complex process"
         ]
     }
 ]
