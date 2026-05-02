@@ -766,17 +766,18 @@
         ]
     },
     {
-        "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-        "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-        "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+        "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+        "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+        "summary": "German Defence Minister Boris Pistorius said the US decision to withdraw 5,000 troops was to be expected.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-05-02",
         "image_url": null,
         "keywords": [
-            "troop levels",
-            "us deployment"
+            "us troop withdrawal",
+            "boris pistorius",
+            "us decision"
         ]
     },
     {
@@ -809,6 +810,35 @@
         ]
     },
     {
+        "title": "Four injured in Brixton drive-by shooting",
+        "link": "https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&at_campaign=rss",
+        "summary": "One man is in a life-threatening condition after the attack in the early hours of Saturday.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "drive-by shooting",
+            "early hours"
+        ]
+    },
+    {
+        "title": "King launches Space Agency project on final day in Bermuda",
+        "link": "https://www.bbc.com/news/articles/cn4pvnpejw9o?at_medium=RSS&at_campaign=rss",
+        "summary": "The King concludes his visit to the British overseas territory after landing from the US on Thursday.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "king launches space agency project",
+            "final day",
+            "king concludes"
+        ]
+    },
+    {
         "title": "These twins were born within minutes of each other - but have different dads",
         "link": "https://www.bbc.com/news/articles/cx21k6rzpdpo?at_medium=RSS&at_campaign=rss",
         "summary": "Lavinia and Michelle are the only case of twins with different fathers to be recorded in the UK.",
@@ -820,64 +850,6 @@
         "keywords": [
             "different dads",
             "different fathers"
-        ]
-    },
-    {
-        "title": "Princess Charlotte beams in new 11th birthday portrait and video",
-        "link": "https://www.bbc.com/news/articles/c07290dggr0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Sharing the image on social media, Kensington Palace said: \"Wishing Charlotte a very happy 11th birthday!'",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "new 11th birthday portrait",
-            "social media",
-            "wishing charlotte"
-        ]
-    },
-    {
-        "title": "My shopping addiction hijacked my life. Now I realise what caused it",
-        "link": "https://www.bbc.com/news/articles/cm2pzv484nlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Children's author Sally Gardner finally found an explanation for her extravagant shopping sprees after hearing a podcast.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "'s author",
-            "sally gardner"
-        ]
-    },
-    {
-        "title": "Is this the real face of Anne Boleyn?",
-        "link": "https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&at_campaign=rss",
-        "summary": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
-        "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "real face",
-            "anne boleyn",
-            "computer science team"
-        ]
-    },
-    {
-        "title": "Five tips to get you through exam season",
-        "link": "https://www.bbc.com/news/articles/c1j2lw5r24jo?at_medium=RSS&at_campaign=rss",
-        "summary": "Teachers and tutors share tips for students to get through exam season.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "exam season",
-            "exam season"
         ]
     },
     {
@@ -896,16 +868,160 @@
         ]
     },
     {
-        "title": "Australia wants to become the first country to eliminate a cancer - can it?",
-        "link": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
-        "summary": "For the first time, Australia has recorded no new cervical cancer diganoses in women under 25.",
+        "title": "Five tips to get you through exam season",
+        "link": "https://www.bbc.com/news/articles/c1j2lw5r24jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Teachers and tutors share tips for students to get through exam season.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "exam season",
+            "exam season"
+        ]
+    },
+    {
+        "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
+        "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+        "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
+        "source": "BBC News",
+        "objectivity_score": 18,
+        "sentiment": "Neutral",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "daily battles"
+        ]
+    },
+    {
+        "title": "Is this the real face of Anne Boleyn?",
+        "link": "https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&at_campaign=rss",
+        "summary": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
         "source": "BBC News",
         "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "real face",
+            "anne boleyn",
+            "computer science team"
+        ]
+    },
+    {
+        "title": "The remarkable life of Zanardi, a 21st century hero who inspired millions",
+        "link": "https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Alex Zanardi was a 21st century hero - a man who inspired millions through his unquenchable spirit in the face of unbelievable adversity, writes Andrew Benson.",
+        "source": "BBC News",
+        "objectivity_score": 43,
         "sentiment": "Positive",
         "date": "2026-05-02",
         "image_url": null,
         "keywords": [
-            "new cervical cancer diganoses"
+            "remarkable life",
+            "century hero",
+            "alex zanardi"
+        ]
+    },
+    {
+        "title": "Calls grow over hospital care for jailed Iranian Nobel laureate Narges Mohammadi",
+        "link": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
+        "summary": "On Friday her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
+        "source": "BBC News",
+        "objectivity_score": 37,
+        "sentiment": "Neutral",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "hospital care",
+            "iranian nobel",
+            "narges mohammadi"
+        ]
+    },
+    {
+        "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+        "link": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+        "summary": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
+        "source": "BBC News",
+        "objectivity_score": 82,
+        "sentiment": "Positive",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "us threatens shipping firms",
+            "donald trump"
+        ]
+    },
+    {
+        "title": "Princess Charlotte beams in new 11th birthday portrait and video",
+        "link": "https://www.bbc.com/news/articles/c07290dggr0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Sharing the image on social media, Kensington Palace said: \"Wishing Charlotte a very happy 11th birthday!'",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "new 11th birthday portrait",
+            "social media",
+            "wishing charlotte"
+        ]
+    },
+    {
+        "title": "Kemi Badenoch apologises after Bloody Sunday footage used in video",
+        "link": "https://www.bbc.com/news/articles/cx21n5kx4d9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Foyle MP Colum Eastwood called on Badenoch to personally apologise after the video was posted online.",
+        "source": "BBC News",
+        "objectivity_score": 60,
+        "sentiment": "Negative",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "kemi badenoch",
+            "foyle mp colum eastwood"
+        ]
+    },
+    {
+        "title": "My shopping addiction hijacked my life. Now I realise what caused it",
+        "link": "https://www.bbc.com/news/articles/cm2pzv484nlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Children's author Sally Gardner finally found an explanation for her extravagant shopping sprees after hearing a podcast.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "'s author",
+            "sally gardner"
+        ]
+    },
+    {
+        "title": "California to begin ticketing driverless cars that violate traffic laws",
+        "link": "https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&at_campaign=rss",
+        "summary": "Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.",
+        "source": "BBC News",
+        "objectivity_score": 54,
+        "sentiment": "Positive",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "driverless cars",
+            "traffic laws",
+            "new rules"
+        ]
+    },
+    {
+        "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
+        "link": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
+        "summary": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "taiwan"
         ]
     },
     {
@@ -938,49 +1054,6 @@
         ]
     },
     {
-        "title": "Ex-F1 driver and Paralympic champion Zanardi dies",
-        "link": "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Former Formula 1 driver and Paralympic champion Alex Zanardi dies at the age of 59.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "alex zanardi"
-        ]
-    },
-    {
-        "title": "Russell Crowe among Highlander stars bringing Hollywood buzz to Scotland",
-        "link": "https://www.bbc.com/news/articles/c8xwl07exx9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Henry Cavill, Karen Gillan and Russell Crowe are in Scotland filming a remake of the cult 1980s film.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "russell crowe",
-            "scotland henry cavill",
-            "karen gillan"
-        ]
-    },
-    {
-        "title": "Bermuda welcomes King Charles with boats, dancing and cake-cutting",
-        "link": "https://www.bbc.com/news/articles/cvgz08k04jeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Schoolchildren turn out to meet the monarch, with exotic birds and Bob Marley music all part of the welcome.",
-        "source": "BBC News",
-        "objectivity_score": 95,
-        "sentiment": "Positive",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "welcomes king",
-            "exotic birds",
-            "bob marley"
-        ]
-    },
-    {
         "title": "Chris Mason: PM seeks to draw contrast with critics within his party and beyond",
         "link": "https://www.bbc.com/news/articles/clypj2z614mo?at_medium=RSS&at_campaign=rss",
         "summary": "In his interview with the Today Programme, Sir Keir Starmer addressed the whirlwind of recent events, from wars to rising antisemitism.",
@@ -993,75 +1066,6 @@
             "chris mason",
             "sir keir starmer",
             "recent events"
-        ]
-    },
-    {
-        "title": "Who shot a Secret Service officer at the Trump press dinner?",
-        "link": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
-        "summary": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
-        "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Negative",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "secret service officer",
-            "press dinner",
-            "court papers"
-        ]
-    },
-    {
-        "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
-        "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-        "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-        "source": "BBC News",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "daily battles"
-        ]
-    },
-    {
-        "title": "Police station car bomb accused appears in court",
-        "link": "https://www.bbc.com/news/articles/c4g4x38dpdjo?at_medium=RSS&at_campaign=rss",
-        "summary": "A 66 year old appears in court a week after a bomb exploded outside Dunmurry Police Station.",
-        "source": "BBC News",
-        "objectivity_score": 12,
-        "sentiment": "Neutral",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "police station car bomb"
-        ]
-    },
-    {
-        "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-        "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-        "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "congressional authorisation"
-        ]
-    },
-    {
-        "title": "Red squirrels 'close to extinction' in England",
-        "link": "https://www.bbc.com/news/articles/cjwpd9d399wo?at_medium=RSS&at_campaign=rss",
-        "summary": "A petition set up by campaign group Save Our Reds, has attracted more than 75,000 signatures.",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Positive",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "red squirrels 'close",
-            "a petition",
-            "campaign group"
         ]
     },
     {
@@ -1122,33 +1126,103 @@
         ]
     },
     {
-        "title": "The remarkable life of Zanardi, a 21st century hero who inspired millions",
-        "link": "https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Alex Zanardi was a 21st century hero - a man who inspired millions through his unquenchable spirit in the face of unbelievable adversity, writes Andrew Benson.",
+        "title": "Norris takes dominant win in Miami sprint race",
+        "link": "https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Lando Norris takes McLaren's first victory of the 2026 season with a dominant drive from pole position in the Miami Grand Prix sprint race.",
         "source": "BBC News",
-        "objectivity_score": 43,
+        "objectivity_score": 57,
         "sentiment": "Positive",
         "date": "2026-05-02",
         "image_url": null,
         "keywords": [
-            "remarkable life",
-            "century hero",
-            "alex zanardi"
+            "sprint race",
+            "lando norris",
+            "dominant drive"
+        ]
+    },
+    {
+        "title": "Are Ipswich better equipped for Premier League this time?",
+        "link": "https://www.bbc.com/sport/football/articles/ckgpw5ye21jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ipswich Town have won promotion from the Championship for the second time in three years - but are they better equipped for the Premier League in 2026?",
+        "source": "BBC News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "premier league",
+            "premier league"
+        ]
+    },
+    {
+        "title": "Brentford flying - but will sixth be good enough for Champions League?",
+        "link": "https://www.bbc.com/sport/football/articles/cvgz0yvgvvno?at_medium=RSS&at_campaign=rss",
+        "summary": "Many predicted Brentford to go down. Instead they are on the cusp of securing European football next season.",
+        "source": "BBC News",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "european football"
+        ]
+    },
+    {
+        "title": "VAR, fine margins & 'superior' Lyon cost Arsenal Champions League final spot",
+        "link": "https://www.bbc.com/sport/football/articles/clyp2e49395o?at_medium=RSS&at_campaign=rss",
+        "summary": "Arsenal eliminated from the Champions League by Lyon after a 4-3 aggregrate defeat and an eventful match in France - with VAR heavily involved throughout",
+        "source": "BBC News",
+        "objectivity_score": 72,
+        "sentiment": "Positive",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "fine margins",
+            "arsenal champions",
+            "final spot"
         ]
     },
     {
         "title": "How Germany May Have Misjudged Trump\u2019s Anger on Iran",
         "link": "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html",
-        "summary": "After Chancellor Friedrich Merz upset President Trump with criticism of the war, he offered no public sign he believed Mr. Trumps threats to pull troops were serious.",
+        "summary": "Germany had appeared not to believe President Trumps threats to pull troops from the country. Once it was announced, Berlin offered a measured response.",
         "source": "NYT > World News",
-        "objectivity_score": 31,
+        "objectivity_score": 20,
         "sentiment": "Negative",
         "date": "2026-05-02",
         "image_url": null,
         "keywords": [
             "germany may have misjudged trump",
-            "friedrich merz",
-            "upset president"
+            "iran germany"
+        ]
+    },
+    {
+        "title": "After Trump\u2019s Ousting of Maduro, Little Has Changed for Most Venezuelans",
+        "link": "https://www.nytimes.com/2026/05/02/world/americas/maduro-trump-raid-venezuela-life.html",
+        "summary": "U.S. officials say they will unleash prosperity by commandeering the oil industry. Many people in Caracas say it will take far more than that.",
+        "source": "NYT > World News",
+        "objectivity_score": 60,
+        "sentiment": "Positive",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "venezuelans u.s.",
+            "unleash prosperity",
+            "oil industry"
+        ]
+    },
+    {
+        "title": "U.S. to Withdraw 5,000 Troops From Germany. But Thousands Will Remain.",
+        "link": "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html",
+        "summary": "The U.S. military has tens of thousands of personnel in Germany, more than in any other foreign country but Japan. Their significance extends well beyond Europe.",
+        "source": "NYT > World News",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "will remain",
+            "foreign country"
         ]
     },
     {
@@ -1166,18 +1240,18 @@
         ]
     },
     {
-        "title": "After Trump\u2019s Ousting of Maduro, Little Has Changed for Most Venezuelans",
-        "link": "https://www.nytimes.com/2026/05/02/world/americas/maduro-trump-raid-venezuela-life.html",
-        "summary": "U.S. officials say they will unleash prosperity by commandeering the oil industry. Many people in Caracas say it will take far more than that.",
+        "title": "U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners",
+        "link": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
+        "summary": "The Persian Gulf countries and Israel have faced repeated Iranian attacks during the U.S.-Israeli war with Iran. The State Department move bypassed congressional review.",
         "source": "NYT > World News",
-        "objectivity_score": 60,
-        "sentiment": "Positive",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-05-02",
         "image_url": null,
         "keywords": [
-            "venezuelans u.s.",
-            "unleash prosperity",
-            "oil industry"
+            "u.s. fast-tracks",
+            "deals valued",
+            "mideast partners"
         ]
     },
     {
@@ -1211,7 +1285,7 @@
         ]
     },
     {
-        "title": "What to Know About the U.S.-Iran Peace Talks",
+        "title": "What to Know About the Mideast Standoff",
         "link": "https://www.nytimes.com/2026/04/26/world/middleeast/us-iran-peace-talks-pakistan.html",
         "summary": "Negotiations to end the war are at an impasse over Irans nuclear program and the Strait of Hormuz, which remains mostly shut.",
         "source": "NYT > World News",
@@ -1220,7 +1294,7 @@
         "date": "2026-05-02",
         "image_url": null,
         "keywords": [
-            "talks negotiations",
+            "mideast standoff negotiations",
             "nuclear program"
         ]
     },
@@ -1311,34 +1385,6 @@
             "saudi arabia",
             "big-spending era means",
             "high-profile golf venture"
-        ]
-    },
-    {
-        "title": "Trump \u2018Not Satisfied\u2019 With Iran\u2019s Proposal on Ending War",
-        "link": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
-        "summary": "The details of the latest plan were unclear, and President Trump did not specify his objections.",
-        "source": "NYT > World News",
-        "objectivity_score": 95,
-        "sentiment": "Positive",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "trump"
-        ]
-    },
-    {
-        "title": "In Packed Cafes, Iranians Yearn to Escape War\u2019s Wreckage",
-        "link": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-war-cafes.html",
-        "summary": "Cafes and coffee shops give Iranians affordable places to talk about their hopes, fears and the cost of living as well as to seek company in uncertain times.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "packed cafes",
-            "iranians yearn",
-            "escape war \u2019 s"
         ]
     },
     {
@@ -1715,6 +1761,21 @@
         ]
     },
     {
+        "title": "Liberals claim victory in Nepean byelection ahead of state poll",
+        "link": "https://www.theguardian.com/australia-news/2026/may/02/liberals-claim-victory-in-nepean-byelection-ahead-of-state-poll",
+        "summary": "Anthony Marsh appears to be in commanding position in significant boost to opposition leader Jess WilsonThe Liberals have claimed victory in a key Victorian byelection seen as a preview of what to exp...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 91,
+        "sentiment": "Positive",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "state poll",
+            "anthony marsh",
+            "opposition leader"
+        ]
+    },
+    {
         "title": "Record-breaking May warmth soon to blow away as cold front moves towards eastern Australia",
         "link": "https://www.theguardian.com/australia-news/2026/may/02/record-breaking-may-warmth-soon-to-blow-away-as-cold-front-moves-east",
         "summary": "Daytime temperatures on Friday were 10 to 14C above average in four statesGet our breaking news email, free app or daily news podcastRecord-breaking warm temperatures for the start of May in many part...",
@@ -1775,33 +1836,33 @@
         ]
     },
     {
-        "title": "\u2018Profoundly distressing\u2019: record number of deaths in custody and police operations in NSW",
-        "link": "https://www.theguardian.com/australia-news/2026/may/01/nsw-deaths-custody-record-number-ntwnfb",
-        "summary": "There were 66 deaths in custody and police operations in 2025  18 more than the previous yearWarning: This article contains references to Indigenous Australians who have diedThere were a record number...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "distressing \u2019",
-            "record number",
-            "police operations"
-        ]
-    },
-    {
-        "title": "Germany says it expected Trump\u2019s withdrawal of US troops as row over Iran comments grows \u2013 live",
+        "title": "Top Republicans express concern over withdrawal of US troops from Germany \u2013 as it happened",
         "link": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
-        "summary": "German defence minister responds to US presidents announcement that 5,000 US troops will leave bases in GermanyWe love our Americans: the German town rocked by Trumps plan to withdraw US troopsThe UK ...",
+        "summary": "Senator Roger Wicker and representative Mike Rogers say move risks undermining deterrence and sending wrong signal to PutinFull report: Nato seeks to understand the details after US decision to withdr...",
         "source": "World news | The Guardian",
-        "objectivity_score": 31,
+        "objectivity_score": 48,
         "sentiment": "Neutral",
         "date": "2026-05-02",
         "image_url": null,
         "keywords": [
-            "\u2019 s withdrawal",
+            "express concern",
             "us troops",
-            "german defence minister responds"
+            "roger wicker"
+        ]
+    },
+    {
+        "title": "Nato seeks to \u2018understand the details\u2019 of US decision to withdraw troops from Germany",
+        "link": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
+        "summary": "German government calls redeployment of 5,000 troops anticipated and reminder of Europes need to invest in its own defenceWe love our Americans: the German town rocked by Trumps plan to withdraw US tr...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Positive",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "details \u2019",
+            "us decision",
+            "german government calls redeployment"
         ]
     },
     {
@@ -1820,21 +1881,6 @@
         ]
     },
     {
-        "title": "Asylum seeker sent back to France in \u2018one in, one out\u2019 scheme to be returned to Syria",
-        "link": "https://www.theguardian.com/uk-news/2026/may/02/asylum-seeker-sent-france-one-in-one-out-returned-syria",
-        "summary": "Kurdish Syrian man, 26, said he fled forced conscription by YPG militia because he didnt want to kill peopleAn asylum seeker sent back to France under the controversial one in, one out scheme faces be...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 34,
-        "sentiment": "Positive",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "\u2019 scheme",
-            "syria kurdish syrian",
-            "peoplean asylum seeker"
-        ]
-    },
-    {
         "title": "Letters and photos from Beatles\u2019 early days to go on show in Hamburg",
         "link": "https://www.theguardian.com/music/2026/may/02/beatles-early-days-letters-photos-hamburg-exhibition",
         "summary": "Exclusive: The collection, including donations from Paul McCartneys brother Mike, shows bands development in early 60sA rare set of letters and photos from the early days of the Beatles, in which they...",
@@ -1850,18 +1896,18 @@
         ]
     },
     {
-        "title": "\u2018Such huge consequences\u2019: pressure mounts on France to act on enslavement reparatory justice",
-        "link": "https://www.theguardian.com/news/2026/may/02/pressure-mounts-france-enslavement-reparatory-justice-framework",
-        "summary": "As a Mast of Fraternity and Memory is unveiled in Nantes, calls are growing for Macron to announce framework for discussionsIn the French port city of Nantes, once Frances largest departure point for ...",
+        "title": "Asylum seeker sent back to France in \u2018one in, one out\u2019 scheme to be returned to Syria",
+        "link": "https://www.theguardian.com/uk-news/2026/may/02/asylum-seeker-sent-france-one-in-one-out-returned-syria",
+        "summary": "Kurdish Syrian man, 26, said he fled forced conscription by YPG militia because he didnt want to kill peopleAn asylum seeker sent back to France under the controversial one in, one out scheme faces be...",
         "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Neutral",
+        "objectivity_score": 34,
+        "sentiment": "Positive",
         "date": "2026-05-02",
         "image_url": null,
         "keywords": [
-            "such huge consequences \u2019",
-            "pressure mounts",
-            "enslavement reparatory justice"
+            "\u2019 scheme",
+            "syria kurdish syrian",
+            "peoplean asylum seeker"
         ]
     },
     {
@@ -2015,6 +2061,66 @@
         ]
     },
     {
+        "title": "Brixton drive-by shooting \u2018act of indiscriminate violence\u2019, say Met police",
+        "link": "https://www.theguardian.com/uk-news/2026/may/02/brixton-drive-by-shooting-violence-met-police",
+        "summary": "Four people are in hospital, with one 25-year-old man facing life-threatening injuriesA drive-by shooting in Brixton which left four people in hospital on Saturday has been called an act of indiscrimi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 15,
+        "sentiment": "Neutral",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "drive-by shooting \u2018 act",
+            "indiscriminate violence \u2019",
+            "25-year-old man"
+        ]
+    },
+    {
+        "title": "Dig deep! Reform frontbench promotes JCBs after \u00a3200,000 donation from firm",
+        "link": "https://www.theguardian.com/politics/2026/may/02/reform-uk-funding-promoting-jcb-machine-farage-jenrick-anderson",
+        "summary": "Nigel Farage, Lee Anderson and Robert Jenrick, among others, have sung the praises of the JCB PotHole Pro Reform UKs leading figures have repeatedly promoted a new pothole-fixing machine by the constr...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 31,
+        "sentiment": "Neutral",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "frontbench promotes",
+            "\u00a3200,000 donation",
+            "nigel farage"
+        ]
+    },
+    {
+        "title": "Organisers challenge Starmer\u2019s threat to ban some pro-Palestine marches",
+        "link": "https://www.theguardian.com/uk-news/2026/may/02/organisers-challenge-starmer-threat-to-ban-some-pro-palestine-marches",
+        "summary": "PM says there are instances in which he would support bans but organisers say this would strike at root of free speechOrganisers of pro-Palestine marches have said Keir Starmers threat to ban some dem...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 60,
+        "sentiment": "Positive",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s threat",
+            "pro-palestine marches",
+            "free speechorganisers"
+        ]
+    },
+    {
+        "title": "Badenoch apologises after Bloody Sunday footage used in post defending UK veterans",
+        "link": "https://www.theguardian.com/politics/2026/may/02/kemi-badenoch-social-media-posts-bloody-sunday-footage",
+        "summary": "Tory leader says she did not sign off on video attacking Labours Troubles legacy proposals Kemi Badenoch has apologised after footage from Bloody Sunday was used in social media posts criticising a bi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
+        "sentiment": "Negative",
+        "date": "2026-05-02",
+        "image_url": null,
+        "keywords": [
+            "labours troubles",
+            "legacy proposals",
+            "kemi badenoch"
+        ]
+    },
+    {
         "title": "From Mumford & Sons to \u2018free speech\u2019 YouTuber: Winston Marshall\u2019s dramatic career change",
         "link": "https://www.theguardian.com/media/2026/may/02/winston-marshall-gb-news-owner-son-career-change-free-speech-youtube",
         "summary": "GB News owners son, who wants Channel to be mined to stop migrants, is latest to have a go at transatlantic rightwing commentaryOn a Los Angeles stage in 2011 Winston Marshall, then the banjo player f...",
@@ -2030,63 +2136,33 @@
         ]
     },
     {
-        "title": "Official lineup confirmed for second series of The Celebrity Traitors",
-        "link": "https://www.theguardian.com/tv-and-radio/2026/may/02/celebrity-traitors-contestants-cast-confirmed-second-series",
-        "summary": "Actors Richard E Grant, Michael Sheen and Bella Ramsey among star-studded cast hoping for victory as BBCs hit spin-off series returns to screensConsidering the Traitors is a game of murderous treacher...",
+        "title": "Mom faces involuntary manslaughter after son\u2019s e-motorcycle crash kills man",
+        "link": "https://www.theguardian.com/us-news/2026/may/02/california-e-motorcycle-crash-involuntary-manslaughter",
+        "summary": "Orange county resident Tommi Jo Mejers son was illegally riding e-motorcycle when he ran into 81-year-oldSign up for the Breaking News US newsletter email A southern California woman is facing an addi...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-05-02",
         "image_url": null,
         "keywords": [
-            "celebrity traitors actors richard e grant",
-            "michael sheen",
-            "bella ramsey"
+            "mom faces involuntary manslaughter",
+            "son \u2019 s e-motorcycle crash kills man",
+            "county resident"
         ]
     },
     {
-        "title": "Only 3% of suicides linked to domestic abuse result in prosecution, data shows",
-        "link": "https://www.theguardian.com/uk-news/2026/may/02/domestic-abuse-deaths-suicide-justice-england-wales",
-        "summary": "Figures for England and Wales prompt calls for more rigorous police investigations of casesOnly 3% of suicides related to domestic abuse in England and Wales in the past five years have resulted in an...",
+        "title": "Spirit Airlines ceases operations and US transportation secretary announces measures to help passengers",
+        "link": "https://www.theguardian.com/business/2026/may/01/spirit-airlines-stops-operation-after-failed-deal",
+        "summary": "Several US airlines have agreed to cap ticket prices for Spirit customers who need to rebook canceled flightsSign up for the Breaking News US email to get newsletter alerts in your inboxThe US secreta...",
         "source": "World news | The Guardian",
-        "objectivity_score": 48,
+        "objectivity_score": 25,
         "sentiment": "Neutral",
         "date": "2026-05-02",
         "image_url": null,
         "keywords": [
-            "domestic abuse result",
-            "data shows",
-            "rigorous police investigations"
-        ]
-    },
-    {
-        "title": "Some pro-Palestinian protests could be banned amid attacks on British Jews",
-        "link": "https://www.theguardian.com/politics/2026/may/02/keir-starmer-calls-for-ban-on-some-pro-palestian-protests-british-jews",
-        "summary": "PM worried about cumulative effect of marches, as Met chief says Jewish communities facing biggest threatSome pro-Palestinian demonstrations could be stopped, the prime minister has warned, as the UKs...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 16,
-        "sentiment": "Positive",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "pro-palestinian protests",
-            "jews pm",
-            "cumulative effect"
-        ]
-    },
-    {
-        "title": "New free financial advice plan aims to help Britons build savings",
-        "link": "https://www.theguardian.com/money/2026/may/02/new-free-financial-advice-plan-aims-to-help-britons-build-savings",
-        "summary": "Targeted support means certain banks and financial institutions can offer free extra help with investments and pensionsMany Britons are daunted by the world of investing, but new City rules mean certa...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "new free financial advice plan aims",
-            "certain banks",
-            "financial institutions"
+            "ceases operations",
+            "us transportation secretary announces measures",
+            "us airlines"
         ]
     },
     {
@@ -2107,9 +2183,9 @@
     {
         "title": "Trump says US navy like \u2018pirates\u2019 while seizing a ship in Iranian blockade",
         "link": "https://www.theguardian.com/world/2026/may/02/trump-us-navy-pirates-iran-blockade",
-        "summary": "US president says we took over the cargo, took over the oil. Its a very profitable businessMiddle East crisis  live updatesDonald Trump has said the US navy acted like pirates as he described an opera...",
+        "summary": "US president says we took over the cargo, took over the oil. Its a very profitable businessDonald Trump has said the US navy acted like pirates as he described an operation seizing a ship amid the tit...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
+        "objectivity_score": 27,
         "sentiment": "Positive",
         "date": "2026-05-02",
         "image_url": null,
@@ -2132,36 +2208,6 @@
             "steve hilton",
             "news host",
             "gavin newsom"
-        ]
-    },
-    {
-        "title": "\u2018Deplorable\u2019: ICE hires firm accused of \u2018torture\u2019 to track down undocumented children",
-        "link": "https://www.theguardian.com/us-news/2026/may/02/ice-contracter-torture-allegations-undocumented-children",
-        "summary": "Exclusive: Contractor denies allegations including enforced disappearance and will help locate unaccompanied minorsUS Immigration and Customs Enforcement (ICE) has awarded a contract to a private secu...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Negative",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "deplorable \u2019",
-            "hires firm",
-            "\u2018 torture \u2019"
-        ]
-    },
-    {
-        "title": "The White House power play post-dinner shooting: do what we say or else",
-        "link": "https://www.theguardian.com/us-news/2026/may/02/trump-officials-strategy",
-        "summary": "After correspondents dinner shooting, administration has rushed to capitalize in pursuit of its political goalsLess than 72 hours after a man was arrested for trying to assassinate Donald Trump at the...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-05-02",
-        "image_url": null,
-        "keywords": [
-            "white house power play post-dinner shooting",
-            "correspondents dinner shooting",
-            "political goalsless"
         ]
     }
 ]
