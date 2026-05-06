@@ -737,18 +737,31 @@
         ]
     },
     {
-        "title": "Hormuz ships plan paused 50 hours after Trump announced it - what happened?",
-        "link": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president pauses the military operation to get ships through the Strait of Hormuz two days after he announced it.",
+        "title": "Trump's hopes for an Iran peace deal come with caveats",
+        "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+        "summary": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
         "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "fresh momentum"
+        ]
+    },
+    {
+        "title": "Two Britons self-isolating in UK after being on hantavirus cruise ship",
+        "link": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss",
+        "summary": "They do not have symptoms but contacted health officials after being on the MV Hondius cruise ship struck by the outbreak.",
+        "source": "BBC News",
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "ships plan",
-            "us president pauses",
-            "military operation"
+            "hantavirus cruise ship",
+            "health officials",
+            "mv hondius"
         ]
     },
     {
@@ -762,34 +775,6 @@
         "image_url": null,
         "keywords": [
             "what"
-        ]
-    },
-    {
-        "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-        "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "oil prices drop",
-            "stock markets rise",
-            "war reports"
-        ]
-    },
-    {
-        "title": "Airlines cut 13,000 flights in May as jet fuel prices soar",
-        "link": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Airlines have removed nearly two million seats from flights over the month, data from Cirium shows.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "jet fuel prices soar"
         ]
     },
     {
@@ -808,6 +793,49 @@
         ]
     },
     {
+        "title": "Up to 150 former WHSmith high street stores to close",
+        "link": "https://www.bbc.com/news/articles/clypzvqzqd7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The stores were purchased by Modella Capital last year, and then rebranded under the name TGJones.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "high street stores",
+            "modella capital"
+        ]
+    },
+    {
+        "title": "People urged not to cancel flights over fuel shortage fears",
+        "link": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Airlines have cut 13,000 flights globally in May as jet fuel prices soar due to the conflict in the Middle East.",
+        "source": "BBC News",
+        "objectivity_score": 12,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "fuel shortage fears",
+            "jet fuel prices soar"
+        ]
+    },
+    {
+        "title": "Political parties make final pitches ahead of key elections",
+        "link": "https://www.bbc.com/news/articles/cvgzwdee72eo?at_medium=RSS&at_campaign=rss",
+        "summary": "A final push for votes is under way on the last day of campaigning ahead of elections across England, Scotland and Wales.",
+        "source": "BBC News",
+        "objectivity_score": 63,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "political parties",
+            "final pitches",
+            "key elections"
+        ]
+    },
+    {
         "title": "Strictly Come Dancing: Five pros to leave the show as line-up confirmed",
         "link": "https://www.bbc.com/news/articles/c20214nnggdo?at_medium=RSS&at_campaign=rss",
         "summary": "Five members of the show's professional line-up, including the long-serving Karen Hauer, are leaving.",
@@ -823,18 +851,149 @@
         ]
     },
     {
-        "title": "Two people arrested after BBC asylum investigation",
-        "link": "https://www.bbc.com/news/articles/cg7p09p2evxo?at_medium=RSS&at_campaign=rss",
-        "summary": "A BBC report revealed some immigration advisers are helping asylum seekers pretend to be gay to stay in the country.",
+        "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
+        "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+        "summary": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
         "source": "BBC News",
-        "objectivity_score": 58,
+        "objectivity_score": 30,
         "sentiment": "Positive",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "asylum investigation",
-            "immigration advisers",
-            "asylum seekers pretend"
+            "ted turner",
+            "media mogul",
+            "tv news"
+        ]
+    },
+    {
+        "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+        "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "oil prices drop",
+            "stock markets rise",
+            "war reports"
+        ]
+    },
+    {
+        "title": "Removing 30% of my penis saved my life \u2013 this is why I let the surgery be filmed",
+        "link": "https://www.bbc.com/news/articles/c302lj239jmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Alastair Munro's surgery features on the series Surgeons: At the Edge of Life on BBC Two on Wednesday.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "life \u2013",
+            "alastair munro",
+            "'s surgery"
+        ]
+    },
+    {
+        "title": "Watch: Passengers told virus-hit ship 'not infectious' after first death",
+        "link": "https://www.bbc.com/news/videos/cx21gp04gglo?at_medium=RSS&at_campaign=rss",
+        "summary": "YouTuber Ruhi enet was on board the ship, and filmed the announcement made on 12 April.",
+        "source": "BBC News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "virus-hit ship 'not infectious",
+            "youtuber ruhi"
+        ]
+    },
+    {
+        "title": "Injury row, yacht trip & petition - what's going on with Mbappe?",
+        "link": "https://www.bbc.com/sport/football/articles/cdeplyje9zzo?at_medium=RSS&at_campaign=rss",
+        "summary": "It's been a difficult second season for Kylian Mbappe at Real Madrid. What's gone wrong?",
+        "source": "BBC News",
+        "objectivity_score": 55,
+        "sentiment": "Negative",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "yacht trip",
+            "kylian mbappe",
+            "real madrid"
+        ]
+    },
+    {
+        "title": "Trump pauses Hormuz ships plan 50 hours after he announced it - what happened?",
+        "link": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president pauses the military operation to get ships through the Strait of Hormuz two days after he announced it.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "ships plan",
+            "us president pauses",
+            "military operation"
+        ]
+    },
+    {
+        "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea",
+        "link": "https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss",
+        "summary": "Kim Ju Ae's evolving fashion is one of the signs that she is being groomed as North Korea's next leader.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "kim ju ae",
+            "'s outfits",
+            "korea kim ju ae"
+        ]
+    },
+    {
+        "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
+        "link": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
+        "summary": "After Ukraine's President Zelensky said territory had been captured using just robots and drones, what is the future of unmanned warfare?",
+        "source": "BBC News",
+        "objectivity_score": 21,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "near future",
+            "'s president"
+        ]
+    },
+    {
+        "title": "Spanish superstar Rosal\u00eda reaches for heaven as her tour hits London",
+        "link": "https://www.bbc.com/news/articles/c1e2zy2qy6jo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Spanish star delights fans as she brings her highly anticipated Lux tour to the UK.",
+        "source": "BBC News",
+        "objectivity_score": 17,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "spanish superstar",
+            "tour hits",
+            "spanish star delights fans"
+        ]
+    },
+    {
+        "title": "Dual-national baby refused entry to UK after passport rule change",
+        "link": "https://www.bbc.com/news/articles/cp3py9gng4vo?at_medium=RSS&at_campaign=rss",
+        "summary": "The eleven-month-old was born in Scotland but has an Austrian passport.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "passport rule"
         ]
     },
     {
@@ -868,135 +1027,18 @@
         ]
     },
     {
-        "title": "Polanski says he was wrong to claim he was a Red Cross spokesman",
-        "link": "https://www.bbc.com/news/articles/cq5pgv35y7eo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Green Party leader tells the BBC he hosted fundraisers for the charity but had not used the right word when describing his role.",
+        "title": "Two people arrested after BBC asylum investigation",
+        "link": "https://www.bbc.com/news/articles/cg7p09p2evxo?at_medium=RSS&at_campaign=rss",
+        "summary": "A BBC report revealed some immigration advisers are helping asylum seekers pretend to be gay to stay in the country.",
         "source": "BBC News",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "red cross spokesman",
-            "green party leader",
-            "right word"
-        ]
-    },
-    {
-        "title": "Campaigning sprint finish ahead of elections around Britain tomorrow",
-        "link": "https://www.bbc.com/news/articles/c759z9w7z3yo?at_medium=RSS&at_campaign=rss",
-        "summary": "A mesmerising mix of results are expected after candidates make their final pitches, our political editor writes.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "sprint finish",
-            "final pitches",
-            "political editor"
-        ]
-    },
-    {
-        "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea",
-        "link": "https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Kim Ju Ae's evolving fashion is one of the signs that she is being groomed as North Korea's next leader.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "kim ju ae",
-            "'s outfits",
-            "korea kim ju ae"
-        ]
-    },
-    {
-        "title": "Cruise passengers tell of life on board stranded ship after hantavirus outbreak",
-        "link": "https://www.bbc.com/news/articles/clype7ededzo?at_medium=RSS&at_campaign=rss",
-        "summary": "While passengers onboard the MV Hondius say the situation is calm, they face days at sea as officials warn the disease may have spread.",
-        "source": "BBC News",
-        "objectivity_score": 75,
+        "objectivity_score": 58,
         "sentiment": "Positive",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "hantavirus outbreak",
-            "passengers onboard",
-            "mv hondius"
-        ]
-    },
-    {
-        "title": "How Ipswich Town's promotion to Premier League could help club and county",
-        "link": "https://www.bbc.com/news/articles/cy82pyeyddzo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Blues' promotion to the Premier League could boost the team's chances and Suffolk's prosperity.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "town 's promotion",
-            "premier league",
-            "premier league"
-        ]
-    },
-    {
-        "title": "Removing 30% of my penis saved my life \u2013 this is why I let the surgery be filmed",
-        "link": "https://www.bbc.com/news/articles/c302lj239jmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Alastair Munro's surgery features on the series Surgeons: At the Edge of Life on BBC Two on Wednesday.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "life \u2013",
-            "alastair munro",
-            "'s surgery"
-        ]
-    },
-    {
-        "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
-        "link": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
-        "summary": "After Ukraine's President Zelensky said territory had been captured using just robots and drones, what is the future of unmanned warfare?",
-        "source": "BBC News",
-        "objectivity_score": 21,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "near future",
-            "'s president"
-        ]
-    },
-    {
-        "title": "Spanish superstar Rosal\u00eda reaches for heaven as her tour hits London",
-        "link": "https://www.bbc.com/news/articles/c1e2zy2qy6jo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Spanish star delights fans as she brings her highly anticipated Lux tour to the UK.",
-        "source": "BBC News",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "spanish superstar",
-            "tour hits",
-            "spanish star delights fans"
-        ]
-    },
-    {
-        "title": "Four-acre traveller site 'illegally built at weekend'",
-        "link": "https://www.bbc.com/news/articles/c4g734lk1pdo?at_medium=RSS&at_campaign=rss",
-        "summary": "Residents describe how a field in their village was rapidly concreted over within four days.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "traveller site"
+            "asylum investigation",
+            "immigration advisers",
+            "asylum seekers pretend"
         ]
     },
     {
@@ -1013,48 +1055,31 @@
         ]
     },
     {
-        "title": "Former council leader jailed for sexually assaulting young men",
-        "link": "https://www.bbc.com/news/articles/c5yrwd2n3weo?at_medium=RSS&at_campaign=rss",
-        "summary": "Jordan Linden stood down as leader of North Lanarkshire Council in 2022 after the allegations emerged.",
+        "title": "Andrew Tate's civil rape trial will be heard 'as soon as possible', judge says",
+        "link": "https://www.bbc.com/news/articles/cvgzel4e1zdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The civil case was adjourned on Wednesday after police reopened a criminal investigation into Tate.",
         "source": "BBC News",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
+        "objectivity_score": 77,
+        "sentiment": "Negative",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "council leader",
-            "young men",
-            "jordan linden"
+            "andrew tate",
+            "civil rape trial",
+            "civil case"
         ]
     },
     {
-        "title": "Man accused of Starmer arson attacks did not know he was PM, court hears",
-        "link": "https://www.bbc.com/news/articles/cj6p7ekwwn7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Three men are accused of targeting north London properties linked to Prime Minister Sir Keir Starmer.",
+        "title": "Bonnie Tyler recovering after being taken to hospital for surgery",
+        "link": "https://www.bbc.com/news/articles/clyprk8prmzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Total Eclipse of the Heart singer is being treated in Faro, Portugal, where she has a home.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 75,
         "sentiment": "Neutral",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "arson attacks",
-            "court hears",
-            "sir keir starmer"
-        ]
-    },
-    {
-        "title": "Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary",
-        "link": "https://www.bbc.com/news/articles/c1e2zev6754o?at_medium=RSS&at_campaign=rss",
-        "summary": "The baby hippo, which has been named Bumpy, was found clinging to its lifeless mother at a lake.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "baby hippo",
-            "baby hippo",
-            "lifeless mother"
+            "bonnie tyler"
         ]
     },
     {
@@ -1072,29 +1097,73 @@
         ]
     },
     {
-        "title": "Is the US-Iran War Restarting?",
-        "link": "https://www.bbc.co.uk/sounds/play/p0njf7kr?at_medium=RSS&at_campaign=rss",
-        "summary": "Is the US-Iran ceasefire under threat after repeat attacks in Strait of Hormuz?",
+        "title": "Electioncast: It\u2019s Time To Vote!",
+        "link": "https://www.bbc.co.uk/sounds/play/p0njf9sj?at_medium=RSS&at_campaign=rss",
+        "summary": "Adam, Laura, Chris, James and Felicity bring you one last update before the polls open.",
+        "source": "BBC News",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s time"
+        ]
+    },
+    {
+        "title": "Is Donald Trump close to finishing his war with Iran?",
+        "link": "https://www.bbc.co.uk/sounds/play/p0njpzv3?at_medium=RSS&at_campaign=rss",
+        "summary": "Or has the US president lost control?",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "repeat attacks"
+            "donald trump",
+            "us president"
         ]
     },
     {
-        "title": "Who could lead the Democrats into 2028?",
-        "link": "https://www.bbc.co.uk/sounds/play/p0nhlhsg?at_medium=RSS&at_campaign=rss",
-        "summary": "The Americast team answer your questions live on stage!",
+        "title": "Injury row, yacht trip & petition - what's going on with Mbappe?",
+        "link": "https://www.bbc.com/sport/football/articles/cdeplyje9zzo?at_medium=RSS&at_campaign=rss",
+        "summary": "It's been a difficult second season for Kylian Mbappe at Real Madrid. What's gone wrong?",
         "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 55,
+        "sentiment": "Negative",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "yacht trip",
+            "kylian mbappe",
+            "real madrid"
+        ]
+    },
+    {
+        "title": "Celtic could win double - but is change inevitable?",
+        "link": "https://www.bbc.com/sport/football/articles/c24213eqv87o?at_medium=RSS&at_campaign=rss",
+        "summary": "Celtic could yet have another successful domestic season despite a rancorous and turbulent campaign. But is lots of change at the club inevitable even with success?",
+        "source": "BBC News",
+        "objectivity_score": 55,
         "sentiment": "Positive",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "news"
+            "successful domestic season",
+            "turbulent campaign"
+        ]
+    },
+    {
+        "title": "Neymar apologises for slapping teenager Robinho Jr",
+        "link": "https://www.bbc.com/sport/football/articles/c707ekx8l3eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Neymar apologises to his Santos team-mate Robinho Jr for slapping the teenager during a training session on Sunday, saying he \"crossed the line\".",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "robinho jr neymar",
+            "robinho jr"
         ]
     },
     {
@@ -1126,76 +1195,18 @@
         ]
     },
     {
-        "title": "Smaller balls for women's rugby 'worst decision ever'",
-        "link": "https://www.bbc.com/sport/rugby-union/articles/ckgpn3pdzr7o?at_medium=RSS&at_campaign=rss",
-        "summary": "England fly-half Zoe Harrison says the introduction of smaller balls for this autumn's WXV Global Series is \"the worst decision someone has ever made\".",
-        "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Negative",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "women 's rugby 'worst decision",
-            "zoe harrison",
-            "autumn 's"
-        ]
-    },
-    {
-        "title": "DeChambeau to focus on YouTube if LIV Golf fails",
-        "link": "https://www.bbc.com/sport/golf/articles/cg5pyj9pp0go?at_medium=RSS&at_campaign=rss",
-        "summary": "Bryson DeChambeau says he will focus on growing his YouTube channel and only \"play tournaments that want me\" if LIV Golf does not survive.",
-        "source": "BBC News",
-        "objectivity_score": 65,
-        "sentiment": "Negative",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "bryson dechambeau"
-        ]
-    },
-    {
-        "title": "Where do Bayern's prolific trio rank in greatest front threes ever?",
-        "link": "https://www.bbc.com/sport/football/articles/cjep34l5qd7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Bayern Munich's attack of Harry Kane, Luis Diaz and Michael Olise has hit 100 goals this season. With the second leg of the Champions League semi-final with PSG coming up, BBC Sport compares the two f...",
-        "source": "BBC News",
-        "objectivity_score": 63,
+        "title": "Iran War Live Updates: Tehran Considers U.S. Proposal After Trump Threats",
+        "link": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
+        "summary": "An Iranian official said Tehran was looking at an American plan to end the war, after President Trump threatened to restart strikes. A U.S. warplane disabled an Iranian-flagged tanker, and Israel stru...",
+        "source": "NYT > World News",
+        "objectivity_score": 30,
         "sentiment": "Neutral",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "'s prolific trio rank",
-            "front threes",
-            "bayern munich"
-        ]
-    },
-    {
-        "title": "How the FA helped US Soccer build its new home",
-        "link": "https://www.bbc.com/sport/football/articles/c052mj2y5q1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Britain's 'special relationship' with the United States may be under renewed scrutiny, but when it comes to football, it appears to be in fine health, writes Dan Roan.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "new home",
-            "'s 'special relationship",
-            "fine health"
-        ]
-    },
-    {
-        "title": "Iran War Live Updates: Tehran Appears to Cast Doubt on a Deal as Trump Makes New Threats",
-        "link": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
             "live updates",
-            "tehran appears",
-            "cast doubt"
+            "tehran considers u.s. proposal",
+            "trump threats"
         ]
     },
     {
@@ -1229,6 +1240,20 @@
         ]
     },
     {
+        "title": "Iran\u2019s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites",
+        "link": "https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html",
+        "summary": "Tehran says it can endure the pain, but its oil may soon have nowhere to go.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s oil",
+            "u.s. blockade bites tehran"
+        ]
+    },
+    {
         "title": "Reclaiming the Name of the Black Hero Who Inspired \u2018Uncle Tom\u2019s Cabin\u2019",
         "link": "https://www.nytimes.com/2026/05/06/world/canada/uncle-toms-cabin-ontario-josiah-henson.html",
         "summary": "After 42 years of slavery, Josiah Henson escaped to Canada, where he wrote a memoir, founded a school and led others to freedom. But his home long bore the name Uncle Tom, to the offense of many.",
@@ -1241,6 +1266,35 @@
             "black hero who inspired",
             "uncle tom",
             "josiah henson"
+        ]
+    },
+    {
+        "title": "Leo XIV Is the First Pope From the U.S. He\u2019s Making That an Asset.",
+        "link": "https://www.nytimes.com/2026/05/06/world/europe/leo-first-american-pope.html",
+        "summary": "A year into his papacy, Leo has shown a readiness to challenge Washington, defying any concerns about the election of an American pontiff.",
+        "source": "NYT > World News",
+        "objectivity_score": 16,
+        "sentiment": "Positive",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "leo xiv",
+            "american pontiff"
+        ]
+    },
+    {
+        "title": "A Hotel in Venezuela\u2019s Capital Has Become the U.S. Embassy\u2019s De Facto Headquarters",
+        "link": "https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html",
+        "summary": "The J.W. Marriott in Venezuelas capital is suddenly awash in U.S. diplomats, spies and fortune seekers, showcasing changes in the country.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "embassy \u2019 s",
+            "de facto",
+            "fortune seekers"
         ]
     },
     {
@@ -1347,52 +1401,94 @@
         ]
     },
     {
-        "title": "What a Bike Ride in Cape Town Taught Me About Apartheid",
-        "link": "https://www.nytimes.com/2026/05/05/world/africa/cape-town-apartheid-bike-ride.html",
-        "summary": "A New York Times reporter joined a group of cyclists on a route meant to break down Cape Towns lingering racial and economic barriers.",
+        "title": "Iran Says It Is Reviewing a U.S. Proposal to End the War",
+        "link": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html",
+        "summary": "Nothing was disclosed about the peace plan, and there were conflicting signals from the Iranians about how seriously they were taking it.",
+        "source": "NYT > World News",
+        "objectivity_score": 66,
+        "sentiment": "Negative",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "iran says",
+            "u.s. proposal",
+            "peace plan"
+        ]
+    },
+    {
+        "title": "New Study Shows Risks of Amazon Deforestation. And Rewards of Protection.",
+        "link": "https://www.nytimes.com/2026/05/06/climate/amazon-rain-forest-deforestation-climate.html",
+        "summary": "Researchers examined the combined effects of tree loss and global warming in an effort to better understand how and when an ecosystem collapse could unfold.",
         "source": "NYT > World News",
         "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "bike ride",
-            "cape town",
-            "economic barriers"
-        ]
-    },
-    {
-        "title": "Taiwan Could Learn From Ukraine. Informally, Connections Are Growing.",
-        "link": "https://www.nytimes.com/2026/05/05/world/europe/ukraine-taiwan-drones.html",
-        "summary": "The governments have no official diplomatic or military ties. But a loose network led by company executives and volunteers is bridging some of that gulf.",
-        "source": "NYT > World News",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "military ties",
-            "loose network",
-            "company executives"
-        ]
-    },
-    {
-        "title": "The Growing Rift Between the UAE and Saudi Arabia, Explained",
-        "link": "https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html",
-        "summary": "Officials say competition between the countries is healthy. But tensions are mounting over energy quotas, regional conflicts and their different visions for the Middle East.",
-        "source": "NYT > World News",
-        "objectivity_score": 36,
         "sentiment": "Positive",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "growing rift",
-            "saudi arabia",
-            "energy quotas"
+            "shows risks",
+            "amazon deforestation",
+            "tree loss"
         ]
     },
     {
-        "title": "Trump presses Iran to agree to a peace plan, as Tehran casts doubt on progress in talks.",
+        "title": "Macron Calls for U.S. and Iran to Open Strait of Hormuz While They Negotiate",
+        "link": "https://www.nytimes.com/2026/05/06/world/middleeast/france-macron-strait-of-hormuz-iran-us.html",
+        "summary": "Emmanuel Macron, the French president, hopes the Strait of Hormuz can reopen even before the U.S.-Iran war formally ends. His plan has many pitfalls.",
+        "source": "NYT > World News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "negotiate emmanuel macron",
+            "french president"
+        ]
+    },
+    {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil/heres-the-latest",
+        "summary": "",
+        "source": "NYT > World News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "here\u2019s"
+        ]
+    },
+    {
+        "title": "Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87",
+        "link": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
+        "summary": "As one of the most important figures in media history, he oversaw a vast cable empire of news, sports and entertainment channels.",
+        "source": "NYT > World News",
+        "objectivity_score": 83,
+        "sentiment": "Positive",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "ted turner",
+            "24-hour news",
+            "important figures"
+        ]
+    },
+    {
+        "title": "Why Is Gas So Much More Expensive in Some States Than Others?",
+        "link": "https://www.nytimes.com/2026/05/06/business/energy-environment/gasoline-prices-states-iran-war.html",
+        "summary": "Shipping, taxes, competition and environmental regulations all play a part in the cost of gasoline. That can lead to stark differences in pump prices.",
+        "source": "NYT > World News",
+        "objectivity_score": 60,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "environmental regulations",
+            "stark differences",
+            "pump prices"
+        ]
+    },
+    {
+        "title": "Trump\u2019s U-turn and hopes of a deal ease tensions in energy markets.",
         "link": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil/us-iran-hormuz-pause",
         "summary": "",
         "source": "NYT > World News",
@@ -1401,8 +1497,7 @@
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "peace plan",
-            "casts doubt"
+            "energy markets"
         ]
     },
     {
@@ -1447,93 +1542,6 @@
             "rubio insist iran",
             "white house",
             "rhetorical leaps"
-        ]
-    },
-    {
-        "title": "Russia Launches Deadly Attack in Ukraine Ahead of Cease-Fire",
-        "link": "https://www.nytimes.com/video/world/100000010884624/russia-attack-ukraine-cease-fire.html",
-        "summary": "Russian forces launched an attack on three Ukrainian cities on Tuesday, killing more than 20 people and injuring dozens of others. The attack came after Russia announced a cease-fire timed to Moscows ...",
-        "source": "NYT > World News",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "russia launches",
-            "ukraine ahead",
-            "russian forces"
-        ]
-    },
-    {
-        "title": "Hantavirus Outbreaks Are Rare, but They Aren\u2019t Going Away and There\u2019s No Cure",
-        "link": "https://www.nytimes.com/2026/05/05/health/hantavirus-outbreaks-disease-history.html",
-        "summary": "Since the family of rodent-borne infections were identified in the 1950s, they have turned up all over the world.",
-        "source": "NYT > World News",
-        "objectivity_score": 90,
-        "sentiment": "Positive",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "hantavirus outbreaks",
-            "going away",
-            "rodent-borne infections"
-        ]
-    },
-    {
-        "title": "Deadly Russian Strikes Rip Into Ukrainian Cities",
-        "link": "https://www.nytimes.com/2026/05/05/world/europe/russia-ukraine-zaporizhzhia-attacks.html",
-        "summary": "At least 12 people were killed in Zaporizhzhia, one of the highest tolls from a single attack so far this year. The cities of Dnipro and Kramatorsk were also attacked.",
-        "source": "NYT > World News",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "strikes rip",
-            "ukrainian cities"
-        ]
-    },
-    {
-        "title": "Louise Arbour Named as Canada\u2019s Governor General",
-        "link": "https://www.nytimes.com/2026/05/05/world/canada/canada-louis-arbour-governor-general.html",
-        "summary": "Prime Minister Mark Carneys appointment of Louise Arbour, a former Supreme Court justice, as governor general, sends a message beyond Canada.",
-        "source": "NYT > World News",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "louise arbour",
-            "\u2019 s governor",
-            "mark carneys"
-        ]
-    },
-    {
-        "title": "Trump Says U.S. Pausing Efforts to Guide Ships Through Strait Blocked by Iran",
-        "link": "https://www.nytimes.com/2026/05/05/world/middleeast/iran-us-ceasefire-attacks.html",
-        "summary": "President Trump said a U.S. blockade of the Strait of Hormuz would remain in full force. The shift came after the defense secretary said U.S. efforts to free trapped vessels would continue.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "trump says u.s. pausing efforts",
-            "guide ships",
-            "strait blocked"
-        ]
-    },
-    {
-        "title": "Iran announces a new system for traffic in the Strait of Hormuz.",
-        "link": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz/iran-announces-a-new-system-for-traffic-in-the-strait-of-hormuz",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "new system"
         ]
     },
     {
@@ -1762,6 +1770,36 @@
         ]
     },
     {
+        "title": "\u2018Your craft is obsolete\u2019: WiseTech staff in limbo as AI touted as better than humans",
+        "link": "https://www.theguardian.com/technology/2026/may/07/your-craft-is-obsolete-wisetech-staff-in-limbo-as-ai-touted-as-better-than-humans",
+        "summary": "The software company said in February it would cut 7,000 jobs but, as it touts new technology, workers are still waiting to hear which roles will goGet our breaking news email, free app or daily news ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "obsolete \u2019",
+            "software company",
+            "new technology"
+        ]
+    },
+    {
+        "title": "Coalition considers plan to slash net overseas immigration by nearly half its current rate, leaked documents reveal",
+        "link": "https://www.theguardian.com/australia-news/2026/may/06/coalition-considers-plan-to-slash-net-overseas-immigration-by-nearly-half-its-current-rate-leaked-documents-reveal",
+        "summary": "Exclusive: Taskforce to mull options to cut level to 150,000-200,000, higher than One Nations hard 130,000 cap and Howard-eras 100,000 targetGet our breaking news email, free app or daily news podcast...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "considers plan",
+            "net overseas immigration",
+            "current rate"
+        ]
+    },
+    {
         "title": "Two Australian states prepare to resettle children from Syrian detention camp with most bound for Melbourne",
         "link": "https://www.theguardian.com/australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
         "summary": "Four women and nine children expected to return to Australia on Thursday with all apart from a mother and her child expected to go to VictoriaGet our breaking news email, free app or daily news podcas...",
@@ -1807,39 +1845,24 @@
         ]
     },
     {
-        "title": "Charges flagged as women and children from IS-linked families set to fly from Syria to Australia",
-        "link": "https://www.theguardian.com/australia-news/2026/may/06/women-children-syria-families-australia-return-ntwnfb",
-        "summary": "Home affairs minister Tony Burke says government continues to refuse to help the group of 13Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news po...",
+        "title": "Pussy Riot protest at Venice Biennale forces Russian pavilion to briefly close",
+        "link": "https://www.theguardian.com/world/2026/may/06/pussy-riot-protest-at-venice-biennale-forces-russian-pavilion-to-briefly-close",
+        "summary": "Demonstrators, angered by Russias inclusion at arts festival, shouted Curated by Putin, dead bodies includedThe Russian pavilion at the Venice Biennale was forced temporarily to shut its doors on the ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
+        "objectivity_score": 19,
+        "sentiment": "Negative",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "home affairs minister",
-            "tony burke",
-            "news email"
-        ]
-    },
-    {
-        "title": "Horrified Wagga residents call for proper sanitation at homeless camp where baby was found dead",
-        "link": "https://www.theguardian.com/australia-news/2026/may/06/wagga-homeless-camp-baby-found-dead-sanitation-ntwnfb",
-        "summary": "Tent where twins were born up to a 15-minute walk away from nearest public toilets or running waterFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "horrified wagga",
-            "proper sanitation",
-            "homeless camp"
+            "pussy riot",
+            "venice biennale",
+            "russian pavilion"
         ]
     },
     {
         "title": "\u2018Putin only cares about parades\u2019: fury as Russia rains missiles on Ukraine during 24-hour truce",
         "link": "https://www.theguardian.com/world/2026/may/06/russia-ukraine-missiles-24-hour-ceasefire-military-parade",
-        "summary": "Dozens killed despite ceasefire announced by Zelenskyy, after Moscow asked for Saturday truce for its annual military paradeEurope live  latest updatesKyiv has criticised Russia for attacking several ...",
+        "summary": "Dozens killed despite ceasefire announced by Zelenskyy, after Moscow asked for Saturday truce for military paradeEurope live  latest updatesKyiv has criticised Russia for attacking several Ukrainian c...",
         "source": "World news | The Guardian",
         "objectivity_score": 36,
         "sentiment": "Neutral",
@@ -1849,6 +1872,36 @@
             "parades \u2019",
             "rains missiles",
             "24-hour truce"
+        ]
+    },
+    {
+        "title": "Norwegian government attacked over decision to reopen North Sea gasfields",
+        "link": "https://www.theguardian.com/business/2026/may/06/norwegian-government-rebuked-over-decision-to-reopen-north-sea-gas-fields",
+        "summary": "Approval for exploration in 70 new areas prompts fierce backlash from fossil fuel opponents  The Norwegian government has been heavily criticised for approving plans to reopen three North Sea gasfield...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "north sea gasfields",
+            "new areas prompts",
+            "fierce backlash"
+        ]
+    },
+    {
+        "title": "From Eurovision to the Venice Biennale, culture contests are being overshadowed by politics",
+        "link": "https://www.theguardian.com/world/2026/may/06/from-eurovision-to-the-venice-biennale-culture-contests-are-struggling-to-channel-globalised-politics",
+        "summary": "The Venice Biennale, Eurovision and Cannes are framed as artists representing their nations. But in a fractured world, national identity seems increasingly futile Dont get This Is Europe delivered to ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 24,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "venice biennale",
+            "culture contests",
+            "venice biennale"
         ]
     },
     {
@@ -1867,78 +1920,48 @@
         ]
     },
     {
-        "title": "EU trade deal could force UK to restrict use of weedkiller linked to cancer",
-        "link": "https://www.theguardian.com/environment/2026/may/06/eu-trade-deal-could-force-uk-restrict-glyphosate-weedkiller-linked-to-cancer",
-        "summary": "Glyphosate is currently sprayed on cereal and pulse crops to dessicate them and make them easier to harvestA new trade deal with the EU could lead to restrictions on the use of the controversial weedk...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Positive",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "pulse crops",
-            "new trade",
-            "controversial weedkiller glyphosate"
-        ]
-    },
-    {
-        "title": "Trump accuses pope of \u2018endangering a lot of Catholics\u2019 with Iran stance",
-        "link": "https://www.theguardian.com/world/2026/may/05/donald-trump-accuses-pope-leo-of-endangering-a-lot-of-catholics-with-iran-stance",
-        "summary": "US president directs fresh criticism at pontiff days before secretary of state Marco Rubios visit to VaticanMiddle East crisis  live updatesDonald Trump has issued another verbal attack against Pope L...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "accuses pope",
-            "stance us president directs",
-            "fresh criticism"
-        ]
-    },
-    {
-        "title": "Dark clouds, protests and resignations dampen start of 61st Venice Biennale",
-        "link": "https://www.theguardian.com/artanddesign/2026/may/05/venice-biennale-protests-resignations-russia-israel",
-        "summary": "Russian pavilion to stay closed as outcry over Israels inclusion also grows  but nesting seagull provides some light reliefThe 61st Venice Biennale vernissage began on Tuesday under grey clouds and ra...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "resignations dampen",
-            "venice biennale",
-            "russian pavilion"
-        ]
-    },
-    {
-        "title": "Middle East crisis live: US proposal to end war a \u2018wishlist, not a reality\u2019, warns Iranian official",
+        "title": "Middle East crisis live: Iran\u2019s top negotiator says US aiming to force Tehran\u2019s \u2018surrender\u2019",
         "link": "https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
-        "summary": "Foreign ministry spokesmans statement follows Trumps threats to escalate bombing if Iran doesnt agree deal and IRGC suggestions the strait of Hormuz could reopenThe UK work and pensions secretary, Pat...",
+        "summary": "Statement comes after Trumps threats to escalate bombing if Iran doesnt agree deal and IRGC suggestions the strait of Hormuz could reopenThe UK work and pensions secretary, Pat McFadden, has warned th...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
+        "objectivity_score": 34,
         "sentiment": "Neutral",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "us proposal",
-            "\u2018 wishlist",
-            "reality \u2019"
+            "top negotiator",
+            "\u2019 s \u2018 surrender \u2019",
+            "escalate bombing"
         ]
     },
     {
-        "title": "Oil and gas prices fall sharply, driven by hopes of strait of Hormuz reopening \u2013 business live",
-        "link": "https://www.theguardian.com/business/live/2026/may/06/oil-prices-retreat-global-stocks-hit-record-highs-trump-great-progress-iran-deal-live-updates",
-        "summary": "Irans Islamic Revolutionary Guard Corps navy has announced the strait of Hormuz could reopen following the end of threats from aggressorsJob vacancies in the UK bounced back in March but remained near...",
+        "title": "Trump tells Iran to accept deal or face new wave of US bombing",
+        "link": "https://www.theguardian.com/world/2026/may/06/donald-trump-iran-war-deal-us-bombing",
+        "summary": "President issues fresh ultimatum despite US claims of progress in stalled negotiations Middle East crisis  live updatesDonald Trump has issued a fresh ultimatum to Iran, telling it to accept a deal to...",
         "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "gas prices fall",
-            "\u2013 business",
-            "irans islamic"
+            "new wave",
+            "us bombing president issues",
+            "fresh ultimatum"
+        ]
+    },
+    {
+        "title": "Oil prices fall as Trump says strait of Hormuz \u2018open to all\u2019 if Iran accepts deal",
+        "link": "https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran",
+        "summary": "US president says war will end if Tehran agrees to deal, but that bombing starts again if it does notOil prices fell and stock markets rose as Donald Trump said the war with Iran would end and the str...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "oil prices fall",
+            "us president",
+            "notoil prices"
         ]
     },
     {
@@ -1957,33 +1980,18 @@
         ]
     },
     {
-        "title": "Oil prices fall below $100 a barrel as Trump hails \u2018great progress\u2019 on Iran deal",
-        "link": "https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran",
-        "summary": "Markets rally as US president announces short pause to operation escorting ships through strait of HormuzBusiness live  latest updatesOil prices have fallen below $100 and stock markets rose as Donald...",
+        "title": "Another day, another pivot as Trump flails in an Iran trap of his own making",
+        "link": "https://www.theguardian.com/world/2026/may/06/another-day-another-pivot-as-trump-flails-in-an-iran-trap-of-his-own-making",
+        "summary": "Latest proposal, derided by Tehran as a wishlist, could yet be a way out  but with 5,000 dead, it comes at an awful priceMiddle East crisis  live updatesAnother day, another hairpin turn in the world ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 59,
-        "sentiment": "Positive",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "oil prices fall",
-            "hails \u2018",
-            "great progress \u2019"
-        ]
-    },
-    {
-        "title": "Wednesday briefing: How Trump\u2019s attempt to reopen to strait of Hormuz brought war closer again",
-        "link": "https://www.theguardian.com/world/2026/may/06/wednesday-briefing-how-trumps-attempt-to-reopen-to-strait-of-hormuz-brought-war-closer-again",
-        "summary": "In todays newsletter: The brief US effort to steer trapped vessels through the waterway put the fragile ceasefire under strainGood morning. Uncertainty once again reigns in the Middle East. The uneasy...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 55,
         "sentiment": "Neutral",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "\u2019 s attempt",
-            "todays newsletter",
-            "brief us effort"
+            "awful pricemiddle",
+            "east crisis",
+            "updatesanother day"
         ]
     },
     {
@@ -2062,153 +2070,153 @@
         ]
     },
     {
-        "title": "Polanski says he is not ready to be PM, but might be in two years\u2019 time \u2013 UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/may/06/local-elections-labour-starmer-greens-polanski-red-cross-reform-tories-conservatives-lib-dems-latest-news-updates",
-        "summary": "Green leader also apologised for misrepresenting his work with the Red Cross, and defended party policy on drugsLabour has criticised Zack Polanski for saying he was concerned about how the suspect in...",
+        "title": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
+        "link": "https://www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa",
+        "summary": "Ships doctor, a Briton, among those evacuated from MV Hondius, which is now heading for Canary Islands Explainer: What is hantavirus?Three people with suspected hantavirus, including a British doctor ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 49,
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "years \u2019 time \u2013",
-            "green leader",
-            "red cross"
+            "hantavirus-hit ship",
+            "mv hondius",
+            "british doctor"
         ]
     },
     {
-        "title": "Dozens of former WH Smith stores face closure, putting thousands of jobs at risk",
-        "link": "https://www.theguardian.com/business/2026/may/06/dozens-of-former-wh-smith-stores-face-closure-putting-thousands-of-jobs-at-risk",
-        "summary": "New owner Modella Capital, which rebranded shops to TG Jones, blames weak consumer spending Dozens of former WH Smith stores are likely to close, putting thousands of jobs at risk under a radical rest...",
+        "title": "Sudanese asylum seekers challenge Home Office rule changes for refugees",
+        "link": "https://www.theguardian.com/uk-news/2026/may/06/sudanese-asylum-seekers-challenge-home-office-changes-to-refugee-rules",
+        "summary": "Shabana Mahmood has announced plan to cut leave to remain from five years to 30 months, to concern of UNs refugee agencyTwo Sudanese asylum seekers are challenging a central element of Labours plans t...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 38,
         "sentiment": "Neutral",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "wh smith",
-            "new owner",
-            "modella capital"
+            "asylum seekers challenge home office rule changes",
+            "shabana mahmood",
+            "refugee agencytwo"
         ]
     },
     {
-        "title": "Trainline says Middle East tensions hitting European rail bookings",
-        "link": "https://www.theguardian.com/uk-news/2026/may/06/trainline-middle-east-tensions-european-rail-bookings-profits-jump",
-        "summary": "Profits jump to 122m at ticketing retailer but it expects flat or declining revenues over the coming year Business live  latest updatesTrainline has said the US standoff with Iran is hitting its reven...",
+        "title": "Cameo, speeches, pushing gold bullion: how Farage has made millions since becoming an MP",
+        "link": "https://www.theguardian.com/politics/2026/may/06/cameo-gold-bullion-nigel-farage-millions-reform-uk",
+        "summary": "After two years in parliament, the Reform UK leader has brought in 2m on top of his Commons salaryNigel Farages income since being elected MP has hit 2m, analysis showsTheres no money in politics, Nig...",
         "source": "World news | The Guardian",
-        "objectivity_score": 24,
+        "objectivity_score": 67,
         "sentiment": "Neutral",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "european rail bookings",
-            "year business",
-            "us standoff"
+            "gold bullion",
+            "reform uk",
+            "analysis showstheres"
         ]
     },
     {
-        "title": "Reform-led Lancashire county council to quit refugee resettlement scheme",
-        "link": "https://www.theguardian.com/uk-news/2026/may/06/reform-lancashire-county-council-to-quit-refugee-resettlement-schemes-elections",
-        "summary": "Councillor announces plan to withdraw from government-funded programme in run-up to May electionsUK politics live  latest updatesThe Reform-led Lancashire county council will withdraw from the governm...",
+        "title": "Nigel Farage\u2019s income since being elected MP has hit \u00a32m, analysis shows",
+        "link": "https://www.theguardian.com/politics/2026/may/06/nigel-farage-finance-parliament-salary-reform",
+        "summary": "Reform UK leader has registered wide range of financial interests on top of his Commons salary since July 2024Cameo, speeches, pushing gold bullion: how Farage has made millions since becoming an MPNi...",
         "source": "World news | The Guardian",
         "objectivity_score": 43,
         "sentiment": "Positive",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "reform-led lancashire",
-            "county council",
-            "refugee resettlement scheme"
+            "nigel farage",
+            "\u2019 s income",
+            "analysis shows"
         ]
     },
     {
-        "title": "Airlines among companies using fuel surcharges to cover surge in costs, UK survey shows",
-        "link": "https://www.theguardian.com/business/2026/may/06/airlines-and-companies-using-fuel-surcharges-to-cover-surge-in-costs-uk-survey-shows",
-        "summary": "Firms raising prices at fastest rate in three years, driven by soaring energy and wage bills but also extra materials costsBusiness live  latest updatesOil prices fall as Trump hails progress on Iran ...",
+        "title": "\u2018Climate solutions will bring down bills and restore nature\u2019: green issues and May elections",
+        "link": "https://www.theguardian.com/politics/2026/may/06/uk-voters-battle-over-bills-energy-crisis-linked-green-experts",
+        "summary": "As Reform vows to block solar and windfarms, energy leaders say renewables offer most secure future, insulating UK from hostile forcesUK politics live  latest updates May elections: Whats at stake acr...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
+        "objectivity_score": 34,
+        "sentiment": "Neutral",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "fuel surcharges",
-            "survey shows",
-            "wage bills"
+            "restore nature \u2019",
+            "green issues",
+            "energy leaders"
         ]
     },
     {
-        "title": "Trump\u2019s commerce chief Lutnick to face Epstein grilling in closed-door interview \u2013 live",
+        "title": "Trump would fire Howard Lutnick if he saw video of his Epstein testimony, say House oversight committee Democrats \u2013 live",
         "link": "https://www.theguardian.com/us-news/live/2026/may/06/donald-trump-iran-howard-lutnick-jeffrey-epstein-midterms-redistricting-latest-news-updates",
-        "summary": "Howard Lutnick has acknowledged he visited Epsteins island with his family in 2012 after earlier claiming he severed ties in 2005Sign up for the Breaking News US emailWhen Mississippi lawmakers met in...",
+        "summary": "Ro Khanna criticizes commerce secretary after closed-door interview about ties to Jeffrey Epstein as Democrats call performance embarrassingSign up for the Breaking News US emailIts worth noting, ahea...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 22,
         "sentiment": "Positive",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "\u2019 s commerce chief",
-            "closed-door interview \u2013",
-            "howard lutnick"
+            "howard lutnick",
+            "house oversight committee",
+            "ro khanna"
         ]
     },
     {
-        "title": "Two hikers injured in US bear attack on Yellowstone trail",
-        "link": "https://www.theguardian.com/us-news/2026/may/06/bear-attack-yellowstone-trail",
-        "summary": "National park closes areas near Old Faithful after attack by one or more bears, with incident under investigationTwo hikers were injured in a bear attack on Monday on a trail in Yellowstone national p...",
+        "title": "Uncertainty looms as last oil tanker from Middle East arrives in California",
+        "link": "https://www.theguardian.com/us-news/2026/may/06/california-oil-tanker-middle-east",
+        "summary": "With gas more than $6 in state, delivery of about 2m barrels is last planned shipment to pass through strait of HormuzMiddle East crisis  live updatesThe average price of a gallon of gas in California...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "national park closes areas",
-            "investigationtwo hikers",
-            "national park"
-        ]
-    },
-    {
-        "title": "Coyote swam 2 miles to Alcatraz Island, going farther than scientists expected",
-        "link": "https://www.theguardian.com/us-news/2026/may/06/coyote-swam-alcatraz-island-san-francisco-bay",
-        "summary": "Biologists had guessed coyote paddled a shorter distance to former prison in the San Francisco Bay earlier this yearA lone coyote stunned biologists and others when earlier this year it paddled its wa...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 25,
+        "objectivity_score": 29,
         "sentiment": "Neutral",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "shorter distance",
-            "san francisco",
-            "yeara lone coyote"
+            "oil tanker",
+            "2m barrels",
+            "east crisis"
         ]
     },
     {
-        "title": "Alaska\u2019s 2025 mega tsunami highlights risk to cruise lines as glaciers retreat",
-        "link": "https://www.theguardian.com/us-news/2026/may/06/alaska-mega-tsunami-climate-change-glacier",
-        "summary": "Researchers say 481-metre wave in fjord was triggered by rockslide linked to climate crisisA mega tsunami in Alaska last year in a fjord visited by cruise ships is a stark warning of the risks of coas...",
+        "title": "Howard Lutnick answers questions from US House over Jeffrey Epstein ties",
+        "link": "https://www.theguardian.com/us-news/2026/may/06/howard-lutnick-jeffrey-epstein-congress",
+        "summary": "Democrats sharply criticize the US commerce secretarys testimony, saying he was dishonest and should resignThe US commerce secretary, Howard Lutnick, appeared before the House oversight and reform com...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 42,
+        "sentiment": "Negative",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "howard lutnick",
+            "answers questions",
+            "us house"
+        ]
+    },
+    {
+        "title": "Influencer Clavicular faces charges in Florida tied to alligator shooting video",
+        "link": "https://www.theguardian.com/us-news/2026/may/06/looksmaxxing-clavicular-florida-alligator",
+        "summary": "Video shows looksmaxxing influencer shooting an apparently already dead alligator in the EvergladesA controversial social media influencer known as Clavicular is facing charges in connection with a li...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
+        "date": "2026-05-06",
+        "image_url": null,
+        "keywords": [
+            "influencer clavicular",
+            "faces charges",
+            "alligator shooting video"
+        ]
+    },
+    {
+        "title": "New York real estate titan likens the phrase \u2018tax the rich\u2019 to racial slurs",
+        "link": "https://www.theguardian.com/us-news/2026/may/06/tax-the-rich-racial-slurs-new-york-real-estate",
+        "summary": "Steve Roth was responding to the announcement by New Yorks mayor of tax on second homes worth more than $5mSign up for the Breaking News US newsletter email The phrase tax the rich can be just as hate...",
         "source": "World news | The Guardian",
         "objectivity_score": 43,
-        "sentiment": "Neutral",
+        "sentiment": "Positive",
         "date": "2026-05-06",
         "image_url": null,
         "keywords": [
-            "mega tsunami highlights risk",
-            "cruise lines",
-            "glaciers retreat"
-        ]
-    },
-    {
-        "title": "Sick crew members evacuated from hantavirus cruise ship | First Thing",
-        "link": "https://www.theguardian.com/us-news/2026/may/06/first-thing-crew-members-on-hantavirus-cruise-ship-to-be-evacuated",
-        "summary": "Medical evacuations from vessel as Spain gives permission to dock at Canary Islands. Plus: the Mexico City nightclub that charges Americans 90% moreDont already get First Thing in your inbox? Sign up ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Neutral",
-        "date": "2026-05-06",
-        "image_url": null,
-        "keywords": [
-            "crew members",
-            "hantavirus cruise ship |",
-            "medical evacuations"
+            "real estate titan likens",
+            "phrase \u2018 tax",
+            "rich \u2019"
         ]
     }
 ]
