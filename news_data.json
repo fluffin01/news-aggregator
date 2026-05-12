@@ -737,18 +737,63 @@
         ]
     },
     {
-        "title": "Chris Mason: PM hangs on by a thread as party revolts",
-        "link": "https://www.bbc.com/news/articles/cn9py15w5yxo?at_medium=RSS&at_campaign=rss",
-        "summary": "A dam appears to have broken, with Labour MPs posting their public loss of confidence in the PM, our political editor writes.",
+        "title": "Henry Zeffman: Keir Starmer fights back for now",
+        "link": "https://www.bbc.com/news/articles/clypl327620o?at_medium=RSS&at_campaign=rss",
+        "summary": "The prime minister told the Cabinet a leadership contest had not been triggered, and that he wouldn't be resigning.",
         "source": "BBC News",
-        "objectivity_score": 18,
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "henry zeffman",
+            "keir starmer",
+            "prime minister"
+        ]
+    },
+    {
+        "title": "Jess Phillips's resignation letter in full",
+        "link": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&at_campaign=rss",
+        "summary": "The prominent Labour MP has resigned as safeguarding minister over Sir Keir Starmer's leadership.",
+        "source": "BBC News",
+        "objectivity_score": 77,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "jess phillips",
+            "'s resignation letter",
+            "labour mp"
+        ]
+    },
+    {
+        "title": "At a glance: Starmer grapples with leadership crisis",
+        "link": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss",
+        "summary": "The prime minister is fighting to stay on in No 10 as heavy election losses trigger a Labour revolt.",
+        "source": "BBC News",
+        "objectivity_score": 50,
         "sentiment": "Negative",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "chris mason",
-            "party revolts",
-            "labour mps"
+            "leadership crisis",
+            "prime minister",
+            "heavy election losses trigger"
+        ]
+    },
+    {
+        "title": "UK borrowing costs jump as uncertainty over PM's future continues",
+        "link": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss",
+        "summary": "The possibility of a change of leadership in the UK has unsettled some investors and sent bond yields higher.",
+        "source": "BBC News",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "borrowing costs",
+            "'s future",
+            "bond yields"
         ]
     },
     {
@@ -767,6 +812,21 @@
         ]
     },
     {
+        "title": "No sign of larger hantavirus outbreak, says UN health agency",
+        "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+        "summary": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
+        "source": "BBC News",
+        "objectivity_score": 66,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "hantavirus outbreak",
+            "un health agency",
+            "world health organization"
+        ]
+    },
+    {
         "title": "Green Party admits Polanski may have failed to pay council tax",
         "link": "https://www.bbc.com/news/articles/cy02wdzrg6jo?at_medium=RSS&at_campaign=rss",
         "summary": "The Green Party admits that its leader has, until recently, been living on a houseboat in London and may have failed to pay council tax.",
@@ -782,45 +842,33 @@
         ]
     },
     {
-        "title": "How driving test booking is changing for learner drivers",
-        "link": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss",
-        "summary": "From 12 May, only learner drivers can book their own tests, not instructors.",
+        "title": "Bonnie Tyler 'stable' in Portuguese hospital following emergency surgery",
+        "link": "https://www.bbc.com/news/articles/clyp8xjwgd5o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Welsh star had undergone emergency intestinal surgery in Portugal last week.",
         "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Positive",
+        "objectivity_score": 8,
+        "sentiment": "Neutral",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "learner drivers",
-            "learner drivers",
-            "own tests"
-        ]
-    },
-    {
-        "title": "Last passengers leave virus-hit cruise ship as three more test positive",
-        "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-        "summary": "An American and a French national who have returned home have tested positive for hantavirus.",
-        "source": "BBC News",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "virus-hit cruise ship"
+            "bonnie tyler",
+            "portuguese hospital",
+            "emergency surgery"
         ]
     },
     {
         "title": "US in closely guarded talks to open new bases in Greenland",
         "link": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
-        "summary": "It is seeking to open three bases in the south of the Arctic territory, according to multiple officials familiar with the talks.",
+        "summary": "Negotiations have progressed in recent months, according to multiple officials familiar, with the White House optimistic of reaching a deal.",
         "source": "BBC News",
-        "objectivity_score": 42,
+        "objectivity_score": 32,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
             "new bases",
-            "multiple officials"
+            "greenland negotiations",
+            "recent months"
         ]
     },
     {
@@ -838,32 +886,31 @@
         ]
     },
     {
-        "title": "How the Trump-Xi summit could set superpower relations for many years to come",
-        "link": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
+        "title": "Midwife told us we 'picked a bad day to have a baby' before our daughter died",
+        "link": "https://www.bbc.com/news/articles/cedexdjjx94o?at_medium=RSS&at_campaign=rss",
+        "summary": "A couple whose baby was stillborn in hospital hope a maternity review will lead to improvements.",
         "source": "BBC News",
-        "objectivity_score": 62,
-        "sentiment": "Positive",
+        "objectivity_score": 66,
+        "sentiment": "Negative",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "superpower relations",
-            "'s whirlwind visit"
+            "bad day",
+            "hospital hope",
+            "maternity review"
         ]
     },
     {
-        "title": "Calls for 'urgent action' on baby-sleep industry after BBC investigation",
-        "link": "https://www.bbc.com/news/articles/c232glp2ej8o?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC investigation revealed how some self-described sleep experts have been giving new parents advice that goes against NHS guidelines.",
+        "title": "Why a slice of Edinburgh is being bought up by overseas owners",
+        "link": "https://www.bbc.com/news/articles/cj0v65mj978o?at_medium=RSS&at_campaign=rss",
+        "summary": "More than a third of the properties in Quartermile area have been bought by people based outside the UK.",
         "source": "BBC News",
-        "objectivity_score": 27,
+        "objectivity_score": 18,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "'urgent action",
-            "baby-sleep industry",
-            "sleep experts"
+            "overseas owners"
         ]
     },
     {
@@ -882,86 +929,17 @@
         ]
     },
     {
-        "title": "Students at risk if universities go bust, say MPs",
-        "link": "https://www.bbc.com/news/articles/ce3p93j3823o?at_medium=RSS&at_campaign=rss",
-        "summary": "An Education Select Committee report finds the government needs to make urgent plans for universities facing insolvency.",
+        "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+        "link": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "committee report",
-            "government needs",
-            "urgent plans"
-        ]
-    },
-    {
-        "title": "'Patients have tried to punch me because of my skin colour'",
-        "link": "https://www.bbc.com/news/articles/cly99nzqg6xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Figures from some NHS trusts in England show there was a 17% rise in reports of racism in a year.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "skin colour",
-            "% rise"
-        ]
-    },
-    {
-        "title": "Why a slice of Edinburgh is being bought up by overseas owners",
-        "link": "https://www.bbc.com/news/articles/cj0v65mj978o?at_medium=RSS&at_campaign=rss",
-        "summary": "More than a third of the properties in Quartermile area have been bought by people based outside the UK.",
-        "source": "BBC News",
-        "objectivity_score": 18,
+        "objectivity_score": 62,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "overseas owners"
-        ]
-    },
-    {
-        "title": "I led hikers up an Indonesian volcano - and then it erupted",
-        "link": "https://www.bbc.com/news/articles/cz623qjqjd6o?at_medium=RSS&at_campaign=rss",
-        "summary": "An Indonesian guide who led hikers up Mount Dukono has described the moment of Friday's eruption which killed three people.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Negative",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "'s eruption"
-        ]
-    },
-    {
-        "title": "Baby loss couple: We were told we'd picked a bad day to give birth",
-        "link": "https://www.bbc.com/news/articles/cedexdjjx94o?at_medium=RSS&at_campaign=rss",
-        "summary": "A couple whose baby was stillborn in hospital hope a maternity review will lead to improvements.",
-        "source": "BBC News",
-        "objectivity_score": 66,
-        "sentiment": "Negative",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "loss couple",
-            "bad day",
-            "hospital hope"
-        ]
-    },
-    {
-        "title": "How are countries responding to hantavirus?",
-        "link": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss",
-        "summary": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "mv hondius"
+            "superpower relations",
+            "'s whirlwind visit"
         ]
     },
     {
@@ -980,63 +958,87 @@
         ]
     },
     {
-        "title": "The Papers: 'Cabinet turns on Starmer' and 'You have been murdered'",
-        "link": "https://www.bbc.com/news/articles/c62d8z4m582o?at_medium=RSS&at_campaign=rss",
-        "summary": "Every paper on Tuesday has dedicated its front page to the future of Sir Keir Starmer's premiership.",
+        "title": "How are countries responding to hantavirus?",
+        "link": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.",
         "source": "BBC News",
-        "objectivity_score": 12,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "front page",
-            "sir keir starmer",
-            "'s premiership"
+            "mv hondius"
         ]
     },
     {
-        "title": "Trump says Iran ceasefire is on 'massive life support'",
-        "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+        "title": "How driving test booking is changing for learner drivers",
+        "link": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss",
+        "summary": "From 12 May, only learner drivers can book their own tests, not instructors.",
         "source": "BBC News",
-        "objectivity_score": 81,
-        "sentiment": "Negative",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "'massive life support",
-            "us president criticises",
-            "month-long ceasefire"
-        ]
-    },
-    {
-        "title": "Stars come out for 50th anniversary of the King's Trust",
-        "link": "https://www.bbc.com/news/articles/clyp85ll0pno?at_medium=RSS&at_campaign=rss",
-        "summary": "George Clooney, Sir Idris Elba and other stars joined King Charles and Queen Camilla in London.",
-        "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Negative",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "king 's trust",
-            "george clooney",
-            "sir idris elba"
-        ]
-    },
-    {
-        "title": "Israel passes law to allow death penalty and public trials for those linked to 7 October attacks",
-        "link": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Israel passes a law that permits the death penalty and public trials for those involved in the unprecedented Hamas-led attacks.",
-        "source": "BBC News",
-        "objectivity_score": 34,
+        "objectivity_score": 100,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "passes law",
-            "death penalty",
-            "public trials"
+            "learner drivers",
+            "learner drivers",
+            "own tests"
+        ]
+    },
+    {
+        "title": "Olympic medallist Archibald retires from cycling after falling 'in love' with nursing",
+        "link": "https://www.bbc.com/sport/cycling/articles/c142eny2lneo?at_medium=RSS&at_campaign=rss",
+        "summary": "Three-time Olympic medallist Katie Archibald retires from cycling - despite being previously chosen for Scotland's 2026 Commonwealth Games team - having \"fallen in love\" with her new career as a nurse...",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "olympic medallist",
+            "olympic medallist",
+            "katie archibald"
+        ]
+    },
+    {
+        "title": "Zoe Ball confirms she did not get Strictly presenting role",
+        "link": "https://www.bbc.com/news/articles/czx2w0wz7nro?at_medium=RSS&at_campaign=rss",
+        "summary": "The broadcaster says she was \"so chuffed to even be in the mix\" for the job on the BBC One show.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "zoe ball"
+        ]
+    },
+    {
+        "title": "Calls for 'urgent action' on baby-sleep industry after BBC investigation",
+        "link": "https://www.bbc.com/news/articles/c232glp2ej8o?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC investigation revealed how some self-described sleep experts have been giving new parents advice that goes against NHS guidelines.",
+        "source": "BBC News",
+        "objectivity_score": 27,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "'urgent action",
+            "baby-sleep industry",
+            "sleep experts"
+        ]
+    },
+    {
+        "title": "Canvas hack: Company pays criminals to delete students' stolen data",
+        "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
+        "summary": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities.",
+        "source": "BBC News",
+        "objectivity_score": 70,
+        "sentiment": "Negative",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "delete students"
         ]
     },
     {
@@ -1055,47 +1057,33 @@
         ]
     },
     {
-        "title": "China should stop hoarding food and fertiliser, says former World Bank chief",
-        "link": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
-        "summary": "David Malpass also said that Beijing's claim to be a developing nation was no longer credible.",
+        "title": "Scottish military instructor who spied for Russia jailed in Ukraine",
+        "link": "https://www.bbc.com/news/articles/c775vze3r4do?at_medium=RSS&at_campaign=rss",
+        "summary": "Ross David Cutmore, from Fife, admitted passing on information about training bases and the location of Ukrainian forces.",
         "source": "BBC News",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "world bank",
-            "david malpass"
-        ]
-    },
-    {
-        "title": "Australian musician's US ban prompts apology from girlfriend over Trump post",
-        "link": "https://www.bbc.com/news/articles/cr7p9z37x5go?at_medium=RSS&at_campaign=rss",
-        "summary": "Keli Holiday, one half of electronic duo Peking Duk, was detained at the US-Canada border on Friday.",
-        "source": "BBC News",
-        "objectivity_score": 8,
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "musician 's us ban prompts apology",
-            "keli holiday",
-            "electronic duo"
+            "scottish military instructor",
+            "ukraine ross david cutmore",
+            "training bases"
         ]
     },
     {
-        "title": "Virginia Giuffre\u2019s memoir wins top book award",
-        "link": "https://www.bbc.com/news/articles/cx21xqyndzwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Nobody's Girl, published last year, detailed Giuffre's encounters with the late sex offender Jeffrey Epstein.",
+        "title": "Mayor of Californian city resigns over Chinese agent charge",
+        "link": "https://www.bbc.com/news/articles/cvgz87vmj65o?at_medium=RSS&at_campaign=rss",
+        "summary": "Eileen Wang could face up to 10 years in prison following the Department of Justice allegations.",
         "source": "BBC News",
-        "objectivity_score": 42,
-        "sentiment": "Positive",
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "virginia giuffre",
-            "\u2019 s memoir",
-            "top book award"
+            "city resigns",
+            "chinese agent charge",
+            "eileen wang"
         ]
     },
     {
@@ -1142,47 +1130,75 @@
         ]
     },
     {
-        "title": "Scottish mockumentary about two brothers' Eurovision dreams",
-        "link": "https://www.bbc.co.uk/iplayer/episode/m001lvkc?at_mid=XcMzAPH7gU&at_campaign=How_Not_to_Win_Eurovision&at_medium=display_ad&at_campaign_type=owned&at_nation=SCT&at_audience_id=SS&at_product=iplayer&at_brand=m001lvkc&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=How_Not_to_Win_Eurovision&at_bbc_team=BBC",
-        "summary": "Two Scottish brothers try to sneak into Eurovision by entering for another country.",
+        "title": "Mourinho in final negotiations to become Real boss",
+        "link": "https://www.bbc.com/sport/football/articles/cglpz8endl9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Jose Mourinho is in final negotiations to become Real Madrid's next head coach, 13 years after his first spell at the Bernabeu.",
+        "source": "BBC News",
+        "objectivity_score": 48,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "final negotiations",
+            "jose mourinho",
+            "final negotiations"
+        ]
+    },
+    {
+        "title": "It's West Ham or Spurs - how relegation fight is shaping up",
+        "link": "https://www.bbc.com/sport/football/articles/c5y0kp74gyeo?at_medium=RSS&at_campaign=rss",
+        "summary": "With two games remaining of the Premier League season, Tottenham and West Ham are the two horses left in the race to avoid relegation.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "scottish mockumentary",
-            "scottish brothers"
+            "relegation fight",
+            "premier league season"
         ]
     },
     {
-        "title": "Spurs drag out safety battle to keep nerves jangling",
-        "link": "https://www.bbc.com/sport/football/articles/clyp8djz4d0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Tottenham hit the self-destruct button once more to leave Roberto de Zerbi frustrated as fight to avoid relegation looks set to go to the wire, says chief football writer Phil McNulty.",
+        "title": "Southampton ask for more time over spying claims",
+        "link": "https://www.bbc.com/sport/football/articles/cx21kpmdj97o?at_medium=RSS&at_campaign=rss",
+        "summary": "Southampton request more time to conduct an internal review after being charged with spying on Championship play-off rivals Middlesbrough.",
         "source": "BBC News",
-        "objectivity_score": 25,
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "internal review",
+            "play-off rivals"
+        ]
+    },
+    {
+        "title": "Ex-Georgia captain Sharikadze gets 11-year ban over urine-swapping scheme",
+        "link": "https://www.bbc.com/sport/rugby-union/articles/c7v9rmj7zm2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Former Georgia captain Merab Sharikadze is banned for 11 years for violating anti-doping rules, with five team-mates handed suspensions of up to six years.",
+        "source": "BBC News",
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "safety battle",
-            "self-destruct button",
-            "chief football writer"
+            "11-year ban",
+            "merab sharikadze"
         ]
     },
     {
-        "title": "'Superhuman' managers shouldn't have to ask for help - Beard's family on loss",
-        "link": "https://www.bbc.com/sport/football/articles/c2lwqyd7z72o?at_medium=RSS&at_campaign=rss",
-        "summary": "The family of former WSL manager Matt Beard tell BBC Sport about the emotional burden of football management, and the changes they want to see.",
+        "title": "Paul admits boxing career in doubt over injury from Joshua bout",
+        "link": "https://www.bbc.com/sport/boxing/articles/cx21vp479yro?at_medium=RSS&at_campaign=rss",
+        "summary": "Jake Paul says his boxing career is \"most definitely\" in doubt as he awaits scan results on injuries sustained during his loss to British heavyweight Anthony Joshua.",
         "source": "BBC News",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "'s family",
-            "matt beard",
-            "bbc sport"
+            "jake paul",
+            "awaits scan results",
+            "british heavyweight"
         ]
     },
     {
@@ -1201,63 +1217,48 @@
         ]
     },
     {
-        "title": "Forty years of the EFL play-offs - choose your favourite memories",
-        "link": "https://www.bbc.com/sport/football/articles/c8dlg6veyyzo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport looks back at 15 memorable moments from 40 years of the play-offs in the English Football League.",
+        "title": "'Superhuman' managers shouldn't have to ask for help - Beard's family on loss",
+        "link": "https://www.bbc.com/sport/football/articles/c2lwqyd7z72o?at_medium=RSS&at_campaign=rss",
+        "summary": "The family of former WSL manager Matt Beard tell BBC Sport about the emotional burden of football management, and the changes they want to see.",
         "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "favourite memories",
-            "bbc sport",
-            "memorable moments"
+            "'s family",
+            "matt beard",
+            "bbc sport"
         ]
     },
     {
-        "title": "'Brilliant' Belloumi turns Jakirovic's displeasure into delight",
-        "link": "https://www.bbc.com/sport/football/articles/cvgz8ppd497o?at_medium=RSS&at_campaign=rss",
-        "summary": "Hull City winger Mohamed Belloumi made up for his lack of preparedness to win the Championship play-off semi-final against Millwall for his side.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Positive",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "'s displeasure",
-            "city winger",
-            "mohamed belloumi"
-        ]
-    },
-    {
-        "title": "Where problems started with 2026 rules & calendar congestion - F1 Q&A",
-        "link": "https://www.bbc.com/sport/formula1/articles/cn4pq5gvkxxo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions.",
-        "source": "BBC News",
-        "objectivity_score": 90,
-        "sentiment": "Positive",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "calendar congestion",
-            "bbc sport f1",
-            "andrew benson"
-        ]
-    },
-    {
-        "title": "What Middle Powers Fear from the Trump-Xi Summit",
-        "link": "https://www.nytimes.com/2026/05/11/world/asia/trump-xi-china-summit-iran.html",
-        "summary": "Asian nations worry that the president might trade security commitments for better economic terms with China during his planned meeting with Xi Jinping this week.",
+        "title": "Live Updates: Britain\u2019s Starmer Defies Calls to Resign, For Now",
+        "link": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer",
+        "summary": "Prime Minister Keir Starmer vowed to continue in office as he met with cabinet members. Dozens of Labour Party lawmakers had urged him to step down after heavy losses in local elections.",
         "source": "NYT > World News",
-        "objectivity_score": 17,
-        "sentiment": "Positive",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "powers fear",
-            "trump-xi summit",
-            "asian nations"
+            "live updates",
+            "starmer defies",
+            "keir starmer"
+        ]
+    },
+    {
+        "title": "Xi Is Poised to Press Trump on Arms Sales to Taiwan During China Summit",
+        "link": "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html",
+        "summary": "Beijing has called Taiwan the core of Chinas core interests. Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.",
+        "source": "NYT > World News",
+        "objectivity_score": 63,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "china summit beijing",
+            "core interests",
+            "xi jinping"
         ]
     },
     {
@@ -1276,18 +1277,137 @@
         ]
     },
     {
-        "title": "Starmer Faces Mounting Calls From Own Party to Resign as British Prime Minister",
-        "link": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
-        "summary": "Dozens of Labour Party leaders called on Prime Minister Keir Starmer to leave office, and several government aides announced their resignations.",
+        "title": "Russia Keeps Attacking U.S. Firms in Ukraine. The White House Is Silent.",
+        "link": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html",
+        "summary": "Facilities tied to Coca-Cola, Cargill, Mondelez and others appear to have been deliberately hit. The Trump administrations muted response has raised concerns.",
         "source": "NYT > World News",
-        "objectivity_score": 33,
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "russia keeps attacking u.s. firms",
+            "white house"
+        ]
+    },
+    {
+        "title": "Putin\u2019s Credibility Has Suffered in the Iran War. Or Has It?",
+        "link": "https://www.nytimes.com/2026/05/12/world/europe/russia-europe-ukraine-syria-iran.html",
+        "summary": "Despite its long slog in Ukraine and the loss of former allies like Syria, Russia is benefiting from costly energy, a clever narrative and Americas own failure to achieve a quick victory.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "starmer faces mounting",
-            "party leaders",
-            "keir starmer"
+            "long slog",
+            "costly energy",
+            "clever narrative"
+        ]
+    },
+    {
+        "title": "Altar Boy Who Called Out Sexual Abuse in the Philippines Is Now a Lawyer for Victims",
+        "link": "https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html",
+        "summary": "Michal Gatchalian dared to speak out against sexual abuse by a priest in the devoutly Catholic Philippines. Hes now a lawyer helping other victims.",
+        "source": "NYT > World News",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "sexual abuse",
+            "victims michal gatchalian",
+            "sexual abuse"
+        ]
+    },
+    {
+        "title": "Video Shows Philippine Senator Outrunning Agents and Avoiding I.C.C. Warrant",
+        "link": "https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html",
+        "summary": "Video shows Senator Ronald dela Rosa, who is wanted by the International Criminal Court over Rodrigo Dutertes drug war, dashing into the Philippine Senate.",
+        "source": "NYT > World News",
+        "objectivity_score": 27,
+        "sentiment": "Negative",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "video shows",
+            "philippine senator",
+            "outrunning agents"
+        ]
+    },
+    {
+        "title": "The Iran War Is Taking the Color Out of Japan\u2019s Best-Known Snack Bags",
+        "link": "https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html",
+        "summary": "The food giant Calbee said shortages of naphtha, a crude-oil derivative used in inks, were forcing it to switch to black-and-white packaging for its salty products.",
+        "source": "NYT > World News",
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "best-known snack bags",
+            "crude-oil derivative",
+            "salty products"
+        ]
+    },
+    {
+        "title": "Amnesty Accuses Nigerian Military of Bombing Another Market",
+        "link": "https://www.nytimes.com/2026/05/12/world/africa/nigeria-tumfa-market-strikes.html",
+        "summary": "The rights group said more than 100 people were killed in airstrikes on Sunday that appeared to be the latest in a series of similar attacks.",
+        "source": "NYT > World News",
+        "objectivity_score": 38,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "amnesty accuses nigerian",
+            "rights group",
+            "similar attacks"
+        ]
+    },
+    {
+        "title": "Macron Makes a Bid for New Partners in Africa",
+        "link": "https://www.nytimes.com/2026/05/12/world/africa/macron-africa-summit-kenya.html",
+        "summary": "The French president visited Kenya this week for a summit designed to build stronger ties with Anglophone African countries.",
+        "source": "NYT > World News",
+        "objectivity_score": 15,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "macron makes",
+            "french president",
+            "anglophone african"
+        ]
+    },
+    {
+        "title": "Is France\u2019s Centrist Leader Trying to Weatherproof It From the Far Right?",
+        "link": "https://www.nytimes.com/2026/05/12/world/europe/france-macron-weatherproof-bureaucracy.html",
+        "summary": "President Emmanuel Macron has appointed a string of allies who will remain in critical state positions after next years presidential election, and who could thwart a far-right successor.",
+        "source": "NYT > World News",
+        "objectivity_score": 58,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "far right",
+            "emmanuel macron",
+            "critical state positions"
+        ]
+    },
+    {
+        "title": "What Middle Powers Fear from the Trump-Xi Summit",
+        "link": "https://www.nytimes.com/2026/05/11/world/asia/trump-xi-china-summit-iran.html",
+        "summary": "Asian nations worry that the president might trade security commitments for better economic terms with China during his planned meeting with Xi Jinping this week.",
+        "source": "NYT > World News",
+        "objectivity_score": 17,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "powers fear",
+            "trump-xi summit",
+            "asian nations"
         ]
     },
     {
@@ -1320,138 +1440,75 @@
         ]
     },
     {
-        "title": "Modi Urges Indians to Buy Less Gold and Skip Foreign Trips as Iran War Strains Economy",
-        "link": "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html",
-        "summary": "Under pressure from the economic fallout of the war in Iran and politically emboldened, Prime Minister Narendra Modi asks Indians to sacrifice.",
+        "title": "Keir Starmer, British Prime Minister, Refuses to Resign",
+        "link": "https://www.nytimes.com/video/world/europe/100000010898223/keir-starmer-prime-minister-resign.html",
+        "summary": "The prime minister of Britain, Keir Starmer, vowed to continue governing at a high-stakes cabinet meeting on Tuesday. Calls have grown for for him to resign since heavy Labour Party losses in local el...",
         "source": "NYT > World News",
-        "objectivity_score": 12,
+        "objectivity_score": 14,
         "sentiment": "Neutral",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "modi urges",
-            "buy less",
-            "strains economy"
+            "keir starmer",
+            "prime minister",
+            "keir starmer"
         ]
     },
     {
-        "title": "European Union Hits Israeli Settlers With Sanctions",
-        "link": "https://www.nytimes.com/2026/05/11/world/europe/israel-settlers-european-union-sanctions.html",
-        "summary": "Israel criticized the European Unions announcement that it will apply sanctions to Israeli settlers over violence against Palestinians.",
+        "title": "Labour\u2019s deep losses in local elections reflect a shift in the public mood.",
+        "link": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer/labours-deep-losses-in-local-elections-reflect-a-shift-in-the-public-mood",
+        "summary": "",
         "source": "NYT > World News",
-        "objectivity_score": 0,
+        "objectivity_score": 15,
         "sentiment": "Neutral",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "european union",
-            "hits israeli settlers",
-            "sanctions israel"
+            "local elections reflect",
+            "public mood"
         ]
     },
     {
-        "title": "Ukraine Looks to Step Away From Trump and U.S.",
-        "link": "https://www.nytimes.com/2026/05/11/world/europe/ukraine-war-zelensky-us-trump-russia.html",
-        "summary": "With peace talks on ice and Ukraine now more self-reliant, President Volodymyr Zelensky seems to be stepping away from the United States.",
+        "title": "UK\u2019s Starmer Faces Calls to Resign. Here Are 4 Ways He Could Respond.",
+        "link": "https://www.nytimes.com/2026/05/12/world/europe/uk-starmer-resign-prime-minister-what-options.html",
+        "summary": "Prime Minister Keir Starmer vowed to continue in office on Tuesday morning. Its one of several possible paths for the embattled leader after heavy losses in local elections.",
+        "source": "NYT > World News",
+        "objectivity_score": 37,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "starmer faces",
+            "keir starmer",
+            "possible paths"
+        ]
+    },
+    {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/05/12/world/iran-war-trump-ceasefire-hormuz/heres-the-latest",
+        "summary": "",
+        "source": "NYT > World News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "here\u2019s"
+        ]
+    },
+    {
+        "title": "Who Might Challenge Starmer in a Leadership Contest?",
+        "link": "https://www.nytimes.com/2026/05/12/world/europe/who-could-replace-starmer-uk-prime-minister.html",
+        "summary": "Health Secretary Wes Streeting, Mayor of Greater Manchester Andy Burnham and former deputy prime minister Angela Rayner are among the possible contenders.",
         "source": "NYT > World News",
         "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "ukraine looks",
-            "step away",
-            "volodymyr zelensky"
-        ]
-    },
-    {
-        "title": "The Fight to Euthanize Pablo Escobar\u2019s Hippos in Colombia",
-        "link": "https://www.nytimes.com/2026/05/11/world/americas/pablo-escobar-hippos-colombia.html",
-        "summary": "Colombia is planning to cull a population of wild hippos, the offspring of the drug lords pets, dividing a town where hippos are the main draw.",
-        "source": "NYT > World News",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "euthanize pablo escobar",
-            "colombia colombia",
-            "wild hippos"
-        ]
-    },
-    {
-        "title": "Thailand\u2019s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
-        "link": "https://www.nytimes.com/2026/05/10/world/asia/thailand-thaksin-shinawatra-released-prison.html",
-        "summary": "Mr. Thaksin has long been a foil to Thailands conservative establishment. He still holds significant influence, with his political party a member of the governing coalition.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "thaksin shinawatra",
-            "mr. thaksin",
-            "conservative establishment"
-        ]
-    },
-    {
-        "title": "How to Win Eurovision With Just a Few Hundred Voters",
-        "link": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-votes.html",
-        "summary": "Exclusive voting data shows that, despite Eurovisions assurances, an Israeli campaign could easily have influenced last years contest.",
-        "source": "NYT > World News",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "win eurovision",
-            "few hundred",
-            "data shows"
-        ]
-    },
-    {
-        "title": "Sara Duterte, Philippine Vice President, Is Impeached, Again",
-        "link": "https://www.nytimes.com/2026/05/11/world/asia/sara-duterte-philippine-impeached.html",
-        "summary": "But the prosecution of Ms. Duterte, who has become the archrival to President Ferdinand R. Marcos Jr., is likely to fail again in the Senate.",
-        "source": "NYT > World News",
-        "objectivity_score": 64,
-        "sentiment": "Negative",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "sara duterte",
-            "philippine vice president",
-            "ms. duterte"
-        ]
-    },
-    {
-        "title": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
-        "link": "https://www.nytimes.com/article/hantavirus-cruise-ship-outbreak-hondius.html",
-        "summary": "The health authorities are working to calm fears and contain the rare virus. Three passengers died after traveling on the ship, and several others fell ill or tested positive.",
-        "source": "NYT > World News",
-        "objectivity_score": 63,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "hantavirus outbreak",
-            "atlantic cruise ship",
-            "health authorities"
-        ]
-    },
-    {
-        "title": "Quebec Novelist Shines a Harsh Spotlight on Migration, and on Trump\u2019s America",
-        "link": "https://www.nytimes.com/2026/05/11/world/canada/thelyson-orelien-haiti-us-canada-migration.html",
-        "summary": "Thlyson Orlien, a Haitian-born, previously unknown writer, submitted an unsolicited manuscript. Its rights were sold in 23 countries before publication.",
-        "source": "NYT > World News",
-        "objectivity_score": 64,
-        "sentiment": "Negative",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "quebec novelist shines",
-            "harsh spotlight",
-            "america thlyson orlien"
+            "who might challenge starmer",
+            "health secretary",
+            "wes streeting"
         ]
     },
     {
@@ -1470,21 +1527,6 @@
         ]
     },
     {
-        "title": "Video Shows Philippine Senator Outrunning Agents and Avoiding I.C.C. Warrant",
-        "link": "https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html",
-        "summary": "Video shows Senator Ronald dela Rosa, who is wanted by the International Criminal Court over Rodrigo Dutertes drug war, dashing into the Philippine Senate.",
-        "source": "NYT > World News",
-        "objectivity_score": 27,
-        "sentiment": "Negative",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "video shows",
-            "philippine senator",
-            "outrunning agents"
-        ]
-    },
-    {
         "title": "Here\u2019s the latest.",
         "link": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer/heres-the-latest",
         "summary": "",
@@ -1495,51 +1537,6 @@
         "image_url": null,
         "keywords": [
             "here\u2019s"
-        ]
-    },
-    {
-        "title": "Is France\u2019s Centrist Leader Trying to Weatherproof It From the Far Right?",
-        "link": "https://www.nytimes.com/2026/05/12/world/europe/france-macron-weatherproof-bureaucracy.html",
-        "summary": "President Emmanuel Macron has appointed a string of allies who will remain in critical state positions after next years presidential election, and who could thwart a far-right successor.",
-        "source": "NYT > World News",
-        "objectivity_score": 58,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "far right",
-            "emmanuel macron",
-            "critical state positions"
-        ]
-    },
-    {
-        "title": "Xi Is Poised to Press Trump on Arms Sales to Taiwan",
-        "link": "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html",
-        "summary": "Beijing has called Taiwan the core of Chinas core interests. Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.",
-        "source": "NYT > World News",
-        "objectivity_score": 63,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "taiwan beijing",
-            "core interests",
-            "xi jinping"
-        ]
-    },
-    {
-        "title": "Altar Boy Who Called Out Sexual Abuse in the Philippines Is Now a Lawyer for Victims",
-        "link": "https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html",
-        "summary": "Michal Gatchalian dared to speak out against sexual abuse by a priest in the devoutly Catholic Philippines. Hes now a lawyer helping other victims.",
-        "source": "NYT > World News",
-        "objectivity_score": 53,
-        "sentiment": "Positive",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "sexual abuse",
-            "victims michal gatchalian",
-            "sexual abuse"
         ]
     },
     {
@@ -1584,21 +1581,6 @@
             "top zelensky aide",
             "inquiry ukrainian",
             "news outlets"
-        ]
-    },
-    {
-        "title": "Colombians Are Fighting Over the Fate of Escobar\u2019s Hippos",
-        "link": "https://www.nytimes.com/video/world/americas/100000010896242/colombia-hippos-pablo-escobar.html",
-        "summary": "Colombia is facing pushback over its plan to cull wild hippos, which are descendants of the drug kingpin Pablo Escobars personal pets. The hippos, which are native to Africa, have threatened local wil...",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "hippos colombia",
-            "wild hippos",
-            "drug kingpin"
         ]
     },
     {
@@ -1677,6 +1659,21 @@
         ]
     },
     {
+        "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
+        "link": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle",
+        "summary": "Rising cost of living such as high gas prices also a concern in election that will have record number of votersVoters in the Bahamas head to the polls on Tuesday in a hotly contested general election ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 57,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "three-way battle",
+            "key issue",
+            "high gas prices"
+        ]
+    },
+    {
         "title": "Drug gang attacks \u2018force hundreds of Indigenous families to flee\u2019 in Mexico",
         "link": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
         "summary": "Violence in Guerrero state has driven as many as 1,000 households from their homes, rights group saysHundreds of Indigenous families have been forced to flee their homes in the mountains of central Me...",
@@ -1734,21 +1731,6 @@
             "chemicals \u2019",
             "seabird eggs",
             "northern gannet eggs"
-        ]
-    },
-    {
-        "title": "\u2018Truly terrifying\u2019: Alberta voter data breach raises fears for Canada\u2019s electoral integrity",
-        "link": "https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum",
-        "summary": "Debates over secession overshadowed by revelations separatist-linked group gained access to list of electorsThe illegal use of voter information by rightwing separatists in the province of Alberta has...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 57,
-        "sentiment": "Negative",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "voter data breach raises fears",
-            "\u2019 s electoral integrity",
-            "illegal use"
         ]
     },
     {
@@ -1827,168 +1809,198 @@
         ]
     },
     {
-        "title": "Federal budget 2026 live updates: Australia government budget announcement and speech tonight \u2013\u00a0latest news",
+        "title": "Chalmers delivers 2026 budget speech \u2013 as it happened",
         "link": "https://www.theguardian.com/australia-news/live/2026/may/12/budget-2026-live-updates-federal-treasurer-jim-chalmers-speech-time-tonight-latest-news-ntwnfb",
-        "summary": "Treasurer expected to announce changes to the capital gains tax discount when he delivers the 2026 federal budget later tonight. Follow the latest updatesFederal budget 2026: what we know so farSee al...",
+        "summary": "This blog is now closed.Chalmers goes for broke in federal budget facing twin threats of housing pain and Iran war disasterBudget 2026 winner and losersWhat the budget means for your generationSee all...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "budget speech \u2013",
+            "federal budget",
+            "twin threats"
+        ]
+    },
+    {
+        "title": "Aukus costs balloon with more cash and staff for submarine agency amid ongoing search for nuclear waste dump",
+        "link": "https://www.theguardian.com/australia-news/2026/may/12/australia-federal-budget-2026-aukus-submarines-nuclear-defence-spending",
+        "summary": "Labor has announced funding for Australian Submarine Agency will jump to $512m in next financial year amid concerns the sovereign submarine fleet may never arriveFederal budget 2026 LIVE updates: Aust...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "costs balloon",
+            "submarine agency",
+            "nuclear waste dump labor"
+        ]
+    },
+    {
+        "title": "Federal budget 2026 winners and losers: rich families, overseas travellers and illegal tobacco \u2013 summary",
+        "link": "https://www.theguardian.com/australia-news/2026/may/12/federal-budget-2026-summary-winners-and-losers",
+        "summary": "Taxpayers and first home buyers are the winners in Labors 2026 budget, while rich families could be among the losers. Find out who is better off and who is worse off in Chalmers budgetFederal budget 2...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "federal budget",
+            "rich families",
+            "overseas travellers"
+        ]
+    },
+    {
+        "title": "Huge cuts to national disability insurance scheme aim to save more than $36bn in budget\u2019s largest single measure",
+        "link": "https://www.theguardian.com/australia-news/2026/may/12/australia-federal-budget-2026-ndis-savings-cuts-national-disability-insurance-scheme-support-jobs-changes",
+        "summary": "NDIS changes foreshadowed by health minister Mark Butler will drastically reduce access to the scheme, with nearly 700 staff positions to go at NDIAFederal budget 2026 LIVE updates: Australia governme...",
         "source": "World news | The Guardian",
         "objectivity_score": 46,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "federal budget",
-            "government budget announcement",
-            "capital gains tax discount"
+            "national disability insurance scheme aim",
+            "$ 36bn",
+            "budget \u2019 s"
         ]
     },
     {
-        "title": "Labor dropped their long-awaited gambling report on budget day. Were they betting no one would notice?",
-        "link": "https://www.theguardian.com/australia-news/2026/may/12/labor-dropped-their-long-awaited-gambling-report-on-budget-day-were-they-betting-no-one-would-notice",
-        "summary": "The governments response to the Murphy report is hardly dynamite. Harm advocates, gambling operators and advertisers are all waiting to see whether Labors rhetoric will be matched by action The Labor ...",
+        "title": "Budget 2026 Australia: Jim Chalmers announces capital gains tax and negative gearing reform for housing",
+        "link": "https://www.theguardian.com/australia-news/2026/may/12/australia-federal-budget-2026-tax-capital-gains-negative-gearing-economy-housing-ndis-cost-of-living-oil-prices",
+        "summary": "Labors ambitious and politically risky tax reform aims to help first home buyers and foster intergenerational fairnessFederal budget 2026 LIVE updates: Australia government budget announcement and spe...",
         "source": "World news | The Guardian",
-        "objectivity_score": 16,
+        "objectivity_score": 41,
         "sentiment": "Neutral",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "budget day",
-            "governments response",
-            "labor government"
+            "jim chalmers",
+            "announces capital gains tax",
+            "risky tax reform aims"
         ]
     },
     {
-        "title": "Fortescue ordered to pay Yindjibarndi traditional owners $150m in record native title payout",
-        "link": "https://www.theguardian.com/australia-news/2026/may/12/fortescue-yindjibarndi-native-title-compensation-largest-ever-ntwnfb",
-        "summary": "Federal court found miners Solomon Hub iron ore mine caused cultural and social harm, including the destruction of 140 heritage sitesFollow our Australia news live blog for latest updatesGet our break...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Positive",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "traditional owners $ 150m",
-            "record native title payout",
-            "federal court"
-        ]
-    },
-    {
-        "title": "Mother of Kumanjayi Little Baby asks politicians not to leverage child\u2019s death: \u2018My heart is broken into a million pieces\u2019",
-        "link": "https://www.theguardian.com/australia-news/2026/may/12/kumanjayi-little-baby-mother-politicians-ntwnfb",
-        "summary": "Labor introduced condolence motions in parliament on Tuesday to honour the five-year-old who was allegedly murdered in Alice Springs last monthWarning: This article contains references to Indigenous A...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "kumanjayi little baby",
-            "leverage child \u2019 s death",
-            "pieces \u2019 labor"
-        ]
-    },
-    {
-        "title": "It\u2019s parliament, not Love Island: Queensland\u2019s ministerial affair drama becomes a sordid distraction",
-        "link": "https://www.theguardian.com/australia-news/2026/may/12/tim-mander-amanda-camm-parliament-not-love-island-queensland-ministers-affair-ntwnfb",
-        "summary": "Tuesdays question time seemed more suited to prime time; full of sordid allegations, only the cast seems far less likableFollow our Australia news live blog for latest updatesGet our breaking news ema...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 53,
-        "sentiment": "Positive",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s parliament",
-            "ministerial affair drama",
-            "sordid distraction"
-        ]
-    },
-    {
-        "title": "EU defence ministers meet for talks on Ukraine \u2013 Europe live",
+        "title": "Three-day ceasefire ends with fresh wave of Russian attacks on Ukraine \u2013 Europe live",
         "link": "https://www.theguardian.com/world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates",
-        "summary": "Ministers to also discuss how to ramp up defence manufacturing and the situation in the Middle EastTodays talks in Brussels come as the three-day ceasefire between Russia and Ukraine announced by pres...",
+        "summary": "At least one person killed as Moscow launches drone strikes on energy facilities and apartments European culture editorIt was meant to be the crowning moment of a seemingly never-ending success story:...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "ceasefire ends",
+            "fresh wave",
+            "launches drone strikes"
+        ]
+    },
+    {
+        "title": "Irish TV to air Father Ted instead of Eurovision final in protest against Israel\u2019s inclusion",
+        "link": "https://www.theguardian.com/tv-and-radio/2026/may/12/irish-tv-rte-father-ted-eurovision-final-israel",
+        "summary": "National broadcaster RT accused of antisemitism for decision to screen satirical 1996 Eurovision episode in boycott of contest It is considered one of the funniest episodes of a beloved sitcom, but th...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 68,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "irish tv",
+            "father ted",
+            "\u2019 s inclusion"
+        ]
+    },
+    {
+        "title": "European ministers to discuss sending rejected asylum seekers to third-country hubs",
+        "link": "https://www.theguardian.com/law/2026/may/12/european-ministers-moldova-asylum-seekers-third-country-hubs",
+        "summary": "Exclusive: Council of Europe to meet in Moldova on Friday, with human rights body expected to stress countries right to control bordersEurope live  latest updatesEuropean ministers will this week disc...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "european ministers",
+            "asylum seekers",
+            "third-country hubs"
+        ]
+    },
+    {
+        "title": "WHO head tells countries to prepare for more hantavirus cases",
+        "link": "https://www.theguardian.com/world/2026/may/12/who-head-warns-countries-prepare-more-hantavirus-cases",
+        "summary": "Tedros Adhanom Ghebreyesus praises Spains compassion and solidarity in evacuating virus-hit cruise shipThe head of the World Health Organization has told countries to prepare for more hantavirus cases...",
         "source": "World news | The Guardian",
         "objectivity_score": 44,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "defence ministers",
-            "three-day ceasefire",
-            "donald trump"
-        ]
-    },
-    {
-        "title": "Teen bedroom art installation shines spotlight on Ukraine\u2019s stolen children",
-        "link": "https://www.theguardian.com/world/2026/may/12/teen-bedroom-art-installation-shines-spotlight-on-ukraines-stolen-children",
-        "summary": "Since the start of the current conflict, more than 20,500 Ukrainian children have been taken by RussiaIt looks like a typical teenagers bedroom: football shirts on the wall, crumpled clothes on the fl...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 28,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "bedroom art installation shines spotlight",
-            "current conflict",
-            "typical teenagers bedroom"
-        ]
-    },
-    {
-        "title": "Zelenskyy\u2019s ex-chief of staff accused in Ukraine corruption investigation",
-        "link": "https://www.theguardian.com/world/2026/may/12/zelenskyy-ex-chief-of-staff-andriy-yermak-accused-ukraine-corruption-investigation",
-        "summary": "Anti-graft agencies say Andriy Yermak suspected of participating in criminal group that laundered $10.5m in housing project, which he denies ownership inUkrainian authorities have named Volodymyr Zele...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s ex-chief",
-            "corruption investigation",
-            "andriy yermak"
-        ]
-    },
-    {
-        "title": "Cannes spotlight reverts to auteurs as Hollywood retreats from film festival",
-        "link": "https://www.theguardian.com/film/2026/may/12/cannes-film-festival-comeback-auteurs-hollywood-retreats",
-        "summary": "Absence of big US films heralds renewed focus on international cinema that underpins festivals reputationFor decades, Cannes has occupied a unique place in the cultural imagination  not just as the wo...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 27,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "spotlight reverts",
-            "film festival",
-            "big us films heralds"
+            "hantavirus cases",
+            "tedros adhanom ghebreyesus",
+            "virus-hit cruise shipthe head"
         ]
     },
     {
-        "title": "Poland says it expects US to extradite ex-minister who fled from Hungary",
-        "link": "https://www.theguardian.com/world/2026/may/11/polish-ex-minister-zbigniew-ziobro-flees-hungary-usa",
-        "summary": "Trump reportedly involved in securing visa for Zbigniew Ziobro, who is wanted in Warsaw on criminal chargesPoland has said it expects Washington to extradite a former justice minister wanted on crimin...",
+        "title": "Sicily police investigate illegal race with horse-drawn carts and Kalashnikovs",
+        "link": "https://www.theguardian.com/world/2026/may/12/sicily-illegal-horse-race-carts-kalashnikovs-video",
+        "summary": "Horses seized and several people questioned after animal rights activist shares video of race along country roadsA video showing an illegal horse race in Sicily, with spectators firing pistols into th...",
         "source": "World news | The Guardian",
-        "objectivity_score": 24,
+        "objectivity_score": 31,
         "sentiment": "Negative",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "extradite ex-minister",
-            "hungary trump",
-            "zbigniew ziobro"
+            "illegal race",
+            "horse-drawn carts",
+            "kalashnikovs horses"
         ]
     },
     {
-        "title": "Middle East crisis live: Iran could enrich uranium to weapons grade if attacked, senior lawmaker warns",
+        "title": "Middle East crisis live: US war on Iran has cost around $29bn, Pentagon says",
         "link": "https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates",
-        "summary": "Ebrahim Rezaei says in social media post that the country could enrich its stocks of uranium to 90% and will review such a move in parliamentIsrael sent Iron Dome anti-missile batteries and personnel ...",
+        "summary": "Pete Hegseth and other officials appear before House to face grilling on Iran war expenditure and military operationsIran has expanded its definition of the strait of Hormuz into a vast operational ar...",
         "source": "World news | The Guardian",
-        "objectivity_score": 27,
+        "objectivity_score": 46,
         "sentiment": "Neutral",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "enrich uranium",
-            "weapons grade",
-            "senior lawmaker warns"
+            "us war",
+            "$ 29bn",
+            "pete hegseth"
+        ]
+    },
+    {
+        "title": "Israeli MPs back special tribunal with death penalty powers for alleged 7 October attackers",
+        "link": "https://www.theguardian.com/world/2026/may/12/israel-special-tribunal-death-penalty-7-october-attack",
+        "summary": "Knesset approves plan for livestreamed trials in military court, drawing comparisons to 1962 Adolf Eichmann trialIsraeli lawmakers have approved setting up a livestreamed special tribunal with the pow...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "israeli mps",
+            "special tribunal",
+            "death penalty powers"
+        ]
+    },
+    {
+        "title": "More than 110 Nobel laureates call on Iran to release gravely ill activist Narges Mohammadi",
+        "link": "https://www.theguardian.com/global-development/2026/may/12/nobel-laureates-call-iran-release-gravely-ill-activist-human-rights-activist-narges-mohammadi",
+        "summary": "As human rights advocate is treated in Tehran hospital after transfer from Zanjan prison, prize winners demand her freedomMore than 110 Nobel laureates have called for the immediate and unconditional ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "narges mohammadi",
+            "human rights advocate",
+            "prize winners demand"
         ]
     },
     {
@@ -2019,36 +2031,6 @@
             "\u2018 life support \u2019",
             "peace proposals us president",
             "naval escorts"
-        ]
-    },
-    {
-        "title": "Israeli troops jailed for desecration of Virgin Mary statue in Lebanon",
-        "link": "https://www.theguardian.com/world/2026/may/11/israeli-troops-jailed-desecration-virgin-mary-statue-lebanon",
-        "summary": "IDF says two soldiers will spend weeks in military prison over incident it said was viewed with great severityTwo Israeli soldiers will spend weeks in military prison for the desecration of a Christia...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-05-12",
-        "image_url": "https://i.guim.co.uk/img/media/c5dd252563495c4b279b31521b49173a0f0dd465/181_0_451_361/master/451.jpg?width=140&quality=85&auto=format&fit=max&s=6741a77c784367de1d566d4ba0224de9",
-        "keywords": [
-            "lebanon idf",
-            "military prison",
-            "great severitytwo"
-        ]
-    },
-    {
-        "title": "Trump calls Iran\u2019s response to peace plan \u2018totally unacceptable\u2019 as ceasefire frays",
-        "link": "https://www.theguardian.com/world/2026/may/10/iran-us-peace-proposal-pakistan-reported-drone-strikes-strain-ceasefire",
-        "summary": "US president expresses ire at Tehrans reported demands, as drones strike Gulf nations and Israel warns war not overDonald Trump has rejected an Iranian response to a US peace proposal as totally unacc...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 75,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s response",
-            "peace plan \u2018",
-            "unacceptable \u2019"
         ]
     },
     {
@@ -2127,153 +2109,153 @@
         ]
     },
     {
-        "title": "First minister resigns and calls for Starmer\u2019s resignation ahead of critical cabinet meeting \u2013 UK politics live",
+        "title": "Jess Phillips among three ministers to resign after Starmer tells cabinet he is not stepping down \u2013 UK politics live",
         "link": "https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates",
-        "summary": "Miatta Fahnbulleh  minister for devolution, faith and communities  has become the first minister to goStarmer on the brink as cabinet ministers urge him to quitHere are some pictures from No 10 this m...",
+        "summary": "Alex Davies-Jones becomes third minister to step down, after Miatta Fahnbulleh and Jess Phillips earlierStarmer tells cabinet he will not quit without leadership challengeHere are some pictures from N...",
         "source": "World news | The Guardian",
-        "objectivity_score": 49,
+        "objectivity_score": 31,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "jess phillips",
+            "alex davies-jones",
+            "miatta fahnbulleh"
+        ]
+    },
+    {
+        "title": "Palestine Action activists in Elbit protest could be sentenced as terrorists",
+        "link": "https://www.theguardian.com/uk-news/2026/may/12/palestine-action-activists-elbit-protest-terrorist-connection-ruling",
+        "summary": "Judges ruling was not disclosed to jurors in two trials and can only now be revealed after reporting restrictions liftedFour Palestine Action activists convicted after a retrial over a violent protest...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 51,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "action activists",
+            "restrictions liftedfour",
+            "action activists"
+        ]
+    },
+    {
+        "title": "\u2018He\u2019s inspired generations\u2019: Stormzy to produce biopic about football great Ian Wright",
+        "link": "https://www.theguardian.com/film/2026/may/12/stormzy-producing-ian-wright-biopic",
+        "summary": "The Crystal Palace, Arsenal and England striker says his life story  now in development with the rappers Merky Films  has hard-hitting moments, but in the end I want it to give people hope and joyStor...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 55,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "minister resigns",
-            "\u2019 s resignation",
-            "critical cabinet meeting \u2013"
+            "generations \u2019",
+            "ian wright",
+            "crystal palace"
         ]
     },
     {
-        "title": "Minister resigns from Starmer government with call for PM to quit",
+        "title": "Three ministers resign as pressure rises on Starmer to quit",
         "link": "https://www.theguardian.com/politics/2026/may/12/darren-jones-keir-starmer-future-labour-leader",
-        "summary": "Communities minister Miatta Fahnbulleh is first minister to leave government after heavy election lossesUK politics live  latest updatesMiatta Fahnbulleh has become the first minister to resign from K...",
+        "summary": "Jess Phillips, Miatta Fahnbulleh and Alex Davies-Jones stand down after heavy election losses under PMUK politics live  latest updatesOne of Keir Starmers most influential ministers, Jess Phillips, ha...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
+        "objectivity_score": 54,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "minister resigns",
-            "miatta fahnbulleh",
-            "heavy election lossesuk politics"
+            "ministers resign",
+            "pressure rises",
+            "jess phillips"
         ]
     },
     {
-        "title": "Labour must offer more than \u2018better managed decline\u2019 on economy, MPs urge",
-        "link": "https://www.theguardian.com/business/2026/may/12/labour-economy-mps-tribune-group-keir-starmer",
-        "summary": "Soft-left Tribune group issues thinly disguised attack on Keir Starmer, calling for bold policy renewalBusiness live  latest updatesUK politics live  latest updatesAn influential group of MPs has said...",
+        "title": "Burnham allies warn against quick \u2018coronation\u2019 of Streeting if Starmer quits",
+        "link": "https://www.theguardian.com/politics/2026/may/12/labour-mp-seat-burnham-allies-not-stand-aside-marie-rimmer",
+        "summary": "Assurances being sought that Greater Manchester mayor could stand for byelection, though MP Marie Rimmer says she will not stand asideUK politics live  latest updatesNeal Lawson: Burnham should be the...",
         "source": "World news | The Guardian",
-        "objectivity_score": 50,
+        "objectivity_score": 37,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "decline \u2019",
-            "tribune group issues",
-            "keir starmer"
+            "quick \u2018 coronation \u2019",
+            "mp marie rimmer",
+            "asideuk politics"
         ]
     },
     {
-        "title": "Five former Carillion executives banned by accountancy regulator",
-        "link": "https://www.theguardian.com/business/2026/may/12/carillion-finance-directors-banned-frc",
-        "summary": "Richard Adam, Zafar Khan and three others are also fined by Financial Reporting CouncilBusiness live  latest updatesFive former executives at the collapsed government contractor Carillion have been ba...",
+        "title": "Trump to head to China for high-stakes talks with Xi \u2013 US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2026/may/12/donald-trump-china-iran-redistricting-jeffrey-epstein-latest-news-updates",
+        "summary": "Meeting comes amid tentative trade truce but Iran, Taiwan and tensions over global supply chains will be complicating factorsSign up for the Breaking News US emailThe Pentagon revealed on 29 April tha...",
         "source": "World news | The Guardian",
-        "objectivity_score": 29,
+        "objectivity_score": 24,
+        "sentiment": "Neutral",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "high-stakes talks",
+            "\u2013 us politics",
+            "tentative trade truce"
+        ]
+    },
+    {
+        "title": "Trump nominates Kari Lake to be US ambassador to Jamaica",
+        "link": "https://www.theguardian.com/us-news/2026/may/12/trump-kari-lake-us-ambassador-jamaica",
+        "summary": "The former TV anchors tenure leading US global media agency ends after court ruled appointment unlawfulUS politics live  latest updatesSign up for the Breaking News US newsletter emailDonald Trump has...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 39,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "accountancy regulator",
-            "richard adam",
-            "zafar khan"
+            "us ambassador",
+            "tv anchors tenure",
+            "global media agency ends"
         ]
     },
     {
-        "title": "Man charged with arson over alleged attack on ex-synagogue in east London",
-        "link": "https://www.theguardian.com/uk-news/2026/may/12/man-charged-arson-former-synagogue-whitechapel-london",
-        "summary": "Moses Edwards, 45, from Wanstead, to appear in court in connection with incident in Whitechapel last weekA 45-year-old man has been charged with arson with intent to endanger life after reports of a f...",
+        "title": "Jeffrey Epstein survivors to return to Palm Beach, Florida, for House hearing",
+        "link": "https://www.theguardian.com/us-news/2026/may/12/jeffrey-epstein-survivor-palm-beach-hearing",
+        "summary": "Survivors to return to scene of the crime for shadow congressional hearing into abuses committed by EpsteinSurvivors of r Jeffrey Epstein will return to the scene of the crime in Palm Beach, Florida, ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "london moses edwards",
-            "weeka 45-year-old man",
-            "endanger life"
-        ]
-    },
-    {
-        "title": "Trump heads to China to spread the gospel of American tech while emulating Xi Jinping on AI",
-        "link": "https://www.theguardian.com/technology/2026/may/12/trump-china-ai-big-tech-xi-jinping",
-        "summary": "Tim Cook and Elon Musk, among other tech CEOS, will accompany the US president on a trip to ChinaDonald Trump is heading to China this week. If his guest list is any clue, he wants to discuss technolo...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "american tech",
-            "xi jinping",
-            "ai tim cook"
-        ]
-    },
-    {
-        "title": "Virginia Democrats ask conservative-majority US supreme court to restore congressional map approved by voters \u2013 as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/may/11/trump-china-iran-trade-warsh-politics-live",
-        "summary": "This live blog is now closed.Sign up for the Breaking News US emailSpeaking to reporters in the Oval Office, Trump reiterated that Irans peace proposal was just unacceptable.The president went on to i...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "conservative-majority us",
-            "supreme court",
-            "congressional map"
-        ]
-    },
-    {
-        "title": "Mayor of California city resigns over charges of being a foreign agent of China",
-        "link": "https://www.theguardian.com/us-news/2026/may/11/california-city-mayor-resigns-foreign-agent-charges",
-        "summary": "Eileen Wang, 58, mayor of Arcadia, agreed to plead guilty over the felony count brought by the justice departmentEileen Wang, the mayor of a southern California city, resigned suddenly on Monday after...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "city resigns",
-            "foreign agent",
-            "china eileen wang"
-        ]
-    },
-    {
-        "title": "Trump officials cancel rule that made conservation a \u2018use\u2019 of public lands",
-        "link": "https://www.theguardian.com/us-news/2026/may/11/trump-public-lands-conservation-rule",
-        "summary": "Move comes as administration seeks to boost drilling, logging, mining and grazing on taxpayer-owned landThe interior department is canceling a rule that put conservation on equal footing with developm...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-05-12",
-        "image_url": null,
-        "keywords": [
-            "\u2018 use \u2019",
-            "public lands",
-            "interior department"
-        ]
-    },
-    {
-        "title": "California gubernatorial candidate Steve Hilton mocked for misidentifying a \u2018street taco\u2019",
-        "link": "https://www.theguardian.com/us-news/2026/may/11/california-governor-candidate-mocked-street-taco",
-        "summary": "The British political strategist drew swift criticism in a state where tacos are practically the official dishSign up for the Breaking News US newsletter emailPolls have shown California voters have b...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 19,
+        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-05-12",
         "image_url": null,
         "keywords": [
-            "gubernatorial candidate",
-            "steve hilton",
-            "\u2018 street taco \u2019"
+            "jeffrey epstein",
+            "palm beach",
+            "house hearing survivors"
+        ]
+    },
+    {
+        "title": "US Democrats urge Jen Kiggans to resign for agreeing with racist \u2018cotton-picking\u2019 remark",
+        "link": "https://www.theguardian.com/us-news/2026/may/12/kiggans-resign-racist-comment-radio",
+        "summary": "The Republican congresswoman says she did not condone radio hosts languageUS politics live  latest updatesSign up for the Breaking News US newsletter emailJen Kiggans, a Republican congresswoman, has ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "jen kiggans",
+            "racist \u2018",
+            "\u2019 remark"
+        ]
+    },
+    {
+        "title": "US inflation jumped to 3.8% in April as war with Iran continues to drive up prices",
+        "link": "https://www.theguardian.com/business/2026/may/12/us-inflation-april-iran-war",
+        "summary": "Prices rose 3.8% over the last year, according to Bureau of Labor Statistics data, highest jump since 2023Sign up for the Breaking News US newsletter emailUS inflation jumped to 3.8% in April as the w...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2026-05-12",
+        "image_url": null,
+        "keywords": [
+            "us inflation",
+            "news us newsletter emailus inflation",
+            "energy prices"
         ]
     }
 ]
