@@ -737,31 +737,78 @@
         ]
     },
     {
-        "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
-        "link": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss",
-        "summary": "A public spending watchdog examines the property arrangements of royals including Andrew Mountbatten-Windsor.",
+        "title": "Rapist Paul Quinn's 24-year sentence an insult, says wrongly convicted Andrew Malkinson",
+        "link": "https://www.bbc.com/news/articles/c99l93md0gko?at_medium=RSS&at_campaign=rss",
+        "summary": "Paul Quinn is jailed over the 2003 attack in Salford for which Andrew Malkinson served 17 years.",
         "source": "BBC News",
-        "objectivity_score": 6,
+        "objectivity_score": 90,
+        "sentiment": "Negative",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "rapist paul quinn",
+            "'s 24-year sentence",
+            "andrew malkinson paul quinn"
+        ]
+    },
+    {
+        "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+        "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss",
+        "summary": "The US vice president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X.",
+        "source": "BBC News",
+        "objectivity_score": 60,
+        "sentiment": "Negative",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "street hits",
+            "stir division",
+            "us vice president"
+        ]
+    },
+    {
+        "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
+        "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
+        "summary": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
+        "source": "BBC News",
+        "objectivity_score": 25,
         "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "royal lodge cottages",
-            "watchdog reveals",
-            "watchdog examines"
+            "ted lasso",
+            "anthony head",
+            "british actor"
         ]
     },
     {
-        "title": "World-first vaccine designed by AI could protect against whole families of viruses",
-        "link": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.",
+        "title": "Ex-Channel 4 News host Jon Snow reveals he has Alzheimer's",
+        "link": "https://www.bbc.com/news/articles/c3626ry101lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Snow, the lead presenter of C4 News for 32 years, will be seen navigating his diagnosis in a new film.",
         "source": "BBC News",
-        "objectivity_score": 36,
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "whole families"
+            "news host",
+            "jon snow",
+            "lead presenter"
+        ]
+    },
+    {
+        "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+        "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "'no point",
+            "russian president 's refusal",
+            "open letter"
         ]
     },
     {
@@ -780,16 +827,32 @@
         ]
     },
     {
-        "title": "Two weeks out from crucial Makerfield by-election, here's how the contest is shaping up",
-        "link": "https://www.bbc.com/news/articles/cg7p7nmj52jo?at_medium=RSS&at_campaign=rss",
-        "summary": "What stood out from the Question Time exchanges between candidates in the Makerfield by-election?",
+        "title": "Lady Pamela Hicks, former lady-in-waiting to Elizabeth II, dies aged 97",
+        "link": "https://www.bbc.com/news/articles/c0m2mj4gl1jo?at_medium=RSS&at_campaign=rss",
+        "summary": "In a post on Instagram, her daughter India described her mother as \"truly the last of her kind\".",
         "source": "BBC News",
-        "objectivity_score": 100,
+        "objectivity_score": 34,
+        "sentiment": "Positive",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "pamela hicks",
+            "elizabeth ii"
+        ]
+    },
+    {
+        "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+        "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+        "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
+        "source": "BBC News",
+        "objectivity_score": 18,
         "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "time exchanges"
+            "air leak repair attempt",
+            "russian attempt",
+            "repair tunnel area"
         ]
     },
     {
@@ -807,65 +870,35 @@
         ]
     },
     {
-        "title": "The deeply contentious debate around what it means to be English",
-        "link": "https://www.bbc.com/news/articles/c3626n0lgj3o?at_medium=RSS&at_campaign=rss",
-        "summary": "The debate about English identity has been a perennial one but has now taken on a harder edge",
+        "title": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
+        "link": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital.",
         "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 34,
         "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "contentious debate"
+            "six-day ordeal",
+            "dawa sherpa",
+            "world 's tallest mountain"
         ]
     },
     {
-        "title": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
-        "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
-        "source": "BBC News",
-        "objectivity_score": 75,
-        "sentiment": "Negative",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "strikes cargo ships",
-            "drone blast",
-            "key speech"
-        ]
-    },
-    {
-        "title": "Three admit violent disorder after Nowak protest",
-        "link": "https://www.bbc.com/news/articles/c1m2mxv0pzmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Connor Bishop, 24,  Reece Robinson, 21, and Noah Etherington, 18, will be sentenced on Monday.",
+        "title": "Two weeks out from crucial Makerfield by-election, here's how the contest is shaping up",
+        "link": "https://www.bbc.com/news/articles/cg7p7nmj52jo?at_medium=RSS&at_campaign=rss",
+        "summary": "What stood out from the Question Time exchanges between candidates in the Makerfield by-election?",
         "source": "BBC News",
         "objectivity_score": 100,
-        "sentiment": "Negative",
+        "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "violent disorder",
-            "connor bishop",
-            "reece robinson"
+            "time exchanges"
         ]
     },
     {
-        "title": "One in four births in England is now emergency caesarean, BBC analysis shows",
-        "link": "https://www.bbc.com/news/articles/cqxpxjrqd1po?at_medium=RSS&at_campaign=rss",
-        "summary": "The shift marks a significant rise over the last five years, but experts say there is no single, clear explanation for the increase.",
-        "source": "BBC News",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "emergency caesarean",
-            "analysis shows",
-            "significant rise"
-        ]
-    },
-    {
-        "title": "Two Romanians found guilty of stabbing Iranian opposition journalist",
+        "title": "Two Romanians guilty of stabbing journalist in UK on behalf of Iran",
         "link": "https://www.bbc.com/news/articles/czx2xn2gq65o?at_medium=RSS&at_campaign=rss",
         "summary": "Pouria Zeraati, who works for the channel Iran International, which is critical of the Iranian government, was stabbed three times in the leg.",
         "source": "BBC News",
@@ -874,8 +907,37 @@
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "opposition journalist",
-            "pouria zeraati"
+            "iran pouria zeraati"
+        ]
+    },
+    {
+        "title": "The story of Norway's Viking World Cup photoshoot",
+        "link": "https://www.bbc.com/sport/football/articles/cjdpd18xx5lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Renowned British photographer David Yarrow tells BBC Sport what inspired his viral Norway World Cup send-off photo.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "world cup photoshoot",
+            "british photographer",
+            "david yarrow"
+        ]
+    },
+    {
+        "title": "From Nescafe to Ted Lasso: Anthony Head's life in pictures",
+        "link": "https://www.bbc.com/news/articles/cy42428yx8go?at_medium=RSS&at_campaign=rss",
+        "summary": "Anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Positive",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "ted lasso",
+            "anthony head",
+            "'s life"
         ]
     },
     {
@@ -893,6 +955,19 @@
         ]
     },
     {
+        "title": "The deeply contentious debate around what it means to be English",
+        "link": "https://www.bbc.com/news/articles/c3626n0lgj3o?at_medium=RSS&at_campaign=rss",
+        "summary": "The debate about English identity has been a perennial one but has now taken on a harder edge",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "contentious debate"
+        ]
+    },
+    {
         "title": "Primavera fans react after headline acts Doja Cat and Massive Attack cancelled over weather",
         "link": "https://www.bbc.com/news/articles/cjepekw4yzwo?at_medium=RSS&at_campaign=rss",
         "summary": "Fans have expressed their confusion that no back-up plan was put in place at the festival in Barcelona.",
@@ -905,21 +980,6 @@
             "headline acts",
             "doja cat",
             "massive attack"
-        ]
-    },
-    {
-        "title": "The story of Norway's Viking World Cup photoshoot",
-        "link": "https://www.bbc.com/sport/football/articles/cjdpd18xx5lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Renowned British photographer David Yarrow tells BBC Sport what inspired his viral Norway World Cup send-off photo.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "world cup photoshoot",
-            "british photographer",
-            "david yarrow"
         ]
     },
     {
@@ -951,88 +1011,6 @@
         ]
     },
     {
-        "title": "Where does the Royal Family get its money from?",
-        "link": "https://www.bbc.com/news/articles/cwy5lzq94gqo?at_medium=RSS&at_campaign=rss",
-        "summary": "The language of Buckingham Palace's statement is \"very brutal\", royal historian Kelly Swaby tells the BBC.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Negative",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "royal family",
-            "palace 's statement",
-            "royal historian"
-        ]
-    },
-    {
-        "title": "Weekly quiz: What did Rosamund Pike say to the person using their phone during her play?",
-        "link": "https://www.bbc.com/news/articles/cd9p9njwpvyo?at_medium=RSS&at_campaign=rss",
-        "summary": "How much attention did you pay to what happened in the world over the past seven days?",
-        "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "rosamund pike"
-        ]
-    },
-    {
-        "title": "'Extremely intelligent' bear on the run in Japan after injuring four people",
-        "link": "https://www.bbc.com/news/videos/cx212p755z8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Authorities said that a bear in north-east Japan has eluded capture by opening a window.",
-        "source": "BBC News",
-        "objectivity_score": 90,
-        "sentiment": "Positive",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "'extremely"
-        ]
-    },
-    {
-        "title": "Teenagers found guilty of murdering 16-year-old Kayden Moy",
-        "link": "https://www.bbc.com/news/articles/cqxpx3y0g8zo?at_medium=RSS&at_campaign=rss",
-        "summary": "Two teenagers have been found guilty of the murder on a beach in Ayrshire last year.",
-        "source": "BBC News",
-        "objectivity_score": 68,
-        "sentiment": "Negative",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "kayden moy"
-        ]
-    },
-    {
-        "title": "By-election no stepping stone, Tory candidate says",
-        "link": "https://www.bbc.com/news/articles/c759pylgqero?at_medium=RSS&at_campaign=rss",
-        "summary": "Michael Winstanley said some Makerfield constituents felt they were being used as \"political pawns\".",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "michael winstanley",
-            "political pawns"
-        ]
-    },
-    {
-        "title": "King 'profoundly shocked' by navy helicopter deaths",
-        "link": "https://www.bbc.com/news/articles/c9q3qyqr5nno?at_medium=RSS&at_campaign=rss",
-        "summary": "Tributes continue to be paid to three crew members killed in a crash in Devon.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "navy helicopter deaths",
-            "crew members"
-        ]
-    },
-    {
         "title": "Paddleboard firm owner who caused four deaths has bid to cut sentence refused",
         "link": "https://www.bbc.com/news/articles/c9q3qew4rvwo?at_medium=RSS&at_campaign=rss",
         "summary": "Nerys Lloyd was sentenced to 10 years and six months for gross negligence manslaughter in April 2025.",
@@ -1048,18 +1026,76 @@
         ]
     },
     {
-        "title": "Donaldson trial hears pastor say it was 'obvious' who alleged abuser was",
-        "link": "https://www.bbc.com/news/articles/clypydwn402o?at_medium=RSS&at_campaign=rss",
-        "summary": "Sir Jeffrey Donaldson, the former DUP leader, is on trial for 18 sex abuse charges, including one count of rape, all of which he denies.",
+        "title": "World-first vaccine designed by AI could protect against whole families of viruses",
+        "link": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.",
         "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "whole families"
+        ]
+    },
+    {
+        "title": "Norway's crown princess on lung transplant waiting list, palace says",
+        "link": "https://www.bbc.com/news/articles/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Mette-Marit's condition, which stiffens the lungs, making it hard to breathe, has deteriorated, the royal household says.",
+        "source": "BBC News",
+        "objectivity_score": 54,
+        "sentiment": "Negative",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "'s crown princess",
+            "lung transplant",
+            "'s condition"
+        ]
+    },
+    {
+        "title": "Teenagers guilty of murdering 16-year-old Kayden Moy in beach attack",
+        "link": "https://www.bbc.com/news/articles/cqxpx3y0g8zo?at_medium=RSS&at_campaign=rss",
+        "summary": "The teenagers were found guilty of the murder after a row between rival groups on a beach in Ayrshire last year.",
+        "source": "BBC News",
+        "objectivity_score": 68,
+        "sentiment": "Negative",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "kayden moy",
+            "beach attack",
+            "rival groups"
+        ]
+    },
+    {
+        "title": "Three admit violent disorder after Nowak protest",
+        "link": "https://www.bbc.com/news/articles/c1m2mxv0pzmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Connor Bishop, 24,  Reece Robinson, 21, and Noah Etherington, 18, will be sentenced on Monday.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "violent disorder",
+            "connor bishop",
+            "reece robinson"
+        ]
+    },
+    {
+        "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
+        "link": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss",
+        "summary": "A public spending watchdog examines the property arrangements of royals including Andrew Mountbatten-Windsor.",
+        "source": "BBC News",
+        "objectivity_score": 6,
         "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "trial hears pastor",
-            "sir jeffrey donaldson",
-            "sex abuse charges"
+            "royal lodge cottages",
+            "watchdog reveals",
+            "watchdog examines"
         ]
     },
     {
@@ -1092,33 +1128,32 @@
         ]
     },
     {
-        "title": "Andy Burnham Says He Would Enter Labour Leadership Contest",
-        "link": "https://www.bbc.co.uk/sounds/play/p0nphd97?at_medium=RSS&at_campaign=rss",
-        "summary": "Adam and Chris react to Question Time in Makerfield",
+        "title": "Will This Be The Donald Trump World Cup? (With Football Daily, Part 1)",
+        "link": "https://www.bbc.co.uk/sounds/play/p0nq984k?at_medium=RSS&at_campaign=rss",
+        "summary": "And whats going on with the Infantino bromance?",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "andy burnham says",
-            "enter labour",
-            "contest adam"
+            "donald trump",
+            "world cup"
         ]
     },
     {
-        "title": "Does the US need new laws to protect elections?",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct8lz4?at_medium=RSS&at_campaign=rss",
-        "summary": "And, why does Donald Trump want to nationalise elections?",
+        "title": "Anthropic: AI could escape human control",
+        "link": "https://www.bbc.co.uk/sounds/play/p0nqck86?at_medium=RSS&at_campaign=rss",
+        "summary": "US firm proposes coordinated global slowdown on building advanced artificial intelligence",
         "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
+        "objectivity_score": 42,
+        "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "us need",
-            "new laws",
-            "donald trump"
+            "human control us firm",
+            "global slowdown",
+            "artificial intelligence"
         ]
     },
     {
@@ -1137,47 +1172,75 @@
         ]
     },
     {
-        "title": "The story of Norway's Viking World Cup photoshoot",
-        "link": "https://www.bbc.com/sport/football/articles/cjdpd18xx5lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Renowned British photographer David Yarrow tells BBC Sport what inspired his viral Norway World Cup send-off photo.",
+        "title": "England have huge chance amid more Lord's chaos",
+        "link": "https://www.bbc.com/sport/cricket/articles/c7595k67420o?at_medium=RSS&at_campaign=rss",
+        "summary": "England have a golden opportunity for victory in the first Test against New Zealand despite a chaotic collapse of 4-11 on the second day at Lords.",
+        "source": "BBC News",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "huge chance",
+            "lord 's chaos",
+            "golden opportunity"
+        ]
+    },
+    {
+        "title": "O'Neill set to stay on as Celtic manager",
+        "link": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Martin O'Neill will continue as Celtic manager after leading the side to a Premiership and Scottish Cup double.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "world cup photoshoot",
-            "british photographer",
-            "david yarrow"
+            "martin o'neill",
+            "scottish cup double"
         ]
     },
     {
-        "title": "Golf pals defy 17m-to-one odds with holes-in-one",
-        "link": "https://www.bbc.com/sport/golf/articles/c0j2je3wq56o?at_medium=RSS&at_campaign=rss",
-        "summary": "Rob Davis said it \"was surreal\" to see both balls in the hole after he and long-time playing partner David Lewis hit aces in the same round on the 15th hole at Royal Liverpool.",
+        "title": "Cobolli through to French Open final as Arnaldi withdraws with virus",
+        "link": "https://www.bbc.com/sport/tennis/articles/c202083pd5do?at_medium=RSS&at_campaign=rss",
+        "summary": "Flavio Cobolli is through to the French Open final as Matteo Arnaldi withdraws before their semi-final with a virus.",
         "source": "BBC News",
         "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "golf pals defy 17m-to-one odds",
-            "rob davis",
-            "david lewis"
+            "flavio cobolli",
+            "french open",
+            "matteo arnaldi"
         ]
     },
     {
-        "title": "Gay makes half-century on England debut",
-        "link": "https://www.bbc.com/sport/cricket/videos/cj3p32zddreo?at_medium=RSS&at_campaign=rss",
-        "summary": "Watch the best shots from England debutant Emilio Gay's half-century on day two of their Test match against New Zealand.",
+        "title": "Hamilton fastest but Leclerc expects 'tight qualifying'",
+        "link": "https://www.bbc.com/sport/formula1/articles/clypyggd9g2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Lewis Hamilton sets the pace as Ferrari dominate Friday practice at the Monaco Grand Prix.",
         "source": "BBC News",
-        "objectivity_score": 48,
+        "objectivity_score": 64,
         "sentiment": "Positive",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "emilio gay",
-            "'s half-century"
+            "lewis hamilton"
+        ]
+    },
+    {
+        "title": "17 wickets fall as England take control on another action-packed day",
+        "link": "https://www.bbc.com/sport/cricket/videos/cy52vpr9gqgo?at_medium=RSS&at_campaign=rss",
+        "summary": "England have a golden opportunity for victory in the first Test against New Zealand despite a chaotic collapse of four wickets for one run in 11 balls on the second day at Lord's.",
+        "source": "BBC News",
+        "objectivity_score": 32,
+        "sentiment": "Positive",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "wickets fall",
+            "golden opportunity",
+            "chaotic collapse"
         ]
     },
     {
@@ -1195,7 +1258,7 @@
         ]
     },
     {
-        "title": "Hopes of Lebanon Cease-fire Falter as Israel and Hezbollah Fight On",
+        "title": "Hopes of Lebanon Cease-Fire Falter as Israel and Hezbollah Fight On",
         "link": "https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html",
         "summary": "The U.S.-brokered agreement requires Hezbollah, which Iran backs, to stop firing first. But the group, not party to the talks, rejected the conditions as a virtual surrender.",
         "source": "NYT > World News",
@@ -1268,6 +1331,35 @@
         ]
     },
     {
+        "title": "France Opens Investigation Into Israeli Treatment of Pro-Palestinian Flotilla Activists",
+        "link": "https://www.nytimes.com/2026/06/05/world/europe/france-israel-flotilla-activists.html",
+        "summary": "Activists who were detained with a flotilla trying to reach the Gaza Strip have said they were abused while in Israels custody. Israeli authorities have denied mistreating them.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "france opens",
+            "pro-palestinian flotilla activists activists"
+        ]
+    },
+    {
+        "title": "A Question Swirling Around Putin\u2019s Big Conference: Could the War End?",
+        "link": "https://www.nytimes.com/2026/06/05/world/europe/putin-war-st-petersburg-economic-forum.html",
+        "summary": "At the St. Petersburg economic forum, business and political elites said Russia faced a choice of halting the conflict or sacrificing more. Vladimir Putin seemed to signal more war.",
+        "source": "NYT > World News",
+        "objectivity_score": 27,
+        "sentiment": "Positive",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "swirling around putin",
+            "big conference",
+            "war end"
+        ]
+    },
+    {
         "title": "On Patrol With Tokyo\u2019s New Litter Police",
         "link": "https://www.nytimes.com/2026/06/05/world/asia/japan-tokyo-littering-fines.html",
         "summary": "Visitor numbers to Shibuya are surging and trash cans are scarce. Enter the city patrol.",
@@ -1279,6 +1371,20 @@
         "keywords": [
             "trash cans",
             "city patrol"
+        ]
+    },
+    {
+        "title": "What To Know as China\u2019s Xi Jinping Heads to North Korea",
+        "link": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
+        "summary": "As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "xi jinping heads",
+            "xi jinping"
         ]
     },
     {
@@ -1294,20 +1400,6 @@
             "europe needs",
             "new military alliance",
             "defend itself"
-        ]
-    },
-    {
-        "title": "What To Know as China\u2019s Xi Jinping Heads to North Korea",
-        "link": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
-        "summary": "As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "xi jinping heads",
-            "xi jinping"
         ]
     },
     {
@@ -1341,21 +1433,6 @@
         ]
     },
     {
-        "title": "Ireland, Seen as a Weak Link in Europe\u2019s Defense, Is Trying to Bulk Up",
-        "link": "https://www.nytimes.com/2026/06/04/world/europe/ireland-defense.html",
-        "summary": "As concern rises in Europe over threats from an emboldened Russia, the Irish government says its working to plug gaps in its military, which reflect a tradition of neutrality.",
-        "source": "NYT > World News",
-        "objectivity_score": 24,
-        "sentiment": "Negative",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "weak link",
-            "\u2019 s defense",
-            "bulk up"
-        ]
-    },
-    {
         "title": "Amid War, Iran\u2019s Soccer Leader Works to Get His Team to the World Cup",
         "link": "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html",
         "summary": "Mehdi Taj said his federation has been dealing with FIFA, not the United States, in trying to obtain visas for Iran to play in the tournament that begins next week.",
@@ -1370,18 +1447,33 @@
         ]
     },
     {
-        "title": "Can Abelardo De La Espriella, a U.S. Citizen, Become Colombia\u2019s President?",
-        "link": "https://www.nytimes.com/2026/06/04/world/americas/colombia-president-de-la-espriella-us-citizen.html",
-        "summary": "President Trump this week endorsed the right-wing candidate, Abelardo De La Espriella, a dual citizen of Colombia and the United States, in Colombias presidential runoff.",
+        "title": "A Sherpa Survived 6 Days Alone on Everest. His Family Says He Was Abandoned.",
+        "link": "https://www.nytimes.com/2026/06/05/world/asia/missing-sherpa-mount-everest-found.html",
+        "summary": "Dawa Sherpa, 57, was found alive on Thursday, nearly a week after he was last seen on the mountain. His wife says more could have been done to find him sooner.",
         "source": "NYT > World News",
-        "objectivity_score": 0,
+        "objectivity_score": 34,
+        "sentiment": "Positive",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "sherpa survived",
+            "was abandoned",
+            "dawa sherpa"
+        ]
+    },
+    {
+        "title": "Crown Princess Mette-Marit of Norway Is Placed on Lung Transplant List",
+        "link": "https://www.nytimes.com/2026/06/05/world/europe/norway-princess-lung-transplant.html",
+        "summary": "News of Crown Princess Mette-Marits worsening condition comes as a number of scandals have plunged the royal family into a deep crisis.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "abelardo de la espriella",
-            "u.s. citizen",
-            "become colombia"
+            "lung transplant list",
+            "royal family",
+            "deep crisis"
         ]
     },
     {
@@ -1499,35 +1591,6 @@
         "keywords": [
             "big names",
             "french open"
-        ]
-    },
-    {
-        "title": "Nose Gear on Boeing 787-9 Dreamliner Collapses, Injuring Several Workers",
-        "link": "https://www.nytimes.com/2026/06/04/world/europe/boeing-plane-nose-gear-collapse-frankfurt.html",
-        "summary": "The airline Lufthansa said the cause of the accident at Frankfurt Airport was under investigation. The plane can weigh 279 tons at takeoff.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "nose gear",
-            "dreamliner collapses"
-        ]
-    },
-    {
-        "title": "As Trump Toughens Rules on Cuba\u2019s Economy, Hotel Chains Withdraw",
-        "link": "https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html",
-        "summary": "The Trump administrations efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.",
-        "source": "NYT > World News",
-        "objectivity_score": 23,
-        "sentiment": "Positive",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "trump toughens",
-            "chains withdraw",
-            "administrations efforts"
         ]
     },
     {
@@ -1756,6 +1819,21 @@
         ]
     },
     {
+        "title": "Australian housing was already cooling before the budget \u2013 but how cold it gets depends on two key factors",
+        "link": "https://www.theguardian.com/australia-news/2026/jun/06/australia-housing-house-prices-supply-before-budget-after-cgt-capital-gains-tax-negative-gearing-changes",
+        "summary": "Most economists believe the chronic undersupply of homes will eventually push prices higher once interest rates ease and the tax changes are priced inGet our breaking news email, free app or daily new...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "budget \u2013",
+            "key factors",
+            "interest rates"
+        ]
+    },
+    {
         "title": "One Nation, six farcical explanations and no clearer understanding of its housing policy",
         "link": "https://www.theguardian.com/australia-news/2026/jun/05/one-nation-pauline-hanson-housing-policy-ntwnfb",
         "summary": "Hansons party is leading in the polls, but it has a long way to go before being recognised as a serious political outfitGet our breaking news email, free app or daily news podcastWhen sent out to do a...",
@@ -1816,33 +1894,63 @@
         ]
     },
     {
-        "title": "Tech companies invoke possibility of Trump\u2019s wrath in fight against Labor\u2019s media laws",
-        "link": "https://www.theguardian.com/australia-news/2026/jun/05/tech-companies-industry-fight-against-australia-labor-news-bargaining-incentive-media-laws",
-        "summary": "Tech giants claim Australias free trade agreement with US will be violated as they try to kill a proposal to force them to pay news companiesFollow our Australia news live blog for latest updatesGet o...",
+        "title": "Putin rejects Zelenskyy\u2019s offer to meet and reaffirms Ukraine war aims",
+        "link": "https://www.theguardian.com/world/2026/jun/05/putin-rejects-zelenskyys-offer-to-meet-and-reaffirms-ukraine-war-aims",
+        "summary": "Russian president describes Ukrainian counterparts letter as rude and says he sees no point in face-to-face talksVladimir Putin has rejected an offer from Volodymyr Zelenskyy to hold a face-to-face me...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Positive",
+        "objectivity_score": 48,
+        "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "companies invoke possibility",
-            "\u2019 s wrath",
-            "labor \u2019 s media laws"
+            "war aims",
+            "russian president",
+            "counterparts letter"
         ]
     },
     {
-        "title": "Outrage in Albania over Kushner-Trump $1.6bn luxury resort plan \u2013 The Latest",
+        "title": "Outrage in Albania over Kushner-Trump $1.6bn luxury resort \u2013 The Latest",
         "link": "https://www.theguardian.com/world/audio/2026/jun/05/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
-        "summary": "Thousands have protested in the capital, Tirana, this week against a planned luxury resort backed by Donald Trumps daughter Ivanka and his son-in-law Jared Kushner.Groundwork has begun on the $1.6bn c...",
+        "summary": "Thousands have protested in the streets of the Albanian capital, Tirana, this week against a planned luxury resort backed by Donald Trumps son-in-law Jared Kushner.Groundwork has begun on the $1.6bn c...",
         "source": "World news | The Guardian",
         "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "$ 1.6bn luxury resort plan \u2013",
+            "$ 1.6bn luxury resort \u2013",
             "luxury resort",
             "donald trumps"
+        ]
+    },
+    {
+        "title": "Scientists make sourdough bread using yeast found in 5,000-year-old mummy",
+        "link": "https://www.theguardian.com/science/2026/jun/05/scientists-sourdough-bread-yeast-strains-mummy",
+        "summary": "Team now plans to see if they can use yeast strains harvested from tzi the Iceman to brew beer tooScientists have baked a sourdough loaf of bread using yeast strains harvested from a 5,000-year-old mu...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 59,
+        "sentiment": "Positive",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "sourdough bread",
+            "5,000-year-old mummy",
+            "yeast strains"
+        ]
+    },
+    {
+        "title": "EU must prove it is capable and willing to take in new members, leaders say",
+        "link": "https://www.theguardian.com/world/2026/jun/05/eu-new-members-bloc-leaders-summit-enlargement",
+        "summary": "Von der Leyen tells Balkans summit that bloc needs to make enlargement process faster and more credibleThe EU must prove its willingness and ability to take in new members and speed up its enlargement...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 41,
+        "sentiment": "Positive",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "new members",
+            "bloc needs",
+            "enlargement process"
         ]
     },
     {
@@ -1861,48 +1969,18 @@
         ]
     },
     {
-        "title": "UK-EU \u2018reset\u2019 summit may still happen next month despite delay speculation",
-        "link": "https://www.theguardian.com/world/2026/jun/05/uk-eu-reset-summit-july-delay-speculation",
-        "summary": "EUs Maro efovi says summit will probably be in July but sources say it could be put back as talks deadlockedUK politics live  latest updatesThe EU has said Keir Starmers upcoming summit resetting the ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "\u2018 reset \u2019 summit",
-            "delay speculation",
-            "eus maro"
-        ]
-    },
-    {
-        "title": "Dua Lipa and Callum Turner wedding divides Palermo: \u2018I could understand if it was for the pope\u2019",
-        "link": "https://www.theguardian.com/music/2026/jun/05/dua-lipa-callum-turner-wedding-divides-palermo",
-        "summary": "While some residents are proud to host celebrations, others lament road closures and citys transformation into a theme parkConcetta Chillemi was chatting to friends outside her shop next to Palermos g...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "dua lipa",
-            "callum turner",
-            "wedding divides"
-        ]
-    },
-    {
-        "title": "William Hill owner agrees \u00a3243m takeover by Greek casino and lottery firm",
-        "link": "https://www.theguardian.com/business/2026/jun/05/william-hill-owner-agrees-evoke-takeover-greek-casino-lottery-firm",
-        "summary": "Evoke had been in talks for two months with Ballys Intralot, which has extensive international operationsThe owner of William Hill and the 888 online casino brand has agreed a 243m takeover by the Gre...",
+        "title": "Israel strikes southern Lebanon after ordering evacuations of nine villages",
+        "link": "https://www.theguardian.com/world/2026/jun/05/israel-strikes-southern-lebanon-evacuations-nine-villages",
+        "summary": "Thousands flee including from village hosting at least 2,500 displaced people, one day after Hezbollah rejects ceasefireThousands fled their homes after Israel issued forced evacuation orders for nine...",
         "source": "World news | The Guardian",
         "objectivity_score": 16,
-        "sentiment": "Neutral",
+        "sentiment": "Negative",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "william hill",
-            "owner agrees \u00a3243m takeover",
-            "greek casino"
+            "strikes southern",
+            "villages thousands flee",
+            "rejects ceasefirethousands"
         ]
     },
     {
@@ -1963,21 +2041,6 @@
             "ground operation",
             "ceasefire \u2013",
             "story herethe commander"
-        ]
-    },
-    {
-        "title": "Hezbollah rejects Israel-Lebanon truce as Trump scrambles to end Iran war",
-        "link": "https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us",
-        "summary": "Group calls ceasefire a roadmap to annihilate part of the Lebanese people, throwing regional peace talks into doubtHezbollah has rejected a US-brokered ceasefire plan agreed by the Lebanese and Israel...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 12,
-        "sentiment": "Neutral",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "war group calls ceasefire",
-            "annihilate part",
-            "regional peace"
         ]
     },
     {
@@ -2056,108 +2119,78 @@
         ]
     },
     {
-        "title": "Downing Street rejects US claim of \u2018two-tiered policing\u2019 over Henry Nowak death - UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/jun/05/keir-starmer-andy-burnham-labour-leadership-rivals-makerfield-byelection-latest-news-updates",
-        "summary": "PMs spokesperson also dismissed remarks from Kemi Badenoch, who suggested the identity politics could lead to civil warA former chair of an influential parliamentary committee said it was shocking tha...",
+        "title": "Starmer suggests US \u2018trying to interfere in our democracy\u2019 over Nowak claims",
+        "link": "https://www.theguardian.com/politics/2026/jun/05/keir-starmer-questions-henry-nowak-case-two-tier-policing-claim",
+        "summary": "Prime ministers office responds after JD Vance blames British teenagers death on mass migrationKeir Starmer has suggested the US is trying to interfere in British democracy after JD Vance, the US vice...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
+        "objectivity_score": 18,
         "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "street rejects us claim",
-            "henry nowak",
-            "kemi badenoch"
+            "suggests us \u2018",
+            "democracy \u2019",
+            "ministers office responds"
         ]
     },
     {
-        "title": "Man jailed over 2003 Salford rape for which Andrew Malkinson was wrongly imprisoned",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/05/paul-quinn-jailed-2003-salford-rape-andrew-malkinson-wrongly-imprisoned",
-        "summary": "Paul Quinn, 52, to serve up to 21 years for attack that led to one of worst miscarriages of justice in modern British historyA man who evaded justice for nearly two decades has been jailed for 21 year...",
+        "title": "Thames Water should be nationalised, says Andy Burnham",
+        "link": "https://www.theguardian.com/politics/2026/jun/05/thames-water-should-be-nationalised-andy-burnham",
+        "summary": "Exclusive: Labours Makerfield byelection candidate advocates public ownership of water companies as he prepares for potential leadership bidThames Water should be nationalised, Andy Burnham has said, ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 62,
-        "sentiment": "Negative",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "andrew malkinson",
-            "paul quinn",
-            "modern british historya man"
-        ]
-    },
-    {
-        "title": "Trump lawyers refuse to reveal financial information to BBC in defamation case",
-        "link": "https://www.theguardian.com/media/2026/jun/05/donald-trump-lawyers-refuse-reveal-financial-information-bbc-defamation-case",
-        "summary": "Request for evidence to support claims of reputational and financial harm from Panorama documentary dismissed as fishing expeditionDonald Trumps legal team has rejected a request by the BBC to hand ov...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 2,
+        "objectivity_score": 54,
         "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "lawyers refuse",
-            "financial information",
-            "defamation case"
+            "andy burnham exclusive",
+            "labours makerfield",
+            "byelection candidate advocates"
         ]
     },
     {
-        "title": "No 10 dismisses US claim of \u2018two-tier\u2019 UK policing after Henry Nowak murder",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/05/us-government-criticises-two-tier-uk-policing-henry-nowak",
-        "summary": "Downing Street says it does not share state departments view, which Lib Dems condemn as flagrant interferenceUK politics live  latest updatesNo 10 has dismissed the Trump administrations criticism of ...",
+        "title": "Two men convicted of wounding journalist in London \u2018on orders of Iran\u2019",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/05/two-men-convicted-of-wounding-journalist-on-orders-of-iran",
+        "summary": "Pouria Zeraati of Iran International TV was stabbed three times outside his London home in attempt to silence himTwo men have been found guilty of involvement in a targeted knife attack on an Iranian ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 63,
-        "sentiment": "Positive",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "dismisses us claim",
-            "\u2018 two-tier \u2019",
-            "henry nowak"
-        ]
-    },
-    {
-        "title": "What National Audit Office report reveals about royals\u2019 property affairs",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/05/national-audit-office-report-royals-property-affairs-king-charles-andrew",
-        "summary": "King footing bill for Beatrice and Eugenie, and Duke and Duchess of Edinburgh subletting among findingsA report that revealed Andrew Mountbatten-Windsor received undisclosed private income from sublet...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 18,
         "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "office report reveals",
-            "royals \u2019 property affairs king",
-            "findingsa report"
+            "pouria zeraati",
+            "international tv",
+            "silence himtwo men"
         ]
     },
     {
-        "title": "Senate Republicans pass bill authorizing $70bn for immigration enforcement in vote-a-rama \u2013 US politics live",
-        "link": "https://www.theguardian.com/us-news/live/2026/jun/05/us-politics-latest-news-updates-donald-trump-republicans-democrats",
-        "summary": "Republican senator Lindsey Graham said he was very proud of my Republican colleagues for making sure that Border Patrol and ICE are fully fundedSign up for the Breaking News US emailDonald Trump is up...",
+        "title": "Former Channel 4 News anchor Jon Snow diagnosed with Alzheimer\u2019s",
+        "link": "https://www.theguardian.com/media/2026/jun/05/former-channel-4-news-anchor-jon-snow-diagnosed-with-alzheimers",
+        "summary": "Long-serving presenter talks about diagnosis in investigative documentary to be broadcast on 20 JuneThe former Channel 4 News anchor Jon Snow has been diagnosed with Alzheimers disease, the most commo...",
         "source": "World news | The Guardian",
-        "objectivity_score": 59,
-        "sentiment": "Positive",
-        "date": "2026-06-05",
-        "image_url": null,
-        "keywords": [
-            "$ 70bn",
-            "immigration enforcement",
-            "vote-a-rama \u2013 us politics"
-        ]
-    },
-    {
-        "title": "International Space Station astronauts under evacuation orders over air leak",
-        "link": "https://www.theguardian.com/science/2026/jun/05/international-space-station-astronauts-under-evacuation-orders",
-        "summary": "Nasa says Russian crew trying to fix worsening air leak in its portion of orbital laboratoryInternational Space Station air leak: latest updatesAstronauts onboard the International Space Station have ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 23,
+        "objectivity_score": 15,
         "sentiment": "Neutral",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "international space station astronauts",
-            "evacuation orders",
-            "air leak"
+            "news anchor",
+            "jon snow",
+            "investigative documentary"
+        ]
+    },
+    {
+        "title": "Chagossians urge UK to complete islands\u2019 handover to Mauritius",
+        "link": "https://www.theguardian.com/world/2026/jun/05/chagossians-urge-uk-to-complete-islands-handover-to-mauritius",
+        "summary": "Delegation of Chagos refugees visiting Britain says issue has been hijacked within the halls of politicsA Chagossian delegation visiting the UK has urged parliamentarians to complete stalled legislati...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "complete islands \u2019 handover",
+            "mauritius delegation",
+            "politics.the six-person contingent"
         ]
     },
     {
@@ -2176,33 +2209,63 @@
         ]
     },
     {
-        "title": "Senate blocks surveillance bill in dispute over Trump\u2019s intelligence pick",
-        "link": "https://www.theguardian.com/us-news/2026/jun/05/senate-blocks-surveillance-program-trump-bill-pulte",
-        "summary": "Seven Republican senators joined Democrats to block Fisa extension amid disquiet over nomination of Bill PulteUS politics live  latest updatesSeven Republican senators joined Democrats early on Friday...",
+        "title": "Trump confirms telling Bill Pulte to fire intelligence community employees \u2013 live",
+        "link": "https://www.theguardian.com/us-news/live/2026/jun/05/us-politics-latest-news-updates-donald-trump-republicans-democrats",
+        "summary": "Asked about media report that new acting intelligence director has been told to make significant personnel changes, Trump claims staffing was way too highSign up for the Breaking News US emailNine out...",
         "source": "World news | The Guardian",
-        "objectivity_score": 53,
+        "objectivity_score": 41,
         "sentiment": "Positive",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "senate blocks surveillance bill",
-            "\u2019 s intelligence",
-            "bill pulteus"
+            "bill pulte",
+            "fire intelligence community employees \u2013",
+            "media report"
         ]
     },
     {
-        "title": "Red states push conservative rebrands of Pride month in backlash to LGBTQ+ celebrations",
-        "link": "https://www.theguardian.com/us-news/2026/jun/05/conservative-states-rebrand-pride-month-backlash",
-        "summary": "Republican states rebrand June as nuclear family month or fidelity month in latest attack on LGBTQ+ communitiesJune is widely marked as gay Pride month  when LGBTQ+ communities march to protest discri...",
+        "title": "Trump urges pick for top intelligence official to fire \u2018a lot of people\u2019",
+        "link": "https://www.theguardian.com/us-news/2026/jun/05/senate-blocks-surveillance-program-trump-bill-pulte",
+        "summary": "President said hed like to see intelligence agencies shrink as Senate blocks Fisa extension amid disquiet over nomination of Bill PulteUS politics live  latest updatesDonald Trump has urged a controve...",
         "source": "World news | The Guardian",
-        "objectivity_score": 49,
+        "objectivity_score": 57,
         "sentiment": "Positive",
         "date": "2026-06-05",
         "image_url": null,
         "keywords": [
-            "red states",
-            "conservative rebrands",
-            "pride month"
+            "top intelligence",
+            "fire \u2018",
+            "people \u2019 president"
+        ]
+    },
+    {
+        "title": "Memo orders ICE to stop reporting deaths of newly released detainees",
+        "link": "https://www.theguardian.com/us-news/2026/jun/05/ice-deaths-data-memo",
+        "summary": "Acting director David Venturella rescinds Biden-era policy that required agency to report and investigate such deathsA memo issued by the acting Immigration and Customs Enforcement (ICE) director, Dav...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Positive",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "david venturella",
+            "such deathsa memo",
+            "customs enforcement"
+        ]
+    },
+    {
+        "title": "No court has authority to block Trump\u2019s White House ballroom, DoJ lawyer says",
+        "link": "https://www.theguardian.com/us-news/2026/jun/05/doj-trump-white-house-ballroom",
+        "summary": "Trump administration has asked DC circuit court of appeals to reverse lower court decision which blocked construction of $400m ballroomNo court has the authority to halt construction of Donald Trumps ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
+        "date": "2026-06-05",
+        "image_url": null,
+        "keywords": [
+            "white house ballroom",
+            "circuit court",
+            "court decision"
         ]
     }
 ]
