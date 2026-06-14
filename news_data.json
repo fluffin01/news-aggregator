@@ -737,9 +737,24 @@
         ]
     },
     {
+        "title": "UK armed forces board Russian shadow fleet oil tanker in English Channel, PM says",
+        "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Royal Marine Commandos and NCA officers boarded the vessel in a six-hour operation in the early hours of Sunday.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "forces board",
+            "russian shadow fleet oil tanker",
+            "royal marine"
+        ]
+    },
+    {
         "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
         "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+        "summary": "The US president's comments come as Iran says an exact date has not been decided.",
         "source": "BBC News",
         "objectivity_score": 25,
         "sentiment": "Positive",
@@ -749,19 +764,6 @@
             "casts doubt",
             "us president 's comments",
             "exact date"
-        ]
-    },
-    {
-        "title": "Resident doctors cancel strike after new offer from government",
-        "link": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
-        "summary": "The walkout had been due to start at 07:00 BST on Monday and last until Friday.",
-        "source": "BBC News",
-        "objectivity_score": 29,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "resident"
         ]
     },
     {
@@ -780,20 +782,6 @@
         ]
     },
     {
-        "title": "Jarvis says Labour must 'meet the moment' on defence spending",
-        "link": "https://www.bbc.com/news/articles/c4gyx962pepo?at_medium=RSS&at_campaign=rss",
-        "summary": "The new defence secretary tells the Sunday Telegraph he is determined to ensure the military gets \"what they need\".",
-        "source": "BBC News",
-        "objectivity_score": 27,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "defence spending",
-            "new defence secretary"
-        ]
-    },
-    {
         "title": "Norway braces for verdict in rape trial of crown princess's son H\u00f8iby",
         "link": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&at_campaign=rss",
         "summary": "Marius Borg Hiby will appear via video link, almost three months after his trial came to an end on 40 charges, including four counts of rape.",
@@ -809,32 +797,58 @@
         ]
     },
     {
-        "title": "McGinn 'beaming with pride' - and hopes kids around Scotland are too",
-        "link": "https://www.bbc.com/sport/football/articles/cy06p3xke5lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Scotland's John McGinn says his \"scuffed\" goal which downed Haiti in their World Cup opener leaves him \"beaming with pride\".",
+        "title": "Two men charged over theft of England World Cup kit",
+        "link": "https://www.bbc.com/sport/football/articles/cm2r35lk8ejo?at_medium=RSS&at_campaign=rss",
+        "summary": "Two men are charged for stealing $18,000 worth of property from England at their Kansas City training base.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 55,
+        "sentiment": "Negative",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "john mcginn",
-            "world cup opener leaves"
+            "world cup kit",
+            "city training base"
         ]
     },
     {
-        "title": "The trauma and hope behind Haiti's rare World Cup appearance",
-        "link": "https://www.bbc.com/sport/football/articles/c23yvvv7kr3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Haiti's first appearance at a men's World Cup for 52 years is as much about hope as it is goals for the conflict-torn nation.",
+        "title": "Jubilation as Scotland fans celebrate win",
+        "link": "https://www.bbc.com/news/articles/c78yxr7dl3mo?at_medium=RSS&at_campaign=rss",
+        "summary": "Supporters gathered in bars and venues across the country in the early hours to watch the match against Haiti.",
         "source": "BBC News",
-        "objectivity_score": 53,
-        "sentiment": "Neutral",
+        "objectivity_score": 35,
+        "sentiment": "Positive",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "rare world cup appearance",
-            "men 's world cup",
-            "conflict-torn nation"
+            "early hours"
+        ]
+    },
+    {
+        "title": "What does 1-0 win mean for Scotland's chances of qualification?",
+        "link": "https://www.bbc.com/sport/football/articles/cvglm8n1nyjo?at_medium=RSS&at_campaign=rss",
+        "summary": "With eight third-place finishers advancing to the last 32, might three points be enough for Scotland to make history?",
+        "source": "BBC News",
+        "objectivity_score": 41,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "'s chances",
+            "third-place finishers"
+        ]
+    },
+    {
+        "title": "Smaller than Isle of Man & huge Dutch influence: Curacao making history",
+        "link": "https://www.bbc.com/sport/football/articles/cn7p0d1mdrzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Curacao has possibly been most famous for its alcoholic drink of the same name - but now the nation is ready to announce itself at the World Cup.",
+        "source": "BBC News",
+        "objectivity_score": 62,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "alcoholic drink",
+            "world cup"
         ]
     },
     {
@@ -850,6 +864,35 @@
             "vinicius jr",
             "vinicius jr",
             "wonder goal"
+        ]
+    },
+    {
+        "title": "Remarkable story of refugee who quit Bayern and became Australia's record-breaker",
+        "link": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Nestory Irankunda was born as a refugee in Tanzania before becoming Australian record breaker with goal in victory over Turkey.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "remarkable story",
+            "'s record-breaker",
+            "nestory irankunda"
+        ]
+    },
+    {
+        "title": "Why Haiti v Scotland was antidote to the ills of world football",
+        "link": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
+        "summary": "It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "world football",
+            "tom english"
         ]
     },
     {
@@ -897,6 +940,21 @@
         ]
     },
     {
+        "title": "How Myles Smith turned five years of therapy notes into a debut album",
+        "link": "https://www.bbc.com/news/articles/c1dy5xvwrgvo?at_medium=RSS&at_campaign=rss",
+        "summary": "The singer songwriter's first collection is inspired by the experiences that shaped him before he was famous.",
+        "source": "BBC News",
+        "objectivity_score": 66,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "myles smith",
+            "debut album",
+            "singer songwriter 's"
+        ]
+    },
+    {
         "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
         "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
         "summary": "A niche group of content creators called \"virtual parents\" have become hugely popular among young people.",
@@ -909,49 +967,6 @@
             "'s parents 'never",
             "middle-aged couple online",
             "niche group"
-        ]
-    },
-    {
-        "title": "As Trump turns 80, what's it really like to work as an octogenarian?",
-        "link": "https://www.bbc.com/news/articles/cm20vyxppneo?at_medium=RSS&at_campaign=rss",
-        "summary": "As President Donald Trump celebrates his birthday, we ask people who have worked into their 80s themselves about what it takes to keep going.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Positive",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "donald trump"
-        ]
-    },
-    {
-        "title": "How Myles Smith turned five years of therapy notes into a debut album",
-        "link": "https://www.bbc.com/news/articles/c1dy5xvwrgvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Myles Smith's debut album looks back at the experiences that shaped him pre-fame.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "myles smith",
-            "debut album",
-            "myles smith"
-        ]
-    },
-    {
-        "title": "For your ears only: How music brought the new James Bond game to life",
-        "link": "https://www.bbc.com/news/articles/cy8wn864q46o?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC went behind the scenes as the score for the blockbuster James Bond video game was recorded.",
-        "source": "BBC News",
-        "objectivity_score": 59,
-        "sentiment": "Negative",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "james bond",
-            "james bond",
-            "video game"
         ]
     },
     {
@@ -970,31 +985,60 @@
         ]
     },
     {
-        "title": "The nuclear challenge at the heart of Trump's Iran negotiations",
-        "link": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
-        "summary": "US officials say the deal will lead to the destruction of Iran's enriched uranium, but details are still to be worked out.",
+        "title": "For your ears only: How music brought the new James Bond game to life",
+        "link": "https://www.bbc.com/news/articles/cy8wn864q46o?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC went behind the scenes as the score for the blockbuster James Bond video game was recorded.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "nuclear challenge",
-            "negotiations us officials"
-        ]
-    },
-    {
-        "title": "In pictures: Trooping the Colour marks King's official birthday",
-        "link": "https://www.bbc.com/news/articles/cpv3mmlg872o?at_medium=RSS&at_campaign=rss",
-        "summary": "The King and Queen were cheered on as they rode along The Mall towards Horseguard's Parade.",
-        "source": "BBC News",
-        "objectivity_score": 23,
+        "objectivity_score": 59,
         "sentiment": "Negative",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "marks king 's",
-            "official birthday"
+            "james bond",
+            "james bond",
+            "video game"
+        ]
+    },
+    {
+        "title": "As Trump turns 80, what's it really like to work as an octogenarian?",
+        "link": "https://www.bbc.com/news/articles/cm20vyxppneo?at_medium=RSS&at_campaign=rss",
+        "summary": "As President Donald Trump celebrates his birthday, we ask people who have worked into their 80s themselves about what it takes to keep going.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "donald trump"
+        ]
+    },
+    {
+        "title": "Why the US economy keeps defying the odds",
+        "link": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
+        "summary": "Why has the American economy continued to outperform so many of its peers, despite facing the same global shocks?",
+        "source": "BBC News",
+        "objectivity_score": 15,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "us economy",
+            "american economy",
+            "global shocks"
+        ]
+    },
+    {
+        "title": "Jarvis says Labour must 'meet the moment' on defence spending",
+        "link": "https://www.bbc.com/news/articles/c4gyx962pepo?at_medium=RSS&at_campaign=rss",
+        "summary": "The new defence secretary tells the Sunday Telegraph he is determined to ensure the military gets \"what they need\".",
+        "source": "BBC News",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "defence spending",
+            "new defence secretary"
         ]
     },
     {
@@ -1013,20 +1057,6 @@
         ]
     },
     {
-        "title": "Does the UK have a blind spot on UFO sightings?",
-        "link": "https://www.bbc.com/news/articles/c3929kk7gdjo?at_medium=RSS&at_campaign=rss",
-        "summary": "A campaigner is calling on the government to resume investigations into alleged encounters.",
-        "source": "BBC News",
-        "objectivity_score": 38,
-        "sentiment": "Negative",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "blind spot",
-            "resume investigations"
-        ]
-    },
-    {
         "title": "The Papers:  'PM overrules Miliband' and 'We was robbed!'",
         "link": "https://www.bbc.com/news/articles/c1lyvq4gqg1o?at_medium=RSS&at_campaign=rss",
         "summary": "Sunday's papers lead with stories including the prime minister's plans for the electric vehicle mandate.",
@@ -1039,6 +1069,19 @@
             "'pm overrules",
             "'s papers lead",
             "prime minister 's plans"
+        ]
+    },
+    {
+        "title": "Resident doctors cancel strike after new offer from government",
+        "link": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The walkout had been due to start at 07:00 BST on Monday and last until Friday.",
+        "source": "BBC News",
+        "objectivity_score": 29,
+        "sentiment": "Neutral",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "resident"
         ]
     },
     {
@@ -1057,66 +1100,50 @@
         ]
     },
     {
-        "title": "Canadian Prime Minister Mark Carney 'back home' on two-day visit to Ireland",
-        "link": "https://www.bbc.com/news/articles/cx2xpv8v7v9o?at_medium=RSS&at_campaign=rss",
-        "summary": "He, and his wife Diana Fox Carney, arrived at Dublin Airport at about 10:00 local time and met Taoiseach (Irish PM) Michel Martin.",
+        "title": "Does the UK have a blind spot on UFO sightings?",
+        "link": "https://www.bbc.com/news/articles/c3929kk7gdjo?at_medium=RSS&at_campaign=rss",
+        "summary": "A campaigner is calling on the government to resume investigations into alleged encounters.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "mark carney",
-            "'back home",
-            "two-day visit"
-        ]
-    },
-    {
-        "title": "Ruthless Raducanu powers into Queen's final",
-        "link": "https://www.bbc.com/sport/tennis/articles/crlwkx2j5nyo?at_medium=RSS&at_campaign=rss",
-        "summary": "An inspired Emma Raducanu wins twice in a day to reach the Queen's final but fellow Briton Katie Boulter loses her semi-final.",
-        "source": "BBC News",
-        "objectivity_score": 66,
+        "objectivity_score": 38,
         "sentiment": "Negative",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "ruthless raducanu",
-            "queen 's",
-            "emma raducanu"
+            "blind spot",
+            "resume investigations"
         ]
     },
     {
-        "title": "Nigerian author accuses hospital of stalling review into her son's death",
-        "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
+        "title": "Armed men kidnap high-ranking security official in Haiti",
+        "link": "https://www.bbc.com/news/articles/cz9le087414o?at_medium=RSS&at_campaign=rss",
+        "summary": "James Boyard's abduction is the highest-ranking abduction in the violence-wracked country in recent years, according to reports.",
         "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 25,
         "sentiment": "Neutral",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "author accuses hospital",
-            "son 's death",
-            "chimamanda ngozi adichie"
+            "men kidnap",
+            "haiti james boyard",
+            "'s abduction"
         ]
     },
     {
-        "title": "Trump's name removed from Kennedy Center after court order",
-        "link": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
+        "title": "In pictures: Trooping the Colour marks King's official birthday",
+        "link": "https://www.bbc.com/news/articles/cpv3mmlg872o?at_medium=RSS&at_campaign=rss",
+        "summary": "The King and Queen were cheered on as they rode along The Mall towards Horseguard's Parade.",
         "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
+        "objectivity_score": 23,
+        "sentiment": "Negative",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "'s name",
-            "court order"
+            "marks king 's",
+            "official birthday"
         ]
     },
     {
-        "title": "Switzerland to vote on plan to cap population at 10 million",
+        "title": "Switzerland votes on plan to cap population at 10 million",
         "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
         "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
         "source": "BBC News",
@@ -1131,103 +1158,90 @@
         ]
     },
     {
-        "title": "Healey wanted UK to join global defence bank, BBC told",
-        "link": "https://www.bbc.com/news/articles/ce8jyd85ejeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Allies of the former defence secretary claim the Treasury tried to shut down the idea.",
-        "source": "BBC News",
-        "objectivity_score": 9,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "global defence bank",
-            "defence secretary claim"
-        ]
-    },
-    {
-        "title": "Woman seriously injured in shark attack at Sydney beach",
-        "link": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
-        "summary": "The woman, 35, was pulled from the water by members of the public and then airlifted to hospital, police say.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Negative",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "shark attack"
-        ]
-    },
-    {
-        "title": "Police officer accused of creating AI evidence",
-        "link": "https://www.bbc.com/news/articles/cy8wppwdxl6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Derbyshire Police say the officer has been removed from frontline duties while it investigates.",
+        "title": "The nuclear challenge at the heart of Trump's Iran negotiations",
+        "link": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
+        "summary": "US officials say the deal will lead to the destruction of Iran's enriched uranium, but details are still to be worked out.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "police officer",
-            "frontline duties"
+            "nuclear challenge",
+            "negotiations us officials"
         ]
     },
     {
-        "title": "Ewe won't believe it: 8ft fleece sheared from sheep",
-        "link": "https://www.bbc.com/news/articles/czj8y2k3v8ro?at_medium=RSS&at_campaign=rss",
-        "summary": "The fleece came from a Lincoln Longwool sheep on a farm near Spilsby.",
+        "title": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
+        "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "author chimamanda adichie",
+            "accuses hospital",
+            "son 's death"
+        ]
+    },
+    {
+        "title": "Dig site offers 'window' into Roman life",
+        "link": "https://www.bbc.com/news/articles/cx23k421n5ro?at_medium=RSS&at_campaign=rss",
+        "summary": "A decorative flagon in the shape of a woman's head is among the finds.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "roman life",
+            "decorative flagon",
+            "woman 's head"
+        ]
+    },
+    {
+        "title": "Welsh church in village home to legendary hound voted 'best place on Earth' by Reddit users",
+        "link": "https://www.bbc.com/news/articles/cwyleyde01go?at_medium=RSS&at_campaign=rss",
+        "summary": "St Mary's Church in Beddgelert was the last place standing in a challenge that started with a world map.",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "welsh church",
+            "village home",
+            "legendary hound"
+        ]
+    },
+    {
+        "title": "Card games replace smartphones after school ban",
+        "link": "https://www.bbc.com/news/articles/cgmdg38jl1jo?at_medium=RSS&at_campaign=rss",
+        "summary": "A Coventry head teacher says pupils are having chats and playing games after they banned phones.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "school ban",
+            "head teacher"
+        ]
+    },
+    {
+        "title": "Watch: Truck carrying fireworks catches fire, sparking spectacular display",
+        "link": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss",
+        "summary": "No one was harmed in the incident, which saw motorists treated to an early Fourth of July show.",
         "source": "BBC News",
         "objectivity_score": 40,
-        "sentiment": "Neutral",
+        "sentiment": "Positive",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "wo n't",
-            "8ft fleece",
-            "lincoln longwool"
-        ]
-    },
-    {
-        "title": "'Birdwatching saved me from my gaming addiction'",
-        "link": "https://www.bbc.com/news/articles/c4gy09r507jo?at_medium=RSS&at_campaign=rss",
-        "summary": "At his lowest ebb Edward Bartlett was playing video games 20 hours a day. Now he goes birdwatching.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "edward bartlett",
-            "video games"
-        ]
-    },
-    {
-        "title": "Mystery of village's elusive 'Granny H' knitter solved",
-        "link": "https://www.bbc.com/news/articles/c74y8qwxw0ko?at_medium=RSS&at_campaign=rss",
-        "summary": "Granny H has been leaving hundreds of knitted teddy bears, rabbits, dogs and lambs in Hartford village.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "village 's elusive 'granny",
-            "granny h",
-            "teddy bears"
-        ]
-    },
-    {
-        "title": "Painting bought for $100 in US charity shop sells for \u00a3190,000",
-        "link": "https://www.bbc.com/news/articles/c7070ll021zo?at_medium=RSS&at_campaign=rss",
-        "summary": "Art teacher Helene Plotkin bought the work in White Plans, New York in 1966, unaware it was by Scottish Colourist FCB Cadell.",
-        "source": "BBC News",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "us charity shop",
-            "helene plotkin",
-            "colourist fcb cadell"
+            "fireworks catches fire",
+            "spectacular display"
         ]
     },
     {
@@ -1275,6 +1289,49 @@
         ]
     },
     {
+        "title": "Why Haiti v Scotland was antidote to the ills of world football",
+        "link": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
+        "summary": "It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "world football",
+            "tom english"
+        ]
+    },
+    {
+        "title": "What does 1-0 win mean for Scotland's chances of qualification?",
+        "link": "https://www.bbc.com/sport/football/articles/cvglm8n1nyjo?at_medium=RSS&at_campaign=rss",
+        "summary": "With eight third-place finishers advancing to the last 32, might three points be enough for Scotland to make history?",
+        "source": "BBC News",
+        "objectivity_score": 41,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "'s chances",
+            "third-place finishers"
+        ]
+    },
+    {
+        "title": "Refugee who quit Bayern to create Australia World Cup dream",
+        "link": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Nestory Irankunda was born as a refugee in Tanzania before becoming Australian record breaker with goal in victory over Turkey.",
+        "source": "BBC News",
+        "objectivity_score": 42,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "world cup dream",
+            "nestory irankunda",
+            "record breaker"
+        ]
+    },
+    {
         "title": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
         "link": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss",
         "summary": "Vinicius Jr scores a wonder goal to rescue his side but Brazil's performance against Morocco raises more questions than answers.",
@@ -1287,6 +1344,21 @@
             "vinicius jr",
             "vinicius jr",
             "wonder goal"
+        ]
+    },
+    {
+        "title": "Knicks end 53-year wait for NBA Championship",
+        "link": "https://www.bbc.com/sport/basketball/articles/cx2v4rj1ew2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The New York Knicks win their first NBA Championship since 1973 thanks to a 94-90 win over the San Antonio Spurs.",
+        "source": "BBC News",
+        "objectivity_score": 35,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "end 53-year",
+            "nba championship",
+            "york knicks"
         ]
     },
     {
@@ -1305,45 +1377,91 @@
         ]
     },
     {
-        "title": "McGinn 'beaming with pride' - and hopes kids around Scotland are too",
-        "link": "https://www.bbc.com/sport/football/articles/cy06p3xke5lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Scotland's John McGinn says his \"scuffed\" goal which downed Haiti in their World Cup opener leaves him \"beaming with pride\".",
-        "source": "BBC News",
-        "objectivity_score": 0,
+        "title": "Iran War Live Updates: U.S. and Tehran Send Mixed Signals on Emerging Peace Agreement",
+        "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+        "summary": "President Trump said it would be signed on Sunday, but Irans Foreign Ministry cautioned that the timeline could be slower.",
+        "source": "NYT > World News",
+        "objectivity_score": 29,
         "sentiment": "Neutral",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "john mcginn",
-            "world cup opener leaves"
+            "live updates",
+            "mixed signals"
         ]
     },
     {
-        "title": "Ruthless Raducanu powers into Queen's final",
-        "link": "https://www.bbc.com/sport/tennis/articles/crlwkx2j5nyo?at_medium=RSS&at_campaign=rss",
-        "summary": "An inspired Emma Raducanu wins twice in a day to reach the Queen's final but fellow Briton Katie Boulter loses her semi-final.",
-        "source": "BBC News",
-        "objectivity_score": 66,
-        "sentiment": "Negative",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "ruthless raducanu",
-            "queen 's",
-            "emma raducanu"
-        ]
-    },
-    {
-        "title": "McGinn gives Scotland the lead against Haiti",
-        "link": "https://www.bbc.com/sport/football/videos/c5yzv2v48lqo?at_medium=RSS&at_campaign=rss",
-        "summary": "John McGinn puts Scotland 1-0 up against Haiti in their Group C opener at the Boston Stadium.",
-        "source": "BBC News",
-        "objectivity_score": 0,
+        "title": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
+        "link": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
+        "summary": "Group of 7 meetings once embodied the effort to sustain the global diplomatic order. This years gathering, starting on Monday, symbolizes its fragmentation.",
+        "source": "NYT > World News",
+        "objectivity_score": 5,
         "sentiment": "Neutral",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "haiti john mcginn"
+            "g7 summit",
+            "global diplomatic order",
+            "years gathering"
+        ]
+    },
+    {
+        "title": "Deadlocked Wars: How Major Powers Misread the Regions They Attacked",
+        "link": "https://www.nytimes.com/2026/06/14/world/europe/us-iran-rusisa-ukraine.html",
+        "summary": "Russia and the United States projected their own centralized views onto Ukraine and Iran, analysts said. As a result, the smaller countries trapped larger ones in a costly confrontation.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "deadlocked wars",
+            "powers misread",
+            "attacked russia"
+        ]
+    },
+    {
+        "title": "Meet the Smallest Country Ever to Reach the World Cup",
+        "link": "https://www.nytimes.com/2026/06/14/world/americas/world-cup-curacao-netherlands-soccer.html",
+        "summary": "Competing for the first time, Curaao is brimming with joy. Most of the Caribbean nations team was born and raised in the Netherlands, but residents say the players represent them.",
+        "source": "NYT > World News",
+        "objectivity_score": 34,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "world cup",
+            "nations team"
+        ]
+    },
+    {
+        "title": "Japan Is Running Out of Royals. Are More Men the Answer?",
+        "link": "https://www.nytimes.com/2026/06/14/world/asia/japan-royal-family-adoption-male.html",
+        "summary": "Japans legislature is drafting a plan to allow the imperial family to adopt distant male relatives. But some in Japan would prefer a female emperor.",
+        "source": "NYT > World News",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "imperial family",
+            "distant male relatives",
+            "female emperor"
+        ]
+    },
+    {
+        "title": "Germany and Japan Are Rearming Again, 80 Years After World War II",
+        "link": "https://www.nytimes.com/2026/06/14/world/europe/germany-japan-rearmament-military.html",
+        "summary": "After becoming allies to disastrous effect in the 1940s, Berlin and Tokyo are finding new reasons to team up  including rebuilding their militaries.",
+        "source": "NYT > World News",
+        "objectivity_score": 70,
+        "sentiment": "Neutral",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "world war",
+            "disastrous effect",
+            "new reasons"
         ]
     },
     {
@@ -1359,6 +1477,20 @@
             "deal seemingly close",
             "u.s. faces",
             "withstand pressure irans"
+        ]
+    },
+    {
+        "title": "How a 10 Million Population Cap Would Change Switzerland",
+        "link": "https://www.nytimes.com/interactive/2026/06/13/world/europe/switzerland-population-cap-projections.html",
+        "summary": "On Sunday, Switzerland will vote on whether to cap its population. The implications for Swiss society and its economy could be huge.",
+        "source": "NYT > World News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "million population cap",
+            "swiss society"
         ]
     },
     {
@@ -1389,21 +1521,6 @@
             "screen awards",
             "canadian screen industry",
             "own stories"
-        ]
-    },
-    {
-        "title": "Iran War Live Updates: Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline",
-        "link": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
-        "summary": "An Iranian foreign ministry official sought to temper expectations, saying there were no plans for a Sunday signing and an agreement could be inked in the coming days.",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "live updates",
-            "trump says",
-            "deal will be signed"
         ]
     },
     {
@@ -1452,35 +1569,6 @@
         ]
     },
     {
-        "title": "Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.",
-        "link": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html",
-        "summary": "One of the worlds richest countries is about to hold a referendum on a measure that would curb migration and most likely the economy. It is being sold in warm tones.",
-        "source": "NYT > World News",
-        "objectivity_score": 70,
-        "sentiment": "Positive",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "switzerland cap",
-            "will decide",
-            "curb migration"
-        ]
-    },
-    {
-        "title": "How a 10 Million Population Cap Would Change Switzerland",
-        "link": "https://www.nytimes.com/interactive/2026/06/13/world/europe/switzerland-population-cap-projections.html",
-        "summary": "On Sunday, Switzerland will vote on whether to cap its population. The implications for Swiss society and its economy could be huge.",
-        "source": "NYT > World News",
-        "objectivity_score": 90,
-        "sentiment": "Positive",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "million population cap",
-            "swiss society"
-        ]
-    },
-    {
         "title": "What to Know About the Ebola Outbreak",
         "link": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
         "summary": "Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 140 people, but the true toll may be far higher.",
@@ -1496,61 +1584,46 @@
         ]
     },
     {
-        "title": "U.S. Plan Is Said to Pull a Third of Fighter Jets It Provides NATO for Europe",
-        "link": "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html",
-        "summary": "The plan, outlined by officials and in a written document, provides rare clarity about the extent to which the Trump administration intends to reduce its commitment to NATO.",
+        "title": "The Secrets of a Soccer-Turf Master",
+        "link": "https://www.nytimes.com/2026/06/14/science/world-cup-turf-sorochan.html",
+        "summary": "John Sorochan, a turf scientist at the University of Tennessee, has led the yearslong, multimillion-dollar effort to develop perfect playing fields for the 2026 World Cup.",
         "source": "NYT > World News",
-        "objectivity_score": 45,
+        "objectivity_score": 100,
         "sentiment": "Positive",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "fighter jets",
-            "rare clarity"
+            "john sorochan",
+            "turf scientist",
+            "multimillion-dollar effort"
         ]
     },
     {
-        "title": "A Dangerous Limbo Leaves Iran, and the World, Between Peace and War",
-        "link": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
-        "summary": "Since announcing a nominal cease-fire two months ago, Iran, Israel and the U.S. have remained locked in low-intensity violence that has become a new normal.",
+        "title": "An Afghan Family Shattered by Trump\u2019s Visa Ban",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000010876158/trump-visa-ban-tahiri-family-afghanistan.html",
+        "summary": "Over the past year, policies restricting people from 39 countries  including Afghanistan  from entering or living in the U.S. have cast countless lives into limbo. For one family, the consequences hav...",
         "source": "NYT > World News",
-        "objectivity_score": 66,
+        "objectivity_score": 58,
         "sentiment": "Negative",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "dangerous limbo leaves iran",
-            "nominal cease-fire",
-            "low-intensity violence"
+            "visa ban",
+            "past year",
+            "countless lives"
         ]
     },
     {
-        "title": "Anti-Immigrant Riots after Belfast Stabbing Leave City on Edge",
-        "link": "https://www.nytimes.com/2026/06/12/world/europe/belfast-stabbing-riots-anti-immigrant.html",
-        "summary": "In two nights of violence in Northern Ireland after a brutal stabbing, people were targeted because of their skin color, the authorities said.",
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/heres-the-latest",
+        "summary": "",
         "source": "NYT > World News",
-        "objectivity_score": 86,
-        "sentiment": "Negative",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "anti-immigrant riots",
-            "belfast stabbing",
-            "skin color"
-        ]
-    },
-    {
-        "title": "Bring the Kids and Grab Some Barbecue: A Day at the Ukrainian Drone Races",
-        "link": "https://www.nytimes.com/2026/06/12/world/europe/ukraine-drone-races.html",
-        "summary": "Competitions that give soldiers a brief break from the front have a festival-like atmosphere, a mix of potentially deadly weapons and frolicking children.",
-        "source": "NYT > World News",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "ukrainian drone races competitions",
-            "festival-like atmosphere"
+            "here\u2019s"
         ]
     },
     {
@@ -1650,50 +1723,6 @@
             "scientific quest",
             "world cup",
             "natural grass"
-        ]
-    },
-    {
-        "title": "Ebola Comes for Congo\u2019s Most Vulnerable Children",
-        "link": "https://www.nytimes.com/video/world/africa/100000010952087/ebola-congo-orphanage-children.html",
-        "summary": "The arrival of a sick newborn at Saint Nicholas Orphanage in eastern Democratic Republic of Congo set off an Ebola outbreak that quickly spread among the countrys most vulnerable. Local health authori...",
-        "source": "NYT > World News",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "ebola comes",
-            "sick newborn",
-            "saint nicholas orphanage"
-        ]
-    },
-    {
-        "title": "Afghans Hold Rare Public Protests Against Taliban Rules",
-        "link": "https://www.nytimes.com/2026/06/12/world/asia/taliban-protests-afghanistan.html",
-        "summary": "The United Nations said it was deeply concerned about the arrests of dozens of women, and reported that two people were killed in protests organized to support them.",
-        "source": "NYT > World News",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "afghans hold rare",
-            "protests against taliban"
-        ]
-    },
-    {
-        "title": "U.S. Says Iran Cease-Fire Deal \u2018Very Close\u2019",
-        "link": "https://www.nytimes.com/2026/06/12/world/middleeast/us-iran-ceasefire-deal-white-house.html",
-        "summary": "A senior administration official said the two sides were not quite at the finish line yet.",
-        "source": "NYT > World News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "u.s. says iran cease-fire deal",
-            "senior administration",
-            "finish line"
         ]
     },
     {
@@ -1922,9 +1951,9 @@
         ]
     },
     {
-        "title": "Australia news live: NSW lifts drone ban over Sydney beach after shark attack",
+        "title": "NSW lifts drone ban over Sydney beach after shark attack \u2013 as it happened",
         "link": "https://www.theguardian.com/australia-news/live/2026/jun/14/australia-news-live-jonathon-duniam-senator-retire-liberal-national-coalition-labor-albanese-taylor-one-nation-sydney-nsw-victoria-high-court-ntwnfb",
-        "summary": "Follow the days news liveGet our breaking news email, free app or daily news podcastThe Senate will deliver its report from the NDIS inquiry on Tuesday. Butler doesnt directly answer a question about ...",
+        "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastThe Senate will deliver its report from the NDIS inquiry on Tuesday. Butler doesnt directly answer a question about wh...",
         "source": "World news | The Guardian",
         "objectivity_score": 47,
         "sentiment": "Positive",
@@ -1932,8 +1961,23 @@
         "image_url": null,
         "keywords": [
             "lifts drone ban",
-            "shark attack",
-            "days news liveget"
+            "shark attack \u2013",
+            "news email"
+        ]
+    },
+    {
+        "title": "Angus Taylor using NDIS cuts as \u2018pawn in bigger chess game\u2019, Mark Butler warns",
+        "link": "https://www.theguardian.com/australia-news/2026/jun/14/butler-warns-coalition-against-using-ndis-cuts-as-pawn-in-bigger-game-and-says-bill-delays-could-cost-billions",
+        "summary": "Opposition and Greens could team up to extend inquiry into changes but health minister utterly convinced federal governments plan is rightFollow our Australia news live blog for latest updatesGet our ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 53,
+        "sentiment": "Neutral",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "angus taylor",
+            "\u2018 pawn",
+            "chess game \u2019"
         ]
     },
     {
@@ -1952,11 +1996,11 @@
         ]
     },
     {
-        "title": "Australian girl killed in Pakistan after reportedly being shot dead by police",
+        "title": "Australian girl killed in Pakistan after reportedly being shot by police",
         "link": "https://www.theguardian.com/australia-news/2026/jun/14/australian-girl-killed-pakistan-punjab-province-reportedly-shot-dead-by-police-ntwnfb",
         "summary": "Nine-year-old visiting relatives in Punjab province when police opened fire on car, local media reportFollow our Australia news live blog for latest updatesGet our breaking news email, free app or dai...",
         "source": "World news | The Guardian",
-        "objectivity_score": 21,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-06-14",
         "image_url": null,
@@ -1964,21 +2008,6 @@
             "local media reportfollow",
             "news email",
             "free app"
-        ]
-    },
-    {
-        "title": "Butler warns Coalition against using NDIS cuts as \u2018pawn in bigger game\u2019 and says bill delays could cost billions",
-        "link": "https://www.theguardian.com/australia-news/2026/jun/14/butler-warns-coalition-against-using-ndis-cuts-as-pawn-in-bigger-game-and-says-bill-delays-could-cost-billions",
-        "summary": "Opposition and Greens could team up to extend inquiry into changes but health minister utterly convinced federal governments plan is rightFollow our Australia news live blog for latest updatesGet our ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 53,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "\u2018 pawn",
-            "game \u2019",
-            "bill delays"
         ]
     },
     {
@@ -1994,6 +2023,21 @@
             "water \u2019",
             "paddleboarder rescues woman",
             "shark attack"
+        ]
+    },
+    {
+        "title": "Trial of 12mph bike lane speed limit grinds gears of Dutch cyclists",
+        "link": "https://www.theguardian.com/world/2026/jun/14/trial-of-12mph-bike-lane-speed-limit-grinds-gears-of-dutch-cyclists",
+        "summary": "Increase in road deaths amid rise of e-bikes prompts Houten to test willingness of freedom-loving cyclists to slow downAs road deaths increase and cycle lanes overflow with e-bikes, the Netherlands is...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "12mph bike lane speed limit grinds gears",
+            "road deaths",
+            "e-bikes prompts"
         ]
     },
     {
@@ -2057,18 +2101,33 @@
         ]
     },
     {
-        "title": "Palestinian and Israeli civil society groups urge G7 to take action on Gaza",
-        "link": "https://www.theguardian.com/world/2026/jun/12/palestinian-israeli-civil-society-groups-g7-summit-gaza",
-        "summary": "Paris meeting draws up proposals and calls for urgent diplomacy towards two-state solution at summit next weekPalestinian and Israeli civil society groups meeting in Paris on Friday have urged G7 lead...",
+        "title": "Middle East crisis live: Trump says Iran deal will be signed today but sources tell media Tehran \u2018not yet\u2019 taken final decision",
+        "link": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
+        "summary": "Deal could see strait of Hormuz immediately open to all, but Trump says US retains the ultimate alternative if talks failTrump says Iran peace deal could be signed by Sunday, with strait of Hormuz to ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 11,
+        "objectivity_score": 57,
         "sentiment": "Neutral",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "civil society groups urge",
-            "gaza paris",
-            "meeting draws"
+            "final decision",
+            "ultimate alternative",
+            "talks failtrump"
+        ]
+    },
+    {
+        "title": "Growing risk that thousands buried in Gaza\u2019s rubble may never be identified, says Red Cross",
+        "link": "https://www.theguardian.com/world/2026/jun/14/growing-risk-thousands-buried-gaza-rubble-never-identified-red-cross",
+        "summary": "Exclusive: Recovery efforts remain slow and passing of time makes it more likely they will be skeletonisedThe International Committee of the Red Cross has said the risk that the thousands of Palestini...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s rubble",
+            "red cross",
+            "recovery efforts"
         ]
     },
     {
@@ -2114,36 +2173,6 @@
             "attack drones \u2013",
             "full report",
             "republic news agency"
-        ]
-    },
-    {
-        "title": "US-Iran peace deal remains elusive as Trump and Tehran trade conflicting claims",
-        "link": "https://www.theguardian.com/world/2026/jun/12/us-iran-peace-deal-remains-elusive-as-trump-and-tehran-trade-conflicting-claims",
-        "summary": "US president dismisses Iranian media reports agreement is close, despite earlier suggesting a deal could be signed this weekendProspects for an immediate end to the war between Iran and the US remaine...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "claims us president dismisses",
-            "media reports agreement",
-            "immediate end"
-        ]
-    },
-    {
-        "title": "Chaotic talks on a US-Iran deal continue on the Trump rollercoaster",
-        "link": "https://www.theguardian.com/world/2026/jun/12/trump-rollercoaster-deal-us-iran",
-        "summary": "Amid rhetoric, market uncertainty and tit-for-tat exchanges, the two sides are still trying to find a way out of the impasseGreat news! Donald Trump has said the US and Iran are on the verge of a peac...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "market uncertainty",
-            "tit-for-tat exchanges",
-            "impassegreat news"
         ]
     },
     {
@@ -2222,78 +2251,93 @@
         ]
     },
     {
-        "title": "UK and Japan set to agree investment deal worth \u00a318bn",
-        "link": "https://www.theguardian.com/politics/2026/jun/13/uk-and-japan-set-to-agree-investment-deal-worth-18bn",
-        "summary": "Keir Starmer says commercial and government agreements will create tens of thousands of jobsThe UK and Japan are set to agree 18bn worth of investment, creating tens of thousands of jobs.Prime ministe...",
+        "title": "Cabinet ministers asked to look for cuts to fund UK defence spending increase",
+        "link": "https://www.theguardian.com/politics/2026/jun/14/cabinet-ministers-asked-to-look-for-cuts-to-fund-uk-defence-spending-increase",
+        "summary": "Lisa Nandy says discussions are taking place about how to keep this country safe after John Healeys resignationUK politics live  latest updatesCabinet ministers have been asked to look for more money ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 18,
+        "objectivity_score": 48,
         "sentiment": "Positive",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "worth \u00a318bn",
-            "keir starmer",
-            "government agreements"
+            "cabinet ministers",
+            "defence spending increase",
+            "lisa nandy"
         ]
     },
     {
-        "title": "Nearly half of UK girls saw harmful social media content in a week, research shows",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/13/half-of-girls-saw-harmful-social-media-content-research-uk",
-        "summary": "New safety measures had little effect so far, study finds, with Starmer expected to announce under-16s banNearly half of girls and a third of all teenagers saw suicide, self-harm and eating disorder c...",
+        "title": "UK forces board sanctioned Russian oil tanker in English Channel for the first time, says Keir Starmer - UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates",
+        "summary": "Prime minister says British armed forces intercepted a Russian shadow fleet vessel in the early hours of Sunday morningBritish armed forces intercept Russian shadow fleet oil tanker in ChannelConserva...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 27,
         "sentiment": "Neutral",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "social media content",
-            "research shows",
-            "new safety measures"
+            "forces board",
+            "russian oil tanker",
+            "keir starmer"
         ]
     },
     {
-        "title": "One Stop shop worker sacked after trying to tackle suspected shoplifter",
-        "link": "https://www.theguardian.com/business/2026/jun/13/one-stop-shop-worker-sacked-after-trying-to-tackle-suspected-shoplifter",
-        "summary": "Convenience store employee Eileen Fox, 56, said suspect banged into metal stand but no one was injured in incident Waitrose employee sacked after stopping shoplifter from taking Easter eggsA convenien...",
+        "title": "British armed forces intercept Russian shadow fleet oil tanker in Channel",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel",
+        "summary": "Keir Starmer says operation involving UK armed forces has delivered yet another blow to Russia and PutinBritish armed forces intercepted and boarded a Russian shadow fleet oil tanker in the Channel in...",
         "source": "World news | The Guardian",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "shop worker",
-            "store employee",
-            "eileen fox"
-        ]
-    },
-    {
-        "title": "Tommy Robinson detained at Heathrow under counter-terrorism laws",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/13/tommy-robinson-detained-at-heathrow-under-counter-terrorism-laws",
-        "summary": "Police stop comes after far-right activist rose to further prominence on social media amid racial tensions in Britain Tommy Robinson was detained by police on Saturday at Heathrow airport under counte...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 47,
+        "objectivity_score": 25,
         "sentiment": "Positive",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "tommy robinson",
-            "counter-terrorism laws",
-            "far-right activist"
+            "forces intercept",
+            "russian shadow fleet oil tanker",
+            "keir starmer"
         ]
     },
     {
-        "title": "Resident doctors in England call off strike action after new government offer",
-        "link": "https://www.theguardian.com/society/2026/jun/13/resident-doctors-in-england-call-off-strike-action-after-new-government-offer",
-        "summary": "Last-minute offer to be put to members is understood to include an average 6.6% pay upliftResident doctors in England have called off strike action after the government made a new offer which will be ...",
+        "title": "NHS staff battling wave of food supplement disinformation",
+        "link": "https://www.theguardian.com/society/2026/jun/14/nhs-staff-food-supplement-disinformation-cancer-charity-social-media",
+        "summary": "Exclusive: Cancer charity says dispelling falsehoods gleaned from social media is now routine task for cliniciansSocial media misinformation about the use of dietary supplements such as turmeric, St J...",
         "source": "World news | The Guardian",
-        "objectivity_score": 28,
-        "sentiment": "Neutral",
+        "objectivity_score": 36,
+        "sentiment": "Negative",
         "date": "2026-06-14",
         "image_url": null,
         "keywords": [
-            "strike action",
-            "new government",
-            "% pay upliftresident"
+            "cancer charity",
+            "social media",
+            "routine task"
+        ]
+    },
+    {
+        "title": "X accused of giving racists \u2018impunity\u2019 after refusing to bar N- and P-word posts",
+        "link": "https://www.theguardian.com/technology/2026/jun/14/x-racists-impunity-hate-posts",
+        "summary": "Site takes no action over hate posts against UK politicians including Kemi Badenoch, Shabana Mahmood and Zia YusufX has refused to take down dozens of social media posts reported as hate, abuse or har...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Negative",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "racists \u2018 impunity \u2019",
+            "kemi badenoch",
+            "shabana mahmood"
+        ]
+    },
+    {
+        "title": "As Donald Trump turns 80, he faces a foe he can never defeat: Father Time. That\u2019s a problem for us all",
+        "link": "https://www.theguardian.com/news/ng-interactive/2026/jun/14/donald-trump-turns-80-faces-foe-father-time",
+        "summary": "Alarm over the judgment and behaviour of the worlds most powerful man, and the consequent risks to the world, can only get worseThe main Nuremberg trial ended, Winston Churchill warned of an iron curt...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 66,
+        "sentiment": "Positive",
+        "date": "2026-06-14",
+        "image_url": null,
+        "keywords": [
+            "donald trump",
+            "powerful man",
+            "consequent risks"
         ]
     },
     {
@@ -2354,21 +2398,6 @@
             "texas republican",
             "four-ton paige",
             "texas republican"
-        ]
-    },
-    {
-        "title": "Marjorie Taylor Greene criticizes Trump\u2019s UFC event at White House",
-        "link": "https://www.theguardian.com/us-news/2026/jun/13/marjorie-taylor-greene-trump-ufc-event",
-        "summary": "Former congresswoman nevertheless says she hopes the fighting event will be great and wishes president wellMarjorie Taylor Greene has criticized Donald Trumps plan to hold a UFC fight on the White Hou...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 14,
-        "sentiment": "Positive",
-        "date": "2026-06-14",
-        "image_url": null,
-        "keywords": [
-            "marjorie taylor greene",
-            "white house",
-            "wishes president wellmarjorie"
         ]
     }
 ]
