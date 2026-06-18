@@ -737,20 +737,6 @@
         ]
     },
     {
-        "title": "US and Iranian presidents sign deal aiming to end war",
-        "link": "https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss",
-        "summary": "The fate of Iran's nuclear programme, a key reason cited by the US for starting the conflict, is still to be negotiated.",
-        "source": "BBC News",
-        "objectivity_score": 55,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "nuclear programme",
-            "key reason"
-        ]
-    },
-    {
         "title": "What's in the US-Iran agreement?",
         "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
         "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
@@ -766,7 +752,7 @@
         ]
     },
     {
-        "title": "Cervical cancer deaths in England fall to zero in young women given vaccine",
+        "title": "Young women now have 'close to zero' risk of cervical cancer death after HPV jab",
         "link": "https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&at_campaign=rss",
         "summary": "A new study finds that hundreds of lives have been saved since school-age girls were offered the HPV jab in 2008.",
         "source": "BBC News",
@@ -775,9 +761,23 @@
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "cancer deaths",
             "young women",
+            "cervical cancer death",
             "new study"
+        ]
+    },
+    {
+        "title": "Church of England apologises for role in forced adoptions",
+        "link": "https://www.bbc.com/news/articles/clywz07y942o?at_medium=RSS&at_campaign=rss",
+        "summary": "Thousands of unmarried women were pressured to give up their babies between 1949 and 1976.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Negative",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "adoptions thousands",
+            "unmarried women"
         ]
     },
     {
@@ -794,131 +794,121 @@
         ]
     },
     {
-        "title": "Interest rates expected to be held by Bank of England",
-        "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
-        "source": "BBC News",
-        "objectivity_score": 24,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "interest rates"
-        ]
-    },
-    {
-        "title": "ChatGPT can be made to generate sexualised and violent images, researchers find",
-        "link": "https://www.bbc.com/news/articles/c802ldjdklzo?at_medium=RSS&at_campaign=rss",
-        "summary": "But researchers say its still possible to trick the AI chatbot into producing graphic content.",
-        "source": "BBC News",
-        "objectivity_score": 80,
-        "sentiment": "Negative",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "violent images",
-            "graphic content"
-        ]
-    },
-    {
-        "title": "The Ring and Lilo & Stitch actress Daveigh Chase dies aged 35",
-        "link": "https://www.bbc.com/news/articles/cd0m2mg949yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Chase died from sepsis following a bout with meningitis in a Los Angeles hospital, her longtime manager told the BBC.",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "daveigh chase",
-            "los angeles",
-            "longtime manager"
-        ]
-    },
-    {
-        "title": "Apple to raise prices as AI boom pushes up chip costs",
-        "link": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
-        "summary": "The firm's outgoing boss Tim Cook did not say when prices will rise or which products will be affected.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "boom pushes",
-            "chip costs",
-            "firm 's"
-        ]
-    },
-    {
-        "title": "Cape Verde goalkeeper set to be reunited with his mum",
-        "link": "https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo?at_medium=RSS&at_campaign=rss",
-        "summary": "Vozinha's mum has been granted a visa to travel to the US ahead of Cape Verde's next game against Uruguay.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Negative",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "'s mum"
-        ]
-    },
-    {
-        "title": "Developing heatwave across Europe to send UK temperatures above 30C",
+        "title": "Amber heat health alerts issued with UK temperatures set to soar above 30C",
         "link": "https://www.bbc.com/weather/articles/c79y35nl719o?at_medium=RSS&at_campaign=rss",
-        "summary": "Very warm weather is set to return to parts of the UK with temperatures of 30C plus expected as Europe experiences a 'heat dome' as Simon King explains.",
+        "summary": "Very warm weather is set to return to parts of the UK with temperatures of 30C plus expected, as Europe experiences a 'heat dome'.",
         "source": "BBC News",
         "objectivity_score": 42,
         "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
+            "heat health alerts",
             "warm weather",
-            "'heat dome",
-            "simon king"
+            "'heat dome"
         ]
     },
     {
-        "title": "This was an England we haven't seen for years - and it was fun",
-        "link": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Fun to watch and full of intent - this was an England we have not seen for years, writes Phil McNulty.",
+        "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+        "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+        "summary": "A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
         "source": "BBC News",
-        "objectivity_score": 31,
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "full-scale war",
+            "russian capital"
+        ]
+    },
+    {
+        "title": "Lisa Nandy 'not satisfied' with Channel 4 response on Married at First Sight UK",
+        "link": "https://www.bbc.com/news/articles/cy04jgy5yvpo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Panorama reported rape allegations from two cast members, allegations the men involved have denied.",
+        "source": "BBC News",
+        "objectivity_score": 52,
+        "sentiment": "Neutral",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "lisa nandy",
+            "sight uk bbc panorama",
+            "rape allegations"
+        ]
+    },
+    {
+        "title": "Voters head to the polls for Makerfield by-election",
+        "link": "https://www.bbc.com/news/articles/c5yzgpe2ld3o?at_medium=RSS&at_campaign=rss",
+        "summary": "There are 14 candidates vying to be the Greater Manchester constituency's new MP.",
+        "source": "BBC News",
+        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "phil mcnulty"
+            "voters head",
+            "constituency 's"
         ]
     },
     {
-        "title": "Watch: Fans celebrate England's 4-2 World Cup victory over Croatia",
-        "link": "https://www.bbc.com/news/videos/cy4983lgmx7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Supporters for both sides turned out in droves to watch England v Croatia in their opening match of the World Cup.",
+        "title": "Harry Kane explains the strategy behind his stuttered penalty run-up",
+        "link": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
+        "summary": "Harry Kane was able to give England the lead against Croatia from the penalty spot - but only thanks to the video assistant referee.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 63,
         "sentiment": "Neutral",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "world cup victory",
-            "croatia supporters",
-            "world cup"
+            "harry kane",
+            "penalty run-up",
+            "harry kane"
         ]
     },
     {
-        "title": "Ronaldo struggles after fellow superstars sparkle",
-        "link": "https://www.bbc.com/sport/football/articles/cpq3734ln8yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Three superstars delivered for their countries at the World Cup on Tuesday. But Cristiano Ronaldo could not follow suit on Wednesday as Portugal were held to a surprise draw by DR Congo.",
+        "title": "'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
+        "link": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&at_campaign=rss",
+        "summary": "England players were on the receiving end of a half-time reproach from manager Thomas Tuchel as their World Cup campaign got off to a victorious start against Croatia.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "england england",
+            "half-time reproach",
+            "thomas tuchel"
+        ]
+    },
+    {
+        "title": "Bostonians bemused as Scotland fans decorate city's statues with traffic cones",
+        "link": "https://www.bbc.com/news/articles/c8r2glk5k3do?at_medium=RSS&at_campaign=rss",
+        "summary": "The practice is familiar to anyone from Glasgow, where the Duke of Wellington statue has been wearing a jaunty orange hat since the 1980s.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "city 's statues",
+            "traffic cones",
+            "orange hat"
+        ]
+    },
+    {
+        "title": "From one to 48 - every World Cup team ranked after first game",
+        "link": "https://www.bbc.com/sport/football/articles/cn4djkzxygjo?at_medium=RSS&at_campaign=rss",
+        "summary": "All 48 teams at the World Cup have now played once. BBC Sport's experts have ranked them all, from best to worst. Who is top? Not defending champions Argentina.",
+        "source": "BBC News",
+        "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "fellow superstars sparkle",
+            "world cup team",
             "world cup",
-            "cristiano ronaldo"
+            "bbc sport"
         ]
     },
     {
@@ -950,17 +940,16 @@
         ]
     },
     {
-        "title": "Ancient 'Robin Hood' tree is dead, experts say",
-        "link": "https://www.bbc.com/news/articles/clyer9m0jmko?at_medium=RSS&at_campaign=rss",
-        "summary": "The Major Oak is thought to have stood for more than 1,000 years in the heart of Nottinghamshire's Sherwood Forest.",
+        "title": "The Papers: US-Iran deal and England's World Cup win",
+        "link": "https://www.bbc.com/news/articles/c0qynv35pvzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC, along with other broadcasters, is not allowed to report details of campaigning while the polls are open.",
         "source": "BBC News",
-        "objectivity_score": 46,
+        "objectivity_score": 42,
         "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "ancient 'robin",
-            "major oak"
+            "'s world cup"
         ]
     },
     {
@@ -979,118 +968,104 @@
         ]
     },
     {
-        "title": "Prince and Princess of Wales join Royal Ascot racegoers",
-        "link": "https://www.bbc.com/news/articles/cwyd6xl5565o?at_medium=RSS&at_campaign=rss",
-        "summary": "About 290,000 people are expected to attend this week.",
+        "title": "'We had to get out of the way': The backlash over delivery robots",
+        "link": "https://www.bbc.com/news/articles/c0rygp005wjo?at_medium=RSS&at_campaign=rss",
+        "summary": "As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.",
         "source": "BBC News",
-        "objectivity_score": 40,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "prince"
+            "delivery robots",
+            "delivery vehicles",
+            "us streets"
         ]
     },
     {
-        "title": "UN human rights experts demand release of British couple jailed in Iran",
-        "link": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss",
-        "summary": "They said proceedings against Lindsay and Craig Foreman had been marked by grave irregularities.",
+        "title": "Number of job vacancies hits five year-low",
+        "link": "https://www.bbc.com/news/articles/cm203nn7lzro?at_medium=RSS&at_campaign=rss",
+        "summary": "Latest figures suggest companies are becoming more cautious about taking on new staff.",
         "source": "BBC News",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "un human rights experts demand release",
-            "british couple",
-            "craig foreman"
-        ]
-    },
-    {
-        "title": "Teenager dies in horse-drawn carriage accident in New York",
-        "link": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&at_campaign=rss",
-        "summary": "The horse bolted and toppled over after the carriage driver stepped down to take a picture of the passengers.",
-        "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "horse-drawn carriage accident",
-            "carriage driver"
-        ]
-    },
-    {
-        "title": "Bird flu kills more than 75% of baby seals on remote Australian island, study finds",
-        "link": "https://www.bbc.com/news/articles/cr5jdy92gyeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Scientists say 13,000 southern elephant seal pups on Heard Island have died of the H5N1 strain.",
-        "source": "BBC News",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "flu kills",
-            "baby seals",
-            "southern elephant seal pups"
-        ]
-    },
-    {
-        "title": "MI5 boss declares himself a Slow Horses fan",
-        "link": "https://www.bbc.com/news/articles/cly919541lgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sir Ken McCallum says he is a fan of the show that has been described as the anti-James Bond.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "sir ken mccallum"
-        ]
-    },
-    {
-        "title": "BBC announces 550 job cuts as first part of \u00a3500m savings plan",
-        "link": "https://www.bbc.com/news/articles/cvgmqrrlej5o?at_medium=RSS&at_campaign=rss",
-        "summary": "In an email to staff, the corporation laid out proposals for the initial 200 job losses in the news division.",
-        "source": "BBC News",
-        "objectivity_score": 16,
+        "objectivity_score": 67,
         "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "job cuts",
-            "\u00a3500m savings plan",
-            "job losses"
+            "job vacancies hits",
+            "new staff"
         ]
     },
     {
-        "title": "Passport 'mega queue' strands Ryanair passengers in Greece",
-        "link": "https://www.bbc.com/news/articles/c20yxd790k5o?at_medium=RSS&at_campaign=rss",
-        "summary": "A flight from Athens to Luton leaves without \"angry\" passengers who are stuck at passport control.",
+        "title": "Lil Nas X says he's 'feeling better' after rehab and bipolar diagnosis",
+        "link": "https://www.bbc.com/news/articles/cn4dqyn94vdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Old Town Road star was arrested last year for attacking police officers and later entered rehab.",
         "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Negative",
+        "objectivity_score": 19,
+        "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "'mega queue",
-            "a flight",
-            "passport control"
+            "lil nas x",
+            "bipolar diagnosis",
+            "old town road star"
         ]
     },
     {
-        "title": "'Get him out of here': Judge sends Gilgo Beach killer to prison for rest of life",
-        "link": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
-        "summary": "In fiery exchange, judge sentenced him to three life sentences plus 25 years to life on four other charges, all running consecutively.",
+        "title": "Ancient 'Robin Hood' tree is dead, experts say",
+        "link": "https://www.bbc.com/news/articles/clyer9m0jmko?at_medium=RSS&at_campaign=rss",
+        "summary": "The Major Oak is thought to have stood for more than 1,000 years in the heart of Nottinghamshire's Sherwood Forest.",
         "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Negative",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "judge sends",
-            "beach killer",
-            "fiery exchange"
+            "ancient 'robin",
+            "major oak"
+        ]
+    },
+    {
+        "title": "Gunfire and explosions heard at Niger capital's airport",
+        "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+        "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+        "source": "BBC News",
+        "objectivity_score": 12,
+        "sentiment": "Neutral",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "capital 's airport"
+        ]
+    },
+    {
+        "title": "'Urgent' DBS system review after BBC investigation",
+        "link": "https://www.bbc.com/news/articles/c621zwn21xyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Kristian Parry was able to get a job in a nursery while on bail for sex offences involving children.",
+        "source": "BBC News",
+        "objectivity_score": 62,
+        "sentiment": "Positive",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "system review",
+            "kristian parry",
+            "sex offences"
+        ]
+    },
+    {
+        "title": "Why a Gen Z Londoner can graze sheep on land in the Welsh valleys",
+        "link": "https://www.bbc.com/news/articles/cpwe51787z0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Caleb Tutt travelled from Lambeth to a hilltop in Llantrisant to claim his ancient birthright.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "gen z londoner",
+            "graze sheep",
+            "welsh valleys"
         ]
     },
     {
@@ -1168,75 +1143,180 @@
         ]
     },
     {
-        "title": "This was an England we haven't seen for years - and it was fun",
-        "link": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Fun to watch and full of intent - this was an England we have not seen for years, writes Phil McNulty.",
+        "title": "Tactical analysis: England look exciting but how can they tighten up?",
+        "link": "https://www.bbc.com/sport/articles/c98256ypwy0o?at_medium=RSS&at_campaign=rss",
+        "summary": "England produced some exciting attacking football while beating Croatia 4-2 but why did they look so shaky defensively?",
         "source": "BBC News",
+        "objectivity_score": 70,
+        "sentiment": "Neutral",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "tactical"
+        ]
+    },
+    {
+        "title": "From one to 48 - every World Cup team ranked after first game",
+        "link": "https://www.bbc.com/sport/football/articles/cn4djkzxygjo?at_medium=RSS&at_campaign=rss",
+        "summary": "All 48 teams at the World Cup have now played once. BBC Sport's experts have ranked them all, from best to worst. Who is top? Not defending champions Argentina.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "world cup team",
+            "world cup",
+            "bbc sport"
+        ]
+    },
+    {
+        "title": "'I never imagined something like this' - Nadal reflects on Wimbledon 2008 win",
+        "link": "https://www.bbc.com/sport/tennis/articles/c0k2e63lypdo?at_medium=RSS&at_campaign=rss",
+        "summary": "Rafael Nadal recalls his seismic five-set victory over Roger Federer in the 2008 Wimbledon final, arguably the greatest men's match ever played.",
+        "source": "BBC News",
+        "objectivity_score": 80,
+        "sentiment": "Positive",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "rafael nadal",
+            "seismic five-set victory",
+            "roger federer"
+        ]
+    },
+    {
+        "title": "Konate to join Real Madrid on four-year deal",
+        "link": "https://www.bbc.com/sport/football/articles/crr8797ek15o?at_medium=RSS&at_campaign=rss",
+        "summary": "Real Madrid agree a deal to sign Ibrahima Konate on a four-year contract when the France centre-back leaves Liverpool at the end of June.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "real madrid",
+            "real madrid",
+            "ibrahima konate"
+        ]
+    },
+    {
+        "title": "Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal",
+        "link": "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html",
+        "summary": "The agreement delays the most difficult steps for Iran for later talks, while granting it crucial benefits.",
+        "source": "NYT > World News",
+        "objectivity_score": 47,
+        "sentiment": "Neutral",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "minimal concessions",
+            "initial deal",
+            "agreement delays"
+        ]
+    },
+    {
+        "title": "The Russian Film Director Who Chooses Moments to Challenge Putin",
+        "link": "https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html",
+        "summary": "Alexander Sokurov has questioned the Russian president about government repression but he is still controversial among his countrys exiles.",
+        "source": "NYT > World News",
         "objectivity_score": 31,
         "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "phil mcnulty"
+            "who chooses",
+            "challenge putin alexander sokurov",
+            "russian president"
         ]
     },
     {
-        "title": "England hit four in World Cup opener against Croatia",
-        "link": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
-        "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
-        "source": "BBC News",
-        "objectivity_score": 87,
-        "sentiment": "Positive",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "world cup opener",
-            "croatia england",
-            "world cup"
-        ]
-    },
-    {
-        "title": "'Chip on shoulder' may help Bellingham to best form",
-        "link": "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Jude Bellingham says the external \"noise\" around his place in the England team may help him find his best form during the World Cup.",
-        "source": "BBC News",
-        "objectivity_score": 23,
-        "sentiment": "Positive",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "jude bellingham",
-            "world cup"
-        ]
-    },
-    {
-        "title": "Fans boo, players adapt - the view on World Cup hydration breaks",
-        "link": "https://www.bbc.com/sport/football/articles/cwye0zdm9j4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Supporters are booing them, coaches are using them, players are adapting to them - mid-half hydration breaks are affecting everyone at the World Cup in different ways.",
-        "source": "BBC News",
-        "objectivity_score": 60,
+        "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
+        "link": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
+        "summary": "The attack, which shut down the citys airports for several hours, appeared to be the biggest wave of drone strikes on Russias capital since the start of the war.",
+        "source": "NYT > World News",
+        "objectivity_score": 14,
         "sentiment": "Neutral",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "players adapt",
-            "world cup hydration",
-            "mid-half hydration"
+            "ukraine strikes moscow refinery",
+            "large-scale drone attack",
+            "citys airports"
         ]
     },
     {
-        "title": "U.S. Details Agreement With Iran as Trump Departs G7 Summit",
-        "link": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france",
-        "summary": "A U.S. official provided what was described as the text of the preliminary agreement, which outlined a $300 billion plan for Irans reconstruction and 60 days of talks on its nuclear program.",
+        "title": "Taiwan\u2019s President Says He Trusts Trump to Approve Arms Sales",
+        "link": "https://www.nytimes.com/2026/06/18/world/asia/taiwan-trump-china-arms-weapons.html",
+        "summary": "President Lai Ching-te made the hopeful remarks after Mr. Trump suggested that he could use a proposed $14 billion arms package for Taiwan as leverage with Beijing.",
         "source": "NYT > World News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "details agreement",
-            "trump departs g7 summit",
-            "preliminary agreement"
+            "\u2019 s president",
+            "trusts trump",
+            "lai ching-te"
+        ]
+    },
+    {
+        "title": "Are Your Ancestors Canadian? Here\u2019s What to Know About Becoming a Citizen.",
+        "link": "https://www.nytimes.com/2026/06/18/world/canada/canadian-citizenship-guide.html",
+        "summary": "Six months after Canada expanded its citizenship eligibility, requests are flooding in for archival records. The documents are vital for proving ties to the country.",
+        "source": "NYT > World News",
+        "objectivity_score": 62,
+        "sentiment": "Positive",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "your ancestors",
+            "citizenship eligibility",
+            "archival records"
+        ]
+    },
+    {
+        "title": "Why the By-Election in Makerfield Will Have Giant Consequences for the UK",
+        "link": "https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-by-election-burnham-starmer.html",
+        "summary": "Here is what to know about the by-election on Thursday in Makerfield, the outcome of which could lead to Prime Minister Keir Starmers ouster.",
+        "source": "NYT > World News",
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "makerfield will have giant consequences",
+            "keir starmers"
+        ]
+    },
+    {
+        "title": "In Southeast Asia, Switching to Solar Offers Relief from Energy Crisis Caused by Iran War",
+        "link": "https://www.nytimes.com/2026/06/18/world/asia/asia-oil-crisis-iran-solar-panels.html",
+        "summary": "Homeowners and businesses in the region, which relies heavily on imported oil, are installing rooftop solar panels to reduce the sting of soaring energy costs.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "solar offers relief",
+            "energy crisis caused",
+            "rooftop solar panels"
+        ]
+    },
+    {
+        "title": "Team Medic Recounts Iran\u2019s \u2018Stressful\u2019 World Cup Debut in L.A.",
+        "link": "https://www.nytimes.com/2026/06/17/world/middleeast/iran-world-cup-united-states.html",
+        "summary": "A member of Irans medical team says the team endured delays, multiple security searches and a rushed exit, frustrating players and officials.",
+        "source": "NYT > World News",
+        "objectivity_score": 30,
+        "sentiment": "Negative",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "team medic recounts iran",
+            "\u2019 world cup",
+            "medical team"
         ]
     },
     {
@@ -1328,151 +1408,60 @@
         ]
     },
     {
-        "title": "Finland Lifts a Nuclear Weapons Ban, Eyeing an Uncertain World",
-        "link": "https://www.nytimes.com/2026/06/17/world/europe/finland-nuclear-devices.html",
-        "summary": "The Nordic country, which shares an 830-mile border with Russia, said the move would strengthen the NATO alliance, which it joined three years ago.",
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal/heres-the-latest",
+        "summary": "",
         "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "finland lifts",
-            "nuclear weapons ban",
-            "830-mile border"
-        ]
-    },
-    {
-        "title": "Congo Returns to World Cup in High Style After 52 Years Away",
-        "link": "https://www.nytimes.com/2026/06/17/world/africa/congo-team-world-cup-soccer-leopard-fashion-sapeur.html",
-        "summary": "The soccer stars sharp black suits with leopard-print details are a nod to a long history of sapeur fashion.",
-        "source": "NYT > World News",
-        "objectivity_score": 53,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "congo returns",
-            "world cup",
-            "years away"
-        ]
-    },
-    {
-        "title": "Naval Mines Could Still Stymie Gulf Shipping After War",
-        "link": "https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html",
-        "summary": "The U.S. Navy will be deploying a new generation of drone-based countermeasures to search the sea floor and surface for any mines Iran laid.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
+        "objectivity_score": 90,
         "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "naval mines",
-            "new generation",
-            "sea floor"
+            "here\u2019s"
         ]
     },
     {
-        "title": "Japan Raids Ice Cream Giants in Cartel Investigation",
-        "link": "https://www.nytimes.com/2026/06/17/world/asia/japan-ice-cream-cartel-investigation.html",
-        "summary": "The Fair Trade Commission said that it suspected six leading ice cream manufacturers fixed the prices of popular frozen treats.",
+        "title": "Archbishop of Canterbury Apologizes for Church of England\u2019s Role in Forced Adoptions",
+        "link": "https://www.nytimes.com/2026/06/18/world/europe/church-england-apology-forced-adoptions-uk.html",
+        "summary": "Tens of thousands of babies were taken from unmarried women and girls from the 1950s to the 1980s in England and Wales.",
         "source": "NYT > World News",
-        "objectivity_score": 66,
-        "sentiment": "Positive",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "japan raids ice cream",
-            "fair trade commission",
-            "ice cream manufacturers"
-        ]
-    },
-    {
-        "title": "Norway\u2019s Crown Princess Has Lung Transplant",
-        "link": "https://www.nytimes.com/2026/06/17/world/europe/norway-crown-princess-mette-marit-lung-transplant.html",
-        "summary": "Princess Mette-Marit was placed on a waiting list for organ donation this month. Thousands of Norwegians signed up as organ donors.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "lung transplant",
-            "organ donation",
-            "organ donors"
-        ]
-    },
-    {
-        "title": "Russian Navy Ship Fired Warning Shots Near British Couple\u2019s Sailboat",
-        "link": "https://www.nytimes.com/2026/06/16/world/europe/russian-navy-english-channel-yacht-uk.html",
-        "summary": "Britains Ministry of Defense said that the Russian vessel appeared to be trying to avoid a collision in the English Channel.",
-        "source": "NYT > World News",
-        "objectivity_score": 8,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "russian navy",
-            "ship fired warning shots near",
-            "sailboat britains ministry"
-        ]
-    },
-    {
-        "title": "Can a Trump-Modi Meeting Reset U.S.-India Relations?",
-        "link": "https://www.nytimes.com/2026/06/16/world/asia/trump-modi-meeting-g7.html",
-        "summary": "Despite mutual praise between the two leaders, there has been a series of setbacks to U.S. relations with India since they last met more than a year ago.",
-        "source": "NYT > World News",
-        "objectivity_score": 28,
-        "sentiment": "Positive",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "trump-modi meeting reset u.s.-india",
-            "mutual praise"
-        ]
-    },
-    {
-        "title": "In Southeast Asia, Switching to Solar Offers Relief from Energy Crisis Caused by Iran War",
-        "link": "https://www.nytimes.com/2026/06/18/world/asia/asia-oil-crisis-iran-solar-panels.html",
-        "summary": "Homeowners and businesses in the region, which relies heavily on imported oil, are installing rooftop solar panels to reduce the sting of soaring energy costs.",
-        "source": "NYT > World News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "solar offers relief",
-            "energy crisis caused",
-            "rooftop solar panels"
-        ]
-    },
-    {
-        "title": "Why the By-Election in Makerfield Will Have Giant Consequences for the UK",
-        "link": "https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-by-election-burnham-starmer.html",
-        "summary": "Here is what to know about the by-election on Thursday in Makerfield, the outcome of which could lead to Prime Minister Keir Starmers ouster.",
-        "source": "NYT > World News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "makerfield will have giant consequences",
-            "keir starmers"
-        ]
-    },
-    {
-        "title": "Team Medic Recounts Iran\u2019s \u2018Stressful\u2019 World Cup Debut in L.A.",
-        "link": "https://www.nytimes.com/2026/06/17/world/middleeast/iran-world-cup-united-states.html",
-        "summary": "A member of Irans medical team says the team endured delays, multiple security searches and a rushed exit, frustrating players and officials.",
-        "source": "NYT > World News",
-        "objectivity_score": 30,
+        "objectivity_score": 20,
         "sentiment": "Negative",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "team medic recounts iran",
-            "\u2019 world cup",
-            "medical team"
+            "canterbury apologizes",
+            "forced adoptions tens",
+            "unmarried women"
+        ]
+    },
+    {
+        "title": "As India Temporarily Bans Telegram, Which Other Countries Have Restricted the Messaging App?",
+        "link": "https://www.nytimes.com/2026/06/18/technology/telegram-ban-india.html",
+        "summary": "Several countries have restricted the messaging app, a valuable platform for dissidents, criminals and extremists. Heres an overview.",
+        "source": "NYT > World News",
+        "objectivity_score": 18,
+        "sentiment": "Neutral",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "india temporarily bans telegram",
+            "countries have restricted",
+            "messaging app"
+        ]
+    },
+    {
+        "title": "Trump Signs Preliminary Deal to End the War With Iran",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000010975931/trump-signs-iran-deal.html",
+        "summary": "The White House confirmed that President Trump signed the memorandum of understanding between the United States and Iran on Wednesday at the Palace of Versailles.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "trump signs preliminary deal",
+            "white house"
         ]
     },
     {
@@ -1562,21 +1551,6 @@
             "trump criticized obama",
             "iran deal",
             "offer tehran relief"
-        ]
-    },
-    {
-        "title": "Teenagers vs. Social Media Bans",
-        "link": "https://www.nytimes.com/2026/06/17/world/social-media-ban-iran-deal-congo-world-cup.html",
-        "summary": "Australia barred children from social media in December. Since then, young people have found plenty of ways to skirt the measure.",
-        "source": "NYT > World News",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "media bans australia",
-            "social media",
-            "young people"
         ]
     },
     {
@@ -1805,33 +1779,48 @@
         ]
     },
     {
-        "title": "Australia news live: press gallery \u2018strongly objects\u2019 to One Nation threats to ban journalists",
+        "title": "Jackie O pursues claim against Kiis FM after Kyle Sandilands settles \u2013 as it happened",
         "link": "https://www.theguardian.com/australia-news/live/2026/jun/18/australia-news-live-non-stop-sydney-london-flights-qantas-one-nation-pauline-hanson-labor-anthony-albanese-economy-cost-of-living-ntwnfb",
-        "summary": "Get our breaking news email, free app or daily news podcastCoalition says its good Hanson and One Nation getting the scrutiny of a party on the riseKevin Hogan, the shadow assistant treasurer, says he...",
+        "summary": "This blog is now closedMedia union blasts Pauline Hansons bitter, unprofessional attack on Guardian journalistGet our breaking news email, free app or daily news podcastCoalition says its good Hanson ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 35,
         "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "press gallery \u2018",
-            "objects \u2019",
-            "ban journalists"
+            "o pursues",
+            "kiis fm",
+            "kyle sandilands"
         ]
     },
     {
-        "title": "\u2018I wish it hit me\u2019: Sydney parents share anguish after siblings in pram hit and killed by car",
-        "link": "https://www.theguardian.com/australia-news/2026/jun/18/i-wish-it-hit-me-sydney-mother-shares-anguish-after-siblings-in-pram-hit-and-killed-by-car",
-        "summary": "Katherine, five, and Harry, aged 14 months, died on Wednesday after their pram was hit by an SUV in CabramattaA tight-knit community is reeling after a kindergarten student and her baby brother were k...",
+        "title": "Media union blasts Pauline Hanson\u2019s \u2018bitter, unprofessional\u2019 attack on Guardian journalist",
+        "link": "https://www.theguardian.com/australia-news/2026/jun/18/pauline-hanson-attack-on-guardian-journalist-national-press-club-speech-ntwnfb",
+        "summary": "Union calls for journalists to stand with colleagues when they are targeted by politicians as Anthony Albanese says media organisations play vital roles in our democracyFollow our Australia news live ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Neutral",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "tight-knit community",
-            "kindergarten student",
-            "baby brother"
+            "union blasts",
+            "pauline hanson",
+            "unprofessional \u2019 attack"
+        ]
+    },
+    {
+        "title": "Inquest into Melbourne influencer\u2019s death following freebirth halted after new phone evidence discovered",
+        "link": "https://www.theguardian.com/australia-news/2026/jun/18/freebirth-death-melbourne-influencer-phone-evidence-inquest-ntwnfb",
+        "summary": "Coroner tells inquiry new material of such significance any findings must be postponed so information can be analysedFollow our Australia news live blog for latest updatesGet our breaking news email, ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "influencer \u2019 s death",
+            "new phone evidence",
+            "new material"
         ]
     },
     {
@@ -1839,7 +1828,7 @@
         "link": "https://www.theguardian.com/australia-news/2026/jun/18/albanese-announces-generous-capital-gains-tax-exemptions-for-small-businesses-after-budget-backlash",
         "summary": "Startups and testamentary trusts to receive carve outs after criticism of Labors CGT changesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news po...",
         "source": "World news | The Guardian",
-        "objectivity_score": 44,
+        "objectivity_score": 41,
         "sentiment": "Neutral",
         "date": "2026-06-18",
         "image_url": null,
@@ -1850,108 +1839,123 @@
         ]
     },
     {
-        "title": "Ebike thefts soar in NSW as Victoria\u2019s crime rate drops for first time in four years",
-        "link": "https://www.theguardian.com/australia-news/2026/jun/18/ebike-thefts-soar-in-nsw-as-victorias-rate-drops-for-first-time-in-four-years",
-        "summary": "Theft rises in both states, even as Victorias crime rate decreases 1.9% on the year beforeFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podc...",
+        "title": "Death of Indigenous teen found on rail tracks with towel under head \u2018suspicious\u2019, NSW coroner says",
+        "link": "https://www.theguardian.com/australia-news/2026/jun/18/racism-hindered-nsw-police-investigation-into-the-1988-death-of-indigenous-teenager-mark-haines-inquest-found-ntwnfb",
+        "summary": "Police initially ruled Mark Haines 1988 death a suicide but coroner says investigation hindered by racism and deeply flawedWarning: This article contains images of and references to Indigenous Austral...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
+        "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "thefts soar",
-            "\u2019 s crime rate drops",
-            "crime rate decreases"
+            "rail tracks",
+            "head \u2018",
+            "suspicious \u2019"
         ]
     },
     {
-        "title": "Political lobbyists with unfettered access to Australia\u2019s parliament to be publicly named",
-        "link": "https://www.theguardian.com/australia-news/2026/jun/18/political-lobbyists-with-unfettered-access-to-australias-parliament-to-be-publicly-named",
-        "summary": "MPs who sponsor lobbyists entry to halls of power will also be listed online under new transparency rulesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or ...",
+        "title": "US to review benefits of having troops in Europe with \u2018era of free-riding\u2019 over \u2013 Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/jun/18/ukraine-russia-moscow-strikes-nato-defence-ministers-hegseth-rutte-latest-news-updates",
+        "summary": "US defence secretary Pete Hegseth said that US dues to the Nato budget will be contingent on other countries meeting defence spending targetsHegseth makes it clear that the review will not be just a b...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "political lobbyists",
-            "\u2019 s parliament",
-            "lobbyists entry"
-        ]
-    },
-    {
-        "title": "UK officials expect Russia to retaliate for seizure of shadow fleet oil tanker",
-        "link": "https://www.theguardian.com/politics/2026/jun/17/uk-expect-russia-retaliate-seizure-shadow-fleet-oil-tanker-smyrtos",
-        "summary": "No formal warning issued to captains or ship owners, but industry body says they are exercising greater vigilanceBritish officials believe Russia will try to retaliate for the Royal Marines seizure of...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
+        "objectivity_score": 43,
         "sentiment": "Neutral",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "shadow fleet oil tanker",
-            "formal warning",
-            "ship owners"
+            "us defence secretary",
+            "pete hegseth",
+            "us dues"
         ]
     },
     {
-        "title": "French police authorised to use water cannon on asylum seekers in \u00a3660m deal with UK",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/17/french-police-in-660m-deal-with-uk-authorised-to-use-water-cannon-on-asylum-seekers",
-        "summary": "Refugee charity says decision to let riot police use water cannon, which are banned in Great Britain, is sickeningFrench riot police deployed in northern France under a 660m deal with the UK are autho...",
+        "title": "Russian oil refinery on fire after barrage of Ukrainian drones strike Moscow",
+        "link": "https://www.theguardian.com/world/2026/jun/18/moscow-oil-refinery-on-fire-ukraine-drone-stikes",
+        "summary": "Scale of long range-attack catches Muscovites by surprise, prompting panicked messages on social mediaEurope live  latest updatesUkrainian drones have hit several locations across Moscow in Kyivs bigg...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 41,
+        "sentiment": "Neutral",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "russian oil refinery",
+            "drones strike",
+            "moscow scale"
+        ]
+    },
+    {
+        "title": "Ukraine bolsters its northern defences amid fears Belarus is being dragged into war",
+        "link": "https://www.theguardian.com/world/2026/jun/18/ukraine-bolsters-its-northern-defences-amid-fears-belarus-is-being-dragged-into-war",
+        "summary": "Kyiv is not taking any risks amid Moscows efforts to integrate Minsk ever more closely into its warRussian spy drones flying into Ukraine from Belarusian airspace have sharply increased since the begi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
         "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "water cannon",
-            "asylum seekers",
-            "uk refugee"
+            "northern defences",
+            "warrussian spy drones",
+            "senior officials"
         ]
     },
     {
-        "title": "Golden ticket: why Versailles invite is the \u2018real deal\u2019 for Trump",
-        "link": "https://www.theguardian.com/us-news/2026/jun/17/versailles-dinner-trump-macron-g7",
-        "summary": "The US presidents opulent tastes will be well served in a palace that has hosted Putin, King Charles and JFKFor a US president who has likened himself to a king and redecorated the Oval Office with go...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 58,
-        "sentiment": "Positive",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "golden ticket",
-            "us presidents opulent tastes",
-            "us president"
-        ]
-    },
-    {
-        "title": "Macron hails US alignment with G7\u2019s \u2018shared commitment\u2019 on Ukraine",
-        "link": "https://www.theguardian.com/world/2026/jun/17/macron-hails-us-alignment-with-g7s-shared-commitment-on-ukraine",
-        "summary": "French president welcomes groups unity after very deep change in Washingtons approach Emmanuel Macron has said the whole of the G7, including the US, recognises the territorial integrity of Ukraine as...",
+        "title": "Western Europeans believe crime is rising despite fall in overall rates, poll finds",
+        "link": "https://www.theguardian.com/world/2026/jun/18/western-europeans-crime-rising-despite-fall-overall-rates-poll-finds",
+        "summary": "YouGov survey of six countries shows respondents think crime is increasing  though most trust their national police Western Europeans believe crime is rising in their country, according to a survey, d...",
         "source": "World news | The Guardian",
         "objectivity_score": 27,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "hails us alignment",
-            "commitment \u2019",
-            "french president welcomes groups unity"
-        ]
-    },
-    {
-        "title": "Trump tells G7 summit he hopes Europe \u2018finds its way\u2019 on immigration and energy \u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates",
-        "summary": "This blog has now closed  see all our coverage of the G7 summit hereRutte says the adjustment in the US pledge to the Nato Force Model is not primarily about where forces and assets are currently, but...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "energy \u2013",
-            "summit hererutte",
-            "us pledge"
+            "overall rates",
+            "countries shows respondents",
+            "national police"
+        ]
+    },
+    {
+        "title": "Rejoining customs union would not fix damage caused by Brexit, research finds",
+        "link": "https://www.theguardian.com/politics/2026/jun/18/brexit-customs-union-exports-single-market-research",
+        "summary": "Exclusive: Economists find Brexit caused 12% depression in UK exports, most of which is due to leaving single marketBrexit has depressed UK exports to the EU by 12%, and rejoining the customs union wo...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 52,
+        "sentiment": "Neutral",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "customs union",
+            "fix damage",
+            "% depression"
+        ]
+    },
+    {
+        "title": "Middle East crisis live: Trump calls critics of Iran deal \u2018jealous, bad people, or stupid\u2019; Tehran says it will charge toll in strait of Hormuz after 60 days",
+        "link": "https://www.theguardian.com/world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-trump-tehran-strait-of-hormuz-toll-lebanon-israel",
+        "summary": "The US president responded to critics of his deal with Tehran; chief Iranian negotiator says key waterway will not return to prewar conditions after 60-day windowReaction: Donald Trumps Iran deal met ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 55,
+        "sentiment": "Negative",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "calls critics",
+            "\u2018 jealous",
+            "bad people"
+        ]
+    },
+    {
+        "title": "Dubai property sales have fallen \u2018off a cliff\u2019 since start of Middle East war",
+        "link": "https://www.theguardian.com/business/2026/jun/18/dubai-property-sales-fall-since-middle-east-war-say-experts",
+        "summary": "Sellers of luxury villas have wiped tens of millions of pounds off asking prices, with sales down 19% in May from the previous monthProperty sales in Dubai have fallen off a cliff, a leading market wa...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Negative",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "property sales",
+            "cliff \u2019",
+            "luxury villas"
         ]
     },
     {
@@ -1972,9 +1976,9 @@
     {
         "title": "Trump signs Iran peace plan, claiming deal averts \u2018worldwide depression\u2019",
         "link": "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal",
-        "summary": "Details of the 14-point agreement revealed as senior US officials claim major win despite significant concessions to TehranMiddle East crisis  live updatesReaction: Donald Trumps Iran deal met with an...",
+        "summary": "Details of the 14-point agreement revealed as senior US officials claim major win despite significant concessions to TehranReaction: Donald Trumps Iran deal met with anger, relief and incredulityAnaly...",
         "source": "World news | The Guardian",
-        "objectivity_score": 46,
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
@@ -2000,33 +2004,18 @@
         ]
     },
     {
-        "title": "Trump\u2019s Iran deal is result of unrealistic ambitions for an untenable war",
-        "link": "https://www.theguardian.com/world/2026/jun/17/trumps-iran-deal-is-result-of-unrealistic-ambitions-for-an-untenable-war",
-        "summary": "US entered war with maximalist goals and exits it with pragmatic decision to end conflict despite political costMiddle East crisis  live updatesAs the adage goes: no plan of battle survives first cont...",
+        "title": "Taliban order ban on smartphones as officials shown destroying devices",
+        "link": "https://www.theguardian.com/global-development/2026/jun/18/taliban-ban-smartphones-officials-shown-destroying-devices",
+        "summary": "Directive aimed at government workers, but reports of wider implementation spark warnings of future Afghanistan-wide prohibitionThe Taliban have ordered a sweeping ban on the use of smartphones by gov...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
+        "objectivity_score": 42,
+        "sentiment": "Negative",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "unrealistic ambitions",
-            "untenable war us",
-            "maximalist goals"
-        ]
-    },
-    {
-        "title": "Construction equipment multinationals may be aiding Israeli war crimes, experts say",
-        "link": "https://www.theguardian.com/world/2026/jun/17/construction-equipment-multinationals-may-aiding-israeli-war-crimes-experts",
-        "summary": "Exclusive: Images show Israeli military using six companies bulldozers and excavators to demolish south Lebanon villagesHuman rights experts have alleged that six multinational construction equipment ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "equipment multinationals",
-            "war crimes",
-            "companies bulldozers"
+            "order ban",
+            "government workers",
+            "government officials"
         ]
     },
     {
@@ -2090,108 +2079,108 @@
         ]
     },
     {
-        "title": "US lawmakers demand Trump officials halt plan to send Afghans to DRC",
-        "link": "https://www.theguardian.com/world/2026/jun/11/us-lawmakers-trump-afghans-drc",
-        "summary": "Government urged to reconsider proposal for 1,100 Afghans, currently stranded in Qatar, who worked with US forcesDozens of US lawmakers urged the Trump administration on Thursday to roll back any plan...",
+        "title": "Polls open in historic byelection in Makerfield that could determine Keir Starmer\u2019s future \u2013 UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-polls-open-labour-leadership-andy-burnham-keir-starmer-latest-news-updates",
+        "summary": "Andy Burnham hopes a successful byelection will mean he can encourage Keir Starmer to step aside as prime ministerAndy Burnhams campaign has been forced to talk ministers out of resigning as early as ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 26,
+        "objectivity_score": 49,
         "sentiment": "Neutral",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "us lawmakers demand",
-            "us forcesdozens",
-            "us lawmakers"
+            "historic byelection",
+            "keir starmer",
+            "\u2019 s future \u2013"
         ]
     },
     {
-        "title": "\u2018Most famous tree in the world\u2019: Sherwood Forest\u2019s 1,000-year-old Major oak dies",
-        "link": "https://www.theguardian.com/environment/2026/jun/18/most-famous-tree-world-sherwood-forest-ancient-major-oak-dies",
-        "summary": "Nottinghamshire tree, one of Europes oldest and largest, fails to produce leaves after being stressed by series of hot, dry summersThe Major oak, one of Europes oldest, largest and most celebrated anc...",
+        "title": "Church of England apologises for role in forced adoptions",
+        "link": "https://www.theguardian.com/society/2026/jun/18/church-of-england-apologises-for-role-in-forced-adoptions",
+        "summary": "Church profoundly sorry for pain caused to mothers and children separated at birth between 1940s and 1980sThe Church of England has made a long-awaited apology for its role in forced adoptions after t...",
         "source": "World news | The Guardian",
-        "objectivity_score": 62,
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "adoptions church",
+            "1980sthe church",
+            "world war.hundreds"
+        ]
+    },
+    {
+        "title": "UK mosques advised to run lockdown drills amid fears of anti-Muslim attacks",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/18/mosques-lockdown-drills-fears-anti-muslim-attacks-grow-mcb-guidance",
+        "summary": "Exclusive: Muslim Council of Britain national guidance also urges mosques to strengthen police ties and improve CCTVMosques are being advised to carry out lockdown drills, strengthen ties with police ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "famous tree",
-            "world \u2019",
-            "forest \u2019 s 1,000-year-old major oak"
+            "lockdown drills",
+            "anti-muslim attacks",
+            "national guidance"
         ]
     },
     {
-        "title": "Solstice-aligned 5,000-year-old monument \u2018once in a lifetime find\u2019, say archaeologists",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/18/solstice-aligned-monument-archaeology-wiltshire-stonehenge-prototype",
-        "summary": "Wessex Archaeology suspect they have uncovered a prototype for world-famous Stonehenge site in WiltshireA 5,000-year-old monument that was aligned with the summer and winter solstices and may have ser...",
+        "title": "Drax cleared after investigation into sourcing of wood pellets",
+        "link": "https://www.theguardian.com/business/2026/jun/18/fca-closes-investigation-drax-biomass-fuel-sourcing-wood-pellets",
+        "summary": "Generators shares rise as regulator finds no evidence of misleading statements about fuels sustainabilityBusiness live  latest updatesThe City watchdog has closed an investigation into the power gener...",
         "source": "World news | The Guardian",
-        "objectivity_score": 60,
+        "objectivity_score": 42,
         "sentiment": "Positive",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "5,000-year-old monument \u2018",
-            "wessex archaeology",
-            "5,000-year-old monument"
+            "wood pellets",
+            "shares rise",
+            "updatesthe city watchdog"
         ]
     },
     {
-        "title": "Burnham team tell ministers to delay resignations to avoid chaos",
-        "link": "https://www.theguardian.com/politics/2026/jun/17/exclusive-burnham-team-convince-ministers-delay-resignations-avoid-chaos",
-        "summary": "Exclusive: Allies of Labours Makerfield candidate concerned rapid collapse of Starmer government would increase instabilityHow quickly could Andy Burnham become the UKs prime minister?Andy Burnhams ca...",
+        "title": "Cambridge experts recreate 336-year-old garden to commemorate \u2018father of natural history\u2019",
+        "link": "https://www.theguardian.com/environment/2026/jun/18/cambridge-experts-recreate-336-year-old-garden-to-commemorate-father-of-natural-history",
+        "summary": "John Ray, 17th-century botanist who coined words petal and pollen, was a tutor at Cambridge when he created his first gardenHe coined the terms petal and pollen, helped to lay the foundations of moder...",
         "source": "World news | The Guardian",
-        "objectivity_score": 53,
+        "objectivity_score": 39,
+        "sentiment": "Positive",
+        "date": "2026-06-18",
+        "image_url": null,
+        "keywords": [
+            "experts recreate 336-year-old garden",
+            "commemorate \u2018 father",
+            "natural history \u2019"
+        ]
+    },
+    {
+        "title": "Driver hailed for saving tourists from rip current at Louisiana beach: \u2018I just locked in\u2019",
+        "link": "https://www.theguardian.com/us-news/2026/jun/18/louisiana-beach-tourists-rescue",
+        "summary": "Jordan Matthew, who has no lifeguard training, rescued a young boy and two women from the dangerous currentA shuttle driver recently used his bare hands to rescue three tourists ensnared by a potentia...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 42,
         "sentiment": "Neutral",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "labours makerfield",
-            "rapid collapse",
-            "andy burnham"
+            "jordan matthew",
+            "lifeguard training",
+            "young boy"
         ]
     },
     {
-        "title": "\u2018We had right of way\u2019: when British fair play met Russian firepower off the Isle of Wight",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/17/we-had-right-of-way-when-british-fair-play-met-russian-firepower-off-the-isle-of-wight",
-        "summary": "Jane and Alan Kelveys holiday yacht met a warship in the Channel  at a tense time for Anglo-Russian relationsWe actually had right of way, said Jane Kelvey, a little crossly, though keeping it civil. ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "british fair play",
-            "russian firepower",
-            "wight jane"
-        ]
-    },
-    {
-        "title": "Forced adoption survivors to get full apology from UK government, says Phillipson",
-        "link": "https://www.theguardian.com/society/2026/jun/17/forced-adoption-survivors-full-apology-uk-government-bridget-phillipson",
-        "summary": "Education secretary describes historical practice in England as a shameful period in countrys historyDowning Street is to make a full apology on behalf of the state to those affected by historical for...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "adoption survivors",
-            "full apology",
-            "education secretary"
-        ]
-    },
-    {
-        "title": "Trump says he has signed peace deal with Iran at Versailles \u2013 US politics live",
+        "title": "Trump says he has signed peace deal \u2013 as it happened",
         "link": "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates",
-        "summary": "President tells reporters its signed, yeah, as he attends dinner in honor of 250 years of American independenceSign up for the Breaking News US emailDonald Trump also denied (again) that the memorandu...",
+        "summary": "This liveblog is closed. For the latest on the Middle East crisis, follow our new liveblog here.Sign up for the Breaking News US emailDonald Trump also denied (again) that the memorandum of understand...",
         "source": "World news | The Guardian",
-        "objectivity_score": 35,
+        "objectivity_score": 39,
         "sentiment": "Neutral",
         "date": "2026-06-18",
         "image_url": null,
         "keywords": [
-            "\u2013 us politics",
-            "american independencesign",
-            "news us emaildonald"
+            "new liveblog here.sign",
+            "news us emaildonald",
+            "$ 300bn fund"
         ]
     },
     {
@@ -2237,21 +2226,6 @@
             "us house staff visit",
             "ghislaine maxwell",
             "\u2019 s prison"
-        ]
-    },
-    {
-        "title": "Families of eight women killed confront the Gilgo Beach serial killer: \u2018Save a spot in hell\u2019",
-        "link": "https://www.theguardian.com/us-news/2026/jun/17/gilgo-beach-victims-rex-heuermann-sentence",
-        "summary": "New York judge imposes life without parole after emotional statements at Rex Heuermanns sentencingSign up for the Breaking News US newsletter emailThe families of eight women killed by Rex Heuermann s...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-06-18",
-        "image_url": null,
-        "keywords": [
-            "beach serial killer",
-            "hell \u2019",
-            "emotional statements"
         ]
     }
 ]
