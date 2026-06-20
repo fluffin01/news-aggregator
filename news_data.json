@@ -737,18 +737,16 @@
         ]
     },
     {
-        "title": "Driver dies and 33 people seriously injured as Bedford train crash declared major incident",
-        "link": "https://www.bbc.com/news/articles/cr7xzg93ddxo?at_medium=RSS&at_campaign=rss",
-        "summary": "The crash, which happened at about 17:15 BST on Friday, has left almost 90 people hurt.",
+        "title": "'People flew from their seats': Passengers describe how collision unfolded",
+        "link": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss",
+        "summary": "The East of England Ambulance Service says nearly 90 people were injured, over 30 of them seriously.",
         "source": "BBC News",
-        "objectivity_score": 38,
-        "sentiment": "Neutral",
+        "objectivity_score": 53,
+        "sentiment": "Negative",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "train crash",
-            "major incident",
-            "people hurt"
+            "england ambulance"
         ]
     },
     {
@@ -779,21 +777,6 @@
         ]
     },
     {
-        "title": "Why candidates dress up and run in major UK elections",
-        "link": "https://www.bbc.com/news/articles/cj9g3g28en1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Candidates like Count Binface are motivated to run for different reasons, but their role in politics is a longstanding tradition.",
-        "source": "BBC News",
-        "objectivity_score": 55,
-        "sentiment": "Neutral",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "candidates dress",
-            "count binface",
-            "different reasons"
-        ]
-    },
-    {
         "title": "Cooler Saturday gives brief relief before heat returns",
         "link": "https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&at_campaign=rss",
         "summary": "After a slightly cooler Saturday, temperatures will rise again, possibly touching 35C by Tuesday with a Met Office amber extreme heat warning set to come into force.",
@@ -809,35 +792,35 @@
         ]
     },
     {
-        "title": "'People flew from their seats': Passengers describe how collision unfolded",
-        "link": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss",
-        "summary": "The East of England Ambulance Service says nearly 90 people have been injured -over 30 of them seriously.",
+        "title": "Harry and Meghan offered royal accommodation during UK visit",
+        "link": "https://www.bbc.com/news/articles/c5yzlmkl7zzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Duke and Duchess of Sussex are set to visit the UK with their children next month, for the first time since 2022.",
         "source": "BBC News",
-        "objectivity_score": 53,
-        "sentiment": "Negative",
+        "objectivity_score": 16,
+        "sentiment": "Positive",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "england ambulance"
+            "royal accommodation"
         ]
     },
     {
-        "title": "What we know so far about Bedford train crash",
+        "title": "What we know so far about train collision and emergency response",
         "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss",
-        "summary": "Two East Midland Railway trains crashed into each other, with emergency services now on the scene",
+        "summary": "Two East Midland Railway trains crashed into each other, injuring dozens of passengers and crew.",
         "source": "BBC News",
         "objectivity_score": 68,
         "sentiment": "Neutral",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "train crash",
-            "midland railway",
-            "emergency services"
+            "train collision",
+            "emergency response",
+            "midland railway"
         ]
     },
     {
-        "title": "Video shows scene of crash as passenger describes aftermath",
+        "title": "Video shows scene of collision as passenger describes aftermath",
         "link": "https://www.bbc.com/news/videos/c8d21z2q77do?at_medium=RSS&at_campaign=rss",
         "summary": "Passenger Pete Knapp said the crash \"felt like [he'd] been in a bomb explosion\".",
         "source": "BBC News",
@@ -852,7 +835,22 @@
         ]
     },
     {
-        "title": "Scotland fans dejected after loss to Morocco at World Cup",
+        "title": "Flawed but relentless Scotland show themselves as men of substance",
+        "link": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Morocco threatened to blow Scotland away early on, but Steve Clarke's squad showed their resilience despite defeat, writes Tom English.",
+        "source": "BBC News",
+        "objectivity_score": 26,
+        "sentiment": "Negative",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "steve clarke",
+            "'s squad",
+            "tom english"
+        ]
+    },
+    {
+        "title": "Scotland fans dejected after loss to Morocco",
         "link": "https://www.bbc.com/news/articles/c621nzy2jkvo?at_medium=RSS&at_campaign=rss",
         "summary": "Fans at home and at the World Cup in the US watched as Scotland lost 1-0 to Morocco.",
         "source": "BBC News",
@@ -861,23 +859,37 @@
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "world cup",
+            "morocco fans",
             "world cup"
         ]
     },
     {
-        "title": "Quiz: What type of World Cup fan are you?",
-        "link": "https://www.bbc.com/news/articles/cy4ek8pegj1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Take our World Cup quiz and discover your fan personality type.",
+        "title": "World Cup still waits for real Brazil to show up",
+        "link": "https://www.bbc.com/sport/football/articles/c4gy8lldwqyo?at_medium=RSS&at_campaign=rss",
+        "summary": "While rivals Argentina and France have impressed in the United States, Brazil have struggled to hit top form - despite a 3-0 win over minnows Haiti.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 55,
+        "sentiment": "Positive",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "world cup fan",
-            "world cup quiz",
-            "fan personality type"
+            "world cup",
+            "top form"
+        ]
+    },
+    {
+        "title": "Paraguay's Almiron first player sent off for covering mouth",
+        "link": "https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&at_campaign=rss",
+        "summary": "Paraguay's Miguel Almiron is the first player to be shown a red card for covering his mouth while speaking to an opponent - doing so during the World Cup match against Turkey.",
+        "source": "BBC News",
+        "objectivity_score": 22,
+        "sentiment": "Positive",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "miguel almiron",
+            "red card",
+            "world cup"
         ]
     },
     {
@@ -894,6 +906,49 @@
         ]
     },
     {
+        "title": "Love Pride but hate big parades? These places are doing it differently",
+        "link": "https://www.bbc.com/news/articles/cj6g85kr375o?at_medium=RSS&at_campaign=rss",
+        "summary": "From Glasgow to Salford, smaller, unique events are celebrating the LGBTQ+ community.",
+        "source": "BBC News",
+        "objectivity_score": 61,
+        "sentiment": "Neutral",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "big parades",
+            "unique events"
+        ]
+    },
+    {
+        "title": "Japanese pop group XG went from brutal six year training to global pop stars",
+        "link": "https://www.bbc.com/news/articles/cly8gj8pqz7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Japanese pop group have become global stars, after being recruited before they were teenagers.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Negative",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "year training",
+            "global stars"
+        ]
+    },
+    {
+        "title": "A fox, a gannet and an intergalactic space warrior - why UK election candidates dress up",
+        "link": "https://www.bbc.com/news/articles/cj9g3g28en1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Candidates like Count Binface are motivated to run for different reasons, but their role in politics is a longstanding tradition.",
+        "source": "BBC News",
+        "objectivity_score": 60,
+        "sentiment": "Neutral",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "intergalactic space warrior",
+            "election candidates dress",
+            "count binface"
+        ]
+    },
+    {
         "title": "How to stay safe swimming outdoors - and still have fun",
         "link": "https://www.bbc.com/news/articles/c9q3qezvewro?at_medium=RSS&at_campaign=rss",
         "summary": "Pick designated swimming spots, learn about riptides and don't use inflatables at the beach, experts say.",
@@ -907,32 +962,16 @@
         ]
     },
     {
-        "title": "How Japanese girl band XG went from brutal six year training to global pop stars",
-        "link": "https://www.bbc.com/news/articles/cly8gj8pqz7o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Japanese pop group have become global stars, after being recruited before they were teenagers.",
+        "title": "New video game console aims to get kids moving",
+        "link": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
+        "summary": "The cube-shaped console will cost 269 (319) when it is released on 22 June in the UK and Ireland.",
         "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 42,
         "sentiment": "Negative",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "japanese girl band",
-            "year training",
-            "global stars"
-        ]
-    },
-    {
-        "title": "Love Pride but hate big parades? These places are doing it differently",
-        "link": "https://www.bbc.com/news/articles/cj6g85kr375o?at_medium=RSS&at_campaign=rss",
-        "summary": "From Glasgow to Salford, smaller, unique events are celebrating the LGBTQ+ community.",
-        "source": "BBC News",
-        "objectivity_score": 61,
-        "sentiment": "Neutral",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "big parades",
-            "unique events"
+            "new video game console aims"
         ]
     },
     {
@@ -951,31 +990,18 @@
         ]
     },
     {
-        "title": "New video game console aims to get kids moving",
-        "link": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
-        "summary": "The cube-shaped console will cost 269 (319) when it is released on 22 June in the UK and Ireland.",
+        "title": "Tourist dies in Dominican Republic luxury resort fire",
+        "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
         "source": "BBC News",
-        "objectivity_score": 42,
-        "sentiment": "Negative",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "new video game console aims"
-        ]
-    },
-    {
-        "title": "Henry Zeffman: What does Keir Starmer do next after Andy Burnham's Makerfield win?",
-        "link": "https://www.bbc.com/news/articles/c3ryp0nejdro?at_medium=RSS&at_campaign=rss",
-        "summary": "Discussion about the prime minister's future ramps up after Makerfield by-election.",
-        "source": "BBC News",
-        "objectivity_score": 17,
+        "objectivity_score": 73,
         "sentiment": "Positive",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "henry zeffman",
-            "keir starmer",
-            "andy burnham"
+            "republic luxury resort fire",
+            "huge blaze",
+            "viva wyndham dominicus"
         ]
     },
     {
@@ -1009,44 +1035,62 @@
         ]
     },
     {
-        "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
-        "link": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
+        "title": "'My dog Gertie saved my life by helping to find my breast cancer'",
+        "link": "https://www.bbc.com/news/articles/c0ly1lxn95ko?at_medium=RSS&at_campaign=rss",
+        "summary": "Lesley Goodburn is hoping her story will encourage others to check for signs of the cancer.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "army unit",
-            "strategic mistake"
+            "'my dog",
+            "breast cancer",
+            "lesley goodburn"
         ]
     },
     {
-        "title": "Boy, 3, hurt at zoo was attacked by a crocodile",
-        "link": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss",
-        "summary": "Police say a man arrested on suspicion of attempted murder has been bailed.",
+        "title": "Paddington musical set for Broadway debut",
+        "link": "https://www.bbc.com/news/articles/c8j2el87yj0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The production will launch in the US at New York's Al Hirschfeld Theatre in March 2027.",
+        "source": "BBC News",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "musical set",
+            "al hirschfeld"
+        ]
+    },
+    {
+        "title": "Sherpa travels thousands of miles to thank children for help after earthquake",
+        "link": "https://www.bbc.com/news/articles/czj8n77lk9yo?at_medium=RSS&at_campaign=rss",
+        "summary": "A Nepalese Sherpa travels thousands of miles to thank children for their fundraising efforts.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "boy,"
+            "travels thousands",
+            "nepalese sherpa",
+            "travels thousands"
         ]
     },
     {
-        "title": "Minimum age of 11 set for UK puberty blocker trial",
-        "link": "https://www.bbc.com/news/articles/c892p2qdjjxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Gender-questioning children will have to be at least 11 years old to take part in a clinical trial of puberty-blocking drugs.",
+        "title": "Snake takes surprise trip to seaside in car engine",
+        "link": "https://www.bbc.com/news/articles/cyv0q5qvn0lo?at_medium=RSS&at_campaign=rss",
+        "summary": "The corn snake is thought to have travelled around 17 miles from its owner's house in Bridlington.",
         "source": "BBC News",
-        "objectivity_score": 30,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "puberty blocker trial",
-            "clinical trial"
+            "surprise trip",
+            "car engine",
+            "corn snake"
         ]
     },
     {
@@ -1110,7 +1154,7 @@
     {
         "title": "Flawed but relentless Scotland show themselves as men of substance",
         "link": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Morocco threatened to blow Scotland away early on, but Steve Clarke's squad showed their resilience, writes Tom English.",
+        "summary": "Morocco threatened to blow Scotland away early on, but Steve Clarke's squad showed their resilience despite defeat, writes Tom English.",
         "source": "BBC News",
         "objectivity_score": 26,
         "sentiment": "Negative",
@@ -1120,6 +1164,20 @@
             "steve clarke",
             "'s squad",
             "tom english"
+        ]
+    },
+    {
+        "title": "World Cup still waits for real Brazil to show up",
+        "link": "https://www.bbc.com/sport/football/articles/c4gy8lldwqyo?at_medium=RSS&at_campaign=rss",
+        "summary": "While rivals Argentina and France have impressed in the United States, Brazil have struggled to hit top form - despite a 3-0 win over minnows Haiti.",
+        "source": "BBC News",
+        "objectivity_score": 55,
+        "sentiment": "Positive",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "world cup",
+            "top form"
         ]
     },
     {
@@ -1138,48 +1196,78 @@
         ]
     },
     {
-        "title": "The Super Bowl winner's son stepping into spotlight with USA",
-        "link": "https://www.bbc.com/sport/football/articles/ckg4qvedjkwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Alex Freeman is stepping out of the shadows of his Super Bowl-winning father to forge his own path in football.",
+        "title": "England XV well beaten by France in summer warm-up",
+        "link": "https://www.bbc.com/sport/rugby-union/articles/c78y0pyeenro?at_medium=RSS&at_campaign=rss",
+        "summary": "France prove too skilful for England in the teams' non-Test summer warm-up in Vannes, easing away to a comfortable victory.",
         "source": "BBC News",
-        "objectivity_score": 77,
+        "objectivity_score": 80,
         "sentiment": "Positive",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "bowl winner 's son",
-            "usa alex freeman",
-            "own path"
+            "england xv",
+            "summer warm-up",
+            "non-test summer warm-up"
         ]
     },
     {
-        "title": "England winger Saka unlikely to start against Ghana",
-        "link": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&at_campaign=rss",
-        "summary": "England head coach Thomas Tuchel hints that Bukayo Saka is unlikely to be in contention to start against Ghana on Tuesday.",
+        "title": "Almiron first player sent off for covering mouth",
+        "link": "https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&at_campaign=rss",
+        "summary": "Paraguay's Miguel Almiron is the first player to be shown a red card for covering his mouth while speaking to an opponent - doing so during the World Cup match against Turkey.",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
+        "objectivity_score": 22,
+        "sentiment": "Positive",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "ghana england",
-            "head coach",
-            "thomas tuchel"
+            "miguel almiron",
+            "red card",
+            "world cup"
         ]
     },
     {
-        "title": "Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
-        "link": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
-        "summary": "The fighting between Israel and Hezbollah in Lebanon had delayed the next stage of talks to end the U.S.-Iranian war. Hezbollah did not immediately comment.",
+        "title": "A 175-Year-Old Shipwreck, Lots of Booze and a Korean Island\u2019s Quest to Survive",
+        "link": "https://www.nytimes.com/2026/06/20/world/asia/korea-bigeum-champagne-festival.html",
+        "summary": "A South Korean island is reviving a longforgotten episode involving a French whaler as a wine festival, in an effort to stay relevant.",
         "source": "NYT > World News",
-        "objectivity_score": 22,
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "island \u2019 s",
+            "longforgotten episode",
+            "french whaler"
+        ]
+    },
+    {
+        "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
+        "link": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
+        "summary": "The U.S. envoy to Paris has emerged as the embodiment of combative diplomacy in the age of President Trump, riling the French establishment notably with his accusations of antisemitism.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Positive",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "charles kushner",
+            "riles paris",
+            "trump diplomacy"
+        ]
+    },
+    {
+        "title": "Cape Verde Will Count on Vozinha Against Uruguay at the World Cup",
+        "link": "https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html",
+        "summary": "Cape Verdes veteran goalkeeper, Vozinha, is keeping the archipelago nations hopes outsized after his performance against soccer giant Spain.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "israel commits",
-            "lebanon cease-fire",
-            "troops will remain"
+            "verde will count",
+            "vozinha against uruguay",
+            "world cup cape"
         ]
     },
     {
@@ -1195,6 +1283,20 @@
             "game changer",
             "ukraine flexed",
             "striking moscow"
+        ]
+    },
+    {
+        "title": "Trains Collide in UK, Killing at Least One and Injuring Dozens of Others",
+        "link": "https://www.nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html",
+        "summary": "At least one person was killed and dozens of others were injured in the crash near Bedford, England, the authorities said.",
+        "source": "NYT > World News",
+        "objectivity_score": 30,
+        "sentiment": "Negative",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "trains collide",
+            "injuring dozens"
         ]
     },
     {
@@ -1332,51 +1434,6 @@
         ]
     },
     {
-        "title": "Extreme Heat Warnings Issued Across Europe: What to Know",
-        "link": "https://www.nytimes.com/2026/06/19/world/europe/heat-wave-europe-uk-weather-forecast.html",
-        "summary": "Unusually high temperatures are expected across parts of Western Europe into early next week, weather agencies said.",
-        "source": "NYT > World News",
-        "objectivity_score": 37,
-        "sentiment": "Neutral",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "extreme heat warnings issued across europe",
-            "know unusually",
-            "high temperatures"
-        ]
-    },
-    {
-        "title": "How Quickly Could Andy Burnham Become U.K. Prime Minister?",
-        "link": "https://www.nytimes.com/2026/06/19/world/europe/burnham-prime-minister-starmer-uk.html",
-        "summary": "While Mr. Burnhams leadership ambitions are clear, Prime Minister Keir Starmer has stated that he would fight any challenge.",
-        "source": "NYT > World News",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "andy burnham become u.k. prime",
-            "mr. burnhams",
-            "leadership ambitions"
-        ]
-    },
-    {
-        "title": "Back After Vanishing for 2 Weeks, Russian Banker Tries to Project Calm",
-        "link": "https://www.nytimes.com/2026/06/19/world/europe/russia-economy-interest-rates.html",
-        "summary": "The central bank leader Elvira S. Nabiullina reappeared for a news conference after a gap that highlighted deep tensions in the countrys political and economic elite.",
-        "source": "NYT > World News",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "banker tries",
-            "project calm",
-            "central bank leader"
-        ]
-    },
-    {
         "title": "Moscow Tanker Blast Most Likely Russian Missile, Video Shows",
         "link": "https://www.nytimes.com/video/world/europe/100000010980052/moscow-tanker-blast-likely-russian-missile.html",
         "summary": "A dramatic explosion that caused the lid of an oil tanker to fly into the sky during a Ukrainian aerial assault on Moscow was most likely caused by a Russian air defense missile, verified video shows.",
@@ -1418,20 +1475,6 @@
             "lebanon emerges",
             "weak link",
             "u.s.-iran deal"
-        ]
-    },
-    {
-        "title": "Trains Collide in UK, Killing at Least One and Injuring Dozens of Others",
-        "link": "https://www.nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html",
-        "summary": "At least one person was killed and dozens of others were injured in the crash near Bedford, England, the authorities said.",
-        "source": "NYT > World News",
-        "objectivity_score": 30,
-        "sentiment": "Negative",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "trains collide",
-            "injuring dozens"
         ]
     },
     {
@@ -1521,6 +1564,21 @@
             "starmer says",
             "will run",
             "contest prime"
+        ]
+    },
+    {
+        "title": "Extreme Heat Warnings Issued Across Europe: What to Know",
+        "link": "https://www.nytimes.com/2026/06/19/world/europe/heat-wave-europe-uk-weather-forecast.html",
+        "summary": "Unusually high temperatures are expected across parts of Western Europe into early next week, weather agencies said.",
+        "source": "NYT > World News",
+        "objectivity_score": 37,
+        "sentiment": "Neutral",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "extreme heat warnings issued across europe",
+            "know unusually",
+            "high temperatures"
         ]
     },
     {
@@ -1749,6 +1807,21 @@
         ]
     },
     {
+        "title": "Fears doctors criticising Israel may be silenced as health watchdog adopts contested antisemitism definition",
+        "link": "https://www.theguardian.com/world/2026/jun/20/ahpra-adopts-ihra-antisemitism-definition-ntwnfb",
+        "summary": "Australian Health Practitioner Regulation Agency to use International Holocaust Remembrance Alliance definition for regulatory workGet our breaking news email, free app or daily news podcastAustralias...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 15,
+        "sentiment": "Neutral",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "health watchdog adopts",
+            "antisemitism definition",
+            "practitioner regulation"
+        ]
+    },
+    {
         "title": "Anthony Albanese says Australia\u2019s first mainland case of deadly H5N1 bird flu \u2018concerning\u2019",
         "link": "https://www.theguardian.com/australia-news/2026/jun/20/australia-confirms-first-case-of-h5n1-bird-flu",
         "summary": "Tests taken in Western Australia suggest a second bird was also infected, but there is no evidence poultry or agriculture systems are affectedGet our breaking news email, free app or daily news podcas...",
@@ -1809,18 +1882,63 @@
         ]
     },
     {
-        "title": "Chalmers dismisses reports of \u2018frosty\u2019 relationship with Albanese \u2013 as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/jun/19/news-live-australia-ukraine-jim-chalmers-anthony-albanese-capital-gains-tax-concessions-business-pauline-hanson-one-nation-ntwnfb",
-        "summary": "This blog is now closed Get our breaking news email, free app or daily news podcastThere were two small earthquakes in New South Wales this morning, according to Geoscience Australia.A 3.4 magnitude q...",
+        "title": "Beyond the beach: Spain pushes offbeat regions as tourist numbers nudge 100m",
+        "link": "https://www.theguardian.com/world/2026/jun/20/spain-offbeat-regions-tourist-numbers-overtourism",
+        "summary": "Exclusive: Tourism minister says another likely record year of visitor growth is not a worry amid move to welcome tourists out of season and market less frequented areasSpain is redoubling its efforts...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "pushes offbeat regions",
+            "tourist numbers nudge 100m",
+            "likely record year"
+        ]
+    },
+    {
+        "title": "\u2018A kind of massive rave\u2019: Paris braces for 2m revellers as F\u00eate de la Musique returns amid heatwave warnings",
+        "link": "https://www.theguardian.com/world/2026/jun/20/paris-braces-tourist-influx-street-festival-fete-de-la-musique",
+        "summary": "Officials expand safety measures as French capital prepares for huge annual street celebrationParis is preparing for a street party of unprecedented scale on Sunday, as more than 2 million people are ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 48,
         "sentiment": "Positive",
         "date": "2026-06-20",
         "image_url": null,
         "keywords": [
-            "dismisses reports",
-            "\u2018 frosty \u2019 relationship",
-            "news email"
+            "massive rave \u2019",
+            "2m revellers",
+            "heatwave warnings officials"
+        ]
+    },
+    {
+        "title": "\u2018It\u2019s Russian roulette\u2019: alarm as Europe backs critical minerals mines in water-stressed regions",
+        "link": "https://www.theguardian.com/environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions",
+        "summary": "Exclusive: European Commission planning to rewrite key law to allow water-intensive mines in regions suffering from droughtThe European Commission plans to rewrite the EUs flagship water protection la...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 39,
+        "sentiment": "Neutral",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "russian roulette \u2019",
+            "critical minerals mines",
+            "european commission"
+        ]
+    },
+    {
+        "title": "Can we electrify the world? Ambition moves from nerdish backwater to centre stage",
+        "link": "https://www.theguardian.com/environment/2026/jun/20/electrification-takes-centre-stage-bonn-climate-talks",
+        "summary": "Apart from effort to electrify, there were geopolitical tensions around climate science and the 1.5C goal at pre-Cop31 climate talksElectrifying the world  with electric vehicles, electric heating and...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "nerdish backwater",
+            "centre stage",
+            "geopolitical tensions"
         ]
     },
     {
@@ -1839,66 +1957,6 @@
         ]
     },
     {
-        "title": "Italian PM Meloni says she was \u2018astonished\u2019 by Trump claims that she \u2018begged\u2019 him for a photo - as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/jun/19/eu-leaders-ukraine-russia-ukraine-magyar-von-der-leyen-latest-news-updates",
-        "summary": "This blog is now closed, you can read more on this story hereAnother close Meloni ally and undersecretary in her office, Giovanbattista Fazzolari, also heavily criticised Trumps attack on the Italian ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "pm meloni",
-            "story hereanother",
-            "giovanbattista fazzolari"
-        ]
-    },
-    {
-        "title": "Italy PM Meloni \u2018stunned\u2019 by Trump\u2019s claims she begged him for a photo",
-        "link": "https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo",
-        "summary": "US president provokes outrage as PM says he totally invented story in interview with Italian mediaItalys prime minister, Giorgia Meloni, has said Donald Trump totally invented a story about her after ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "italy pm meloni",
-            "\u2019 s claims",
-            "photo us president provokes outrage"
-        ]
-    },
-    {
-        "title": "Midwives on frontline of childbirth deaths crisis denied visas for key summit",
-        "link": "https://www.theguardian.com/global-development/2026/jun/19/midwives-africa-asia-mother-baby-childbirth-deaths-crisis-denied-visas-summit-portugal",
-        "summary": "Outcry as experts from African and Asian countries  where mortality is highest  prevented from attending Portugal conference on preventionVisa rejections have threatened progress on mother and baby he...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "childbirth deaths crisis",
-            "key summit",
-            "asian countries"
-        ]
-    },
-    {
-        "title": "Bologna\u2019s niche festival of forgotten films captures the streaming generation",
-        "link": "https://www.theguardian.com/film/2026/jun/19/bologna-italy-festival-forgotten-films-il-cinema-ritrovato",
-        "summary": "Over 40 years, Italys Il Cinema Ritrovato  or rediscovered cinema  has evolved into an influential international gatheringBologna will be transformed into an open-air museum of cinema on Saturday as a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s niche festival",
-            "forgotten films captures",
-            "italys il cinema ritrovato"
-        ]
-    },
-    {
         "title": "Israel and Hezbollah renew ceasefire after deadly flareup disrupts opening of Iran talks",
         "link": "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
         "summary": "JD Vance pulls out of US-Iran meeting in Switzerland on implementation of peace deal after clashes in southern LebanonMiddle East crisis  live updatesIsrael and Hezbollah agreed to renew a fragile cea...",
@@ -1911,6 +1969,21 @@
             "flareup disrupts",
             "jd vance",
             "east crisis"
+        ]
+    },
+    {
+        "title": "\u2018It\u2019s a big mistake\u2019: Israelis feel betrayed and angry after Iran peace deal",
+        "link": "https://www.theguardian.com/world/2026/jun/20/israelis-betrayed-angry-after-iran-peace-deal-donald-trump",
+        "summary": "In middle Israel there are fears Iran could rebuild stronger  and there is particular ire for Donald TrumpIn the Tree brasserie off Herzl Street in Rehovot, there was much that almost everyone agreed ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 34,
+        "sentiment": "Neutral",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "big mistake \u2019",
+            "particular ire",
+            "donald trumpin"
         ]
     },
     {
@@ -1955,21 +2028,6 @@
             "jd vances",
             "east crisis",
             "retaliatory airstrikes"
-        ]
-    },
-    {
-        "title": "Inside the city of grief hit hardest by Israel strikes on southern Lebanon",
-        "link": "https://www.theguardian.com/world/2026/jun/19/lebanon-nabatieh-city-ashura-ceremony-hezbollah-israel",
-        "summary": "People in Nabatieh mourn the recent dead in religious ceremony held amid empty streets and shattered buildingsAs the procession wound its way through mounds of rubble, the crowd chanted and beat their...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Negative",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "religious ceremony",
-            "empty streets",
-            "dull thud"
         ]
     },
     {
@@ -2048,6 +2106,66 @@
         ]
     },
     {
+        "title": "Pressure grows on Starmer to step aside for Burnham \u2013 UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jun/20/keir-starmer-andy-burnham-labour-leadership-makerfield-byelection-uk-politics-latest-news",
+        "summary": "Ministers say PM faces being forced out by party if he does not act, with one calling his departure inevitableCabinet loyalists tell Starmer he has the weekend to set out timetable for exitWithin 10 m...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "departure inevitablecabinet loyalists",
+            "ubiquitous image",
+            "burnhamjess phillips"
+        ]
+    },
+    {
+        "title": "JLR at risk of battery supply delays after Somerset factory turmoil",
+        "link": "https://www.theguardian.com/business/2026/jun/20/jaguar-land-rover-jlr-battery-supply-delay-somerset-agratas",
+        "summary": "Supplier Agratas sacks its main building contractor on the government-backed project amid a budget mismatchJaguar Land Rover faces the risk of delays to the first deliveries of electric car batteries ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Positive",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "supplier agratas",
+            "main building contractor",
+            "budget mismatchjaguar"
+        ]
+    },
+    {
+        "title": "Bedtime blues: London \u2018killing off nightlife\u2019 as UK city with strictest licensing rules",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/20/london-killing-off-nightlife-uk-city-earliest-council-bedtime",
+        "summary": "Manchester, Birmingham and Leeds are experiencing after-hours boom as a result of more lenient rulesLondon has the earliest council-mandated bedtime of any other city in the UK as a result of policies...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "nightlife \u2019",
+            "after-hours boom",
+            "lenient ruleslondon"
+        ]
+    },
+    {
+        "title": "SUV buyers undeterred by warnings of risk to pedestrians, UK study finds",
+        "link": "https://www.theguardian.com/world/2026/jun/20/suv-risks-warnings-road-safety-buyers-uk-study",
+        "summary": "Exclusive: Research suggests financial penalties necessary if number of large vehicles on roads is to be reducedDrivers who are told about the safety risks posed by SUVs to cyclists and pedestrians ar...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 54,
+        "sentiment": "Neutral",
+        "date": "2026-06-20",
+        "image_url": null,
+        "keywords": [
+            "research suggests",
+            "financial penalties",
+            "large vehicles"
+        ]
+    },
+    {
         "title": "Train driver dies and 89 people injured after two trains collide near Bedford",
         "link": "https://www.theguardian.com/uk-news/2026/jun/19/two-trains-collide-bedford",
         "summary": "Eleven people suffer very serious injuries, with emergency services still at the scene into the nightA train driver has died and 89 people have been injured after two trains collided in the Bedford ar...",
@@ -2060,66 +2178,6 @@
             "trains collide",
             "bedford eleven",
             "people suffer"
-        ]
-    },
-    {
-        "title": "Could \u2018king in the north\u2019 become Britain\u2019s new prime minister?",
-        "link": "https://www.theguardian.com/politics/2026/jun/19/andy-burnham-could-king-north-become-britain-new-prime-minister",
-        "summary": "Makerfield victory gives Andy Burnham a path back to Westminster and a chance to challenge Keir StarmerCelebrations and a swift exit after a Burnham win beyond our wildest dreamsWe know no king but th...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "\u2018 king",
-            "new prime minister",
-            "andy burnham"
-        ]
-    },
-    {
-        "title": "Man released on bail after boy, three, critically injured in zoo crocodile enclosure",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/19/man-released-police-boy-three-zoo-crocodile-enclosure-cambridgeshire",
-        "summary": "Cambridgeshire police say 30-year-old man arrested on suspicion of attempted murder is not fit to be interviewedA man arrested on suspicion of attempted murder after a three-year-old boy ended up in a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Neutral",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "zoo crocodile enclosure",
-            "30-year-old man",
-            "intervieweda man"
-        ]
-    },
-    {
-        "title": "First pelicans in 360 years hatch in St James\u2019s Park London",
-        "link": "https://www.theguardian.com/environment/2026/jun/19/pelicans-hatch-st-james-park-london",
-        "summary": "Birds have been in the park since the Russian ambassador gave King Charles II two in 1664  but none ever bred there They arrived in the royal park shortly before the Great Fire of London, when the Rus...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Positive",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "years hatch",
-            "st james",
-            "\u2019 s park"
-        ]
-    },
-    {
-        "title": "Burnham calls for \u2018new path for Britain\u2019 as Starmer vows to fight any leadership challenge \u2013 as it happened",
-        "link": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates",
-        "summary": "This blog is now closed, you can read more on this story here:Cabinet loyalists tell PM he has weekend to set out timetable for exitNow is the change moment: Burnham staff have no doubtsPodcast: will ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 24,
-        "sentiment": "Positive",
-        "date": "2026-06-20",
-        "image_url": null,
-        "keywords": [
-            "new path",
-            "leadership challenge \u2013",
-            "cabinet loyalists"
         ]
     },
     {
