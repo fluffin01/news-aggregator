@@ -737,7 +737,22 @@
         ]
     },
     {
-        "title": "Signs grow that Starmer will resign as government mood shifts",
+        "title": "Starmer considers political future as pressure to quit mounts",
+        "link": "https://www.bbc.com/news/articles/cn8k1my75gno?at_medium=RSS&at_campaign=rss",
+        "summary": "It comes as US President Donald Trump says on social media that the PM will resign, in a further blow to the Labour leader.",
+        "source": "BBC News",
+        "objectivity_score": 19,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "political future",
+            "us president",
+            "donald trump"
+        ]
+    },
+    {
+        "title": "Signs grow that PM will resign with mood in government shifting",
         "link": "https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss",
         "summary": "The BBC's Henry Zeffman and Nick Eardley on the mood in government as speculation grows about the prime minister's departure.",
         "source": "BBC News",
@@ -746,13 +761,28 @@
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "government mood shifts",
             "henry zeffman",
-            "nick eardley"
+            "nick eardley",
+            "prime minister 's departure"
         ]
     },
     {
-        "title": "Extreme heat warning extended to four days as temperatures could hit 38C",
+        "title": "Family of driver killed in Bedford train crash 'devastated' by loss",
+        "link": "https://www.bbc.com/news/articles/c621n4l5qr6o?at_medium=RSS&at_campaign=rss",
+        "summary": "Shaun Burton's family say they are devastated, while a union leader calls his death \"heartbreaking\".",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Negative",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "train crash",
+            "shaun burton",
+            "'s family"
+        ]
+    },
+    {
+        "title": "Four-day extreme heat warning to begin on Monday as temperatures could hit 38C",
         "link": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&at_campaign=rss",
         "summary": "A Met Office amber weather warning for heat comes into force on Monday and will now last through to Thursday.",
         "source": "BBC News",
@@ -761,8 +791,36 @@
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "heat warning",
+            "extreme heat warning",
             "office amber weather warning"
+        ]
+    },
+    {
+        "title": "Low-key funeral held for giant of the art world David Hockney",
+        "link": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
+        "summary": "The artist, who passed away at his home in London earlier this month, requested just his partner and great-nephew attend.",
+        "source": "BBC News",
+        "objectivity_score": 75,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "art world",
+            "david hockney"
+        ]
+    },
+    {
+        "title": "Wowcher sorry for 'unacceptable' crocodile attack email",
+        "link": "https://www.bbc.com/news/articles/c17ynlek5djo?at_medium=RSS&at_campaign=rss",
+        "summary": "The firm's marketing email appeared to reference an incident involving a toddler at a zoo.",
+        "source": "BBC News",
+        "objectivity_score": 70,
+        "sentiment": "Negative",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "crocodile attack email",
+            "firm 's"
         ]
     },
     {
@@ -781,73 +839,92 @@
         ]
     },
     {
-        "title": "US and Iran begin talks on initial peace deal in Switzerland",
+        "title": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
         "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-        "summary": "The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
+        "summary": "The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "initial peace",
-            "face-to-face meeting"
+            "'s negotiator trade warnings",
+            "us president"
         ]
     },
     {
-        "title": "Disruption to last a week after fatal Bedford train crash",
-        "link": "https://www.bbc.com/news/articles/cewq0eggg4lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Police say 28 people remain in hospital after two trains collided on Friday.",
+        "title": "CCTV shows moments leading up to arrest in anti-Muslim attacks probe",
+        "link": "https://www.bbc.com/news/articles/c8j21zvkd20o?at_medium=RSS&at_campaign=rss",
+        "summary": "A topless man can be seen driving erratically in Edinburgh before abandoning his car and attacking a black man and a delivery rider.",
         "source": "BBC News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
+        "objectivity_score": 21,
+        "sentiment": "Negative",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "train crash"
+            "shows moments",
+            "anti-muslim attacks",
+            "a topless man"
         ]
     },
     {
-        "title": "Stokes to return as captain for third Test, coach McCullum says",
-        "link": "https://www.bbc.com/sport/cricket/articles/ce8j350k5vro?at_medium=RSS&at_campaign=rss",
-        "summary": "England head coach Brendon McCullum says he is ready to work with returning captain Ben Stokes for the deciding Test against New Zealand.",
+        "title": "Stokes and Atkinson found 'blameless for violent conduct' as pair return to squad",
+        "link": "https://www.bbc.com/sport/cricket/articles/c8r2pr1z5d3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ben Stokes and Gus Atkinson breached contractual obligations but were blameless for violent conduct in a London nightclub, according to an investigation.",
         "source": "BBC News",
-        "objectivity_score": 31,
-        "sentiment": "Positive",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "head coach",
-            "brendon mccullum",
+            "violent conduct",
+            "pair return",
             "ben stokes"
         ]
     },
     {
-        "title": "Dutch royals enjoy two big results in one day",
-        "link": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
-        "summary": "There may be about 5,000 miles between the Netherlands and their former colony Curacao but members of the Dutch royal family managed to see both sides play on Saturday.",
+        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+        "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Davey Hearn says he was simply touching the new paint at the site out of curiosity and did not remove or alter it.",
         "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 23,
         "sentiment": "Positive",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "big results",
-            "royal family"
+            "washington reflecting pool",
+            "davey hearn",
+            "new paint"
         ]
     },
     {
-        "title": "Meet the Curacao keeper who made record 15 saves to keep Ecuador out",
-        "link": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss",
-        "summary": "Curacao's Eloy Room makes a record-equalling 15 saves to help his tiny island nation to a first World Cup point against Ecuador.",
+        "title": "The records that look set to be broken",
+        "link": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
+        "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be.",
         "source": "BBC News",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "tiny island nation",
-            "world cup point"
+            "world cup",
+            "rewritten football history",
+            "bbc sport"
+        ]
+    },
+    {
+        "title": "All three England keepers played there - Carlisle's role in trio's rise",
+        "link": "https://www.bbc.com/sport/football/articles/ckg4qw57d4do?at_medium=RSS&at_campaign=rss",
+        "summary": "From west Cumbria to the World Cup, Carlisle is England's goalkeeper factory, with all of Thomas Tuchel's goalkeepers passing through the club.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "'s role",
+            "trio 's rise",
+            "world cup"
         ]
     },
     {
@@ -863,21 +940,6 @@
             "world cup",
             "world cup",
             "top goalscorers"
-        ]
-    },
-    {
-        "title": "How the social media ban could reshape how all of us use the internet",
-        "link": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
-        "summary": "Why some argue the social media ban could have a profound affect on how young people gain new knowledge and the rest of us move around online",
-        "source": "BBC News",
-        "objectivity_score": 39,
-        "sentiment": "Neutral",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "social media ban",
-            "social media ban",
-            "young people gain"
         ]
     },
     {
@@ -911,6 +973,21 @@
         ]
     },
     {
+        "title": "How the social media ban could reshape how all of us use the internet",
+        "link": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
+        "summary": "Why some argue the social media ban could have a profound affect on how young people gain new knowledge and the rest of us move around online",
+        "source": "BBC News",
+        "objectivity_score": 39,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "social media ban",
+            "social media ban",
+            "young people gain"
+        ]
+    },
+    {
         "title": "True crime's biggest convention faces its own moral dilemma",
         "link": "https://www.bbc.com/news/articles/cr47z6ykp2xo?at_medium=RSS&at_campaign=rss",
         "summary": "Victims' families say there are ways to be an ethical true-crime fan - not an exploitative one.",
@@ -926,76 +1003,45 @@
         ]
     },
     {
-        "title": "Low-key funeral held for giant of the art world David Hockney",
-        "link": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
-        "summary": "The artist, who passed away at his home in London earlier this month, requested just his partner and great-nephew attend.",
+        "title": "Manslaughter arrest after death on small boat crossing",
+        "link": "https://www.bbc.com/news/articles/ckg0d6y888zo?at_medium=RSS&at_campaign=rss",
+        "summary": "The migrant was found unresponsive on a boat in the English Channel on Saturday.",
         "source": "BBC News",
-        "objectivity_score": 75,
+        "objectivity_score": 13,
         "sentiment": "Neutral",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "art world",
-            "david hockney"
+            "small boat crossing"
         ]
     },
     {
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Davey Hearn says he was simply touching the new paint at the site out of curiosity and did not remove or alter it.",
+        "title": "Half of France under red heat alert as alcohol banned at street music festival",
+        "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Temperatures are forecast to peak on Monday, and authorities warn they could match historic highs.",
         "source": "BBC News",
-        "objectivity_score": 23,
-        "sentiment": "Positive",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "washington reflecting pool",
-            "davey hearn",
-            "new paint"
-        ]
-    },
-    {
-        "title": "Chaotic England fortnight ends with huge Test defeat against New Zealand",
-        "link": "https://www.bbc.com/sport/cricket/articles/c1ey0532yevo?at_medium=RSS&at_campaign=rss",
-        "summary": "England's miserable fortnight ends with a crushing defeat in the second Test against New Zealand at The Oval - setting up a high-stakes decider at Trent Bridge.",
-        "source": "BBC News",
-        "objectivity_score": 61,
+        "objectivity_score": 5,
         "sentiment": "Neutral",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "chaotic england",
-            "fortnight ends",
-            "zealand england"
+            "red heat",
+            "street music festival",
+            "historic highs"
         ]
     },
     {
-        "title": "Three men die in White City building fire",
-        "link": "https://www.bbc.com/news/articles/c79yqrevgg1o?at_medium=RSS&at_campaign=rss",
-        "summary": "The men were rescued from the single-storey building but died soon after, London Fire Brigade said.",
+        "title": "Girl and two boys held over teen's fatal stabbing",
+        "link": "https://www.bbc.com/news/articles/cpwey8qx4ryo?at_medium=RSS&at_campaign=rss",
+        "summary": "Jamal Coombes was found fatally injured near Lavender Hill, Battersea, on Saturday morning.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "white city building fire",
-            "single-storey building"
-        ]
-    },
-    {
-        "title": "Jeremy Clarkson in remission from prostate cancer",
-        "link": "https://www.bbc.com/news/articles/czj8kgg4rrro?at_medium=RSS&at_campaign=rss",
-        "summary": "The presenter shared his \"aggressive\" cancer diagnosis on an episode of Clarkson's Farm earlier this week.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "jeremy clarkson",
-            "prostate cancer",
-            "cancer diagnosis"
+            "teen 's",
+            "jamal coombes"
         ]
     },
     {
@@ -1013,73 +1059,18 @@
         ]
     },
     {
-        "title": "Swimmers and hikers enjoy solstice",
-        "link": "https://www.bbc.com/news/articles/c4gyp2q1ypno?at_medium=RSS&at_campaign=rss",
-        "summary": "A selection of images from across the UK to mark the longest day of the year.",
+        "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
+        "link": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
         "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 38,
         "sentiment": "Positive",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "longest day"
-        ]
-    },
-    {
-        "title": "Tom Hanks congratulates boy, 8, on Toy Story 5 artwork",
-        "link": "https://www.bbc.com/news/articles/c0kyxpe5781o?at_medium=RSS&at_campaign=rss",
-        "summary": "Tommy, from Blackpool, will have his artwork shown at the UK screenings of the new Disney Pixar film.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "tom hanks",
-            "congratulates boy",
-            "disney pixar"
-        ]
-    },
-    {
-        "title": "'He's a life saver': The miniature therapy horse that travels by taxi",
-        "link": "https://www.bbc.com/news/articles/c9361rqv1wvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Meet Rusty, the pint-sized therapy horse who travels around London in a black cab.",
-        "source": "BBC News",
-        "objectivity_score": 43,
-        "sentiment": "Negative",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "'he 's",
-            "life saver",
-            "miniature therapy horse"
-        ]
-    },
-    {
-        "title": "Oldest Birthday Honours recipient is 'delighted'",
-        "link": "https://www.bbc.com/news/articles/cg53yj3v647o?at_medium=RSS&at_campaign=rss",
-        "summary": "Pat Knifton Hough is recognised for 57 years being involved with Nantwich Players in Cheshire.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Positive",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "oldest birthday honours",
-            "pat knifton hough"
-        ]
-    },
-    {
-        "title": "Eight police pups named after Three Lions stars",
-        "link": "https://www.bbc.com/news/articles/crel9drwleyo?at_medium=RSS&at_campaign=rss",
-        "summary": "It is hoped the eight puppies will emulate the success of their namesakes.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Positive",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "police pups"
+            "ethiopia pm",
+            "'s party",
+            "new conflict"
         ]
     },
     {
@@ -1097,17 +1088,18 @@
         ]
     },
     {
-        "title": "Burnham Wins in Makerfield - So What Happens Now?",
-        "link": "https://www.bbc.co.uk/sounds/play/p0nrn5p7?at_medium=RSS&at_campaign=rss",
-        "summary": "Burnham wins Makerfield by-election, paving way for leadership challenge against Starmer.",
+        "title": "Why Keir Starmer\u2019s resignation looks more likely than ever",
+        "link": "https://www.bbc.co.uk/sounds/play/p0nt55lf?at_medium=RSS&at_campaign=rss",
+        "summary": "The government message about the PMs future has changed.",
         "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 54,
         "sentiment": "Positive",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "burnham wins",
-            "leadership challenge"
+            "keir starmer",
+            "\u2019 s resignation",
+            "government message"
         ]
     },
     {
@@ -1141,76 +1133,92 @@
         ]
     },
     {
-        "title": "Stokes to return as England captain for third Test",
-        "link": "https://www.bbc.com/sport/cricket/articles/ce8j350k5vro?at_medium=RSS&at_campaign=rss",
-        "summary": "England head coach Brendon McCullum says he is ready to work with returning captain Ben Stokes for the deciding Test against New Zealand.",
+        "title": "Serena Williams to make singles comeback at Wimbledon",
+        "link": "https://www.bbc.com/sport/tennis/articles/cn8kz0vm4d2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Serena Williams will make a surprise return to singles action at Wimbledon later this month after accepting a wildcard.",
         "source": "BBC News",
-        "objectivity_score": 31,
-        "sentiment": "Positive",
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "test england",
-            "head coach",
-            "brendon mccullum"
+            "serena williams",
+            "singles comeback",
+            "wimbledon serena williams"
         ]
     },
     {
-        "title": "The beauty of sharing the first World Cup with your child",
-        "link": "https://www.bbc.com/sport/football/articles/cd957318ewdo?at_medium=RSS&at_campaign=rss",
-        "summary": "There is nothing like the first World Cup you can enjoy with your kid - and the wide-eyed wonder through which they see it.",
+        "title": "Lamine Yamal shows why this could be his World Cup",
+        "link": "https://www.bbc.com/sport/football/articles/cj0gy46d5vro?at_medium=RSS&at_campaign=rss",
+        "summary": "Spain looked an instantly better team with Lamine Yamal in the side, with the 18-year-old showing why this could be his World Cup.",
         "source": "BBC News",
-        "objectivity_score": 38,
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
+            "lamine yamal",
             "world cup",
+            "lamine yamal"
+        ]
+    },
+    {
+        "title": "Stokes & Atkinson 'blameless for violent conduct'",
+        "link": "https://www.bbc.com/sport/cricket/articles/c8r2pr1z5d3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ben Stokes and Gus Atkinson breached contractual obligations but were blameless for violent conduct in a London nightclub, according to an investigation.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "violent conduct",
+            "ben stokes",
+            "gus atkinson"
+        ]
+    },
+    {
+        "title": "Emotional Hodgkinson pulls out of UK 400m final",
+        "link": "https://www.bbc.com/sport/athletics/articles/cn4r144e3gpo?at_medium=RSS&at_campaign=rss",
+        "summary": "A tearful Keely Hodgkinson pulls out of the 400m final at the UK Athletics Championships moments before the race.",
+        "source": "BBC News",
+        "objectivity_score": 88,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "emotional hodgkinson",
+            "keely hodgkinson"
+        ]
+    },
+    {
+        "title": "Lamine Yamal on target as Spain put four past Saudi Arabia",
+        "link": "https://www.bbc.com/sport/football/videos/cze9g190rz1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Lamine Yamal scored 10 minutes into his first World Cup start as Spain beat Saudi Arabia to register their first win of the tournament.",
+        "source": "BBC News",
+        "objectivity_score": 32,
+        "sentiment": "Positive",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "lamine yamal",
+            "saudi arabia lamine yamal",
             "world cup"
         ]
     },
     {
-        "title": "Sooryavanshi, 15, hits record 11-ball fifty",
-        "link": "https://www.bbc.com/sport/cricket/articles/czdev6lp8p9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Vaibhav Sooryavanshi breaks the record for the fastest 50-over List A half-century in history on the same day he was not included in India's one-day international squad.",
-        "source": "BBC News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "record 11-ball",
-            "vaibhav sooryavanshi",
-            "'s one-day"
-        ]
-    },
-    {
-        "title": "Doku criticised over plan to return home for birth",
-        "link": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
-        "summary": "Winger Jeremy Doku is criticised for saying he wants to leave Belgium's World Cup camp to be with his wife when she gives birth to their first child.",
-        "source": "BBC News",
-        "objectivity_score": 21,
+        "title": "Mideast Live Updates: Strains Quickly Emerge on First Day of U.S.-Iran Talks",
+        "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
+        "summary": "Iranian negotiators insisted on an end to the war in Lebanon as a condition for further talks, state media reported. And President Trump renewed threats against Iran, even as Vice President JD Vance w...",
+        "source": "NYT > World News",
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "winger jeremy doku",
-            "'s world cup camp"
-        ]
-    },
-    {
-        "title": "Mideast Live Updates: New Round of U.S.-Iran Talks Underway in Switzerland",
-        "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
-        "summary": "An American delegation, led by Vice President JD Vance, was meeting with Iranian negotiators. The conflict in Lebanon is complicating efforts to reach a broader peace and keep the Strait of Hormuz ope...",
-        "source": "NYT > World News",
-        "objectivity_score": 37,
-        "sentiment": "Neutral",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
             "mideast live updates",
-            "new round",
-            "u.s.-iran talks underway"
+            "strains quickly emerge",
+            "u.s.-iran talks iranian"
         ]
     },
     {
@@ -1226,6 +1234,21 @@
             "keir starmer reflects",
             "resign mounts",
             "keir starmers"
+        ]
+    },
+    {
+        "title": "As Vance Offers Iran \u2018Outstretched Hand\u2019 in Talks, Trump Threatens Bombing",
+        "link": "https://www.nytimes.com/2026/06/21/world/middleeast/vance-iran-talks-trump.html",
+        "summary": "The administrations split message came as the United States and Iran began a new round of nuclear negotiations in Switzerland.",
+        "source": "NYT > World News",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "vance offers iran",
+            "outstretched hand",
+            "trump threatens bombing"
         ]
     },
     {
@@ -1361,21 +1384,6 @@
         ]
     },
     {
-        "title": "Huge Blaze Ravages Dominican Republic Beach Resort",
-        "link": "https://www.nytimes.com/2026/06/20/world/americas/dominican-republic-fire.html",
-        "summary": "The fire on Friday forced the emergency evacuation of nearly 1,700 guests. Authorities said at least one person, an Italian tourist, was killed.",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "huge blaze ravages dominican",
-            "republic beach",
-            "emergency evacuation"
-        ]
-    },
-    {
         "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
         "link": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
         "summary": "The U.S. envoy to Paris has emerged as the embodiment of combative diplomacy in the age of President Trump, riling the French establishment notably with his accusations of antisemitism.",
@@ -1406,6 +1414,49 @@
         ]
     },
     {
+        "title": "Uncertainty Remains Over the Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/06/21/world/middleeast/uncertainty-strait-hormuz-iran-us.html",
+        "summary": "The United States and Iranian militaries have offered conflicting accounts over whether the crucial waterway is open.",
+        "source": "NYT > World News",
+        "objectivity_score": 75,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "uncertainty remains",
+            "crucial waterway"
+        ]
+    },
+    {
+        "title": "U.S. and Iran Have Plenty to Negotiate Beyond Nuclear Issues",
+        "link": "https://www.nytimes.com/2026/06/21/world/middleeast/us-iran-negotiations-issues.html",
+        "summary": "Both sides have committed to discussing sanctions relief and the shape of a reconstruction fund, as well as Irans nuclear program.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "iran have plenty",
+            "nuclear issues",
+            "sanctions relief"
+        ]
+    },
+    {
+        "title": "Netanyahu faces one of the biggest challenges of his career.",
+        "link": "https://www.nytimes.com/2026/06/21/world/middleeast/netanyahu-iran-deal-trump.html",
+        "summary": "In a plot twist, Prime Minister Benjamin Netanyahu appears to be heading into an election this fall without his main prop: President Trump.",
+        "source": "NYT > World News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "plot twist",
+            "benjamin netanyahu"
+        ]
+    },
+    {
         "title": "Three Men Are Key to Iran\u2019s Approach to U.S. Talks",
         "link": "https://www.nytimes.com/2026/06/21/world/middleeast/three-men-are-key-to-irans-approach-to-us-talks.html",
         "summary": "Irans supreme leader, foreign minister and parliament speaker all play central roles in hammering out an agreement with Washington.",
@@ -1421,16 +1472,18 @@
         ]
     },
     {
-        "title": "Israel directs its military to limit its actions in Lebanon, though tensions persist.",
-        "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon/israel-directs-its-military-to-limit-its-actions-in-lebanon-though-tensions-persist",
-        "summary": "",
+        "title": "Israel Directs Its Military to Limit Its Actions in Lebanon, but Tensions Persist",
+        "link": "https://www.nytimes.com/2026/06/21/world/middleeast/israel-lebanon-hezbollah-fighting.html",
+        "summary": "It was not clear whether the new directive would resolve the friction that led to deadly clashes on Friday and Saturday and threatened to derail a preliminary U.S.-Iran peace deal.",
         "source": "NYT > World News",
-        "objectivity_score": 10,
+        "objectivity_score": 33,
         "sentiment": "Neutral",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "tensions persist"
+            "israel directs",
+            "tensions persist",
+            "new directive"
         ]
     },
     {
@@ -1504,49 +1557,6 @@
             "albanians protest",
             "kushner-linked resort",
             "luxury hotel development"
-        ]
-    },
-    {
-        "title": "Drone Footage Captures Massive Fire at Dominican Resort",
-        "link": "https://www.nytimes.com/video/world/americas/100000010981594/dominican-republic-fire.html",
-        "summary": "A large fire at a beach resort in the Dominican Republic forced the evacuation of nearly 1,700 guests and killed one person, emergency officials said.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "drone footage captures massive",
-            "dominican resort",
-            "large fire"
-        ]
-    },
-    {
-        "title": "U.S. and Iranian Officials to Meet for Peace Talks in Switzerland",
-        "link": "https://www.nytimes.com/2026/06/20/world/middleeast/iran-peace-talks-switzerland.html",
-        "summary": "The next phase of talks to end the war in Iran is expected to begin on Sunday amid fighting in Lebanon and renewed confusion over the Strait of Hormuz.",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "u.s."
-        ]
-    },
-    {
-        "title": "Mona Khalil, Defender of Sea Turtles, Killed in an Israeli Strike in Lebanon",
-        "link": "https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html",
-        "summary": "For a quarter century, Ms. Khalil ran a guesthouse and worked to protect endangered sea turtles who every summer lay their eggs on a stretch of beach near Tyre, Lebanon.",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "mona khalil",
-            "israeli strike",
-            "quarter century"
         ]
     },
     {
@@ -1625,6 +1635,21 @@
         ]
     },
     {
+        "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
+        "link": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
+        "summary": "Frontrunner Abelardo de la Espriella has vowed to return to full-scale military confrontation with armed groupsGhost of far-right paramilitaries hovers over Colombias presidential runoff voteColombian...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 48,
+        "sentiment": "Negative",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "runoff election",
+            "frontrunner abelardo",
+            "full-scale military confrontation"
+        ]
+    },
+    {
         "title": "Canada\u2019s policies force asylum seekers into US to face deportation, critics say",
         "link": "https://www.theguardian.com/world/2026/jun/21/canada-immigration-us-deportation",
         "summary": "Advocates say the Safe Third Country Agreement forces immigrants to head to an unsafe country: the United StatesIt was the threat of gang violence in Honduras that pushed Carlos and Antonia to flee th...",
@@ -1637,21 +1662,6 @@
             "\u2019 s policies force asylum seekers",
             "forces immigrants",
             "unsafe country"
-        ]
-    },
-    {
-        "title": "Colombia\u2019s runoff election expected to trigger shift in decades-long armed conflict",
-        "link": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
-        "summary": "Frontrunner Abelardo de la Espriella has vowed to return to full-scale military confrontation with armed groupsGhost of far-right paramilitaries hovers over Colombias presidential runoff voteColombian...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Negative",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s runoff election",
-            "frontrunner abelardo",
-            "full-scale military confrontation"
         ]
     },
     {
@@ -1697,6 +1707,21 @@
             "reveals rise",
             "users increases",
             "mental health problems"
+        ]
+    },
+    {
+        "title": "Dutch PM apologises for Moluccan soldiers\u2019 mistreatment after Indonesian independence",
+        "link": "https://www.theguardian.com/world/2026/jun/21/dutch-pm-apologises-moluccan-soldiers-indonesia-independence",
+        "summary": "Rob Jetten acknowledges grief and pain of Moluccan families as crowdfunded monument unveiled in RotterdamThe Dutch prime minister, Rob Jetten, has formally apologised for the heartless mistreatment of...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
+        "sentiment": "Negative",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "dutch pm",
+            "soldiers \u2019 mistreatment",
+            "rob jetten"
         ]
     },
     {
@@ -1760,18 +1785,33 @@
         ]
     },
     {
-        "title": "Fujitsu chair resigns after \u2018woman-related inappropriate conduct\u2019",
-        "link": "https://www.theguardian.com/business/2026/jun/16/fujitsu-chair-resigns-hidenori-furuta-technology-company",
-        "summary": "Japanese technology company at centre of Post Office IT scandal is negotiating settlement with UK government over faulty softwareBusiness live  latest updatesThe chair of Fujitsu, the Japanese technol...",
+        "title": "Coal companies to reap billions more in taxpayer diesel subsidies as Labor approves new mining",
+        "link": "https://www.theguardian.com/australia-news/2026/jun/22/mining-tax-credit-scheme-coal-companies-subsidies-taxpayer-refunds-diesel",
+        "summary": "Albanese government under pressure to wind back fuel tax credit scheme for multinational miners as analysis shows cost to budgetGet our breaking news email, free app or daily news podcastCoal companie...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "chair resigns",
-            "inappropriate conduct \u2019",
-            "japanese technology company"
+            "coal companies",
+            "reap billions",
+            "taxpayer diesel subsidies"
+        ]
+    },
+    {
+        "title": "Australia is publishing books too quickly \u2013 and everyone is losing out",
+        "link": "https://www.theguardian.com/books/2026/jun/22/australia-publishing-industry-releasing-books-too-quickly",
+        "summary": "Thanks to rushed deadlines, financial pressure and overworked staff, titles are going to market before theyre ready  and then sliding from view immediatelyA Sydney author  Ill call her Rebecca  vowed ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 34,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "financial pressure",
+            "view immediatelya",
+            "pivotal chapter"
         ]
     },
     {
@@ -1817,36 +1857,6 @@
             "health watchdog adopts",
             "antisemitism definition",
             "practitioner regulation"
-        ]
-    },
-    {
-        "title": "Anthony Albanese says Australia\u2019s first mainland case of deadly H5N1 bird flu \u2018concerning\u2019",
-        "link": "https://www.theguardian.com/australia-news/2026/jun/20/australia-confirms-first-case-of-h5n1-bird-flu",
-        "summary": "Tests taken in Western Australia suggest a second bird was also infected, but there is no evidence poultry or agriculture systems are affectedGet our breaking news email, free app or daily news podcas...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "anthony albanese",
-            "mainland case",
-            "bird flu \u2018"
-        ]
-    },
-    {
-        "title": "St Kilda pier wins peak Victorian architecture award as judges praise playful and \u2018deeply civic\u2019 design",
-        "link": "https://www.theguardian.com/artanddesign/2026/jun/19/st-kilda-pier-wins-peak-victorian-architecture-award",
-        "summary": "State government project among range of works celebrated for community-centred design that goes beyond utilityThe reimagined St Kilda pier has added more accolades to its burgeoning trophy cabinet, ta...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "st kilda",
-            "architecture award",
-            "judges praise playful"
         ]
     },
     {
@@ -1899,8 +1909,8 @@
         "link": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
         "summary": "Poll also finds three quarters of people in Britain want closer ties, with majority accepting free movementTwo-thirds of EU citizens would back Britain rejoining the bloc, while most UK voters say Bre...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
+        "objectivity_score": 41,
+        "sentiment": "Neutral",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
@@ -1925,33 +1935,63 @@
         ]
     },
     {
-        "title": "Middle East live: US-Iran peace talks underway as strait of Hormuz remains closed",
-        "link": "https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates",
-        "summary": "US president says in social media post well hit Iran very hard again if it does not stop its proxies in LebanonUS-Iran talks in Switzerland to get under way as strait of Hormuz remains closedThere was...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Negative",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "us president",
-            "social media post",
-            "security zone"
-        ]
-    },
-    {
-        "title": "US-Iran talks in Switzerland get under way as strait of Hormuz remains closed",
+        "title": "Iranian negotiators suspend talks with US in protest over Trump threats",
         "link": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
-        "summary": "JD Vance says talks aim to make progress on the nuclear issue, make progress on the Lebanon ceasefire issueMiddle East crisis  live updatesTalks between Iran and the US aimed at building out the fragi...",
+        "summary": "US president has threatened to bomb Iran and kidnap negotiating team unless strait of Hormuz reopenedIranian negotiators have suspended high-stakes talks with the US in Switzerland in protest at a str...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 62,
         "sentiment": "Neutral",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "jd vance",
-            "talks aim",
-            "nuclear issue"
+            "threats us president",
+            "reopenediranian negotiators",
+            "high-stakes talks"
+        ]
+    },
+    {
+        "title": "Trump faces fresh bipartisan criticism on Iran deal as Vance hails peace talks",
+        "link": "https://www.theguardian.com/world/2026/jun/21/trump-iran-deal-bipartisan-criticism",
+        "summary": "Objections comes as Trump threatens to renew attacks on Iran if it doesnt rein in its proxy in LebanonUS political figures from left and right voiced fresh objections on Sunday to Donald Trumps provis...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "fresh bipartisan criticism",
+            "hails peace",
+            "doesnt rein"
+        ]
+    },
+    {
+        "title": "Middle East live: US-Iran peace talks underway as strait of Hormuz remains closed",
+        "link": "https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates",
+        "summary": "This live blog is now closed.Trump threatens fresh attacks on Iran as peace talks take place in SwitzerlandThere was and is no restriction on Israeli soldiers to act to eliminate threats in Lebanon, a...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "closed.trump threatens",
+            "fresh attacks",
+            "security zone"
+        ]
+    },
+    {
+        "title": "Secret correspondence claims suggest tensions at top of Iranian government",
+        "link": "https://www.theguardian.com/world/2026/jun/21/secret-correspondence-iranian-government-tensions-supreme-leader",
+        "summary": "Former negotiating team member gives shock interview claiming supreme leaders instructions were not followedMiddle East crisis  live updatesA former member of Irans negotiating team in the previous ro...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "secret correspondence claims",
+            "team member",
+            "shock interview"
         ]
     },
     {
@@ -1967,36 +2007,6 @@
             "school bombing",
             "secretive investigation",
             "elementary school"
-        ]
-    },
-    {
-        "title": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon",
-        "link": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire",
-        "summary": "Unclear if threat has been carried out or if move will jeopardise talks with US scheduled for SundayMiddle East latest updatesIran has said it is closing the strait of Hormuz after waves of Israeli st...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "lebanon unclear",
-            "fragile interim peace",
-            "days ago.the"
-        ]
-    },
-    {
-        "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli strike on Gaza",
-        "link": "https://www.theguardian.com/world/2026/jun/20/al-jazeera-cameraman-ahmed-wishah-killed-in-israeli-strike-on-gaza",
-        "summary": "Wishah among at least 260 journalists killed since Israels war on Gaza began in October 2023Qatar-based news network Al Jazeera has said one of its journalists was killed by an Israeli strike in Gaza ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 21,
-        "sentiment": "Negative",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "al jazeera",
-            "ahmed wishah",
-            "gaza wishah"
         ]
     },
     {
@@ -2075,84 +2085,84 @@
         ]
     },
     {
-        "title": "Major disruption after Bedford train crash to continue for at least a week",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/21/major-disruption-after-bedford-train-crash-to-continue-for-at-least-a-week",
-        "summary": "Engineers need to create access for cranes to lift carriages from site before track can be assessed and repairedMajor disruption on the rail line between Bedford and Luton will continue for at least a...",
+        "title": "Taxi and Uber rider targeted in suspected anti-Muslim attacks in Edinburgh, say witnesses",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/21/taxi-uber-rider-targeted-suspected-anti-muslim-attacks-edinburgh-witnesses",
+        "summary": "White Scottish man, 38, charged after five men were injured in spate of attacks in city on Friday nightWitnesses to the alleged knife attacks on Muslims and others in Edinburgh on Friday have describe...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Negative",
+        "objectivity_score": 16,
+        "sentiment": "Neutral",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "major disruption",
-            "train crash",
-            "repairedmajor disruption"
+            "anti-muslim attacks",
+            "white scottish man",
+            "knife attacks"
         ]
     },
     {
-        "title": "Starmer expected to announce departure on Monday as growing numbers of MPs back Burnham for PM \u2013 UK politics live",
+        "title": "\u2018A shift has taken place\u2019: Starmer faces the music after weekend of reflection",
+        "link": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-faces-music-weekend-of-reflection-resignation-burnham",
+        "summary": "While PMs desire to fight was strong, time with his inner circle at Chequers sharpened his sense of the inevitableOn Friday, as the dust settled on Andy Burnhams thumping victory in the Makerfield bye...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 54,
+        "sentiment": "Positive",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "place \u2019",
+            "inner circle",
+            "andy burnhams"
+        ]
+    },
+    {
+        "title": "Starmer expected to announce exit plan to clear way for Burnham to become PM",
+        "link": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-exit-plan-clear-way-andy-burnham-become-pm",
+        "summary": "Ministers say Starmer will set out his intentions on Monday morning with an autumn departure the most likely optionKeir Starmer is expected to announce a timetable for his departure on Monday morning,...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "exit plan",
+            "autumn departure",
+            "likely optionkeir"
+        ]
+    },
+    {
+        "title": "Teenager rescues two men who fell from inflatable toy boat off Isle of Skye",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/21/teenager-rescues-two-men-who-fell-from-inflatable-toy-boat-off-isle-of-skye",
+        "summary": "Archie Law, 15, sailed his own vessel to save men in distress, beating lifeboat service to the sceneA 15-year-old boy rescued two men who had fallen from an inflatable toy boat off the Isle of Skye by...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 100,
+        "sentiment": "Positive",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "inflatable toy boat",
+            "skye archie",
+            "own vessel"
+        ]
+    },
+    {
+        "title": "Starmer expected to announce departure on Monday as growing numbers of MPs back Burnham for PM \u2013 as it happened",
         "link": "https://www.theguardian.com/politics/live/2026/jun/21/keir-starmer-expected-resign-resignation-monday--andy-burnham-makerfield-labour-uk-politics-latest-news-updates",
-        "summary": "Business secretary says PM spending the weekend making time to reflect on the political realities he facesKeir Starmer expected to announce departure as prime minister on MondaySome commentators have ...",
+        "summary": "PM said to be reflecting on political realities, as president Trump joins in criticism of his leadership saying he has failed badly Keir Starmer expected to announce departure as prime minister on Mon...",
         "source": "World news | The Guardian",
         "objectivity_score": 36,
         "sentiment": "Neutral",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "business secretary",
-            "weekend making time",
-            "political realities"
-        ]
-    },
-    {
-        "title": "Keir Starmer expected to announce departure as prime minister on Monday",
-        "link": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-to-announce-departure-as-prime-minister-on-monday",
-        "summary": "Business secretary says Starmer is reflecting on political realities amid overwhelming pressure from MPsUK politics  live updatesKeir Starmer is expected to announce on Monday that he will step down a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
+            "political realities",
             "keir starmer",
-            "prime minister",
-            "business secretary"
-        ]
-    },
-    {
-        "title": "Record-breaking heat expected across UK this week, says Met Office",
-        "link": "https://www.theguardian.com/environment/2026/jun/21/record-breaking-extreme-heat-wave-humidity-uk-met-office-warning",
-        "summary": "Health alerts are in place as very high humidity adds to danger of heat stress for the most vulnerableThe Met Office has expanded its extreme heat warning for the UK, predicting record-breaking highs ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Neutral",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "office health alerts",
-            "high humidity",
-            "heat stress"
-        ]
-    },
-    {
-        "title": "David Hockney\u2019s funeral held in private with just two mourners",
-        "link": "https://www.theguardian.com/artanddesign/2026/jun/21/david-hockney-funeral-private-two-mourners",
-        "summary": "Artist had requested only his partner and great-nephew attend, with memorial services planned in places he livedOnly two people attended David Hockneys funeral last week  in line with the British arti...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Neutral",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "david hockney",
-            "\u2019 s funeral",
-            "mourners artist"
+            "prime minister"
         ]
     },
     {
         "title": "Man falls to his death during Madison Square Garden concert, police say",
         "link": "https://www.theguardian.com/us-news/2026/jun/21/man-dies-madison-square-garden-concert",
-        "summary": "Officers find man unconscious and unresponsive with injuries indicating a fall from an elevated positionA 51-year-old man fell to his death during a concert at Madison Square Garden in New York City o...",
+        "summary": "Officers find man unconscious and unresponsive with injuries indicating a fall from an elevated positionA 51-year-old man fell to his death during a concert at Madison Square Garden in New York on Sat...",
         "source": "World news | The Guardian",
         "objectivity_score": 45,
         "sentiment": "Positive",
@@ -2165,18 +2175,48 @@
         ]
     },
     {
-        "title": "Los Angeles declares state of emergency as firefighters battle warehouse blaze",
-        "link": "https://www.theguardian.com/us-news/2026/jun/21/los-angeles-warehouse-fire",
-        "summary": "Crews struggle to contain fire from cold-storage facility that continues to spew smoke across the metro areaMayor Karen Bass has declared a state of emergency for the city of Los Angeles, as firefight...",
+        "title": "Trump says beleaguered reflecting pool will \u2018probably\u2019 be drained for repairs",
+        "link": "https://www.theguardian.com/us-news/2026/jun/21/trump-lincoln-memorial-reflecting-pool",
+        "summary": "Algae blooms and peeling paint mar $14.2m renovation as president blames problems on disgraceful VandalismThe troublesome Lincoln Memorial reflecting pool in Washington is probably going to be drained...",
         "source": "World news | The Guardian",
-        "objectivity_score": 50,
+        "objectivity_score": 47,
         "sentiment": "Neutral",
         "date": "2026-06-21",
         "image_url": null,
         "keywords": [
-            "los angeles",
+            "$ 14.2m renovation",
+            "president blames problems",
+            "donald trump"
+        ]
+    },
+    {
+        "title": "Newsom declares state of emergency for LA as firefighters battle warehouse blaze",
+        "link": "https://www.theguardian.com/us-news/2026/jun/21/los-angeles-warehouse-fire",
+        "summary": "Crews struggle to contain stubborn fire that has raged for days and continues to spew smoke across the metro areaCalifornias governor has declared a state of emergency for the city of Los Angeles, as ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
             "firefighters battle warehouse blaze",
-            "cold-storage facility"
+            "stubborn fire",
+            "spew smoke"
+        ]
+    },
+    {
+        "title": "\u2018Native children belong in Native communities\u2019: tribes decry New Mexico drug-exposed newborn rule",
+        "link": "https://www.theguardian.com/us-news/2026/jun/21/new-mexico-policies-families",
+        "summary": "Groups say new directive fails to respect Native sovereignty amid complicated history of Indigenous child removalsOne morning early last July, Micha Bitsinnie arrived at work to an onslaught of messag...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
+        "sentiment": "Negative",
+        "date": "2026-06-21",
+        "image_url": null,
+        "keywords": [
+            "communities \u2019",
+            "tribes decry",
+            "newborn rule"
         ]
     },
     {
@@ -2192,36 +2232,6 @@
             "\u2018 anti-woke \u2019",
             "new college",
             "usf sarasota-manatee"
-        ]
-    },
-    {
-        "title": "Prediction markets surge in US as public health advocates call for support to combat gambling",
-        "link": "https://www.theguardian.com/us-news/2026/jun/21/prediction-markets-health-advocates-on-gambling",
-        "summary": "Platforms like Kalshi and Polymarket operating in areas with limited resources for people with gambling problemsPublic health resources across the US are failing to keep pace with the rapid growth of ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "markets surge",
-            "public health advocates",
-            "problemspublic health resources"
-        ]
-    },
-    {
-        "title": "Condemned to plutocracy? The relentless rise of US inequality",
-        "link": "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy",
-        "summary": "Elon Musk is a beneficiary of Americas lopsided prosperity  does the country have any appetite for redistribution?As Barack Obamas presidency was coming to a close, Jason Furman, then chairman of the ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-06-21",
-        "image_url": null,
-        "keywords": [
-            "relentless rise",
-            "us inequality",
-            "elon musk"
         ]
     }
 ]
