@@ -737,57 +737,132 @@
         ]
     },
     {
-        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-        "link": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Video filmed by BBC reporters, contributors and locals shows the aftermath, as frantic residents evacuate.",
+        "title": "Europe's heatwave shifts east as France raises health alert to highest level",
+        "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+        "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "caracas video",
-            "locals shows",
-            "frantic residents"
+            "'s heatwave shifts",
+            "raises health",
+            "french officials"
         ]
     },
     {
-        "title": "How to cope in a heatwave - according to you",
-        "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
-        "summary": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat.",
+        "title": "People flee as building collapses on Caracas outskirts",
+        "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
+        "summary": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "restful night 's sleep"
-        ]
-    },
-    {
-        "title": "Reeves backs Burnham to become next prime minister",
-        "link": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss",
-        "summary": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
-        "source": "BBC News",
-        "objectivity_score": 35,
+        "objectivity_score": 100,
         "sentiment": "Negative",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "prime minister"
+            "people flee",
+            "building collapses"
         ]
     },
     {
-        "title": "Bodies found in 'advanced deterioration' at under-fire trust",
-        "link": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go?at_medium=RSS&at_campaign=rss",
-        "summary": "An inspection of NUH mortuaries found 10 shortfalls, the Human Tissue Authority said.",
+        "title": "TikTok influencer charged with Dubai murder",
+        "link": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Influencer Brooke George, 23, from Kent, claims she acted in self defence in stabbing her partner.",
         "source": "BBC News",
-        "objectivity_score": 35,
+        "objectivity_score": 80,
+        "sentiment": "Negative",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "influencer brooke george",
+            "self defence"
+        ]
+    },
+    {
+        "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
+        "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The airline had typically charged adults a fee of 8 each way to sit with their young children.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "charge parents",
+            "young children"
+        ]
+    },
+    {
+        "title": "The games that show the flaws in a 48-team World Cup",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Two matches in the final round of group games present the chance for two teams to simply play out a draw to qualify.",
+        "source": "BBC News",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "48-team world cup",
+            "final round",
+            "group games"
+        ]
+    },
+    {
+        "title": "'Disruptive' passenger restrained on Jet2 flight dies",
+        "link": "https://www.bbc.co.uk/news/articles/c17ypedelk9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Callum Kerr was held by other passengers after an alleged assault on a Cyprus to Manchester flight.",
+        "source": "BBC News",
+        "objectivity_score": 23,
+        "sentiment": "Negative",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "callum kerr"
+        ]
+    },
+    {
+        "title": "Teenager cleared of murdering nine-year-old girl",
+        "link": "https://www.bbc.co.uk/news/articles/c9320y90lnno?at_medium=RSS&at_campaign=rss",
+        "summary": "A jury at Bristol Crown Court finds a 16-year-old not guilty of murder and manslaughter.",
+        "source": "BBC News",
+        "objectivity_score": 100,
         "sentiment": "Positive",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "under-fire trust"
+            "nine-year-old girl",
+            "bristol crown"
+        ]
+    },
+    {
+        "title": "Number of children getting special educational needs support hits another record high",
+        "link": "https://www.bbc.co.uk/news/articles/cj4g18gy14no?at_medium=RSS&at_campaign=rss",
+        "summary": "It is the highest yearly increase in education, health and care plans (EHCPs) since they were introduced.",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "special educational needs support hits",
+            "record high",
+            "care plans"
+        ]
+    },
+    {
+        "title": "Council sorry for parking fines after fatal train crash near Bedford",
+        "link": "https://www.bbc.co.uk/news/articles/c70y8128w1wo?at_medium=RSS&at_campaign=rss",
+        "summary": "Stranded passengers find fixed penalty notices on their cars at Bedford railway station.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Negative",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "fatal train crash",
+            "bedford stranded",
+            "penalty notices"
         ]
     },
     {
@@ -806,67 +881,35 @@
         ]
     },
     {
-        "title": "Trump describes Burnham as 'the mayor of a town' and 'extremely liberal'",
-        "link": "https://www.bbc.co.uk/news/videos/cly81w5g1qwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Donald Trump gives his first public reaction to the prospect of Andy Burnham becoming prime minister.",
+        "title": "Depth, scale and location of quakes - in maps and graphics",
+        "link": "https://www.bbc.co.uk/news/articles/czx5k8pxdevo?at_medium=RSS&at_campaign=rss",
+        "summary": "The shallow quakes occurred within seconds of one another, exacerbating the damage caused.",
         "source": "BBC News",
-        "objectivity_score": 56,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "'the mayor",
-            "donald trump",
-            "public reaction"
-        ]
-    },
-    {
-        "title": "Council sorry for parking fines after train crash",
-        "link": "https://www.bbc.co.uk/news/articles/c70y8128w1wo?at_medium=RSS&at_campaign=rss",
-        "summary": "Stranded passengers find fixed penalty notices on their cars at Bedford railway station.",
-        "source": "BBC News",
-        "objectivity_score": 60,
+        "objectivity_score": 50,
         "sentiment": "Negative",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "train crash",
-            "penalty notices",
-            "railway station"
+            "shallow quakes"
         ]
     },
     {
-        "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-        "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-        "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
+        "title": "Quake is devastating blow at time of uncertainty",
+        "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+        "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicols Maduro was seized by US forces.",
         "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Positive",
+        "objectivity_score": 53,
+        "sentiment": "Negative",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "uphill battle",
-            "president spars",
-            "own party"
+            "twin quakes",
+            "'s then-leader",
+            "nicols maduro"
         ]
     },
     {
-        "title": "Find out which university degrees could earn you most across your lifetime",
-        "link": "https://www.bbc.co.uk/news/articles/c892dv0qy2jo?at_medium=RSS&at_campaign=rss",
-        "summary": "New data suggests which university degrees have the highest and lowest financial returns over a lifetime.",
-        "source": "BBC News",
-        "objectivity_score": 31,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "university degrees",
-            "new data suggests",
-            "university degrees"
-        ]
-    },
-    {
-        "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+        "title": "'I thought I was going to die' - people describe earthquake panic",
         "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
         "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
         "source": "BBC News",
@@ -875,49 +918,47 @@
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "describe earthquake panic"
+            "people describe earthquake panic"
         ]
     },
     {
-        "title": "Rescuers race to find Venezuela quake survivors: What we know so far",
+        "title": "What we know so far",
         "link": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro?at_medium=RSS&at_campaign=rss",
-        "summary": "The two quakes have killed at least 32 people and injured around 700.",
+        "summary": "The two quakes have killed at least 164 people and injured nearly 1,000, with more feared trapped under rubble.",
         "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Negative",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "quake survivors"
+            "what"
         ]
     },
     {
-        "title": "How hot will it be today?",
-        "link": "https://www.bbc.co.uk/news/videos/cn947g4g11no?at_medium=RSS&at_campaign=rss",
-        "summary": "Today's weather forecast will be sunny and hot for many, with June temperature records set to be broken again.",
+        "title": "In pictures: Britain swelters in record-breaking June heat",
+        "link": "https://www.bbc.co.uk/news/articles/cy5vq3q2g19o?at_medium=RSS&at_campaign=rss",
+        "summary": "A rare red weather warning is in place as extreme temperatures continue across much of the UK.",
         "source": "BBC News",
-        "objectivity_score": 65,
-        "sentiment": "Positive",
+        "objectivity_score": 52,
+        "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "'s weather",
-            "temperature records"
+            "rare red weather warning",
+            "extreme temperatures"
         ]
     },
     {
-        "title": "June's temperature record set to be broken again",
-        "link": "https://www.bbc.co.uk/weather/articles/cqj1ek2zpyxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Thursday is expected to be a hotter day for parts of England and Wales with June's record temperature set to be broken for a second day in a row as Simon King explains.",
+        "title": "Ditch the oven and move the office - your tips on dealing with the heat",
+        "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
+        "summary": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat.",
         "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Negative",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "'s temperature record",
-            "hotter day",
-            "'s record temperature"
+            "restful night 's sleep"
         ]
     },
     {
@@ -936,7 +977,7 @@
     {
         "title": "Why this heatwave feels worse than the last one",
         "link": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss",
-        "summary": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains",
+        "summary": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains.",
         "source": "BBC News",
         "objectivity_score": 48,
         "sentiment": "Negative",
@@ -947,17 +988,18 @@
         ]
     },
     {
-        "title": "I've spent 30 years in recruitment - this is how to get a job",
-        "link": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
-        "summary": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
+        "title": "Find out which university degrees could earn you most across your lifetime",
+        "link": "https://www.bbc.co.uk/news/articles/c892dv0qy2jo?at_medium=RSS&at_campaign=rss",
+        "summary": "New data suggests which university degrees have the highest and lowest financial returns over a lifetime.",
         "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "recruitment agency boss shares",
-            "jobs market"
+            "university degrees",
+            "new data suggests",
+            "university degrees"
         ]
     },
     {
@@ -972,6 +1014,20 @@
         "keywords": [
             "'s blockbuster game",
             "game release"
+        ]
+    },
+    {
+        "title": "I've spent 30 years in recruitment - this is how to get a job",
+        "link": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
+        "summary": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "recruitment agency boss shares",
+            "jobs market"
         ]
     },
     {
@@ -1004,33 +1060,32 @@
         ]
     },
     {
-        "title": "The Papers: 'Never again' and 'No 10 of the north'",
-        "link": "https://www.bbc.co.uk/news/articles/cj4gy79x9g7o?at_medium=RSS&at_campaign=rss",
-        "summary": "A major hospital maternity review and Burnham's mooted plans for prime minister lead Thursday's papers.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "major hospital maternity review",
-            "prime minister lead",
-            "'s papers"
-        ]
-    },
-    {
-        "title": "What do Scotland need to make World Cup knockouts?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
-        "summary": "After their 3-0 defeat by Brazil, BBC Sport looks at what Scotland require to reach the knockout phase.",
+        "title": "Stay or go home? Tartan Army in limbo as Scotland awaits fate",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cjdg05l2jngo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Scotland examines options for the Tartan Army in Miami as Scotland wait to discover if their World Cup adventure will continue or not.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "world cup knockouts",
-            "bbc sport",
-            "knockout phase"
+            "awaits fate",
+            "bbc scotland",
+            "examines options"
+        ]
+    },
+    {
+        "title": "How brands banned from the World Cup became the story",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o?at_medium=RSS&at_campaign=rss",
+        "summary": "When we try to suppress something, we often make it more visible - and Fifa is living that in real time with its sponsors.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "world cup",
+            "real time"
         ]
     },
     {
@@ -1049,44 +1104,32 @@
         ]
     },
     {
-        "title": "'It is what it is' - Canadians react to loss against Switzerland",
-        "link": "https://www.bbc.co.uk/news/videos/c4gywll9x0no?at_medium=RSS&at_campaign=rss",
-        "summary": "Despite the loss, Canada has still reached the World Cup knockout stage for the first time in its history.",
-        "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "world cup knockout stage"
-        ]
-    },
-    {
-        "title": "Oil price falls to levels not seen since before Iran war",
-        "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Energy prices have been on a wild ride since Iran responded to US and Israeli attacks by effectively closing the Strait of Hormuz.",
-        "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "oil price"
-        ]
-    },
-    {
-        "title": "Trump launches America250 festivities with a rally on the National Mall",
-        "link": "https://www.bbc.co.uk/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
-        "summary": "A stealth bomber flyover and a Trump speech in the nation's capital kicks off weeks of festivities.",
+        "title": "Education secretary says she'll turn Tory leader's insult into a T-shirt",
+        "link": "https://www.bbc.co.uk/news/articles/clyrk2eg1wro?at_medium=RSS&at_campaign=rss",
+        "summary": "Conservative leader Kemi Badenoch's called Bridget Phillipson a 'spiteful class warrior' at PMQs.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "national mall",
-            "stealth bomber flyover",
-            "nation 's capital"
+            "education secretary",
+            "leader 's insult",
+            "t-shirt conservative"
+        ]
+    },
+    {
+        "title": "NHS boss 'shocked and upset' by Nottingham maternity findings",
+        "link": "https://www.bbc.co.uk/news/articles/cx2dpmj71k8o?at_medium=RSS&at_campaign=rss",
+        "summary": "A major review into failures at Nottingham University Hospitals (NUH) NHS Trust will be acted on, its boss says.",
+        "source": "BBC News",
+        "objectivity_score": 65,
+        "sentiment": "Negative",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "maternity findings",
+            "major review"
         ]
     },
     {
@@ -1104,62 +1147,62 @@
         ]
     },
     {
-        "title": "Price cuts on family summer days out come into force",
-        "link": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
-        "summary": "The government is reducing VAT from 20% to 5% on attractions and kids' meals  as schools begin to break-up.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "price cuts",
-            "family summer days"
-        ]
-    },
-    {
-        "title": "Elon Musk loses trillionaire status as global tech rout hits SpaceX",
-        "link": "https://www.bbc.co.uk/news/articles/c8j2m2p8dgmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Elon Musk lost his trillionaire status on Tuesday after a brutal global tech rout erased billions from his wealth.",
-        "source": "BBC News",
-        "objectivity_score": 27,
-        "sentiment": "Negative",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "elon musk",
-            "trillionaire status",
-            "global tech rout hits"
-        ]
-    },
-    {
-        "title": "Preston Davey review 'should include second murdered baby'",
+        "title": "Hospital saw another murdered toddler day before Preston Davey",
         "link": "https://www.bbc.co.uk/news/articles/c1myxvp10zdo?at_medium=RSS&at_campaign=rss",
         "summary": "Damion Russell was examined in the same hospital that failed to raise the alarm about Preston's injuries.",
         "source": "BBC News",
-        "objectivity_score": 14,
+        "objectivity_score": 21,
         "sentiment": "Negative",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "preston davey",
-            "review 'should",
-            "damion russell"
+            "toddler day",
+            "preston davey damion russell",
+            "'s injuries"
         ]
     },
     {
-        "title": "Texas family sues Tesla over fatal crash into home",
-        "link": "https://www.bbc.co.uk/news/articles/c8x2rzke05yo?at_medium=RSS&at_campaign=rss",
-        "summary": "A woman in her 70s was killed after a Tesla crashed directly into the familys home.",
+        "title": "Bodies found in state of 'advanced deterioration' at under-fire trust",
+        "link": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go?at_medium=RSS&at_campaign=rss",
+        "summary": "An inspection of Nottingham University Hospitals (NUH) NHS Trust mortuaries found 10 shortfalls, the Human Tissue Authority said.",
         "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 35,
+        "sentiment": "Positive",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "under-fire trust",
+            "trust mortuaries"
+        ]
+    },
+    {
+        "title": "Oil price falls back to pre-Iran war levels",
+        "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
+        "source": "BBC News",
+        "objectivity_score": 42,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "family sues",
-            "fatal crash",
-            "familys home"
+            "oil price",
+            "pre-iran war levels",
+            "shipping route"
+        ]
+    },
+    {
+        "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+        "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+        "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Positive",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "uphill battle",
+            "president spars",
+            "own party"
         ]
     },
     {
@@ -1205,106 +1248,236 @@
         ]
     },
     {
-        "title": "Vinicius Jr stops the fun and leaves Scots down... but are they going out?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Scotland's party stops at the hands of Brazil in Miami, but might they still find themselves in the last 32?",
+        "title": "Inside the OnlyFans machine",
+        "link": "https://www.bbc.co.uk/iplayer/episode/m002xv2q?at_mid=MwXXj1KhiS&at_campaign=OnlyFans_Inside_the_Machine&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002xv2q&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=OnlyFans_Inside_the_Machine&at_bbc_team=BBC&at_creation=News",
+        "summary": "Amber Haque reveals how OnlyFans models suffer widespread exploitation by their managers.",
         "source": "BBC News",
-        "objectivity_score": 18,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "vinicius jr",
-            "'s party stops"
+            "amber haque",
+            "models suffer",
+            "widespread exploitation"
         ]
     },
     {
-        "title": "'Think we're going home' - Clarke & McGinn rue Scotland mistakes",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cd7w27eg5jro?at_medium=RSS&at_campaign=rss",
-        "summary": "Scotland will have to wait until potentially the early hours of Sunday to find out if their World Cup campaign will continue, but midfielder John McGinn suspects that is \"unlikely\" and head coach Stev...",
+        "title": "The games that show the flaws in a 48-team World Cup",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Two matches in the final round of group games present the chance for two teams to simply play out a draw to qualify.",
         "source": "BBC News",
-        "objectivity_score": 60,
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "48-team world cup",
+            "final round",
+            "group games"
+        ]
+    },
+    {
+        "title": "Austrian GP declared heat-hazard race amid heatwave",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/crelx8d3ye1o?at_medium=RSS&at_campaign=rss",
+        "summary": "This weekend's Austrian Grand Prix is declared a heat-hazard race by Formula 1's governing body the FIA.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Positive",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "austrian gp",
+            "heat-hazard race",
+            "weekend 's"
+        ]
+    },
+    {
+        "title": "Stay or go home? Tartan Army in limbo as Scotland await fate",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cjdg05l2jngo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Scotland examines options for the Tartan Army in Miami as Scotland wait to discover if their World Cup adventure will continue or not.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "await fate",
+            "bbc scotland",
+            "examines options"
+        ]
+    },
+    {
+        "title": "Bellamy to stay with Wales as Burnley move off",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cnv9e5pq142o?at_medium=RSS&at_campaign=rss",
+        "summary": "Wales manager Craig Bellamy's proposed move to take charge at Championship side Burnley has fallen through.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "craig bellamy"
+        ]
+    },
+    {
+        "title": "How brands banned from the World Cup became the story",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o?at_medium=RSS&at_campaign=rss",
+        "summary": "When we try to suppress something, we often make it more visible - and Fifa is living that in real time with its sponsors.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "world cup",
+            "real time"
+        ]
+    },
+    {
+        "title": "Venezuela Live Updates: Death Toll Rises as Rescuers Mount Frantic Search for Quake Survivors",
+        "link": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
+        "summary": "The 7.2- and 7.5-magnitude earthquakes left at least 164 dead and hundreds missing, the authorities said. The full scale of the damage was still becoming clear.",
+        "source": "NYT > World News",
+        "objectivity_score": 39,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "venezuela live updates",
+            "frantic search",
+            "7.5-magnitude earthquakes"
+        ]
+    },
+    {
+        "title": "Live Updates: Britain Breaks Record June Temperature as Deadly Heat Crushes Europe",
+        "link": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france",
+        "summary": "A Spanish monitoring agency said an estimated 212 deaths could be attributed to the heat wave since Sunday. Five people in Italy have died from heat exposure this week, the countrys main news agency s...",
+        "source": "NYT > World News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "live updates",
+            "britain breaks record june temperature",
+            "heat crushes europe"
+        ]
+    },
+    {
+        "title": "Can a Youth Boom Survive South Sudan\u2019s Education Crisis?",
+        "link": "https://www.nytimes.com/2026/06/25/world/africa/south-sudan-usaid-education.html",
+        "summary": "South Sudan is the worlds newest nation and its education system is on the verge of collapse, putting an entire generation at risk.",
+        "source": "NYT > World News",
+        "objectivity_score": 62,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "boom survive",
+            "\u2019 s education",
+            "education system"
+        ]
+    },
+    {
+        "title": "Iraq\u2019s New Leader Faces Resistance Trying to Bring Militias Under State Control",
+        "link": "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html",
+        "summary": "The Trump administration has demanded that Iraqi leaders distance themselves from Iran and rein in Iran-linked militias that are outside of government control.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "new leader",
+            "faces resistance trying",
+            "bring militias"
+        ]
+    },
+    {
+        "title": "Iran Threatens Ships in Strait of Hormuz as Marco Rubio Meets Gulf Leaders",
+        "link": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
+        "summary": "The new warning complicated efforts to revive use of the critical waterway as Washington sought regional support for its framework peace agreement with Iran.",
+        "source": "NYT > World News",
+        "objectivity_score": 75,
         "sentiment": "Negative",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "early hours",
-            "world cup campaign",
-            "john mcginn"
+            "iran threatens ships",
+            "marco rubio meets",
+            "new warning"
         ]
     },
     {
-        "title": "Scotland hopes on the brink following defeat against Brazil",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cd0mzld5lpeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Scotland's hopes of reaching the knockout stages of the World Cup for the first time are in significant peril with calamitous defending allowed Brazil to win 3-0 in Miami and finish top of Group C.",
-        "source": "BBC News",
-        "objectivity_score": 44,
+        "title": "King Charles III to Release Tax Details, a First for Any British Monarch",
+        "link": "https://www.nytimes.com/2026/06/25/world/europe/king-charles-taxes-uk.html",
+        "summary": "The king is expected to release tax information on Thursday as part of a push for greater transparency after the scandal involving the former Prince Andrew.",
+        "source": "NYT > World News",
+        "objectivity_score": 24,
         "sentiment": "Positive",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "brazil scotland",
-            "knockout stages",
-            "world cup"
+            "charles iii",
+            "release tax information"
         ]
     },
     {
-        "title": "Best World Cup stadium? BBC Sport experts have their say",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c3vy3grvpg6o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup.",
-        "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "world cup stadium",
-            "bbc sport",
-            "bbc sport"
-        ]
-    },
-    {
-        "title": "No hiding place as England again drink in last-chance saloon",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/cy8w5ww1jpdo?at_medium=RSS&at_campaign=rss",
-        "summary": "There no excuses now England have their captain back and their best XI available for series decider against New Zealand, writes Stephan Shemilt.",
-        "source": "BBC News",
-        "objectivity_score": 28,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "last-chance saloon",
-            "series decider",
-            "stephan shemilt"
-        ]
-    },
-    {
-        "title": "Weekly sports quiz: World Cup, Test cricket and Wimbledon",
-        "link": "https://www.bbc.co.uk/sport/articles/c0kynnpx35zo?at_medium=RSS&at_campaign=rss",
-        "summary": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
-        "source": "BBC News",
-        "objectivity_score": 22,
+        "title": "A Right-Wing Election Victory in Colombia, With a Little Help from Trump",
+        "link": "https://www.nytimes.com/2026/06/25/world/americas/colombia-election-de-la-espriella-trump.html",
+        "summary": "The U.S. president endorsed the right-wing winner. But his influence went further.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "sports quiz",
-            "world cup"
+            "news"
         ]
     },
     {
-        "title": "India debut looms - what makes Sooryavanshi, 15, so special?",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/ce8jvenl31no?at_medium=RSS&at_campaign=rss",
-        "summary": "Vaibhav Sooryavanshi is poised to make his international debut for India against Ireland at the age of 15 years and 91 days. BBC Sport asks three batting legends what makes him so special.",
-        "source": "BBC News",
-        "objectivity_score": 38,
+        "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
+        "link": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
+        "summary": "Crowds are filling the Canal Saint-Martin in Paris, as temperatures soar above 100 degrees Fahrenheit. Forty people drowned while swimming in other waterways.",
+        "source": "NYT > World News",
+        "objectivity_score": 19,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "old industrial canal",
+            "temperatures soar"
+        ]
+    },
+    {
+        "title": "A Puppy-Abuse Case in China, Caught on Video, Prompts Rare Public Protest",
+        "link": "https://www.nytimes.com/2026/06/25/world/asia/dog-animal-abuse-china-protest.html",
+        "summary": "After a man was filmed torturing dogs, hundreds gathered in a rare demonstration that the police tried to break up. For many, the sit-in was their first civic action.",
+        "source": "NYT > World News",
+        "objectivity_score": 46,
         "sentiment": "Positive",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "debut looms",
-            "vaibhav sooryavanshi",
-            "international debut"
+            "puppy-abuse case",
+            "prompts rare",
+            "rare demonstration"
+        ]
+    },
+    {
+        "title": "North Korea Deploys Its First Destroyer, Vowing to Project Nuclear Power by Sea",
+        "link": "https://www.nytimes.com/2026/06/25/world/asia/north-korea-destroyer-nuclear.html",
+        "summary": "The 5,000-ton Choe Hyon is the largest warship North Korea has ever built and is said to be armed with nuclear-capable missiles.",
+        "source": "NYT > World News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "korea deploys",
+            "project nuclear power",
+            "choe hyon"
         ]
     },
     {
@@ -1353,21 +1526,6 @@
         ]
     },
     {
-        "title": "Rubio Seeks to Reassure Gulf Arab Partners on Iran Deal",
-        "link": "https://www.nytimes.com/2026/06/24/world/middleeast/middle-east-iran-us-rubio.html",
-        "summary": "Secretary of State Marco Rubio was traveling among the United Arab Emirates, Kuwait and Bahrain, which were attacked by Iran during the war.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "arab partners",
-            "iran deal",
-            "marco rubio"
-        ]
-    },
-    {
         "title": "France Identifies Its First Case of Ebola",
         "link": "https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html",
         "summary": "A doctor who had traveled to the Democratic Republic of Congo was infected, the French health ministry said. The authorities said the risk to the wider population was low.",
@@ -1383,134 +1541,105 @@
         ]
     },
     {
-        "title": "ICC Judges Sue Trump Administration Over Sanctions",
-        "link": "https://www.nytimes.com/2026/06/24/world/europe/trump-sanctions-judges-lawsuit.html",
-        "summary": "Kimberly Prost, a Canadian judge at the International Criminal Court, and two colleagues are suing the administration, saying the sanctions were a form of retaliation.",
+        "title": "Driver Plows Into Crowd of World Cup Fans in Mexico, Authorities Say",
+        "link": "https://www.nytimes.com/2026/06/25/world/americas/car-ramming-mexico-world-cup-cabo-san-lucas.html",
+        "summary": "Videos show a car repeatedly accelerating into a crowd in Cabo San Lucas after Mexico won a World Cup game. The authorities said at least 17 people were injured and the driver was arrested.",
         "source": "NYT > World News",
-        "objectivity_score": 27,
+        "objectivity_score": 40,
         "sentiment": "Negative",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "judges sue trump",
-            "sanctions kimberly prost",
-            "canadian judge"
+            "world cup",
+            "authorities say videos",
+            "cabo san lucas"
         ]
     },
     {
-        "title": "Extreme Heat Across Europe Creates Divide Over Leaving Schools Open",
-        "link": "https://www.nytimes.com/2026/06/24/world/europe/heat-wave-schools-open-closed-france-uk.html",
-        "summary": "Few schools in Britain or France have air-conditioning to keep children cool in soaring temperatures, leaving parents, teachers and officials divided about what to do.",
+        "title": "Earthquakes Are Latest Challenge for Venezuelan Leader",
+        "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-delcy-rodriguez.html",
+        "summary": "President Delcy Rodrguez, in power only for a few months, has been trying to balance the demands of President Trump and her own domestic political needs.",
         "source": "NYT > World News",
-        "objectivity_score": 56,
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "latest challenge",
+            "leader president",
+            "delcy rodrguez"
+        ]
+    },
+    {
+        "title": "Venezuela Earthquakes Hammer Infrastructure, Making Aid Efforts Harder",
+        "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-infrastructure.html",
+        "summary": "The power grid, water supply and health system were already under strain from years of neglect and underinvestment.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "extreme heat across europe creates divide",
-            "schools open"
+            "venezuela earthquakes hammer infrastructure",
+            "efforts harder",
+            "power grid"
         ]
     },
     {
-        "title": "Israel Says It Has Trapped Hezbollah Fighters Underground in Southern Lebanon",
-        "link": "https://www.nytimes.com/2026/06/24/world/middleeast/israel-lebanon-hezbollah-fighters-tunnels.html",
-        "summary": "The Israeli military says thousands of troops have surrounded a large tunnel network in southern Lebanon. The standoff is at the center of intense clashes in the area recently.",
+        "title": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
+        "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html",
+        "summary": "Two major quakes struck back to back on Wednesday night in the countrys populated northern areas. The second was the strongest to hit Venezuela in over a century.",
         "source": "NYT > World News",
-        "objectivity_score": 23,
+        "objectivity_score": 12,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "israel says",
-            "trapped hezbollah",
-            "large tunnel network"
+            "major quakes",
+            "northern areas"
         ]
     },
     {
-        "title": "Cuba Announces Sweeping Overhaul of Struggling Communist Economy, But Obstacles Remain",
-        "link": "https://www.nytimes.com/2026/06/24/world/americas/cuba-economy-overhaul-communism-trump.html",
-        "summary": "The Cuban government announced a major economic restructuring, but experts say most changes would depend on buy-in from the Trump administration.",
+        "title": "La Guaira, Venezuelan Port Town, Is Hit Hard by Earthquakes",
+        "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake-la-guaira.html",
+        "summary": "Deadly mudslides in 1999 dealt lasting blows to impoverished La Guaira. The response of the acting president, Delcy Rodrguez, may be a bellwether of her political longevity.",
         "source": "NYT > World News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "cuba announces sweeping overhaul",
-            "obstacles remain"
-        ]
-    },
-    {
-        "title": "Bahrain Restricts Shiite Holy Day Amid Iran War Crackdown",
-        "link": "https://www.nytimes.com/2026/06/24/world/middleeast/bahrain-ashura-restrictions-shiite.html",
-        "summary": "The restrictions are the latest in a string of measures Bahrain has taken against Shiite citizens in the Gulf country, with many accused of having loyalties to Iran.",
-        "source": "NYT > World News",
-        "objectivity_score": 70,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "bahrain restricts shiite",
-            "holy day",
-            "amid iran"
-        ]
-    },
-    {
-        "title": "The Wife of Spain\u2019s Leader Is Accused of Graft. It May Actually Help Him.",
-        "link": "https://www.nytimes.com/2026/06/24/world/europe/spain-sanchez-corruption.html",
-        "summary": "People close to Prime Minister Pedro Snchez keep being investigated for corruption. Analysts say weaknesses in the latest case could help him discredit the others.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s leader",
-            "pedro snchez"
-        ]
-    },
-    {
-        "title": "Could Brazil\u2019s Next Big Soccer Star Be Scouted By AI?",
-        "link": "https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html",
-        "summary": "Recruitment apps powered by artificial intelligence are gaining ground in Brazil, promising to even the playing field and find more soccer talent.",
-        "source": "NYT > World News",
-        "objectivity_score": 42,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "be scouted",
-            "artificial intelligence",
-            "soccer talent"
+            "port town",
+            "delcy rodrguez",
+            "political longevity"
         ]
     },
     {
-        "title": "With a Turkish \u2018Abrazo,\u2019 Istanbul Ascends as a Tango Capital",
-        "link": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
-        "summary": "Istanbuls many tango schools, clubs and skilled dancers have won the city recognition, even among Argentine maestros, as a global tango destination.",
+        "title": "Several Strong Quakes Hit Across the World in 24 Hours",
+        "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake-japan-california.html",
+        "summary": "Experts said the powerful earthquakes that struck California and Japan are likely not connected to the devastating tremors in Venezuela.",
         "source": "NYT > World News",
-        "objectivity_score": 33,
+        "objectivity_score": 74,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "strong quakes",
+            "hours experts",
+            "powerful earthquakes"
+        ]
+    },
+    {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake/heres-the-latest",
+        "summary": "",
+        "source": "NYT > World News",
+        "objectivity_score": 90,
         "sentiment": "Positive",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "turkish \u2018",
-            "istanbul ascends",
-            "tango capital istanbuls"
-        ]
-    },
-    {
-        "title": "The Ukraine War Amputees Embracing Wake Boarding and Jujitsu",
-        "link": "https://www.nytimes.com/2026/06/24/world/europe/ukraine-war-amputees-sports.html",
-        "summary": "As the number of amputees in Ukraine soars, many are bonding by learning new sports, challenging both their bodies and their ideas of what they can do.",
-        "source": "NYT > World News",
-        "objectivity_score": 65,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "amputees embracing wake boarding",
-            "new sports"
+            "here\u2019s"
         ]
     },
     {
@@ -1527,45 +1656,18 @@
         ]
     },
     {
-        "title": "A Right-Wing Election Victory in Colombia, With a Little Help from Trump",
-        "link": "https://www.nytimes.com/2026/06/25/world/americas/colombia-election-de-la-espriella-trump.html",
-        "summary": "The U.S. president endorsed the right-wing winner. But his influence went further.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "news"
-        ]
-    },
-    {
-        "title": "Can a Youth Boom Survive South Sudan\u2019s Education Crisis?",
-        "link": "https://www.nytimes.com/2026/06/25/world/africa/south-sudan-usaid-education.html",
-        "summary": "South Sudan is the worlds newest nation and its education system is on the verge of collapse, putting an entire generation at risk.",
-        "source": "NYT > World News",
-        "objectivity_score": 62,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "boom survive",
-            "\u2019 s education",
-            "education system"
-        ]
-    },
-    {
         "title": "Powerful Back-to-Back Earthquakes Hit Venezuela",
         "link": "https://www.nytimes.com/video/world/americas/100000010990980/venezuela-earthquake.html",
-        "summary": "A 7.2-magnitude earthquake hit central Venezuela on Wednesday and was followed by one with a magnitude of 7.5, killing dozens of people. The stronger quake was the worst the country had seen since 190...",
+        "summary": "Dozens of buildings were toppled by twin earthquakes, one of which was the strongest to hit Venezuela in more than a century.",
         "source": "NYT > World News",
         "objectivity_score": 75,
-        "sentiment": "Negative",
+        "sentiment": "Positive",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
             "powerful back-to-back earthquakes",
-            "7.2-magnitude earthquake"
+            "venezuela dozens",
+            "twin earthquakes"
         ]
     },
     {
@@ -1579,80 +1681,6 @@
         "image_url": null,
         "keywords": [
             "heat scorches europe"
-        ]
-    },
-    {
-        "title": "Venezuela Residents Describe Terror as Deadly Earthquake Struck",
-        "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake-caracas.html",
-        "summary": "Buildings collapsed, windows rattled and residents poured into the streets in Venezuelas capital and nearby cities after two major earthquakes hit.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "venezuela residents describe",
-            "earthquake struck buildings",
-            "nearby cities"
-        ]
-    },
-    {
-        "title": "North Korea Deploys Its First Destroyer, Vowing to Project Nuclear Power by Sea",
-        "link": "https://www.nytimes.com/2026/06/25/world/asia/north-korea-destroyer-nuclear.html",
-        "summary": "The 5,000-ton Choe Hyon is the largest warship North Korea has ever built and is said to be armed with nuclear-capable missiles.",
-        "source": "NYT > World News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "korea deploys",
-            "project nuclear power",
-            "choe hyon"
-        ]
-    },
-    {
-        "title": "Venezuela\u2019s Neighbors Offer Aid in Earthquake Response",
-        "link": "https://www.nytimes.com/2026/06/24/world/americas/venezuela-earthquake-international-response.html",
-        "summary": "Officials from the United States, El Salvador and the Dominican Republic said they would send rescue teams and humanitarian assistance to Caracas.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "neighbors offer",
-            "response officials",
-            "el salvador"
-        ]
-    },
-    {
-        "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
-        "link": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
-        "summary": "Crowds are filling the Canal Saint-Martin in Paris, as temperatures soar above 100 degrees Fahrenheit. Forty people drowned while swimming in other waterways.",
-        "source": "NYT > World News",
-        "objectivity_score": 19,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "old industrial canal",
-            "temperatures soar"
-        ]
-    },
-    {
-        "title": "A Puppy-Abuse Case in China, Caught on Video, Prompts Rare Public Protest",
-        "link": "https://www.nytimes.com/2026/06/25/world/asia/dog-animal-abuse-china-protest.html",
-        "summary": "After a man was filmed torturing dogs, hundreds gathered in a rare demonstration that the police tried to break up. For many, the sit-in was their first civic action.",
-        "source": "NYT > World News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "puppy-abuse case",
-            "prompts rare",
-            "rare demonstration"
         ]
     },
     {
@@ -1731,18 +1759,48 @@
         ]
     },
     {
-        "title": "Venezuela earthquakes leave at least 32 dead, 700 injured and dozens of buildings collapsed \u2013 latest updates",
+        "title": "Venezuela earthquakes: \u2018intensive\u2019 search for survivors as death toll rises to 164 \u2013 latest updates",
         "link": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
-        "summary": "Delcy Rodrguez says rescuers from others countries arriving in Venezuela over coming hours after two powerful quakes hit capitalVenezuela earthquakes: back-to-back quakes collapse buildings in capital...",
+        "summary": "Delcy Rodrguez said authorities were shifting rescue teams from other parts of the country to the hardest-hit La Guaira areaVenezuela declares state of emergency after deadly twin earthquakesHave you ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 60,
+        "objectivity_score": 54,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "delcy rodrguez",
-            "others countries",
-            "powerful quakes"
+            "\u2018 intensive \u2019 search",
+            "death toll rises",
+            "delcy rodrguez"
+        ]
+    },
+    {
+        "title": "Vehicle hits crowd in Cabo San Lucas after Mexico\u2019s World Cup win over Czechia",
+        "link": "https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia",
+        "summary": "Seventeen people hurt after car drives through crowdDriver arrested following incident at tourist resortMore than a dozen people were injured on Wednesday night when a vehicle drove through a crowd in...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Positive",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "hits crowd",
+            "cabo san lucas",
+            "\u2019 s world cup"
+        ]
+    },
+    {
+        "title": "Venezuela declares state of emergency after deadly twin earthquakes",
+        "link": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
+        "summary": "Second quake, at magnitude 7.5, was most powerful to strike the country since 1900, collapsing buildings in capitalVenezuela earthquake  latest updatesVenezuelas interim leader, Delcy Rodrguez, has de...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "twin earthquakes",
+            "capitalvenezuela earthquake",
+            "updatesvenezuelas interim leader"
         ]
     },
     {
@@ -1761,21 +1819,6 @@
         ]
     },
     {
-        "title": "Venezuela earthquake: fatal back-to-back earthquakes in Caracas as experts warn of heavy death toll",
-        "link": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
-        "summary": "Homes and buildings collapse after double quake, with tremors felt in neighbouring ColombiaVenezuela earthquakes: follow live updatesVenezuelas interim leader, Delcy Rodrguez, has declared a state of ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "fatal back-to-back earthquakes",
-            "heavy death toll",
-            "buildings collapse"
-        ]
-    },
-    {
         "title": "Brazilian federal police arrest Spanish citizen at S\u00e3o Paulo airport for racism",
         "link": "https://www.theguardian.com/world/2026/jun/24/brazilian-police-arrest-spanish-citizen-racism",
         "summary": "Woman detained at airport after allegedly making racist remarks directed at workers unloading baggage, police sayBrazils federal police have detained a Spanish citizen in So Paulos international Guaru...",
@@ -1788,21 +1831,6 @@
             "federal police arrest",
             "spanish citizen",
             "s\u00e3o paulo"
-        ]
-    },
-    {
-        "title": "Colombia\u2019s leftwing candidate concedes election to Trump-endorsed millionaire",
-        "link": "https://www.theguardian.com/world/2026/jun/24/colombia-presidential-election-abelardo-de-la-espriella",
-        "summary": "Leftist Ivn Cepeda conceded to far-right lawyer Abelardo de la Espriella who won by razor-thin marginThe defeated leftwing candidate in Colombias presidential runoff has conceded to the far-right, Tru...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Negative",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "candidate concedes election",
-            "leftist ivn cepeda",
-            "far-right lawyer"
         ]
     },
     {
@@ -1881,21 +1909,6 @@
         ]
     },
     {
-        "title": "Paterson says Hanson\u2019s vision for monocultural Australia \u2018deeply weird\u2019 as he defends Taylor\u2019s response \u2013 as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb",
-        "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastMike Burgess says hes really concerned about the level some nation-states, like Iran, could go to cause harm against A...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s vision",
-            "weird \u2019",
-            "\u2019 s response \u2013"
-        ]
-    },
-    {
         "title": "Sydney shark attack survivor awake, alert and \u2018remembers the whole event in detail\u2019, brother says",
         "link": "https://www.theguardian.com/australia-news/2026/jun/25/sydney-woman-shark-attack-awake-leah-stewart-remembers-whole-event-detail",
         "summary": "Australian woman Leah Stewart no longer in critical condition but doesnt yet have use of her handGet our breaking news email, free app or daily news podcastA woman who was attacked by a great white sh...",
@@ -1908,6 +1921,21 @@
             "shark attack survivor awake",
             "\u2018 remembers",
             "whole event"
+        ]
+    },
+    {
+        "title": "Paterson says Hanson\u2019s vision for monocultural Australia \u2018deeply weird\u2019 as he defends Taylor\u2019s response \u2013 as it happened",
+        "link": "https://www.theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb",
+        "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastMike Burgess says hes really concerned about the level some nation-states, like Iran, could go to cause harm against A...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s vision",
+            "weird \u2019",
+            "\u2019 s response \u2013"
         ]
     },
     {
@@ -1956,78 +1984,93 @@
         ]
     },
     {
-        "title": "Europe braced for another day of extreme heat as warnings issued across UK, France and Italy \u2013 live",
+        "title": "Extreme heat grips Europe as UK hits new June record, France shuts down nuclear reactors and deaths rise across continent \u2013 live",
         "link": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates",
-        "summary": "UK June heat record could be broken for the second consecutive dayHarriet RichardsAssistant environment editorSimon Stiell, the UN climate chief, warned that Europes savage heatwave has the fingerprin...",
+        "summary": "Heatwave-related deaths climb in Spain, Italy and France as continent battles another day of extreme temperaturesFarryn StockOver in the UK, South East Water has announced a temporary hosepipe ban in ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 52,
+        "objectivity_score": 73,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "extreme heat",
-            "uk june",
-            "heat record"
+            "heat grips",
+            "nuclear reactors",
+            "deaths rise"
         ]
     },
     {
-        "title": "Thursday briefing: Why EU\u200b-Taliban talks have sparked outrage among Afghan women \u200b",
-        "link": "https://www.theguardian.com/world/2026/jun/25/thursday-briefing-why-eu-taliban-talks-have-sparked-outrage-among-afghan-women",
-        "summary": "In todays newsletter: Amid rising antiimmigration rhetoric across Europe, the decision to engage with the Taliban signals a profound shift in how the EU balances security and human rightsGood morning....",
+        "title": "Russia used Israeli firm\u2019s tool to crack phone months after ties severed, report finds",
+        "link": "https://www.theguardian.com/world/2026/jun/25/russia-used-israeli-tool-to-crack-phone-months-after-contract-cancelled-report-finds",
+        "summary": "Case of Andrei Pivovarov raises questions about how much control Cellebrite has over its own softwareRussian authorities used tools from the Israeli company Cellebrite to break into the phone of a pol...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 51,
+        "sentiment": "Positive",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "firm \u2019 s tool",
+            "crack phone months",
+            "andrei pivovarov"
+        ]
+    },
+    {
+        "title": "Reform UK plan to target EU nationals based in Britain \u2018absolutely outrageous\u2019",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/25/reform-uk-plan-target-eu-nationals-britain-brexit",
+        "summary": "Exclusive: Rights group says Nigel Farages party is reneging on promises made during the Brexit referendum campaignUK politics live  latest updatesEU nationals based permanently in the UK have express...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 61,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "women \u200b",
-            "todays newsletter",
-            "antiimmigration rhetoric"
+            "reform uk",
+            "outrageous \u2019",
+            "nigel farages"
         ]
     },
     {
-        "title": "\u2018It\u2019s like a furnace\u2019: French struggle with heat-trap homes as climate inequality grows",
-        "link": "https://www.theguardian.com/world/2026/jun/25/french-heat-trap-homes-climate-inequality-grows",
-        "summary": "Many of Frances buildings are not designed for hot weather  and low-income housing estates are suffering the worstLiving in a sweltering, seventh-floor flat on a concrete housing estate south of Paris...",
+        "title": "Great Britain\u2019s grid operator pays \u00a310m for extra power to avoid supply crunch tonight",
+        "link": "https://www.theguardian.com/business/2026/jun/24/heatwave-great-britain-grid-operator-extra-electricity-power-plants",
+        "summary": "Neso expected to pay millions to secure enough electricity to meet demand as households turn on fans and air conditioningGreat Britains grid operator is expected to pay millions to fire up gas power p...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Neutral",
+        "objectivity_score": 55,
+        "sentiment": "Positive",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "furnace \u2019",
-            "french struggle",
-            "heat-trap homes"
+            "\u2019 s grid operator",
+            "extra power",
+            "air conditioninggreat"
         ]
     },
     {
-        "title": "Germany\u2019s railways grind to halt as IT maintenance snag takes down network",
-        "link": "https://www.theguardian.com/world/2026/jun/24/germany-rail-network-deutsche-bahn-standstill-it-replacement",
-        "summary": "Deutsche Bahn widely criticised after hundreds of thousands of passengers stranded in operators latest setbackGermanys rail network ground to a halt late on Tuesday as a result of maintenance work tha...",
+        "title": "UK to halve tariff-free steel imports to counter glut of cheap Chinese metal",
+        "link": "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal",
+        "summary": "Duty on imports outside new quota will double in move echoing similar changes in EU limitsBusiness live  latest updatesThe UK government will halve the amount of tariff-free steel imports allowed in a...",
         "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Negative",
+        "objectivity_score": 32,
+        "sentiment": "Positive",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "\u2019 s railways grind",
-            "maintenance snag",
-            "deutsche bahn"
+            "halve tariff-free steel imports",
+            "counter glut",
+            "cheap chinese metal"
         ]
     },
     {
-        "title": "Europe heatwave live: UK breaks temperature record for June as parts of France hit 40C \u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert",
-        "summary": "West Sussex reports temperature of 35.8C, beating previous record from 1976; red weather alert extended to 72 of Frances 96 mainland departmentsGrahame Madge, a Met Office spokesperson, said the agenc...",
+        "title": "JD Vance is the face of the beleaguered Iran deal \u2013 is he its fall guy?",
+        "link": "https://www.theguardian.com/us-news/2026/jun/25/jd-vance-iran-peace-deal",
+        "summary": "Vice-president, leading a foundering peace deal to end the kind of war hes opposed in the past, is left holding the bagJD Vance has taken the greatest gamble of his vice-presidency by making himself t...",
         "source": "World news | The Guardian",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
+        "objectivity_score": 42,
+        "sentiment": "Positive",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "temperature record",
-            "reports temperature",
-            "previous record"
+            "jd vance",
+            "fall guy",
+            "war hes"
         ]
     },
     {
@@ -2088,21 +2131,6 @@
             "security chiefs",
             "legal action",
             "jewish terrorism \u2019"
-        ]
-    },
-    {
-        "title": "Israel continues to commit genocide by targeting children in Gaza, UN inquiry finds",
-        "link": "https://www.theguardian.com/world/2026/jun/23/israel-deliberately-targeting-gaza-children-to-commit-genocide-un-inquiry-finds",
-        "summary": "Independent report says by aiming at children Israel is undermining capacity of Palestinian people to existIsrael continues to commit genocide by deliberately targeting Palestinian children in Gaza, a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 7,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "un inquiry",
-            "independent report",
-            "independent un inquiry"
         ]
     },
     {
@@ -2181,153 +2209,153 @@
         ]
     },
     {
-        "title": "EasyJet opens talks with Castlelake after rejecting \u00a34.9bn takeover offer",
-        "link": "https://www.theguardian.com/business/2026/jun/25/easyjet-opens-talks-with-castlelake-after-rejecting-4-9bn-takeover-offer",
-        "summary": "British carrier says it hopes to receive more attractive proposal that better reflects the value of easyJetBusiness live  latest updatesEasyJet has opened talks with Castlelake, despite rejecting a fo...",
+        "title": "Perpetrators of LGBTQ+ conversion practices could face prison under new bill",
+        "link": "https://www.theguardian.com/world/2026/jun/25/government-draft-bill-ban-conversion-practices-lgbtq-england-wales-historic-campaigners",
+        "summary": "Draft bill to ban abusive practices that aim to change someones sexual orientation or gender identity in England and Wales hailed as historicPerpetrators of conversion therapy against LGBTQ+ people co...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "\u00a34.9bn takeover",
-            "british carrier",
-            "attractive proposal"
+            "conversion practices",
+            "new bill",
+            "ban abusive practices"
         ]
     },
     {
-        "title": "Reeves hints she accepts Burnham will not keep her as chancellor \u2013 UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates",
-        "summary": "Reeves refused to say whether she would accept a more junior job in cabinet if Burnham offered her oneAt her Q&A at the BCC, asked if she had any advice for her successor, Rachel Reeves said:I am not ...",
+        "title": "Teenage boy found not guilty of murdering Aria Thorpe, nine, in Somerset",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/25/teenage-boy-not-guilty-murder-aria-thorpe-somerset",
+        "summary": "Jury clears 16-year-old of murder and manslaughter over the death of Aria, who died from a single stab woundA 16-year-old boy has been found not guilty of the murder of nine-year-old Aria Thorpe, who ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "chancellor \u2013",
-            "junior job",
-            "rachel reeves"
-        ]
-    },
-    {
-        "title": "Reeves backs Burnham to be PM despite reports she may be offered only junior role",
-        "link": "https://www.theguardian.com/politics/2026/jun/25/rachel-reeves-backs-andy-burnham-prime-minister-wes-streeting-ed-miliband-labour",
-        "summary": "Allies of Reeves lobby to keep her as chancellor as the stable choice while Wes Streeting and Ed Miliband also in the pictureUK politics live  latest updatesRachel Reeves has given her support to Andy...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 51,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "junior role",
-            "stable choice",
-            "wes streeting"
-        ]
-    },
-    {
-        "title": "Hot Mess and Acid\u2019s Reign: the romcom and queer cabaret spotlighting climate crisis",
-        "link": "https://www.theguardian.com/stage/2026/jun/25/hot-mess-acids-reign-romcom-cabaret-climate-crisis",
-        "summary": "A blooming new wave of musical theatre is exploring the plight of the planet with a playful and hopeful approachEarth is a single woman with a lot to give; Humanity is a charismatic bad boy who turns ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 44,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "hot mess",
-            "queer cabaret",
-            "climate crisis"
+            "aria thorpe",
+            "stab wounda",
+            "16-year-old boy"
         ]
     },
     {
-        "title": "\u2018More relevant than making fires\u2019: Explorer Scouts launch badges for AI and digital age",
-        "link": "https://www.theguardian.com/society/2026/jun/25/explorer-scouts-launch-badges-ai-digital-age",
-        "summary": "Content creation and online safety among new topics for 14- to 18-year-olds  but tweaks may be needed when social media ban comes inScouts are introducing badges in content creation, digital communica...",
+        "title": "UK experiences hottest June day ever as 36.4C recorded in Yeovilton, Somerset",
+        "link": "https://www.theguardian.com/environment/2026/jun/25/highest-june-minimum-temperature-record-broken-cardiff-savage-heatwave-continues",
+        "summary": "Highest June minimum temperature record broken earlier, at 23.5C in CardiffEurope live  latest updatesThursday was the UKs hottest June day on record with a provisional temperature of 36.4C (97.5F) re...",
         "source": "World news | The Guardian",
-        "objectivity_score": 27,
+        "objectivity_score": 53,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "somerset highest june",
+            "minimum temperature record",
+            "provisional temperature"
+        ]
+    },
+    {
+        "title": "Starmer says he wants disruption \u2018absolutely minimised\u2019 during transition to Burnham government \u2013 UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates",
+        "summary": "PM says: I love this country, I want this country to thrive, and I shall do everything I can to make sure its a success and thrivesIn her Q&A this morning Rachel Reeves, the chancellor, confirmed that...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 57,
         "sentiment": "Positive",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "fires \u2019",
-            "explorer scouts",
-            "launch badges"
+            "disruption \u2018",
+            "government \u2013",
+            "rachel reeves"
         ]
     },
     {
-        "title": "Elizabeth Warren says \u2018frenzy\u2019 of mergers under Trump could be reversed",
-        "link": "https://www.theguardian.com/us-news/2026/jun/25/elizabeth-warren-trump-mergers",
-        "summary": "Senator warns of tsunami of anger against big companies and suggests future administrations may undo key dealsDemocratic senator Elizabeth Warren has warned that corporate mergers approved by the Trum...",
+        "title": "Exotic hazard: golfers confront 3-metre-long boa constrictors on UK course",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/25/golfers-confront-3-metre-long-boa-constrictors-on-uk-course-snake-country-durham",
+        "summary": "Pair of sick snakes discovered at club in County Durham presumed to have been dumped there by ownerFor most golfers, the biggest hindrance they are likely to come across during a round is a strong gus...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 56,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "3-metre-long boa constrictors",
+            "sick snakes",
+            "strong gust"
+        ]
+    },
+    {
+        "title": "Supreme court to issue opinions, with eyes on high-stakes cases; Trump to meet House speaker to break legislative gridlock \u2013 live",
+        "link": "https://www.theguardian.com/us-news/live/2026/jun/25/trump-housing-bill-senate-regulations-supreme-court-latest-news-updates",
+        "summary": "Decisions still outstanding in birthright citizenship cases among others; Trump and Congress in standoff over housing and voter ID billsSign up for the Breaking News US emailThe US supreme court has s...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 48,
+        "sentiment": "Positive",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "supreme court",
+            "high-stakes cases",
+            "house speaker"
+        ]
+    },
+    {
+        "title": "US supreme court strikes down Hawaii\u2019s gun restrictions in major second amendment ruling",
+        "link": "https://www.theguardian.com/us-news/2026/jun/25/supreme-court-hawaii-gun-law",
+        "summary": "The law banned people from carrying guns in most public spaces and private property without owners permissionSign up for the Breaking News US email to get newsletter alerts in your inboxThe US supreme...",
         "source": "World news | The Guardian",
         "objectivity_score": 37,
         "sentiment": "Neutral",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "elizabeth warren",
-            "\u2018 frenzy \u2019",
-            "senator warns"
+            "supreme court strikes",
+            "\u2019 s gun restrictions",
+            "amendment ruling"
         ]
     },
     {
-        "title": "Mystery of Gracie the giraffe deepens as sheriff calls recapture claims a tall story",
-        "link": "https://www.theguardian.com/us-news/2026/jun/24/gracie-the-giraffe-found-texas",
-        "summary": "Sheriff in rural Texas says its still at large after claim Gracie had been located after wandering off private ranchFor almost two weeks, residents of a rural Texas county have been looking, mostly up...",
+        "title": "Pentagon restores mandatory flu shots for all recruits amid boot camp outbreak",
+        "link": "https://www.theguardian.com/us-news/2026/jun/25/pentagon-military-recruits-flu-vaccine-outbreak",
+        "summary": "Move comes after Hegseth made shot optional for military in April and Texas outbreak has sickened nearly 300 peopleThe Pentagon has said that boot camps for all the military services are once again re...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "giraffe deepens",
-            "sheriff calls recapture claims",
-            "tall story sheriff"
-        ]
-    },
-    {
-        "title": "Trump kicks off America\u2019s 250th celebration with campaign-style rally",
-        "link": "https://www.theguardian.com/us-news/2026/jun/24/trump-freedom-250-great-american-state-fair",
-        "summary": "President on National Mall rattles off list of apparent victories and says I am thrilled to declare America is back Donald Trump kicked off what was intended to be a spectacular birthday party for Ame...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Positive",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s 250th celebration",
-            "campaign-style rally president",
-            "national mall rattles"
-        ]
-    },
-    {
-        "title": "Trump gets in shouting match with Republican senator amid standoff over housing bill and president\u2019s anger at war powers vote \u2013  as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/jun/24/mamdani-new-york-primaries-midterms-democrats-republicans-trump-250-anniversary-politics-latest-updates",
-        "summary": "This live blog is now closed.Trump abruptly cancels signing of bill aimed at lowering housing costSign up for the Breaking News US emailA man or a movement? That was the question being asked when Zohr...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-06-25",
-        "image_url": null,
-        "keywords": [
-            "president \u2019 s anger",
-            "war powers vote \u2013",
-            "news us emaila man"
-        ]
-    },
-    {
-        "title": "Bill Gates says Epstein sought to blackmail him over extramarital affairs",
-        "link": "https://www.theguardian.com/us-news/2026/jun/24/bill-gates-epstein-transcript",
-        "summary": "Transcript of congressional testimony shows Microsoft founder spoke of veiled threats made by late sex offenderThe Microsoft founder Bill Gates told US members of Congress that the late sex offender J...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 50,
+        "objectivity_score": 45,
         "sentiment": "Negative",
         "date": "2026-06-25",
         "image_url": null,
         "keywords": [
-            "bill gates",
-            "extramarital affairs",
-            "congressional testimony shows"
+            "pentagon restores",
+            "mandatory flu shots",
+            "boot camp outbreak"
+        ]
+    },
+    {
+        "title": "Senate Republicans reject Iran war powers measure after Trump pressure",
+        "link": "https://www.theguardian.com/us-news/2026/jun/25/senate-republicans-reject-iran-war-powers-trump",
+        "summary": "Late-night vote came hours after US president berated GOP senators over opposition to the conflictSign up for the Breaking News US newsletter emailSenate Republicans rejected a war powers resolution i...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 49,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "war powers measure",
+            "us president",
+            "gop senators"
+        ]
+    },
+    {
+        "title": "Powerful earthquakes rock Venezuela as death toll reaches 164 | First Thing",
+        "link": "https://www.theguardian.com/us-news/2026/jun/25/first-thing-earthquakes-venezuela-death-toll",
+        "summary": "Buildings collapse after twin 7.2- and 7.5-magnitude quakes. Plus, why apartment renters are facing a rising tide of feesDont already get First Thing in your inbox? Sign up hereGood morning.Venezuelas...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 54,
+        "sentiment": "Neutral",
+        "date": "2026-06-25",
+        "image_url": null,
+        "keywords": [
+            "earthquakes rock",
+            "death toll",
+            "thing buildings"
         ]
     }
 ]
