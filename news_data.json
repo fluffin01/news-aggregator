@@ -751,23 +751,24 @@
         ]
     },
     {
-        "title": "I hear my son crying beneath the rubble, says Venezuela earthquake survivor",
-        "link": "https://www.bbc.co.uk/news/articles/ckg4zz90wk7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Andreina Valerio says she fears for her son, who is trapped with her partner and in-laws beneath a collapsed building.",
+        "title": "England captain Ben Stokes says retiring from international cricket 'best thing' for him",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ben Stokes describes the reasons for his international retirement as he says he became 'burned out' in the build-up to the summer.",
         "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Negative",
+        "objectivity_score": 10,
+        "sentiment": "Positive",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "earthquake survivor",
-            "andreina valerio"
+            "ben stokes",
+            "international cricket 'best thing",
+            "ben stokes"
         ]
     },
     {
         "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
         "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-        "summary": "The pilot and 10 passengers died in the incident, local officials said.",
+        "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
@@ -775,22 +776,8 @@
         "image_url": null,
         "keywords": [
             "skydivers crashes",
+            "first-time parachutists",
             "local officials"
-        ]
-    },
-    {
-        "title": "World Cup knockouts are here - what is England's path to the final?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport takes a look at what England will need to do to reach the final after qualifying for the knockout stages.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "world cup knockouts",
-            "'s path",
-            "bbc sport"
         ]
     },
     {
@@ -809,6 +796,21 @@
         ]
     },
     {
+        "title": "Catherine completes Three Peaks Challenge to 'explore life beyond' cancer diagnosis",
+        "link": "https://www.bbc.co.uk/news/articles/cwydwgy7125o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Princess of Wales did the endurance event to raise awareness about \"holistic healthcare\" for cancer patients.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "peaks challenge",
+            "'explore life",
+            "cancer diagnosis"
+        ]
+    },
+    {
         "title": "Harry reconsiders bringing Meghan and children on UK trip",
         "link": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss",
         "summary": "It comes after his request for police protection was rejected days before the family is due to arrive.",
@@ -819,6 +821,168 @@
         "image_url": null,
         "keywords": [
             "police protection"
+        ]
+    },
+    {
+        "title": "Fourteen killed in Saudi Arabia helicopter crash",
+        "link": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+        "summary": "The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "saudi arabia",
+            "helicopter crash",
+            "state oil"
+        ]
+    },
+    {
+        "title": "Cleverly says he would not have used Badenoch's Gestapo jibe",
+        "link": "https://www.bbc.co.uk/news/articles/cq81d8k5z1qo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Conservative leader has been criticised by Labour for making a Nazi comparison in relation to the education secretary.",
+        "source": "BBC News",
+        "objectivity_score": 83,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "education secretary"
+        ]
+    },
+    {
+        "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+        "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+        "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "'s heatwave",
+            "hits record 41.7c",
+            "tedros adhanom ghebreyesus"
+        ]
+    },
+    {
+        "title": "British man held in Ecuador after woman's body found in suitcase",
+        "link": "https://www.bbc.co.uk/news/articles/c5yz53ll534o?at_medium=RSS&at_campaign=rss",
+        "summary": "Matthew Ashley Foster-Smith was arrested in Ecuador after the woman was found dead in Colombia.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "british man",
+            "woman 's body",
+            "matthew ashley foster-smith"
+        ]
+    },
+    {
+        "title": "How Bellingham became Tuchel's most important player",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss",
+        "summary": "His starting place was the subject of much debate in Thomas Tuchel's England team, but Jude Bellingham has become integral to the manager's style of play.",
+        "source": "BBC News",
+        "objectivity_score": 42,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "important player",
+            "thomas tuchel",
+            "jude bellingham"
+        ]
+    },
+    {
+        "title": "27 flights, 24 matches: The carbon cost of Fifa president's World Cup tour",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Gianni Infantino has clocked up thousands of air miles across North America so far.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "carbon cost",
+            "president 's world cup tour",
+            "gianni infantino"
+        ]
+    },
+    {
+        "title": "World Cup knockouts are here - what is England's path to the final?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Sport takes a look at what England will need to do to reach the final after qualifying for the knockout stages.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "world cup knockouts",
+            "'s path",
+            "bbc sport"
+        ]
+    },
+    {
+        "title": "From Boston to Miami: How the Tartan Army lit up the World Cup",
+        "link": "https://www.bbc.co.uk/news/articles/cq51qvewvn3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Scotland's return to the tournament after 28 years will be fondly remembered for the fans who travelled to the US",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "army lit",
+            "world cup",
+            "'s return"
+        ]
+    },
+    {
+        "title": "Best team, moments, matches and players of the group stage",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ce3e256752qo?at_medium=RSS&at_campaign=rss",
+        "summary": "As the World Cup group stages come to an end, BBC Sport reporters pick their highlights so far.",
+        "source": "BBC News",
+        "objectivity_score": 65,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "group stage",
+            "world cup group stages",
+            "bbc sport"
+        ]
+    },
+    {
+        "title": "What you need to know about England's opponents DR Congo",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss",
+        "summary": "England will face DR Congo in the round of 32. Here is what you need to know about them.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "'s opponents",
+            "dr congo england",
+            "dr congo"
+        ]
+    },
+    {
+        "title": "How to win a World Cup penalty shootout",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cd9px47g8jlo?at_medium=RSS&at_campaign=rss",
+        "summary": "We have a look at what can be learned from every World Cup penalty taken in a shootout ever.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "world cup penalty shootout",
+            "world cup penalty"
         ]
     },
     {
@@ -833,6 +997,21 @@
         "keywords": [
             "top group",
             "world cup",
+            "world cup"
+        ]
+    },
+    {
+        "title": "Are Iran the unluckiest side in the tournament's history?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
+        "summary": "Iran had a place in the last 32 of the World Cup snatched away from them at the last minute not once but twice.",
+        "source": "BBC News",
+        "objectivity_score": 6,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "unluckiest side",
+            "tournament 's history",
             "world cup"
         ]
     },
@@ -852,80 +1031,6 @@
         ]
     },
     {
-        "title": "27 flights, 24 matches: How Fifa's president is jetting around World Cup",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Gianni Infantino has clocked up thousands of air miles across North America so far.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "'s president",
-            "world cup",
-            "gianni infantino"
-        ]
-    },
-    {
-        "title": "Best team, moments, matches and players of the group stage",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ce3e256752qo?at_medium=RSS&at_campaign=rss",
-        "summary": "As the World Cup group stages come to an end, BBC Sport reporters pick their highlights so far.",
-        "source": "BBC News",
-        "objectivity_score": 65,
-        "sentiment": "Positive",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "group stage",
-            "world cup group stages",
-            "bbc sport"
-        ]
-    },
-    {
-        "title": "How to win a World Cup penalty shootout",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cd9px47g8jlo?at_medium=RSS&at_campaign=rss",
-        "summary": "We have a look at what can be learned from every World Cup penalty taken in a shootout ever.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "world cup penalty shootout",
-            "world cup penalty"
-        ]
-    },
-    {
-        "title": "Are Iran the unluckiest side in the tournament's history?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
-        "summary": "Iran had a place in the last 32 of the World Cup snatched away from them at the last minute not once but twice.",
-        "source": "BBC News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "unluckiest side",
-            "tournament 's history",
-            "world cup"
-        ]
-    },
-    {
-        "title": "What you need to know about England's opponents DR Congo",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss",
-        "summary": "England will face DR Congo in the round of 32. Here is what you need to know about them.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "'s opponents",
-            "dr congo england",
-            "dr congo"
-        ]
-    },
-    {
         "title": "Big names, dark horses and subplots - reasons to watch each last 32 tie",
         "link": "https://www.bbc.co.uk/sport/football/articles/cn59l9y636go?at_medium=RSS&at_campaign=rss",
         "summary": "BBC Sport shows why you should be interested in all of the World Cup's last-32 ties.",
@@ -938,21 +1043,6 @@
             "big names",
             "dark horses",
             "bbc sport"
-        ]
-    },
-    {
-        "title": "My phone addiction has taken years from my life - now I'm in therapy for it",
-        "link": "https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Addiction treatment centres say more clients are coming for help with \"out-of-control\" phone use.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "phone addiction",
-            "treatment centres",
-            "phone use"
         ]
     },
     {
@@ -970,7 +1060,7 @@
         ]
     },
     {
-        "title": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
+        "title": "'I have no problem speaking up, that's probably my red flag', says Millie Bobby Brown",
         "link": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss",
         "summary": "Brown talks to the BBC about having her \"hands and heart\" all over the detective adventure series.",
         "source": "BBC News",
@@ -979,24 +1069,9 @@
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "millie bobby brown",
-            "louis partridge",
-            "enola holmes brown"
-        ]
-    },
-    {
-        "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-        "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
-        "summary": "Very few North Koreans know about her, as her origin could threaten the regimes legitimacy.",
-        "source": "BBC News",
-        "objectivity_score": 54,
-        "sentiment": "Positive",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "kim jong un",
-            "controversial bloodline",
-            "regimes legitimacy"
+            "red flag",
+            "millie bobby brown brown",
+            "detective adventure series"
         ]
     },
     {
@@ -1013,33 +1088,18 @@
         ]
     },
     {
-        "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-        "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+        "title": "I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it",
+        "link": "https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Addiction treatment centres say more clients are coming for help with \"out-of-control\" phone use.",
         "source": "BBC News",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "exchange strikes",
-            "retaliatory attacks",
-            "us infrastructure"
-        ]
-    },
-    {
-        "title": "British man held in Ecuador after woman's body found in suitcase",
-        "link": "https://www.bbc.co.uk/news/articles/c5yz53ll534o?at_medium=RSS&at_campaign=rss",
-        "summary": "Matthew Ashley Foster-Smith was arrested in Ecuador after the woman was found dead in Colombia.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "british man",
-            "woman 's body",
-            "matthew ashley foster-smith"
+            "14-hour-a-day phone addiction",
+            "treatment centres",
+            "phone use"
         ]
     },
     {
@@ -1053,6 +1113,21 @@
         "image_url": null,
         "keywords": [
             "weather stay dry"
+        ]
+    },
+    {
+        "title": "Why Kim Jong Un hasn't publicly mentioned his mother's name in 15 years of rule",
+        "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+        "summary": "Very few North Koreans know about her, as her origin could threaten the regimes legitimacy.",
+        "source": "BBC News",
+        "objectivity_score": 9,
+        "sentiment": "Negative",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "kim jong un",
+            "mother 's name",
+            "regimes legitimacy"
         ]
     },
     {
@@ -1071,21 +1146,6 @@
         ]
     },
     {
-        "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
-        "link": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Pride and a party as the Puerto Rican becomes the first Latin artist to headline a UK stadium.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "latin star lights",
-            "stadium show pride",
-            "puerto rican"
-        ]
-    },
-    {
         "title": "Tech firms are blaming AI for mega device and console price rises",
         "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
         "summary": "Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.",
@@ -1101,58 +1161,88 @@
         ]
     },
     {
-        "title": "Twins living identical lives for 82 years",
-        "link": "https://www.bbc.co.uk/news/articles/c1myxl5dx2no?at_medium=RSS&at_campaign=rss",
-        "summary": "The brothers have dressed alike, worked the same jobs and lived in the same home all their lives.",
+        "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+        "link": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+        "summary": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.",
+        "source": "BBC News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "huge wildfires"
+        ]
+    },
+    {
+        "title": "Raducanu 'plans to play' at Wimbledon despite injury setback",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c3ey0lgjdq0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Emma Raducanu says she \"plans to play\" at Wimbledon despite a leg injury which has put her participation in serious doubt.",
+        "source": "BBC News",
+        "objectivity_score": 66,
+        "sentiment": "Negative",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "injury setback",
+            "emma raducanu",
+            "leg injury"
+        ]
+    },
+    {
+        "title": "Murder suspect had leave to remain, say police",
+        "link": "https://www.bbc.co.uk/news/articles/czrx4mj18gyo?at_medium=RSS&at_campaign=rss",
+        "summary": "French national Kevin Kerjean was granted leave to remain in the UK in 2021, extended until 2031.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "kevin kerjean"
+        ]
+    },
+    {
+        "title": "Body of missing boy, 15, found in reservoir",
+        "link": "https://www.bbc.co.uk/news/articles/c621lp8ev29o?at_medium=RSS&at_campaign=rss",
+        "summary": "Police say the boy's body was recovered from Cowbury Reservoir in Stalybridge on Saturday night.",
+        "source": "BBC News",
+        "objectivity_score": 5,
+        "sentiment": "Negative",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "boy 's body",
+            "cowbury reservoir"
+        ]
+    },
+    {
+        "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+        "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+        "source": "BBC News",
+        "objectivity_score": 18,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "exchange strikes",
+            "retaliatory attacks",
+            "us infrastructure"
+        ]
+    },
+    {
+        "title": "Uganda's leading media outlets shut down by army chief",
+        "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+        "summary": "NTV and Daily Monitor say their offices in the capital are under \"military siege\".",
         "source": "BBC News",
         "objectivity_score": 12,
         "sentiment": "Neutral",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "identical lives"
-        ]
-    },
-    {
-        "title": "RNLI 'welly guard of honour' for newlyweds",
-        "link": "https://www.bbc.co.uk/news/articles/cn8q513e8n4o?at_medium=RSS&at_campaign=rss",
-        "summary": "A lifeboat crew surprised their newlywed crew mates with a yellow welly guard of honour.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "lifeboat crew",
-            "crew mates"
-        ]
-    },
-    {
-        "title": "I'm overwhelmed now - so how do I plan for motherhood when I've got ADHD?",
-        "link": "https://www.bbc.co.uk/news/articles/c5yzkgx0n2eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Hayley Pearce wonders how her \"neurospicy\" brain will handle the challenge of having a new born.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "hayley pearce"
-        ]
-    },
-    {
-        "title": "'He's always welcome': How a young Irish boxer befriended Kendrick Lamar",
-        "link": "https://www.bbc.co.uk/news/articles/cdr464204g1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Aaron McKenna recalled his unlikely friendship with the iconic rapper as he prepares for the biggest fight of his boxing career.",
-        "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "'he 's",
-            "young irish boxer",
-            "kendrick lamar aaron mckenna"
+            "media outlets shut",
+            "army chief",
+            "military siege"
         ]
     },
     {
@@ -1214,78 +1304,90 @@
         ]
     },
     {
-        "title": "Clarke leaves strong Scotland legacy but exit brings sense of relief",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cn4d1eg5eqeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Steve Clarke took Scotland out of the wilderness - but not past the group stage of a tournament. Tom English's must-read analysis of his reign.",
+        "title": "Retirement the best thing for me - Stokes",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ben Stokes describes the reasons for his international retirement as he says he became 'burned out' in the build-up to the summer.",
         "source": "BBC News",
-        "objectivity_score": 32,
+        "objectivity_score": 15,
         "sentiment": "Positive",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "steve clarke",
-            "group stage",
-            "tom english"
+            "stokes ben stokes",
+            "international retirement"
         ]
     },
     {
-        "title": "Knockouts are here - what is England's path to the final?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport takes a look at what England will need to do to reach the final after qualifying for the knockout stages.",
+        "title": "Relief for Russell as he returns to winning ways",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/c14yr0kpjy1o?at_medium=RSS&at_campaign=rss",
+        "summary": "After winning the Austrian Grand Prix, George Russell has another victory to his name in 2026, and the relief in him was almost palpable, says Andrew Benson.",
         "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "'s path",
-            "bbc sport",
-            "knockout stages"
-        ]
-    },
-    {
-        "title": "Are Iran the unluckiest side in World Cup history?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
-        "summary": "Iran had a place in the last 32 of the World Cup snatched away from them at the last minute not once but twice.",
-        "source": "BBC News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "unluckiest side",
-            "world cup history",
-            "world cup"
-        ]
-    },
-    {
-        "title": "Tuchel worried about England's right-back situation",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cj9gyp71ge4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Thomas Tuchel says he is \"worried\" about England's right-back crisis after Jarell Quansah became the latest in the position to suffer injury.",
-        "source": "BBC News",
-        "objectivity_score": 90,
+        "objectivity_score": 75,
         "sentiment": "Positive",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "'s right-back situation",
-            "thomas tuchel",
-            "'s right-back crisis"
+            "george russell",
+            "andrew benson"
         ]
     },
     {
-        "title": "Williams sisters return & Murray's new job - Wimbledon 2026 preview",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c0qypk51v7do?at_medium=RSS&at_campaign=rss",
-        "summary": "Serena Williams, Jannik Sinner and Novak Djokovic feature in our essential guide to Wimbledon 2026.",
+        "title": "England set for series defeat in Stokes' last Test",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/cn596wkdnvqo?at_medium=RSS&at_campaign=rss",
+        "summary": "England face a mountainous task to send Ben Stokes into retirement with victory over New Zealand after captain drops astonishing announcement day four of deciding Test at Trent Bridge.",
         "source": "BBC News",
-        "objectivity_score": 37,
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "series defeat",
+            "test england",
+            "mountainous task"
+        ]
+    },
+    {
+        "title": "Ireland clinch shock 2-0 T20 series win over India",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/cq81420w8llo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ireland's historic weekend continues as they inflict a first Twenty20 series defeat on India since 2023 with a dramatic one-run victory at Stormont.",
+        "source": "BBC News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "clinch shock",
+            "india ireland",
+            "historic weekend"
+        ]
+    },
+    {
+        "title": "Who do Scotland fans want as the next head coach?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cn4rdnv0p3wo?at_medium=RSS&at_campaign=rss",
+        "summary": "The speculation has started, but who do Scotland fans want to replace Steve Clarke?",
+        "source": "BBC News",
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "sisters return",
-            "new job",
-            "serena williams"
+            "head coach",
+            "steve clarke"
+        ]
+    },
+    {
+        "title": "England heading for series defeat against NZ after chaotic day",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/c74yvx3xvlvo?at_medium=RSS&at_campaign=rss",
+        "summary": "England's cricketers are heading for a series defeat after a chaotic fourth day at Trent Bridge in the third Test against New Zealand, where the home side closed on 103-4, needing 270 runs to win and ...",
+        "source": "BBC News",
+        "objectivity_score": 14,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "series defeat",
+            "chaotic day",
+            "'s cricketers"
         ]
     },
     {
@@ -1318,7 +1420,7 @@
         ]
     },
     {
-        "title": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
+        "title": "Venezuela Live Updates: Window to Find Survivors Is Closing as Rescuers Battle Through Aftershocks",
         "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
         "summary": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished.",
         "source": "NYT > World News",
@@ -1330,6 +1432,49 @@
             "venezuela live updates",
             "twin earthquakes",
             "rescue effort"
+        ]
+    },
+    {
+        "title": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+        "link": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
+        "summary": "Five instructors, five students and a pilot died when the plane crashed on Sunday morning in a field near the northeastern city of Nancy.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "skydiving plane crashes",
+            "northeastern city"
+        ]
+    },
+    {
+        "title": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
+        "link": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
+        "summary": "The incident occurred near the Ras Tanura facility in the east of the country, a key export hub for oil transported through the Strait of Hormuz.",
+        "source": "NYT > World News",
+        "objectivity_score": 57,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "helicopter crash near",
+            "refinery kills",
+            "ras tanura"
+        ]
+    },
+    {
+        "title": "Here\u2019s What to Know About the Standoff in the Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
+        "summary": "The United States and Iran have engaged in rounds of attacks and counterattacks in recent days, eroding hopes for a quick return to normalcy in the Middle East.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "recent days",
+            "quick return"
         ]
     },
     {
@@ -1348,7 +1493,7 @@
         ]
     },
     {
-        "title": "Venezuela Government Accused of Politicizing Quake Relief",
+        "title": "Delcy Rodriguez, Venezuela\u2019s President, Is Accused of Politicizing Earthquake Relief",
         "link": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
         "summary": "Critics say the countrys interim president, Delcy Rodrguez, is trying to exploit the tragedy for her political benefit. Her supporters accuse the opposition of doing the same.",
         "source": "NYT > World News",
@@ -1357,9 +1502,9 @@
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "politicizing quake relief critics",
-            "countrys interim president",
-            "delcy rodrguez"
+            "delcy rodriguez",
+            "\u2019 s president",
+            "politicizing earthquake relief critics"
         ]
     },
     {
@@ -1393,7 +1538,7 @@
         ]
     },
     {
-        "title": "Heat Starts to Break in Western Europe, as Central Europe Begins to Broil",
+        "title": "Heat Wave Starts to Break in Western Europe, as Central Europe Begins to Broil",
         "link": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html",
         "summary": "After days of record temperatures in Western Europe, the extreme heat is easing there. Now, Central Europe is facing days of dangerous swelter.",
         "source": "NYT > World News",
@@ -1402,9 +1547,9 @@
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
+            "heat wave",
             "europe begins",
-            "record temperatures",
-            "extreme heat"
+            "record temperatures"
         ]
     },
     {
@@ -1452,48 +1597,47 @@
         ]
     },
     {
-        "title": "Mexican Officials Have Become Informants for the Trump Administration",
-        "link": "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html",
-        "summary": "President Claudia Sheinbaum of Mexico has pushed back against U.S. investigations into Mexican politicians. Now some politicians want to cooperate.",
+        "title": "Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait",
+        "link": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
+        "summary": "Iran sees its control over the Strait of Hormuz as critical leverage in peace talks with the United States. It seems willing to risk the cease-fire to maintain that power.",
         "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "mexican officials",
-            "have become informants",
-            "administration president"
-        ]
-    },
-    {
-        "title": "Once He Wanted to Lead FIFA. This Is Much Better.",
-        "link": "https://www.nytimes.com/2026/06/27/world/middleeast/jordan-prince-ali-al-hussein-world-cup.html",
-        "summary": "Jordans arrival at the World Cup is the culmination of decades of patient effort by one man, but also a moment of solidarity for his nation and its diaspora.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
+        "objectivity_score": 77,
         "sentiment": "Positive",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "lead fifa",
-            "world cup",
-            "patient effort"
+            "iran risks",
+            "maintain leverage",
+            "strait iran"
         ]
     },
     {
-        "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
-        "link": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
-        "summary": "Criticism of Israels war in Gaza, anger over the Iran war and election results in New York all suggest Israels solid support from Washington may be on borrowed time.",
+        "title": "Deep Under the Rubble, Rescuers Find an 11-Year-Old Boy Alive",
+        "link": "https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html",
+        "summary": "A Colombian rescue team worked for six hours to recover the child, Moises, from under nearly 10 feet of rubble in La Guaira. His rescue was captured on video.",
         "source": "NYT > World News",
-        "objectivity_score": 34,
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "york elections",
-            "israelis fear",
-            "u.s.-israeli relationship criticism"
+            "rescuers find",
+            "rescue team"
+        ]
+    },
+    {
+        "title": "Dozens of Dogs Join Search for Venezuela Earthquake Survivors",
+        "link": "https://www.nytimes.com/2026/06/28/world/americas/rescue-dogs-canine-units-earthquake-venezuela.html",
+        "summary": "Specially trained dogs can pick up the scent of survivors beneath mounds of collapsed debris, indicating where clearance teams should begin digging.",
+        "source": "NYT > World News",
+        "objectivity_score": 57,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "dogs join search",
+            "venezuela earthquake",
+            "clearance teams"
         ]
     },
     {
@@ -1593,49 +1737,6 @@
             "medical team",
             "hardest-hit part",
             "disaster zone"
-        ]
-    },
-    {
-        "title": "Foreign rescuers in Venezuela battle debris, scarcity of supplies and time.",
-        "link": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake/foreign-rescuers-in-venezuela-battle-debris-scarcity-of-supplies-and-time",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 12,
-        "sentiment": "Negative",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "foreign rescuers",
-            "battle debris"
-        ]
-    },
-    {
-        "title": "A Close Call With an Alberta Grizzly Bear, Recorded in Its Entirety",
-        "link": "https://www.nytimes.com/2026/06/27/world/canada/grizzly-bear-alberta-canada-video.html",
-        "summary": "A woman in Alberta, Canada, recorded the bear as it circled her and her dog near a campsite and lodge.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "close call",
-            "alberta grizzly bear"
-        ]
-    },
-    {
-        "title": "In the Ruins of Venezuela\u2019s Earthquake, Civilians Volunteers Fill the Gaps",
-        "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuela-civilians-volunteers-earthquakes.html",
-        "summary": "Volunteers have rushed to help earthquake victims, loading vehicles with medical supplies, shovels and other tools to assist rescue and recovery efforts.",
-        "source": "NYT > World News",
-        "objectivity_score": 19,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "civilians volunteers fill",
-            "gaps volunteers",
-            "earthquake victims"
         ]
     },
     {
@@ -1864,6 +1965,36 @@
         ]
     },
     {
+        "title": "Pauline Hanson\u2019s One Nation withdrew more than $800,000 of election spending claims after AEC inquiries",
+        "link": "https://www.theguardian.com/australia-news/2026/jun/29/one-nation-pauline-hanson-election-funding-withdrawals-aec-ntwnfb",
+        "summary": "The Australian Electoral Commission is examining if party breached laws in its $6m public funding claim after the last election, documents showGet our breaking news email, free app or daily news podca...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 23,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "pauline hanson",
+            "election spending claims",
+            "electoral commission"
+        ]
+    },
+    {
+        "title": "Parliament has been getting frosty as winter closes in \u2013 but Labor may make one more gamble before the break",
+        "link": "https://www.theguardian.com/australia-news/2026/jun/29/parliament-has-been-getting-frosty-as-winter-closes-in-but-labor-may-make-one-more-gamble-before-the-break",
+        "summary": "As Labor pushes on with reforms, the Coalition must decide whether to join in the parliamentary deal-makingGet our breaking news email, free app or daily news podcastIts the last week of parliament be...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 53,
+        "sentiment": "Negative",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "winter closes",
+            "labor pushes",
+            "parliamentary deal-makingget"
+        ]
+    },
+    {
         "title": "\u2018Tech firms are losing the public\u2019: social media age bans near tipping point",
         "link": "https://www.theguardian.com/world/2026/jun/28/tech-firms-are-losing-the-public-social-media-age-bans-near-tipping-point",
         "summary": "UK is latest country to set minimum age for social media access but big tech is fighting back globally against curbsSocial media bans go global: big tech faces a reckoning after Australias crackdownAr...",
@@ -1909,39 +2040,24 @@
         ]
     },
     {
-        "title": "Auction clearance rates continue to hover under 50% \u2013 as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb",
-        "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastBig tech not cooperating as much as wed like them to: WattFederal cabinet minister Murray Watt, says the government kn...",
+        "title": "Germany, Czechia, Poland and Hungary swelter through hottest days on record",
+        "link": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
+        "summary": "Heat records of over 40C set as extreme weather spreads east, with more than 191m in Europe enduring 35C or aboveAfter decades of  warnings, why is Europe so unprepared?Germany, Czechia, Poland and Hu...",
         "source": "World news | The Guardian",
-        "objectivity_score": 31,
+        "objectivity_score": 56,
         "sentiment": "Neutral",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "clearance rates",
-            "news email",
-            "free app"
+            "extreme weather",
+            "aboveafter decades",
+            "record temperatures"
         ]
     },
     {
-        "title": "NSW beaches to get dawn-to-dusk drone patrols in $34m anti-shark program",
-        "link": "https://www.theguardian.com/australia-news/2026/jun/28/nsw-beaches-to-get-dawn-to-dusk-drone-patrols-in-34m-anti-shark-program",
-        "summary": "Premier Chris Minns says he wants to restore confidence to beachgoers after series of shark sightings and attacksFollow our Australia news live blog for latest updatesGet our breaking news email, free...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Positive",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "dawn-to-dusk drone patrols",
-            "$ 34m anti-shark program premier",
-            "chris minns"
-        ]
-    },
-    {
-        "title": "French skydiving plane crashes near Nancy, reportedly killing all 11 onboard",
+        "title": "French skydiving plane crashes near Nancy, killing all 11 onboard",
         "link": "https://www.theguardian.com/world/2026/jun/28/french-skydiving-plane-crashes-near-nancy-killing-all-11-on-board-says-prefect",
-        "summary": "Five pairs of students and instructors dead along with pilot after plane fell suddenly near aerodrome, says prefectA skydiving plane has crashed in north-eastern France, killing all 11 people onboard,...",
+        "summary": "Five students and five instructors dead along with pilot after plane fell suddenly near aerodrome, says prefectA skydiving plane has crashed in north-eastern France, killing all 11 people onboard, acc...",
         "source": "World news | The Guardian",
         "objectivity_score": 32,
         "sentiment": "Neutral",
@@ -1951,21 +2067,6 @@
             "plane crashes",
             "people onboard",
             "regions prefect.the parachuting-school plane"
-        ]
-    },
-    {
-        "title": "Temperature records tumble across Europe as heatwave moves east",
-        "link": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
-        "summary": "More than 191m people in Europe face temperatures over 35C, with extreme heat warnings from Germany to HungaryA sad inevitability: after decades of climate warnings, why is Europe so unprepared for ri...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 65,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "records tumble",
-            "191m people",
-            "extreme heat warnings"
         ]
     },
     {
@@ -2014,11 +2115,26 @@
         ]
     },
     {
-        "title": "Donald Trump threatens to annihilate Iran after crossfire over Hormuz \u2013 Middle East crisis live",
-        "link": "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates",
-        "summary": "Iran attacked Bahrain and Kuwait after US strikes, and threatened a complete halt to talksUS and Iran trade strikes as both sides accuse the other of endangering ceasefireWe have some more details on ...",
+        "title": "Fresh hostilities in Gulf suggest US-Iran memorandum was too broadly worded",
+        "link": "https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gulf-us-iran-memorandum-interpretations-lebanon-ceasefire-strait-of-hormuz",
+        "summary": "Document appears to have been subject to conflicting interpretations on key issues of Lebanon ceasefire and strait of HormuzMiddle East crisis live  latest updatesThe sudden eruption of fresh hostilit...",
         "source": "World news | The Guardian",
-        "objectivity_score": 46,
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "fresh hostilities",
+            "key issues",
+            "east crisis"
+        ]
+    },
+    {
+        "title": "Donald Trump threatens to annihilate Iran after crossfire over Hormuz \u2013 as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates",
+        "summary": "Iran attacked Bahrain and Kuwait after US strikes, and threatened a complete halt to talksUS and Iran trade strikes as both sides accuse the other of endangering ceasefireWe will soon be closing this ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
         "sentiment": "Positive",
         "date": "2026-06-28",
         "image_url": null,
@@ -2026,6 +2142,21 @@
             "donald trump",
             "us strikes",
             "trade strikes"
+        ]
+    },
+    {
+        "title": "Escalating US-Iran strikes threaten interim peace agreement",
+        "link": "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
+        "summary": "Tehran attacks Bahrain and Kuwait amid efforts to open strait of Hormuz without Irans direct oversightFresh hostilities in Gulf suggest US-Iran memorandum was too broadly wordedA new round of escalati...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "escalating us-iran",
+            "interim peace agreement",
+            "direct oversightfresh hostilities"
         ]
     },
     {
@@ -2056,36 +2187,6 @@
             "tit-for-tat drone attack",
             "\u2018 flagrant threat \u2019",
             "immediate reports"
-        ]
-    },
-    {
-        "title": "JD Vance claims US holds all the cards in Iran and will win \u2018either way\u2019",
-        "link": "https://www.theguardian.com/us-news/2026/jun/27/jd-vance-bill-maher-iran-war",
-        "summary": "Vice-president appeared on Bill Mahers show hours before more military strikes were exchanged in strait of HormuzJD Vance said on Friday that the US wins either way regarding negotiations with Iran, p...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Positive",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "jd vance",
-            "claims us",
-            "bill mahers"
-        ]
-    },
-    {
-        "title": "Lebanon-Israel deal may stop war crime victims seeking justice, experts say",
-        "link": "https://www.theguardian.com/world/2026/jun/27/lebanon-israel-deal-alleged-war-crime-victims-justice-icc",
-        "summary": "Agreement could also end hopes of ICC jurisdiction in Lebanon, which advocates pushed for to prosecute IsraelA new agreement between Lebanon and Israel could block victims of Israeli war crimes in Leb...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "war crime victims",
-            "icc jurisdiction",
-            "new agreement"
         ]
     },
     {
@@ -2164,153 +2265,153 @@
         ]
     },
     {
-        "title": "Ministers urged to curb energy costs as Great British homes face 13% bill surge",
-        "link": "https://www.theguardian.com/business/2026/jun/28/ministers-urged-to-curb-energy-costs-as-great-british-homes-face-bill-surge",
-        "summary": "Quarterly Ofgem price cap rises to equivalent of 1,862 a year from 1 July amid growing consumer energy debtMinisters are facing growing pressure to lower energy costs as households in Great Britain fa...",
+        "title": "Risk of serious birth injuries is rising for women in England, data suggests",
+        "link": "https://www.theguardian.com/society/2026/jun/28/risk-serious-childbirth-injuries-women-england-nhs",
+        "summary": "About 31 in every 1,000 facing haemorrhage or severe tears, NHS figures show, in trend described as national crisisHow a Romford maternity ward was able to turn the tide after a requires improvement r...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
+        "objectivity_score": 67,
         "sentiment": "Positive",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "curb energy costs",
-            "great british homes",
-            "% bill surge"
+            "serious birth injuries",
+            "data suggests",
+            "severe tears"
         ]
     },
     {
-        "title": "Complaints filed to police watchdog over Met\u2019s handling of Al Fayed abuse allegations",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/28/complaints-iopc-met-police-mohamed-al-fayed-harrods",
-        "summary": "IOPC confirms complaints from three survivors of alleged sexual misconduct by late Harrods owner in addition to ongoing investigationSurvivors of abuse at the hands of the late Harrods owner Mohamed A...",
+        "title": "British man arrested in Ecuador after woman\u2019s body found in suitcase in Colombia",
+        "link": "https://www.theguardian.com/world/2026/jun/28/british-man-arrested-ecuador-matthew-foster-smith",
+        "summary": "Matthew Ashley Foster-Smith, from Dorset, is accused of killing Natalia Villalba in an apartment in BogotA British man has been arrested in Ecuador after the body of a woman was found inside a suitcas...",
         "source": "World news | The Guardian",
-        "objectivity_score": 46,
+        "objectivity_score": 2,
         "sentiment": "Neutral",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "police watchdog",
-            "al fayed",
-            "abuse allegations"
+            "british man",
+            "woman \u2019 s body",
+            "colombia matthew ashley foster-smith"
         ]
     },
     {
-        "title": "Lucy Powell appears to endorse Ed Miliband as Andy Burnham\u2019s chancellor",
-        "link": "https://www.theguardian.com/politics/2026/jun/28/labour-lucy-powell-ed-miliband-chancellor",
-        "summary": "Labour deputy leader says she thinks energy secretary would be good in Treasury but tittle-tattle over cabinet posts is unedifyingEd Miliband would make a good chancellor to Andy Burnham, Labours depu...",
+        "title": "Sky makes \u00a32bn spending pledge as it prepares takeover of ITV broadcasting arm",
+        "link": "https://www.theguardian.com/business/2026/jun/28/sky-makes-spending-pledge-as-it-prepares-takeover-of-itv-broadcasting-arm",
+        "summary": "Deal could be announced in July and vow will safeguard future of shows such as Coronation Street and Love IslandSky has committed to spending 2bn on ITVs studios business over the next five years as i...",
         "source": "World news | The Guardian",
         "objectivity_score": 40,
         "sentiment": "Positive",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "lucy powell",
-            "ed miliband",
-            "andy burnham"
+            "\u00a32bn spending pledge",
+            "love islandsky",
+            "studios business"
         ]
     },
     {
-        "title": "The curious case of the cremation ashes left at Newbury racecourse burger van",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/28/the-curious-case-of-the-cremation-urn-left-at-newbury-racecourse",
-        "summary": "Urn with loving messages to Gary Bonsor to be buried in local churchyard as efforts to find family draw a blankIt is a puzzling story with a still unsolved mystery at its heart: just who is the indivi...",
+        "title": "\u2018Financial pandemic\u2019: \u00a31 in every \u00a311 spent on UK public contractors goes to private equity",
+        "link": "https://www.theguardian.com/society/2026/jun/28/1-in-every-11-spent-uk-public-contractors-private-equity",
+        "summary": "Almost 24.4bn of government money went to private equity-run firms in year to April 2025, Guardian analysis showsTreating children like cattle: what happens when private equity takes over a UK care ho...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "curious case",
-            "cremation ashes",
-            "racecourse burger van"
-        ]
-    },
-    {
-        "title": "Ocado boss Tim Steiner\u2019s near \u00a3100m in pay raises \u2018serious concerns\u2019",
-        "link": "https://www.theguardian.com/business/2026/jun/28/ocado-boss-tim-steiner-payouts",
-        "summary": "Reports claim replacement being lined up for co-founder amid concern over high pay and companys struggling share priceThe boss of Ocado has collected nearly 100m since the online grocery company float...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 33,
         "sentiment": "Neutral",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "tim steiner",
-            "pay raises \u2018",
-            "\u2019 reports"
+            "pandemic \u2019",
+            "public contractors",
+            "private equity"
         ]
     },
     {
-        "title": "Good-faith lawsuit? LDS church in fight with podcaster over Mormon name",
-        "link": "https://www.theguardian.com/us-news/2026/jun/28/lds-church-mormon-lawsuit",
-        "summary": "Church sues excommunicated member over Mormon Stories podcast but John Dehlin says name free for all to useTrademark changes and copyright infringement disputes take many forms. Dunkin Donuts changed ...",
+        "title": "Body of boy, 15, recovered from Manchester reservoir amid UK heatwave",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/28/body-boy-manchester-reservoir-uk-heatwave",
+        "summary": "At least seven people have died in water-related incidents during record-breaking June temperaturesThe body of a 15-year-old boy has been recovered from a reservoir near Manchester, as police renewed ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "name church sues",
-            "mormon stories",
-            "john dehlin"
-        ]
-    },
-    {
-        "title": "When it comes to taxing the super rich, there\u2019s no need to reinvent the wheel",
-        "link": "https://www.theguardian.com/us-news/2026/jun/28/wealth-tax-super-rich",
-        "summary": "Any new tax on the rich wont raise much money unless many of the exceptions and loopholes are dealt withIn this new era of rampaging oligarchs, nothing may seem as satisfying as slapping a tax on Elon...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 56,
-        "sentiment": "Positive",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "new tax",
-            "rich wont",
-            "new era"
-        ]
-    },
-    {
-        "title": "Anti-ICE organizers shift focus to defend democracy from Trump assault",
-        "link": "https://www.theguardian.com/us-news/2026/jun/28/ice-minnesota-defending-democracy",
-        "summary": "Citizens in Minnesota using lessons learned from migrant crackdown to protect elections from presidents threatsWhen thousands of immigration agents flooded Minnesota earlier this year, a loose network...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 42,
+        "objectivity_score": 29,
         "sentiment": "Neutral",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "migrant crackdown",
-            "presidents threatswhen thousands",
-            "immigration agents"
+            "temperaturesthe body",
+            "15-year-old boy",
+            "open water"
         ]
     },
     {
-        "title": "US and Iran trade strikes as both sides accuse the other of endangering ceasefire",
-        "link": "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes",
-        "summary": "Flare-up in tensions comes as Washington and Tehran have been negotiating a memorandum of understanding to end an unpopular warThe US military has launched further strikes on multiple targets in Iran,...",
+        "title": "US homeland security secretary tells migrants to seek permanent status or leave",
+        "link": "https://www.theguardian.com/us-news/2026/jun/28/markwayne-mullin-migrants-permanent-residence-tps-ruling",
+        "summary": "Markwayne Mullins remarks come after controversial supreme court ruling to strip TPS from over 350,000 peopleMigrants in the US on temporary protected status should seek permanent residence or leave, ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 21,
-        "sentiment": "Neutral",
-        "date": "2026-06-28",
-        "image_url": null,
-        "keywords": [
-            "trade strikes",
-            "unpopular warthe us",
-            "multiple targets"
-        ]
-    },
-    {
-        "title": "Four people have died from flash floods in Kentucky, governor says",
-        "link": "https://www.theguardian.com/us-news/2026/jun/27/kentucky-flood-deaths-storms",
-        "summary": "Floods caused by thunderstorms that have dumped inches of rain on Kentucky and Indiana, with more possibleAndy Beshear, the Kentucky governor, says four people have died as a result of flash floods fr...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 55,
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-06-28",
         "image_url": null,
         "keywords": [
-            "flash floods",
-            "flash floods",
-            "social media post"
+            "us homeland security secretary",
+            "permanent status",
+            "markwayne mullins"
+        ]
+    },
+    {
+        "title": "Zohran Mamdani says he and allies he endorsed carry a \u2018national message\u2019",
+        "link": "https://www.theguardian.com/us-news/2026/jun/28/zohran-mamdani-new-democratic-politics",
+        "summary": "Mayor says progressive peers who swept primaries speak to Americans coast to coast as moderates have reservationsZohran Mamdani, the New York City mayor, said on Sunday that he and a slew of democrati...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 51,
+        "sentiment": "Positive",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "zohran mamdani",
+            "national message \u2019 mayor",
+            "progressive peers"
+        ]
+    },
+    {
+        "title": "Three firefighters killed and two injured while battling Utah-Colorado wildfires",
+        "link": "https://www.theguardian.com/us-news/2026/jun/28/firefighter-deaths-utah-colorado-wildfires",
+        "summary": "Firefighters were involved in joint response to Knowles and Gore blazes as wildfires ravage western US, fire agency saysThree firefighters were killed and two others were hurt while responding to wild...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 1,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "joint response",
+            "wildfires ravage",
+            "western us"
+        ]
+    },
+    {
+        "title": "Bill Cassidy accuses Trump of treating Congress as \u2018merely an appendage\u2019",
+        "link": "https://www.theguardian.com/us-news/2026/jun/28/trump-bill-cassidy-congress-iran-war",
+        "summary": "Out-going Louisiana senators rebuke over Iran war is rare instance of a Republican politician standing up to TrumpBill Cassidy, the Republican senator from Louisiana who is being ousted from his posit...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "bill cassidy",
+            "appendage \u2019",
+            "out-going louisiana"
+        ]
+    },
+    {
+        "title": "Biden calls Trump \u2018a loser\u2019, portraying him as incompetent, corrupt and vain",
+        "link": "https://www.theguardian.com/us-news/2026/jun/28/biden-speech-trump",
+        "summary": "Pugnacious speech invokes Trumps vanity projects to makeover Washington and the brazen, blatant corruptionJoe Biden called Donald Trump a loser in a pugnacious speech on Saturday that invoked his pres...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 64,
+        "sentiment": "Negative",
+        "date": "2026-06-28",
+        "image_url": null,
+        "keywords": [
+            "loser \u2019",
+            "speech invokes",
+            "vanity projects"
         ]
     }
 ]
