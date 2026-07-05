@@ -737,39 +737,9 @@
         ]
     },
     {
-        "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-        "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-        "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "us marks 250th birthday",
-            "extreme weather us president",
-            "donald trump"
-        ]
-    },
-    {
-        "title": "Tuchel praises respectful Mexico fans amid increased security",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Thomas Tuchel dismisses concerns over England's treatment in Mexico, saying it has been \"nicer than I expected\" and that home fans are \"friendly and respectful\".",
-        "source": "BBC News",
-        "objectivity_score": 57,
-        "sentiment": "Positive",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "praises respectful",
-            "thomas tuchel",
-            "'s treatment"
-        ]
-    },
-    {
-        "title": "Farage denies rules broken after reports benefits from ally were not declared",
+        "title": "Reform denies rules broken by Farage after benefits from ally not declared",
         "link": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Sunday Times says the Reform UK leader failed to register the support supplied by a man who had been convicted of fraud in the US.",
+        "summary": "The Sunday Times says the Reform UK leader failed to register the support supplied by a cryptocurrency entrepreneur who had been convicted of fraud.",
         "source": "BBC News",
         "objectivity_score": 35,
         "sentiment": "Negative",
@@ -777,23 +747,38 @@
         "image_url": null,
         "keywords": [
             "denies rules",
-            "reports benefits",
-            "reform uk"
+            "reform uk",
+            "cryptocurrency entrepreneur"
         ]
     },
     {
-        "title": "Watch: Lyse Doucet in Tehran as huge funeral for Iran's former supreme leader takes place",
-        "link": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Authorities expect up to 20 million people to attend ceremonies across Iran and Iraq over the coming days.",
+        "title": "England fighting history as well as Mexican nation in Azteca cauldron",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
+        "summary": "England will be battling against history as well as entire nation when the face Mexico in the World Cup last 16 at The Azteca, says chief football writer Phil McNulty.",
         "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
-            "lyse doucet",
-            "huge funeral",
-            "supreme leader"
+            "mexican nation",
+            "entire nation",
+            "world cup"
+        ]
+    },
+    {
+        "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+        "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ali Khamenei's son Mojtaba is conspicuously absent from his father's funeral on Sunday, amid speculation about his condition.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "supreme leader",
+            "senior officials",
+            "ayatollah 's funeral"
         ]
     },
     {
@@ -822,6 +807,154 @@
         "image_url": null,
         "keywords": [
             "wo n't"
+        ]
+    },
+    {
+        "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+        "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+        "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "us marks 250th birthday",
+            "extreme weather us president",
+            "donald trump"
+        ]
+    },
+    {
+        "title": "Staying up for the match? How to handle a 1am kick-off",
+        "link": "https://www.bbc.co.uk/news/articles/c3wyel830w8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Forget blocks and tackles, this is the tactical plan you need for the football.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "1am kick-off",
+            "tactical plan"
+        ]
+    },
+    {
+        "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
+        "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
+        "source": "BBC News",
+        "objectivity_score": 43,
+        "sentiment": "Negative",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "'start work",
+            "'s 1am",
+            "common sense"
+        ]
+    },
+    {
+        "title": "England enter the Azteca - where football kings are crowned",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "football kings",
+            "bbc sport",
+            "cultural power"
+        ]
+    },
+    {
+        "title": "Mexico return luxury watches gifted by YouTuber",
+        "link": "https://www.bbc.co.uk/sport/football/articles/clyrpy3kn9po?at_medium=RSS&at_campaign=rss",
+        "summary": "World Cup co-hosts Mexico - who play England on Sunday night - return luxury watches gifted to them by a content creator because Fifa rules prohibit expensive gifts.",
+        "source": "BBC News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "return luxury watches",
+            "world cup co-hosts",
+            "return luxury watches"
+        ]
+    },
+    {
+        "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
+        "summary": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "'s 'disgraceful",
+            "dark arts",
+            "world cup"
+        ]
+    },
+    {
+        "title": "Stay humble - the Premier League feud about to hit world stage",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Premier League feud between Manchester City's Erling Haaland and Arsenal defender Gabriel goes global as Norway meet Brazil at the World Cup.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "premier league feud",
+            "world stage",
+            "premier league feud"
+        ]
+    },
+    {
+        "title": "Alan Shearer: Why England won't fear Mexico or the Azteca",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
+        "summary": "Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "alan shearer",
+            "wo n't",
+            "alan shearer"
+        ]
+    },
+    {
+        "title": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
+        "summary": "As  Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "world cup contenders",
+            "world cup campaign"
+        ]
+    },
+    {
+        "title": "James doubtful for Mexico tie but Quansah fit again",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Reece James misses training on the eve of England's World Cup last-16 tie against Mexico but Jarell Quansah is available again.",
+        "source": "BBC News",
+        "objectivity_score": 56,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "reece james",
+            "'s world cup last-16 tie",
+            "jarell quansah"
         ]
     },
     {
@@ -895,91 +1028,33 @@
         ]
     },
     {
-        "title": "England enter the Azteca - where football kings are crowned",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup.",
+        "title": "Harry Styles beats Taylor Swift's and Coldplay's Wembley records",
+        "link": "https://www.bbc.co.uk/news/articles/cly004391wno?at_medium=RSS&at_campaign=rss",
+        "summary": "The Watermelon Sugar singer is the first artist to perform 12 shows on a single tour at the stadium.",
         "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "football kings",
-            "sport explores",
-            "cultural power"
-        ]
-    },
-    {
-        "title": "Staying up for the match? How to handle a 1am kick-off",
-        "link": "https://www.bbc.co.uk/news/articles/c3wyel830w8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Forget blocks and tackles, this is the tactical plan you need for the football.",
-        "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 27,
         "sentiment": "Neutral",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
-            "1am kick-off",
-            "tactical plan"
+            "harry styles",
+            "taylor swift",
+            "watermelon sugar"
         ]
     },
     {
-        "title": "Alan Shearer: Why England won't fear Mexico or the Azteca",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
-        "summary": "Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium.",
+        "title": "Polanski says he will pay any council tax owed linked to houseboat",
+        "link": "https://www.bbc.co.uk/news/articles/cr477xz2ezyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Green Party leader told the BBC he is waiting for a decision from Waltham Forest Council.",
         "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 30,
         "sentiment": "Negative",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
-            "alan shearer",
-            "wo n't",
-            "alan shearer"
-        ]
-    },
-    {
-        "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
-        "summary": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "'s 'disgraceful",
-            "dark arts",
-            "world cup"
-        ]
-    },
-    {
-        "title": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
-        "summary": "As  Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "world cup contenders",
-            "world cup campaign"
-        ]
-    },
-    {
-        "title": "James doubtful for Mexico tie but Quansah fit again",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Reece James misses training on the eve of England's World Cup last-16 tie against Mexico but Jarell Quansah is available again.",
-        "source": "BBC News",
-        "objectivity_score": 56,
-        "sentiment": "Neutral",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "reece james",
-            "'s world cup last-16 tie",
-            "jarell quansah"
+            "council tax",
+            "green party leader",
+            "forest council"
         ]
     },
     {
@@ -996,90 +1071,61 @@
         ]
     },
     {
-        "title": "Police leadership needs 'ethical reset', Lord Blunkett tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cy0429yx1k9o?at_medium=RSS&at_campaign=rss",
-        "summary": "The former home secretary has co-authored a major report that has found the running of forces in England and Wales needs a \"fundamental overhaul\".",
+        "title": "Police inquiry into Yes Scotland campaign's 'missing \u00a31.5m' claim",
+        "link": "https://www.bbc.co.uk/news/articles/ce955jp3jz9o?at_medium=RSS&at_campaign=rss",
+        "summary": "It is claimed funds raised for the group which campaigned for independence in the 2014 referendum are \"unaccounted for\".",
         "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
+        "objectivity_score": 5,
+        "sentiment": "Negative",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
-            "police leadership needs 'ethical reset",
-            "home secretary",
-            "major report"
+            "police inquiry",
+            "campaign 's"
         ]
     },
     {
-        "title": "The Papers: 'Kicking up a storm' and 'Burnham plots homes tax raid'",
-        "link": "https://www.bbc.co.uk/news/articles/c36y224nyn6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Logistics surrounding the World Cup match between England and Mexico continue to lead a number of the papers.",
+        "title": "Evacuations in Guam as super typhoon Bavi approaches",
+        "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+        "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "super typhoon",
+            "11m high"
+        ]
+    },
+    {
+        "title": "Australia probes mystery space balls that washed up on beach",
+        "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+        "summary": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
-            "'burnham plots homes tax raid",
-            "world cup"
+            "probes mystery space balls",
+            "beach officials",
+            "space debris"
         ]
     },
     {
-        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-        "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+        "title": "Two found dead in crashed car in missing men search",
+        "link": "https://www.bbc.co.uk/news/articles/czxqq6ylg2yo?at_medium=RSS&at_campaign=rss",
+        "summary": "William Hutchinson was last seen on 24 June and Stuart Tallis was reported missing three days later.",
         "source": "BBC News",
-        "objectivity_score": 75,
-        "sentiment": "Neutral",
+        "objectivity_score": 11,
+        "sentiment": "Negative",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
-            "major oil terminal",
-            "st petersburg ukrainian",
-            "volodymyr zelensky"
-        ]
-    },
-    {
-        "title": "New heatwave likely to peak at 34C with week-long health alert issued",
-        "link": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
-        "source": "BBC News",
-        "objectivity_score": 59,
-        "sentiment": "Positive",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "new heatwave",
-            "week-long health",
-            "stav danaos"
-        ]
-    },
-    {
-        "title": "Supporting Pride London 'more important than ever'",
-        "link": "https://www.bbc.co.uk/news/articles/cvgqlplpyyqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Hundreds of charities, community groups and companies took part in Saturday's parade.",
-        "source": "BBC News",
-        "objectivity_score": 49,
-        "sentiment": "Positive",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "community groups"
-        ]
-    },
-    {
-        "title": "Dior dress and a man of honour: What we know about Taylor Swift and Travis Kelce's wedding",
-        "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
-        "summary": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "taylor swift",
-            "travis kelce",
-            "'s wedding"
+            "men search",
+            "william hutchinson",
+            "stuart tallis"
         ]
     },
     {
@@ -1196,18 +1242,33 @@
         ]
     },
     {
-        "title": "England enter the Azteca - where football kings are crowned",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup.",
+        "title": "England fighting history as well as Mexican nation in Azteca cauldron",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
+        "summary": "England will be battling against history as well as entire nation when the face Mexico in the World Cup last 16 at The Azteca, says chief football writer Phil McNulty.",
         "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
-            "football kings",
-            "sport explores",
-            "cultural power"
+            "mexican nation",
+            "entire nation",
+            "world cup"
+        ]
+    },
+    {
+        "title": "Stay humble - the Premier League feud about to hit world stage",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Premier League feud between Manchester City's Erling Haaland and Arsenal defender Gabriel goes global as Norway meet Brazil at the World Cup.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "premier league feud",
+            "world stage",
+            "premier league feud"
         ]
     },
     {
@@ -1226,108 +1287,78 @@
         ]
     },
     {
-        "title": "Why England won't fear Mexico or the Azteca - Shearer",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
-        "summary": "Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium.",
+        "title": "Williams is 'Ronaldinho-like' - but can she win Grand Slam matches?",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/ce8mpl3ry9lo?at_medium=RSS&at_campaign=rss",
+        "summary": "In her latest BBC Sport column from Wimbledon, Naomi Broady looks at if Serena Williams' comeback showed she can win future Grand Slam matches.",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "wo n't",
-            "alan shearer",
-            "thomas tuchel"
-        ]
-    },
-    {
-        "title": "Boks unleash big-game brutality on Borthwick's faltering England",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cz752234r45o?at_medium=RSS&at_campaign=rss",
-        "summary": "Defeat by South Africa can, and does, happen to any team in world rugby, but England need to stop their losing streak soon.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "unleash big-game brutality",
-            "england defeat",
-            "world rugby"
-        ]
-    },
-    {
-        "title": "Hodgkinson beaten into second by Odira in Eugene",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/clyrpp0v0nqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Olympic 800m champion Keely Hodgkinson was beaten for the second consecutive Diamond League race as she finished behind Lilian Odira in Eugene.",
-        "source": "BBC News",
-        "objectivity_score": 23,
-        "sentiment": "Negative",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "olympic 800m champion",
-            "keely hodgkinson",
-            "league race"
-        ]
-    },
-    {
-        "title": "Belief back as England brace for their biggest game since 2017",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/c8923q4gndjo?at_medium=RSS&at_campaign=rss",
-        "summary": "It's been a long road to get here, but fans of the England women's cricket team can finally believe heading into Sunday's T20 World Cup final, writes Matthew Henry.",
-        "source": "BBC News",
-        "objectivity_score": 55,
-        "sentiment": "Neutral",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "long road",
-            "women 's cricket team",
-            "world cup"
-        ]
-    },
-    {
-        "title": "France overcome resolute Paraguay to reach quarter-final",
-        "link": "https://www.bbc.co.uk/sport/football/videos/c4gy7d7z122o?at_medium=RSS&at_campaign=rss",
-        "summary": "World Cup favourites France book their quarter-final place thanks to Kylian Mbappe's second-half penalty against a stubborn Paraguay side in Philadelphia.",
-        "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 63,
         "sentiment": "Positive",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
-            "quarter-final world cup favourites",
-            "quarter-final place thanks",
-            "kylian mbappe"
+            "bbc sport",
+            "naomi broady",
+            "serena williams"
         ]
     },
     {
-        "title": "China Frees Pastor Detained in Crackdown on Religion After Trump\u2019s Urging",
-        "link": "https://www.nytimes.com/2026/07/05/world/asia/ezra-jin-mingri-china-christian-xi-trump.html",
-        "summary": "Ezra Jin Mingri was released nearly two months after President Trump raised his case with Chinas leader, Xi Jinping, during a visit to Beijing.",
+        "title": "Mourners Chant \u2018Revenge\u2019 at Funeral Prayers for Iran\u2019s Slain Supreme Leader",
+        "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
+        "summary": "On the second day of public mourning for Ayatollah Ali Khamenei, who was killed in February, there was still no sign of his son and successor, Mojtaba Khamenei.",
         "source": "NYT > World News",
-        "objectivity_score": 40,
+        "objectivity_score": 2,
         "sentiment": "Neutral",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
-            "china frees pastor detained",
-            "urging ezra jin mingri",
-            "xi jinping"
+            "mourners chant",
+            "supreme leader",
+            "ayatollah ali khamenei"
         ]
     },
     {
-        "title": "Momentary Unity at a Funeral Masks Deep Divisions Among Iran\u2019s Leaders",
-        "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html",
-        "summary": "Ayatollah Mojtaba Khameneis absence has raised questions inside Iranian political circles about who is really running the country and allowed open divisions to fester.",
+        "title": "Inside \u2018Chinese Dreamcore,\u2019 Where Gen Z Relives a Brighter Past",
+        "link": "https://www.nytimes.com/interactive/2026/07/05/world/asia/china-nostalgia-dream-core.html",
+        "summary": "Faced with a dire job market, falling wages and endless competition, many young Chinese are recreating scenes from the early 2000s on the internet, when the economy was growing rapidly.",
         "source": "NYT > World News",
-        "objectivity_score": 24,
+        "objectivity_score": 31,
         "sentiment": "Neutral",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
-            "momentary unity",
-            "masks deep divisions",
-            "ayatollah mojtaba khameneis"
+            "gen z relives",
+            "brighter past",
+            "dire job market"
+        ]
+    },
+    {
+        "title": "Years of Warnings About Public Housing Preceded Venezuela\u2019s Earthquakes",
+        "link": "https://www.nytimes.com/2026/07/05/world/americas/venezuela-earthquake-la-guaira-building-collapse-government.html",
+        "summary": "Residents, construction experts and seismologists said for years that Venezuelas public housing would be vulnerable in a natural disaster.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "public housing",
+            "preceded venezuela",
+            "earthquakes residents"
+        ]
+    },
+    {
+        "title": "Far From Kyiv and Moscow, Soldiers Stalk Ruins and Evade Drones on the Front",
+        "link": "https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html",
+        "summary": "Ukraines military has denied a Kremlin claim to have taken a city in the eastern Donetsk region, saying its troops are holding out against infiltrating Russians.",
+        "source": "NYT > World News",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "soldiers stalk ruins",
+            "evade drones",
+            "front ukraines"
         ]
     },
     {
@@ -1343,6 +1374,21 @@
             "defy vatican",
             "catholic faction",
             "priests followers"
+        ]
+    },
+    {
+        "title": "China Frees Pastor Detained in Crackdown on Religion After Trump\u2019s Urging",
+        "link": "https://www.nytimes.com/2026/07/05/world/asia/ezra-jin-mingri-china-christian-xi-trump.html",
+        "summary": "Ezra Jin Mingri was released nearly two months after President Trump raised his case with Chinas leader, Xi Jinping, during a visit to Beijing.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "china frees pastor detained",
+            "urging ezra jin mingri",
+            "xi jinping"
         ]
     },
     {
@@ -1373,6 +1419,21 @@
             "china raises pressure",
             "coast guard",
             "patrols beijing"
+        ]
+    },
+    {
+        "title": "Momentary Unity at a Funeral Masks Deep Divisions Among Iran\u2019s Leaders",
+        "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html",
+        "summary": "Ayatollah Mojtaba Khameneis absence has raised questions inside Iranian political circles about who is really running the country and allowed open divisions to fester.",
+        "source": "NYT > World News",
+        "objectivity_score": 24,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "momentary unity",
+            "masks deep divisions",
+            "ayatollah mojtaba khameneis"
         ]
     },
     {
@@ -1435,21 +1496,6 @@
         ]
     },
     {
-        "title": "Dear Americans, How Well Do You Know Canada?",
-        "link": "https://www.nytimes.com/interactive/2026/07/03/world/canada/america-canada-quiz-fourth-july.html",
-        "summary": "The Canada-U.S. relationship has had an interesting year and a half: a quiz to test how much Americans know about their northern neighbor.",
-        "source": "NYT > World News",
-        "objectivity_score": 28,
-        "sentiment": "Positive",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "know canada",
-            "interesting year",
-            "northern neighbor"
-        ]
-    },
-    {
         "title": "For Cape Verde, There\u2019s Victory in Their World Cup Defeat",
         "link": "https://www.nytimes.com/2026/07/04/world/africa/cape-verde-world-cup.html",
         "summary": "The tiny African nation was eliminated from the World Cup by one of soccers biggest powers, Argentina, but there was still plenty to celebrate.",
@@ -1464,47 +1510,18 @@
         ]
     },
     {
-        "title": "In Rwanda, July 4 Is Liberation Day From Genocide",
-        "link": "https://www.nytimes.com/2026/07/04/world/africa/rwanda-july-4-liberation-day.html",
-        "summary": "The Central African nation remembers the end of a murderous campaign against ethnic Tutsis that killed hundreds of thousands of people.",
+        "title": "What We Saw at Ayatollah Khamenei\u2019s Funeral",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000011011151/what-we-saw-at-ayatollah-khameneis-funeral.html",
+        "summary": "Our Middle East correspondent Abdi Latif Dahir attended the first day of funeral ceremonies for Ayatollah Ali Khamenei, the former supreme leader of Iran who was killed by U.S. and Israeli air strikes...",
         "source": "NYT > World News",
         "objectivity_score": 8,
         "sentiment": "Neutral",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
-            "nation remembers",
-            "murderous campaign"
-        ]
-    },
-    {
-        "title": "Trump\u2019s Travel Crackdown Has a Winner: Mexican Tourism",
-        "link": "https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html",
-        "summary": "While critics question just how much the World Cup will benefit tourism long term, Mexican officials believe it can help boost the country to fifth most visited in the world.",
-        "source": "NYT > World News",
-        "objectivity_score": 22,
-        "sentiment": "Positive",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "travel crackdown",
-            "world cup",
-            "long term"
-        ]
-    },
-    {
-        "title": "Australia Tried to Push Back on China. China Pushed Harder.",
-        "link": "https://www.nytimes.com/2026/07/04/world/asia/australia-china-politics.html",
-        "summary": "Relations between Beijing and Canberra have improved over the past four years, but Chinas ambassador is now warning of a Cold War mentality.",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
-        "sentiment": "Negative",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "australia tried",
-            "china pushed harder",
-            "war mentality"
+            "ayatollah khamenei",
+            "\u2019 s funeral",
+            "abdi latif dahir"
         ]
     },
     {
@@ -1520,21 +1537,6 @@
             "typhoon bavi typhoon bavi",
             "tropical cyclone",
             "pacific ocean"
-        ]
-    },
-    {
-        "title": "Inside \u2018Chinese Dreamcore,\u2019 Where Gen Z Relives a Brighter Past",
-        "link": "https://www.nytimes.com/interactive/2026/07/05/world/asia/china-nostalgia-dream-core.html",
-        "summary": "Faced with a dire job market, falling wages and endless competition, many young Chinese are recreating scenes from the early 2000s on the internet, when the economy was growing rapidly.",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "gen z relives",
-            "brighter past",
-            "dire job market"
         ]
     },
     {
@@ -2027,18 +2029,18 @@
         ]
     },
     {
-        "title": "Iran\u2019s supreme leader absent from funeral of father Ali Khamenei",
+        "title": "Calls for killing of Trump at funeral of Iran supreme leader Ali Khamenei",
         "link": "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent",
-        "summary": "Three sons of killed ayatollah were seen beside coffin during ceremonies drawing huge crowds in TehranThree sons of the former Iranian leader Ayatollah Ali Khamenei prayed beside his coffin and those ...",
+        "summary": "New supreme leader Mojtaba Khamenei still absent from public view as his three brothers stand beside fathers coffinBeside the coffin of the assassinated former Iranian supreme leader Ali Khamenei at a...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
             "supreme leader",
             "ali khamenei",
-            "ceremonies drawing"
+            "new supreme leader"
         ]
     },
     {
@@ -2177,6 +2179,51 @@
         ]
     },
     {
+        "title": "Empty reservoirs, ladybirds and sunstroke: remembering the UK heatwave of 1976",
+        "link": "https://www.theguardian.com/environment/2026/jul/05/readers-recall-heatwave-1976-uk-weather-climate",
+        "summary": "As Britain reached its hottest June temperature on record, readers recall the summer when temperatures hit 36CThe recent heatwave in the UK broke the previous June record of 35.6C, recorded during the...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 27,
+        "sentiment": "Negative",
+        "date": "2026-07-05",
+        "image_url": "https://i.guim.co.uk/img/media/6511e7402ab4119b967fc7a10f0c4589028ba722/45_0_421_337/master/421.jpg?width=140&quality=85&auto=format&fit=max&s=b848fb8d6c1e09d829528d64c2521d36",
+        "keywords": [
+            "readers recall",
+            "recent heatwave",
+            "provisional temperature"
+        ]
+    },
+    {
+        "title": "British swallowtail split from European cousins much earlier than thought, study finds",
+        "link": "https://www.theguardian.com/environment/2026/jul/05/british-swallowtail-butterfly-distinct-subspecies-study-conservation",
+        "summary": "Finding that Norfolk butterfly has been distinct subspecies for 200,000 years could transform conservation approachThe endangered swallowtail butterfly Papilio machaon britannicus, which is only regul...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "british swallowtail",
+            "european cousins",
+            "distinct subspecies"
+        ]
+    },
+    {
+        "title": "Nigel Farage did not declare gifts from crypto entrepreneur convicted of fraud",
+        "link": "https://www.theguardian.com/politics/2026/jul/05/nigel-farage-did-not-declare-gifts-from-crypto-entrepreneur-george-cottrell-says-reform-uk",
+        "summary": "Reform UKs Robert Jenrick says Farage accepted staff, security and accommodation from George Cottrell before becoming an MPNigel Farage did not declare gifts and benefits provided by a crypto entrepre...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 37,
+        "sentiment": "Positive",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "nigel farage",
+            "crypto entrepreneur",
+            "reform uks robert jenrick"
+        ]
+    },
+    {
         "title": "Baptism record at Manchester Cathedral offers insight into Black Mancunian life in Georgian-era England",
         "link": "https://www.theguardian.com/news/2026/jul/05/baptism-record-at-manchester-cathedral-offers-insight-into-black-mancunian-life-in-georgian-era-england",
         "summary": "A parish entry reveals an argument that proved pivotal to the abolitionist cause, at a time when an estimated 20,000 Black people were living in the countryWhen the abolitionist Thomas Clarkson gave a...",
@@ -2207,48 +2254,48 @@
         ]
     },
     {
-        "title": "Could Farage quit? Questions swirl over Reform UK leader\u2019s future",
-        "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/05/nigel-farage-reform-uk-speculation-future",
-        "summary": "Farage is under pressure over 5m gift, byelection losses and rise of rival Restore but allies say exit speculation is wishful thinkingOf course hes tired. Hes just done two months campaigning every da...",
+        "title": "Nancy Pelosi\u2019s husband could face charge after hitting parked car in California",
+        "link": "https://www.theguardian.com/us-news/2026/jul/05/paul-pelosi-car-crash-california",
+        "summary": "Paul Pelosi could face misdemeanor charges over crash that left car with major damage, authorities sayThe husband of former House speaker Nancy Pelosi was involved in a hit-and-run car crash in Califo...",
         "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Negative",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "reform uk",
-            "leader \u2019 s future",
-            "5m gift"
-        ]
-    },
-    {
-        "title": "Make Ed Miliband chancellor, ex-chief Treasury adviser tells Andy Burnham",
-        "link": "https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham",
-        "summary": "Nicholas Stern joins growing number backing Miliband, saying he has vision and experience to revive economyA former chief economic adviser to the Treasury has called on Andy Burnham to appoint Ed Mili...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "ed miliband",
-            "ex-chief treasury adviser",
-            "andy burnham nicholas stern"
-        ]
-    },
-    {
-        "title": "Cow corner: cricket match abandoned after runaway bull stops play",
-        "link": "https://www.theguardian.com/world/2026/jul/04/cricket-match-abandoned-after-charging-bull-stops-play",
-        "summary": "Match at Burnopfield near Newcastle called off after 800kg young bull escaped from farm and stormed playing fieldA cricket match had to be abandoned after a runaway bull stormed the playing field and ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 34,
+        "objectivity_score": 21,
         "sentiment": "Neutral",
         "date": "2026-07-05",
         "image_url": null,
         "keywords": [
-            "runaway bull stops",
-            "young bull",
-            "fielda cricket"
+            "nancy pelosi",
+            "\u2019 s husband",
+            "california paul pelosi"
+        ]
+    },
+    {
+        "title": "Man claiming world\u2019s smallest penis says he\u2019s booked enhancement surgery after public\u2019s help",
+        "link": "https://www.theguardian.com/us-news/2026/jul/05/micropenis-man-to-get-surgery",
+        "summary": "Michael Phillips says he suffers from micropenis  but hes now fundraised enough to increase his members girthA US man who has staked the uncontested claim of having the smallest penis in the world say...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "world \u2019 s",
+            "enhancement surgery",
+            "public \u2019 s"
+        ]
+    },
+    {
+        "title": "At least eight shot, including four children, in New York\u2019s Coney Island",
+        "link": "https://www.theguardian.com/us-news/2026/jul/05/shooting-children-new-york-coney-island",
+        "summary": "Incident took place late in the evening on Independence Day, reports say, with woman said to be in critical conditionAt least eight people, including four children, were shot and injured during the US...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-07-05",
+        "image_url": null,
+        "keywords": [
+            "critical conditionat",
+            "day holiday",
+            "york citys coney"
         ]
     },
     {
@@ -2279,51 +2326,6 @@
             "patriot front",
             "washington dc",
             "july hundreds"
-        ]
-    },
-    {
-        "title": "In a pickle: US pickle company pulls out of DC fair over Confederate flag",
-        "link": "https://www.theguardian.com/us-news/2026/jul/04/dc-state-fair-pickle-company-withdrawal",
-        "summary": "Mt Olive Pickle Company says it was unaware image of flag was included in exhibit, and cites value of human dignityA leading vendor of the US delicacy that is the pickle has withdrawn from the Great A...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "us pickle company pulls",
-            "mt olive pickle",
-            "unaware image"
-        ]
-    },
-    {
-        "title": "Three children dead after boat capsizes during storm in Wisconsin",
-        "link": "https://www.theguardian.com/us-news/2026/jul/04/wisconsin-children-drown",
-        "summary": "Officials rescued seven other people after a sudden storm led to a boat sinking on Geneva LakeThree children died after a boat capsized on Wisconsins Geneva Lake during inclement weather on the eve of...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Neutral",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "boat capsizes",
-            "sudden storm",
-            "geneva lakethree"
-        ]
-    },
-    {
-        "title": "Trump issues 11 pardons on eve of country\u2019s Fourth of July celebrations",
-        "link": "https://www.theguardian.com/us-news/2026/jul/04/trump-pardons-11-people-fourth-of-july",
-        "summary": "Pardons issued to nine people charged with violating Clean Air Act as extreme heat smothers much of USDonald Trump on Friday issued pardons to 11 men  two convicted fraudsters and nine charged with ha...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 51,
-        "sentiment": "Neutral",
-        "date": "2026-07-05",
-        "image_url": null,
-        "keywords": [
-            "country \u2019 s",
-            "air act",
-            "extreme heat smothers"
         ]
     }
 ]
