@@ -767,21 +767,6 @@
         ]
     },
     {
-        "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-        "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "us launches strikes",
-            "heavy costs",
-            "decisive measures"
-        ]
-    },
-    {
         "title": "Amber heat-health alerts in effect as UK set for one of longest-lasting heatwaves since 1976",
         "link": "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo?at_medium=RSS&at_campaign=rss",
         "summary": "Temperatures are set to rise as high as 36C (97F) for parts of southern England this week.",
@@ -795,7 +780,7 @@
         ]
     },
     {
-        "title": "'Extreme' marine heatwave expected for parts of UK",
+        "title": "Extreme marine heatwave expected for parts of UK with risk to sea life, Met Office warns",
         "link": "https://www.bbc.co.uk/news/articles/ckg888vpz4do?at_medium=RSS&at_campaign=rss",
         "summary": "Scientists fear that high sea temperatures could have wide-ranging consequences for marine life.",
         "source": "BBC News",
@@ -805,8 +790,65 @@
         "image_url": null,
         "keywords": [
             "marine heatwave",
-            "uk scientists",
-            "high sea temperatures"
+            "sea life",
+            "office warns"
+        ]
+    },
+    {
+        "title": "Virgin Media fined \u00a328m for preventing customers from cancelling contracts",
+        "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
+        "source": "BBC News",
+        "objectivity_score": 70,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "phone calls",
+            "three-year period"
+        ]
+    },
+    {
+        "title": "Nato allies announce \u00a337bn for new missile project",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "new missile project",
+            "sir keir starmer",
+            "dozen leaders"
+        ]
+    },
+    {
+        "title": "Tom Holland on his 'last chance to play a boy' in The Odyssey",
+        "link": "https://www.bbc.co.uk/news/articles/c0ky1gxgxjro?at_medium=RSS&at_campaign=rss",
+        "summary": "The Spider-Man star and other cast members talk about the hotly anticipated Christopher Nolan movie.",
+        "source": "BBC News",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "tom holland",
+            "'last chance",
+            "cast members"
+        ]
+    },
+    {
+        "title": "International manhunt after mother and two children found dead at home",
+        "link": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Bedfordshire Police says it believes the suspect officers are looking for has left the country.",
+        "source": "BBC News",
+        "objectivity_score": 13,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "international manhunt"
         ]
     },
     {
@@ -820,36 +862,6 @@
         "image_url": null,
         "keywords": [
             "news"
-        ]
-    },
-    {
-        "title": "Egypt fume at 'injustice' and make Messi favouritism claims after exit",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport unpicks a game that will go down in World Cup history for featuring a team who were two goals down so late on, but who went on to win without needing extra time.",
-        "source": "BBC News",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "favouritism claims",
-            "bbc sport",
-            "world cup history"
-        ]
-    },
-    {
-        "title": "Package holidays to Dubai and Egypt cheaper as European prices creep up",
-        "link": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
-        "source": "BBC News",
-        "objectivity_score": 18,
-        "sentiment": "Positive",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "european prices creep",
-            "family deals",
-            "non-european destinations"
         ]
     },
     {
@@ -867,46 +879,162 @@
         ]
     },
     {
-        "title": "Watch: Buckling support beams seen inside New York high-rise",
-        "link": "https://www.bbc.co.uk/news/videos/c7vygmmdyr8o?at_medium=RSS&at_campaign=rss",
-        "summary": "The structure, which is under construction, was evacuated along with surrounding buildings after reports of falling bricks.",
+        "title": "More protein or less? The foods to get you through a heatwave",
+        "link": "https://www.bbc.co.uk/news/articles/clyw89g3443o?at_medium=RSS&at_campaign=rss",
+        "summary": "When turning on the oven is a no-no and you're bored of salads, these foods (and drinks) will help to beat the heat.",
         "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "support beams"
-        ]
-    },
-    {
-        "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-        "link": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
-        "summary": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
-        "source": "BBC News",
-        "objectivity_score": 100,
+        "objectivity_score": 52,
         "sentiment": "Neutral",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "john lewis",
-            "final decision",
-            "job cuts"
+            "more"
         ]
     },
     {
-        "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
-        "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
+        "title": "Your tips from the last heatwave on how to cope in extreme temperatures",
+        "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
+        "summary": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "extreme temperatures",
+            "restful night 's sleep"
+        ]
+    },
+    {
+        "title": "Six ways to keep your home and yourself cool",
+        "link": "https://www.bbc.co.uk/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
+        "summary": "Six simple things you can do to help keep your house cool when temperatures rise.",
+        "source": "BBC News",
+        "objectivity_score": 55,
+        "sentiment": "Positive",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "simple things",
+            "temperatures rise"
+        ]
+    },
+    {
+        "title": "What does hot weather do to the body?",
+        "link": "https://www.bbc.co.uk/news/articles/cy7n6m7y6yvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Hot weather during the summer can affect anyone, but some people run a greater risk of serious harm.",
         "source": "BBC News",
         "objectivity_score": 71,
         "sentiment": "Positive",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "us president 's inflammatory words",
-            "crucial gathering",
-            "correspondent frank gardner"
+            "hot weather",
+            "serious harm"
+        ]
+    },
+    {
+        "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+        "link": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
+        "source": "BBC News",
+        "objectivity_score": 6,
+        "sentiment": "Negative",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "hair dye",
+            "weight-loss jabs"
+        ]
+    },
+    {
+        "title": "Has Harry's war with the press finally run out of road?",
+        "link": "https://www.bbc.co.uk/news/articles/clyrq1kr6q5o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Duke of Sussex and six others have lost their High Court privacy case against the publisher of the Daily Mail and Mail on Sunday.",
+        "source": "BBC News",
+        "objectivity_score": 51,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "'s war",
+            "high court privacy case",
+            "daily mail"
+        ]
+    },
+    {
+        "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+        "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "french nationalist leader defiant",
+            "court 's ruling",
+            "guilty verdict"
+        ]
+    },
+    {
+        "title": "Fears of a massacre in this city on the front line of Sudan's war",
+        "link": "https://www.bbc.co.uk/news/articles/c20yyjdzw7po?at_medium=RSS&at_campaign=rss",
+        "summary": "El-Obeid has been under \"siege-like conditions\" for 18 months says the UN human rights chief.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "front line",
+            "'s war",
+            "siege-like conditions"
+        ]
+    },
+    {
+        "title": "What must British wildcard Arthur Fery do to become Wimbledon semi-finalist?",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "summary": "Arthur Fery is bidding to become the fifth British man to reach the Wimbledon semi-finals in the Open era - here is how he can beat Italian 10th seed Flavio Cobolli.",
+        "source": "BBC News",
+        "objectivity_score": 12,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "british wildcard",
+            "arthur fery",
+            "arthur fery"
+        ]
+    },
+    {
+        "title": "Russian fuel shortages bite \u2013 but will Putin change tack in Ukraine war?",
+        "link": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+        "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
+        "source": "BBC News",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "russian fuel shortages",
+            "fuel supplies",
+            "economic pressure lead"
+        ]
+    },
+    {
+        "title": "The Papers: 'Let the people judge' and 'Farage gamble turns to farce'",
+        "link": "https://www.bbc.co.uk/news/articles/c1ky1wxg98ko?at_medium=RSS&at_campaign=rss",
+        "summary": "Nigel Farage's announcement he was resigning as an MP to trigger a by-election is the lead of many of Wednesday's papers.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "people judge",
+            "'farage gamble",
+            "nigel farage"
         ]
     },
     {
@@ -939,62 +1067,31 @@
         ]
     },
     {
-        "title": "Fifa investigating alleged racist abuse of IShowSpeed",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c1my1pr18jmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Fifa has opened an investigation following allegations of racist abuse involving American social media influencer IShowSpeed and a supporter during Argentina's 3-2 win over Cape Verde on Friday.",
+        "title": "Unusual or predictable? How Europe is dominating the World Cup",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cr479drd159o?at_medium=RSS&at_campaign=rss",
+        "summary": "Six of the eight quarter-finalists at the World Cup in North America are from Europe, so why are they doing so well and what does history tell us about the chances of one of them winning it all?",
         "source": "BBC News",
-        "objectivity_score": 13,
+        "objectivity_score": 75,
         "sentiment": "Positive",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "racist abuse",
-            "ishowspeed fifa",
-            "racist abuse"
+            "world cup",
+            "world cup"
         ]
     },
     {
-        "title": "Can Scotland learn from history-making Norway?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cr7xk8r9xl4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Norway, a nation of a similar size to Scotland, are through to the World Cup quarter-finals, so can lessons be learned from their neighbours from across the North Sea?",
+        "title": "Watch: Gaza football fans watch World Cup from rubble",
+        "link": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Hundreds of people cheered for Egypt, which shares a border with Gaza, in the match against Argentina.",
         "source": "BBC News",
-        "objectivity_score": 40,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "similar size",
-            "world cup quarter-finals",
-            "north sea"
-        ]
-    },
-    {
-        "title": "Harry's bad news lands at wrong time, but prince sticks to script",
-        "link": "https://www.bbc.co.uk/news/articles/ckg5v6n29g6o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Duke of Sussex has returned to the UK, but his first day of engagements was overshadowed by his defeat in court.",
-        "source": "BBC News",
-        "objectivity_score": 63,
-        "sentiment": "Negative",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "bad news lands",
-            "wrong time",
-            "prince sticks"
-        ]
-    },
-    {
-        "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-        "link": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
-        "source": "BBC News",
-        "objectivity_score": 6,
-        "sentiment": "Negative",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "hair dye",
-            "weight-loss jabs"
+            "football fans",
+            "world cup"
         ]
     },
     {
@@ -1013,81 +1110,51 @@
         ]
     },
     {
-        "title": "Fears of a massacre in this city on the front line of Sudan's war",
-        "link": "https://www.bbc.co.uk/news/articles/c20yyjdzw7po?at_medium=RSS&at_campaign=rss",
-        "summary": "El-Obeid has been under \"siege-like conditions\" for 18 months says the UN human rights chief.",
+        "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
+        "link": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+        "summary": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
         "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 100,
         "sentiment": "Neutral",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "front line",
-            "'s war",
-            "siege-like conditions"
+            "john lewis",
+            "final decision",
+            "job cuts"
         ]
     },
     {
-        "title": "The Papers: 'Let the people judge' and 'Farage gamble turns to farce'",
-        "link": "https://www.bbc.co.uk/news/articles/c1ky1wxg98ko?at_medium=RSS&at_campaign=rss",
-        "summary": "Nigel Farage's announcement he was resigning as an MP to trigger a by-election is the lead of many of Wednesday's papers.",
+        "title": "Dubai and Egypt package holidays cheaper to lure customers back",
+        "link": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "people judge",
-            "'farage gamble",
-            "nigel farage"
-        ]
-    },
-    {
-        "title": "Watch: Clacton's mixed views on Farage's resignation",
-        "link": "https://www.bbc.co.uk/news/videos/c3wy0d3v9epo?at_medium=RSS&at_campaign=rss",
-        "summary": "Nigel Farage announced he is resigning as an MP, triggering a by-election he will stand in.",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "'s resignation",
-            "nigel farage"
-        ]
-    },
-    {
-        "title": "Presidency bid while continuing court fight a gamble for Le Pen",
-        "link": "https://www.bbc.co.uk/news/articles/cevlm2rlgwmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Hard-right leader Marine Le Pen is appealing her case to France's top civil court, but it could backfire.",
-        "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 18,
         "sentiment": "Positive",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "court fight",
-            "pen hard-right",
-            "leader marine"
+            "package holidays",
+            "family deals",
+            "non-european destinations"
         ]
     },
     {
-        "title": "Reform asks NCA to investigate leaks of private financial information",
-        "link": "https://www.bbc.co.uk/news/articles/c621q06w91ro?at_medium=RSS&at_campaign=rss",
-        "summary": "The party's deputy leader Richard Tice says he found out payments to his company had been flagged to the agency, after questions from the media.",
+        "title": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence",
+        "link": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
+        "summary": "Hilton said the facility \"failed the children\", as regulators cited neglect and use of unnecessary restraints.",
         "source": "BBC News",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
+        "objectivity_score": 27,
+        "sentiment": "Negative",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "private financial information",
-            "party 's",
-            "deputy leader"
+            "paris hilton",
+            "unnecessary restraints"
         ]
     },
     {
-        "title": "Search under way for cargo plane that vanished off Pakistan coast",
+        "title": "Search under way after Boeing 737 plane vanishes off Pakistan coast",
         "link": "https://www.bbc.co.uk/news/articles/cn4dn1d55njo?at_medium=RSS&at_campaign=rss",
         "summary": "The plane, carrying five people, rapidly descended before losing contact, authorities say.",
         "source": "BBC News",
@@ -1096,77 +1163,20 @@
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "cargo plane"
+            "plane vanishes"
         ]
     },
     {
-        "title": "Harry loses High Court privacy case against Daily Mail publisher",
-        "link": "https://www.bbc.co.uk/news/articles/c9324nyqwjno?at_medium=RSS&at_campaign=rss",
-        "summary": "Judge Mr Justice Nicklin says the claimants had failed to prove the allegations.",
+        "title": "Watch: Buckling support beams seen inside New York high-rise",
+        "link": "https://www.bbc.co.uk/news/videos/c7vygmmdyr8o?at_medium=RSS&at_campaign=rss",
+        "summary": "The structure, which is under construction, was evacuated along with surrounding buildings after reports of falling bricks.",
         "source": "BBC News",
-        "objectivity_score": 23,
-        "sentiment": "Negative",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "high court privacy case",
-            "daily mail publisher judge"
-        ]
-    },
-    {
-        "title": "Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda",
-        "link": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The country's main state TV channel displayed a message saying it was \"sorry\" for lying on Tuesday.",
-        "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Negative",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "public news broadcasts",
-            "country 's",
-            "main state tv channel"
-        ]
-    },
-    {
-        "title": "Russia could compete at LA 2028 Olympics",
-        "link": "https://www.bbc.co.uk/sport/olympics/articles/cp8leyjn38zo?at_medium=RSS&at_campaign=rss",
-        "summary": "Russian athletes could be allowed to compete for their country at the 2028 Olympic Games in Los Angeles after the International Olympic Committee provisionally lifted their suspension.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "russian athletes",
-            "los angeles",
-            "international olympic committee"
-        ]
-    },
-    {
-        "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-        "link": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
-        "summary": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
-        "source": "BBC News",
-        "objectivity_score": 24,
-        "sentiment": "Negative",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "dr hussam abu safiya"
-        ]
-    },
-    {
-        "title": "One million more UK homeowners set  to face higher mortgages",
-        "link": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Homeowners face paying 45 a month more on average when they move onto a new deal over the next two years.",
-        "source": "BBC News",
-        "objectivity_score": 39,
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "news"
+            "support beams"
         ]
     },
     {
@@ -1272,33 +1282,18 @@
         ]
     },
     {
-        "title": "Fulham appoint Arbeloa as Silva's successor",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cvgjnlj0d1go?at_medium=RSS&at_campaign=rss",
-        "summary": "Fulham appoint Alvaro Arbeloa as their new manager on a three-year contract, succeeding Marco Silva who left for Benfica.",
+        "title": "How GB's Fery can beat Cobolli to reach Wimbledon semi-finals",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "summary": "Arthur Fery is bidding to become the fifth British man to reach the Wimbledon semi-finals in the Open era - here is how he can beat Italian 10th seed Flavio Cobolli.",
         "source": "BBC News",
-        "objectivity_score": 22,
+        "objectivity_score": 16,
         "sentiment": "Neutral",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "'s successor",
-            "alvaro arbeloa",
-            "new manager"
-        ]
-    },
-    {
-        "title": "'How?!' - Gauff battles into first Wimbledon semi-final",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c0qyv12xyw5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Coco Gauff surprised even herself by overcoming her recent grass-court struggles to reach a first Wimbledon semi-final against Karolina Muchova.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "coco gauff",
-            "recent grass-court struggles",
-            "karolina muchova"
+            "arthur fery",
+            "british man",
+            "open era"
         ]
     },
     {
@@ -1511,6 +1506,118 @@
         ]
     },
     {
+        "title": "U.S. Strikes Iran and Iran Hits Back",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000011018301/iran-war-us-trump.html",
+        "summary": "Videos verified by The New York Times showed explosions in Iran after the U.S. military announced it had renewed airstrikes. The Pentagon called it retaliation for an attack on ships in the Strait of ...",
+        "source": "NYT > World News",
+        "objectivity_score": 18,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "strikes iran",
+            "iran hits"
+        ]
+    },
+    {
+        "title": "A Look Back at Trump\u2019s Broadsides Against NATO Allies",
+        "link": "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-criticism.html",
+        "summary": "President Trump has rarely missed an opportunity to castigate the Western military alliance, whose leaders hes meeting this week, as weak and ineffective.",
+        "source": "NYT > World News",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "broadsides against",
+            "western military alliance",
+            "leaders hes meeting"
+        ]
+    },
+    {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine/heres-the-latest",
+        "summary": "",
+        "source": "NYT > World News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "here\u2019s"
+        ]
+    },
+    {
+        "title": "Oil Prices Jump After U.S. and Iran Trade Strikes in Persian Gulf",
+        "link": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-shipping-hormuz.html",
+        "summary": "Attacks on ships in the Strait of Hormuz sparked a new cycle of retaliation that could throttle the flow of energy from the region.",
+        "source": "NYT > World News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "persian gulf",
+            "new cycle"
+        ]
+    },
+    {
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump/heres-the-latest",
+        "summary": "",
+        "source": "NYT > World News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "here\u2019s"
+        ]
+    },
+    {
+        "title": "Germans Don\u2019t Love Budweiser. It Won\u2019t Take No for an Answer.",
+        "link": "https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html",
+        "summary": "Not for the first time, Budweiser is trying to make it in Germany. But this is a tough time to sell German drinkers on the image and taste of American beer.",
+        "source": "NYT > World News",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "germans don",
+            "love budweiser",
+            "tough time"
+        ]
+    },
+    {
+        "title": "Trump\u2019s Arrival in Turkey for NATO Summit Adds Drama and Spectacle",
+        "link": "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html",
+        "summary": "The second President Trump landed in Turkey, the center of gravity shifted right to where he likes it best: himself.",
+        "source": "NYT > World News",
+        "objectivity_score": 23,
+        "sentiment": "Positive",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "summit adds drama"
+        ]
+    },
+    {
+        "title": "What to Know About Australia\u2019s Contest With China in the Pacific After Beijing Tested a Missile",
+        "link": "https://www.nytimes.com/2026/07/08/world/asia/china-australia-pacific.html",
+        "summary": "With a series of recent treaties and alliances, Canberra is seeking to prevent Beijing from establishing a military foothold in the Pacific Ocean.",
+        "source": "NYT > World News",
+        "objectivity_score": 17,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "beijing tested",
+            "recent treaties",
+            "military foothold"
+        ]
+    },
+    {
         "title": "India Calls Out Meta Over Reported Child Sexual Abuse Imagery in Ads",
         "link": "https://www.nytimes.com/2026/07/07/world/asia/india-meta-child-abuse-imagery.html",
         "summary": "The tech giant that owns Instagram, Facebook and WhatsApp says it is in touch with the Indian authorities about reports that exploitative content is being hawked on one of its platforms.",
@@ -1538,125 +1645,6 @@
             "israel loses support",
             "rahm emanuel criticizes netanyahu",
             "presidential run"
-        ]
-    },
-    {
-        "title": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks",
-        "link": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html",
-        "summary": "The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.",
-        "source": "NYT > World News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "strikes iran",
-            "reimposes sanctions",
-            "military operation"
-        ]
-    },
-    {
-        "title": "Zimbabwe\u2019s President Signs Law Extending His Term",
-        "link": "https://www.nytimes.com/2026/07/07/world/africa/zimbabwe-president-mnangagwa-extension.html",
-        "summary": "The measure will allow the president, Emmerson Mnangagwa, to stay in office until 2030. Critics say the move tightens his autocratic grip on power and erodes the nations democracy.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s president",
-            "emmerson mnangagwa",
-            "move tightens"
-        ]
-    },
-    {
-        "title": "A Plan to Stop the Far Right",
-        "link": "https://www.nytimes.com/2026/07/07/world/germany-afd-centrist-far-right-le-pen-farage.html",
-        "summary": "The German chancellor and his center-left coalition partners are trying to hold off populist challengers. And they have a road map.",
-        "source": "NYT > World News",
-        "objectivity_score": 51,
-        "sentiment": "Positive",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "far right",
-            "german chancellor",
-            "center-left coalition partners"
-        ]
-    },
-    {
-        "title": "Marine Le Pen Announces 2027 French Presidential Bid",
-        "link": "https://www.nytimes.com/video/world/europe/100000011016495/marine-le-pen-2027-presidential-bid.html",
-        "summary": "The far-right French leader said on Tuesday that she will seek the presidency for the fourth time, despite an embezzlement conviction and a previous ban on her eligibility for office.",
-        "source": "NYT > World News",
-        "objectivity_score": 4,
-        "sentiment": "Neutral",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "pen announces",
-            "french leader",
-            "embezzlement conviction"
-        ]
-    },
-    {
-        "title": "Marine Le Pen\u2019s Court Battle Is Latest Clash Between Populists and Watchdogs",
-        "link": "https://www.nytimes.com/2026/07/07/world/europe/le-pen-populists-vs-courts.html",
-        "summary": "The far-right leaders battle with the French judiciary evokes standoffs across the populist world, including ones with President Trump and Nigel Farage.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s court battle",
-            "latest clash",
-            "far-right leaders battle"
-        ]
-    },
-    {
-        "title": "The Symbols We Saw at Khamenei\u2019s Funeral",
-        "link": "https://www.nytimes.com/video/world/middleeast/100000011012446/the-symbols-we-saw-at-khameneis-funeral.html",
-        "summary": "Abdi Latif Dahir, a Middle East correspondent for The Times, explains the messages behind recurring symbols at the dayslong funeral for Ayatollah Ali Khamenei.",
-        "source": "NYT > World News",
-        "objectivity_score": 35,
-        "sentiment": "Negative",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s funeral",
-            "abdi latif dahir",
-            "dayslong funeral"
-        ]
-    },
-    {
-        "title": "I.O.C. Lifts Russia\u2019s Olympic Suspension, Clearing the Way for 2028",
-        "link": "https://www.nytimes.com/2026/07/07/world/europe/russia-olympic-suspension-lifted.html",
-        "summary": "The International Olympic Committee provisionally removed the ban imposed in relation to Russias invasion of Ukraine. A previous ban for systematic doping had already ended.",
-        "source": "NYT > World News",
-        "objectivity_score": 8,
-        "sentiment": "Neutral",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "lifts russia",
-            "international olympic committee",
-            "previous ban"
-        ]
-    },
-    {
-        "title": "Map: 5.3-Magnitude Earthquake Shakes Costa Rica",
-        "link": "https://www.nytimes.com/interactive/2026/07/07/world/quake-tracker-costa-rica.html",
-        "summary": "View the location of the quakes epicenter and shake area.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "earthquake shakes costa rica",
-            "quakes epicenter"
         ]
     },
     {
@@ -1810,18 +1798,18 @@
         ]
     },
     {
-        "title": "Australia news live: watchdog ends investigation into former Nacc commissioner Brereton; cross-country trains caught up in national Telstra outages",
+        "title": "Australia news live: Telstra blames \u2018software glitch\u2019 for mass outage; more than 300 triple zero calls failed",
         "link": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
-        "summary": "In a press conference this morning the prime minister acknowledged the outage was deeply concerning and disruptive. Follow todays news liveGet our breaking news email, free app or daily news podcastTe...",
+        "summary": "Communications minister Anika Wells says its very important that people do not make test calls to triple zero. Follow todays news liveGet our breaking news email, free app or daily news podcastTelstra...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
+        "objectivity_score": 55,
         "sentiment": "Neutral",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "watchdog ends investigation",
-            "cross-country trains",
-            "press conference"
+            "blames \u2018 software glitch \u2019",
+            "mass outage",
+            "triple zero calls"
         ]
     },
     {
@@ -1885,6 +1873,66 @@
         ]
     },
     {
+        "title": "Anika Wells ridicules Angus Taylor and Barnaby Joyce for linking Telstra outages with China",
+        "link": "https://www.theguardian.com/australia-news/2026/jul/08/anika-wells-ridicules-angus-taylor-and-barnaby-joyce-for-linking-telstra-outages-with-china",
+        "summary": "Kristy McBain criticises shadow communications minister Sarah Henderson for testing Triple-zero system during major network blackout The communications minister, Anika Wells, has accused Barnaby Joyce...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 63,
+        "sentiment": "Negative",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "wells ridicules",
+            "angus taylor",
+            "barnaby joyce"
+        ]
+    },
+    {
+        "title": "High-profile Melbourne man called rapist and punched in face shortly after he raped former employee, court hears",
+        "link": "https://www.theguardian.com/australia-news/2026/jul/08/high-profile-melbourne-man-called-rapist-and-punched-in-face-shortly-after-he-raped-former-employee-court-hears-ntwnfb",
+        "summary": "The man, who cannot be named, faces two counts of rape and one count of sexual assault in Victorias county court. He has pleaded not guiltyFollow our Australia news live blog for latest updatesGet our...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "high-profile melbourne",
+            "court hears",
+            "sexual assault"
+        ]
+    },
+    {
+        "title": "The Telstra outage is a stark reminder of the widespread effects of single system failures",
+        "link": "https://www.theguardian.com/business/2026/jul/08/telstra-outage-mobile-network-stark-reminder-widespread-effects-system-failures",
+        "summary": "The network disruption  which brought trains, traffic lights and Eftpos payments to a halt  raises questions about the resilience of servicesFollow our Australia news live blog for latest updates Get ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 42,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "stark reminder",
+            "widespread effects",
+            "system failures"
+        ]
+    },
+    {
+        "title": "\u2018Cannot justify such expenditure\u2019: why the corruption watchdog dropped two investigations into former boss",
+        "link": "https://www.theguardian.com/australia-news/2026/jul/08/nacc-anti-corruption-paul-brereton-complaints-investigations-cost-",
+        "summary": "National Anti-Corruption Commission inspector, Gail Furness, says systemic issues behind two complaints have been addressedFollow our Australia news live blog for latest updatesGet our breaking news e...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "such expenditure \u2019",
+            "corruption watchdog",
+            "commission inspector"
+        ]
+    },
+    {
         "title": "Telstra outage: Telco apologises for major time-keeping issue that hit mobiles, trains and triple-zero calls",
         "link": "https://www.theguardian.com/australia-news/2026/jul/08/telstra-outage-down-network-mobile-outages-today",
         "summary": "Carrier restoring mobile services after network used by millions goes down for many users, shutting down regional trains and affecting emergency callsFollow our Australia news live blog for latest upd...",
@@ -1900,63 +1948,48 @@
         ]
     },
     {
-        "title": "Australian house prices are falling but are still almost double what they were a decade ago",
-        "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/08/australia-house-prices-falling-still-doubled-over-decade-one-big-chart",
-        "summary": "The average dwelling price has risen to more than 17 years of a typical households disposable incomeWant to get more charts in your inbox every fortnight? Sign up for The Crunch hereHouse prices have ...",
+        "title": "Nato leaders meet in Turkey for summit after Trump renews calls for US to take over Greenland \u2013 Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates",
+        "summary": "Meeting begins this morning after president threatens to pull American troops out of Europe as he arrived in Ankara yesterdayTrump renews call for US to take over Greenland as he arrives for Nato summ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Positive",
+        "objectivity_score": 37,
+        "sentiment": "Neutral",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "house prices",
-            "typical households",
-            "disposable incomewant"
+            "president threatens",
+            "american troops",
+            "yesterdaytrump renews"
         ]
     },
     {
-        "title": "Recession off the cards but Australia faces dreary outlook, economists say",
-        "link": "https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists",
-        "summary": "De-escalation of war in the Middle East has lowered oil prices and eased fears of economic downturn but households are still feeling the pinchFollow our Australia news live blog for latest updatesGet ...",
+        "title": "Health risk fears for storks in Europe over \u2018junk food\u2019 from landfill",
+        "link": "https://www.theguardian.com/environment/2026/jul/08/health-risk-fears-for-storks-in-europe-over-junk-food-from-landfill",
+        "summary": "Rubbish dumps can expose birds to contaminants, raising questions over whether landfill foraging helps or harmsStorks are gaining weight from a diet of literal junk, according to research that suggest...",
         "source": "World news | The Guardian",
-        "objectivity_score": 28,
-        "sentiment": "Positive",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "faces dreary outlook",
-            "oil prices",
-            "economic downturn"
+            "health risk fears",
+            "\u2018 junk food \u2019",
+            "expose birds"
         ]
     },
     {
-        "title": "A rock star welcome and human rights protests to greet India\u2019s prime minister Narendra Modi in Australia",
-        "link": "https://www.theguardian.com/australia-news/2026/jul/07/india-prime-minister-modi-australia-melbourne-visit-reaction-indian-diaspora-ntwnfb",
-        "summary": "Amnesty International says Albanese has opportunity to reaffirm mutual commitment to rule of law as thousands in diaspora expected at stadium eventFollow our Australia news live blog for latest update...",
+        "title": "Asylum seeker in UK as part of \u2018one in, one out\u2019 scheme says it is unfair on those deported",
+        "link": "https://www.theguardian.com/uk-news/2026/jul/08/asylum-seeker-in-uk-says-one-in-one-out-scheme-unfair",
+        "summary": "Man flown from France as part of legal entry programme decries effect on others who may have a similar caseAn asylum seeker brought to the UK by the Home Office has said it feels unjust that he was al...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
+        "objectivity_score": 61,
+        "sentiment": "Neutral",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "rock star",
-            "human rights protests",
-            "prime minister"
-        ]
-    },
-    {
-        "title": "\u2018Accident waiting to happen\u2019: player\u2019s death raises alarm over risk of concrete cricket pitches in Australian rules football",
-        "link": "https://www.theguardian.com/sport/2026/jul/08/nathan-fitzgerald-melbourne-teacher-australian-football-head-injury-death-concrete-cricket-pitch",
-        "summary": "Concrete-based cricket pitches, like that on which Nathan Fitzgerald received fatal blows to the head, are totally unsafe, concussion advocate saysFollow our Australia news live blog for latest update...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "player \u2019 s death raises alarm",
-            "concrete cricket pitches",
-            "rules football"
+            "\u2019 scheme",
+            "man flown",
+            "legal entry programme decries effect"
         ]
     },
     {
@@ -1990,57 +2023,12 @@
         ]
     },
     {
-        "title": "Le Pen says she will appeal against conviction and run for French presidency \u2013 Europe live as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates",
-        "summary": "Far-right leader gives TV interview saying that she will appeal against part of todays ruling which cast doubt on a presidential run The opening speeches are now under way in Ankara, and you can watch...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "presidency \u2013",
-            "tv interview",
-            "todays ruling"
-        ]
-    },
-    {
-        "title": "Why is Marine Le Pen running for French presidency after court confirmed conviction?",
-        "link": "https://www.theguardian.com/world/2026/jul/07/what-court-ruling-mean-marine-le-pen-presidential-chances",
-        "summary": "A look at the case, the appeal court decision and how it could affect the race to succeed Emmanuel MacronMarine Le Pen has said she will be a candidate in Frances presidential race next year, after a ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "appeal court decision",
-            "emmanuel macronmarine",
-            "presidential race"
-        ]
-    },
-    {
-        "title": "Hungarian public media outlets halt broadcasting in post-Orb\u00e1n shake-up",
-        "link": "https://www.theguardian.com/world/2026/jul/07/hungary-public-media-tv-radio-suspend-broadcasting-viktor-orban-peter-magyar",
-        "summary": "Pter Magyar hails end of propaganda broadcasts as Kossuth radio and M1 TV channels suspend transmissionHungarian public media outlets close to Viktor Orbn have suspended broadcasting, the countrys pri...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "public media outlets",
-            "post-orb\u00e1n shake-up",
-            "pter magyar"
-        ]
-    },
-    {
         "title": "Iran accuses US of violating peace agreement after strikes target sites around strait of Hormuz",
         "link": "https://www.theguardian.com/world/2026/jul/08/iran-us-war-ceasefire-peace-agreement-strikes-strait-of-hormuz",
         "summary": "The US military said the strikes were in response to Iranian attacks on three commercial vessels on Tuesday that violated the ceasefireMiddle East crisis live: follow latest updatesIran has accused th...",
         "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
+        "objectivity_score": 27,
+        "sentiment": "Positive",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
@@ -2110,6 +2098,21 @@
         ]
     },
     {
+        "title": "Search under way after Boeing 737 cargo plane goes missing off Pakistan coast",
+        "link": "https://www.theguardian.com/world/2026/jul/08/boeing-737-cargo-plane-missing-near-karachi",
+        "summary": "Early flight data showed the K2 Airways plane with five crew on board possibly crashed into the sea southwest of KarachiA Pakistan-registered Boeing 737 cargo plane with five crew members on board los...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 68,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "cargo plane",
+            "flight data",
+            "k2 airways"
+        ]
+    },
+    {
         "title": "Dowry murders in India no longer spark public anger or debate, study finds",
         "link": "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds",
         "summary": "Thousands of women are killed in dowry disputes each year, despite the practice being banned in 1961Dowry deaths in India no longer provoke the public anger they once did, despite thousands of womens ...",
@@ -2170,93 +2173,93 @@
         ]
     },
     {
-        "title": "\u2018Humanity is a privilege\u2019: Umar Khalid on his six years in an Indian jail without trial",
-        "link": "https://www.theguardian.com/world/2026/jun/30/umar-khalid-interview-six-years-indian-jail-without-trial-modi-opposition-political-prisoner",
-        "summary": "Exclusive: Activist tells of his life as one of Indias most prominent political prisoners and his opposition to the government of Narendra ModiPrison is hardest at sunset. As the thousands of prisoner...",
+        "title": "Labour calls on Farage to \u2018come clean\u2019 over \u00a35m gift and work with crime agency over money laundering concerns - UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jul/08/nigel-farage-reform-uk-clacton-5m-gift-crime-agency-labour-keir-starmer-pmqs-uk-politics-latest-news-updates",
+        "summary": "Lib Dems tell Reform UK leader the game is up as political rivals vow to boycott stunt Clacton byelectionRevealed: Farages 5m gift reported to UK crime agency over money laundering concernsThe Greens ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "privilege \u2019",
-            "umar khalid",
-            "indian jail"
-        ]
-    },
-    {
-        "title": "Which? finds 150 potentially lethal baby products sold online",
-        "link": "https://www.theguardian.com/society/2026/jul/08/lethal-baby-products-sold-online-which-dangerous-lives-risk",
-        "summary": "UK consumer group says lives are at risk because platforms fail to prevent dangerous items reaching customersBabies are being put at risk by dozens of potentially lethal infant products sold to UK par...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 74,
-        "sentiment": "Negative",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "lethal baby products",
-            "consumer group",
-            "dangerous items"
-        ]
-    },
-    {
-        "title": "Labour, Tories and Lib Dems refuse to stand in byelection with Farage\u2019s resignation labelled \u2018desperate stunt\u2019 \u2013 as it happened",
-        "link": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates",
-        "summary": "Reform UK leader to quit as MP but stand again, saying the people of Clacton  should be the judges of my actions Q: Do you think the parliamentary commissioner for standards should investigate Nigel F...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 70,
-        "sentiment": "Positive",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "lib dems",
-            "\u2019 s resignation",
-            "desperate stunt \u2019 \u2013"
-        ]
-    },
-    {
-        "title": "Prince Harry and other claimants could face \u00a350m legal bill after losing phone-hacking case",
-        "link": "https://www.theguardian.com/media/2026/jul/07/prince-harry-lawsuit-mail-publisher-phone-hacking-claims",
-        "summary": "High court dismisses claims by group including Duke of Sussex that Mail publisher used unlawful methods to source stories about themPrince Harry and six other prominent figures are facing a legal bill...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "legal bill",
-            "high court dismisses claims",
-            "mail publisher"
-        ]
-    },
-    {
-        "title": "Prince Harry gets burned in his mission to \u2018slay dragons\u2019 of British media",
-        "link": "https://www.theguardian.com/uk-news/2026/jul/07/duke-of-sussex-calls-legal-battles-with-british-media-his-lifes-work-phone-hacking-daily-mail",
-        "summary": "Harry claimed victory in two earlier legal actions but he and his co-claimants lost their lawsuit against ANL on TuesdayPrince Harry and others could face 50m legal bill after losing phone-hacking law...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Positive",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "\u2018 slay dragons \u2019",
-            "british media",
-            "legal actions"
-        ]
-    },
-    {
-        "title": "Revealed: Farage\u2019s \u00a35m gift reported to UK crime agency over money laundering concerns",
-        "link": "https://www.theguardian.com/politics/2026/jul/07/revealed-farages-5m-gift-reported-to-uk-agency-over-money-laundering-concerns",
-        "summary": "Exclusive: Latest Guardian revelation about gift from cryptocurrency tycoon comes as Reform UK leader forces byelectionThe 5m gift to Nigel Farage by a cryptocurrency billionaire was reported to the N...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 56,
+        "objectivity_score": 30,
         "sentiment": "Neutral",
         "date": "2026-07-08",
         "image_url": null,
         "keywords": [
-            "\u2019 s \u00a35m gift",
-            "crime agency",
-            "latest guardian"
+            "clean \u2019",
+            "\u00a35m gift",
+            "crime agency"
+        ]
+    },
+    {
+        "title": "Virgin Media fined record \u00a328m for stopping customers cancelling contracts",
+        "link": "https://www.theguardian.com/media/2026/jul/08/virgin-media-fined-preventing-customers-cancelling-contracts-ofcom",
+        "summary": "Ofcom levies largest-ever consumer protection fine after finding firm deliberately mishandled millions of phone callsVirgin Media has been fined 28m by the UK telecoms watchdog for repeatedly preventi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 70,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "record \u00a328m",
+            "levies largest-ever consumer protection",
+            "phone callsvirgin"
+        ]
+    },
+    {
+        "title": "Arthur Fery: the Wimbledon wildcard carrying Britain\u2019s hopes",
+        "link": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-wimbledon-wildcard-carrying-britain-hopes",
+        "summary": "The fearless 23-year-old is determined to keep a level head as he prepares to face Flavio Cobolli on WednesdayA week ago, very few people knew who Arthur Fery was. But he has been propelled into the l...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "arthur fery",
+            "level head",
+            "flavio cobolli"
+        ]
+    },
+    {
+        "title": "Britons to buy 8m mini fans this year \u2013 but almost half will end up in landfill",
+        "link": "https://www.theguardian.com/business/2026/jul/08/uk-mini-fans-heatwave-sales",
+        "summary": "Shoppers urged to seek quality products or alternatives as data shows demand surpassing last years totalBritons are expected to buy nearly 8m mini fans this year as they are surging on to the market i...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "8m mini fans",
+            "year \u2013",
+            "quality products"
+        ]
+    },
+    {
+        "title": "Farage is likely to win in Clacton but can his credibility survive? | Peter Walker",
+        "link": "https://www.theguardian.com/politics/2026/jul/08/nigel-farage-win-clacton-credibility-survive-reform",
+        "summary": "While the Reform leader casts himself as the victim questions about his finances are unlikely to disappearFarage quits as an MP amid scrutiny of his financesFor Nigel Farage, a year that was progressi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 55,
+        "sentiment": "Neutral",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "peter walker",
+            "leader casts",
+            "victim questions"
+        ]
+    },
+    {
+        "title": "US charges Indian criminal gang leader with organising murder of Canadian Sikh activist",
+        "link": "https://www.theguardian.com/world/2026/jul/08/murder-canada-sikh-activist-hardeep-singh-nijjar-indian-criminal-gang-leader-charged",
+        "summary": "Lawrence Bishnoi, who is in prison in India, is accused of orchestrating the assassination of Hardeep Singh Nijjar in 2023US authorities have announced charges against the leader of an Indian criminal...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
+        "sentiment": "Negative",
+        "date": "2026-07-08",
+        "image_url": null,
+        "keywords": [
+            "us charges",
+            "indian criminal gang leader",
+            "lawrence bishnoi"
         ]
     },
     {
@@ -2317,21 +2320,6 @@
             "video shows",
             "charlie kirk",
             "county attorneys office"
-        ]
-    },
-    {
-        "title": "Arizona toddler declared dead after near-drowning was alive for hours in \u2018cold room\u2019, records say",
-        "link": "https://www.theguardian.com/us-news/2026/jul/07/phoenix-toddler-alive-hospital",
-        "summary": "Officers say they saw signs of life multiple times, and after hospital treated the child, he was taken to hospitals morgueA toddler who was declared dead after being discovered in a backyard pool in F...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Negative",
-        "date": "2026-07-08",
-        "image_url": null,
-        "keywords": [
-            "cold room \u2019",
-            "multiple times",
-            "hospitals morguea toddler"
         ]
     }
 ]
