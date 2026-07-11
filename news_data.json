@@ -737,17 +737,60 @@
         ]
     },
     {
-        "title": "Pugnacious, charismatic and she always answered the question - Chris Mason on Ann Widdecombe",
-        "link": "https://www.bbc.co.uk/news/articles/czrxdnmlk5no?at_medium=RSS&at_campaign=rss",
-        "summary": "Plenty in Westminster who knew her, whether they agreed with her or not, found her immensely likeable.",
+        "title": "TV presenter Dermot Murnaghan dies aged 68",
+        "link": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The former BBC, ITV and Sky News journalist has died after revealing he had stage four prostate cancer.",
         "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Positive",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "chris mason",
-            "ann widdecombe plenty"
+            "tv presenter",
+            "dermot murnaghan",
+            "news journalist"
+        ]
+    },
+    {
+        "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
+        "link": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "needs worked-through plan",
+            "laura kuenssberg",
+            "stable economy"
+        ]
+    },
+    {
+        "title": "Watch: 'We escaped Spanish wildfire, but our friends lost their lives'",
+        "link": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Hundreds of firefighters in Spain have been battling a deadly wildfire in the south of the country.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "spanish wildfire"
+        ]
+    },
+    {
+        "title": "Pubs can stay open for full Norway game - even if kick-off delayed",
+        "link": "https://www.bbc.co.uk/news/articles/cm204lgrv10o?at_medium=RSS&at_campaign=rss",
+        "summary": "The extended hours means fans can watch the entire game, even if the start is delayed.",
+        "source": "BBC News",
+        "objectivity_score": 49,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "hours means fans",
+            "entire game"
         ]
     },
     {
@@ -762,34 +805,6 @@
         "keywords": [
             "jd vance",
             "us officials"
-        ]
-    },
-    {
-        "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-        "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-        "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-        "source": "BBC News",
-        "objectivity_score": 17,
-        "sentiment": "Negative",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "deadliest wildfires"
-        ]
-    },
-    {
-        "title": "Chaos and confusion reign as Harry loses media battle",
-        "link": "https://www.bbc.co.uk/news/articles/c78yp5j2e8eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Team Sussex has had a bumpy last seven days in the UK, which was meant to focus on the Invictus Games.",
-        "source": "BBC News",
-        "objectivity_score": 8,
-        "sentiment": "Negative",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "confusion reign",
-            "media battle",
-            "team sussex"
         ]
     },
     {
@@ -808,7 +823,37 @@
         ]
     },
     {
-        "title": "England set for open-air Miami heat - but do Norway hold the edge?",
+        "title": "Is it time to give record-breaker Pickford the credit he deserves?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the World Cup history books, asks chief football writer Phil McNulty.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "jordan pickford",
+            "world cup history books",
+            "chief football writer"
+        ]
+    },
+    {
+        "title": "Hey Jude: Bellingham's return to England indispensability",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
+        "source": "BBC News",
+        "objectivity_score": 75,
+        "sentiment": "Positive",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "hey jude",
+            "'s return",
+            "football correspondent"
+        ]
+    },
+    {
+        "title": "Quarter\u2011final turns into endurance test as England meet heat\u2011hardened Norway",
         "link": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
         "summary": "England will head into unknown territory at this World Cup when they face Norway in Miami - playing in searing temperatures.",
         "source": "BBC News",
@@ -817,8 +862,38 @@
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "unknown territory",
-            "world cup"
+            "endurance test",
+            "norway england",
+            "unknown territory"
+        ]
+    },
+    {
+        "title": "Should Argentina take Messi off penalties?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno?at_medium=RSS&at_campaign=rss",
+        "summary": "Lionel Messi keeps rewriting World Cup history, but after his latest miss from the spot, should Argentina hand penalty duties to someone else?",
+        "source": "BBC News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "lionel messi",
+            "world cup history",
+            "hand penalty duties"
+        ]
+    },
+    {
+        "title": "Artificial turf & coaching revolution - how Norway shaped golden generation",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvge7299ygwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Artificial turf, investment from gambling and a coaching revolution based on collaboration over egos help Norway build a golden generation of players.",
+        "source": "BBC News",
+        "objectivity_score": 75,
+        "sentiment": "Negative",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "golden generation",
+            "golden generation"
         ]
     },
     {
@@ -837,32 +912,18 @@
         ]
     },
     {
-        "title": "Is it time to give record-breaker Pickford the credit he deserves?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the World Cup history books, asks chief football writer Phil McNulty.",
+        "title": "New species named after Cape Verde keeper Vozinha",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
+        "summary": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
         "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "jordan pickford",
-            "world cup history books",
-            "chief football writer"
-        ]
-    },
-    {
-        "title": "Artificial turf & coaching revolution - how Norway shaped golden generation",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cvge7299ygwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Artificial turf, investment from gambling and a coaching revolution based on collaboration over egos help Norway build a golden generation of players.",
-        "source": "BBC News",
-        "objectivity_score": 75,
-        "sentiment": "Negative",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "golden generation",
-            "golden generation"
+            "new species",
+            "new species",
+            "sea slug"
         ]
     },
     {
@@ -953,12 +1014,12 @@
         ]
     },
     {
-        "title": "Twelve men and 12 women enter a Buddhist temple - will the monks help them find love?",
+        "title": "Dating can be hard in South Korea - so the monks stepped in",
         "link": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
         "summary": "Dating can be hard in South Korea. A group of monks hope a 30-hour rural retreat can help.",
         "source": "BBC News",
-        "objectivity_score": 38,
-        "sentiment": "Neutral",
+        "objectivity_score": 36,
+        "sentiment": "Negative",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
@@ -982,18 +1043,18 @@
         ]
     },
     {
-        "title": "Snow Patrol on 20 years of Chasing Cars, and their 'non-duet' with Kylie",
-        "link": "https://www.bbc.co.uk/news/articles/cwykqqk1y3wo?at_medium=RSS&at_campaign=rss",
-        "summary": "The band look back on their biggest hit, and explain why their new single with Kylie isn't a duet.",
+        "title": "Chaos and confusion reign as Harry loses media battle",
+        "link": "https://www.bbc.co.uk/news/articles/c78yp5j2e8eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Team Sussex has had a bumpy last seven days in the UK, which was meant to focus on the Invictus Games.",
         "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
+        "objectivity_score": 8,
+        "sentiment": "Negative",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "chasing cars",
-            "band look",
-            "new single"
+            "confusion reign",
+            "media battle",
+            "team sussex"
         ]
     },
     {
@@ -1007,6 +1068,49 @@
         "image_url": null,
         "keywords": [
             "ann widdecombe"
+        ]
+    },
+    {
+        "title": "Twenty years of Chasing Cars: 'It's the song that took us to the whole world'",
+        "link": "https://www.bbc.co.uk/news/articles/cwykqqk1y3wo?at_medium=RSS&at_campaign=rss",
+        "summary": "Snow Patrol look back on their biggest hit, and explain why their new single with Kylie isn't a duet.",
+        "source": "BBC News",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "chasing cars",
+            "'it 's",
+            "whole world"
+        ]
+    },
+    {
+        "title": "China braced for second typhoon in a week as Bavi approaches landfall",
+        "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "approaches landfall"
+        ]
+    },
+    {
+        "title": "Killer's final police interview footage released",
+        "link": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Bradley Murdoch, 67, died in jail without disclosing where Peter Falconio's remains might be.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "final police interview footage",
+            "bradley murdoch",
+            "peter falconio"
         ]
     },
     {
@@ -1025,31 +1129,32 @@
         ]
     },
     {
-        "title": "The Papers: 'Widdecombe murder inquiry' and 'Strike Norse'",
-        "link": "https://www.bbc.co.uk/news/articles/c872z1xvr52o?at_medium=RSS&at_campaign=rss",
-        "summary": "Murder probe into ex-Tory minister Ann Widdecombe's death and England v Norway preview leads Saturday's papers.",
+        "title": "New dinosaur species as long as cricket pitch discovered",
+        "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+        "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 42,
         "sentiment": "Neutral",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "'widdecombe murder inquiry",
-            "ex-tory minister",
-            "ann widdecombe"
+            "new dinosaur species",
+            "cricket pitch"
         ]
     },
     {
-        "title": "Cooler for some this weekend but heatwave continues",
-        "link": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&at_campaign=rss",
-        "summary": "The sizzling heat continues into next week despite a drop in temperatures over the weekend.",
+        "title": "50 Cent asked judge to bail dealer for European tour",
+        "link": "https://www.bbc.co.uk/news/articles/c8x2nxqdnddo?at_medium=RSS&at_campaign=rss",
+        "summary": "Details of the rapper's letter emerge after Abdirahiim Hassan is jailed at Derby Crown Court.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "cooler"
+            "bail dealer",
+            "european tour",
+            "rapper 's letter"
         ]
     },
     {
@@ -1068,90 +1173,46 @@
         ]
     },
     {
-        "title": "Triple murder suspect arrested in South Africa",
-        "link": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Prosecutors in the UK authorise charges against Ndodana Mkhanyisi Tshuma.",
+        "title": "Heatwave to stretch into second week despite cooler air for some this weekend",
+        "link": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&at_campaign=rss",
+        "summary": "The sizzling heat continues into next week despite a drop in temperatures over the weekend.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "africa prosecutors",
-            "authorise charges",
-            "ndodana mkhanyisi tshuma"
+            "cooler air"
         ]
     },
     {
-        "title": "People in 50s urged to complete bowel cancer screening",
-        "link": "https://www.bbc.co.uk/news/articles/cql1n6gl273o?at_medium=RSS&at_campaign=rss",
-        "summary": "Health officials warn little over half of 54-year-olds completed free at-home test kits.",
+        "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+        "link": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.",
         "source": "BBC News",
-        "objectivity_score": 46,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "complete bowel cancer",
-            "health officials",
-            "free at-home test kits"
+            "indian tourists",
+            "speedboat capsizes",
+            "local media"
         ]
     },
     {
-        "title": "Meta pulls new AI image feature after days of backlash",
-        "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+        "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
+        "link": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
         "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "'s release",
-            "swift blowback"
-        ]
-    },
-    {
-        "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
-        "link": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
-        "source": "BBC News",
-        "objectivity_score": 87,
-        "sentiment": "Negative",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "charlie kirk",
-            "vivid picture",
-            "'s movements"
-        ]
-    },
-    {
-        "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-        "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-        "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
-        "source": "BBC News",
-        "objectivity_score": 42,
+        "objectivity_score": 11,
         "sentiment": "Neutral",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "new dinosaur species",
-            "cricket pitch"
-        ]
-    },
-    {
-        "title": "Strangulation survivor urges stricter sentencing as crime reports increase",
-        "link": "https://www.bbc.co.uk/news/articles/cx2kzxpy082o?at_medium=RSS&at_campaign=rss",
-        "summary": "More than 44,000 reports were made to police in the past year, a report says.",
-        "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "crime reports increase",
-            "past year"
+            "canadian unity",
+            "centre stage",
+            "calgary stampede"
         ]
     },
     {
@@ -1258,77 +1319,91 @@
         ]
     },
     {
-        "title": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
-        "summary": "Mikel Merino came off the bench to send Spain into the World Cup semi-finals - but Lamine Yamal is still waiting for his moment to truly shine.",
+        "title": "Hey Jude: Bellingham's return to England indispensability",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "unlikely hero",
-            "lamine yamal",
-            "mikel merino"
-        ]
-    },
-    {
-        "title": "Lammens' error spells end for Belgium's golden generation",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c4gy107g38eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Belgium's World Cup campaign ends after Senne Lammens' error against Spain - could it all be over for their golden generation too?",
-        "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 75,
         "sentiment": "Positive",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "error spells end",
-            "golden generation",
-            "'s world cup campaign ends"
+            "hey jude",
+            "'s return",
+            "football correspondent"
         ]
     },
     {
-        "title": "Is it time to give record-breaker Pickford the credit he deserves?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the World Cup history books, asks chief football writer Phil McNulty.",
+        "title": "England set for open-air Miami heat - but do Norway hold the edge?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
+        "summary": "England will head into unknown territory at this World Cup when they face Norway in Miami - playing in searing temperatures.",
         "source": "BBC News",
-        "objectivity_score": 100,
+        "objectivity_score": 60,
         "sentiment": "Neutral",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "jordan pickford",
-            "world cup history books",
-            "chief football writer"
+            "unknown territory",
+            "world cup"
         ]
     },
     {
-        "title": "Fery's Wimbledon run ended by Zverev in semi-finals",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Arthur Fery's unforgettable Wimbledon run comes to an end as Alexander Zverev beats the British wildcard to secure a place in the final.",
+        "title": "Not 'something in the beer' - why Czechs are dominating Wimbledon",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cy5v6439e37o?at_medium=RSS&at_campaign=rss",
+        "summary": "With Karolina Muchova and Linda Noskova set for an all-Czech Wimbledon final, Naomi Broady discusses why the nation produces so many top players and where the final will be won or lost.",
         "source": "BBC News",
-        "objectivity_score": 65,
+        "objectivity_score": 75,
         "sentiment": "Positive",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "arthur fery",
-            "alexander zverev",
-            "british wildcard"
+            "karolina muchova",
+            "linda noskova",
+            "naomi broady"
         ]
     },
     {
-        "title": "Artificial turf & coaching revolution - how Norway shaped golden generation",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cvge7299ygwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Artificial turf, investment from gambling and a coaching revolution based on collaboration over egos help Norway build a golden generation of players.",
-        "source": "BBC News",
-        "objectivity_score": 75,
-        "sentiment": "Negative",
+        "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+        "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+        "summary": "During the war, Israel attacked Irans steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
+        "source": "NYT > World News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "golden generation",
-            "golden generation"
+            "israel struck",
+            "steel plants",
+            "civilian economy"
+        ]
+    },
+    {
+        "title": "Man Arrested in Killing of U.K. Ex-Lawmaker Is Released",
+        "link": "https://www.nytimes.com/2026/07/11/world/europe/uk-ann-widdecombe-suspect-released.html",
+        "summary": "The police said the 26-year-old was no longer part of the investigation into the death of Ann Widdecombe and urged anyone with information about the crime to come forward.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "u.k. ex-lawmaker",
+            "ann widdecombe"
+        ]
+    },
+    {
+        "title": "England and Norway, Old Friends, Resurrect a Rivalry for the World Cup",
+        "link": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+        "summary": "Along with historic and diplomatic ties, Englands club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.",
+        "source": "NYT > World News",
+        "objectivity_score": 34,
+        "sentiment": "Positive",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "world cup",
+            "diplomatic ties",
+            "club soccer teams"
         ]
     },
     {
@@ -1343,6 +1418,21 @@
         "keywords": [
             "people \u2019",
             "out-of-work factory workers"
+        ]
+    },
+    {
+        "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+        "link": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
+        "summary": "The American works for the humanitarian organization Samaritans Purse, American and African health officials said.",
+        "source": "NYT > World News",
+        "objectivity_score": 13,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "u.s. citizen tests positive",
+            "democratic republic",
+            "american works"
         ]
     },
     {
@@ -1465,81 +1555,6 @@
         ]
     },
     {
-        "title": "Sexual Assault and Killing of Girl Set Off Days of Protest in West Bengal",
-        "link": "https://www.nytimes.com/2026/07/10/world/asia/girl-riots-west-bengal-baruipur.html",
-        "summary": "After promising to improve safety for women in the Indian state, the party of Prime Minister Narendra Modi is facing public anger after the death of an 11-year-old girl.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "sexual assault",
-            "girl set off",
-            "indian state"
-        ]
-    },
-    {
-        "title": "Greece Arrests 3 in Connection With Bombings Targeting Governing Party",
-        "link": "https://www.nytimes.com/2026/07/10/world/europe/greece-bombing-arrests.html",
-        "summary": "The attacks killed one person and injured others. The Greek authorities said an investigation would continue.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "greece arrests",
-            "bombings targeting governing",
-            "greek authorities"
-        ]
-    },
-    {
-        "title": "Can Hungarian Holocaust Survivors Find Justice in the U.S.?",
-        "link": "https://www.nytimes.com/2026/07/10/world/europe/hungarian-holocaust-us-lawsuit.html",
-        "summary": "For more than a decade, a group of survivors have fought a legal battle to get American courts to hear their suit against Hungarys national railroad over its role in the atrocities.",
-        "source": "NYT > World News",
-        "objectivity_score": 23,
-        "sentiment": "Positive",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "hungarian holocaust",
-            "legal battle",
-            "american courts"
-        ]
-    },
-    {
-        "title": "Man Arrested on Suspicion of Murdering Ann Widdecombe, Former U.K. Politician",
-        "link": "https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html",
-        "summary": "The police said they had arrested a 26-year-old British man after Ann Widdecombe, a 78-year-old former lawmaker, was found dead with serious injuries on Thursday.",
-        "source": "NYT > World News",
-        "objectivity_score": 21,
-        "sentiment": "Negative",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "murdering ann widdecombe",
-            "26-year-old british man",
-            "ann widdecombe"
-        ]
-    },
-    {
-        "title": "China Launches Reusable Rocket, Clearing a Key Hurdle in Race With SpaceX",
-        "link": "https://www.nytimes.com/2026/07/10/world/asia/china-space-reusable-rocket-launch-spacex.html",
-        "summary": "The launch and recovery of the Long March 10B could represent a long-awaited breakthrough for Chinese satellite companies.",
-        "source": "NYT > World News",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "china launches",
-            "key hurdle",
-            "chinese satellite companies"
-        ]
-    },
-    {
         "title": "Meet Neil, Australia\u2019s Celebrity Seal",
         "link": "https://www.nytimes.com/2026/07/10/world/australia/neil-seal-australia-tasmania.html",
         "summary": "The young elephant seal has gained fans around the world. But the authorities warn he could be in danger of being loved to death.",
@@ -1554,33 +1569,78 @@
         ]
     },
     {
-        "title": "Police Investigating Donations to Reform U.K., Reports Say",
-        "link": "https://www.nytimes.com/2026/07/10/world/europe/reform-uk-farage-cottrell-donation-police.html",
-        "summary": "The police in London said they had questioned two people as part of an investigation into donations to a political party.",
+        "title": "Boat Carrying Dozens of Tourists Capsizes in Vietnam",
+        "link": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
+        "summary": "A speedboat carrying 36 people overturned near the island of Phu Quoc in southern Vietnam. Local media reported that 15 people had died and that the others had been rescued.",
         "source": "NYT > World News",
-        "objectivity_score": 10,
+        "objectivity_score": 13,
         "sentiment": "Neutral",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "investigating donations",
-            "reform u.k.",
-            "political party"
+            "boat carrying dozens",
+            "tourists capsizes",
+            "phu quoc"
         ]
     },
     {
-        "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
-        "link": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
-        "summary": "The American works for a humanitarian organization in Congo, the Centers for Disease Control and Prevention said.",
+        "title": "Iran\u2019s Top Diplomat Is in Oman for Talks on Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
+        "summary": "The visit comes after heavy clashes this week between the U.S. and Iran. On Saturday, the countrys supreme leader vowed revenge for his fathers killing.",
         "source": "NYT > World News",
-        "objectivity_score": 27,
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "u.s. citizen tests positive",
-            "democratic republic",
-            "american works"
+            "top diplomat",
+            "heavy clashes",
+            "supreme leader"
+        ]
+    },
+    {
+        "title": "Gravitational Pull",
+        "link": "https://www.nytimes.com/2026/07/11/briefing/gravitational-pull.html",
+        "summary": "We think and dream and fuss and project entire worlds into existence. Meanwhile, the earths orbit continues and the sun goes on shining.",
+        "source": "NYT > World News",
+        "objectivity_score": 62,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "gravitational pull",
+            "entire worlds",
+            "earths orbit"
+        ]
+    },
+    {
+        "title": "Inside the Canadian Lab Burning Down Buildings to Save Them",
+        "link": "https://www.nytimes.com/2026/07/11/world/canada/wildfires-prevention-testing-canada.html",
+        "summary": "At the national fire safety facility in Ottawa, scientists and engineers are increasingly focused on the threat from the forest.",
+        "source": "NYT > World News",
+        "objectivity_score": 28,
+        "sentiment": "Negative",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "lab burning down buildings",
+            "save them",
+            "national fire safety facility"
+        ]
+    },
+    {
+        "title": "Hot Weather Sets Off Scramble for Outdoor Swimming in London",
+        "link": "https://www.nytimes.com/2026/07/11/world/europe/london-outdoor-swimming-heat-wave-uk.html",
+        "summary": "In an ever hotter city, the competition for pools is fierce. Some swimmers are turning to ponds and canals, which come with their own problems.",
+        "source": "NYT > World News",
+        "objectivity_score": 92,
+        "sentiment": "Positive",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "hot weather sets off scramble",
+            "outdoor swimming",
+            "hotter city"
         ]
     },
     {
@@ -1657,63 +1717,18 @@
         ]
     },
     {
-        "title": "Museum Spreads 800 Pounds of Peanut Butter in Tribute to Dutch Artist",
-        "link": "https://www.nytimes.com/2026/07/10/arts/dutch-museum-peanut-butter-floor-art-wim-schippers.html",
-        "summary": "An installation honoring the artist, Wim T. Schippers, features a 270-square-foot hexagon spread on the floor of a museum in Rotterdam.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "peanut butter",
-            "wim t. schippers",
-            "270-square-foot hexagon"
-        ]
-    },
-    {
-        "title": "Ghanaian Influencer Is Extradited Over Romance Scam Targeting Older Americans",
-        "link": "https://www.nytimes.com/2026/07/10/us/ghana-romance-scam-us-extradition-abu-trica.html",
-        "summary": "Prosecutors accused Frederick Kumi of running a scheme that defrauded Americans out of $8 million. He was flown to the United States on Thursday, his lawyer said.",
-        "source": "NYT > World News",
-        "objectivity_score": 33,
+        "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+        "link": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+        "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents sayNigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-we...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 22,
         "sentiment": "Positive",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "ghanaian influencer",
-            "romance scam targeting older",
-            "frederick kumi"
-        ]
-    },
-    {
-        "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
-        "link": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html",
-        "summary": "U.S. forces hit more than 170 targets, including air defense systems, drone and missile storage sites, and military speedboats.",
-        "source": "NYT > World News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "trump says negotiations",
-            "iran will continue",
-            "ramps up strikes u.s."
-        ]
-    },
-    {
-        "title": "Passenger Is Partly Sucked Through Window on Ryanair Subsidiary Flight, Reports Say",
-        "link": "https://www.nytimes.com/2026/07/10/world/europe/ryanair-plane-greece-passenger-broken-window.html",
-        "summary": "A 61-year-old man was being treated for friction burns after a window was damaged during a flight from Greece to Germany. The flight was operated by the Ryanair subsidiary Malta Air.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "partly sucked",
-            "ryanair subsidiary",
-            "61-year-old man"
+            "north-western state",
+            "zamfara vigilantes",
+            "residents saynigerian soldiers"
         ]
     },
     {
@@ -1774,21 +1789,6 @@
             "\u2019 ingenious survival strategies",
             "human destruction",
             "red list reveals"
-        ]
-    },
-    {
-        "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
-        "link": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
-        "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along  it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven just as effective a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 56,
-        "sentiment": "Positive",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "homegrown oil",
-            "artificial chemical",
-            "homegrown catnip lotion"
         ]
     },
     {
@@ -1942,6 +1942,21 @@
         ]
     },
     {
+        "title": "Pianist Jayson Gillham \u2018very disappointed\u2019 after losing Melbourne Symphony Orchestra discrimination case",
+        "link": "https://www.theguardian.com/music/2026/jul/11/pianist-jayson-gillham-very-disappointed-after-losing-discrimination-case-against-melbourne-symphony-orchestra-ntwnfb",
+        "summary": "The federal court on Friday threw out the concert pianists case against the MSO, finding he was not unfairly dismissed due to Gaza war commentsGet our breaking news email, free app or daily news podca...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 66,
+        "sentiment": "Negative",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "pianist jayson gillham",
+            "symphony orchestra discrimination case",
+            "federal court"
+        ]
+    },
+    {
         "title": "Losing our religion? Australia would no longer be majority religious if format of census question changed, survey finds",
         "link": "https://www.theguardian.com/world/2026/jul/11/australia-would-not-be-majority-religious-if-census-question-changed-survey-finds",
         "summary": "Ahead of the census in August, campaign group suggests current poll design overstates the nations religiousnessGet our breaking news email, free app or daily news podcastAustralia would no longer be a...",
@@ -2002,18 +2017,33 @@
         ]
     },
     {
-        "title": "Journalist Richard Guilliatt resigns from Walkley awards board after critic wins reporting prize",
-        "link": "https://www.theguardian.com/media/2026/jul/11/shadow-of-doubt-podcast-journalist-richard-guilliatt-walkley-awards-ntwnfb",
-        "summary": "Exclusive: Resignation comes after abuse survivor said she was devastated her father, who was jailed for 48 years, was interviewed for the Shadow of Doubt podcastGet our breaking news email, free app ...",
+        "title": "Alfred Dreyfus statue to finally receive permanent home in central Paris",
+        "link": "https://www.theguardian.com/world/2026/jul/11/alfred-dreyfus-statue-permanent-spot-central-paris-france",
+        "summary": "Sculpture of Jewish army officer wrongly accused of treason has been moved around the city for decadesFor 40 years, the statue of Capt Alfred Dreyfus has been moved around Paris, never finding a perma...",
         "source": "World news | The Guardian",
-        "objectivity_score": 60,
-        "sentiment": "Positive",
+        "objectivity_score": 49,
+        "sentiment": "Negative",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "journalist richard guilliatt",
-            "awards board",
-            "abuse survivor"
+            "alfred dreyfus",
+            "permanent home",
+            "paris sculpture"
+        ]
+    },
+    {
+        "title": "\u2018Politicians have always been schemers\u2019: upheld conviction fails to dent Le Pen\u2019s popularity",
+        "link": "https://www.theguardian.com/world/2026/jul/11/upheld-conviction-le-pen-popularity-france",
+        "summary": "Presidential bid by leader of far-right National Rally has no shortage of supporters in scenic MontargisIn the small French town of Montargis, Jean-Antoine, a retired decorator, was pleased Marine Le ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "schemers \u2019",
+            "\u2019 s popularity",
+            "presidential bid"
         ]
     },
     {
@@ -2059,36 +2089,6 @@
             "wildfire kills",
             "spain twenty-three",
             "british woman"
-        ]
-    },
-    {
-        "title": "High court rejects most of \u2018dieselgate\u2019 claims brought by 1.6m UK car owners",
-        "link": "https://www.theguardian.com/business/2026/jul/10/high-court-rejects-most-of-dieselgate-claims-brought-by-16m-uk-car-owners",
-        "summary": "Carmakers welcome ruling against suit claiming manufacturers including Nissan, Ford and Peugeot fitted devices to defeat emission testsCar manufacturers have welcomed a high court verdict that rejecte...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 63,
-        "sentiment": "Positive",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "high court rejects",
-            "\u2018 dieselgate \u2019 claims",
-            "car owners"
-        ]
-    },
-    {
-        "title": "\u2018The worst possible combination\u2019: what has caused Spain\u2019s deadly wildfires?",
-        "link": "https://www.theguardian.com/world/2026/jul/10/unprecedented-deadly-wildfire-southern-spain-almeria-analysis",
-        "summary": "Blaze made worse by heat, strong wind and plentiful dry vegetation amid hollowing out of rural populationWildfire in southern Spain kills at least 12 amid heatwaveAs firefighters struggle to quell the...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Negative",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "possible combination \u2019",
-            "strong wind",
-            "plentiful dry vegetation"
         ]
     },
     {
@@ -2242,78 +2242,138 @@
         ]
     },
     {
-        "title": "John Humphrys criticises successors on \u2018irritating\u2019 Today programme",
-        "link": "https://www.theguardian.com/media/2026/jul/11/john-humphrys-today-programmme-bbc-radio-4-irritating",
-        "summary": "Ex-presenter of BBC Radio 4 show complains in Guardian of gratuitous gratitude and gushing between host and guestFor more than three decades, John Humphrys delighted and infuriated listeners in equal ...",
+        "title": "Probation hostels in England and Wales forced to shut after staffing crisis",
+        "link": "https://www.theguardian.com/society/2026/jul/11/probation-hostels-prisons-england-wales-closure-staffing-crisis",
+        "summary": "Watchdog says public being put in danger by closure of premises that accommodate most dangerous offendersNearly one in ten probation hostels where England and Wales most dangerous offenders live after...",
         "source": "World news | The Guardian",
-        "objectivity_score": 53,
+        "objectivity_score": 39,
         "sentiment": "Neutral",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "john humphrys",
-            "criticises successors",
-            "gratuitous gratitude"
+            "probation hostels",
+            "dangerous offenders",
+            "crisis.as ministers"
         ]
     },
     {
-        "title": "World Cup quarter-final expected to generate \u00a3500m sales boost for UK economy",
-        "link": "https://www.theguardian.com/business/2026/jul/11/world-cup-quarter-finals-expected-to-generate-half-billion-pound-sales-rise-for-uk-economy",
-        "summary": "As England prepare to take on Norway on Saturday, sales of pints, takeaways and new TVs continue to surgeFrom a cosy Norwegian pub to outdoor fan zones packed with hopeful England football fans, Satur...",
+        "title": "Ann Widdecombe: police believe former MP was attacked almost 24 hours before being found dead \u2013 latest updates",
+        "link": "https://www.theguardian.com/uk-news/live/2026/jul/11/ann-widdecombe-murder-investigation-latest-news-updates",
+        "summary": "Devon and Cornwall force now looking for suspect believed to be a white male after man arrested on Friday was released without chargeAlison and Simon Gilbert, who have lived in in Haytor Vale for over...",
         "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Neutral",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "world cup quarter-final",
-            "generate \u00a3500m sales",
-            "outdoor fan zones"
-        ]
-    },
-    {
-        "title": "Man arrested on suspicion of Ann Widdecombe\u2019s murder is released",
-        "link": "https://www.theguardian.com/uk-news/2026/jul/11/man-arrested-on-suspicion-of-ann-widdecombes-is-released-not-part-of-investigation",
-        "summary": "The 26-year-old man is no longer part of the investigation, Devon and Cornwall police sayA 26-year-old man who was arrested on suspicion of the murder of the former MP Ann Widdecombe has been released...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
+        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
             "ann widdecombe",
-            "\u2019 s murder",
-            "26-year-old man"
+            "dead \u2013",
+            "simon gilbert"
         ]
     },
     {
-        "title": "Labour MPs call for Andy Burnham to restore aid spending target set by Brown",
-        "link": "https://www.theguardian.com/global-development/2026/jul/11/labour-mps-andy-burnham-overseas-aid-development-spending-levels",
-        "summary": "Thinktank urges prospective prime minister to reclaim UKs role as an international leader on developmentInfluential backbenchers are calling on Andy Burnham to reclaim Labours leadership on internatio...",
+        "title": "TV presenter Dermot Murnaghan dies of prostate cancer, aged 68",
+        "link": "https://www.theguardian.com/tv-and-radio/2026/jul/11/tv-presenter-dermot-murnaghan-dies-after-being-ill-with-prostate-cancer",
+        "summary": "The former ITV, BBC and Sky News journalist died peacefully at home in London on Saturday, his family sayThe former BBC and Sky News presenter Dermot Murnaghan has died aged 68 after a period of illne...",
         "source": "World news | The Guardian",
-        "objectivity_score": 11,
+        "objectivity_score": 24,
         "sentiment": "Neutral",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "labour mps",
-            "andy burnham",
-            "restore aid spending target"
+            "tv presenter",
+            "dermot murnaghan",
+            "prostate cancer"
         ]
     },
     {
-        "title": "\u2018Children were calling for their mummies\u2019: UK pupils struggle in 40C-plus classrooms",
-        "link": "https://www.theguardian.com/education/2026/jul/11/uk-pupils-struggle-extreme-heat-schools-classrooms",
-        "summary": "Teachers call for schools to be urgently adapted for hot weather amid reports of nausea, fainting and heatstrokeThe extreme heat that has hit the UK twice in the past few weeks has left teachers strug...",
+        "title": "Levi Bellfield to have DNA test in connection with Lin and Megan Russell murders",
+        "link": "https://www.theguardian.com/law/2026/jul/11/levi-bellfield-to-have-dna-test-in-connection-with-lin-and-megan-russell-murders",
+        "summary": "Exclusive: CCRC will test serial killer as part of inquiry into whether Michael Stone was wrongly convicted of 1996 murdersThe serial killer Levi Bellfield will have his DNA taken in an attempt to est...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 95,
+        "sentiment": "Negative",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "levi bellfield",
+            "megan russell",
+            "test serial killer"
+        ]
+    },
+    {
+        "title": "NHS anaesthetist shortage prevents 1.5m operations a year, report finds",
+        "link": "https://www.theguardian.com/society/2026/jul/11/nhs-anaesthetist-shortage-prevents-operations",
+        "summary": "Exclusive: Alarming shortfall of specialists stops about 4,000 procedures a day, many for patients in urgent need of surgeryThe NHS is unable to perform 1.5m operations a year because of a drastic sho...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 52,
         "sentiment": "Neutral",
         "date": "2026-07-11",
         "image_url": null,
         "keywords": [
-            "mummies \u2019",
-            "pupils struggle",
-            "40c-plus classrooms"
+            "anaesthetist shortage prevents 1.5m operations",
+            "specialists stops",
+            "urgent need"
+        ]
+    },
+    {
+        "title": "More than 200 people at summer camp airlifted to safety as Missouri faces flooding",
+        "link": "https://www.theguardian.com/us-news/2026/jul/11/missouri-flooding-airlift-rescue",
+        "summary": "Another 20 people were rescued from a campground after a building collapsed due to heavy rain and floodingHeavy rainfall and widespread flooding battered parts of Missouri on Friday, forcing the helic...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 49,
+        "sentiment": "Positive",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "summer camp",
+            "heavy rain",
+            "floodingheavy rainfall"
+        ]
+    },
+    {
+        "title": "Drones are detecting more sharks at US beaches but do they make public safer?",
+        "link": "https://www.theguardian.com/environment/2026/jul/11/sharks-drones-public-safety-beaches",
+        "summary": "Increase in sightings may not reflect increase in sharks with little evidence that threat to swimmers has risenExperts say that despite recent increased investment in drones to monitor for sharks in s...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "us beaches",
+            "public safer",
+            "reflect increase"
+        ]
+    },
+    {
+        "title": "Datacentres drive up big tech\u2019s carbon emissions to a third of those of France",
+        "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+        "summary": "Microsoft, Amazon and Google say they still aim to achieve net zero output despite construction boomMicrosoft, Amazon and Googles collective carbon emissions have increased by nearly a fifth in the pa...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 14,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "big tech \u2019 s carbon emissions",
+            "france microsoft",
+            "net zero output"
+        ]
+    },
+    {
+        "title": "Mitch McConnell mystery deepens as health questions remain unanswered",
+        "link": "https://www.theguardian.com/us-news/2026/jul/11/mitch-mcconnell-senator-health",
+        "summary": "Senators office has released only sparse details about hospital stay, leaving fevered speculation to fill vacuumMystery surrounding Senator Mitch McConnells health is deepening as the US Congress prep...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
+        "date": "2026-07-11",
+        "image_url": null,
+        "keywords": [
+            "mitch mcconnell",
+            "mystery deepens",
+            "health questions"
         ]
     },
     {
@@ -2329,66 +2389,6 @@
             "muse image ai",
             "mark \u2019",
             "users \u2019 privacy"
-        ]
-    },
-    {
-        "title": "Crews again drain Trump\u2019s troubled reflecting pool",
-        "link": "https://www.theguardian.com/us-news/2026/jul/10/washington-reflecting-pool-trump",
-        "summary": "Workers observed draining water from Lincoln Memorial pool plagued by algae blooms and peeling paintCrews were observed Friday draining the plagued Lincoln Memorial reflecting pool, a landmark at the ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 53,
-        "sentiment": "Negative",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "memorial pool",
-            "algae blooms",
-            "donald trumps"
-        ]
-    },
-    {
-        "title": "Man who was killed by ICE in Texas never \u2018weaponized\u2019 his vehicle, witnesses say",
-        "link": "https://www.theguardian.com/us-news/2026/jul/10/texas-man-ice-immigration",
-        "summary": "Lawyer says men who were riding in van are being pressured to self-deport as footage of incident is reportedly with investigatorsSign up for the Breaking News US newsletter emailThe three men who were...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "news us newsletter emailthe",
-            "federal immigration officials shot",
-            "administrations narrative"
-        ]
-    },
-    {
-        "title": "\u2018Death sentence\u2019: Trump\u2019s EPA to open habitats of endangered species to logging and mining",
-        "link": "https://www.theguardian.com/us-news/2026/jul/10/epa-rollback-endangered-habitats-logging-mining",
-        "summary": "Habitat destruction strongest driver of species loss, with legislation keeping 99% of listed species from going extinctThe Trump administration repealed a crucial part of the Endangered Species Act (E...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Neutral",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "sentence \u2019",
-            "species loss",
-            "crucial part"
-        ]
-    },
-    {
-        "title": "Graham Platner officially withdraws candidacy for US Senate in Maine",
-        "link": "https://www.theguardian.com/us-news/2026/jul/10/graham-platner-maine-senate-officially-withdraws",
-        "summary": "Paperwork ends Democratic campaign laden with scandals, including most recently accusations of sexual assaultGraham Platner, the Democratic nominee for US Senate in Maine, officially withdrew his cand...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 53,
-        "sentiment": "Positive",
-        "date": "2026-07-11",
-        "image_url": null,
-        "keywords": [
-            "graham platner",
-            "withdraws candidacy",
-            "us senate"
         ]
     }
 ]
