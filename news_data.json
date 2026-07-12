@@ -737,22 +737,22 @@
         ]
     },
     {
-        "title": "'Man of all the moments' - Bellingham gives England the lead",
-        "link": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami.",
+        "title": "Watch full highlights as England ride luck in fierce Miami heat",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss",
+        "summary": "Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat Norway 2-1 in Miami to reach the World Cup semi-finals.",
         "source": "BBC News",
-        "objectivity_score": 16,
-        "sentiment": "Negative",
+        "objectivity_score": 62,
+        "sentiment": "Neutral",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
+            "full highlights",
             "jude bellingham",
-            "extra time",
-            "world cup quarter-final"
+            "extra-time winner"
         ]
     },
     {
-        "title": "Man arrested on suspicion of murder of Ann Widdecombe",
+        "title": "Man arrested in South Yorkshire on suspicion of Ann Widdecombe murder",
         "link": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss",
         "summary": "A 28-year-old white British national has been arrested in South Yorkshire, police say.",
         "source": "BBC News",
@@ -765,9 +765,24 @@
         ]
     },
     {
+        "title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+        "summary": "The influential politician has just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+        "source": "BBC News",
+        "objectivity_score": 41,
+        "sentiment": "Neutral",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "us senator",
+            "lindsey graham",
+            "sudden illness"
+        ]
+    },
+    {
         "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
         "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-        "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+        "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
         "source": "BBC News",
         "objectivity_score": 65,
         "sentiment": "Positive",
@@ -795,33 +810,62 @@
         ]
     },
     {
-        "title": "Tributes paid to TV presenter Dermot Murnaghan",
-        "link": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo?at_medium=RSS&at_campaign=rss",
-        "summary": "The former BBC, ITV and Sky News journalist has died after revealing he had stage four prostate cancer.",
+        "title": "Tuchel angry at 'lucky' England - but Bellingham defends players",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss",
+        "summary": "England head coach Thomas Tuchel is praised by former England players for saying his players \"got lucky\" in World Cup quarter-final win over Norway - but match-winner Jude Bellingham disagrees.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 61,
+        "sentiment": "Positive",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "tv presenter",
-            "dermot murnaghan",
-            "news journalist"
+            "head coach",
+            "thomas tuchel",
+            "world cup quarter-final"
         ]
     },
     {
-        "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
-        "link": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM.",
+        "title": "'The perfect football song': Why England fans (like Beckham) and players love Wonderwall",
+        "link": "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo?at_medium=RSS&at_campaign=rss",
+        "summary": "David Beckham joined in with the latest Oasis singalong, following England's World Cup win in Miami.",
+        "source": "BBC News",
+        "objectivity_score": 60,
+        "sentiment": "Positive",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "perfect football song",
+            "wonderwall david beckham",
+            "'s world cup"
+        ]
+    },
+    {
+        "title": "Bellingham reaching heights of World Cup legends with Messi next",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Jude Bellingham again dazzles England and the World Cup with his brilliance, matching some records of the all-time greats.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "needs worked-through plan",
-            "laura kuenssberg",
-            "stable economy"
+            "world cup legends",
+            "jude bellingham",
+            "world cup"
+        ]
+    },
+    {
+        "title": "'We should all be excited' - Messi set for first England meeting",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Lionel Messi is set for his first match against England after Argentina beat Switzerland in the World Cup quarter-finals.",
+        "source": "BBC News",
+        "objectivity_score": 47,
+        "sentiment": "Positive",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "lionel messi",
+            "world cup quarter-finals"
         ]
     },
     {
@@ -835,35 +879,6 @@
         "image_url": null,
         "keywords": [
             "world cup"
-        ]
-    },
-    {
-        "title": "'He has dragged them through all tournament' - England player ratings",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport's England reporter Alex Howell rates the players after the Three Lions beat Norway to reach the World Cup semi-finals.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "player ratings",
-            "bbc sport",
-            "alex howell"
-        ]
-    },
-    {
-        "title": "BBC to show England's World Cup semi-final",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo?at_medium=RSS&at_campaign=rss",
-        "summary": "England's World Cup semi-final against Argentina or Switzerland will be broadcast live on BBC One and BBC iPlayer.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "'s world cup semi-final",
-            "'s world cup semi-final"
         ]
     },
     {
@@ -926,74 +941,18 @@
         ]
     },
     {
-        "title": "Five key scenes from the Bayeux Tapestry, and the story they tell",
-        "link": "https://www.bbc.co.uk/news/articles/c4gy1xg9z0mo?at_medium=RSS&at_campaign=rss",
-        "summary": "It depicts a medieval game of thrones as William the Conquerer did battle with King Harold to rule England.",
+        "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+        "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
         "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Negative",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "key scenes",
-            "bayeux tapestry",
-            "medieval game"
-        ]
-    },
-    {
-        "title": "Ann Widdecombe murder probe: What we know so far",
-        "link": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss",
-        "summary": "The former MP was found dead at her home in Haytor, Devon, on Thursday morning.",
-        "source": "BBC News",
-        "objectivity_score": 46,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "ann widdecombe"
-        ]
-    },
-    {
-        "title": "At least two killed in Toronto street festival shooting",
-        "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
-        "summary": "Police have urged the public to stay away from the area.",
-        "source": "BBC News",
-        "objectivity_score": 15,
-        "sentiment": "Negative",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "street festival shooting"
-        ]
-    },
-    {
-        "title": "Prince Harry talks grief, stress and loss in final event of UK trip",
-        "link": "https://www.bbc.co.uk/news/articles/c5yzn9xqz0po?at_medium=RSS&at_campaign=rss",
-        "summary": "The Duke of Sussex rounded off his visit by meeting bereaved children and young people - and doing yoga with goats.",
-        "source": "BBC News",
-        "objectivity_score": 53,
-        "sentiment": "Negative",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "talks grief",
-            "final event",
-            "young people"
-        ]
-    },
-    {
-        "title": "'Fresh arrest in killing of Widdecombe' and 'Saved by the Bell'",
-        "link": "https://www.bbc.co.uk/news/articles/cdr488kl1j5o?at_medium=RSS&at_campaign=rss",
-        "summary": "New arrest after death of Ann Widdecombe and Bellingham brings it home for England leads Sunday's papers.",
-        "source": "BBC News",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "'fresh arrest",
-            "new arrest",
-            "ann widdecombe"
+            "us supermarkets",
+            "almond butter",
+            "german supermarket 's $ 9bn us"
         ]
     },
     {
@@ -1012,146 +971,149 @@
         ]
     },
     {
-        "title": "Watch: 'We escaped Spanish wildfire, but our friends lost their lives'",
-        "link": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Hundreds of firefighters in Spain have been battling a deadly wildfire in the south of the country.",
+        "title": "'Exceptional' wildfire risk for parts of UK as heat health alerts issued",
+        "link": "https://www.bbc.co.uk/weather/articles/ce8mrn49gndo?at_medium=RSS&at_campaign=rss",
+        "summary": "The warnings come as parts of the UK are set to enter their second week of temperatures above the heatwave threshold.",
         "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "spanish wildfire"
-        ]
-    },
-    {
-        "title": "Noskova, an astonishing Wimbledon fightback - and a kiss to the sky",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg85p1dp12o?at_medium=RSS&at_campaign=rss",
-        "summary": "Linda Noskova produces \"one of the all-time greatest efforts on Centre Court\" to win Wimbledon - and thanks her late mother, Ivana, for inspiring her.",
-        "source": "BBC News",
-        "objectivity_score": 70,
+        "objectivity_score": 36,
         "sentiment": "Positive",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "linda noskova",
-            "late mother"
+            "wildfire risk",
+            "heat health alerts",
+            "heatwave threshold"
         ]
     },
     {
-        "title": "Could Andy Burnham scrap stamp duty?",
-        "link": "https://www.bbc.co.uk/news/articles/c621jzex0gyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Andy Burnham has spoken about reforming stamp duty and council tax - what do experts think he might do when he becomes PM?",
+        "title": "Ann Widdecombe murder probe: What we know so far",
+        "link": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss",
+        "summary": "The former MP was found dead at her home in Haytor, Devon, on Thursday morning.",
+        "source": "BBC News",
+        "objectivity_score": 46,
+        "sentiment": "Neutral",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "ann widdecombe"
+        ]
+    },
+    {
+        "title": "Village in shock as 'horrific' Ann Widdecombe murder case unfolds",
+        "link": "https://www.bbc.co.uk/news/articles/c0ky0e147jzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The residents of a tiny Devon village are left in shock after the death of Ann Widdecombe.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "ann widdecombe",
+            "murder case unfolds",
+            "ann widdecombe"
+        ]
+    },
+    {
+        "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+        "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+        "source": "BBC News",
+        "objectivity_score": 63,
+        "sentiment": "Positive",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "powerful typhoon",
+            "landfall schools",
+            "outdoor activities"
+        ]
+    },
+    {
+        "title": "Champion Sinner wary of Zverev before Wimbledon final",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8dlpvxpvmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Recent history suggests Jannik Sinner should be confident of retaining his Wimbledon title - but he is wary of French Open champion Alexander Zverev.",
+        "source": "BBC News",
+        "objectivity_score": 56,
+        "sentiment": "Neutral",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "history suggests",
+            "jannik sinner",
+            "open champion"
+        ]
+    },
+    {
+        "title": "'Fresh arrest in killing of Widdecombe' and 'Saved by the Bell'",
+        "link": "https://www.bbc.co.uk/news/articles/cdr488kl1j5o?at_medium=RSS&at_campaign=rss",
+        "summary": "New arrest after death of Ann Widdecombe and Bellingham brings it home for England leads Sunday's papers.",
+        "source": "BBC News",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "'fresh arrest",
+            "new arrest",
+            "ann widdecombe"
+        ]
+    },
+    {
+        "title": "My son's ultra-rare diagnosis took eight years",
+        "link": "https://www.bbc.co.uk/news/articles/czj82yxz3ewo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ben struggled to feed, failed to reach developmental milestones and had surgery to remove cataracts.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Negative",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "son 's ultra-rare diagnosis",
+            "developmental milestones"
+        ]
+    },
+    {
+        "title": "Berlin Wall in garden breaches planning rules",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzeegpxe3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Steven Thorpe is told he has breached planning rules by installing a chunk of the wall by his house.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "andy burnham",
-            "scrap stamp duty",
-            "andy burnham"
+            "berlin wall",
+            "garden breaches",
+            "steven thorpe"
         ]
     },
     {
-        "title": "Man believed to be carrying crossbow shot by police in Newport",
-        "link": "https://www.bbc.co.uk/news/articles/cg74xpemg1eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Police were called to an address in Newport on Friday night following reports of threatening behaviour.",
+        "title": "Artist sells garbage collected outside Taylor Swift's wedding",
+        "link": "https://www.bbc.co.uk/news/videos/c9d2w62ngd9o?at_medium=RSS&at_campaign=rss",
+        "summary": "The cubes of trash artist Justin Gignac called \"Pocket Garbage\" were priced at $25 (18) and $100 (74), and sold out online.",
         "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 5,
         "sentiment": "Neutral",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "crossbow shot"
+            "taylor swift",
+            "'s wedding",
+            "trash artist"
         ]
     },
     {
-        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-        "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-        "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+        "title": "Women-only gig group grows to 700 members",
+        "link": "https://www.bbc.co.uk/news/articles/cvgl8zn9vlvo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Girly Gig Army allows women to go to events together in Eastbourne, Hastings and Brighton.",
         "source": "BBC News",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "air force",
-            "legal summons",
-            "security issues"
-        ]
-    },
-    {
-        "title": "China's second typhoon in a week makes landfall",
-        "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-        "source": "BBC News",
-        "objectivity_score": 20,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "china's"
-        ]
-    },
-    {
-        "title": "I asked Bonnie Tyler for an autograph at 15 - then spent Christmas with her for 30 years",
-        "link": "https://www.bbc.co.uk/news/articles/c9v29w2evv9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Rob Marshall's friendship with Tyler began when he knocked on her door to ask her to sign a tape.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "bonnie tyler",
-            "rob marshall",
-            "'s friendship"
-        ]
-    },
-    {
-        "title": "Couple to show England World Cup game at wedding reception",
-        "link": "https://www.bbc.co.uk/news/articles/cx2wzd4rnqno?at_medium=RSS&at_campaign=rss",
-        "summary": "Georgia Hallgalley and Jake Hawker are showing the match at their reception on Saturday.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "world cup game",
-            "wedding reception",
-            "georgia hallgalley"
-        ]
-    },
-    {
-        "title": "Sensory prom a 'perfect end' for school leavers with SEND",
-        "link": "https://www.bbc.co.uk/news/articles/cwykk87g4z0o?at_medium=RSS&at_campaign=rss",
-        "summary": "With the music not too loud and quiet rooms available, pupils with SEND leave their school days behind.",
-        "source": "BBC News",
-        "objectivity_score": 64,
-        "sentiment": "Positive",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "'perfect end",
-            "school leavers",
-            "quiet rooms"
-        ]
-    },
-    {
-        "title": "Teen who helped improve tech for disabled honoured",
-        "link": "https://www.bbc.co.uk/news/articles/cnv9np04rl8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Harchie Sagoo, who had cerebral palsy, was a key product tester for Bristol-based Smartbox.",
-        "source": "BBC News",
-        "objectivity_score": 43,
-        "sentiment": "Neutral",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "harchie sagoo",
-            "cerebral palsy",
-            "key product tester"
+            "gig group",
+            "girly gig"
         ]
     },
     {
@@ -1169,106 +1131,152 @@
         ]
     },
     {
-        "title": "Andy Burnham (Almost) Wins",
-        "link": "https://www.bbc.co.uk/sounds/play/p0nx5fgs?at_medium=RSS&at_campaign=rss",
-        "summary": "Burnham on track to be next PM as 322 Labour MPs back him.",
+        "title": "What\u2019s Andy Burnham\u2019s plan to move power out of London?",
+        "link": "https://www.bbc.co.uk/sounds/play/p0nx5fjs?at_medium=RSS&at_campaign=rss",
+        "summary": "Adam and Alex take a deep dive into Andy Burnhams plan to move power out of London",
         "source": "BBC News",
-        "objectivity_score": 6,
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
             "andy burnham",
-            "wins burnham",
-            "labour mps"
+            "\u2019 s plan",
+            "deep dive"
         ]
     },
     {
-        "title": "After 250 years, do US citizens still believe in the American Dream?",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct8lz9?at_medium=RSS&at_campaign=rss",
-        "summary": "Historian Heather Cox Richardson on what history tells us about modern America",
+        "title": "The battle for Charlie Kirk\u2019s legacy",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzb?at_medium=RSS&at_campaign=rss",
+        "summary": "Will young people still vote Republican after Kirks death?",
         "source": "BBC News",
-        "objectivity_score": 15,
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "us citizens",
-            "historian heather cox richardson"
+            "charlie kirk",
+            "\u2019 s legacy",
+            "young people"
         ]
     },
     {
-        "title": "'He has dragged them through all tournament' - England player ratings",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport's England reporter Alex Howell rates the players after the Three Lions beat Norway to reach the World Cup semi-finals.",
+        "title": "Tuchel angry at 'lucky' England - but Bellingham defends players",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss",
+        "summary": "England head coach Thomas Tuchel is praised by former England players for saying his players \"got lucky\" in World Cup quarter-final win over Norway - but match-winner Jude Bellingham disagrees.",
+        "source": "BBC News",
+        "objectivity_score": 61,
+        "sentiment": "Positive",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "head coach",
+            "thomas tuchel",
+            "world cup quarter-final"
+        ]
+    },
+    {
+        "title": "Bellingham reaching heights of World Cup legends with Messi next",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Jude Bellingham again dazzles England and the World Cup with his brilliance, matching some records of the all-time greats.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "player ratings",
-            "bbc sport",
-            "alex howell"
+            "world cup legends",
+            "jude bellingham",
+            "world cup"
         ]
     },
     {
-        "title": "Who else? How Bellingham became indispensable again",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
-        "summary": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
-        "source": "BBC News",
-        "objectivity_score": 82,
-        "sentiment": "Positive",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "football correspondent",
-            "sami mokbel",
-            "jude bellingham"
-        ]
-    },
-    {
-        "title": "BBC to show England's World Cup semi-final",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo?at_medium=RSS&at_campaign=rss",
-        "summary": "England's World Cup semi-final against Argentina or Switzerland will be broadcast live on BBC One and BBC iPlayer.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "'s world cup semi-final",
-            "'s world cup semi-final"
-        ]
-    },
-    {
-        "title": "Bellingham scores extra-time winner as England reach semi-finals",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss",
-        "summary": "Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat Norway 2-1 in Miami to reach the World Cup semi-finals.",
+        "title": "McGregor injured 69 seconds into UFC comeback",
+        "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c9w2zgpnrqeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Conor McGregor's return to the octagon against Max Holloway at UFC 329 lasts just 69 seconds after the Irishman suffers a knee injury.",
         "source": "BBC News",
         "objectivity_score": 70,
         "sentiment": "Negative",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "scores extra-time winner",
-            "jude bellingham",
-            "extra-time winner"
+            "conor mcgregor",
+            "'s return",
+            "max holloway"
         ]
     },
     {
-        "title": "U.S. Strikes Iran After Iran Fires on Ship in Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
-        "summary": "Irans attack on a container ship came hours after a meeting between the foreign ministers of Iran and Oman about opening the strait to traffic.",
-        "source": "NYT > World News",
-        "objectivity_score": 12,
-        "sentiment": "Negative",
+        "title": "'We should all be excited' - Messi set for first England meeting",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Lionel Messi is set for his first match against England after Argentina beat Switzerland in the World Cup quarter-finals.",
+        "source": "BBC News",
+        "objectivity_score": 47,
+        "sentiment": "Positive",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "strikes iran",
-            "iran fires",
-            "hormuz irans"
+            "lionel messi",
+            "world cup quarter-finals"
+        ]
+    },
+    {
+        "title": "Champion Sinner wary of Zverev before Wimbledon final",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8dlpvxpvmo?at_medium=RSS&at_campaign=rss",
+        "summary": "Recent history suggests Jannik Sinner should be confident of retaining his Wimbledon title - but he is wary of French Open champion Alexander Zverev.",
+        "source": "BBC News",
+        "objectivity_score": 56,
+        "sentiment": "Neutral",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "history suggests",
+            "jannik sinner",
+            "open champion"
+        ]
+    },
+    {
+        "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
+        "link": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
+        "summary": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "typhoon bavi hits china",
+            "causing evacuations",
+            "delays typhoon bavi"
+        ]
+    },
+    {
+        "title": "How Putin Turned Japan Into a Den of Spies",
+        "link": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
+        "summary": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
+        "source": "NYT > World News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "putin turned japan",
+            "military intelligence unit",
+            "high-tech equipment"
+        ]
+    },
+    {
+        "title": "As India Erases Its Colonial Past, Delhi\u2019s Elite Feel Targeted",
+        "link": "https://www.nytimes.com/2026/07/12/world/asia/india-gymkhana-club-eviction-colonialism.html",
+        "summary": "Indias government wants to shut down Delhis Gymkhana Club, which the prime minister calls a vestige of colonialism. Some members suspect a different motive.",
+        "source": "NYT > World News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "india erases",
+            "elite feel targeted indias",
+            "delhis gymkhana"
         ]
     },
     {
@@ -1549,6 +1557,21 @@
         ]
     },
     {
+        "title": "U.S. Strikes Iran After Iran Fires on Ship in Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
+        "summary": "Irans attack on a container ship came hours after a meeting between the foreign ministers of Iran and Oman about opening the strait to traffic.",
+        "source": "NYT > World News",
+        "objectivity_score": 12,
+        "sentiment": "Negative",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "strikes iran",
+            "iran fires",
+            "hormuz irans"
+        ]
+    },
+    {
         "title": "Gravitational Pull",
         "link": "https://www.nytimes.com/2026/07/11/briefing/gravitational-pull.html",
         "summary": "We think and dream and fuss and project entire worlds into existence. Meanwhile, the earths orbit continues and the sun goes on shining.",
@@ -1579,7 +1602,7 @@
         ]
     },
     {
-        "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
+        "title": "After Being Delayed by Trump, a Canada-U.S. Bridge Is Set to Open",
         "link": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html",
         "summary": "A deal ended the Trump administrations blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
         "source": "NYT > World News",
@@ -1593,18 +1616,18 @@
         ]
     },
     {
-        "title": "Iranians Bury Slain Leader Amid Renewed Fighting",
-        "link": "https://www.nytimes.com/video/world/middleeast/100000011023379/iran-supreme-leader-khamenei-buried.html",
-        "summary": "Iranians mourning the countrys supreme leader condemned U.S. strikes that Washington called retaliation for Irans attacks on commercial ships in the Strait of Hormuz. At a tightly controlled state fun...",
-        "source": "NYT > World News",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
+        "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+        "link": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+        "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality ratesThere is no approved drug to help the me...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 27,
+        "sentiment": "Positive",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "iranians bury slain",
-            "amid renewed fighting iranians",
-            "supreme leader"
+            "treatment trial",
+            "mortality ratesthere",
+            "medical teams"
         ]
     },
     {
@@ -1668,33 +1691,33 @@
         ]
     },
     {
-        "title": "Species\u2019 ingenious survival strategies no match for human destruction, red list reveals",
-        "link": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
-        "summary": "Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by miningLife has colonised every corner of the planet by evolving ingenious survival strategies but t...",
+        "title": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
+        "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
+        "summary": "Discontent with Trump-backed government mounts as Chvez heirs struggle to respond to disaster for which they seem ill-preparedEven before two powerful earthquakes reduced the OPPE 25 government housin...",
         "source": "World news | The Guardian",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
+        "objectivity_score": 55,
+        "sentiment": "Positive",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "\u2019 ingenious survival strategies",
-            "human destruction",
-            "red list reveals"
+            "venezuela discontent",
+            "government mounts",
+            "heirs struggle"
         ]
     },
     {
-        "title": "Toronto shooting: two dead and four injured near street festival, with suspect still at large",
+        "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
         "link": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
-        "summary": "Police in the city in Canada say suspect has not been apprehended after finding six people with gunshot wounds near Salsa on St Clair FestivalA shooting near a Toronto street festival killed two peopl...",
+        "summary": "Police say two people exchanged gunfire in shooting that mayor called an irresponsible act of violence in festival attended by familiesA shooting near a Toronto street festival killed two men and woun...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
+        "objectivity_score": 26,
         "sentiment": "Neutral",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
+            "st clair",
             "street festival",
-            "gunshot wounds",
-            "st clair festivala"
+            "irresponsible act"
         ]
     },
     {
@@ -1740,21 +1763,6 @@
             "hearing appeal",
             "anti-gay law",
             "challenging ruling"
-        ]
-    },
-    {
-        "title": "French prosecutors investigate racist abuse of Kylian Mbapp\u00e9 by Paraguayan senator",
-        "link": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
-        "summary": "Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup matchProsecutors in France have opened an investigation into the racist attack on...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 17,
-        "sentiment": "Negative",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "racist abuse",
-            "kylian mbapp\u00e9",
-            "celeste amarilla"
         ]
     },
     {
@@ -1833,32 +1841,32 @@
         ]
     },
     {
-        "title": "Australia news live: defence industry minister \u2018confident\u2019 uranium sold to India will only be used for domestic energy",
-        "link": "https://www.theguardian.com/australia-news/live/2026/jul/12/anthony-albanese-pat-conroy-labor-liberal-angus-taylor-one-nation-ntwnfb",
-        "summary": "Pat Conroy defended the deal allowing India to buy Australian uranium despite not being a signatory to the international nuclear non-proliferation treaty. Follow the days news liveGet our breaking new...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Positive",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "defence industry minister \u2018",
-            "confident \u2019 uranium",
-            "domestic energy"
-        ]
-    },
-    {
-        "title": "Man charged with murder after remains believed to be missing woman found in Queensland bushland",
+        "title": "Missing woman\u2019s former partner charged with murder after remains found in Queensland bushland",
         "link": "https://www.theguardian.com/australia-news/2026/jul/12/missing-woman-jana-armstrong-queensland-man-charged-murder-ntwnfb",
-        "summary": "Toowoomba woman Jana Armstrong was last seen several days agoFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPolice have charged a man ...",
+        "summary": "Toowoomba woman Jana Armstrong, mother of a four-month-old baby, was last seen on TuesdayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podca...",
         "source": "World news | The Guardian",
-        "objectivity_score": 26,
+        "objectivity_score": 24,
         "sentiment": "Neutral",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
+            "woman \u2019 s",
             "jana armstrong",
-            "days agofollow",
+            "four-month-old baby"
+        ]
+    },
+    {
+        "title": "Victorian crossbench MP warns voting system overhaul must be backed by broader reform \u2013 as it happened",
+        "link": "https://www.theguardian.com/australia-news/live/2026/jul/12/anthony-albanese-pat-conroy-labor-liberal-angus-taylor-one-nation-ntwnfb",
+        "summary": "This blog is now closed.Get our breaking news email, free app or daily news podcastVictorian Animal Justice party MP Georgie Purcell says abolishing the states group voting ticket system without any o...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 49,
+        "sentiment": "Positive",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "system overhaul",
+            "broader reform \u2013",
             "news email"
         ]
     },
@@ -1905,6 +1913,21 @@
             "economic pessimism",
             "\u2018 stagflation impulse \u2019",
             "pauline hanson"
+        ]
+    },
+    {
+        "title": "EU accused of dragging its feet over ban on trade with illegal Israeli settlements",
+        "link": "https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements",
+        "summary": "Foreign ministers will discuss options on Monday but decision on imports is not expected for months  The EU has been accused of dragging its feet over upholding international law, on the eve of a long...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
+        "sentiment": "Negative",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "foreign ministers",
+            "international law",
+            "foreign ministers meeting"
         ]
     },
     {
@@ -1968,27 +1991,12 @@
         ]
     },
     {
-        "title": "Haaland\u2019s hometown hails \u2018little boy who grew into a huge Viking\u2019",
-        "link": "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans",
-        "summary": "The people of Bryne are proud of local heros rise to the top of world football as Norway prepare to face EnglandSurrounded by red hats, No 9 shirts and Erling Haaland action toys at her fabric shop in...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s hometown hails \u2018",
-            "local heros rise",
-            "world football"
-        ]
-    },
-    {
         "title": "US and Iran exchange strikes as Tehran again says strait of Hormuz is closed",
         "link": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
-        "summary": "Tehran says vessel using unapproved route in strait was struck, drawing strikes from US forces to degrade Irans ability to attack civilian marinersIrans Islamic Revolutionary Guard Corps said on Sunda...",
+        "summary": "Tehran says vessel using unapproved route in strait was struck, drawing strikes from US forces to degrade Irans ability to attack civilian marinersIran and the US exchanged fresh strikes early on Sund...",
         "source": "World news | The Guardian",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
@@ -2133,6 +2141,21 @@
         ]
     },
     {
+        "title": "UK to crack down on unlicensed casinos sponsoring football teams",
+        "link": "https://www.theguardian.com/society/2026/jul/12/uk-unlicensed-casinos-football-sponsorship-gambling-commission",
+        "summary": "Government to launch consultation after Evertons deal with Stake.com went ahead amid warnings from Gambling CommissionMinisters are poised to launch a crackdown on unlicensed casinos sponsoring Britis...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 14,
+        "sentiment": "Neutral",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "football teams government",
+            "launch consultation",
+            "gambling commissionministers"
+        ]
+    },
+    {
         "title": "Man, 28, arrested over murder of former MP Ann Widdecombe",
         "link": "https://www.theguardian.com/politics/2026/jul/11/ann-widdecombe-killed-24-hours-before-body-found",
         "summary": "Suspect arrested in South Yorkshire after ex-politician was found dead at her Devon home on ThursdayA 28-year-old man has been arrested on suspicion of the murder of Ann Widdecombe, police said.The su...",
@@ -2193,18 +2216,33 @@
         ]
     },
     {
-        "title": "Probation hostels in England and Wales forced to shut after staffing crisis",
-        "link": "https://www.theguardian.com/society/2026/jul/11/probation-hostels-prisons-england-wales-closure-staffing-crisis",
-        "summary": "Watchdog says public being put in danger by closure of premises that accommodate most dangerous offendersNearly one in ten probation hostels where England and Wales most dangerous offenders live after...",
+        "title": "Lindsey Graham, key ally of Donald Trump, has died after sudden illness, his office says",
+        "link": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says",
+        "summary": "Republican senator had served in the Senate since 2003 and was a sharp critic of Trump before becoming one of his most loyal backersLindsey Graham, a longtime US senator and key ally of Donald Trump, ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 72,
+        "sentiment": "Positive",
+        "date": "2026-07-12",
+        "image_url": null,
+        "keywords": [
+            "lindsey graham",
+            "key ally",
+            "donald trump"
+        ]
+    },
+    {
+        "title": "US allies apprehensive after capricious Trump changes tune at Nato summit",
+        "link": "https://www.theguardian.com/us-news/2026/jul/12/trump-nato-summit-ankara",
+        "summary": "Sudden shift may be linked to affinity for Erdoan but what might be consequences of erratic behavior towards alliance?Donald Trumps relationship with Washingtons Nato allies is nobodys idea of a happy...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
         "sentiment": "Neutral",
         "date": "2026-07-12",
         "image_url": null,
         "keywords": [
-            "probation hostels",
-            "dangerous offenders",
-            "crisis.as ministers"
+            "us allies apprehensive",
+            "changes tune",
+            "erratic behavior"
         ]
     },
     {
@@ -2250,36 +2288,6 @@
             "new air force",
             "grand jury",
             "new plane"
-        ]
-    },
-    {
-        "title": "More than 200 people at summer camp airlifted to safety as Missouri faces flooding",
-        "link": "https://www.theguardian.com/us-news/2026/jul/11/missouri-flooding-airlift-rescue",
-        "summary": "Another 20 people were rescued from a campground after a building collapsed due to heavy rain and floodingHeavy rainfall and widespread flooding battered parts of Missouri on Friday, forcing the helic...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Positive",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "summer camp",
-            "heavy rain",
-            "floodingheavy rainfall"
-        ]
-    },
-    {
-        "title": "Drones are detecting more sharks at US beaches, but do they make the public safer?",
-        "link": "https://www.theguardian.com/environment/2026/jul/11/sharks-drones-public-safety-beaches",
-        "summary": "Increase in sightings may not reflect increase in sharks with little evidence that threat to swimmers has risenExperts say that despite recent increased investment in drones to monitor for sharks in s...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 27,
-        "sentiment": "Neutral",
-        "date": "2026-07-12",
-        "image_url": null,
-        "keywords": [
-            "us beaches",
-            "public safer",
-            "reflect increase"
         ]
     }
 ]
