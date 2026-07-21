@@ -737,19 +737,6 @@
         ]
     },
     {
-        "title": "Burnham pledges to 'bring back hope' as he makes Healey chancellor",
-        "link": "https://www.bbc.co.uk/news/articles/cvg9w2e29eno?at_medium=RSS&at_campaign=rss",
-        "summary": "The new prime minister pledged to make announcements this week to \"give people some breathing space\".",
-        "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "new prime minister"
-        ]
-    },
-    {
         "title": "Who's in Andy Burnham's cabinet?",
         "link": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss",
         "summary": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham",
@@ -762,6 +749,21 @@
             "andy burnham",
             "'s cabinet",
             "in-depth look"
+        ]
+    },
+    {
+        "title": "Chris Mason: New chancellor faces tough spending choices",
+        "link": "https://www.bbc.co.uk/news/articles/c24mnnnd18do?at_medium=RSS&at_campaign=rss",
+        "summary": "The appointment of John Healey is particularly fascinating, writes BBC political editor Chris Mason.",
+        "source": "BBC News",
+        "objectivity_score": 55,
+        "sentiment": "Positive",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "chris mason",
+            "new chancellor",
+            "john healey"
         ]
     },
     {
@@ -782,7 +784,7 @@
     {
         "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
         "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-        "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+        "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
         "source": "BBC News",
         "objectivity_score": 50,
         "sentiment": "Positive",
@@ -790,67 +792,34 @@
         "image_url": null,
         "keywords": [
             "us launches",
-            "fresh strikes",
-            "'s capabilities"
+            "fresh strikes"
         ]
     },
     {
-        "title": "Man, 28, charged with murder of Ann Widdecombe",
-        "link": "https://www.bbc.co.uk/news/articles/cn4n2erympvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Joshua Kerry from Rotherham will appear at Westminster Magistrates' Court on Tuesday.",
+        "title": "Man due in court charged with murder of Ann Widdecombe",
+        "link": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Joshua Kerry from South Yorkshire, is set to appear at Westminister Magistrates' Court on Tuesday.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 37,
+        "sentiment": "Negative",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
             "ann widdecombe joshua kerry",
-            "westminster magistrates"
+            "westminister magistrates"
         ]
     },
     {
-        "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
-        "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-        "summary": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
+        "title": "Is UK facing drought for second summer in a row?",
+        "link": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss",
+        "summary": "The longest dry spell in over 30 years for central England raises concerns about drought and when it might rain.",
         "source": "BBC News",
-        "objectivity_score": 35,
+        "objectivity_score": 28,
         "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "passenger ferry capsizes",
-            "island 's",
-            "prime minister"
-        ]
-    },
-    {
-        "title": "Watch: Spain World Cup champions receive royal welcome in Madrid",
-        "link": "https://www.bbc.co.uk/news/videos/c78g69nddgeo?at_medium=RSS&at_campaign=rss",
-        "summary": "After meeting the royal family, the squad boarded an open-top bus for a victory parade through the capital city, where nearly two million fans lined the streets.",
-        "source": "BBC News",
-        "objectivity_score": 51,
-        "sentiment": "Positive",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "world cup champions",
-            "royal family",
-            "open-top bus"
-        ]
-    },
-    {
-        "title": "Tate brothers appear in US court for extradition proceedings",
-        "link": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
-        "summary": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "us court",
-            "extradition proceedings",
-            "new charges"
+            "longest dry"
         ]
     },
     {
@@ -884,16 +853,33 @@
         ]
     },
     {
-        "title": "Is UK facing drought for second summer in a row?",
-        "link": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss",
-        "summary": "The longest dry spell in over 30 years for central England raises concerns about drought and when it might rain.",
+        "title": "Fifa opens investigation into Argentina post-final trouble",
+        "link": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed.",
         "source": "BBC News",
-        "objectivity_score": 28,
+        "objectivity_score": 80,
+        "sentiment": "Negative",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "post-final trouble",
+            "ugly scenes",
+            "world cup"
+        ]
+    },
+    {
+        "title": "UK government borrowing lower than expected in June",
+        "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Public finances for last month were better than expected but the UK is carrying major debt.",
+        "source": "BBC News",
+        "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "longest dry"
+            "government borrowing",
+            "public finances",
+            "major debt"
         ]
     },
     {
@@ -911,21 +897,6 @@
         ]
     },
     {
-        "title": "How is the new PM's cabinet shaping up?",
-        "link": "https://www.bbc.co.uk/news/videos/cp3rz5k713yo?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC's Annita McVeigh talks us through some key appointments as Andy Burnham takes office.",
-        "source": "BBC News",
-        "objectivity_score": 72,
-        "sentiment": "Neutral",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "'s cabinet",
-            "annita mcveigh",
-            "key appointments"
-        ]
-    },
-    {
         "title": "Why Andy Burnham will find it so tricky to unite Britain",
         "link": "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro?at_medium=RSS&at_campaign=rss",
         "summary": "Is there any common ground left?",
@@ -940,40 +911,42 @@
         ]
     },
     {
-        "title": "Burnham promises help with your money. How could it affect you?",
-        "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
+        "title": "Who's landed the top jobs in the cabinet?",
+        "link": "https://www.bbc.co.uk/news/videos/cp3rz5k713yo?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC's Annita McVeigh talks us through some key appointments as Andy Burnham takes office.",
         "source": "BBC News",
-        "objectivity_score": 55,
-        "sentiment": "Neutral",
+        "objectivity_score": 75,
+        "sentiment": "Positive",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "burnham"
+            "top jobs",
+            "annita mcveigh",
+            "key appointments"
         ]
     },
     {
-        "title": "Faisal Islam: The new PM has big ideas - but what will they cost?",
-        "link": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
-        "summary": "Every tricky decision and trade off is being watched by the country and the markets at the same time",
+        "title": "Louise Haigh: Labour power broker behind Burnham's rise",
+        "link": "https://www.bbc.co.uk/news/articles/c87n0x974vjo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Sheffield MP's return to the cabinet comes after she emerged as one of the PM's key political allies.",
         "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
+        "objectivity_score": 60,
+        "sentiment": "Negative",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "faisal islam",
-            "big ideas",
-            "tricky decision"
+            "louise haigh",
+            "power broker",
+            "'s rise"
         ]
     },
     {
-        "title": "Key takeaways as Andy Burnham becomes PM",
+        "title": "Key takeaways from Andy Burnham's first day as PM",
         "link": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&at_campaign=rss",
         "summary": "The new Labour leader has formally taken office and set out his priorities for power in No 10.",
         "source": "BBC News",
-        "objectivity_score": 72,
-        "sentiment": "Neutral",
+        "objectivity_score": 59,
+        "sentiment": "Positive",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
@@ -1084,107 +1057,102 @@
         ]
     },
     {
-        "title": "Fifa opens investigation into Argentina post-final trouble",
-        "link": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed.",
+        "title": "A baby trafficking ring has been convicted - but what now for the babies?",
+        "link": "https://www.bbc.co.uk/news/videos/c3w0exe7g62o?at_medium=RSS&at_campaign=rss",
+        "summary": "Nineteen people in Indonesia have been convicted for trafficking at least 34 babies, but the biggest question wasnt answered in court - what happens to the children now?",
         "source": "BBC News",
-        "objectivity_score": 80,
+        "objectivity_score": 40,
         "sentiment": "Negative",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "post-final trouble",
-            "ugly scenes",
-            "world cup"
+            "question wasnt"
         ]
     },
     {
-        "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-        "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
+        "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+        "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+        "summary": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
+        "source": "BBC News",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "passenger ferry capsizes",
+            "island 's",
+            "prime minister"
+        ]
+    },
+    {
+        "title": "Thousands of websites taken down for illegal World Cup streams",
+        "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
+        "summary": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
+        "source": "BBC News",
+        "objectivity_score": 41,
+        "sentiment": "Negative",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "illegal world cup streams",
+            "similar amount"
+        ]
+    },
+    {
+        "title": "Monkey abandoned in laundry bag on London bus",
+        "link": "https://www.bbc.co.uk/news/articles/c70g8wez8r1o?at_medium=RSS&at_campaign=rss",
+        "summary": "A marmoset monkey is rescued by animal welfare officers on the 302 service in north-west London.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "police block thousands",
-            "'s parliament",
-            "education reforms"
+            "laundry bag",
+            "marmoset monkey",
+            "animal welfare officers"
         ]
     },
     {
-        "title": "Viral TikTok beauty spot owners warn people not to visit secluded reservoir",
-        "link": "https://www.bbc.co.uk/news/articles/c78yyjdkx39o?at_medium=RSS&at_campaign=rss",
-        "summary": "Described as a \"blue lagoon\", visitors flocked to see the turquoise waters during Covid.",
+        "title": "Northern Ireland's deputy first minster was 'floored' by news of Donaldson arrest",
+        "link": "https://www.bbc.co.uk/news/articles/c87nx97zlyno?at_medium=RSS&at_campaign=rss",
+        "summary": "The deputy first minister says people who worked alongside Jeffrey Donaldson are \"floored, shocked and utterly repulsed\".",
         "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 49,
         "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "viral tiktok",
-            "beauty spot owners",
-            "blue lagoon"
+            "jeffrey donaldson"
         ]
     },
     {
-        "title": "Fire crews to remain at Arthur's Seat for days after blaze",
-        "link": "https://www.bbc.co.uk/news/articles/cr59mqnm081o?at_medium=RSS&at_campaign=rss",
-        "summary": "A huge plume of smoke could be seen from as far away as Fife on Sunday evening.",
+        "title": "'Anti-ICE' Army veteran set fire outside Manhattan federal building, say officials",
+        "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI.",
         "source": "BBC News",
-        "objectivity_score": 95,
-        "sentiment": "Positive",
+        "objectivity_score": 2,
+        "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "fire crews",
-            "huge plume"
+            "army veteran",
+            "federal building",
+            "andrew arrabaca"
         ]
     },
     {
-        "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-        "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
+        "title": "Tropical Storm Bertha threatens US Gulf coast",
+        "link": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Storm surges up to 4ft are possible along parts of the Louisiana and Mississippi coasts, officials say.",
         "source": "BBC News",
         "objectivity_score": 100,
         "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "drug cartel leader",
-            "ismael zambada",
-            "us prison"
-        ]
-    },
-    {
-        "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
-        "link": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
-        "source": "BBC News",
-        "objectivity_score": 72,
-        "sentiment": "Neutral",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "canadian wildfires rage",
-            "us air",
-            "us president"
-        ]
-    },
-    {
-        "title": "Merger deal between Paramount and Warner Bros paused by judge",
-        "link": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
-        "summary": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
-        "source": "BBC News",
-        "objectivity_score": 15,
-        "sentiment": "Positive",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "warner bros",
-            "judge us court",
-            "warner bros"
+            "tropical storm bertha",
+            "threatens us gulf coast"
         ]
     },
     {
@@ -1202,7 +1170,21 @@
         ]
     },
     {
-        "title": "Andy Burnham: Who is the new PM?",
+        "title": "Newscast",
+        "link": "https://www.bbc.co.uk/sounds/play/p0nzs7bm?at_medium=RSS&at_campaign=rss",
+        "summary": "Andy Burnham makes John Healey his chancellor as he assembles his cabinet.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "newscast andy burnham",
+            "john healey"
+        ]
+    },
+    {
+        "title": "Who is the new PM?",
         "link": "https://www.bbc.co.uk/iplayer/episode/m002zlct?at_medium=RSS&at_campaign=rss",
         "summary": "From Manchester mayor to prime minister; who is he and what does stand for?",
         "source": "BBC News",
@@ -1211,22 +1193,7 @@
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "andy burnham",
             "prime minister"
-        ]
-    },
-    {
-        "title": "What No 10 Will Really Be Like For Andy Burnham",
-        "link": "https://www.bbc.co.uk/sounds/play/p0nyjw5h?at_medium=RSS&at_campaign=rss",
-        "summary": "Former insiders explain ahead of moving in day.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "will really be",
-            "andy burnham"
         ]
     },
     {
@@ -1245,21 +1212,6 @@
         ]
     },
     {
-        "title": "Gifted, charismatic and passionate amid highs and lows - Keegan obituary",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c20z4d87vp3o?at_medium=RSS&at_campaign=rss",
-        "summary": "The positivity and vibrancy Kevin Keegan brought made him a cherished figure within the game, writes chief football writer Phil McNulty.",
-        "source": "BBC News",
-        "objectivity_score": 81,
-        "sentiment": "Positive",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "kevin keegan",
-            "chief football writer",
-            "phil mcnulty"
-        ]
-    },
-    {
         "title": "Fifa opens investigation into Argentina post-final trouble - what happens next?",
         "link": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
         "summary": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed.",
@@ -1272,6 +1224,50 @@
             "post-final trouble",
             "ugly scenes",
             "world cup"
+        ]
+    },
+    {
+        "title": "Bournemouth midfielder Scott rejects new contract",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
+        "summary": "Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England international.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "new contract",
+            "alex scott",
+            "new contract"
+        ]
+    },
+    {
+        "title": "Earl wants changes to 'brutal' Nations Championship format",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Ben Earl calls for a change to the Nations Championship format after England's \"brutal\" schedule in the summer leg of the inaugural competition.",
+        "source": "BBC News",
+        "objectivity_score": 70,
+        "sentiment": "Negative",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "ben earl",
+            "summer leg",
+            "inaugural competition"
+        ]
+    },
+    {
+        "title": "Why was Hamilton penalised but not Leclerc? - F1 Q&A",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Hungarian Grand Prix.",
+        "source": "BBC News",
+        "objectivity_score": 95,
+        "sentiment": "Positive",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "bbc sport f1",
+            "andrew benson"
         ]
     },
     {
@@ -1290,33 +1286,18 @@
         ]
     },
     {
-        "title": "Gallery: Spain celebrate World Cup triumph in Madrid",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss",
-        "summary": "Thousands of fans take to the streets of Madrid as the Spain squad enjoy a bus parade after winning the World Cup.",
+        "title": "Fake kits worth \u00a318m seized by UK police over safety concerns",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c0rdgrkx552o?at_medium=RSS&at_campaign=rss",
+        "summary": "Counterfeit football shirts worth over 18m were seized in the UK during the course of the World Cup because of safety concerns, with the Fire Service warning the outfits can be a danger to those who w...",
         "source": "BBC News",
-        "objectivity_score": 49,
-        "sentiment": "Positive",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "world cup triumph",
-            "bus parade",
-            "world cup"
-        ]
-    },
-    {
-        "title": "What will Rogers bring to Alonso's Chelsea?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Chelsea's 117m move for Aston Villa forward Morgan Rogers is a genuine transfer window shock, but how did they do it and what does it mean for the rest of the squad?",
-        "source": "BBC News",
-        "objectivity_score": 59,
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "'s 117m",
-            "aston villa",
-            "morgan rogers"
+            "kits worth \u00a318m",
+            "football shirts worth",
+            "world cup"
         ]
     },
     {
@@ -1335,18 +1316,33 @@
         ]
     },
     {
-        "title": "Earl wants changes to 'brutal' Nations Championship format",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Ben Earl calls for a change to the Nations Championship format after England's \"brutal\" schedule in the summer leg of the inaugural competition.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Negative",
+        "title": "UK\u2019s New Prime Minister Burnham Orders Cut in Taxes on Electricity",
+        "link": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html",
+        "summary": "Prime Minister Andy Burnham moved quickly to confront the high cost of living. And President Trump wished him well after a phone call between the two leaders.",
+        "source": "NYT > World News",
+        "objectivity_score": 49,
+        "sentiment": "Positive",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "ben earl",
-            "summer leg",
-            "inaugural competition"
+            "burnham orders cut",
+            "electricity prime",
+            "andy burnham"
+        ]
+    },
+    {
+        "title": "Australian Woman Gives Birth to \u2018Miracle\u2019 Identical Quadruplets",
+        "link": "https://www.nytimes.com/2026/07/21/world/australia/australia-identical-quadruplets-birth.html",
+        "summary": "Doctors said the arrival of Emily, Harriet, Catherine and Alexa, who were conceived naturally and split from one fertilized egg, is an extremely rare event.",
+        "source": "NYT > World News",
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "australian woman gives birth",
+            "identical quadruplets",
+            "rare event"
         ]
     },
     {
@@ -1377,19 +1373,6 @@
             "hong kong",
             "apartment fire",
             "hong kong"
-        ]
-    },
-    {
-        "title": "Another U.S. Service Member Is Killed as Iran War Expands",
-        "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-        "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said unidentified remains were found in Jordan, where an earlier attack had left two s...",
-        "source": "NYT > World News",
-        "objectivity_score": 15,
-        "sentiment": "Negative",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "service member"
         ]
     },
     {
@@ -1537,18 +1520,18 @@
         ]
     },
     {
-        "title": "Tears in Argentina for Lionel Messi\u2019s \u2018Last Tango\u2019",
-        "link": "https://www.nytimes.com/2026/07/19/world/americas/messi-argentina-buenos-aires-last-tango.html",
-        "summary": "There were still fireworks and smoke bombs, but the nation was disappointed for its soccer star after he lost in his likely last World Cup.",
+        "title": "Ferry Capsizes in Guyana, Killing Dozens",
+        "link": "https://www.nytimes.com/video/world/americas/100000011043291/guyana-ferry-sinking-barima.html",
+        "summary": "A ferry in Guyana thought to be overloaded capsized over the weekend, killing dozens. Many are still missing, and the authorities said the total number of victims was unclear.",
         "source": "NYT > World News",
-        "objectivity_score": 47,
-        "sentiment": "Negative",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "lionel messi",
-            "smoke bombs",
-            "soccer star"
+            "ferry capsizes",
+            "killing dozens",
+            "total number"
         ]
     },
     {
@@ -1672,7 +1655,7 @@
         ]
     },
     {
-        "title": "Suspected Iranian strikes have targeted U.S. military in at least four countries.",
+        "title": "Suspected Iranian strikes have targeted the U.S. military in at least 4 countries.",
         "link": "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz/suspected-iranian-strikes-have-targeted-us-military-in-at-least-four-countries",
         "summary": "",
         "source": "NYT > World News",
@@ -1682,21 +1665,6 @@
         "image_url": null,
         "keywords": [
             "suspected iranian"
-        ]
-    },
-    {
-        "title": "Students March Toward India\u2019s Parliament Over Exam Scandal",
-        "link": "https://www.nytimes.com/video/world/asia/100000011041256/students-march-toward-indias-parliament-over-exam-scandal.html",
-        "summary": "Clashes broke out between the police and supporters of Indias youth-led Cockroach Janta Party movement, as thousands marched toward parliament on Monday over the governments medical exam scandal.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "march toward india",
-            "\u2019 s parliament",
-            "exam scandal clashes"
         ]
     },
     {
@@ -1925,78 +1893,93 @@
         ]
     },
     {
-        "title": "Australia news live: Pauline Hanson says Trump had \u2018a great way\u2019 of dealing with migrants; Nine newspapers announce redundancies",
+        "title": "Australia news live: Hanson\u2019s support for Trump deportation policy \u2018makes me sick\u2019, Monique Ryan says; NT traditional owners rally outside Pine Gap base",
         "link": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
-        "summary": "One Nation leader says Trumps methods dealt with people using all these ploys to stay in the country. Follow todays news liveGet our breaking news email, free app or daily news podcastAlpine ski resor...",
+        "summary": "Follow todays news liveGet our breaking news email, free app or daily news podcastAlpine ski resorts in New South Wales and Victoria saw climate records shattered at the weekend with maximum temperatu...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
+        "objectivity_score": 39,
+        "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "pauline hanson",
-            "great way \u2019",
-            "todays news liveget"
+            "\u2019 s support",
+            "deportation policy \u2018",
+            "sick \u2019"
         ]
     },
     {
-        "title": "Pauline Hanson shares Seven pitch for Spotlight special that says program would highlight \u2018uncontrolled immigration\u2019",
-        "link": "https://www.theguardian.com/australia-news/2026/jul/21/pauline-hanson-shares-seven-pitch-encouraging-her-to-meet-nigel-farage-for-spotlight-special-ntwnfb",
-        "summary": "One Nation leader posts networks proposal to travel to UK to explore what Australia faces if we dont take back control of who comes to our countryFollow our Australia news live blog for latest updates...",
+        "title": "Man of his word: Pope Leo speeches declared human-authored by Australian AI detection tool",
+        "link": "https://www.theguardian.com/world/2026/jul/21/pope-leo-speech-human-not-ai-artificial-intelligence",
+        "summary": "Maps of Hope has been certified by Proudly Human, a company led by former chief scientist, Dr Alan FinkelFollow our Australia news live blog for latest updatesGet our breaking news email, free app or ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "pope leo",
+            "australian ai",
+            "detection tool"
+        ]
+    },
+    {
+        "title": "Holocaust survivors president says exclusion of Jews from public life has \u2018disturbing parallels\u2019 to Nazi Germany",
+        "link": "https://www.theguardian.com/australia-news/2026/jul/21/holocaust-survivors-australia-exclusion-nazi-germany-ntwnfb",
+        "summary": "George Foster tells royal commission Australias democratic institutions fundamentally different, but I cant ignore certain disturbing parallels in the social atmosphereFollow our Australia news live b...",
         "source": "World news | The Guardian",
         "objectivity_score": 42,
-        "sentiment": "Positive",
+        "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "pauline hanson",
-            "highlight \u2018",
-            "uncontrolled immigration \u2019"
+            "survivors president",
+            "public life",
+            "disturbing parallels \u2019"
         ]
     },
     {
-        "title": "\u2018One in 15 million\u2019: Brisbane woman gives birth to identical quadruplets",
-        "link": "https://www.theguardian.com/australia-news/2026/jul/20/one-in-15-million-brisbane-woman-gives-birth-to-identical-quadruplets",
-        "summary": "Jenitar Naamoanas already had four children when she learned of surprise pregnancy unheard of in AustraliaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or...",
+        "title": "Kumanjayi Little Baby\u2019s mother was not supported to protect her children while escaping domestic violence, review finds",
+        "link": "https://www.theguardian.com/australia-news/2026/jul/21/kumanjayi-little-babys-mother-was-not-supported-to-protect-her-children-while-escaping-domestic-violence-review-found-ntwnfb",
+        "summary": "Interim report not able to draw nexus between matters referred to child protection and circumstances leading to five-year-olds alleged murderWarning: This story contains references to Indigenous Austr...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "identical quadruplets",
-            "jenitar naamoanas",
-            "surprise pregnancy"
+            "kumanjayi little baby",
+            "\u2019 s mother",
+            "domestic violence"
         ]
     },
     {
-        "title": "Antibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds",
-        "link": "https://www.theguardian.com/australia-news/2026/jul/21/antibiotic-resistant-bacteria-increasingly-leaving-children-vulnerable-to-common-infections-global-study-finds",
-        "summary": "Exclusive: Research spanning 82 countries finds antibiotic resistance increased in every region between 2004 and 2022Harry Booth has had a rough run through Australias coldest months. The 13-year-old ...",
+        "title": "Climate and rock art advocates take on Woodside\u2019s \u2018carbon bomb\u2019 WA gas project in federal court",
+        "link": "https://www.theguardian.com/environment/2026/jul/21/north-west-shelf-gas-project-woodside-wa-federal-court-challenge",
+        "summary": "Albanese governments approval of North West Shelf gas extension being challenged by the Australian Conservation Foundation and Friends of Australian Rock ArtThe Albanese governments decision to approv...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Negative",
+        "objectivity_score": 19,
+        "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "common infections",
-            "global study",
-            "antibiotic resistance"
+            "rock art advocates",
+            "\u2019 s \u2018 carbon bomb \u2019",
+            "gas project"
         ]
     },
     {
-        "title": "Australian ski resorts smash July climate records with temperatures 12C above average",
-        "link": "https://www.theguardian.com/australia-news/2026/jul/21/australian-ski-resorts-smash-july-climate-records-with-temperatures-12c-above-average",
-        "summary": "Resorts in New South Wales and Victoria face a warm and dry start to the season with only sporadic falls of natural snow in many alpine areasFollow our Australia news live blog for latest updatesGet o...",
+        "title": "Election voting advice from AI chatbots \u2018inaccurate and unreliable\u2019",
+        "link": "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary",
+        "summary": "Research during Hungary election shows AI recommended parties not running and gave highly volatile answers to identical promptsAI chatbots provide inaccurate, inconsistent and unreliable guidance to v...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
+        "objectivity_score": 52,
+        "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "ski resorts smash",
-            "climate records",
-            "temperatures 12c"
+            "chatbots \u2018 inaccurate",
+            "unreliable \u2019 research",
+            "election shows"
         ]
     },
     {
@@ -2060,93 +2043,78 @@
         ]
     },
     {
-        "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
-        "link": "https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy",
-        "summary": "From Nevada to Manchester, developers are trialling innovative solutions to clean energys biggest challengeIn the deserts of the United Arab Emirates a sprawling clean energy project, stretching acros...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 57,
-        "sentiment": "Neutral",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "human sweat",
-            "weird batteries",
-            "renewable energy"
-        ]
-    },
-    {
-        "title": "US launches further strikes on Iran; Houthis threaten Saudi shipping blockade \u2013 Middle East crisis live",
-        "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-        "summary": "US says latest attack aimed at further degrading Iranian military capabilities; Yemen militant group threatens traffic moving through Bab el-Mandeb straitUS launches 10th round of strikes as Iran says...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "us launches",
-            "shipping blockade \u2013",
-            "military capabilities"
-        ]
-    },
-    {
-        "title": "US launches 10th round of strikes as Iran says it is in \u2018full-scale war\u2019",
-        "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
-        "summary": "Diplomats say de-escalation talks continue as Trump vows retaliation over US soldier deaths Middle East crisis live  latest updatesThe US military said it has launched its 10th consecutive round of st...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Neutral",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "us launches",
-            "full-scale war \u2019",
-            "vows retaliation"
-        ]
-    },
-    {
-        "title": "\u2018Israeli settlers are in partnership with the army,\u2019 say Palestinians after two shot dead in West Bank",
-        "link": "https://www.theguardian.com/world/2026/jul/20/israeli-settlers-partnership-army-palestinians-bury-dead-west-bank",
-        "summary": "Residents of Deir Jarir say raids late on Sunday, also involving security forces, are part of pattern of violenceEven by the brutal standards of militant settler violence in the West Bank, the raid on...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 37,
-        "sentiment": "Negative",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "west bank",
-            "deir jarir",
-            "security forces"
-        ]
-    },
-    {
-        "title": "Middle East crisis: US military says service member killed during \u2018controlled detonation\u2019 of downed Iranian drone \u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
-        "summary": "This live blog is now closed.US says another troop killed as Israel warns Tehrans attacks coming closeTwo US troops killed and one missing in Jordan after Iranian attacksJordanian authorities have not...",
+        "title": "Iran claims attacks on strait of Hormuz ships amid fresh US strikes \u2013 Middle East crisis live",
+        "link": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
+        "summary": "Revolutionary Guard claims attack on oil tanker and two other ships as US carries out tenth consecutive night of strikesFull report: Almost 100 troops injured in recent weeks, Pentagon admits, as Iran...",
         "source": "World news | The Guardian",
         "objectivity_score": 28,
         "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "service member",
-            "detonation \u2019",
-            "drone \u2013"
+            "claims attacks",
+            "fresh us strikes \u2013",
+            "revolutionary guard claims attack"
         ]
     },
     {
-        "title": "New US military death as Israel warns Tehran\u2019s attacks coming close",
-        "link": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
-        "summary": "US military says service member was killed in Iraq during controlled detonation as it launches more airstrikes at IranMiddle East crisis live: follow latest updatesThe US military announced another de...",
+        "title": "\u2018A partnership between settlers and the army\u2019: two shot dead in latest West Bank raid",
+        "link": "https://www.theguardian.com/world/2026/jul/20/israeli-settlers-partnership-army-palestinians-bury-dead-west-bank",
+        "summary": "Residents of Deir Jarir say raids late on Sunday, also involving security forces, are part of pattern of violenceEven by the brutal standards of militant settler violence in the West Bank, the raid on...",
         "source": "World news | The Guardian",
-        "objectivity_score": 27,
+        "objectivity_score": 43,
+        "sentiment": "Negative",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "army \u2019",
+            "west bank raid",
+            "deir jarir"
+        ]
+    },
+    {
+        "title": "Gaza celebrates World Cup victory of Spanish team they took into their hearts",
+        "link": "https://www.theguardian.com/football/2026/jul/21/gaza-celebrates-world-cup-victory-of-spanish-team-they-took-into-their-hearts",
+        "summary": "People gather at cafes and outdoor screenings to support team after Spains backing for Palestinian rights  The Spanish football teams World Cup win has been celebrated in the streets of Gaza, where Sp...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Positive",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "world cup victory",
+            "spanish team",
+            "hearts people"
+        ]
+    },
+    {
+        "title": "US issues \u2018worldwide caution\u2019 for American citizens \u2013 as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+        "summary": "This blog is now closed  our live coverage of the Middle East crisis continues hereThe price of oil jumped in early Asian trade on Monday after the US carried out its latest wave of strikes on Iran an...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 34,
         "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "new us",
-            "military death",
-            "\u2019 s attacks"
+            "us issues \u2018 worldwide caution \u2019",
+            "american citizens \u2013",
+            "herethe price"
+        ]
+    },
+    {
+        "title": "Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies",
+        "link": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon",
+        "summary": "Iran has attacked a tanker in the strait of Hormuz, forcing its crew to abandon the ship, after the US launched a tenth consecutive night of strikesMiddle East crisis live: follow latest updatesNearly...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
+            "recent weeks",
+            "pentagon admits",
+            "launches reprisals"
         ]
     },
     {
@@ -2225,93 +2193,93 @@
         ]
     },
     {
-        "title": "Andy Burnham vows to \u2018bring back hope\u2019 as he unveils his cabinet",
-        "link": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-vows-to-bring-back-hope-as-he-unveils-his-cabinet",
-        "summary": "New prime minister says government must do better to deliver change but promises prudent approach to economyAndy Burnham has said his arrival in power will bring back hope to Britain as he launched hi...",
+        "title": "Burnham cuts VAT on electricity bills in first major policy announcement \u2013 UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jul/21/andy-burnham-pm-labour-energy-bills-cost-of-living-cabinet-latest-news-updates",
+        "summary": "Move is expected to save households around 45 a year in effort to tackle cost of livingBurnham to cut VAT on electricity bills in first cost-of-living moveThe newly appointed business secretary, Jonat...",
         "source": "World news | The Guardian",
-        "objectivity_score": 31,
+        "objectivity_score": 38,
         "sentiment": "Positive",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "andy burnham",
-            "hope \u2019",
-            "new prime minister"
+            "electricity bills",
+            "major policy announcement \u2013",
+            "electricity bills"
         ]
     },
     {
-        "title": "Andy Burnham\u2019s first Labour cabinet: who\u2019s in and who\u2019s out?",
-        "link": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-labour-cabinet-profiles",
-        "summary": "From the Treasury to the Home Office, we look at who is heading up key departments in new PMs governmentBurnham vows his arrival in power will be circuit breaker moment for UKSix highlights from Andy ...",
+        "title": "Defence stocks rally as John Healey appointed chancellor; UK borrows less than expected in June \u2013 business live",
+        "link": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest",
+        "summary": "Rolling coverage of the latest economic and financial newsAnd in case you missed it overnight: Donald Trump has said he will impose 50% tariffs on most Canadian goods in response to the country retali...",
         "source": "World news | The Guardian",
-        "objectivity_score": 58,
+        "objectivity_score": 39,
         "sentiment": "Positive",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
+            "stocks rally",
+            "john healey",
+            "\u2013 business"
+        ]
+    },
+    {
+        "title": "Andy Burnham to cut VAT on electricity bills as first cost of living move",
+        "link": "https://www.theguardian.com/politics/2026/jul/21/burnham-announces-plans-to-cut-vat-on-electricity-bills-as-first-cost-of-living-move",
+        "summary": "Newly appointed chancellor John Healey says reduction will be funded by cancelling digital ID schemeElectricity bills will be reduced by an average of 45 a year from October, after Andy Burnham announ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
+        "date": "2026-07-21",
+        "image_url": null,
+        "keywords": [
             "andy burnham",
-            "home office",
-            "key departments"
+            "electricity bills",
+            "john healey"
         ]
     },
     {
-        "title": "Healey made chancellor, Miliband named foreign secretary and Yvette Cooper becomes health secretary as Burnham picks cabinet \u2013 UK politics as it happened",
-        "link": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
-        "summary": "Rayner is back as housing secretary, while Mahmood and McFadden remain in their existing posts Burnham vows his arrival in power will be circuit breaker moment for UKSix highlights from Andy Burnhams ...",
+        "title": "JP Morgan boss warns of \u2018consequences\u2019 if Burnham taxes banks",
+        "link": "https://www.theguardian.com/business/2026/jul/21/jp-morgan-andy-burnham-tax-banks-jamie-dimon",
+        "summary": "Higher taxes on sector could threaten plan for 3bn headquarters in London, says Jamie DimonBusiness live  latest updatesThe boss of JP Morgan, Jamie Dimon, has warned Andy Burnham against raising tax ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 15,
-        "sentiment": "Neutral",
+        "objectivity_score": 49,
+        "sentiment": "Positive",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "foreign secretary",
-            "yvette cooper",
-            "health secretary"
+            "jp morgan",
+            "boss warns",
+            "\u2018 consequences \u2019"
         ]
     },
     {
-        "title": "\u2018We need to be careful\u2019: Andy Burnham\u2019s team keenly aware of fiscal tightrope",
-        "link": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-team-aware-fiscal-tightrope-economy",
-        "summary": "Chancellor pick and early policies avoid market meltdown but next week remains moment of real peril Andy Burnham has not quite gone for Keir Starmers extreme caution in the run-up to entering No 10  b...",
+        "title": "UK employers cut job vacancies as Burnham aims to lift living standards",
+        "link": "https://www.theguardian.com/business/2026/jul/21/uk-employers-job-vacancies-andy-burnham-unemployment",
+        "summary": "Unemployment holds steady at 4.9%, underlining the challenge facing the new prime ministerBusiness live  latest updatesEmployers cut the number of job vacancies in May, according to official figures t...",
         "source": "World news | The Guardian",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "careful \u2019",
-            "andy burnham",
-            "\u2019 s team"
+            "job vacancies",
+            "new prime ministerbusiness",
+            "job vacancies"
         ]
     },
     {
-        "title": "Tate brothers fight extradition to UK over rape and sex-trafficking charges",
-        "link": "https://www.theguardian.com/us-news/2026/jul/20/andrew-tristan-tate-fight-charges-extradition",
-        "summary": "Polarizing social media influencers are being held in federal detention in Miami as district judge considers extraditionSocial media influencers Andrew and Tristan Tate will fight extradition to the U...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 13,
-        "sentiment": "Neutral",
-        "date": "2026-07-21",
-        "image_url": null,
-        "keywords": [
-            "brothers fight extradition",
-            "social media influencers",
-            "federal detention"
-        ]
-    },
-    {
-        "title": "Weather warnings as another tropical storm develops along US Gulf coast",
+        "title": "Tropical Storm Bertha heads for land as Hurricane Fausto forms in eastern Pacific",
         "link": "https://www.theguardian.com/us-news/2026/jul/20/bertha-tropical-depression-us-gulf-coast",
-        "summary": "Tropical Storm Bertha could bring heavy rain on US Gulf coast, with its center located 110 miles south of Panama City, FloridaTropical Storm Bertha developed along the US Gulf coast on Monday evening,...",
+        "summary": "Bertha could bring heavy rain on US Gulf coast, with its center located 110 miles south of Panama City, FloridaTropical Storm Bertha formed Monday evening in the Gulf of Mexico south of the Florida Pa...",
         "source": "World news | The Guardian",
-        "objectivity_score": 26,
+        "objectivity_score": 52,
         "sentiment": "Neutral",
         "date": "2026-07-21",
         "image_url": null,
         "keywords": [
-            "tropical storm",
-            "us gulf coast",
-            "tropical storm bertha"
+            "tropical storm bertha",
+            "hurricane fausto",
+            "heavy rain"
         ]
     },
     {
