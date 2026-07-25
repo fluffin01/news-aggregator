@@ -737,9 +737,39 @@
         ]
     },
     {
+        "title": "Police investigate donations by Tice company to Reform UK",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
+        "summary": "Britain Means Business, owned by the partys deputy leader Richard Tice, made two donations of 250,000 in the run-up to the 2024 general election.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "reform uk britain means",
+            "deputy leader",
+            "richard tice"
+        ]
+    },
+    {
+        "title": "More than 250,000 flee wildfires in France and Spain",
+        "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "source": "BBC News",
+        "objectivity_score": 57,
+        "sentiment": "Neutral",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "flee wildfires",
+            "spain spain",
+            "complex hours"
+        ]
+    },
+    {
         "title": "Tourists tell BBC how their holiday turned into race to escape fires",
         "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Families visiting France from the UK and elsewhere have told the BBC how their holidays have become evacuation missions.",
+        "summary": "Families visiting France have told the BBC how their holidays have become evacuation missions.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
@@ -750,17 +780,33 @@
         ]
     },
     {
-        "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
-        "link": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss",
-        "summary": "Farmers talk of attacks as police receive nearly 9,000 reports of banned hare coursing, the BBC finds.",
+        "title": "Cairngorm residents say wildfire response 'too slow'",
+        "link": "https://www.bbc.co.uk/news/articles/cdewlpgnlx6o?at_medium=RSS&at_campaign=rss",
+        "summary": "Nethy Bridge residents were evacuated on Friday and a major incident was declared.",
         "source": "BBC News",
-        "objectivity_score": 40,
+        "objectivity_score": 44,
         "sentiment": "Negative",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
-            "dead animals",
-            "illegal hunts farmers"
+            "wildfire response 'too",
+            "nethy bridge",
+            "major incident"
+        ]
+    },
+    {
+        "title": "India's 'cockroach' protest called off after education minister quits",
+        "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+        "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "'s 'cockroach",
+            "education minister quits",
+            "visible expression"
         ]
     },
     {
@@ -779,21 +825,6 @@
         ]
     },
     {
-        "title": "McColgan to miss Glasgow Games defence after foot fracture",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cewrk7ee4n1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Scotland's Eilish McColgan will miss out on the chance to defend her Commonwealth Games 10,000m title in her home country after failing to recover sufficently from a foot fracture.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "foot fracture",
-            "eilish mccolgan",
-            "10,000m title"
-        ]
-    },
-    {
         "title": "Long overdue, life-changing or frivolous: What you had to say about wedding rule changes",
         "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
         "summary": "The government wants to relax wedding laws so couples can get married almost anywhere.",
@@ -809,16 +840,17 @@
         ]
     },
     {
-        "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-        "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
-        "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+        "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
+        "link": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss",
+        "summary": "Farmers describe attacks and police receive nearly 9,000 reports of banned hare coursing.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
-            "adhd"
+            "dead animals",
+            "illegal hunts farmers describe attacks"
         ]
     },
     {
@@ -837,18 +869,16 @@
         ]
     },
     {
-        "title": "OpenAI hack has turned into a whodunnit with serious questions to answer",
-        "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-        "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+        "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+        "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+        "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
         "source": "BBC News",
-        "objectivity_score": 42,
-        "sentiment": "Negative",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
-            "serious questions",
-            "hugging face",
-            "superhuman speed"
+            "adhd"
         ]
     },
     {
@@ -863,6 +893,34 @@
         "keywords": [
             "claudia winkleman",
             "graham norton"
+        ]
+    },
+    {
+        "title": "Man charged over intercepted bomb in car",
+        "link": "https://www.bbc.co.uk/news/articles/cj637j9gkd9o?at_medium=RSS&at_campaign=rss",
+        "summary": "The man in his 40s is due to appear at the Criminal Courts of Justice on Saturday.",
+        "source": "BBC News",
+        "objectivity_score": 46,
+        "sentiment": "Negative",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "news"
+        ]
+    },
+    {
+        "title": "Twenty firefighters taken to hospital after explosion in Essex",
+        "link": "https://www.bbc.co.uk/news/articles/cg4dkwgker3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Essex's chief fire officer praises crews' courage after a blaze spreads to a fertiliser store.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "essex essex",
+            "chief fire officer praises crews",
+            "fertiliser store"
         ]
     },
     {
@@ -881,32 +939,29 @@
         ]
     },
     {
-        "title": "Police declare 'major incident' over Cairngorms wildfire",
-        "link": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss",
-        "summary": "Some residents in the village of Nethy Bridge have left their homes over the threat the wildfire spreading.",
+        "title": "Six men arrested over fatal stabbing in south London",
+        "link": "https://www.bbc.co.uk/news/articles/cly5j8dwwpeo?at_medium=RSS&at_campaign=rss",
+        "summary": "The attack is believed to have taken place near Tremadoc Road in the early hours of Saturday.",
         "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
-            "'major incident",
-            "nethy bridge"
+            "early hours"
         ]
     },
     {
-        "title": "Sean McCann - brother of Madeleine - makes Commonwealths final",
-        "link": "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sean McCann, the younger brother of Madeleine McCann, reaches the 400m freestyle final at Commonwealth Games.",
+        "title": "Murder arrests after teen dies in Luton stabbing",
+        "link": "https://www.bbc.co.uk/news/articles/cjejvkk70z1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Police say a 17-year-old taken to hospital with multiple stab wounds was pronounced dead shortly afterwards.",
         "source": "BBC News",
-        "objectivity_score": 66,
-        "sentiment": "Neutral",
+        "objectivity_score": 30,
+        "sentiment": "Negative",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
-            "sean mccann",
-            "sean mccann",
-            "madeleine mccann"
+            "multiple stab wounds"
         ]
     },
     {
@@ -924,60 +979,18 @@
         ]
     },
     {
-        "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-        "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-        "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+        "title": "OpenAI hack has turned into a whodunnit with serious questions to answer",
+        "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+        "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
         "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "fix crisis",
-            "defence minister",
-            "'s decision"
-        ]
-    },
-    {
-        "title": "Parents on how they get through the summer holidays on a budget",
-        "link": "https://www.bbc.co.uk/news/articles/c5y65z47xwzo?at_medium=RSS&at_campaign=rss",
-        "summary": "The best tips and tricks to have a fun - yet affordable - summer break with the family.",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Positive",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "summer holidays"
-        ]
-    },
-    {
-        "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-        "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-        "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-        "source": "BBC News",
-        "objectivity_score": 13,
+        "objectivity_score": 42,
         "sentiment": "Negative",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
-            "iran-backed houthis",
-            "claim missile attack",
-            "saudi arabia"
-        ]
-    },
-    {
-        "title": "Eastern Rosellas! - Meet the seven-year-old behind viral song",
-        "link": "https://www.bbc.co.uk/news/videos/cy0jd187627o?at_medium=RSS&at_campaign=rss",
-        "summary": "Seven-year-old Miles Phillips' hit song has now had 1.5m views and was even played on the radio.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Negative",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "viral song",
-            "seven-year-old miles phillips"
+            "serious questions",
+            "hugging face",
+            "superhuman speed"
         ]
     },
     {
@@ -1094,62 +1107,63 @@
         ]
     },
     {
-        "title": "Unhappy Tottenham players should leave - De Zerbi",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cdewlp710l0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Tottenham Hotspur manager Roberto de Zerbi says players who are not \"proud and happy to stay\" at the club should leave.",
-        "source": "BBC News",
-        "objectivity_score": 96,
-        "sentiment": "Neutral",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "unhappy tottenham",
-            "de zerbi tottenham hotspur"
-        ]
-    },
-    {
-        "title": "McColgan to miss Glasgow Games defence after foot fracture",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cewrk7ee4n1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Scotland's Eilish McColgan will miss out on the chance to defend her Commonwealth Games 10,000m title in her home country after failing to recover sufficently from a foot fracture.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "foot fracture",
-            "eilish mccolgan",
-            "10,000m title"
-        ]
-    },
-    {
-        "title": "'Maybe he's a racist' - Trump critical of James",
-        "link": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
-        "summary": "United States President Donald Trump said LeBron James might be \"a racist\" when asked if the basketball star is the \"best ever\" to play the sport.",
-        "source": "BBC News",
-        "objectivity_score": 55,
-        "sentiment": "Positive",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "donald trump",
-            "lebron james",
-            "basketball star"
-        ]
-    },
-    {
-        "title": "Could Mount be final piece in Man Utd midfield jigsaw?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cpd7e8jw9qqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Mason Mount has been outstanding alongside new arrival Andrey Santos for Manchester United in their first two pre-season games.",
+        "title": "Norris on pole as Hamilton and Antonelli penalised",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/c4gv02vyzv4o?at_medium=RSS&at_campaign=rss",
+        "summary": "McLaren's Lando Norris takes his first grand prix pole position of 2026 in Hungary, as Lewis Hamilton and Kimi Antonelli are both given grid penalties.",
         "source": "BBC News",
         "objectivity_score": 66,
         "sentiment": "Positive",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
-            "final piece",
-            "midfield jigsaw",
-            "new arrival"
+            "lando norris",
+            "grand prix pole position",
+            "lewis hamilton"
+        ]
+    },
+    {
+        "title": "Pogacar poised to join Tour greats with fifth title in Paris finale",
+        "link": "https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss",
+        "summary": "Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "tadej pogacar",
+            "richard carapaz",
+            "dramatic stage"
+        ]
+    },
+    {
+        "title": "Howe unsure over Guimaraes future amid Arsenal interest",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cdrvxm682yko?at_medium=RSS&at_campaign=rss",
+        "summary": "Newcastle United head coach Eddie Howe says he has had positive discussions with captain Bruno Guimaraes.",
+        "source": "BBC News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "head coach",
+            "eddie howe",
+            "positive discussions"
+        ]
+    },
+    {
+        "title": "'He'll go right through this guy' - Joshua v Prenga predictions",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/ce3q23ke22qo?at_medium=RSS&at_campaign=rss",
+        "summary": "Figures from the boxing world give their predictions for Saturday's heavyweight fight between Anthony Joshua and Kristian Prenga.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "'he 'll",
+            "'s heavyweight fight",
+            "anthony joshua"
         ]
     },
     {
@@ -1183,24 +1197,24 @@
         ]
     },
     {
-        "title": "India\u2019s Education Minister Steps Down, Handing Win to Protesters",
+        "title": "India\u2019s Education Minister Steps Down in Victory for Cockroach Party Protesters",
         "link": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
-        "summary": "With Dharmendra Pradhan offering his resignation, the student protest movement achieved a major victory against the government of Prime Minister Narendra Modi.",
+        "summary": "The Cockroach Janta Party called an end to weeks of protests after the education minister resigned, a win for that movement even as deep-seated anger among young people remains.",
         "source": "NYT > World News",
-        "objectivity_score": 39,
-        "sentiment": "Positive",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
             "\u2019 s education minister",
             "steps down",
-            "handing win"
+            "cockroach janta"
         ]
     },
     {
         "title": "Colombia\u2019s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
         "link": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
-        "summary": "While living in Miami, Colombias president-elect represented accused drug traffickers and money launderers. He himself was investigated by U.S. authorities, though never charged.",
+        "summary": "Colombias president-elect, a lawyer, represented accused drug traffickers, among others. While living in Miami, he himself was investigated by U.S. authorities, though never charged.",
         "source": "NYT > World News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
@@ -1208,8 +1222,23 @@
         "image_url": null,
         "keywords": [
             "trump-endorsed president-elect was",
-            "drug traffickers",
-            "money launderers"
+            "authorities colombias",
+            "drug traffickers"
+        ]
+    },
+    {
+        "title": "Bus Collision in Syria Kills 35, Health Ministry Says",
+        "link": "https://www.nytimes.com/2026/07/25/world/middleeast/bus-collision-syria.html",
+        "summary": "The accident occurred when a civilian bus collided with another carrying members of the Syrian security forces on a highway in the center of the country.",
+        "source": "NYT > World News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "bus collision",
+            "syria kills",
+            "ministry says"
         ]
     },
     {
@@ -1227,9 +1256,22 @@
         ]
     },
     {
+        "title": "What\u2019s Left of the U.S.-Iran Cease-Fire Agreement",
+        "link": "https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html",
+        "summary": "Nearly all of the agreements 14 points have been violated.",
+        "source": "NYT > World News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "u.s.-iran cease-fire agreement"
+        ]
+    },
+    {
         "title": "Who Are the People Protesting in India?",
         "link": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
-        "summary": "Some of the young demonstrators who forced out the countrys education minister describe their deep-seated anger, frustration and desires that drove them into the streets.",
+        "summary": "Some of the young demonstrators who forced out the countrys education minister described their deep-seated anger, frustration and desires that drove them into the streets.",
         "source": "NYT > World News",
         "objectivity_score": 26,
         "sentiment": "Negative",
@@ -1237,15 +1279,15 @@
         "image_url": null,
         "keywords": [
             "young demonstrators",
-            "countrys education minister describe"
+            "countrys education minister"
         ]
     },
     {
         "title": "Iran War Live Updates: U.S. Strikes Abate, Even as Trump Considers Escalation",
         "link": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-        "summary": "U.S. forces did not announce new overnight attacks on southern Iran for the first time in about two weeks, but tensions remained high, with Saudi-led forces striking Houthi targets over the Red Sea.",
+        "summary": "U.S. forces did not announce new overnight attacks on southern Iran for the first time in about two weeks, but tensions remained high as the Houthis and Saudi-led forces in Yemen said they had traded ...",
         "source": "NYT > World News",
-        "objectivity_score": 40,
+        "objectivity_score": 36,
         "sentiment": "Positive",
         "date": "2026-07-25",
         "image_url": null,
@@ -1326,48 +1368,43 @@
         ]
     },
     {
-        "title": "In Kyrgyzstan, Girls Compete at Kok-Boru, a Game Like Polo",
-        "link": "https://www.nytimes.com/2026/07/24/world/europe/first-girls-polo-team-breaks-with-tradition-but-keeps-the-goat-carcass.html",
-        "summary": "Heres what happened when some teenage girls dared to compete in the dangerous sport of kok-boru.",
+        "title": "Conditions for European Wildfires Created by Summer of Extremes",
+        "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html",
+        "summary": "The wildfires are scorching parts of France and Spain that had already faced unusually hot and dry summers.",
         "source": "NYT > World News",
-        "objectivity_score": 43,
-        "sentiment": "Negative",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "girls compete",
-            "teenage girls",
-            "dangerous sport"
-        ]
-    },
-    {
-        "title": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
-        "link": "https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html",
-        "summary": "Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian bombing rocked Ukraines capital, as the two countries escalated an air campaign.",
-        "source": "NYT > World News",
-        "objectivity_score": 25,
-        "sentiment": "Negative",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "drones ukrainian",
-            "russian bombing",
-            "air campaign"
-        ]
-    },
-    {
-        "title": "Bus Collision in Syria Kills 35, Health Ministry Says",
-        "link": "https://www.nytimes.com/2026/07/25/world/middleeast/bus-collision-syria.html",
-        "summary": "The accident occurred when a civilian bus collided with another carrying members of the Syrian security forces on a highway in the center of the country.",
-        "source": "NYT > World News",
-        "objectivity_score": 10,
+        "objectivity_score": 48,
         "sentiment": "Neutral",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
-            "bus collision",
-            "syria kills",
-            "ministry says"
+            "wildfires created",
+            "dry summers"
+        ]
+    },
+    {
+        "title": "\u2018There have always been wildfires here, but never like this.\u2019",
+        "link": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/there-have-always-been-wildfires-here-but-never-like-this",
+        "summary": "",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "\u2018there"
+        ]
+    },
+    {
+        "title": "Wildfire in France Rages Near Bordeaux, a Famed Wine City",
+        "link": "https://www.nytimes.com/2026/07/25/world/europe/saumos-wildfire-france-spain-bordeaux.html",
+        "summary": "A blaze sweeping the countryside of southwestern France drew close enough to worry officials in the city of some 270,000 people.",
+        "source": "NYT > World News",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "france rages near bordeaux"
         ]
     },
     {
@@ -1399,7 +1436,7 @@
         ]
     },
     {
-        "title": "As Trump Escalates Trade War, Ontario Premier Doug Ford Wants to Retaliate",
+        "title": "As Trump Escalates Trade War With Canada, Ontario Premier Doug Ford Wants to Retaliate",
         "link": "https://www.nytimes.com/2026/07/25/world/canada/trump-tariffs-trade-wildfires-smoke.html",
         "summary": "While Mark Carney weighs his next steps, some provincial leaders point to oil, electricity and potash as powerful leverage against U.S. economic pressure.",
         "source": "NYT > World News",
@@ -1468,36 +1505,6 @@
         "keywords": [
             "rare pompeii ceiling",
             "depicting scene"
-        ]
-    },
-    {
-        "title": "A Turkish Governor Was Ousted. Were Bicycling Tights to Blame?",
-        "link": "https://www.nytimes.com/2026/07/24/world/asia/turkey-governor-fired-cycling-shorts.html",
-        "summary": "Mehmet Fatih Cicekli posted some social media content of himself in workout gear. Then he lost his job.",
-        "source": "NYT > World News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "turkish governor",
-            "was ousted",
-            "were bicycling tights"
-        ]
-    },
-    {
-        "title": "Ukraine Strikes Warehouses of Russia\u2019s Largest Online Retailer",
-        "link": "https://www.nytimes.com/video/world/europe/100000011051467/russia-ukraine-wildberries-attacks.html",
-        "summary": "Ukraine has struck warehouses belonging to Wildberries, Russias largest online retailer, in recent days. The attacks were meant to damage Russias economy as both sides traded strikes this week.",
-        "source": "NYT > World News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "ukraine strikes warehouses",
-            "largest online retailer ukraine",
-            "online retailer"
         ]
     },
     {
@@ -1801,11 +1808,11 @@
         ]
     },
     {
-        "title": "France and Spain race to control wildfires as more than 250,000 evacuated \u2013 live",
+        "title": "France and Spain race to control wildfires as more than 250,000 evacuated \u2013 as it happened",
         "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
         "summary": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as very serious by Scotlands first ministerTell us: have you been affected by wildfires in Europe?The French prime mini...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 37,
         "sentiment": "Neutral",
         "date": "2026-07-25",
         "image_url": null,
@@ -1813,6 +1820,21 @@
             "national park",
             "french prime minister",
             "sbastien lecornu"
+        ]
+    },
+    {
+        "title": "More than 250,000 people flee wildfires in France and Spain",
+        "link": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
+        "summary": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have forced more than 250,000...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "people flee wildfires",
+            "spain hundreds",
+            "firefighters battle blazes"
         ]
     },
     {
@@ -1858,21 +1880,6 @@
             "people flee",
             "wildfires sweep",
             "spain highly"
-        ]
-    },
-    {
-        "title": "Law student charged after military-grade bomb intercepted near Irish border",
-        "link": "https://www.theguardian.com/world/2026/jul/24/woman-man-arrested-ireland-police-intercept-highly-sophisticated-bomb",
-        "summary": "Isobella Perrie Sullivan, 25, remanded in custody after intelligence-led operation against dissident republicans A 25-year-old law student has been charged in relation to an extremely significant bomb...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Positive",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "law student",
-            "military-grade bomb",
-            "irish border"
         ]
     },
     {
@@ -1951,9 +1958,24 @@
         ]
     },
     {
+        "title": "India\u2019s education minister resigns in victory for Cockroach youth movement protests",
+        "link": "https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement",
+        "summary": "Dharmendra Pradhan steps down after demonstrations over exam leak scandal, prompting celebrations among thousands of protestersIndias education minister, Dharmendra Pradhan, has resigned after a week ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s education minister resigns",
+            "youth movement protests",
+            "dharmendra pradhan"
+        ]
+    },
+    {
         "title": "Indian celebrities fiercely criticised for silence on Cockroach protests",
         "link": "https://www.theguardian.com/world/2026/jul/25/india-celebrities-fiercely-criticised-silence-cockroach-cjp-protests",
-        "summary": "Stars accused of cowardice as hundreds of thousands of young Indians take to the streets to challenge governmentBollywood stars and other Indian celebrities have faced fierce criticism this week for s...",
+        "summary": "Bollywood stars accused of cowardice as hundreds of thousands of young Indians take to the streets to challenge governmentBollywood stars and other Indian celebrities have faced fierce criticism for s...",
         "source": "World news | The Guardian",
         "objectivity_score": 41,
         "sentiment": "Neutral",
@@ -1963,21 +1985,6 @@
             "indian celebrities",
             "governmentbollywood stars",
             "indian celebrities"
-        ]
-    },
-    {
-        "title": "India\u2019s education minister resigns amid Cockroach youth movement protests",
-        "link": "https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement",
-        "summary": "Dharmendra Pradhan steps down after demonstrations over exam leak scandal, in major victory for protestersIndias education minister, Dharmendra Pradhan, has resigned after a week of mass demonstration...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Positive",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s education minister resigns",
-            "youth movement protests",
-            "dharmendra pradhan"
         ]
     },
     {
@@ -2026,6 +2033,36 @@
         ]
     },
     {
+        "title": "Swinney requests UK military aid as 500 firefighters tackle Cairngorms wildfire",
+        "link": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
+        "summary": "Scottish first minister hopes aerial support will help quench 10-day fire that has forced evacuation of Highlands villageThe first minister of Scotland has asked for military aid from the UK governmen...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "military aid",
+            "firefighters tackle",
+            "aerial support"
+        ]
+    },
+    {
+        "title": "New North Sea oil drilling faces delay after gear accidentally dropped in sea",
+        "link": "https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea",
+        "summary": "Exclusive: Blunder at Rosebank, UKs biggest undeveloped oilfield, comes as government considers granting licenceProduction at Britains biggest undeveloped oil and gasfield could be delayed for months ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "new north sea oil",
+            "faces delay",
+            "undeveloped oilfield"
+        ]
+    },
+    {
         "title": "Southport killer \u2018trying to retraumatise families from cell\u2019, says lawyer",
         "link": "https://www.theguardian.com/law/2026/jul/25/southport-killer-axel-rudakubana-trying-to-retraumatise-families-from-cell-says-lawyer",
         "summary": "Comment follows news Axel Rudakubana was transferred from prison to psychiatric hospitalThe lawyer for the families of Axel Rudakubanas victims has said the Southport killer is trying to retraumatise ...",
@@ -2041,33 +2078,18 @@
         ]
     },
     {
-        "title": "\u2018Nobody was there for us\u2019: mother urges Andy Burnham to reopen case of daughter killed in Texas",
+        "title": "Lucy Harrison\u2019s father was holding the gun that killed her but was never arrested. Now her mother wants Andy Burnham to take up the case",
         "link": "https://www.theguardian.com/us-news/2026/jul/25/mother-urges-andy-burnham-reopen-case-daughter-lucy-harrison-killed-texas",
-        "summary": "Lucy Harrison, 23, was shot in 2025 with her fathers gun. He was never arrested and a grand jury chose not to indict himLucy Harrison felt that 2024 was her best year yet. The 23-year-old had graduate...",
+        "summary": "Eighteen months after her daughters death in Texas, Jane Coates hopes new PM can persuade US authorities to reopen caseLucy Harrison felt that 2024 was her best year yet. The 23-year-old had graduated...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 34,
         "sentiment": "Positive",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
-            "andy burnham",
-            "reopen case",
-            "texas lucy harrison"
-        ]
-    },
-    {
-        "title": "Entire Cairngorms village evacuated as raging wildfire nears",
-        "link": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
-        "summary": "Major incident declared over blaze that has intensified amid strengthening windsA major incident has been declared over a wildfire that has been raging in the Cairngorms national park for more than a ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 61,
-        "sentiment": "Positive",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "entire cairngorms",
-            "wildfire nears major incident",
-            "windsa major incident"
+            "lucy harrison",
+            "\u2019 s father",
+            "andy burnham"
         ]
     },
     {
@@ -2086,93 +2108,78 @@
         ]
     },
     {
-        "title": "Almost 75% of England\u2019s riverbanks \u2018off limits\u2019 to public, figures show",
-        "link": "https://www.theguardian.com/environment/2026/jul/25/almost-75-percent-england-riverbanks-off-limits-to-public",
-        "summary": "Campaigners urge government to introduce right of access to water, particularly as heatwaves become more commonAlmost three-quarters of riverbanks in England have no public access, according to data r...",
+        "title": "Scorching US heat wave to hit 70 million people with third \u2018heat dome\u2019 in month",
+        "link": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
+        "summary": "Temperatures of 95-105F (35-40C) are expected, spanning Gulf of Mexico coast to the Great Plains and the midwestAbout 70 million people in the US are set to face excessive heat advisories as dangerous...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
-            "\u2019 s riverbanks \u2018",
-            "limits \u2019",
-            "urge government"
+            "us heat wave",
+            "\u2018 heat dome \u2019",
+            "excessive heat advisories"
         ]
     },
     {
-        "title": "Troy Jackson: the Maine lumberjack Democrats believe can beat Susan Collins",
-        "link": "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine",
-        "summary": "Jackson, set to replace Graham Platner, is prominent workers rights advocate and a leading progressive voiceAs cinemagoers flock to The Odyssey, Democrats in Maine are hoping that their long and peril...",
+        "title": "Cecilia Vega of 60 Minutes says she felt pressure from CBS to add \u2018political bias\u2019",
+        "link": "https://www.theguardian.com/us-news/2026/jul/25/cecilia-vega-60-minutes-cbs-political-bias",
+        "summary": "Vega made remarks to ABCs John Quiones at  National Association of Hispanic Journalists conference Cecilia Vega, the former 60 Minutes correspondent, said on Thursday she felt pressured by CBS Newss e...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
+        "objectivity_score": 19,
         "sentiment": "Neutral",
+        "date": "2026-07-25",
+        "image_url": null,
+        "keywords": [
+            "cecilia vega",
+            "political bias \u2019",
+            "abcs john quiones"
+        ]
+    },
+    {
+        "title": "Troy Jackson secures Democratic nomination for Maine Senate seat after chaotic primary race",
+        "link": "https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat",
+        "summary": "Progressive former state senate president gains nomination after Graham Platner dropped out over sexual assault allegationsIn a race defined by scandal, withdrawals and a frantic hunt for a replacemen...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Positive",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
             "troy jackson",
-            "susan collins jackson",
-            "graham platner"
+            "democratic nomination",
+            "senate seat"
         ]
     },
     {
-        "title": "\u2018Really inappropriate\u2019: teachers decry plan for humanoid robot in New York high school",
-        "link": "https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school",
-        "summary": "Robot from company that acquired sex doll maker to be introduced in school with large Native American populationA humanoid robot is being introduced as part of a pilot program, along with an AI teachi...",
+        "title": "Eight family members found dead in Michigan fire, some with gunshot wounds",
+        "link": "https://www.theguardian.com/us-news/2026/jul/25/eight-family-members-dead-michigan-fire",
+        "summary": "Firefighters responded to an emergency call and found the bodies, six of which were those of childrenA devastating tragedy has unfolded in Michigan after emergency crews responding to a house fire fou...",
         "source": "World news | The Guardian",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "inappropriate \u2019",
-            "teachers decry plan",
-            "humanoid robot"
-        ]
-    },
-    {
-        "title": "\u2018I\u2019m over the moon\u2019: New York\u2019s small business owners rejoice as Mamdani cuts red tape",
-        "link": "https://www.theguardian.com/us-news/2026/jul/25/zohran-mamdani-small-business-policies",
-        "summary": "Initiatives including cutting permits just to serve ice-cream amount to a sweeping program of deregulationRed Scare? The democratic socialist mayor of New York City spent this week talking about red t...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 32,
+        "objectivity_score": 52,
         "sentiment": "Neutral",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
-            "moon \u2019",
-            "small business owners rejoice",
-            "red tape"
+            "family members",
+            "gunshot wounds",
+            "emergency crews"
         ]
     },
     {
-        "title": "\u2018Shameful\u2019: Pentagon accused of cover-up over US military casualties in Iran war",
-        "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up",
-        "summary": "No press briefing has been held for months, as the defence department belatedly or inaccurately releases figuresThe Pentagon is taking a shameful approach to releasing information about US casualties ...",
+        "title": "Fourth firefighter dies from burns received in June during Colorado wildfire operation",
+        "link": "https://www.theguardian.com/us-news/2026/jul/25/fourth-firefighter-dies-colorado-wildfire-operation",
+        "summary": "Nathan Matthews, 43, died a month after deadly burnover enveloped his fire crew near the Colorado-Utah borderA fourth firefighter has died from burns after he and several colleagues were overcome by a...",
         "source": "World news | The Guardian",
-        "objectivity_score": 20,
+        "objectivity_score": 18,
         "sentiment": "Neutral",
         "date": "2026-07-25",
         "image_url": null,
         "keywords": [
-            "military casualties",
-            "defence department",
-            "releases figuresthe pentagon"
-        ]
-    },
-    {
-        "title": "\u2018Maybe he\u2019s a \u200cracist\u2019: Donald Trump takes bizarre swipe at NBA great LeBron James",
-        "link": "https://www.theguardian.com/sport/2026/jul/25/president-trump-basketball-lebron-james-racist",
-        "summary": "US president responds to question about NBAs best everTrump says Balogun red card review worked out greatIn a bizarre response to being asked to weigh in on the basketball careers of Michael Jordan an...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-07-25",
-        "image_url": null,
-        "keywords": [
-            "\u200cracist \u2019",
-            "donald trump",
-            "bizarre swipe"
+            "wildfire operation",
+            "nathan matthews",
+            "fire crew"
         ]
     }
 ]
