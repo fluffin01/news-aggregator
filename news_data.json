@@ -739,7 +739,7 @@
     {
         "title": "What we know so far about the Berlin Pride ramming attack",
         "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-        "summary": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+        "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
         "source": "BBC News",
         "objectivity_score": 50,
         "sentiment": "Neutral",
@@ -749,6 +749,19 @@
             "police manhunt",
             "pride event",
             "german capital"
+        ]
+    },
+    {
+        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+        "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+        "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "battle wildfire"
         ]
     },
     {
@@ -782,11 +795,11 @@
         ]
     },
     {
-        "title": "Gatwick Airport left without  running water and working toilets after major outage",
+        "title": "Water returning to Gatwick Airport after major outage",
         "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
+        "summary": "Gatwick Airport has faced a day of disruptions with toilets and restaurants closed to passengers.",
         "source": "BBC News",
-        "objectivity_score": 25,
+        "objectivity_score": 30,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
@@ -795,30 +808,91 @@
         ]
     },
     {
-        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-        "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-        "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+        "title": "Meghan calls Harry 'a charmer' during MasterChef Australia appearance",
+        "link": "https://www.bbc.co.uk/news/articles/ckg41vn8x7ko?at_medium=RSS&at_campaign=rss",
+        "summary": "The duke surprises his wife with a video call during her guest judge appearance  on MasterChef Australia.",
         "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "battle wildfire"
+            "masterchef australia",
+            "duke surprises",
+            "guest judge appearance"
         ]
     },
     {
-        "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-        "link": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+        "title": "Norris wins his first grand prix of year in Hungary",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix.",
         "source": "BBC News",
-        "objectivity_score": 25,
+        "objectivity_score": 57,
         "sentiment": "Positive",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "italian children",
-            "italian children"
+            "grand prix",
+            "hungary lando norris"
+        ]
+    },
+    {
+        "title": "Teen charged over record crossing on 'mega dinghy'",
+        "link": "https://www.bbc.co.uk/news/articles/clyq5nqw13lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Chan Mathok Atak, 19, is accused of endangering another during a journey by sea to the UK.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "record crossing",
+            "'mega dinghy",
+            "chan mathok atak"
+        ]
+    },
+    {
+        "title": "Ryan Gosling to join Marvel Cinematic Universe as Ghost Rider",
+        "link": "https://www.bbc.co.uk/news/articles/cgq5v72jqglo?at_medium=RSS&at_campaign=rss",
+        "summary": "During a surprise announcement at San Diego Comic-Con, the actor says the character is one he has \"wanted to play for a very long time\".",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "ryan gosling",
+            "marvel cinematic universe",
+            "surprise announcement"
+        ]
+    },
+    {
+        "title": "How rapper Aitch's sister inspired him to climb one of the world's toughest peaks",
+        "link": "https://www.bbc.co.uk/news/articles/cx2dgl98lxko?at_medium=RSS&at_campaign=rss",
+        "summary": "The rapper has been taking on challenges to raise awareness and money for the Down's Syndrome Association.",
+        "source": "BBC News",
+        "objectivity_score": 28,
+        "sentiment": "Negative",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "'s sister",
+            "world 's toughest peaks"
+        ]
+    },
+    {
+        "title": "Man in critical condition after sea rescue",
+        "link": "https://www.bbc.co.uk/news/articles/c7vgnnyye90o?at_medium=RSS&at_campaign=rss",
+        "summary": "A man in his 50s is in critical condition, and a man in his 20s and a teenage girl remain in hospital.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Neutral",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "critical condition",
+            "sea rescue",
+            "critical condition"
         ]
     },
     {
@@ -851,17 +925,17 @@
         ]
     },
     {
-        "title": "What a week's work experience taught these Year 10s about their futures",
-        "link": "https://www.bbc.co.uk/news/articles/cwylpw8rj79o?at_medium=RSS&at_campaign=rss",
-        "summary": "Three 15-year-olds tell the BBC how their outlook changed after one week in the world of work.",
+        "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+        "link": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 25,
+        "sentiment": "Positive",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "week 's work experience",
-            "year 10s"
+            "italian children",
+            "italian children"
         ]
     },
     {
@@ -891,17 +965,92 @@
         ]
     },
     {
-        "title": "How rapper Aitch's sister inspired him to climb one of the world's toughest peaks",
-        "link": "https://www.bbc.co.uk/news/articles/cx2dgl98lxko?at_medium=RSS&at_campaign=rss",
-        "summary": "The rapper has been taking on challenges to raise awareness and money for the Down's Syndrome Association.",
+        "title": "Left-wing Democrats are on a winning run in the US - but can they defeat Republicans?",
+        "link": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
+        "summary": "They have seen a flurry of recent wins, but Michigan will test their ability to win back working-class voters in crucial states.",
         "source": "BBC News",
-        "objectivity_score": 28,
+        "objectivity_score": 43,
+        "sentiment": "Positive",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "working-class voters",
+            "crucial states"
+        ]
+    },
+    {
+        "title": "How to see July's full Buck Moon as it rises in the night sky",
+        "link": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&at_campaign=rss",
+        "summary": "July's full Moon, know as the Buck Moon, is set to light up the night sky next week.",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "buck moon",
+            "night sky",
+            "buck moon"
+        ]
+    },
+    {
+        "title": "My entire family went on a boat trip that they never returned from",
+        "link": "https://www.bbc.co.uk/news/articles/cn8n99xe7pvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Peter Watts was just 14 when a pleasure boat disaster killed 15 people, including his entire family.",
+        "source": "BBC News",
+        "objectivity_score": 41,
+        "sentiment": "Neutral",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "entire family",
+            "boat trip",
+            "peter watts"
+        ]
+    },
+    {
+        "title": "It's me, Cathy \u2013 thousands pay tribute to Kate Bush classic",
+        "link": "https://www.bbc.co.uk/news/articles/cdx7ne106g4o?at_medium=RSS&at_campaign=rss",
+        "summary": "People in Haworth join thousands around the world to re-create the 1978 video for Wuthering Heights.",
+        "source": "BBC News",
+        "objectivity_score": 16,
+        "sentiment": "Positive",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "\u2013 thousands",
+            "kate bush",
+            "classic people"
+        ]
+    },
+    {
+        "title": "Gymnast Reuben Ward goes from Glasgow dreamer to gold medallist",
+        "link": "https://www.bbc.co.uk/sport/gymnastics/articles/cx2r808lmreo?at_medium=RSS&at_campaign=rss",
+        "summary": "Twelve years ago, a young Reuben Ward watched wide-eyed as Dan Keatings won gymnastics gold for Scotland in Glasgow. Now he celebrates achieving the same feat in the 2026 Commonwealth Games.",
+        "source": "BBC News",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "gymnast reuben ward",
+            "gold medallist",
+            "reuben ward"
+        ]
+    },
+    {
+        "title": "Emmerdale makers seek forever home for soap village",
+        "link": "https://www.bbc.co.uk/news/articles/c2lqje1yndvo?at_medium=RSS&at_campaign=rss",
+        "summary": "The company behind the TV drama asks to make permanent the site of its current set in Leeds.",
+        "source": "BBC News",
+        "objectivity_score": 55,
         "sentiment": "Negative",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "'s sister",
-            "world 's toughest peaks"
+            "soap village",
+            "tv drama",
+            "current set"
         ]
     },
     {
@@ -919,130 +1068,31 @@
         ]
     },
     {
-        "title": "Iran's 'sabre-rattling' should not intimidate UK, Wes Streeting says",
-        "link": "https://www.bbc.co.uk/news/articles/c8dng4lvrvqo?at_medium=RSS&at_campaign=rss",
-        "summary": "The defence secretary warns Britain \"stands ready to respond to any attacks Iran wishes to wage against this country or our allies\".",
+        "title": "Rental searches for pet friendly properties drop after law change",
+        "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "wes streeting",
-            "defence secretary warns"
-        ]
-    },
-    {
-        "title": "Left-wing Democrats are on a winning run in the US - but can they defeat Republicans?",
-        "link": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
-        "summary": "They have seen a flurry of recent wins, but Michigan will test their ability to win back working-class voters in crucial states.",
-        "source": "BBC News",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "working-class voters",
-            "crucial states"
-        ]
-    },
-    {
-        "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-        "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-        "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
-        "source": "BBC News",
-        "objectivity_score": 42,
+        "objectivity_score": 70,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "farm land",
-            "west bank"
+            "friendly properties drop"
         ]
     },
     {
-        "title": "Man in critical condition after sea rescue",
-        "link": "https://www.bbc.co.uk/news/articles/c7vgnnyye90o?at_medium=RSS&at_campaign=rss",
-        "summary": "A man in his 50s is in critical condition, and a man in his 20s and a teenage girl remain in hospital.",
+        "title": "'It was like a movie - I looked up and an exploded barn rained on me'",
+        "link": "https://www.bbc.co.uk/news/articles/cyvlezl076no?at_medium=RSS&at_campaign=rss",
+        "summary": "Photographer Scott Johnson's studio is close to where a fire triggered a massive explosion.",
         "source": "BBC News",
-        "objectivity_score": 53,
+        "objectivity_score": 100,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "critical condition",
-            "sea rescue",
-            "critical condition"
-        ]
-    },
-    {
-        "title": "People call me the sex MP but we need to be educating",
-        "link": "https://www.bbc.co.uk/news/articles/ce970rkk9r3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Samantha Niblett officially launches her \"summer of sex\" campaign, as her educational bid ramps up.",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Positive",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "samantha niblett",
-            "educational bid ramps"
-        ]
-    },
-    {
-        "title": "Mr Motivator delivers fitness class at care home",
-        "link": "https://www.bbc.co.uk/news/articles/c36de4jz4e5o?at_medium=RSS&at_campaign=rss",
-        "summary": "The 90s TV legend brightens up the day for a group of residents at a facility in West Yorkshire.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "mr motivator",
-            "delivers fitness class",
-            "care home"
-        ]
-    },
-    {
-        "title": "Your tips on getting a fussy child to eat, and six recipes they'll love",
-        "link": "https://www.bbc.co.uk/news/articles/c5yrjgj984qo?at_medium=RSS&at_campaign=rss",
-        "summary": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.",
-        "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Positive",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "fussy child",
-            "summer holidays"
-        ]
-    },
-    {
-        "title": "'Extraordinary sight' of rare bird from Asia spotted in UK",
-        "link": "https://www.bbc.co.uk/news/videos/c8dnmv7356do?at_medium=RSS&at_campaign=rss",
-        "summary": "A long-tailed shrike has been spotted in Eastleach in Gloucestershire after flying off course from Asia.",
-        "source": "BBC News",
-        "objectivity_score": 95,
-        "sentiment": "Positive",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "'extraordinary sight",
-            "rare bird"
-        ]
-    },
-    {
-        "title": "Organ donation helped save seven lives after crash",
-        "link": "https://www.bbc.co.uk/news/articles/c77gjz0gkx5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Tributes are paid to Edward Pearce after the 20-year-old died in a crash on the A27 near Pevensey.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "edward pearce"
+            "photographer scott johnson",
+            "'s studio",
+            "massive explosion"
         ]
     },
     {
@@ -1100,63 +1150,62 @@
         ]
     },
     {
-        "title": "After chaotic return, where does Joshua win leave Fury fight?",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/cgr7gyv8zq0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Where does Anthony Joshua's chaotic comeback win over Kristian Prenga leave the super-fight with Tyson Fury?",
+        "title": "Norris wins his first grand prix of year in Hungary",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix.",
         "source": "BBC News",
-        "objectivity_score": 40,
+        "objectivity_score": 57,
         "sentiment": "Positive",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "chaotic return",
-            "anthony joshua",
-            "chaotic comeback"
+            "grand prix",
+            "hungary lando norris"
         ]
     },
     {
-        "title": "Gomez injury overshadows winning start for Iraola",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss",
-        "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
+        "title": "Chiesa happy but wants new chapter at Liverpool",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c70gzrx034ro?at_medium=RSS&at_campaign=rss",
+        "summary": "Liverpool forward Federico Chiesa says he is \"happy\" at the club amid speculation over his future.",
         "source": "BBC News",
-        "objectivity_score": 44,
+        "objectivity_score": 53,
         "sentiment": "Positive",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "injury overshadows",
-            "iraola liverpool",
-            "andoni iraola"
+            "new chapter",
+            "liverpool liverpool",
+            "federico chiesa"
         ]
     },
     {
-        "title": "England suffer heavy netball defeat by Australia",
-        "link": "https://www.bbc.co.uk/sport/netball/articles/cdrvg3ypx5yo?at_medium=RSS&at_campaign=rss",
-        "summary": "England captain Fran Williams says her team were \"far from our best\" in a 66-47 defeat by defending Commonwealth champions Australia.",
+        "title": "Mayo beat Kerry in thriller to end 75-year All-Ireland wait",
+        "link": "https://www.bbc.co.uk/sport/articles/c70gzrpky87o?at_medium=RSS&at_campaign=rss",
+        "summary": "Mayo end a 75-year wait for the county's fourth All-Ireland Senior Football title with a 1-20 to 1-17 victory over Kerry in a captivating and intense final that went down to the wire at a raucous Crok...",
         "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Positive",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "heavy netball defeat",
-            "australia england",
-            "fran williams"
-        ]
-    },
-    {
-        "title": "Highlights - Joshua beats Prenga after early scare",
-        "link": "https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o?at_medium=RSS&at_campaign=rss",
-        "summary": "In his comeback fight, Anthony Joshua suffered two early knockdowns but recovered to dramatically stop Kristian Prenga in the second round in Saudi Arabia.",
-        "source": "BBC News",
-        "objectivity_score": 25,
+        "objectivity_score": 64,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "early scare",
-            "comeback fight",
-            "anthony joshua"
+            "county 's",
+            "all-ireland senior",
+            "football title"
+        ]
+    },
+    {
+        "title": "Complete weekend for Norris but poor result for Sainz - driver ratings",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/c74yr33vvy1o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Hungarian Grand Prix.",
+        "source": "BBC News",
+        "objectivity_score": 62,
+        "sentiment": "Neutral",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "poor result",
+            "driver ratings",
+            "live f1"
         ]
     },
     {
@@ -1205,18 +1254,18 @@
         ]
     },
     {
-        "title": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
+        "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
         "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-        "summary": "The hunt for a 21-year-old man with links to local Islamic groups began early Sunday. The police said they were investigating the attack as a possible act of terrorism.",
+        "summary": "The confrontation with the suspect in what has been described as a likely act of Islamist terrorism occurred as a large-scale manhunt was underway, the authorities said.",
         "source": "NYT > World News",
-        "objectivity_score": 38,
+        "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "fatal attack",
-            "21-year-old man",
-            "possible act"
+            "event attacker killed",
+            "likely act",
+            "large-scale manhunt"
         ]
     },
     {
@@ -1237,15 +1286,16 @@
     {
         "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
         "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-        "summary": "The police said they were searching for a 21-year-old man with links to local Islamist groups, and investigating the crime as a possible act of terrorism.",
+        "summary": "German authorities said the main suspect in the crime, which they called a likely act of terrorism, had been killed in a police raid on Sunday evening.",
         "source": "NYT > World News",
-        "objectivity_score": 50,
+        "objectivity_score": 33,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "21-year-old man",
-            "possible act"
+            "german authorities",
+            "likely act",
+            "police raid"
         ]
     },
     {
@@ -1324,17 +1374,18 @@
         ]
     },
     {
-        "title": "What to Know About the Wildfires Raging in Western Europe",
+        "title": "What to Know About the Deadly Wildfires Raging in Western Europe",
         "link": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
-        "summary": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.",
+        "summary": "Hundreds of thousands of people in France and Spain have been forced to evacuate from huge blazes fueled by soaring temperatures and tinder-dry conditions.",
         "source": "NYT > World News",
-        "objectivity_score": 36,
+        "objectivity_score": 37,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
             "wildfires raging",
-            "europe huge"
+            "europe hundreds",
+            "huge blazes"
         ]
     },
     {
@@ -1362,6 +1413,21 @@
         "keywords": [
             "wildfire smoke chokes skies",
             "france hundreds"
+        ]
+    },
+    {
+        "title": "Forced to Evacuate Amid Spain Wildfires, Residents Wonder if Their Homes Still Stand",
+        "link": "https://www.nytimes.com/2026/07/26/world/europe/spain-fires-evacuees-voices.html",
+        "summary": "In central Spain, thousands of people sleep in shelters or in their cars, some of them evacuated multiple times ahead of the advancing flames, awaiting word on what they left behind.",
+        "source": "NYT > World News",
+        "objectivity_score": 23,
+        "sentiment": "Negative",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "evacuate amid spain wildfires",
+            "residents wonder",
+            "people sleep"
         ]
     },
     {
@@ -1491,19 +1557,6 @@
         "keywords": [
             "wildfires created",
             "dry summers"
-        ]
-    },
-    {
-        "title": "\u2018There have always been wildfires here, but never like this.\u2019",
-        "link": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/there-have-always-been-wildfires-here-but-never-like-this",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "\u2018there"
         ]
     },
     {
@@ -1732,6 +1785,36 @@
         ]
     },
     {
+        "title": "\u2018Get rid of them\u2019: One Nation senator claims party will \u2018remigrate\u2019 illegal visa holders in resurfaced interview",
+        "link": "https://www.theguardian.com/australia-news/2026/jul/27/get-rid-of-them-one-nation-senator-claims-party-will-remigrate-visa-holders-in-resurfaced-interview-ntwnfb",
+        "summary": "Exclusive: Malcolm Roberts uses white supremacist concept to describe the partys plans for deporting 200,000 people from AustraliaSenator Malcolm Roberts claims One Nation wants to deport at least 200...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
+        "sentiment": "Neutral",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "senator claims party",
+            "\u2018 remigrate \u2019",
+            "illegal visa holders"
+        ]
+    },
+    {
+        "title": "Israeli siblings who fear breaking law in Gaza under IDF owed protection by Australia, tribunal finds",
+        "link": "https://www.theguardian.com/australia-news/2026/jul/27/israeli-siblings-owed-protection-by-australia-after-vowing-not-to-serve-in-idf-tribunal-finds-ntwnfb",
+        "summary": "Exclusive: Tribunal accepts three siblings could face persecution for refusing military conscription due to their political opinion on warThree Israeli citizens facing conscription into the Israel Def...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "military conscription",
+            "political opinion",
+            "protection visas"
+        ]
+    },
+    {
         "title": "\u2018Socialist\u2019 teachers target eight Victorian Labor MPs including education minister \u2013 as it happened",
         "link": "https://www.theguardian.com/politics/blog/live/2026/jul/26/australia-news-live-politics-pauline-hanson-ed-husic-anthony-albanese-labor-party-conference-bird-flu-ntwnfb",
         "summary": "This blog is now closedWere cohesive: PM says after muted ALP national conferenceThe prime minister, Anthony Albanese, spoke with David Speers on Insiders as Labors 50th national conference in Adelaid...",
@@ -1777,67 +1860,52 @@
         ]
     },
     {
-        "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
-        "link": "https://www.theguardian.com/australia-news/2026/jul/25/australian-households-prospect-interest-rate-hike-petrol-prices-rising",
-        "summary": "Economists warning comes as escalating Middle East crisis pushes global crude oil back above $US100 a barrelGet our breaking news email, free app or daily news podcastAustralian households face the pr...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 18,
-        "sentiment": "Neutral",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "interest rate",
-            "petrol prices",
-            "crisis pushes"
-        ]
-    },
-    {
-        "title": "Pauline Hanson\u2019s domestic violence comments were no stumble",
-        "link": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-domestic-violence-comments-mra-mens-rights-activists-ntwnfb",
-        "summary": "The One Nation leader has allied herself with mens rights activists for years, consistently suggesting women routinely make false allegations of violence Follow our Australia news live blog for latest...",
+        "title": "Police shoot dead Berlin Pride van and knife rampage suspect, officials say",
+        "link": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
+        "summary": "Abdul Ballout, 21, reportedly shot in operation at allotment in Spandau district after fatal attack in Tiergarten parkA man suspected of a driving a van into a crowd near Berlins Pride festival then g...",
         "source": "World news | The Guardian",
         "objectivity_score": 42,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "pauline hanson",
-            "domestic violence comments",
-            "mens rights activists"
+            "police shoot",
+            "pride van",
+            "knife rampage"
+        ]
+    },
+    {
+        "title": "Joy in Greece as Mount Olympus joins Unesco list of world heritage sites",
+        "link": "https://www.theguardian.com/world/2026/jul/26/greece-mount-olympus-unesco-world-heritage-site",
+        "summary": "Mythical home of the ancient Greek gods designated alongside the D-day landing beaches in NormandyAfter a 12-year wait, Mount Olympus, the mythical home of the ancient Greek gods, has been inducted in...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 14,
+        "sentiment": "Positive",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "world heritage sites",
+            "ancient greek gods",
+            "mythical home"
         ]
     },
     {
         "title": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
         "link": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
-        "summary": "Authorities ask for help finding 21-year-old, identified only as Abdul B, after van ramming in German capitalGerman authorities have issued a wanted notice for a fugitive suspect in the van ramming ne...",
+        "summary": "Authorities issue wanted notice for Abdul Ballout, 21, after deadly van ramming described as Islamist terrorismGerman authorities have issued a wanted notice for a suspect in a deadly van ramming near...",
         "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
+        "objectivity_score": 29,
+        "sentiment": "Negative",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
             "police hunt",
-            "german capitalgerman authorities",
-            "pride festival"
+            "abdul ballout",
+            "terrorismgerman authorities"
         ]
     },
     {
-        "title": "Firefighters in France battle to prevent huge blaze from approaching Bordeaux",
-        "link": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
-        "summary": "Efforts to contain wildfire that has consumed an area of four times the size of Paris impeded by windy conditionsEurope wildfires live  latest updatesAuthorities are battling to contain a huge wildfir...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 57,
-        "sentiment": "Positive",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "huge blaze",
-            "bordeaux efforts",
-            "windy conditionseurope wildfires"
-        ]
-    },
-    {
-        "title": "Europe wildfires: \u2018Difficult hours lie ahead\u2019 in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
+        "title": "Europe wildfires: \u2018Difficult hours lie ahead\u2019 in battle to contain fires, says Pedro S\u00e1nchez as more than 300,000 flee homes in France and Spain \u2013 as it happened",
         "link": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
         "summary": "Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in FranceMore than 250,000 people flee wildfires in France and SpainAs m...",
         "source": "World news | The Guardian",
@@ -1847,38 +1915,38 @@
         "image_url": null,
         "keywords": [
             "hours lie",
-            "pedro sanchez",
+            "pedro s\u00e1nchez",
             "flee homes"
         ]
     },
     {
-        "title": "\u2018Scandalous, irrational and irresponsible\u2019: French beekeepers\u2019 fury at lifting of pesticides ban",
-        "link": "https://www.theguardian.com/world/2026/jul/26/french-beekeepers-fury-lifting-of-pesticides-ban",
-        "summary": "Allowing use of two neonicotinoids to combat crop-ruining disease will kill bees and reduce harvests, union saysBeekeepers and environmentalists in France have reacted furiously after parliament appro...",
+        "title": "Romania summons Russia\u2019s ambassador after downing third drone since Friday",
+        "link": "https://www.theguardian.com/world/2026/jul/26/romania-summons-russia-ambassador-third-drone-shot-down",
+        "summary": "F-16 fighter jet intercepted drone in Romanian airspace over Black Sea, defence minister saysRomania has said it is summoning Russias ambassador after the Nato members military shot down a third drone...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
+        "objectivity_score": 31,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "irresponsible \u2019",
-            "french beekeepers \u2019 fury",
-            "pesticides ban"
+            "\u2019 s ambassador",
+            "fighter jet",
+            "defence minister saysromania"
         ]
     },
     {
-        "title": "France and Spain race to control wildfires as more than 250,000 evacuated \u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
-        "summary": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as very serious by Scotlands first ministerTell us: have you been affected by wildfires in Europe?The French prime mini...",
+        "title": "US pauses Iran attacks for second night after Trump advised to halt bombing",
+        "link": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
+        "summary": "Top military officials say campaign has reached its limit of effectiveness and warn of dwindling stocks of munitionsThe US has paused strikes on Iran for a second night as top military officials advis...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 21,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "national park",
-            "french prime minister",
-            "sbastien lecornu"
+            "us pauses",
+            "military officials",
+            "munitionsthe us"
         ]
     },
     {
@@ -1942,18 +2010,18 @@
         ]
     },
     {
-        "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
-        "link": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-        "summary": "No end to fighting in sight as Revolutionary Guards launch drones at targets in Bahrain, Jordan and KuwaitThe US has struck targets across Iran, reaching as far as the Caspian Sea, as Donald Trump thr...",
+        "title": "India\u2019s Cockroach Janta party protest victory signals trouble ahead for Modi",
+        "link": "https://www.theguardian.com/world/2026/jul/26/india-cockroach-protest-victory-signals-trouble-ahead-for-narendra-modi",
+        "summary": "Ally forced to resign, with opposition parties reinvigorated and strongman leaders grip over media channels rockedEven the night before Narendra Modi accepted the resignation of his education minister...",
         "source": "World news | The Guardian",
-        "objectivity_score": 28,
+        "objectivity_score": 43,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "us expands",
-            "red sea strikes",
-            "launch drones"
+            "cockroach janta",
+            "victory signals trouble",
+            "modi ally"
         ]
     },
     {
@@ -2017,93 +2085,138 @@
         ]
     },
     {
-        "title": "The \u2018cockroaches\u2019 marching on India\u2019s government \u2013 podcast",
-        "link": "https://www.theguardian.com/news/audio/2026/jul/24/the-cockroaches-marching-on-indias-government-podcast",
-        "summary": "South Asia correspondent Hannah Ellis-Petersen on the Cockroach movement  and the students driving Indias biggest protests in yearsIve never seen this many young people out on the streets, says Hannah...",
+        "title": "Industry star David Jonsson to play Black Panther in Marvel sequel",
+        "link": "https://www.theguardian.com/film/2026/jul/26/industry-star-david-jonsson-to-play-black-panther-in-marvel-sequel",
+        "summary": "Director Ryan Coogler announces British actor in lead role alongside co-stars Letitia Wright and Winston DukeThe British actor David Jonsson has been unveiled as the new Black Panther by the films dir...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "\u2018 cockroaches \u2019",
-            "\u2019 s government \u2013 podcast",
-            "hannah ellis-petersen"
+            "industry star",
+            "david jonsson",
+            "black panther"
         ]
     },
     {
-        "title": "Is Burnham\u2019s Oxbridge-heavy cabinet a sign of social mobility or lack of progress on class?",
-        "link": "https://www.theguardian.com/politics/2026/jul/26/burnham-oxbridge-cabinet-social-mobility-class",
-        "summary": "PMs team can be seen as backward step even though in some ways it is more diverse. Yet its makeup points to wider access to powerRace, school, gender: the makeup of Andy Burnhams cabinet  in chartsLik...",
+        "title": "England\u2019s north-south life expectancy gap grows despite record longevity",
+        "link": "https://www.theguardian.com/society/2026/jul/26/england-north-south-life-expectancy-gap-grows-despite-record-longevity",
+        "summary": "Kings Fund report finds men and women live, on average, for 80 years and nearly 84 years, but gains are in southThe north-south divide in life expectancy in England has grown over the past decade, wit...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s north-south life expectancy gap",
+            "record longevity",
+            "fund report"
+        ]
+    },
+    {
+        "title": "Water supply failure leaves Gatwick airport without working toilets",
+        "link": "https://www.theguardian.com/uk-news/2026/jul/26/water-supply-failure-gatwick-airport-toilets-bars-restaurants",
+        "summary": "Airports bars and restaurants also unable to serve drinks to passengers because of lack of running waterA water supply failure at Gatwick left passengers without access to working toilets or bars and ...",
         "source": "World news | The Guardian",
         "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "failure leaves",
+            "watera water",
+            "hot drinks"
+        ]
+    },
+    {
+        "title": "Burnham v Starmer: one week in, how do their leadership styles compare?",
+        "link": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-keir-starmer-leadership-styles-compare",
+        "summary": "From TikTok appearances to sugar rush policies, new prime minister is taking different approach to predecessorSix weeks ago Andy Burnham was not even an MP; now the former mayor of Greater Manchester ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
         "sentiment": "Positive",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "social mobility",
-            "backward step",
-            "makeup points"
+            "leadership styles",
+            "sugar rush policies",
+            "new prime minister"
         ]
     },
     {
-        "title": "Andy Burnham says he will disagree with Trump in public if necessary",
-        "link": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
-        "summary": "PM promises to defend national interest before anything else in first big broadcast interview since entering No 10Andy Burnham has promised to disagree with Donald Trump if necessary, including in pub...",
+        "title": "V&A workers hold ballot to strike over pay and heatwave conditions",
+        "link": "https://www.theguardian.com/artanddesign/2026/jul/26/va-workers-hold-ballot-to-strike-over-pay-and-heatwave-conditions",
+        "summary": "Union calls for museum to become accredited London living wage employer and let staff carry water during shiftsWorkers at one of the worlds leading art and design museums are balloting for heatwave st...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "andy burnham",
-            "national interest",
-            "big broadcast interview"
-        ]
-    },
-    {
-        "title": "\u2018Weekday games were amazing\u2019: pubs toast extra \u00a3150m in World Cup sales",
-        "link": "https://www.theguardian.com/business/2026/jul/26/pubs-extra-sales-world-cup-england-football",
-        "summary": "Englands progress provides best football-related uplift of recent years, with one pub too packed to host its Dolly Parton tributeLate opening hours and Englands progress to the semi-final of an expand...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Positive",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "amazing \u2019",
-            "extra \u00a3150m",
-            "world cup sales"
-        ]
-    },
-    {
-        "title": "Family of former Vodafone manager found drowned call for \u2018Adrian\u2019s law\u2019 to protect franchisees",
-        "link": "https://www.theguardian.com/business/2026/jul/26/vodafone-adrian-howe-adrians-law-protect-franchisees",
-        "summary": "Adrian Howes family believe that fears his deal would be financially ruinous led him to kill himselfThe family of a former mobile phone store manager who was found drowned days before his new Vodafone...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 17,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "\u2019 s law \u2019",
-            "adrian howes",
-            "himselfthe family"
+            "heatwave conditions union calls",
+            "wage employer",
+            "design museums"
         ]
     },
     {
-        "title": "UK journalists \u2018self-censoring stories about Trump and the right over safety fears\u2019",
-        "link": "https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety",
-        "summary": "Government-backed investigation finds risks are normalised amid a narrowing of the public conversation Journalists are self-censoring their reporting on rightwing protests, Donald Trumps administratio...",
+        "title": "Trump \u2018border czar\u2019 says ICE officer in Maine killing should not have cleared vetting",
+        "link": "https://www.theguardian.com/us-news/2026/jul/26/trump-border-czar-ice-officer-maine-killing-vetting",
+        "summary": "Tom Homan comments on officers eligibility to serve after reports that agents two ex-wives had accused him of abuseTom Homan, the Trump administration border czar, on Sunday said he did not believe th...",
         "source": "World news | The Guardian",
-        "objectivity_score": 31,
+        "objectivity_score": 15,
         "sentiment": "Neutral",
         "date": "2026-07-26",
         "image_url": null,
         "keywords": [
-            "journalists \u2018",
-            "safety fears \u2019",
-            "public conversation"
+            "\u2018 border czar \u2019",
+            "tom homan",
+            "officers eligibility"
+        ]
+    },
+    {
+        "title": "Katy Perry \u2018deeply appalled\u2019 over White House using her song in Iran war video",
+        "link": "https://www.theguardian.com/us-news/2026/jul/26/katy-perry-firework-song-iran-war-video",
+        "summary": "Singer rebukes Trump administration after it uses her song Firework over footage of missile striking Iranian naval shipPop star Katy Perry has condemned the Trump White House after it used her hit son...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "katy perry",
+            "white house",
+            "war video"
+        ]
+    },
+    {
+        "title": "New Jersey governor signs law banning surveillance pricing to protect shoppers",
+        "link": "https://www.theguardian.com/us-news/2026/jul/26/new-jersey-surveillance-pricing-ban",
+        "summary": "New law prohibits retailers from using personal data to charge different prices for identical productsNew Jersey governor Mikie Sherrill recently signed a new law prohibiting businesses from using sho...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "governor signs law",
+            "new law prohibits retailers",
+            "personal data"
+        ]
+    },
+    {
+        "title": "Oklahoma influencer killed in apparent murder-suicide by husband, police say",
+        "link": "https://www.theguardian.com/us-news/2026/jul/26/oklahoma-influencer-killed-apparent-murder-suicide",
+        "summary": "Sara Gilson was fatally shot less than two weeks after accusing her husband of pedophilia on social mediaAn Oklahoma woman known for posting on social media about parenting her children was fatally sh...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 16,
+        "sentiment": "Neutral",
+        "date": "2026-07-26",
+        "image_url": null,
+        "keywords": [
+            "apparent murder-suicide",
+            "sara gilson",
+            "social mediaan"
         ]
     },
     {
@@ -2119,66 +2232,6 @@
             "zohran mamdani",
             "sartorial choices",
             "alicia keys"
-        ]
-    },
-    {
-        "title": "RFK Jr urges Alzheimer\u2019s screening but blunts key panel that could drive research",
-        "link": "https://www.theguardian.com/us-news/2026/jul/26/rfk-jr-alzheimers-us-preventive-services-task-force",
-        "summary": "Experts say evidence for cognitive screening desired by health secretary not great as taskforce idle since last yearThe US health secretary, Robert F Kennedy Jr, has called for better Alzheimers scree...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 57,
-        "sentiment": "Neutral",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "rfk jr",
-            "key panel",
-            "research experts"
-        ]
-    },
-    {
-        "title": "Trump revives old tropes as he pushes warnings of \u2018communist menace\u2019",
-        "link": "https://www.theguardian.com/us-news/2026/jul/26/trump-communism-democrats-red-scare",
-        "summary": "President harks back to red scare of his childhood to attack US left  but will such language resonate beyond Maga base?Perhaps above all else, Donald Trump is a child of the cold war.Three months befo...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "old tropes",
-            "pushes warnings",
-            "\u2018 communist menace \u2019 president harks"
-        ]
-    },
-    {
-        "title": "How Trump could undermine the midterms",
-        "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms",
-        "summary": "The president really has no power over elections  but that hasnt stopped Trump from laying the groundwork to challenge results in NovemberWhen Donald Trump commandeered primetime US television last Fr...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "novemberwhen donald trump",
-            "primetime us television",
-            "joe biden"
-        ]
-    },
-    {
-        "title": "More than 1 million children lost access to food benefits after Trump bill passed",
-        "link": "https://www.theguardian.com/us-news/2026/jul/25/food-stamps-children-trump",
-        "summary": "Analysis finds more than 4 million Americans lost Snap benefits, or food stamps, from July 2025 to March 2026More than a million children across the US have lost access to Supplemental Nutrition Assis...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-07-26",
-        "image_url": null,
-        "keywords": [
-            "food benefits",
-            "food stamps",
-            "supplemental nutrition assistance program"
         ]
     }
 ]
