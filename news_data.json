@@ -737,18 +737,60 @@
         ]
     },
     {
-        "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
-        "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
+        "title": "Asian nations join growing opposition to Fifa's controversial World Cup investment plan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+        "summary": "The Asian Football Confederation (AFC) says it \"stands in solidarity\" with Uefa and Concacaf in opposition to Fifa's proposal to sell stakes in its competitions to private investors.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "boycott world cup",
-            "world cup",
-            "gianni infantino"
+            "asian nations",
+            "controversial world cup investment plan",
+            "asian football"
+        ]
+    },
+    {
+        "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "summary": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Negative",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "spanish enclave"
+        ]
+    },
+    {
+        "title": "Satellite images show impact of heatwaves and drought on UK landscape",
+        "link": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Verify's analysis indicates vegetation stress in many areas, which may affect wildlife and farming.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "bbc verify",
+            "'s analysis",
+            "vegetation stress"
+        ]
+    },
+    {
+        "title": "Anthropic's Claude AI escapes tests to hack three organisations",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+        "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+        "source": "BBC News",
+        "objectivity_score": 37,
+        "sentiment": "Negative",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "claude ai",
+            "escapes tests"
         ]
     },
     {
@@ -767,103 +809,58 @@
         ]
     },
     {
-        "title": "Crews tackling Suffolk wildfire say they are in better position",
-        "link": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Suffolk Fire and Rescue Service says \"the situation appears to be stabilising\" but at least 12 fire engines will remain on scene.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "fire engines"
-        ]
-    },
-    {
-        "title": "Watch: Thick smoke and flames as crews tackle Suffolk wildfire",
-        "link": "https://www.bbc.co.uk/news/videos/cd0xvkr8y17o?at_medium=RSS&at_campaign=rss",
-        "summary": "Video shows thick plumes of smoke rising from the Suffolk coast, where a major incident is declared.",
-        "source": "BBC News",
-        "objectivity_score": 48,
-        "sentiment": "Negative",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "crews tackle",
-            "shows thick plumes",
-            "major incident"
-        ]
-    },
-    {
-        "title": "British Airways flight called mayday on approach to Heathrow",
-        "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
-        "summary": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
-        "source": "BBC News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "airbus a320",
-            "stall warnings"
-        ]
-    },
-    {
-        "title": "MP Diane Abbott readmitted into Labour Party after suspension",
-        "link": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&at_campaign=rss",
-        "summary": "The long-serving MP apologises for past comments and says she has been issued with a \"formal warning\".",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Negative",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "mp diane abbott",
-            "past comments",
-            "formal warning"
-        ]
-    },
-    {
-        "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-        "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-        "summary": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Negative",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "people drown",
-            "spanish territory"
-        ]
-    },
-    {
-        "title": "Anthropic says Claude AI hacked three firms during cyber tests",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-        "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
-        "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Negative",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "claude ai",
-            "cyber tests"
-        ]
-    },
-    {
-        "title": "Archbishop of Canterbury committed to \u00a3100m slavery fund",
-        "link": "https://www.bbc.co.uk/news/articles/cp9e03ymreyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Dame Sarah Mullally has renewed her commitment to the fund on a visit to Cape Coast Castle in Ghana.",
+        "title": "Sainsbury's agrees to sell Argos for \u00a3120m",
+        "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+        "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "\u00a3100m slavery fund",
-            "dame sarah mullally",
-            "cape coast"
+            "'s agrees",
+            "'s shops"
+        ]
+    },
+    {
+        "title": "British man accused of spying on Cyprus RAF base for Iran",
+        "link": "https://www.bbc.co.uk/news/articles/ce853y7yq7yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Rashad Sultanov, a UK-Azerbaijan national, was arrested in Cyprus on suspicion of spying on RAF Akrotiri.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "british man",
+            "cyprus raf",
+            "iran rashad sultanov"
+        ]
+    },
+    {
+        "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+        "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+        "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
+        "source": "BBC News",
+        "objectivity_score": 66,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "yung filly"
+        ]
+    },
+    {
+        "title": "Drought conditions may worsen before improving as little rain in sight",
+        "link": "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Conditions in the most parched areas of the United Kingdom could worsen before they improve, according to the latest forecasts.",
+        "source": "BBC News",
+        "objectivity_score": 63,
+        "sentiment": "Positive",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "drought"
         ]
     },
     {
@@ -879,6 +876,21 @@
             "summer reading list",
             "holiday book",
             "important parts"
+        ]
+    },
+    {
+        "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+        "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+        "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+        "source": "BBC News",
+        "objectivity_score": 72,
+        "sentiment": "Positive",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "disarmament plan",
+            "credible step",
+            "significant obstacle"
         ]
     },
     {
@@ -912,19 +924,6 @@
         ]
     },
     {
-        "title": "Millions opposed military rule in Myanmar. Is their dream of a revolution over?",
-        "link": "https://www.bbc.co.uk/news/articles/ckgd3k7xe39o?at_medium=RSS&at_campaign=rss",
-        "summary": "Opponents of the junta hoped a revolution would remake Myanmar - but these are disheartening times.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "military rule"
-        ]
-    },
-    {
         "title": "The Papers: 'Cruel summer' and 'Football's staying home'",
         "link": "https://www.bbc.co.uk/news/articles/cwyjgq583j7o?at_medium=RSS&at_campaign=rss",
         "summary": "Fires rage near nuclear plant in Suffolk and Uefa mulls World Cup boycott - Friday's papers.",
@@ -953,45 +952,90 @@
         ]
     },
     {
-        "title": "Why limited war with the US may suit Iran better than peace",
-        "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-        "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+        "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+        "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+        "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
         "source": "BBC News",
-        "objectivity_score": 38,
+        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "all-out war"
+            "new wave"
         ]
     },
     {
-        "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-        "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-        "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+        "title": "AC Milan and Italy great Baresi dies aged 66",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+        "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
         "source": "BBC News",
-        "objectivity_score": 36,
+        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "tourist resorts",
-            "greek island"
+            "ac milan",
+            "ac milan",
+            "franco baresi"
         ]
     },
     {
-        "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
-        "link": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling.",
+        "title": "BP puts North Sea business up for sale",
+        "link": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
+        "summary": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 100,
         "sentiment": "Neutral",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "trump uk",
-            "north sea oil",
-            "andy burnham"
+            "north sea business",
+            "'s operations"
+        ]
+    },
+    {
+        "title": "MP Diane Abbott readmitted into Labour Party after suspension",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&at_campaign=rss",
+        "summary": "The long-serving MP apologises for past comments and says she has been issued with a \"formal warning\".",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Negative",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "mp diane abbott",
+            "past comments",
+            "formal warning"
+        ]
+    },
+    {
+        "title": "Elderly victim of 'cruel' carer can't be left alone after being 'traumatised'",
+        "link": "https://www.bbc.co.uk/news/articles/c75gr627qg9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Louise Harris screamed \"I hope you die in your sleep... you horrible cow\" at Elizabeth Anne Shipton.",
+        "source": "BBC News",
+        "objectivity_score": 44,
+        "sentiment": "Negative",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "carer ca n't",
+            "louise harris",
+            "sleep ..."
+        ]
+    },
+    {
+        "title": "Thames Water boss says leakage targets 'not realistic'",
+        "link": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
+        "source": "BBC News",
+        "objectivity_score": 41,
+        "sentiment": "Positive",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "water boss",
+            "leakage targets 'not",
+            "chris weston"
         ]
     },
     {
@@ -1010,63 +1054,18 @@
         ]
     },
     {
-        "title": "Palestine Action ban to be reviewed by Supreme Court",
-        "link": "https://www.bbc.co.uk/news/articles/c87n321w9qlo?at_medium=RSS&at_campaign=rss",
-        "summary": "The UK's highest court gives Palestine Action's co-founder permission to appeal the government's proscription of the group under anti-terrorism legislation.",
+        "title": "TikToker faces police probe over secret filming using 'smart glasses'",
+        "link": "https://www.bbc.co.uk/news/articles/c4g369y5k8ko?at_medium=RSS&at_campaign=rss",
+        "summary": "The \"content maker\" published videos of encounters with young women and a female Sikh shop worker where he talked of a plot to \"breed out the white race\".",
         "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 38,
         "sentiment": "Neutral",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "action ban",
-            "supreme court",
-            "action 's co-founder permission"
-        ]
-    },
-    {
-        "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-        "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-        "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-        "source": "BBC News",
-        "objectivity_score": 53,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "'s record",
-            "low levels force shutdown",
-            "only nuclear plant"
-        ]
-    },
-    {
-        "title": "Greens review social media operation as Polanski row rumbles on",
-        "link": "https://www.bbc.co.uk/news/articles/cz97ke8dn9wo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Green Party is grappling with how to manage its social media following a controversial post by its leader.",
-        "source": "BBC News",
-        "objectivity_score": 29,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "social media operation",
-            "row rumbles",
-            "green party"
-        ]
-    },
-    {
-        "title": "Four people die after busiest day for small-boat crossings this year",
-        "link": "https://www.bbc.co.uk/news/articles/c5yd2j93r7ro?at_medium=RSS&at_campaign=rss",
-        "summary": "Two deadly incidents occurred as 752 people crossed the Channel into the UK on Wednesday, new figures show.",
-        "source": "BBC News",
-        "objectivity_score": 42,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "busiest day",
-            "small-boat crossings",
-            "new figures"
+            "faces police",
+            "'smart glasses",
+            "content maker"
         ]
     },
     {
@@ -1127,6 +1126,36 @@
         ]
     },
     {
+        "title": "Asian confederation joins Uefa and Concacaf in opposing Fifa plan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+        "summary": "The Asian Football Confederation (AFC) says it \"stands in solidarity\" with Uefa and Concacaf in opposition to Fifa's proposal to sell stakes in its competitions to private investors.",
+        "source": "BBC News",
+        "objectivity_score": 12,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "asian confederation joins",
+            "asian football",
+            "'s proposal"
+        ]
+    },
+    {
+        "title": "AC Milan and Italy great Baresi dies aged 66",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+        "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+        "source": "BBC News",
+        "objectivity_score": 47,
+        "sentiment": "Positive",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "ac milan",
+            "ac milan",
+            "franco baresi"
+        ]
+    },
+    {
         "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
         "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
         "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
@@ -1142,78 +1171,48 @@
         ]
     },
     {
-        "title": "Uefa to boycott World Cups if Fifa plans approved",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-        "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposal...",
+        "title": "De Zerbi's 'ultra' roots and the Brescia connection at Spurs",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c1j15e0p17zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Roberto de Zerbi says he was born an ultra, raised on the Brescia curva alongside his father - and he has carried those roots to north London.",
         "source": "BBC News",
-        "objectivity_score": 13,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "boycott world",
-            "world cup",
-            "member associations vote"
+            "de zerbi",
+            "'s 'ultra",
+            "spurs roberto"
         ]
     },
     {
-        "title": "Challenging times ahead for Newcastle - Shearer",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o?at_medium=RSS&at_campaign=rss",
-        "summary": "MOTD pundit and Newcastle United legend Alan Shearer explains why he is worried about what will happen next at his old club after the departure of manager Eddie Howe.",
+        "title": "The Premier League clubs fighting a World Cup hangover",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c87n3wydzjzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Which Premier League clubs have carried the biggest World Cup workload?",
         "source": "BBC News",
-        "objectivity_score": 40,
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "premier league clubs",
+            "world cup hangover",
+            "premier league clubs"
+        ]
+    },
+    {
+        "title": "Bournemouth agree \u00a326m fee for Benfica defender Silva",
+        "link": "https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Bournemouth agree a deal worth up to almost 26m for Benfica centre-back Antonio Silva.",
+        "source": "BBC News",
+        "objectivity_score": 10,
         "sentiment": "Positive",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "shearer motd",
-            "alan shearer",
-            "old club"
-        ]
-    },
-    {
-        "title": "England captaincy could be what Root needs - Vaughan",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/ckg357xm0jlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Former skipper Michael Vaughan says the England Test captaincy could be \"exactly what Joe Root needs\" after the 35-year-old is appointed to the role for a second time.",
-        "source": "BBC News",
-        "objectivity_score": 8,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "michael vaughan",
-            "england test",
-            "joe root"
-        ]
-    },
-    {
-        "title": "Howe going as spending rules bite - troubles for Newcastle's Saudi owners",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c78g4jn43zko?at_medium=RSS&at_campaign=rss",
-        "summary": "Newcastle United wanted to become one of the world's top clubs under their Saudi owners - but Eddie Howe's decision to leave is a sign of the troubles they are facing.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "world 's",
-            "top clubs",
-            "eddie howe"
-        ]
-    },
-    {
-        "title": "Vomit in the morning, gold in the afternoon for England's gamblers",
-        "link": "https://www.bbc.co.uk/sport/cycling/articles/c1w1px5989xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sickness struck England's team pursuit squad on Thursday morning, but a late gamble and fine ride secured Commonwealth Games gold in the velodrome.",
-        "source": "BBC News",
-        "objectivity_score": 55,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "'s gamblers",
-            "'s team pursuit squad",
-            "late gamble"
+            "\u00a326m fee",
+            "silva bournemouth",
+            "antonio silva"
         ]
     },
     {
@@ -1420,6 +1419,108 @@
         ]
     },
     {
+        "title": "Spain\u2019s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
+        "link": "https://www.nytimes.com/2026/07/31/world/europe/spain-ceuta-border-migrants-sanchez.html",
+        "summary": "Prime Minister Pedro Snchez was set to arrive in Ceuta, a Spanish territory in Africa, amid an escalating crisis for his pro-immigration government.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s leader",
+            "migrants burst across",
+            "pedro snchez"
+        ]
+    },
+    {
+        "title": "Myanmar Pro-Democracy Activists Each Sentenced to 37 Years in Prison",
+        "link": "https://www.nytimes.com/2026/07/31/world/asia/myanmar-sentence-activists-protest.html",
+        "summary": "A group of dissidents this week were each sentenced to 37 years in prison for a peaceful protest against an election widely derided as a sham.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "myanmar pro-democracy activists"
+        ]
+    },
+    {
+        "title": "A Whale Gave Birth. A Drone Was There to Capture the Spectacle.",
+        "link": "https://www.nytimes.com/2026/07/31/world/australia/humpback-whale-birth-video-drone.html",
+        "summary": "A wildlife photographer noticed a humpback whale displaying unusual behavior off Australias east coast, then something extraordinary happened.",
+        "source": "NYT > World News",
+        "objectivity_score": 100,
+        "sentiment": "Positive",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "whale gave birth",
+            "drone was",
+            "wildlife photographer"
+        ]
+    },
+    {
+        "title": "Drone Footage Captures a Whale Giving Birth",
+        "link": "https://www.nytimes.com/video/world/australia/100000011065374/humpback-whale-birth-australia.html",
+        "summary": "Drone footage filmed on July 28 showed a humpback whale giving birth off Australias east coast. A newborn whale was seen surfacing from the blood-reddened water.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "drone footage captures",
+            "birth drone",
+            "humpback whale"
+        ]
+    },
+    {
+        "title": "10 Climbers, Including Nims Purja, Missing After Avalanche on Broad Peak in Pakistan",
+        "link": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-broad-peak-pakistan.html",
+        "summary": "Nirmal Purja, an influential mountaineer, was part of a group struck by an avalanche on Broad Peak, an alpine organization said. A search effort was being mobilized.",
+        "source": "NYT > World News",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "including nims purja",
+            "broad peak",
+            "pakistan nirmal purja"
+        ]
+    },
+    {
+        "title": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+        "link": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
+        "summary": "Flaming chunks of metal crash into homes, farms and parking lots. Whos to blame? And who pays for the damage?",
+        "source": "NYT > World News",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "junk tumbles unpredictably",
+            "metal crash"
+        ]
+    },
+    {
+        "title": "Political Turmoil Will Not Derail Killer Robot Program, Former Minister Says",
+        "link": "https://www.nytimes.com/2026/07/31/world/europe/federov-ukraine-killer-robots.html",
+        "summary": "The recently ousted Ukrainian defense minister, Mykhailo Fedorov, an advocate for drone and robot warfare, says Ukraines tech-heavy strategy will persist.",
+        "source": "NYT > World News",
+        "objectivity_score": 11,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "turmoil will",
+            "derail killer robot program",
+            "defense minister"
+        ]
+    },
+    {
         "title": "What to Know About Ceuta",
         "link": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
         "summary": "The peninsula on Moroccos northern coast that Spain has governed for centuries has been a frequent site of mass migrant crossings and political tensions.",
@@ -1465,105 +1566,33 @@
         ]
     },
     {
-        "title": "Iran War Is Entangling a Growing List of Mideast Nations",
-        "link": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
-        "summary": "As the U.S. and Iran exchange strikes, more countries are being touched  and some are joining in.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
+        "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+        "link": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
+        "summary": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreakThe latest numbers of confirme...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 70,
         "sentiment": "Positive",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "growing list",
-            "exchange strikes"
-        ]
-    },
-    {
-        "title": "Was Your Trip to Europe Affected by Heat or Wildfires? Tell Us About It.",
-        "link": "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html",
-        "summary": "Have you had to cancel, reschedule or replan a trip to France, Spain or elsewhere because of raging fires or stifling heat? If so, we want to hear from you.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "was your trip",
-            "europe affected"
-        ]
-    },
-    {
-        "title": "Execution Nation",
-        "link": "https://www.nytimes.com/2026/07/30/world/us-death-penalty-iran-saudi-world-cup.html",
-        "summary": "The United States is an outlier in the West. We look at why the country clings to the death penalty.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "execution nation",
-            "country clings",
-            "death penalty"
-        ]
-    },
-    {
-        "title": "Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco",
-        "link": "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html",
-        "summary": "The arrivals in Ceuta, a six-mile-long peninsula on Moroccos northern coast that Spain has governed for centuries, have fueled political tensions.",
-        "source": "NYT > World News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "migrants enter ceuta",
-            "six-mile-long peninsula",
-            "northern coast"
-        ]
-    },
-    {
-        "title": "Ebola Outbreak Is Now the Second-Deadliest Ever, and in Record Time",
-        "link": "https://www.nytimes.com/2026/07/30/world/africa/ebola-deaths-record.html",
-        "summary": "The disease has killed more than 1,500 people in the Democratic Republic of Congo in just over two months, causing deaths faster than officials have ever recorded.",
-        "source": "NYT > World News",
-        "objectivity_score": 25,
-        "sentiment": "Positive",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "ebola outbreak",
-            "second-deadliest ever",
+            "death toll rises",
+            "health workers",
             "democratic republic"
         ]
     },
     {
-        "title": "Russian Missile Lands in Polish Field During Deadly Ukraine Attack, NATO Says",
-        "link": "https://www.nytimes.com/video/world/europe/100000011063135/russian-missile-lands-in-polish-field-during-deadly-ukraine-attack-nato-says.html",
-        "summary": "NATO said that a Russian-launched missile had exploded in Poland, a member of the military alliance, during a large-scale overnight assault on neighboring Ukraine.",
-        "source": "NYT > World News",
-        "objectivity_score": 16,
-        "sentiment": "Negative",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "missile lands",
-            "ukraine attack",
-            "military alliance"
-        ]
-    },
-    {
-        "title": "U.S. Government Mislabels Map of African Countries at AIDS Conference",
-        "link": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
-        "summary": "Nigeria, a coastal country in western Africa, was landlocked in the Sahara, among other errors. The department said it had been hastily altered.",
-        "source": "NYT > World News",
-        "objectivity_score": 12,
+        "title": "At least 18 die as 49,000 cross to Spanish enclave of Ceuta from Morocco",
+        "link": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+        "summary": "Some drowned and others caught up in crush, official says, and thousands sleep on streets or in parksAt least 18 people have died trying to reach the Spanish enclave of Ceuta after about 49,000 migran...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 21,
         "sentiment": "Neutral",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "african countries",
-            "coastal country"
+            "spanish enclave",
+            "thousands sleep",
+            "spanish enclave"
         ]
     },
     {
@@ -1609,36 +1638,6 @@
             "93-year-old leader \u2019 s record absence",
             "health speculation",
             "cameroons paul biya"
-        ]
-    },
-    {
-        "title": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
-        "link": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
-        "summary": "Losing funds should force leaders to confront their own challenges, they said, while many voiced concerns over increasing foreign influence A quarter of young Africans believe aid cuts by the US could...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "foreign influence",
-            "aid cuts",
-            "positive impact"
-        ]
-    },
-    {
-        "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
-        "link": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
-        "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenyas Amboseli national parkOfficials are investigating the deaths of 15 elephants over the past month in Kenyas Amboseli n...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "unexpected deaths",
-            "national park",
-            "toxic substance"
         ]
     },
     {
@@ -1717,6 +1716,21 @@
         ]
     },
     {
+        "title": "BP to sell North Sea business; AI companies lead record surge on Korea\u2019s stock market \u2013 business live",
+        "link": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
+        "summary": "Live, rolling coverage as British oil company looks for buyer amid political dispute over future drilling licencesPetrol prices in the UK are expected to rise to their highest level so far this year t...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 42,
+        "sentiment": "Positive",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "north sea business",
+            "companies lead record surge",
+            "\u2019 s stock market \u2013 business"
+        ]
+    },
+    {
         "title": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts",
         "link": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises",
         "summary": "Soldiers and emergency teams search damaged shopping centre, paper mill and homes for survivorsEarthquake rocks southern Japanese island of Kyushu  in picturesThe death toll from the powerful earthqua...",
@@ -1777,183 +1791,183 @@
         ]
     },
     {
-        "title": "US bans humanoid robots from China, citing \u2018unacceptable risks\u2019",
-        "link": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
-        "summary": "Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the USThe Federal Communications Commission announced a ban on humanoid robots from China on Tuesday, s...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "humanoid robots",
-            "unacceptable risks \u2019",
-            "chinese technology"
-        ]
-    },
-    {
-        "title": "Australia news live: Reformers member tells hearing he used factional funds to pay for bucks night; Taylor refuses to answer multiple Icac-related questions",
+        "title": "Icac hears of friendship breakdown between Reformers members \u2013 as it happened",
         "link": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-        "summary": "Former premiers brother to appear before inquiry. Follow liveGet our breaking news email, free app or daily news podcasteSafety commissioner says court action against Telegram very significantJulie In...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 29,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "factional funds",
-            "bucks night",
-            "premiers brother"
-        ]
-    },
-    {
-        "title": "Governor general warns of \u2018growing catastrophe\u2019 that threatens to undermine democracy in Australia",
-        "link": "https://www.theguardian.com/australia-news/2026/jul/31/governor-general-warns-of-growing-catastrophe-that-threatens-to-undermine-democracy-in-australia-ntwnfb",
-        "summary": "Sam Mostyn says there is a widespread failure to understand and engage with civic underpinnings of our democracyFollow our Australia news live blog for latest updatesGet our breaking news email, free ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Positive",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "general warns",
-            "catastrophe \u2019",
-            "australia sam mostyn"
-        ]
-    },
-    {
-        "title": "Icac revelations have left Angus Taylor\u2019s colleagues anxious \u2013 and his factional enemies angry",
-        "link": "https://www.theguardian.com/australia-news/2026/jul/31/icac-revelations-have-left-angus-taylors-colleagues-anxious-and-his-factional-enemies-angry",
-        "summary": "The opposition leader is the highest-profile person mentioned so far at the NSW anti-corruption commission  and the political figure with the most to loseFollow our Australia news live blog for latest...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "angus taylor",
-            "\u2019 s colleagues anxious \u2013",
-            "factional enemies"
-        ]
-    },
-    {
-        "title": "Book returned to Australian library \u2013 150 years overdue",
-        "link": "https://www.theguardian.com/australia-news/2026/jul/30/book-returned-to-australian-library-150-years-overdue",
-        "summary": "The book, Antiquities of Athens, was handed back to Kiama library by a man who found it bricked into a wallAn Australian public library has had a book returned an estimated 150 years late after being ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Negative",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "library \u2013",
-            "years overdue",
-            "public library"
-        ]
-    },
-    {
-        "title": "Kumanjayi Little Baby murder trial delayed until December \u2013 as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
-        "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastMinister says meeting Closing the Gap target a major step, but more work needed on othersMalarndirri McCarthy, the min...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "kumanjayi little baby",
-            "murder trial",
-            "news email"
-        ]
-    },
-    {
-        "title": "French riot police used teargas on people trying to board small boat, charity claims",
-        "link": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
-        "summary": "CRS officers funded by UK tried to stop boarding of boat, on day four asylum seekers died trying to cross ChannelFrench riot police funded by UK taxpayers used teargas on asylum seekers in an attempt ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "riot police",
-            "small boat",
-            "charity claims"
-        ]
-    },
-    {
-        "title": "Race to extinguish blazes across Europe as fire weather breaks records",
-        "link": "https://www.theguardian.com/world/2026/jul/30/fire-weather-eu-wildfires-data",
-        "summary": "Figures show hot, dry, windy conditions in EU are 43% more severe than the average over last 20 yearsFire weather in the EU has broken records for severity for this time of year, data shows, as firefi...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "extinguish blazes",
-            "fire weather",
-            "windy conditions"
-        ]
-    },
-    {
-        "title": "Russian missile destroys US firm\u2019s Kyiv drone factory",
-        "link": "https://www.theguardian.com/world/2026/jul/30/us-firm-drone-factory-terminal-autonomy-ukraine-russia",
-        "summary": "Strike on Terminal Autonomy plant appears to be first time in the war that Moscow has targeted a US companyA drone factory in Kyiv destroyed by a Russian ballistic missile on Friday was owned by a US ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "russian missile destroys us firm \u2019 s",
-            "drone factory",
-            "terminal autonomy"
-        ]
-    },
-    {
-        "title": "Russia accused of violating Polish airspace after missile explosion near village",
-        "link": "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
-        "summary": "Polish PM visits scene of crater thought to have occurred during deadly wave of attacks on UkraineRussia has been accused of violating Polish airspace, after a missile exploded in a field in the east ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "missile explosion",
-            "polish pm",
-            "air defences"
-        ]
-    },
-    {
-        "title": "\u2018It was a big shock\u2019: new border rules left couple stuck in Krak\u00f3w after living in UK for 80 years",
-        "link": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
-        "summary": "Maria and Czeslaw Krupa, who arrived as children of displaced Polish veterans, told they have no post-Brexit rights to return home to BuryTwo Polish citizens who have lived in the UK for nearly 80 yea...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 37,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "big shock \u2019",
-            "new border rules",
-            "czeslaw krupa"
-        ]
-    },
-    {
-        "title": "Middle East crisis live: Trump claims breakthrough reached in Gaza disarmament; Hamas reportedly confirms deal",
-        "link": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
-        "summary": "US president claims his Board of Peace has reached historic agreement for the complete disarmament of Hamas and all other armed groups in GazaUS launches fresh strikes on Iran after days-long pause, a...",
+        "summary": "This blog is now closedGet our breaking news email, free app or daily news podcasteSafety commissioner says court action against Telegram very significantJulie Inman Grant, the eSafety commissioner, s...",
         "source": "World news | The Guardian",
         "objectivity_score": 33,
         "sentiment": "Neutral",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "claims breakthrough",
-            "us president claims",
-            "historic agreement"
+            "friendship breakdown",
+            "members \u2013",
+            "news email"
+        ]
+    },
+    {
+        "title": "\u2018Rob has the bucks cash\u2019: NSW Liberals used Reformers funds to pay for \u2018personal expenditure\u2019, Icac hears",
+        "link": "https://www.theguardian.com/australia-news/2026/jul/31/icac-corruption-hearing-robert-assaf-nsw-liberals-reformers-funds-bucks-personal-ntwnfb",
+        "summary": "Robert Assaf separately tells anti-corruption inquiry money funnelled through lobbying firm to create maximum benefit from a tax perspectiveFollow our Australia news live blog for latest updatesGet ou...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "bucks cash \u2019",
+            "personal expenditure \u2019",
+            "robert assaf"
+        ]
+    },
+    {
+        "title": "Gina Rinehart threatens ABC with legal action over Race Around the World program",
+        "link": "https://www.theguardian.com/media/2026/jul/31/gina-rinehart-threatens-abc-with-legal-action-over-race-around-the-world-program-ntwnfb",
+        "summary": "Hancock Prospecting says chair Kim Williams among those on notice for failing to remove program that joked about turning Rineharts insides into a sausage rollGet our breaking news email, free app or d...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "gina rinehart",
+            "legal action",
+            "world program"
+        ]
+    },
+    {
+        "title": "Labour hire firm paid Mick Gatto more than $1m to secure work on Big Build, CFMEU inquiry told",
+        "link": "https://www.theguardian.com/australia-news/2026/jul/31/geoffrey-watson-integrity-expert-cfmeu-corruption-inquiry-ntwnfb",
+        "summary": "M Groups lawyer tells inquiry while the firms directors may have done business with Gatto they were not frontmen for himFollow our Australia news live blog for latest updatesGet our breaking news emai...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 39,
+        "sentiment": "Positive",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "mick gatto",
+            "firms directors",
+            "news email"
+        ]
+    },
+    {
+        "title": "Forced out of Australia\u2019s military due to his sexuality, David says an apology is \u2018long overdue\u2019 for veterans like him",
+        "link": "https://www.theguardian.com/australia-news/2026/jul/31/forced-out-of-adf-military-due-to-his-sexuality-david-says-an-apology-is-long-overdue-for-veterans-like-him-ntwnfb",
+        "summary": "Exclusive: ADF personnel who were discriminated against for being LGBTQ+ are owed a national apology, federal government toldFollow our Australia news live blog for latest updatesGet our breaking news...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
+        "sentiment": "Positive",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "long overdue \u2019",
+            "national apology",
+            "federal government toldfollow"
+        ]
+    },
+    {
+        "title": "Deaths reported as an estimated 49,000 people cross into Spain\u2019s African enclave of Ceuta \u2013 Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+        "summary": "PM Pedro Snchez expected to visit territory today as Italy demands Spain be suspended from the Schengen area amid concerns over fresh migration crisisSpanish King Felipe VI spoke by telephone with pri...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 21,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "people cross",
+            "pm pedro snchez",
+            "fresh migration crisisspanish king"
+        ]
+    },
+    {
+        "title": "BP puts North Sea oil and gas business up for sale",
+        "link": "https://www.theguardian.com/business/2026/jul/31/bp-north-sea-oil-and-gas-business-up-for-sale",
+        "summary": "Move will end six decades of production in area, as new CEO tries to simplify firm and cut debtBusiness live  latest updatesBP has put its North Sea oil and gas business up for sale as it looks to end...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 54,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "north sea oil",
+            "gas business",
+            "simplify firm"
+        ]
+    },
+    {
+        "title": "\u2018Extremely scary findings\u2019 show climate crisis is supercharging Europe\u2019s wildfire weather",
+        "link": "https://www.theguardian.com/world/2026/jul/31/wildfires-extreme-weather-europe-spain-france-climate-crisis-analysis",
+        "summary": "Latest study says global heating has made hot, dry and windy conditions in Spain at least 20 times more likelyThe extreme heat and drought stoking huge wildfires in Spain and France were made far more...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 70,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "scary findings \u2019 show climate crisis",
+            "\u2019 s wildfire weather",
+            "windy conditions"
+        ]
+    },
+    {
+        "title": "Calls grow \u2018to flunk\u2019 Portugal\u2019s education minister amid exam marking fiasco",
+        "link": "https://www.theguardian.com/world/2026/jul/31/portugal-education-minister-exam-marking-fernando-alexandre",
+        "summary": "Fernando Alexandres push to digitise marking process deemed a failure with some students and parents contemplating legal actionPressure is growing on Portugals education minister to resign amid studen...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "flunk \u2019",
+            "\u2019 s education minister",
+            "fernando alexandres"
+        ]
+    },
+    {
+        "title": "Friday briefing: Why attacks on hospitals from Ukraine to Lebanon now happen with impunity",
+        "link": "https://www.theguardian.com/world/2026/jul/31/friday-briefing-why-attacks-on-hospitals-from-ukraine-to-lebanon-now-happen-with-impunity",
+        "summary": "In todays newsletter: The legal protections once considered foundational in conflict are now routinely bypassed, with healthcare personnel treated as legitimate targetsGood morning. While you were asl...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "todays newsletter",
+            "legal protections",
+            "healthcare personnel"
+        ]
+    },
+    {
+        "title": "Middle East crisis live: Trump claims Gaza deal reached; Iran targets US bases in Kuwait",
+        "link": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
+        "summary": "Response from Hamas and Israeli officials suggest Gaza deal still faces obstacles; Tehran launches drone strikes at Kuwait in retaliation for recent US attacksTrump claims agreement for complete disar...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "targets us bases",
+            "faces obstacles",
+            "launches drone strikes"
+        ]
+    },
+    {
+        "title": "Iraq says it had \u2018no prior knowledge\u2019 of US-Saudi attacks \u2013 as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
+        "summary": "This blog is now closed  our live coverage of the Middle East continues hereA liquefied natural gas tanker controlled by QatarEnergy exited the strait of Hormuz overnight  the first such vessel visibl...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "knowledge \u2019",
+            "attacks \u2013",
+            "natural gas tanker"
         ]
     },
     {
@@ -1974,9 +1988,9 @@
     {
         "title": "Saudi Arabia prepares sea and possible land offensive against Houthis",
         "link": "https://www.theguardian.com/world/2026/jul/30/saudi-forces-planning-major-offensive-against-houthis-central-yemen",
-        "summary": "Yemeni sources say Saudis concentrating forces for what could be attack in central YemenSaudi Arabia is preparing for a major military offensive against the Houthis by sea and possibly by land in cent...",
+        "summary": "Yemeni sources say Saudis concentrating forces for what could be attack in central YemenMiddle East crisis live  latest updatesSaudi Arabia is preparing for a major military offensive against the Hout...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
+        "objectivity_score": 38,
         "sentiment": "Neutral",
         "date": "2026-07-31",
         "image_url": null,
@@ -1999,21 +2013,6 @@
             "us hits dozens",
             "peace efforts",
             "central command"
-        ]
-    },
-    {
-        "title": "Iran\u2019s war with the US is not its only conflict as internal crises mount",
-        "link": "https://www.theguardian.com/world/2026/jul/30/iran-war-us-conflict-internal-crises-economy-dissent",
-        "summary": "Government fears social discontent on most important battlefield of economy and livelihoods as war takes its toll amid anti-state dissentMiddle East crisis live  latest updatesIran, in the middle of a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s war",
-            "internal crises mount government fears",
-            "social discontent"
         ]
     },
     {
@@ -2092,78 +2091,108 @@
         ]
     },
     {
-        "title": "Diane Abbott and Joani Reid readmitted as Labour MPs",
-        "link": "https://www.theguardian.com/politics/2026/jul/30/diane-abbott-and-joani-reid-readmitted-as-labour-mps",
-        "summary": "Both MPs have had the parliamentary whip restored following separate independent disciplinary processes MPs Diane Abbott and Joani Reid have been readmitted into Labour and had the parliamentary whip ...",
+        "title": "Andy Burnham to set out devolution plan amid criticism it won\u2019t benefit regions equally \u2013 UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jul/31/andy-burnham-devolution-plan-labour-conservatives-kemi-bedenoch-uk-politics-live",
+        "summary": "Plan set to transform funding so English regions no longer rely on Whitehall handouts for projectsUnder a new local first principle, Andy Burnham will instruct ministers to justify why powers should r...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "diane abbott",
-            "joani reid",
-            "labour mps"
-        ]
-    },
-    {
-        "title": "Burnham to free mayors from \u2018Treasury death grip\u2019 with new devolved powers",
-        "link": "https://www.theguardian.com/politics/2026/jul/30/burnham-mayors-income-tax-business-rates-devolution",
-        "summary": "Local leaders say plan will transform funding so English regions no longer rely on Whitehall handouts for projectsEnglands regional mayors will be able to break out of the death grip of the Treasury b...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
+        "objectivity_score": 28,
         "sentiment": "Positive",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "free mayors",
-            "\u2018 treasury death grip \u2019",
-            "local leaders"
+            "andy burnham",
+            "devolution plan",
+            "\u2019 t benefit regions"
         ]
     },
     {
-        "title": "Hundreds evacuated after \u2018apocalyptic\u2019 wildfire near Suffolk nuclear power station",
-        "link": "https://www.theguardian.com/uk-news/2026/jul/30/major-incident-fire-suffolk-coast-dunwich-heath-leiston",
-        "summary": "Major incident declared, with Sizewell B power station monitoring blaze and RSPB nature reserve badly hitHundreds of people have been evacuated and a major incident declared after a wildfire spread ov...",
+        "title": "Suffolk wildfire near Sizewell nuclear plant \u2018stabilising\u2019 after 24 hours",
+        "link": "https://www.theguardian.com/uk-news/2026/jul/31/suffolk-wildfire-sizewell-nuclear-plant-dunwich-heath",
+        "summary": "More than 100 firefighters remain at scene after Dunwich Heath blaze spread across 150 hectares and forced evacuationsFire crews tackling a large wildfire burning for more than 24 hours near Britains ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "nuclear plant \u2018",
+            "dunwich heath",
+            "evacuationsfire crews"
+        ]
+    },
+    {
+        "title": "UK house prices up 0.1% in July as buyers remain cautious on interest rates",
+        "link": "https://www.theguardian.com/business/2026/jul/31/uk-house-prices-july-buyers-cautious-interest-rates",
+        "summary": "Price of average home now 277,542, up from 277,484 the previous month but lower than in May, says NationwideBusiness live  latest updatesEconomic uncertainty dampened UK house price growth in July as ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 58,
         "sentiment": "Neutral",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "\u2018 apocalyptic \u2019 wildfire",
-            "nuclear power station major incident",
-            "b power station"
+            "house prices",
+            "interest rates",
+            "average home"
         ]
     },
     {
-        "title": "Supreme court says Palestine Action co-founder can challenge ban on group",
-        "link": "https://www.theguardian.com/uk-news/2026/jul/30/supreme-court-says-palestine-action-co-founder-can-challenge-ban-on-group",
-        "summary": "UKs highest court gives permission for Huda Ammori to challenge court of appeal ruling The co-founder of Palestine Action has won permission to challenge the ban against the group at the UKs highest c...",
+        "title": "Medical colleges condemn scrapping of NHS placements for overseas doctors",
+        "link": "https://www.theguardian.com/society/2026/jul/31/medical-colleges-condemn-scrapping-of-nhs-placements-for-overseas-doctors",
+        "summary": "Scheme brought in up to 500 foreign-trained doctors a year and was seen as example of British soft powerThe NHS has scrapped a longstanding scheme that let overseas doctors boost their skills in UK ho...",
         "source": "World news | The Guardian",
-        "objectivity_score": 15,
+        "objectivity_score": 11,
         "sentiment": "Neutral",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "supreme court",
-            "action co-founder",
-            "challenge ban"
+            "medical colleges condemn",
+            "british soft powerthe",
+            "longstanding scheme"
         ]
     },
     {
-        "title": "Labour says Reform \u2018up to its neck in sleaze\u2019 and demands investigation into donations",
-        "link": "https://www.theguardian.com/politics/2026/jul/30/electoral-commission-reform-uk-donations-george-cottrell",
-        "summary": "Exclusive: Electoral Commission urged to look into donations made by mother of convicted fraudsterRevealed: George Cottrell transferred $2m to his mother days before her donations to Reform UKLabour h...",
+        "title": "Fury as UK\u2019s only all-female chess team promoted \u2013 then told they must recruit a man",
+        "link": "https://www.theguardian.com/sport/2026/jul/31/uk-female-chess-team-league-rule-men-join-sport",
+        "summary": "She Plays to Win face losing one of their female players after being told team must include a maleThe UKs only all-female chess team have been promoted to the games top tier  only to be told they will...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
+        "objectivity_score": 57,
+        "sentiment": "Positive",
         "date": "2026-07-31",
         "image_url": null,
         "keywords": [
-            "sleaze \u2019",
-            "demands investigation",
-            "electoral commission"
+            "only all-female chess team",
+            "female players",
+            "all-female chess team"
+        ]
+    },
+    {
+        "title": "Drones offer alternative to balloons for weather research",
+        "link": "https://www.theguardian.com/news/2026/jul/31/weatherwatch-drone-base-station-offers-alternative-weather-balloons",
+        "summary": "Pre-programmed flights gather data at different altitudes then return to bases to recharge and downloadWeather happens in the boundary layer, the atmosphere from ground level to a few thousand metres,...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 61,
+        "sentiment": "Negative",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "weather research",
+            "different altitudes",
+            "boundary layer"
+        ]
+    },
+    {
+        "title": "AOC 2028: Could the US elect its first female president? \u2013 podcast",
+        "link": "https://www.theguardian.com/politics/audio/2026/jul/31/alexandria-ocasio-cortez-2028-could-us-elect-first-female-president-podcast",
+        "summary": "Leftwing Democrats are having their moment in the sun, with Zohran Mamdani in New York, Abdul El-Sayed in Michigan and endless calls for Alexandria Ocasio-Cortez to run for president in 2028. Has Demo...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
+        "date": "2026-07-31",
+        "image_url": null,
+        "keywords": [
+            "female president",
+            "\u2013 podcast",
+            "zohran mamdani"
         ]
     },
     {
@@ -2209,36 +2238,6 @@
             "lindsay clancy",
             "\u2019 s husband",
             "police children"
-        ]
-    },
-    {
-        "title": "Seattle police chief resigns after deadly food festival shooting",
-        "link": "https://www.theguardian.com/us-news/2026/jul/30/seattle-police-chief-food-festival-shooting",
-        "summary": "Mayor announces resignation of Shon Barnes after city officials faced criticism over response to Sunday shootingSeattles police chief has resigned amid criticism of the citys response to a fatal shoot...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Negative",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "police chief resigns",
-            "food festival shooting mayor announces resignation",
-            "shon barnes"
-        ]
-    },
-    {
-        "title": "Mandela Barnes drops out of high-stakes Wisconsin governor\u2019s race",
-        "link": "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race",
-        "summary": "Former lieutenant governor says path to Democratic nomination no longer viable as democratic socialist rival surges aheadMandela Barnes, the former lieutenant governor of Wisconsin, dropped out of the...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 12,
-        "sentiment": "Neutral",
-        "date": "2026-07-31",
-        "image_url": null,
-        "keywords": [
-            "mandela barnes",
-            "governor \u2019 s race",
-            "lieutenant governor"
         ]
     }
 ]
