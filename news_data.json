@@ -737,31 +737,57 @@
         ]
     },
     {
-        "title": "Water bills set to rise for many after firms permitted extra funding",
-        "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+        "title": "Aerial footage shows derailed train",
+        "link": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss",
+        "summary": "A train has derailed near Lewes in East Sussex, British Transport Police say.",
         "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "water bills",
-            "provisional approval",
-            "water companies"
-        ]
-    },
-    {
-        "title": "Man, 102, dies after alleged pub assault",
-        "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
-        "summary": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
-        "source": "BBC News",
-        "objectivity_score": 47,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "pub assault",
+            "footage shows"
+        ]
+    },
+    {
+        "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+        "link": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
+        "summary": "An amber extreme heat warning is in place for parts of England until midnight.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "kew gardens",
+            "amber extreme heat warning"
+        ]
+    },
+    {
+        "title": "Five key takeaways from results day 2026",
+        "link": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
+        "summary": "Top grades and students going to university are on the up, but technical subjects are also becoming more popular.",
+        "source": "BBC News",
+        "objectivity_score": 64,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "key takeaways",
+            "results day",
+            "technical subjects"
+        ]
+    },
+    {
+        "title": "Son of 102-year-old says father died after being 'pushed off stage'",
+        "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
+        "summary": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
+        "source": "BBC News",
+        "objectivity_score": 60,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
             "phillip ormerod",
             "critical condition"
         ]
@@ -781,88 +807,45 @@
         ]
     },
     {
-        "title": "Watch: Key moments from Karoline Leavitt's White House tenure as Trump says she will leave post",
-        "link": "https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Leavitt became the youngest press secretary in the country's history when she took the job in January 2025 at age 27.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "karoline leavitt",
-            "white house tenure",
-            "press secretary"
-        ]
-    },
-    {
-        "title": "Harvey Nichols bought by Sports Direct owner",
-        "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Harvey Nichols was founded in 1831, but had appointed an administrator in June.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "harvey nichols",
-            "harvey nichols"
-        ]
-    },
-    {
-        "title": "Heatwaves drive A&E attendances up to record high",
-        "link": "https://www.bbc.co.uk/news/articles/crrvp45gxzpo?at_medium=RSS&at_campaign=rss",
-        "summary": "More than 2.4 million visits in each of last three months, as unions warn of inhumane conditions.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "record high",
-            "inhumane conditions"
-        ]
-    },
-    {
-        "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
-        "link": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy.",
-        "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "chief accepts mistakes",
-            "simon levy",
-            "labour mp jess phillips"
-        ]
-    },
-    {
-        "title": "UK defends seizing shadow fleet tanker after Putin threat",
-        "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-        "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "shadow fleet tanker",
-            "shadow fleet vessels"
+            "palestinians"
         ]
     },
     {
-        "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+        "title": "Honeytrap thieves jailed for killing men they had drugged",
+        "link": "https://www.bbc.co.uk/news/articles/cz972klkpkxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Adina Mihai and Madalin Dumitru gave their victims the drug GBL to render them unconscious.",
         "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Positive",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "west bank village"
+            "adina mihai",
+            "madalin dumitru"
+        ]
+    },
+    {
+        "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+        "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "federal prosecutors",
+            "federal charges",
+            "maximum sentence"
         ]
     },
     {
@@ -880,6 +863,48 @@
         ]
     },
     {
+        "title": "Bonnie Tyler's classic hit spiked in streams during solar eclipse",
+        "link": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Bonnie Tyler's friend Mal Pope heard Total Eclipse of the Heart playing throughout Mumbles in Swansea.",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "bonnie tyler",
+            "classic hit",
+            "solar eclipse"
+        ]
+    },
+    {
+        "title": "Are the UK's top universities really 'hoovering up' students?",
+        "link": "https://www.bbc.co.uk/news/articles/cddjp8gq0njo?at_medium=RSS&at_campaign=rss",
+        "summary": "The most selective universities have seen the biggest rise in students accepted onto their courses for 2026.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "top universities",
+            "selective universities"
+        ]
+    },
+    {
+        "title": "'I worked really hard and it paid off': Elation, nerves and proud parents as students get results",
+        "link": "https://www.bbc.co.uk/news/articles/c4gd47j24wyo?at_medium=RSS&at_campaign=rss",
+        "summary": "A Ukrainian refugee, a firefighter and triplets are among the students reacting to their results.",
+        "source": "BBC News",
+        "objectivity_score": 77,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "proud parents"
+        ]
+    },
+    {
         "title": "Results, appeals and resits - what to do if things don't go to plan",
         "link": "https://www.bbc.co.uk/news/articles/c07dz891gy5o?at_medium=RSS&at_campaign=rss",
         "summary": "Your full guide to A-level results day, including what to do if you are not happy with your grades.",
@@ -890,20 +915,6 @@
         "image_url": null,
         "keywords": [
             "results day"
-        ]
-    },
-    {
-        "title": "How to get the most out of clearing",
-        "link": "https://www.bbc.co.uk/news/articles/c20dpj3peglo?at_medium=RSS&at_campaign=rss",
-        "summary": "From listing potential outcomes to picking up the phone, these are some top tips for getting through clearing.",
-        "source": "BBC News",
-        "objectivity_score": 66,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "potential outcomes",
-            "top tips"
         ]
     },
     {
@@ -920,18 +931,33 @@
         ]
     },
     {
-        "title": "Everything you need to know about university costs",
-        "link": "https://www.bbc.co.uk/news/articles/cwyegp0dnq9o?at_medium=RSS&at_campaign=rss",
-        "summary": "With rising tuition fees and living costs, do higher graduate earnings cover the cost of a degree?",
+        "title": "Who could replace White House Press Secretary Karoline Leavitt?",
+        "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+        "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
+        "objectivity_score": 31,
+        "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "university costs",
-            "tuition fees",
-            "graduate earnings"
+            "white house press secretary",
+            "karoline leavitt",
+            "complex relationship"
+        ]
+    },
+    {
+        "title": "How Premier League shirts will change with gambling sponsor ban",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c4g3vrr1vdro?at_medium=RSS&at_campaign=rss",
+        "summary": "Premier League kits are going to have a very different look this season after clubs voted to ban gambling on the front of shirts. BBC Sport looks at the history of sponsorship, and who is replacing th...",
+        "source": "BBC News",
+        "objectivity_score": 78,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "premier league shirts",
+            "sponsor ban premier league kits",
+            "different look"
         ]
     },
     {
@@ -950,48 +976,33 @@
         ]
     },
     {
-        "title": "How can Nigerian singer Ayra Starr honour her roots as she goes global?",
-        "link": "https://www.bbc.co.uk/news/articles/c4gdxywn7y4o?at_medium=RSS&at_campaign=rss",
-        "summary": "The musician shares the personal stories behind her third album, and the time she teased a legend.",
+        "title": "'I was blown away' - the fans who heard Phoebe Bridgers' unreleased album in a planetarium",
+        "link": "https://www.bbc.co.uk/news/articles/cx2k1y0rzeko?at_medium=RSS&at_campaign=rss",
+        "summary": "Armagh Planetarium hosts an early album listening party for American singer-songwriter Phoebe Bridgers.",
         "source": "BBC News",
-        "objectivity_score": 25,
+        "objectivity_score": 15,
         "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "ayra starr",
-            "musician shares",
-            "personal stories"
+            "phoebe bridgers",
+            "armagh planetarium",
+            "early album"
         ]
     },
     {
-        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-        "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+        "title": "How to get a good night's sleep during hot weather",
+        "link": "https://www.bbc.co.uk/news/articles/cpw7gp2ky70o?at_medium=RSS&at_campaign=rss",
+        "summary": "Simple tips to help you get a good night's sleep when temperatures rise.",
         "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Negative",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "'vulture king",
-            "ritual use",
-            "vital role"
-        ]
-    },
-    {
-        "title": "Devotion to Trump stays strong in town making missiles for US war in Iran",
-        "link": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
-        "summary": "Polls suggest Republicans nationally are souring - but in Kingsport, Tennessee, they dont blame the president.",
-        "source": "BBC News",
-        "objectivity_score": 73,
+        "objectivity_score": 60,
         "sentiment": "Positive",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "town making missiles",
-            "us war",
-            "dont blame"
+            "good night 's sleep",
+            "hot weather",
+            "good night 's sleep"
         ]
     },
     {
@@ -1010,6 +1021,20 @@
         ]
     },
     {
+        "title": "No air con? Here's how to get the most out of your electric fan",
+        "link": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Point it at your face? Use a bowl of ice? Open a window? Our experts separate fact from fiction.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "electric fan point",
+            "separate fact"
+        ]
+    },
+    {
         "title": "Your heatwave tips on how to cope in extreme temperatures",
         "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
         "summary": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat.",
@@ -1025,60 +1050,90 @@
         ]
     },
     {
-        "title": "No air con? Here's how to get the most out of your electric fan",
-        "link": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Point it at your face? Use a bowl of ice? Open a window? Our experts separate fact from fiction.",
+        "title": "Person fined after using foghorn to wake sleeping polar bear",
+        "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
         "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 37,
+        "sentiment": "Negative",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "local regulations"
+        ]
+    },
+    {
+        "title": "'Living in temporary accommodation has taken a huge toll on my family'",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw7nxdwlpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The number of children living in temporary accommodation has hit its 18th quarterly high in a row.",
+        "source": "BBC News",
+        "objectivity_score": 72,
         "sentiment": "Positive",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "electric fan point",
-            "separate fact"
+            "temporary accommodation",
+            "huge toll",
+            "temporary accommodation"
         ]
     },
     {
-        "title": "Why heatwaves hit women harder",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them.",
+        "title": "Water bills set to rise for many after firms permitted extra funding",
+        "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "water bills",
+            "provisional approval",
+            "water companies"
+        ]
+    },
+    {
+        "title": "Ski Sunday host Chemmy Alcott suffers collapsed lung after jumping into lake",
+        "link": "https://www.bbc.co.uk/news/articles/cp8xpg1380xo?at_medium=RSS&at_campaign=rss",
+        "summary": "The former GB Olympian posted images of her in hospital while on holiday in France.",
+        "source": "BBC News",
+        "objectivity_score": 35,
+        "sentiment": "Negative",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "chemmy alcott",
+            "gb olympian"
+        ]
+    },
+    {
+        "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
+        "link": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy.",
         "source": "BBC News",
         "objectivity_score": 33,
         "sentiment": "Positive",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "news"
+            "chief accepts mistakes",
+            "simon levy",
+            "labour mp jess phillips"
         ]
     },
     {
-        "title": "Scientists invent 'world's greenest party balloon'",
-        "link": "https://www.bbc.co.uk/news/articles/c78gqw3w6v5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Imperial College London experts say standard party balloons can take years to break down.",
+        "title": "Dating app Bumble divides users by ditching its signature 'women-first' chat rule",
+        "link": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
         "source": "BBC News",
-        "objectivity_score": 14,
-        "sentiment": "Neutral",
+        "objectivity_score": 95,
+        "sentiment": "Positive",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "invent 'world 's greenest party balloon",
-            "imperial college",
-            "standard party balloons"
-        ]
-    },
-    {
-        "title": "Leading doctor rebukes NHS chiefs over transplant failings",
-        "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
-        "summary": "NHS Blood and Transplant's medical director says waiting lists for organ operations are unfair but leaders are not solving the issue.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "doctor rebukes",
-            "transplant failings",
-            "nhs blood"
+            "divides users",
+            "signature 'women-first",
+            "app 's boss"
         ]
     },
     {
@@ -1093,49 +1148,6 @@
         "keywords": [
             "challenging months",
             "men 's football world cup"
-        ]
-    },
-    {
-        "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-        "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-        "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
-        "source": "BBC News",
-        "objectivity_score": 32,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "travis kelce",
-            "taylor swift",
-            "'best night"
-        ]
-    },
-    {
-        "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-        "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
-        "source": "BBC News",
-        "objectivity_score": 43,
-        "sentiment": "Negative",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "sea location",
-            "year 's contest"
-        ]
-    },
-    {
-        "title": "Residents' 'absolute fear' as massive fire destroyed their homes",
-        "link": "https://www.bbc.co.uk/news/articles/c3d32np89z4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Residents have been evacuated after a large fire involving six homes in Caerphilly county.",
-        "source": "BBC News",
-        "objectivity_score": 77,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "massive fire",
-            "large fire"
         ]
     },
     {
@@ -1168,16 +1180,16 @@
         ]
     },
     {
-        "title": "Is Trump trying to influence foreign elections?",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct8ml5?at_medium=RSS&at_campaign=rss",
-        "summary": "In Brazil and elsewhere, leaders raise concerns over alleged election meddling by the US.",
+        "title": "Is Iran really trying to kill Trump?",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct8mfn?at_medium=RSS&at_campaign=rss",
+        "summary": "How developed is the Tehran regimes assassination operation abroad?",
         "source": "BBC News",
-        "objectivity_score": 11,
-        "sentiment": "Negative",
+        "objectivity_score": 25,
+        "sentiment": "Positive",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "foreign elections"
+            "regimes assassination operation"
         ]
     },
     {
@@ -1211,48 +1223,47 @@
         ]
     },
     {
-        "title": "Hodgkinson into 800m final after dramatic Werro fall",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cgq5pd4n0y5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Keely Hodgkinson reaches the women's 800m final at the European Championships - moments after rival Audrey Werro suffers a dramatic fall that put her place in doubt.",
+        "title": "Rashford, Mainoo & transfers - Carrick calls for more signings",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie...",
         "source": "BBC News",
-        "objectivity_score": 65,
-        "sentiment": "Negative",
+        "objectivity_score": 47,
+        "sentiment": "Positive",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "keely hodgkinson",
-            "women 's 800m",
-            "audrey werro"
+            "full season",
+            "head coach",
+            "michael carrick"
         ]
     },
     {
-        "title": "Critical former referees add to culture of fear, says retiring Taylor",
-        "link": "https://www.bbc.co.uk/sport/football/articles/czxq25zejj4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Retiring Premier League referee Anthony Taylor says his decision to quit was partly due to the toxic debate around officials.",
-        "source": "BBC News",
-        "objectivity_score": 39,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "taylor retiring",
-            "premier league referee",
-            "anthony taylor"
-        ]
-    },
-    {
-        "title": "Football Association of Ireland withdraws Infantino support",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cy8m2mg0y99o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Football Association of Ireland [FAI] officially withdraws support for under-fire Fifa president Gianni Infantino, while the Irish Football Association [IFA] confirms it backs Uefa's stance.",
+        "title": "LIV set to cancel season-ending Team Championship",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c1512e13n40o?at_medium=RSS&at_campaign=rss",
+        "summary": "LIV Golf players have been warned that the season-ending Team Championship later this month is set to be cancelled.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "football association",
-            "football association",
-            "withdraws support"
+            "team championship liv",
+            "golf players",
+            "team championship"
+        ]
+    },
+    {
+        "title": "Leicester City put up for sale for more than \u00a3200m",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ce3qp0yy0j9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Leicester City's Thai owners King Power are hoping to sell the club after 16 years, for more than 200m.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "city 's",
+            "owners king"
         ]
     },
     {
@@ -1271,108 +1282,18 @@
         ]
     },
     {
-        "title": "Fulham leave pitch as Malaga take penalty into empty net",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cz052j8x9x1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Fulham's pre-season friendly against Malaga ends in chaotic fashion as the Premier League side leave the pitch before a penalty shootout.",
+        "title": "GB teenager Nowacki wins dramatic European gold",
+        "link": "https://www.bbc.co.uk/sport/swimming/articles/cre4peze9yyo?at_medium=RSS&at_campaign=rss",
+        "summary": "British teenager Filip Nowacki claims a dramatic gold in the men's 200m breaststroke final at the European Aquatics Championships in Paris.",
         "source": "BBC News",
-        "objectivity_score": 33,
+        "objectivity_score": 34,
         "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "empty net",
-            "chaotic fashion",
-            "premier league side"
-        ]
-    },
-    {
-        "title": "Fourth favourites for relegation - will Sunderland defy odds again?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cn8ndw25yjeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sunderland were one of the stories of the 2025-26 Premier League season - but can they do it again this time around, with added European commitments?",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "defy odds",
-            "premier league season",
-            "european commitments"
-        ]
-    },
-    {
-        "title": "I do not have much time left in UFC - Makhachev",
-        "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c3r020wn70vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Islam Makhachev says he \"does not have much time\" left in the UFC as the Russian prepares to make the first defence of his welterweight title against Ian Machado Garry at UFC 330 on Saturday.",
-        "source": "BBC News",
-        "objectivity_score": 12,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "makhachev islam makhachev",
-            "welterweight title",
-            "ian machado garry"
-        ]
-    },
-    {
-        "title": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
-        "link": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
-        "summary": "Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.",
-        "source": "NYT > World News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "china remembers zhu rongji",
-            "who spoke",
-            "mind tributes"
-        ]
-    },
-    {
-        "title": "A Patient\u2019s Final Breath in a Congolese Ebola Ward",
-        "link": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html",
-        "summary": "The distance between life and death is razor thin at one medical clinic in Rwampara, the heart of the epidemic ravaging the Democratic Republic of Congo.",
-        "source": "NYT > World News",
-        "objectivity_score": 61,
-        "sentiment": "Negative",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "final breath",
-            "ebola ward",
-            "medical clinic"
-        ]
-    },
-    {
-        "title": "The Man on a Mission to Build India\u2019s Most Livable City",
-        "link": "https://www.nytimes.com/2026/08/13/world/asia/india-amravati-livable-city-andhra-pradesh.html",
-        "summary": "The chief minister of Andhra Pradesh has 25,000 workers building his dream capital with waterways, bike lanes and a Quantum Valley tech hub.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "build india",
-            "livable city",
-            "chief minister"
-        ]
-    },
-    {
-        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-        "link": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-        "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her countrys sanctions against Russia over the Ukraine war.",
-        "source": "NYT > World News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "putin visits",
-            "world war",
-            "angering tokyo prime"
+            "dramatic european gold",
+            "british teenager",
+            "filip nowacki"
         ]
     },
     {
@@ -1391,6 +1312,51 @@
         ]
     },
     {
+        "title": "A Patient\u2019s Final Breath in a Congolese Ebola Ward",
+        "link": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html",
+        "summary": "The distance between life and death is razor thin at one medical clinic in Rwampara, the heart of the epidemic ravaging the Democratic Republic of Congo.",
+        "source": "NYT > World News",
+        "objectivity_score": 61,
+        "sentiment": "Negative",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "final breath",
+            "ebola ward",
+            "medical clinic"
+        ]
+    },
+    {
+        "title": "How a Long-Shot U.S. Oil Drilling Project Is Shaking Up Greenland",
+        "link": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
+        "summary": "A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "long-shot u.s.",
+            "drilling project",
+            "shaking up greenland"
+        ]
+    },
+    {
+        "title": "Topos Azteca, a Mexican Volunteer Rescue Group, Helps With Rescue Efforts After Colombia Earthquake",
+        "link": "https://www.nytimes.com/2026/08/13/world/americas/topos-azteca-rescue-efforts-colombia-earthquake.html",
+        "summary": "Topos Azteca, a Mexican volunteer rescue group that works worldwide and helped after the Sept. 11 attacks, arrived in Colombia after searching for survivors in Venezuela.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "topos azteca",
+            "volunteer rescue",
+            "rescue efforts"
+        ]
+    },
+    {
         "title": "\u2018An English Summer Is Not the Same Anymore\u2019",
         "link": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html",
         "summary": "With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet.",
@@ -1401,6 +1367,109 @@
         "image_url": null,
         "keywords": [
             "high temperatures"
+        ]
+    },
+    {
+        "title": "The Man on a Mission to Build India\u2019s Most Livable City",
+        "link": "https://www.nytimes.com/2026/08/13/world/asia/one-mans-quest-to-build-indias-most-livable-city.html",
+        "summary": "The chief minister of Andhra Pradesh has 25,000 workers building his dream capital with waterways, bike lanes and a Quantum Valley tech hub.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "build india",
+            "livable city",
+            "chief minister"
+        ]
+    },
+    {
+        "title": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
+        "link": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
+        "summary": "Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.",
+        "source": "NYT > World News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "china remembers zhu rongji",
+            "who spoke",
+            "mind tributes"
+        ]
+    },
+    {
+        "title": "Train Derails Near Town of Lewes in East Sussex, U.K.",
+        "link": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
+        "summary": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Nine other people were less seriously hurt.",
+        "source": "NYT > World News",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "train derails near"
+        ]
+    },
+    {
+        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+        "link": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+        "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her countrys sanctions against Russia over the Ukraine war.",
+        "source": "NYT > World News",
+        "objectivity_score": 6,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "putin visits",
+            "world war",
+            "angering tokyo prime"
+        ]
+    },
+    {
+        "title": "Who Are the Houthis, Iran-Backed Militia Entering Mideast War?",
+        "link": "https://www.nytimes.com/article/houthi-yemen-militia-iran.html",
+        "summary": "Amid relentless war in the Middle East, the Iran-backed militants seem poised to renew their conflict with Yemens Saudi-backed government.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "iran-backed militia entering mideast",
+            "relentless war",
+            "yemens saudi-backed"
+        ]
+    },
+    {
+        "title": "Hundreds of Flights Canceled in Sicily as Mount Etna Erupts",
+        "link": "https://www.nytimes.com/2026/08/13/world/europe/mount-etna-volcano-sicily-eruption.html",
+        "summary": "Etna erupts often, but it usually doesnt release this much ash, an expert said. Tens of thousands of travelers plans have been disrupted in the past week.",
+        "source": "NYT > World News",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "flights canceled",
+            "etna erupts etna",
+            "doesnt release"
+        ]
+    },
+    {
+        "title": "Former Catholic Bishop Is Convicted of Sexual Abuse, Australian News Outlets Say",
+        "link": "https://www.nytimes.com/2026/08/13/world/australia/bishop-christopher-saunders-abuse.html",
+        "summary": "A court found Christopher Alan Saunders, the former bishop of Broome, guilty of sexually abusing two men, the Australian Broadcasting Corporation reported.",
+        "source": "NYT > World News",
+        "objectivity_score": 34,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "sexual abuse",
+            "outlets say",
+            "christopher alan saunders"
         ]
     },
     {
@@ -1434,106 +1503,63 @@
         ]
     },
     {
-        "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
-        "summary": "Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.",
+        "title": "Mount Etna Eruption Leaves Travelers Stranded in Sicily",
+        "link": "https://www.nytimes.com/video/world/europe/100000011090024/mount-etna-eruption-travelers-sicily-italy.html",
+        "summary": "Ash spewing from Mount Etna on Sicily caused the cancellation of more than 700 flights during the peak of Italys summer tourism season.",
         "source": "NYT > World News",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "nigel farage ended up running against count binface",
-            "clacton nigel farage",
-            "new election"
-        ]
-    },
-    {
-        "title": "In Bali, a Quest to Restore the Sacred Glow of Fireflies",
-        "link": "https://www.nytimes.com/2026/08/12/world/asia/bali-restore-fireflies.html",
-        "summary": "The insects, revered in local culture, are disappearing for many reasons, including rapid development to cater to tourists.",
-        "source": "NYT > World News",
-        "objectivity_score": 25,
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "sacred glow",
-            "local culture",
-            "rapid development"
+            "etna eruption leaves",
+            "sicily ash",
+            "summer tourism season"
         ]
     },
     {
-        "title": "Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html",
-        "summary": "With temperatures set to soar as high as 109 degrees Fahrenheit (43 Celsius) this week, Europeans and tourists say that summer in Europe has lost its appeal.",
+        "title": "Brazil\u2019s Disease-Fighting Mosquitoes",
+        "link": "https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html",
+        "summary": "Our reporter, Apoorva Mandavilli, goes inside a mosquito factory in Brazil, where scientists are producing millions of mosquitoes to fight deadly tropical diseases in a warming world.",
         "source": "NYT > World News",
-        "objectivity_score": 52,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "heat wave"
-        ]
-    },
-    {
-        "title": "More Than 40 Dead After a Ferry Capsizes on Zimbabwe\u2019s Lake Kariba",
-        "link": "https://www.nytimes.com/2026/08/12/world/africa/-zimbabwe-lake-kariba-ferry-capsize.html",
-        "summary": "The vessel was crowded far beyond capacity and was hit by strong waves, the police said. While dozens have been rescued, the search continues for an unknown number of missing people.",
-        "source": "NYT > World News",
-        "objectivity_score": 54,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "ferry capsizes",
-            "\u2019 s lake",
-            "strong waves"
-        ]
-    },
-    {
-        "title": "Trump Tariffs Force Some Canadian Companies to Move South of the Border",
-        "link": "https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html",
-        "summary": "If President Trump moves ahead with 50 percent tariffs on a wide range of Canadian products later this month, some companies may only survive by relocating to the United States.",
-        "source": "NYT > World News",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "trump tariffs",
-            "percent tariffs",
-            "wide range"
-        ]
-    },
-    {
-        "title": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html",
-        "summary": "Mar Carretero-Castrillo, an astrophysicist, returned to her remote village in Spain to be in the path of totality. Hundreds of  partygoers came too.",
-        "source": "NYT > World News",
-        "objectivity_score": 28,
+        "objectivity_score": 40,
         "sentiment": "Negative",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "expert hoped",
-            "science class",
-            "mar carretero-castrillo"
+            "disease-fighting mosquitoes",
+            "apoorva mandavilli",
+            "mosquito factory"
         ]
     },
     {
-        "title": "Hundreds of Flights Canceled in Sicily as Mount Etna Erupts",
-        "link": "https://www.nytimes.com/2026/08/13/world/europe/mount-etna-volcano-sicily-eruption.html",
-        "summary": "Etna erupts often, but it usually doesnt release this much ash, an expert said. Tens of thousands of travelers plans have been disrupted in the past week.",
+        "title": "Settler Violence Traps West Bank Palestinians",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000011090034/israeli-settlers-west-bank-palestinians-violence.html",
+        "summary": "A group of Israeli settlers has trapped two Palestinian families in the West Bank since Sunday, highlighting the Israeli armys struggle to contain settler violence.",
         "source": "NYT > World News",
-        "objectivity_score": 23,
+        "objectivity_score": 0,
+        "sentiment": "Negative",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "settler violence traps",
+            "west bank",
+            "armys struggle"
+        ]
+    },
+    {
+        "title": "A City Mobilizes Against a Stubborn Health Threat: Mosquitoes",
+        "link": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html",
+        "summary": "The city of Belm in northern Brazil was overwhelmed by an outbreak of dengue two years ago. An all-out municipal effort has reduced cases and may offer lessons to American cities.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "flights canceled",
-            "etna erupts etna",
-            "doesnt release"
+            "mobilizes against",
+            "all-out municipal effort",
+            "american cities"
         ]
     },
     {
@@ -1625,48 +1651,33 @@
         ]
     },
     {
-        "title": "\u2018I Thought I Was Going to Die\u2019: YouTuber Livestreams as Earthquake Hits Colombia",
-        "link": "https://www.nytimes.com/video/world/americas/100000011085122/colombia-earthquake-live-stream.html",
-        "summary": "A social media influencer was on livestream when a 7.4-magnitude earthquake hit Colombia on Monday. Jos Gallego was in an airport in Pereira when the quake hit, leading him to duck for cover.",
-        "source": "NYT > World News",
-        "objectivity_score": 6,
+        "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
+        "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+        "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest everThe Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth provinc...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "province man",
+            "deadliest everthe",
+            "democratic republic"
+        ]
+    },
+    {
+        "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
+        "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
+        "summary": "Disciplinary proceedings under way after security concerns raised over reported visits to official residenceFrance has opened disciplinary proceedings against its ambassador to Central African Republi...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
         "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "was going",
-            "youtuber livestreams",
-            "earthquake hits colombia"
-        ]
-    },
-    {
-        "title": "Muddling through Iceland\u2019s rainy eclipse, accompanied by clouds, whales and at least one proposal.",
-        "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/muddling-through-icelands-rainy-eclipse-accompanied-by-clouds-whales-and-at-least-one-proposal",
-        "summary": "In a place known for its fickle weather, eclipse watchers took a risk. Only some got to see the sun.",
-        "source": "NYT > World News",
-        "objectivity_score": 70,
-        "sentiment": "Negative",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "rainy eclipse",
-            "fickle weather",
-            "eclipse watchers"
-        ]
-    },
-    {
-        "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, \u2018a Regular Tuesday.\u2019",
-        "link": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
-        "summary": "President Trumps Air Force One subterfuge pales in comparison to the secrecy surrounding Russias president, whose fixation on security has reached new heights in recent years.",
-        "source": "NYT > World News",
-        "objectivity_score": 49,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "secret flight",
-            "stunning ruse",
-            "regular tuesday."
+            "official residencefrance",
+            "disciplinary proceedings",
+            "official residence"
         ]
     },
     {
@@ -1712,36 +1723,6 @@
             "natural cure",
             "scientists breakthrough research shows soil fungus",
             "dead caterpillars"
-        ]
-    },
-    {
-        "title": "Spain to introduce temporary border checks on visitors from Italy",
-        "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-        "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to CeutaSpain has announced it will introduce temporary border checks on visitors from Italy in response to Rome impo...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 28,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "temporary border checks",
-            "italy move",
-            "similar measures"
-        ]
-    },
-    {
-        "title": "Judge approves Trump effort to end South Sudan TPS protections",
-        "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-        "summary": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and SyriansTemporary protected status (TPS) for hundreds of South Sudanese nationals in the United St...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "judge approves",
-            "sudan tps",
-            "supreme court ruling"
         ]
     },
     {
@@ -1820,6 +1801,21 @@
         ]
     },
     {
+        "title": "\u2018Absolutely unacceptable\u2019: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
+        "link": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
+        "summary": "Japanese PM says islands seized by Soviets late in second world war are part of her country under international lawThe Japanese government has reacted angrily to Vladimir Putins first visit to the dis...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "unacceptable \u2019",
+            "condemns visit",
+            "vladimir putin"
+        ]
+    },
+    {
         "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
         "link": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
         "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubsSouth Koreas Incheon airport has become the worlds busiest airport for international...",
@@ -1880,18 +1876,33 @@
         ]
     },
     {
-        "title": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
-        "link": "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister",
-        "summary": "The prime minister tells the Guardian that last years diplomatic rift with ally New Zealand could be on voters minds as they head to the pollsAs voters in the Cook Islands prepare to head to the polls...",
+        "title": "One Nation staffer accused of posing as leftwing content creator in \u2018undercover\u2019 videos",
+        "link": "https://www.theguardian.com/australia-news/2026/aug/14/one-nation-staffer-accused-of-posing-as-leftwing-content-creator-in-undercover-videos-ntwnfb",
+        "summary": "Exclusive: The videos, filmed at anti-One Nation rallies, were posted to partys social pages and appear to be endorsed by Pauline HansonGet our breaking news email, free app or daily news podcastThe o...",
         "source": "World news | The Guardian",
-        "objectivity_score": 26,
+        "objectivity_score": 24,
         "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "pm mark brown",
-            "diplomatic crises",
-            "prime minister"
+            "content creator",
+            "\u2018 undercover \u2019 videos",
+            "social pages"
+        ]
+    },
+    {
+        "title": "Is Australia\u2019s Buy Now Pay Later boom at an end?",
+        "link": "https://www.theguardian.com/business/2026/aug/14/is-australias-buy-now-pay-later-boom-at-an-end",
+        "summary": "Several firms promised to disrupt the consumer credit market by offering consumers their purchases instantly and the bill later. Did it work?Get our breaking news email, free app or daily news podcast...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 19,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "consumer credit market",
+            "offering consumers",
+            "news email"
         ]
     },
     {
@@ -1940,108 +1951,93 @@
         ]
     },
     {
-        "title": "Former Catholic bishop accused of hosting alcohol-fuelled parties to sexually abuse Aboriginal men found guilty",
-        "link": "https://www.theguardian.com/australia-news/2026/aug/13/former-catholic-bishop-accused-of-hosting-alcohol-fuelled-parties-to-sexually-abuse-aboriginal-men-found-guilty-ntwnfb",
-        "summary": "Christopher Alan Saunders found guilty of 13 sex offences in West Australian district court on Thursday. He was acquitted of six other chargesGet our breaking news email, free app or daily news podcas...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "catholic bishop",
-            "christopher alan saunders",
-            "sex offences"
-        ]
-    },
-    {
-        "title": "Pentagon official and former Aukus sceptic says deal is \u2018full steam ahead\u2019, echoing Trump",
-        "link": "https://www.theguardian.com/world/2026/aug/13/pentagon-official-and-former-aukus-sceptic-says-deal-is-full-steam-ahead-echoing-trump",
-        "summary": "Elbridge Colby, a US under secretary of war, says he is very pleased with the nuclear submarine programs progressGet our breaking news email, free app or daily news podcastElbridge Colby, the third-hi...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "full steam",
-            "trump elbridge colby",
-            "nuclear submarine programs progressget"
-        ]
-    },
-    {
-        "title": "Europe heatwave live: Temperatures of 40C expected in Spain; rare warning for \u2018extreme heat\u2019 expanded across England",
+        "title": "Europe heatwave live: UK sees temperatures of 38.1C, the hottest day of 2026; Greece battles wildfires after gale force winds",
         "link": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
         "summary": "A former UK government scientific adviser warned amid the shattering heat that worse is still to comeMet Office has just offered an update on temperatures across the UK, with several stations already ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 20,
         "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "rare warning",
-            "\u2018 extreme heat \u2019",
+            "battles wildfires",
+            "gale force",
             "scientific adviser"
         ]
     },
     {
-        "title": "How to keep babies and children safe in heatwaves",
-        "link": "https://www.theguardian.com/environment/2026/aug/13/how-to-keep-babies-and-children-safe-in-heatwaves",
-        "summary": "Biological factors mean a childs core temperature rises faster than an adults  and that can result in a medical emergencyChildren and babies are more vulnerable in heatwaves than healthy adults. As te...",
+        "title": "Nearly 100 children detained as adults under UK-France migration deal",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
+        "summary": "Figures emerge in critical letter to Home Office from organisation appointed to scrutinise detention facilitiesNearly 100 children have been wrongly identified and detained as adults under Shabana Mah...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
+        "objectivity_score": 74,
         "sentiment": "Positive",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "childs core temperature rises",
-            "medical emergencychildren",
-            "healthy adults"
+            "critical letter",
+            "home office",
+            "scrutinise detention"
         ]
     },
     {
-        "title": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland \u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
-        "summary": "Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totalitySolar eclipse 2026 across Europe: in picturesCruise ships, quiet towns and an all-day festival: ...",
+        "title": "Ukraine \u2018offering Russia deal to halt attacks on civilian ships in Black Sea\u2019",
+        "link": "https://www.theguardian.com/world/2026/aug/13/ukraine-proposes-deal-with-russia-to-halt-attacks-on-civilian-ships-in-black-sea",
+        "summary": "Kyiv reportedly suggested mutual agreement in attempt to reopen crucial grain corridor Ukraine has proposed a deal with Russia for both sides to halt their attacks on civilian ships in the Black Sea i...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 52,
         "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "solar eclipse",
-            "rare spectacle",
-            "totalitysolar eclipse"
+            "\u2018 offering",
+            "civilian ships",
+            "mutual agreement"
         ]
     },
     {
-        "title": "Cruise ships, quiet towns and an all-day festival: millions flock to eclipse viewing spots across Europe",
-        "link": "https://www.theguardian.com/science/ng-interactive/2026/aug/12/cruise-ships-quiet-towns-and-an-all-day-festival-millions-flock-to-eclipse-viewing-spots-across-europe",
-        "summary": "Beginning in Russias remote Arctic north, the eclipse traced an arc over much of western Europe  with the best views in Spain, Iceland and GreenlandIt was a moment of awe shared by millions across Eur...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 29,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "quiet towns",
-            "all-day festival",
-            "millions flock"
-        ]
-    },
-    {
-        "title": "Countries in \u2018armed conflict\u2019 barred from hosting Eurovision",
-        "link": "https://www.theguardian.com/tv-and-radio/2026/aug/12/broadcasters-to-be-barred-from-eurovision-song-contest-if-state-involved-in-armed-conflict",
-        "summary": "Organisers says new rule will ensure contest provides safe and welcoming environment for participantsBroadcasters will no longer be eligible to host the Eurovision song contest if their state is invol...",
+        "title": "UK records hottest day of year as fifth summer heatwave reaches peak",
+        "link": "https://www.theguardian.com/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
+        "summary": "Kew Gardens in London hits 38.1C and 40C-plus recorded in parts of Europe with continent trapped under heat domeEurope heatwave  latest updatesThe UK has recorded its hottest day of the year so far wi...",
         "source": "World news | The Guardian",
         "objectivity_score": 44,
         "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "conflict \u2019",
-            "eurovision organisers",
-            "new rule"
+            "summer heatwave",
+            "kew gardens",
+            "heat domeeurope heatwave"
+        ]
+    },
+    {
+        "title": "\u2018The colander worked best!\u2019 Guardian readers share their experience of the solar eclipse",
+        "link": "https://www.theguardian.com/science/2026/aug/13/guardian-readers-share-solar-eclipse-experience",
+        "summary": "Readers recall the breathtaking sight and community spirit of the rare celestial treat  and the handmade contraptions they saw it throughOn Wednesday evening, millions of people in Europe watched a ra...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 77,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "solar eclipse",
+            "community spirit",
+            "rare celestial"
+        ]
+    },
+    {
+        "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
+        "link": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
+        "summary": "Former PM of Israel calls events concerted and meticulous attempt at ethnic cleansing against PalestiniansIsraeli troops have forced two Palestinian families to leave their besieged West Bank homes, t...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "troops force families",
+            "settler terror campaign",
+            "west bank"
         ]
     },
     {
@@ -2102,21 +2098,6 @@
             "court sentences",
             "war crimes",
             "countrys 14-year"
-        ]
-    },
-    {
-        "title": "As conflict in the Middle East intensifies, India\u2019s relationship with Israel deepens",
-        "link": "https://www.theguardian.com/world/2026/aug/10/this-is-india-relationship-with-israel-modi-netanyahu",
-        "summary": "An Amnesty International report reveals that the country is now a key part of Israels weapons supply chain. Plus, Assam floods, student anger spreads and a song to put in rotation Dont get This is Ind...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 24,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s relationship",
-            "international report reveals",
-            "key part"
         ]
     },
     {
@@ -2195,153 +2176,153 @@
         ]
     },
     {
-        "title": "Water customers are not a \u2018blank cheque\u2019, Burnham warns suppliers",
-        "link": "https://www.theguardian.com/business/2026/aug/13/water-bills-suppliers-spending-england-wales-ofwat",
-        "summary": "Firms in England and Wales given green light for extra spending that will add billions to billsBusiness live  latest updatesAndy Burnham has accused water companies of treating their customers as a bo...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "water customers",
-            "\u2018 blank cheque \u2019",
-            "warns suppliers"
-        ]
-    },
-    {
-        "title": "RSC postpones Othello while leading actor Sharon D Clarke has cancer treatment",
-        "link": "https://www.theguardian.com/culture/2026/aug/13/rsc-postpones-othello-shakespeare-actor-sharon-d-clarke-cancer-treatment",
-        "summary": "Radical reimagining of Shakespeare play was due to run at Swan theatre in Stratford-upon-Avon from 13 February to 3 April 2027The Royal Shakespeare Company has announced that it will postpone its radi...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "sharon d clarke",
-            "cancer treatment",
-            "radical production"
-        ]
-    },
-    {
-        "title": "Sports Direct owner buys Harvey Nichols department store chain",
-        "link": "https://www.theguardian.com/business/2026/aug/13/sports-direct-owner-buys-harvey-nichols-department-store-chain",
-        "summary": "Mike Ashleys Frasers Group acquires majority of upmarket retailers sites from the administratorsBusiness live  latest updatesThe owner of Sports Direct has bought Harvey Nichols out of administration ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 53,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "harvey nichols",
-            "department store chain",
-            "mike ashleys frasers"
-        ]
-    },
-    {
-        "title": "Polls open in Clacton, where Farage spent more than \u00a310,000 in byelection against Count Binface \u2013 UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
-        "summary": "The Reform UK leader resigned as the MP for Clacton at the start of July and forced a byelectionThe number of patients in England being cared for in hospital corridors or makeshift areas has remained ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "count binface",
-            "reform uk",
-            "byelectionthe number"
-        ]
-    },
-    {
-        "title": "UK economy shows surprising resilience \u2013 but that might not last | Richard Partington",
-        "link": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
-        "summary": "Weaker growth, rising energy costs and persistent inflation mean Britain could face tougher times in the autumnUK economic growth slows downBusiness live  latest updatesIn the spring the International...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "economy shows",
-            "surprising resilience \u2013",
-            "richard partington weaker"
-        ]
-    },
-    {
-        "title": "Questions over Karoline Leavitt\u2019s replacement as she steps down as White House press secretary \u2013 US politics live",
-        "link": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
-        "summary": "Leavitts departure three months before midterms raises questions over who will communicate Trumps messages as his approval rating falls to record low, says YouGov pollingSign up for the Breaking News ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "karoline leavitt",
-            "\u2019 s replacement",
-            "white house press secretary \u2013 us politics"
-        ]
-    },
-    {
-        "title": "Trump has amassed staggering wealth in \u2018most openly corrupt\u2019 presidency",
-        "link": "https://www.theguardian.com/us-news/2026/aug/13/trump-presidency-revenue-wealth",
-        "summary": "Ethics experts and Democrats express alarm as Trump uses office to grow his personal fortune to unprecedented level Donald Trumps use of his second presidency to grow his personal fortune has alarmed ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Positive",
-        "date": "2026-08-13",
-        "image_url": null,
-        "keywords": [
-            "corrupt \u2019 presidency",
-            "express alarm",
-            "uses office"
-        ]
-    },
-    {
-        "title": "California bans paraquat, highly toxic herbicide outlawed in more than 70 countries",
-        "link": "https://www.theguardian.com/us-news/2026/aug/13/california-paraquat-ban-pesticide",
-        "summary": "State is USs largest user of pesticide that is virtually proven to cause Parkinsons diseaseCalifornia is banning paraquat, a highly toxic, controversial herbicide used across millions of acres of Amer...",
+        "title": "Two seriously injured after passenger train derails near Lewes in East Sussex",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/13/train-derailment-east-sussex-closes-several-routes-lewes",
+        "summary": "Additional nine passengers sustain less serious injuries and major disruption to services reportedTwo people have been seriously injured after a passenger train derailed between Haywards Heath and Lew...",
         "source": "World news | The Guardian",
         "objectivity_score": 49,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "passenger train derails",
+            "sussex additional",
+            "passengers sustain"
+        ]
+    },
+    {
+        "title": "Several homes ablaze as firefighters try to contain West Midlands grassfire",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/13/several-homes-ablaze-as-firefighters-try-to-contain-west-midlands-grassfire",
+        "summary": "About 60 crew responding to blaze covering about 40 acres near Stourbridge golf courseSeveral homes are ablaze and two people are receiving treatment as firefighters attempt to contain a grassfire in ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "golf courseseveral homes",
+            "firefighters attempt",
+            "regions fire service"
+        ]
+    },
+    {
+        "title": "Behind England\u2019s bumper A-level results lie record levels of regional disparities",
+        "link": "https://www.theguardian.com/education/2026/aug/13/england-a-level-results-record-levels-regional-disparities",
+        "summary": "Need for Burnham to tackle regional inequality could not be clearer as London becomes educational outlierAndy Burnham has put regional inequality at the top of his agenda as prime minister, and nowher...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 48,
         "sentiment": "Positive",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "toxic herbicide",
-            "countries state",
-            "controversial herbicide"
+            "\u2019 s bumper",
+            "results lie record levels",
+            "regional disparities"
         ]
     },
     {
-        "title": "Severe storms cut power supply to 540,000 homes in US midwest",
-        "link": "https://www.theguardian.com/us-news/2026/aug/13/power-outages-midwest-indiana-storms",
-        "summary": "Indiana faced most outages at 267,000, about 8% of its customers, with severe thunderstorms and wind aheadPower supply was cut on Thursday to about 540,000 homes and businesses across the US midwest a...",
+        "title": "Government could pay higher rents to spread asylum accommodation across UK",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/13/government-could-pay-higher-rents-to-spread-asylum-accommodation-across-uk",
+        "summary": "Greater use of private rental properties would form part of PMs plan to spread accommodation more evenly across UKMinisters are considering paying higher prices for housing asylum seekers in private r...",
         "source": "World news | The Guardian",
-        "objectivity_score": 46,
+        "objectivity_score": 41,
         "sentiment": "Positive",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "us midwest",
-            "severe thunderstorms",
-            "us midwest"
+            "asylum accommodation",
+            "private rental properties",
+            "form part"
         ]
     },
     {
-        "title": "Trump administration finalizes rule to end federal support for gender-affirming care",
-        "link": "https://www.theguardian.com/us-news/2026/aug/13/trump-administration-gender-affirming-care",
-        "summary": "Move blocking funds through Medicaid and Chip to make it harder for vulnerable children to get healthcare, experts sayThe Trump administration finalized a rule on Tuesday to end gender-affirming care ...",
+        "title": "UK universities face \u2018financial crisis\u2019 amid collapse in international students",
+        "link": "https://www.theguardian.com/education/2026/aug/13/uk-universities-face-financial-crisis-amid-collapse-in-international-students",
+        "summary": "Higher education figures call on Labour to reverse tax on fees and warn institutions at risk of going underUniversity leaders are warning of financial turmoil in British higher education after new fig...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
-        "sentiment": "Negative",
+        "objectivity_score": 15,
+        "sentiment": "Neutral",
         "date": "2026-08-13",
         "image_url": null,
         "keywords": [
-            "administration finalizes rule",
-            "federal support",
-            "vulnerable children"
+            "financial crisis \u2019",
+            "international students",
+            "education figures"
+        ]
+    },
+    {
+        "title": "Trump-led board reportedly votes again to close Kennedy Center for renovations \u2013 live",
+        "link": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
+        "summary": "In May, a judge issued a temporary block on Trumps demand to close the arts institution for renovations after the board  mostly handpicked by the president  voted unanimously in favorSign up for the B...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "renovations \u2013",
+            "temporary block",
+            "arts institution"
+        ]
+    },
+    {
+        "title": "Top Forbes editor reportedly fired after receiving $6m from business associate",
+        "link": "https://www.theguardian.com/media/2026/aug/13/forbes-editor-fired",
+        "summary": "Randall Lane left his job last month after accepting money from founder of firm that does business with magazineThe top editor of Forbes left his job last month and was reportedly dismissed for accept...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "top forbes",
+            "randall lane",
+            "magazinethe top editor"
+        ]
+    },
+    {
+        "title": "Oklahoma and Tennessee each execute one man in two of three US executions scheduled on same day",
+        "link": "https://www.theguardian.com/us-news/2026/aug/13/executions-oklahoma-alabama-tennessee",
+        "summary": "If Alabama execution proceeds, it will be first time in 15 years three judicial killings were carried out in US in one dayCarlos Cuesta-Rodriguez has been put to death by the state of Oklahoma, in the...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "us executions",
+            "execution proceeds",
+            "judicial killings"
+        ]
+    },
+    {
+        "title": "Fossils show huge carbon emissions harm forests, not \u2018green the planet\u2019",
+        "link": "https://www.theguardian.com/us-news/2026/aug/13/forests-carbon-dioxide-emissions",
+        "summary": "Study of 56m-year-old leaves counters claims from Trump administration members of benefits of fossil fuel pollutionAdding huge quantities of carbon dioxide into the atmosphere is set to cause the Eart...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 51,
+        "sentiment": "Neutral",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "huge carbon emissions harm forests",
+            "\u2018 green",
+            "planet \u2019"
+        ]
+    },
+    {
+        "title": "BAE Systems to pay $36m penalty after 104 violations of US arms export rules",
+        "link": "https://www.theguardian.com/business/2026/aug/13/bae-systems-inc-to-pay-36m-penalty-104-violations-us-arms-export-regulations",
+        "summary": "State department says it has reached administrative settlement with companys US arm to resolve breachesThe UK defence company BAE Systems is to pay a $36m (26.7m) civil penalty after breaching US arms...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
+        "sentiment": "Positive",
+        "date": "2026-08-13",
+        "image_url": null,
+        "keywords": [
+            "bae systems",
+            "$ 36m penalty",
+            "us arms"
         ]
     }
 ]
