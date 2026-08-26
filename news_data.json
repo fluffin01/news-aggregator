@@ -737,62 +737,61 @@
         ]
     },
     {
-        "title": "Dolly Parton: The life of an iconic country singer",
-        "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
-        "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+        "title": "How Dolly Parton told her life story through six iconic songs",
+        "link": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
+        "summary": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
         "source": "BBC News",
-        "objectivity_score": 35,
+        "objectivity_score": 56,
         "sentiment": "Positive",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
             "dolly parton",
-            "iconic country singer",
-            "country musician"
+            "life story",
+            "iconic songs"
         ]
     },
     {
-        "title": "Father's house rammed before son died in A66 crash",
-        "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
-        "summary": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+        "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+        "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+        "summary": "A household using a typical amount of gas and electricity will pay 60 a year more, regulator Ofgem says.",
         "source": "BBC News",
-        "objectivity_score": 93,
+        "objectivity_score": 51,
         "sentiment": "Positive",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "'s house",
-            "cole worthy",
-            "'s father"
+            "energy bills",
+            "% rise",
+            "a household"
         ]
     },
     {
-        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
+        "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
+        "summary": "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.",
         "source": "BBC News",
-        "objectivity_score": 5,
+        "objectivity_score": 22,
         "sentiment": "Neutral",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "chief travels",
-            "us media reports flight",
-            "data confirms"
+            "child sex abuse victims"
         ]
     },
     {
-        "title": "Winter energy prices expected to rise to three-year high",
-        "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-        "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
+        "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
+        "link": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied.",
         "source": "BBC News",
-        "objectivity_score": 47,
+        "objectivity_score": 56,
         "sentiment": "Neutral",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "energy prices",
-            "energy price cap"
+            "own life",
+            "chloe moffat",
+            "sensitive confidential information"
         ]
     },
     {
@@ -825,6 +824,223 @@
         ]
     },
     {
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "source": "BBC News",
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "chief travels",
+            "us media reports flight",
+            "data confirms"
+        ]
+    },
+    {
+        "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+        "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "'s refineries",
+            "'s petrol pumps"
+        ]
+    },
+    {
+        "title": "Father's house rammed before son died in A66 crash",
+        "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+        "summary": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+        "source": "BBC News",
+        "objectivity_score": 93,
+        "sentiment": "Positive",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "'s house",
+            "cole worthy",
+            "'s father"
+        ]
+    },
+    {
+        "title": "Nicotine vapes best chance to quit smoking, major review finds",
+        "link": "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o?at_medium=RSS&at_campaign=rss",
+        "summary": "They work better than patches, gum or pills, the most up-to-date evidence suggests.",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "major review",
+            "up-to-date evidence suggests"
+        ]
+    },
+    {
+        "title": "Elton John, Oprah Winfrey and Paul McCartney pay tribute",
+        "link": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
+        "summary": "The tributes have included artists across musical genres, fans from all generations and politicians from all spectrum sharing their love for the country icon.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "elton john",
+            "oprah winfrey",
+            "paul mccartney"
+        ]
+    },
+    {
+        "title": "A life in pictures",
+        "link": "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
+        "summary": "The singer rose from humble beginnings to become one of the most beloved entertainers in the world.",
+        "source": "BBC News",
+        "objectivity_score": 71,
+        "sentiment": "Positive",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "humble beginnings"
+        ]
+    },
+    {
+        "title": "Life of the music legend whose songs touched millions",
+        "link": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+        "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
+        "source": "BBC News",
+        "objectivity_score": 60,
+        "sentiment": "Positive",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "music legend",
+            "timeless hits"
+        ]
+    },
+    {
+        "title": "Watch Nashville fans lay flowers in tribute",
+        "link": "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC's Helena Humphrey is outside the Country Music Hall of Fame where fans gathered to mourn Dolly Parton.",
+        "source": "BBC News",
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "watch nashville",
+            "lay flowers",
+            "helena humphrey"
+        ]
+    },
+    {
+        "title": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
+        "link": "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The polar bear image taken by Audun Rikardsen was among the 'highly commended' entries in this year's competition.",
+        "source": "BBC News",
+        "objectivity_score": 46,
+        "sentiment": "Neutral",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "nosy polar",
+            "lucky squirrel",
+            "wildlife photographer"
+        ]
+    },
+    {
+        "title": "Back to school: How parents can save on costs as the new term starts",
+        "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
+        "summary": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
+        "source": "BBC News",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "new term",
+            "baby banks",
+            "supermarket deals"
+        ]
+    },
+    {
+        "title": "Toxic waste sites exposed in Michael Sheen documentary are 'tip of the iceberg'",
+        "link": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko?at_medium=RSS&at_campaign=rss",
+        "summary": "One scientist says there are thousands of sites across the UK that need investigating.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "waste sites",
+            "michael sheen"
+        ]
+    },
+    {
+        "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
+        "link": "https://www.bbc.co.uk/news/articles/c99d08j3kz1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Negative",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "chinese teens",
+            "prescription drugs"
+        ]
+    },
+    {
+        "title": "The Papers: 'We will always love you, Dolly'",
+        "link": "https://www.bbc.co.uk/news/articles/c1wxnn50yero?at_medium=RSS&at_campaign=rss",
+        "summary": "The death of country music legend and philanthropist Dolly Parton at aged 80 dominates Wednesday's papers.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "country music legend",
+            "dolly parton",
+            "'s papers"
+        ]
+    },
+    {
+        "title": "Kate Hudson to make How to Lose a Guy in 10 Days sequel, 23 years on",
+        "link": "https://www.bbc.co.uk/news/articles/cpq0j81pv08o?at_medium=RSS&at_campaign=rss",
+        "summary": "Hudson and Matthew McConaughey, her co-star from the 2003 rom-com, could be reunited for the sequel.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "kate hudson",
+            "matthew mcconaughey"
+        ]
+    },
+    {
+        "title": "Libyan cleared after Lockerbie bombing trial dies aged 70",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+        "summary": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "bombing trial",
+            "al amin khalifah fhimah",
+            "company 's condolences"
+        ]
+    },
+    {
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
         "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
         "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
@@ -854,224 +1070,6 @@
         ]
     },
     {
-        "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
-        "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "'s refineries",
-            "'s petrol pumps"
-        ]
-    },
-    {
-        "title": "Nicotine vapes best chance to quit smoking, major review finds",
-        "link": "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o?at_medium=RSS&at_campaign=rss",
-        "summary": "They work better than patches, gum or pills, the most up-to-date evidence suggests.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "major review",
-            "up-to-date evidence suggests"
-        ]
-    },
-    {
-        "title": "Life of the music legend whose songs touched millions",
-        "link": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-        "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
-        "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Positive",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "music legend",
-            "timeless hits"
-        ]
-    },
-    {
-        "title": "How Dolly Parton told her story through six iconic songs",
-        "link": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
-        "summary": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
-        "source": "BBC News",
-        "objectivity_score": 56,
-        "sentiment": "Positive",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "dolly parton",
-            "iconic songs",
-            "legendary singer-songwriter"
-        ]
-    },
-    {
-        "title": "Elton John, Oprah Winfrey and Paul McCartney lead tributes to Dolly Parton",
-        "link": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
-        "summary": "The tributes have included artists across musical genres, fans from all generations and politicians from all spectrum sharing their love for the country icon.",
-        "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "elton john",
-            "oprah winfrey",
-            "paul mccartney"
-        ]
-    },
-    {
-        "title": "A life in pictures",
-        "link": "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
-        "summary": "The singer rose from humble beginnings to become one of the most beloved entertainers in the world.",
-        "source": "BBC News",
-        "objectivity_score": 71,
-        "sentiment": "Positive",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "humble beginnings"
-        ]
-    },
-    {
-        "title": "'We used flour for powder' - Dolly reflects on early life in 1979 BBC interview",
-        "link": "https://www.bbc.co.uk/news/videos/c20ljj1e9z5o?at_medium=RSS&at_campaign=rss",
-        "summary": "The singer spoke candidly about her childhood in rural Tennessee, her family's poverty, and the determination that helped her rise to international stardom.",
-        "source": "BBC News",
-        "objectivity_score": 27,
-        "sentiment": "Positive",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "early life",
-            "family 's poverty",
-            "international stardom"
-        ]
-    },
-    {
-        "title": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
-        "link": "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo?at_medium=RSS&at_campaign=rss",
-        "summary": "The polar bear image taken by Audun Rikardsen was among the 'highly commended' entries in this year's competition.",
-        "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Neutral",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "nosy polar",
-            "lucky squirrel",
-            "wildlife photographer"
-        ]
-    },
-    {
-        "title": "Back to school: How to save on uniform costs",
-        "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
-        "summary": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Positive",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "uniform costs",
-            "baby banks",
-            "supermarket deals"
-        ]
-    },
-    {
-        "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-        "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-        "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
-        "source": "BBC News",
-        "objectivity_score": 29,
-        "sentiment": "Neutral",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "'s 'economic",
-            "us sanctions",
-            "deep economic ties"
-        ]
-    },
-    {
-        "title": "Toxic waste sites exposed in Michael Sheen documentary 'tip of the iceberg'",
-        "link": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko?at_medium=RSS&at_campaign=rss",
-        "summary": "One scientist says there are thousands of sites across the UK that need investigating.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "waste sites",
-            "michael sheen",
-            "documentary 'tip"
-        ]
-    },
-    {
-        "title": "The Papers: 'We will always love you, Dolly'",
-        "link": "https://www.bbc.co.uk/news/articles/c1wxnn50yero?at_medium=RSS&at_campaign=rss",
-        "summary": "The death of country music legend and philanthropist Dolly Parton at aged 80 dominates Wednesday's papers.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "country music legend",
-            "dolly parton",
-            "'s papers"
-        ]
-    },
-    {
-        "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
-        "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
-        "source": "BBC News",
-        "objectivity_score": 28,
-        "sentiment": "Positive",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "'economic onslaught",
-            "new sanctions",
-            "'s leaders"
-        ]
-    },
-    {
-        "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
-        "link": "https://www.bbc.co.uk/news/articles/c99d08j3kz1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Negative",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "chinese teens",
-            "prescription drugs"
-        ]
-    },
-    {
-        "title": "Kate Hudson to make How to Lose a Guy in 10 Days sequel, 23 years on",
-        "link": "https://www.bbc.co.uk/news/articles/cpq0j81pv08o?at_medium=RSS&at_campaign=rss",
-        "summary": "Hudson and Matthew McConaughey, her co-star from the 2003 rom-com, could be reunited for the sequel.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "kate hudson",
-            "matthew mcconaughey"
-        ]
-    },
-    {
         "title": "Trump says all mines cleared from Strait of Hormuz",
         "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
         "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
@@ -1084,51 +1082,6 @@
             "hormuz iran",
             "vital waterway",
             "wild fluctuations"
-        ]
-    },
-    {
-        "title": "US judge rejects Ghislaine Maxwell's 'frivolous' appeal against conviction",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zrey17qno?at_medium=RSS&at_campaign=rss",
-        "summary": "The former Jeffrey Epstein accomplice loses her latest effort to be released from prison.",
-        "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "us judge rejects",
-            "ghislaine maxwell",
-            "'s 'frivolous"
-        ]
-    },
-    {
-        "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
-        "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Several thousand migrants remain in the enclave after a mass crossing from Morocco in late July.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "spanish government",
-            "migrant crisis",
-            "mass crossing"
-        ]
-    },
-    {
-        "title": "Brain disease in dead NFL players 'higher than previously shown'",
-        "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-        "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
-        "source": "BBC News",
-        "objectivity_score": 43,
-        "sentiment": "Neutral",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "brain disease",
-            "players 'higher",
-            "new study"
         ]
     },
     {
@@ -1175,17 +1128,17 @@
         ]
     },
     {
-        "title": "O'Neill takes responsibility with nowhere to hide for Celtic",
+        "title": "O'Neill takes responsibility after Celtic's latest European capitulation",
         "link": "https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno?at_medium=RSS&at_campaign=rss",
-        "summary": "Celtic manager Martin O'Neill says his team have a \"million miles to go\" after defeat in Austria.",
+        "summary": "Celtic throw away a four-goal aggregate lead as they suffer a 5-4 defeat by Austrian side LASK to miss out on the Champions League for the second year in a row.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "celtic celtic",
-            "martin o'neill"
+            "european capitulation",
+            "four-goal aggregate lead"
         ]
     },
     {
@@ -1204,16 +1157,17 @@
         ]
     },
     {
-        "title": "Man Utd's midfield spending is done - now for a left-back?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/clykngy3gldo?at_medium=RSS&at_campaign=rss",
-        "summary": "After spending 155m on three midfielders, now Manchester United must decide whether to try to buy a left-back",
+        "title": "Liverpool's midfield is fragile - will they act in the window?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cx2zgzydd16o?at_medium=RSS&at_campaign=rss",
+        "summary": "Liverpool's draw at Newcastle emphasised once again their midfield fragility but will they act in the market and bring in a defensive-minded player?",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 50,
         "sentiment": "Neutral",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "'s midfield spending"
+            "'s midfield",
+            "midfield fragility"
         ]
     },
     {
@@ -1231,17 +1185,33 @@
         ]
     },
     {
-        "title": "Littler's Players Championship hopes dented",
-        "link": "https://www.bbc.co.uk/sport/darts/articles/c36ln69p1ldo?at_medium=RSS&at_campaign=rss",
-        "summary": "Luke Littler loses to Jermaine Wattimena in the quarter-finals of the 27th Players Championship contest of the year.",
+        "title": "Is Joao Pedro ready to break Chelsea's so-called number nine curse?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cgk5ydy0vk4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?",
         "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Negative",
+        "objectivity_score": 34,
+        "sentiment": "Positive",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "luke littler",
-            "jermaine wattimena"
+            "joao pedro",
+            "so-called number",
+            "joao pedro"
+        ]
+    },
+    {
+        "title": "From influencers to queens of women's boxing - five years of MVP",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss",
+        "summary": "On Saturday, Most Valuable Promotions celebrates its fifth anniversary. One of the feistiest upstarts in modern boxing has given a new platform to the world's best female fighters.",
+        "source": "BBC News",
+        "objectivity_score": 34,
+        "sentiment": "Positive",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "women 's",
+            "feistiest upstarts",
+            "new platform"
         ]
     },
     {
@@ -1452,6 +1422,50 @@
         ]
     },
     {
+        "title": "At Least 14 Newborns Die in Hospital Fire in Pakistan\u2019s Capital",
+        "link": "https://www.nytimes.com/2026/08/26/world/asia/pakistan-islamabad-hospital-fire.html",
+        "summary": "The fire broke out on the third floor of Islamabads largest hospital.",
+        "source": "NYT > World News",
+        "objectivity_score": 20,
+        "sentiment": "Negative",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "newborns die",
+            "hospital fire"
+        ]
+    },
+    {
+        "title": "Confronting South Korea\u2019s Violent Past and Its Echoes Today",
+        "link": "https://www.nytimes.com/2026/08/26/world/asia/korea-democracy-tankday-starbucks.html",
+        "summary": "The National Museum of Korean Democracy, which opened last year, documents an era of brutal suppression. But that dark history has resurfaced in troubling ways.",
+        "source": "NYT > World News",
+        "objectivity_score": 54,
+        "sentiment": "Negative",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "violent past",
+            "national museum",
+            "korean democracy"
+        ]
+    },
+    {
+        "title": "What to Know About Bank Melli, Singled Out in U.S. Call for Economic War",
+        "link": "https://www.nytimes.com/2026/08/26/world/europe/iran-melli-bank-us-sanctions.html",
+        "summary": "Bank Melli, Irans largest lender, already faces waves of sanctions that severely limit its ability to operate abroad. Every foreign branch must be shut down, Treasury Secretary Scott Bessent said.",
+        "source": "NYT > World News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "economic war bank",
+            "faces waves",
+            "treasury secretary"
+        ]
+    },
+    {
         "title": "Worker Dies After Accident With Plane at Montreal Airport",
         "link": "https://www.nytimes.com/2026/08/25/world/canada/montreal-airport-accident-worker-dead.html",
         "summary": "The Transportation Safety Board of Canada said the episode involved an Airbus A350 operated by French Bee, a French low-cost airline.",
@@ -1552,49 +1566,6 @@
             "never seen anything",
             "rattles france",
             "heat waves"
-        ]
-    },
-    {
-        "title": "Read the List of Goods Included in Canada\u2019s Retaliatory Tariffs",
-        "link": "https://www.nytimes.com/interactive/2026/08/25/world/canada/Canadian-retaliatory-tariffs-on-American-products-8-25-2026.html",
-        "summary": "Canada announced tariffs as high as 50 percent on hundreds of American products, days after the collapse of trade talks triggered tariffs from the Trump administration.",
-        "source": "NYT > World News",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "goods included",
-            "retaliatory tariffs canada",
-            "american products"
-        ]
-    },
-    {
-        "title": "\u2018I\u2019m Fine With My Body\u2019: Danish Leader Responds to Unsolicited Beauty Advice",
-        "link": "https://www.nytimes.com/2026/08/25/world/europe/denmark-frederiksen-nose-plastic-surgeon.html",
-        "summary": "Prime Minister Mette Frederiksen had just returned from Ukraine when she received a message from a plastic surgeon asking if she wanted to fix her nose.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "danish leader",
-            "advice prime",
-            "mette frederiksen"
-        ]
-    },
-    {
-        "title": "Tornado in Southern France Tears Through Village",
-        "link": "https://www.nytimes.com/video/world/europe/100000011111054/tornado-southern-france-damage.html",
-        "summary": "A tornado in southern France destroyed homes and injured dozens of people. The town of Pomas, which has a population of about 1,000, was hit especially hard.",
-        "source": "NYT > World News",
-        "objectivity_score": 33,
-        "sentiment": "Negative",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "france tears"
         ]
     },
     {
@@ -1748,6 +1719,21 @@
         ]
     },
     {
+        "title": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
+        "link": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
+        "summary": "Heavy rain expected in parts of Vietnam and southern China, as another storm system, Typhoon Saudel, heads for Japan and TaiwanWidespread flooding triggered by Typhoon Narra has submerged homes and fo...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
+        "sentiment": "Neutral",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "typhoon narra",
+            "record flood waters submerge homes",
+            "force mass evacuations"
+        ]
+    },
+    {
         "title": "Taiwan charges nine people for smuggling \u2018high-end\u2019 AI servers to China",
         "link": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
         "summary": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalryTaiwanese prosecutors charged nine people Monday, including one from Nvidia and ...",
@@ -1808,93 +1794,108 @@
         ]
     },
     {
-        "title": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers",
-        "link": "https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes",
-        "summary": "After repairs to Hirosaki Castle in Aomori prefecture, officials employed a technique known as hikiya to move the structure more than two metresTo chants of so-re, so-re, about 1,800 people came toget...",
+        "title": "Fears grow for fourth rate hike after higher than expected July inflation rate",
+        "link": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
+        "summary": "ABS says CPI was 3.5% in July, casting doubt on Reserve Bank meeting its 2.5% inflation target without further hikeFears are growing that the Reserve Bank will hit millions of mortgage holders with a ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
+        "objectivity_score": 29,
+        "sentiment": "Neutral",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "360-tonne castle",
-            "hirosaki castle",
-            "metresto chants"
+            "inflation rate",
+            "reserve bank meeting",
+            "% inflation target"
         ]
     },
     {
-        "title": "Australia news live: Ooshies drive sales boom as Woolworths profit soars; search continues for pilot who crashed into sea off NT",
+        "title": "Australia news live: Chalmers hits back at WA premier\u2019s \u2018east coast clowns\u2019 sledge; NSW police investigate alleged theft of 400,000 oysters",
         "link": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
         "summary": "Follow updates liveGet our breaking news email, free app or daily news podcastAngela Jackson, the commissioner of the Productivity Commission, said the body stands by the interim report into the GST, ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 38,
+        "objectivity_score": 35,
         "sentiment": "Positive",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "drive sales boom",
-            "profit soars",
+            "premier \u2019 s \u2018",
+            "coast clowns \u2019 sledge",
             "updates liveget"
         ]
     },
     {
-        "title": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
-        "link": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase",
-        "summary": "Labor put levy on all public transport fares in metropolitan Melbourne and regional Victoria since January 2025, auditor-general saysThe Victorian government secretly increased public transport fares ...",
+        "title": "Raygun opens up on her infamous Olympics breakdancing debut: \u2018not as bad as I thought!\u2019",
+        "link": "https://www.theguardian.com/australia-news/2026/aug/26/raygun-breakdance-routine-cnn-interview-reaction-australian-olympics",
+        "summary": "Australias first Olympic breakdancer became a viral sensation after her performance at Paris 2024, where she failed to receive a single pointRachael Raygun Gunn says her performance at the 2024 Paris ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
+        "objectivity_score": 38,
+        "sentiment": "Negative",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "olympic breakdancer",
+            "viral sensation",
+            "raygun gunn"
+        ]
+    },
+    {
+        "title": "Teenage girl allegedly raped in \u2018heinous\u2019 attack at Queensland residential care home",
+        "link": "https://www.theguardian.com/australia-news/2026/aug/26/teenage-girl-allegedly-raped-residential-resi-care-home-queensland-ntwnfb",
+        "summary": "States child safety minister Amanda Camm confirms police are investigating alleged attack west of BrisbaneA Queensland teenager has allegedly been raped in a state-funded residential care home in what...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 14,
         "sentiment": "Neutral",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "suburban rail",
-            "public transport fares",
-            "public transport fares"
+            "\u2018 heinous \u2019 attack",
+            "residential care home",
+            "child safety minister"
         ]
     },
     {
-        "title": "Australia may face a rush of datacentre construction as AI firms look to avoid upcoming rules, experts say",
-        "link": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
-        "summary": "Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water useFollow our Australia news live blog for latest updatesGet our breaking n...",
+        "title": "Nine CEO sees \u2018world of growth in publishing\u2019 as network slashes costs",
+        "link": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs",
+        "summary": "Matt Stanton says company has good pipeline of AI deals ahead even as it aims to cut $160m in costsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 52,
+        "objectivity_score": 31,
         "sentiment": "Positive",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "datacentre construction",
-            "new sites",
-            "power prices"
+            "\u2018 world",
+            "network slashes costs",
+            "matt stanton"
         ]
     },
     {
-        "title": "One Nation\u2019s Malcolm Roberts \u2018in two minds\u2019 about whether gay people should be equal",
-        "link": "https://www.theguardian.com/australia-news/2026/aug/26/one-nation-malcolm-roberts-two-minds-gay-equal-rights-ntwnfb",
-        "summary": "Footage shows senator on stage at the Church and State conference responding to question about partys director James AshbyFollow our Australia news live blog for latest updatesGet our breaking news em...",
+        "title": "Call to ban marmot hunting in France as campaigners say they are \u2018killed for fun\u2019",
+        "link": "https://www.theguardian.com/world/2026/aug/26/call-ban-marmot-hunting-france-climate-crisis",
+        "summary": "Protests and petitions planned amid growing concerns over impact of climate crisis on numbers of Alpine rodentAnimal rights campaigners are gearing up for protests and petitions aimed at persuading th...",
         "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Positive",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "malcolm roberts",
-            "minds \u2019",
-            "gay people"
-        ]
-    },
-    {
-        "title": "Federal MP Luke Gosling charged with breaching bail after alleged assault in NT",
-        "link": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
-        "summary": "Member for Solomon was charged after an alleged incident at a cultural festival in Darwin in JulyGet our breaking news email, free app or daily news podcastNorthern Territory police have charged feder...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 16,
+        "objectivity_score": 14,
         "sentiment": "Neutral",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "mp luke gosling",
-            "nt member",
-            "cultural festival"
+            "ban marmot",
+            "climate crisis",
+            "rodentanimal rights campaigners"
+        ]
+    },
+    {
+        "title": "Man on trial for Daphne Caruana Galizia murder claims he was framed",
+        "link": "https://www.theguardian.com/world/2026/aug/26/yorgen-fenech-trial-daphne-caruana-galizia-claims-framed",
+        "summary": "Yorgen Fenech tells jury he had nothing to do with killing and alleges top adviser to Maltas then PM was instigatorA businessman on trial for the murder of the journalist Daphne Caruana Galizia has sp...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "daphne caruana galizia",
+            "murder claims",
+            "yorgen fenech"
         ]
     },
     {
@@ -1943,33 +1944,33 @@
         ]
     },
     {
-        "title": "VW workers boo boss as he urges them to \u2018pull together\u2019 amid job cuts",
-        "link": "https://www.theguardian.com/business/2026/aug/25/vw-workers-boo-boss-as-he-urges-them-to-pull-together-amid-job-cuts",
-        "summary": "Oliver Blume faces workforce at German HQ as carmaker struggles against Chinese competition and US tariffsThe chief executive of Volkswagen has faced boos and whistles of protest at the companys headq...",
+        "title": "Iran seeks to criminalise all contact with foreign media in latest \u2018chilling\u2019 crackdown",
+        "link": "https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown",
+        "summary": "As photojournalist sentenced to 15 years, rights groups warn law would turn civic engagement into security crimeIran has taken the first step towards criminalising contact with foreign media, in a mov...",
         "source": "World news | The Guardian",
-        "objectivity_score": 24,
-        "sentiment": "Positive",
+        "objectivity_score": 47,
+        "sentiment": "Neutral",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "workers boo boss",
-            "\u2018 pull",
-            "job cuts"
+            "foreign media",
+            "\u2019 crackdown",
+            "rights groups"
         ]
     },
     {
-        "title": "UK officials prepare for potential Trump talks as Burnham plans New York trip",
-        "link": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
-        "summary": "PM known to be keen to attend UN general assembly after meeting Volodymyr Zelenskyy in UkraineUK officials are making preparations for a potential meeting between Andy Burnham and Donald Trump after t...",
+        "title": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes",
+        "link": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
+        "summary": "Internal calls to end war get louder as Gulf neighbours plan alternative pipelines to cut reliance on waterwayIs the strait of Hormuz, recently cited by the office of the Iranian supreme leader as the...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "un general assembly",
-            "volodymyr zelenskyy",
-            "potential meeting"
+            "faces strait",
+            "strategic value",
+            "chokehold erodes"
         ]
     },
     {
@@ -2015,36 +2016,6 @@
             "foreign minister calls threat",
             "new us",
             "economic sanctions \u2018"
-        ]
-    },
-    {
-        "title": "Burnham to face pressure at Labour conference to recognise Israel\u2019s actions in Gaza as genocide",
-        "link": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
-        "summary": "Grassroots groups to urge PM to break with Starmer policy and impose full arms embargo on IsraelGrassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the pa...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s actions",
-            "full arms embargo",
-            "israelgrassroots labour"
-        ]
-    },
-    {
-        "title": "Former British and French diplomats urge action over Israel\u2019s \u2018erasure\u2019 of Palestine",
-        "link": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
-        "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade banMore than 100 French and British former diplomats have said Pal...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "diplomats urge action",
-            "\u2019 s \u2018 erasure \u2019",
-            "senior figures"
         ]
     },
     {
@@ -2123,6 +2094,66 @@
         ]
     },
     {
+        "title": "Britons face highest price cap in three years as energy bills rise 4% from October",
+        "link": "https://www.theguardian.com/money/2026/aug/26/energy-price-cap-great-britain-to-rise-from-october",
+        "summary": "Households in Great Britain will pay equivalent of 1,723 a year, prompting calls for more supportNils Pratley: Labours energy bills crisis is getting worse. Political honesty is essentialBusiness live...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "price cap",
+            "energy bills rise",
+            "october households"
+        ]
+    },
+    {
+        "title": "Two years in limbo: the residents still paying mortgages on flats destroyed in east London fire",
+        "link": "https://www.theguardian.com/society/2026/aug/26/east-london-spectrum-building-fire-cladding-residents-limbo",
+        "summary": "Spectrum Building leaseholders awaiting payouts after freeholder, Arinium, went bankrupt shortly after 2024 blazeSarah Williams vividly remembers the night in 2016 when she camped overnight in a car p...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 49,
+        "sentiment": "Neutral",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "building leaseholders",
+            "car park",
+            "flats market"
+        ]
+    },
+    {
+        "title": "National lottery faces questions over new boss\u2019s record in gambling industry",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/26/national-lottery-faces-questions-over-new-bosss-record-in-gambling-industry",
+        "summary": "MPs tell regulator they are deeply concerned over interim CEO Phil Walkers roles at William Hill and Game NationThe national lottery is facing questions over its new bosss record in the gambling indus...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "national lottery",
+            "new boss \u2019 s record",
+            "ceo phil"
+        ]
+    },
+    {
+        "title": "Autism and ADHD care complaints more than triple in five years in England",
+        "link": "https://www.theguardian.com/society/2026/aug/26/autism-adhd-care-complaints-england-triple-five-years",
+        "summary": "NHS ombudsman warns of years-long waits and patients paying thousands to go private as demand for services soarsComplaints about autism and attention deficit hyperactivity disorder services in England...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 34,
+        "sentiment": "Neutral",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "care complaints",
+            "england nhs",
+            "ombudsman warns"
+        ]
+    },
+    {
         "title": "Labour MPs will push Burnham to back voting reform in first 100 days",
         "link": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-electoral-reform-first-past-the-post",
         "summary": "Exclusive: Nearly 100 Labour MPs support commission on changing the system used for Westminster electionWhy do some Labour MPs want electoral reform and will it happen?Andy Burnham will face an immedi...",
@@ -2138,138 +2169,78 @@
         ]
     },
     {
-        "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states",
-        "link": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
-        "summary": "Government resilience campaign aims to ensure people can cope in a national disaster, in order to free resources for most vulnerableUK citizens will be told to stock up on tinned food and take steps t...",
+        "title": "Tributes pour in after country music legend Dolly Parton dies \u2013 latest updates",
+        "link": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
+        "summary": "Legendary country singer died surrounded by loved ones after being diagnosed with cancer, her team says; Beyonc, Dionne Warwick, Kacey Musgraves and others pay tribute Dolly Parton dies aged 80 | Cele...",
         "source": "World news | The Guardian",
         "objectivity_score": 70,
         "sentiment": "Positive",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "climate crisis",
-            "hostile states government resilience campaign aims",
-            "ensure people"
+            "country music legend",
+            "dolly parton",
+            "country singer"
         ]
     },
     {
-        "title": "London bus drivers resume strike over heatwave working amid fears over air con deal",
-        "link": "https://www.theguardian.com/uk-news/2026/aug/25/london-bus-drivers-resume-strike-over-heatwave-working-amid-fears-over-air-con-deal",
-        "summary": "Drivers concerned that bus operators offer to retrofit cabs on 730 buses will not be complete by next summerLondon bus drivers have resumed strike action over having to work in high temperatures, amid...",
+        "title": "Wednesday briefing: How Canada has turned a trade dispute into a defence of its sovereignty",
+        "link": "https://www.theguardian.com/world/2026/aug/26/wednesday-briefing-how-canada-has-turned-a-trade-dispute-into-a-defence-of-its-sovereignty",
+        "summary": "In todays newsletter: A collapsing trade deal has united Canadians more than ever, in an existential confrontation with the US presidentGood morning. When the Guardian asked Canadian readers whether t...",
         "source": "World news | The Guardian",
-        "objectivity_score": 28,
-        "sentiment": "Neutral",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "bus drivers resume strike",
-            "bus operators",
-            "retrofit cabs"
-        ]
-    },
-    {
-        "title": "Government lays out housing plans but Burnham backtracks on social renting pledge \u2013 as it happened",
-        "link": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
-        "summary": "10bn for housing with 60% social renting is at odds with PMs previous call for programme to be spent entirely on social homesMinisters are looking at a range of support for vulnerable households strug...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 13,
-        "sentiment": "Neutral",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "government lays",
-            "pledge \u2013",
-            "previous call"
-        ]
-    },
-    {
-        "title": "Badenoch plotted to remove Sunak as PM months before election, book claims",
-        "link": "https://www.theguardian.com/politics/2026/aug/25/kemi-badenoch-rishi-sunak-conservatives-anthony-seldon-book",
-        "summary": "Anthony Seldons book alleges Badenoch asked fellow Tory ministers if anyone was interested in changing the captainKemi Badenoch plotted with fellow Conservative cabinet ministers to remove Rishi Sunak...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "book claims",
-            "anthony seldons",
-            "book alleges"
-        ]
-    },
-    {
-        "title": "Canada announces up to 50% retaliatory tariffs on hundreds of US goods including steel, fish, cheese and paper \u2013 live",
-        "link": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
-        "summary": "Move by Canada comes after US president spent morning railing against the country, calling it the most difficult nation he deals withCanada announces retaliatory tariffs on wide range of US goodsSign ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "% retaliatory tariffs",
-            "us goods",
-            "paper \u2013"
-        ]
-    },
-    {
-        "title": "Tributes pour in after country music legend Dolly Parton, 80, dies following \u2018brief battle with cancer\u2019 \u2013 latest updates",
-        "link": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
-        "summary": "Reba McEntire, Lily Tomlin, Dionne Warwick, Kacey Musgraves, Donald Trump and others mourn stars deathDolly Parton dies aged 80 | Celebrity tributes | A life in picturesPartons peerless career turned ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 47,
+        "objectivity_score": 43,
         "sentiment": "Positive",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "country music legend",
-            "dolly parton",
-            "brief battle"
+            "trade dispute",
+            "todays newsletter",
+            "existential confrontation"
         ]
     },
     {
-        "title": "From Hasan Piker to Jesse Watters, El-Sayed seeks to focus on affordability amid scrutiny from both sides",
-        "link": "https://www.theguardian.com/us-news/2026/aug/25/abdul-el-sayed-criticism-affordability-message",
-        "summary": "Democratic Senate candidate for Michigan distances himself from Twitch streamer and debates Fox News hostThe Democratic candidate for Senate in the swing state of Michigan has spent the week trying to...",
+        "title": "Two Dan Sullivans to appear on Alaska\u2019s US Senate ballot in November\u2019s midterm elections",
+        "link": "https://www.theguardian.com/us-news/2026/aug/26/alaska-dan-sullivan-senate",
+        "summary": "The incumbent senator  Dan S Sullivan has condemned ex-school teacher Dan J Sullivan, claiming he is running at the behest of Democrats to confuse supportersRepublican senator Dan S Sullivan will be j...",
         "source": "World news | The Guardian",
-        "objectivity_score": 34,
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-08-26",
+        "image_url": null,
+        "keywords": [
+            "dan sullivans",
+            "\u2019 s us senate ballot",
+            "\u2019 s midterm elections"
+        ]
+    },
+    {
+        "title": "Trump endorsement helps boost Darline Graham in South Carolina primary to replace her late brother in US Senate \u2013 as it happened",
+        "link": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
+        "summary": "This live blog is now closed.South Carolina chooses Darline Graham as Republican nominee for US SenateSign up for the US Breaking News emailOn Truth Social, however, the president shot down assertions...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "hasan piker",
-            "jesse watters",
-            "democratic senate candidate"
+            "darline graham",
+            "late brother",
+            "us senate \u2013"
         ]
     },
     {
-        "title": "Billionaire investor says he used AI to write critique of former mentee Scott Bessent",
-        "link": "https://www.theguardian.com/us-news/2026/aug/25/scott-bessent-stanley-druckenmiller-ai",
-        "summary": "Stanley Druckenmiller said he was proud of using it as wider media grapples with parameters around AI useStanley Druckenmiller, a billionaire investor, said he used artificial intelligence to pen his ...",
+        "title": "US halts all immigrant visa applications amid tightening restrictions",
+        "link": "https://www.theguardian.com/us-news/2026/aug/25/us-immigrant-visa-application-trump-crackdwon",
+        "summary": "Move by state department to limit access is part of Trumps crackdown on both lawful and undocumented immigrationAll US immigrant visa applications have been paused by the Trump administration as the s...",
         "source": "World news | The Guardian",
-        "objectivity_score": 55,
-        "sentiment": "Neutral",
+        "objectivity_score": 37,
+        "sentiment": "Positive",
         "date": "2026-08-26",
         "image_url": null,
         "keywords": [
-            "scott bessent stanley druckenmiller",
-            "media grapples",
-            "billionaire investor"
-        ]
-    },
-    {
-        "title": "Polygamous sect leader serving 50 years for child sex abuse gets another 24 years",
-        "link": "https://www.theguardian.com/us-news/2026/aug/25/polygamous-sect-leader-conviction-child-abuse",
-        "summary": "Samuel Bateman, 50, is convicted of three state child abuse counts after previous conviction on federal countsA polygamous sect leader already serving a 50-year federal sentence for orchestrating sex ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 24,
-        "sentiment": "Negative",
-        "date": "2026-08-26",
-        "image_url": null,
-        "keywords": [
-            "sect leader",
-            "child sex abuse",
-            "samuel bateman"
+            "us halts",
+            "immigrant visa applications",
+            "state department"
         ]
     }
 ]
