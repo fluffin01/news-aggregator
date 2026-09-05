@@ -737,7 +737,36 @@
         ]
     },
     {
-        "title": "Nigel Farage tells BBC he 'wasn't listening' to foreign donor talks filmed undercover",
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+        "source": "BBC News",
+        "objectivity_score": 61,
+        "sentiment": "Positive",
+        "date": "2026-09-05",
+        "image_url": null,
+        "keywords": [
+            "us envoys",
+            "vladimir putin",
+            "steve witkoff"
+        ]
+    },
+    {
+        "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
+        "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
+        "summary": "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-09-05",
+        "image_url": null,
+        "keywords": [
+            "protesters block roads",
+            "hours-long disruption"
+        ]
+    },
+    {
+        "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
         "link": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
         "summary": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
         "source": "BBC News",
@@ -767,17 +796,17 @@
         ]
     },
     {
-        "title": "Cleveland police chief proud of force but being 'let down' by funding",
-        "link": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Victoria Fuller tells the BBC the force's resources need a rethink, speaking after the A66 crash in Middlesbrough which killed seven including two officers.",
+        "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+        "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
         "source": "BBC News",
-        "objectivity_score": 42,
-        "sentiment": "Positive",
+        "objectivity_score": 31,
+        "sentiment": "Neutral",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
-            "victoria fuller",
-            "force 's resources need"
+            "us hits",
+            "oil tankers"
         ]
     },
     {
@@ -810,23 +839,9 @@
         ]
     },
     {
-        "title": "Michael Owen doesn't tell his children he loves them - how big a deal is that?",
-        "link": "https://www.bbc.co.uk/news/articles/cddvep5vj7mo?at_medium=RSS&at_campaign=rss",
-        "summary": "His comments sparked discussions around parenting, gender and culture, and just how important those three simple words are.",
-        "source": "BBC News",
-        "objectivity_score": 48,
-        "sentiment": "Positive",
-        "date": "2026-09-05",
-        "image_url": null,
-        "keywords": [
-            "michael owen",
-            "simple words"
-        ]
-    },
-    {
         "title": "Counterfeit weight-loss jabs are booming - and doctors are worried",
         "link": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Counterfeit versions of a drug which is still in clinical trials are flooding the black market.",
+        "summary": "Dupes of retatrutide are flooding the black market, but the drug is yet to be approved by regulators.",
         "source": "BBC News",
         "objectivity_score": 43,
         "sentiment": "Negative",
@@ -834,38 +849,50 @@
         "image_url": null,
         "keywords": [
             "weight-loss jabs",
-            "clinical trials",
             "black market"
         ]
     },
     {
-        "title": "Police say these cameras make US safer - so why are they being sabotaged?",
-        "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
-        "summary": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
+        "title": "Why the USS Lincoln turned up in Thailand looking so rusty",
+        "link": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
+        "summary": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-09-05",
+        "image_url": null,
+        "keywords": [
+            "uss lincoln",
+            "uss abraham lincoln"
+        ]
+    },
+    {
+        "title": "The centuries-old problem of mapping the world",
+        "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+        "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+        "source": "BBC News",
+        "objectivity_score": 62,
+        "sentiment": "Neutral",
+        "date": "2026-09-05",
+        "image_url": null,
+        "keywords": [
+            "centuries-old problem",
+            "un adopts",
+            "new world map"
+        ]
+    },
+    {
+        "title": "Why are European countries moving their gold out of North America?",
+        "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
-            "us safer",
-            "citizens object",
-            "surveillance network"
-        ]
-    },
-    {
-        "title": "What different world maps get right - and what they get wrong",
-        "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-        "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-        "source": "BBC News",
-        "objectivity_score": 64,
-        "sentiment": "Neutral",
-        "date": "2026-09-05",
-        "image_url": null,
-        "keywords": [
-            "different world maps",
-            "un adopts",
-            "new world map"
+            "european countries",
+            "shiny stuff"
         ]
     },
     {
@@ -884,20 +911,6 @@
         ]
     },
     {
-        "title": "Why are European countries moving their gold out of North America?",
-        "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-09-05",
-        "image_url": null,
-        "keywords": [
-            "european countries",
-            "shiny stuff"
-        ]
-    },
-    {
         "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
         "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
         "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
@@ -913,17 +926,31 @@
         ]
     },
     {
-        "title": "Cleveland police chief proud of force but being 'let down' by funding",
-        "link": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Victoria Fuller tells the BBC the force's resources need a rethink, speaking after the A66 crash in Middlesbrough which killed seven including two officers.",
+        "title": "Police probe after child dies in woodland",
+        "link": "https://www.bbc.co.uk/news/articles/c4gmk8lmzzyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Emergency services were called to Strawberry Lane at 08:45 BST on Saturday.",
         "source": "BBC News",
-        "objectivity_score": 42,
-        "sentiment": "Positive",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
-            "victoria fuller",
-            "force 's resources need"
+            "police"
+        ]
+    },
+    {
+        "title": "King and Queen join Highland games fans at Braemar Gathering",
+        "link": "https://www.bbc.co.uk/news/articles/c89jpyk8n80o?at_medium=RSS&at_campaign=rss",
+        "summary": "The King and Queen watched events including Highland dancing, caber tossing and pipe bands performing at the annual event in Royal Deeside.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-09-05",
+        "image_url": null,
+        "keywords": [
+            "games fans",
+            "braemar gathering",
+            "pipe bands"
         ]
     },
     {
@@ -940,18 +967,18 @@
         ]
     },
     {
-        "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
-        "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels.",
+        "title": "New police team to crack down on illegal number plates across England",
+        "link": "https://www.bbc.co.uk/news/articles/cge4g189e13o?at_medium=RSS&at_campaign=rss",
+        "summary": "It will bring together forces across England to target organised crime groups and drivers who dodge fines.",
         "source": "BBC News",
-        "objectivity_score": 15,
-        "sentiment": "Neutral",
+        "objectivity_score": 41,
+        "sentiment": "Negative",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
-            "flight price rises",
-            "'foolish leaders",
-            "virgin 's"
+            "new police team",
+            "illegal number plates",
+            "crime groups"
         ]
     },
     {
@@ -968,32 +995,18 @@
         ]
     },
     {
-        "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+        "title": "Richard Hammond to 'find a way' to share mansion with bats after renovation plans paused",
+        "link": "https://www.bbc.co.uk/news/articles/cj4j5zn5n75o?at_medium=RSS&at_campaign=rss",
+        "summary": "Rare bats found at the Georgian mansion have delayed his plans to build a padel court and luxury car garage.",
         "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Negative",
-        "date": "2026-09-05",
-        "image_url": null,
-        "keywords": [
-            "us envoys",
-            "steve witkoff",
-            "jared kushner"
-        ]
-    },
-    {
-        "title": "Lauryn Hill, Wyclef and Giggs among surprise guests at Jay-Z's long-awaited UK show",
-        "link": "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo?at_medium=RSS&at_campaign=rss",
-        "summary": "The US rapper rolled back the years for more than two hours at the first of his two shows in London.",
-        "source": "BBC News",
-        "objectivity_score": 27,
+        "objectivity_score": 90,
         "sentiment": "Positive",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
-            "surprise guests",
-            "us rapper"
+            "richard hammond",
+            "renovation plans",
+            "padel court"
         ]
     },
     {
@@ -1124,46 +1137,76 @@
         ]
     },
     {
-        "title": "Putin Orders Pause in Kyiv Strikes Ahead of Visit by U.S. Envoys",
-        "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
-        "summary": "Steve Witkoff, President Trumps special envoy, and Jared Kushner, his son-in-law, arrived in Moscow to meet with the Russian leader. They head to Kyiv next, in an effort to revive peace talks.",
-        "source": "NYT > World News",
-        "objectivity_score": 19,
+        "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
+        "source": "BBC News",
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
-            "putin orders pause",
-            "kyiv strikes ahead",
-            "envoys steve witkoff"
+            "football correspondent",
+            "sami mokbel",
+            "premier league title"
         ]
     },
     {
-        "title": "The Fall of James Orr, the Man Called Farage\u2019s Brain",
-        "link": "https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html",
-        "summary": "James Orr, who has ties to Peter Thiel and JD Vance, was suspended from Reform U.K. after he was filmed apparently arranging contributions from a man posing as a foreign donor.",
-        "source": "NYT > World News",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-09-05",
-        "image_url": null,
-        "keywords": [
-            "james orr",
-            "\u2019 s brain",
-            "james orr"
-        ]
-    },
-    {
-        "title": "Two Survivors Rescued in Nepal 10 Days After Floods",
-        "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
-        "summary": "The improbable rescues came a day after two others were recovered from a buried tunnel.",
+        "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
+        "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+        "summary": "President Vladimir V. Putin ordered a pause in strikes on Ukraines capital, Kyiv, ahead of the meeting with President Trumps envoys: his son-in-law Jared Kushner and the businessman Steve Witkoff.",
         "source": "NYT > World News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
-            "improbable rescues"
+            "putin meets witkoff",
+            "discuss ukraine",
+            "war president"
+        ]
+    },
+    {
+        "title": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
+        "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
+        "summary": "A rescue from a mostly buried house gave new hope to a town devastated by floods in Nepal. Earlier Saturday, another survivor had been pulled from a tunnel.",
+        "source": "NYT > World News",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
+        "date": "2026-09-05",
+        "image_url": null,
+        "keywords": [
+            "nepal floods buried",
+            "new hope"
+        ]
+    },
+    {
+        "title": "Huckabee Condemns \u2018Terrorist\u2019 Attacks on Palestinians in West Bank Town Hall",
+        "link": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html",
+        "summary": "Mike Huckabee, the U.S. ambassador to Israel, made a rare trip to meet with Palestinians after international backlash over attacks by Israeli settlers.",
+        "source": "NYT > World News",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-09-05",
+        "image_url": null,
+        "keywords": [
+            "huckabee condemns",
+            "west bank town hall",
+            "mike huckabee"
+        ]
+    },
+    {
+        "title": "U.S. Strikes Three Iranian \u2018Shadow Network\u2019 Oil Tankers, Military Says",
+        "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
+        "summary": "The U.S. military said it retaliated after Iran launched missiles at two warships. The strikes came days after the two sides exchanged some of their most intense fire in weeks.",
+        "source": "NYT > World News",
+        "objectivity_score": 42,
+        "sentiment": "Positive",
+        "date": "2026-09-05",
+        "image_url": null,
+        "keywords": [
+            "shadow network",
+            "intense fire"
         ]
     },
     {
@@ -1182,18 +1225,18 @@
         ]
     },
     {
-        "title": "Iran\u2019s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg",
-        "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
-        "summary": "The United States military has not confirmed an attack. The reports came after a barrage of U.S. strikes in retaliation for Iranian attacks on ships and American forces.",
+        "title": "The Fall of James Orr, the Man Called Farage\u2019s Brain",
+        "link": "https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html",
+        "summary": "James Orr, who has ties to Peter Thiel and JD Vance, was suspended from Reform U.K. after he was filmed apparently arranging contributions from a man posing as a foreign donor.",
         "source": "NYT > World News",
-        "objectivity_score": 37,
+        "objectivity_score": 23,
         "sentiment": "Neutral",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
-            "\u2019 s state",
-            "media says u.s.",
-            "tanker near kharg"
+            "james orr",
+            "\u2019 s brain",
+            "james orr"
         ]
     },
     {
@@ -1298,21 +1341,6 @@
             "families turn",
             "symbolic cremation",
             "nepal floods"
-        ]
-    },
-    {
-        "title": "Alejandro Betancourt, Trump\u2019s Partner in Venezuelan Oil Deal, Has Faced Investigations",
-        "link": "https://www.nytimes.com/2026/09/04/world/americas/venezuela-oil-trump-alejandro-betancourt.html",
-        "summary": "Alejandro Betancourt has been targeted by multiple investigations. Now hes the U.S. governments unrivaled partner in President Trumps bid to control Venezuelan oil resources.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-09-05",
-        "image_url": null,
-        "keywords": [
-            "alejandro betancourt",
-            "investigations alejandro betancourt",
-            "multiple investigations"
         ]
     },
     {
@@ -1478,6 +1506,21 @@
         ]
     },
     {
+        "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+        "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
+        "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffick drugsAn Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 61,
+        "sentiment": "Neutral",
+        "date": "2026-09-05",
+        "image_url": null,
+        "keywords": [
+            "tv presenter",
+            "drug crime",
+            "sarah khalifa"
+        ]
+    },
+    {
         "title": "UN votes to adopt new world map that shows Africa\u2019s true scale",
         "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
         "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to GreenlandThe United Nations has voted to adopt a resolution for the world to formally phase out ...",
@@ -1535,21 +1578,6 @@
             "new constitution",
             "new rules",
             "electionsguinea-bissau voters"
-        ]
-    },
-    {
-        "title": "Almost half of world\u2019s farmers poisoned by pesticides every year, experts find",
-        "link": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-        "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalitiesAlmost half of the worlds farmers are poisoned by pesticides every single year, ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-09-05",
-        "image_url": null,
-        "keywords": [
-            "world \u2019 s farmers",
-            "worlds farmers",
-            "available data"
         ]
     },
     {
@@ -1778,18 +1806,18 @@
         ]
     },
     {
-        "title": "Steve Witkoff and Jared Kushner land in Moscow aiming to revive Ukraine talks",
+        "title": "Putin begins talks with Steve Witkoff and Jared Kushner on ending war with Ukraine",
         "link": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-        "summary": "US envoys expected to meet Vladimir Putin before going to Kyiv, after peace efforts floundered in recent monthsThe US envoys Steve Witkoff and Jared Kushner have arrived in Moscow to try to resuscitat...",
+        "summary": "Moscow and Kyiv vow not to strike each others capitals for three days during negotiationsRussian president Vladimir Putin began talks with US envoys Jared Kushner and Steve Witkoff on ending more than...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 43,
         "sentiment": "Neutral",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
             "steve witkoff",
             "jared kushner",
-            "talks us envoys"
+            "ukraine moscow"
         ]
     },
     {
@@ -1853,6 +1881,21 @@
         ]
     },
     {
+        "title": "US military says it struck three Iranian tankers after American warships came under missile attack",
+        "link": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
+        "summary": "Officials said US aircraft carrier and destroyer avoided attacks before three Iranian tankers were struck by the USThe US military said Saturday it struck three Iranian oil tankers after US navy warsh...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 21,
+        "sentiment": "Neutral",
+        "date": "2026-09-05",
+        "image_url": null,
+        "keywords": [
+            "american warships",
+            "missile attack officials",
+            "us aircraft carrier"
+        ]
+    },
+    {
         "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
         "link": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces",
         "summary": "Houthi rebel offensive against government forces on west coast leads to some of deadliest clashes in yearsClashes between Yemens Saudi-backed government forces and the Iran-aligned Houthi rebel moveme...",
@@ -1910,21 +1953,6 @@
             "aid workers",
             "food aid",
             "international aid workers"
-        ]
-    },
-    {
-        "title": "Israelis shoot dead two Palestinian teenagers after settlers encircle village",
-        "link": "https://www.theguardian.com/world/2026/sep/03/israelis-shoot-dead-two-palestinian-teenagers-after-settlers-encircle-village",
-        "summary": "Troops escort settlers into al-Mughayyir and raze village outside Hebron as ethnic cleansing of West Bank continuesIsraelis have shot dead two teenagers in a Palestinian village encircled by settlers,...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Neutral",
-        "date": "2026-09-05",
-        "image_url": null,
-        "keywords": [
-            "settlers encircle village",
-            "escort settlers",
-            "raze village"
         ]
     },
     {
@@ -2003,39 +2031,54 @@
         ]
     },
     {
-        "title": "Protester attacked at Reform conference considering coming forward after police appeal \u2013 UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
-        "summary": "Activist group behind protests says individual shown in widely-circulated video is considering police appeal for her to come forward No real mention by Anderson of the problems that overshadowed event...",
+        "title": "London Paddington fire causes rail chaos as Heathrow trains cancelled",
+        "link": "https://www.theguardian.com/uk-news/2026/sep/05/london-paddington-fire-causes-rail-chaos-heathrow-trains-cancelled",
+        "summary": "Blaze causes electricity supply failure and disruption of services to airport and ReadingA fire near a train track in the London Paddington area has caused major disruption, with services to Heathrow ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 50,
+        "objectivity_score": 30,
         "sentiment": "Neutral",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
-            "police appeal \u2013",
-            "police appeal",
+            "fire causes rail chaos",
+            "causes electricity",
+            "train track"
+        ]
+    },
+    {
+        "title": "Farage brushes aside Reform controversies in closing conference speech \u2013 UK politics as it happened",
+        "link": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
+        "summary": "Sometimes we will get things wrong and get a bit of a kicking for it, party leader tells gathering in Birmingham No real mention by Anderson of the problems that overshadowed events yesterday. He ende...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 57,
+        "sentiment": "Neutral",
+        "date": "2026-09-05",
+        "image_url": null,
+        "keywords": [
+            "conference speech \u2013",
+            "party leader",
             "reading ..."
         ]
     },
     {
-        "title": "\u2018The chancellor is in a bind\u2019: is No 11 at odds with Burnham\u2019s big vision?",
-        "link": "https://www.theguardian.com/politics/2026/sep/05/john-healey-andy-burnham-labour-economics",
-        "summary": "MPs applaud PMs ambition and optimism but John Healey has yet to show he can match leaders radical perspectiveUntil now, Andy Burnham has been a lucky prime minister. In office for just over six weeks...",
+        "title": "\u2018I wasn\u2019t even listening,\u2019 Farage says of donations scandal meeting",
+        "link": "https://www.theguardian.com/politics/2026/sep/05/i-wasnt-even-listening-farage-says-of-donations-scandal-meeting",
+        "summary": "Reform UK leader maintains innocence in overseas funding controversy on last day of party conferenceUK politics liveNigel Farage has claimed that he wasnt even listening during a meeting at the centre...",
         "source": "World news | The Guardian",
-        "objectivity_score": 28,
+        "objectivity_score": 52,
         "sentiment": "Positive",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
-            "bind \u2019",
-            "big vision",
-            "john healey"
+            "wasn \u2019 t",
+            "donations scandal meeting",
+            "reform uk"
         ]
     },
     {
         "title": "Black-clad protesters in balaclavas block road at port of Dover in Kent",
         "link": "https://www.theguardian.com/uk-news/2026/sep/05/black-clad-protesters-balaclavas-block-road-port-of-dover-kent",
-        "summary": "Port authorities say access roads free flowing again after large group forces road closures in both directionsDozens of people dressed in black and wearing balaclavas blocked the road at the port of D...",
+        "summary": "Port authorities say access roads free flowing again after large group forces road closures in both directions Dozens of people dressed in black and wearing balaclavas blocked the road at the port of ...",
         "source": "World news | The Guardian",
         "objectivity_score": 56,
         "sentiment": "Positive",
@@ -2048,33 +2091,33 @@
         ]
     },
     {
-        "title": "Mental health groups have \u2018failed to acknowledge\u2019 risk of violence, says Mind chief",
-        "link": "https://www.theguardian.com/society/2026/sep/05/mental-health-groups-have-failed-to-acknowledge-risk-of-violence-says-mind-chief",
-        "summary": "Sector has avoided issue because of stigma fears, expert warns ahead of closure of Nottingham attacks inquiryMental health organisations have failed to acknowledge the risk of violence from a minority...",
+        "title": "Raise the Colours leader given access to Reform UK conference while on bail",
+        "link": "https://www.theguardian.com/uk-news/2026/sep/05/raise-the-colours-leader-given-access-to-reform-uk-conference-while-on-bail",
+        "summary": "Ryan Bridge, arrested this year on suspicion of religiously and racially aggravated harassment, says party invited himThe leader of a flag campaign group who was arrested on suspicion of causing relig...",
         "source": "World news | The Guardian",
         "objectivity_score": 25,
-        "sentiment": "Negative",
+        "sentiment": "Neutral",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
-            "health groups",
-            "\u2019 risk",
-            "stigma fears"
+            "reform uk",
+            "ryan bridge",
+            "himthe leader"
         ]
     },
     {
-        "title": "\u2018I could watch her for hours\u2019: the woman who rescued a bee and created a buzz",
-        "link": "https://www.theguardian.com/uk-news/2026/sep/05/phoebee-queen-bee-bumblebee-rescue",
-        "summary": "After bringing injured queen Phoebee home in July, Gilly McArthur expected her soon to die, but shes bumbling onFifty-two days ago, Phoebee was lying by the side of a road in the blistering sun with a...",
+        "title": "Robin Morgan, child star who became feminist, poet and editor, dies aged 85",
+        "link": "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85",
+        "summary": "Leading second-wave feminist co-founded Womens Media Center with Jane Fonda and Gloria SteinemRobin Morgan, a child star of the 1940s and 50s who grew up to become an all-American radical as a poet, e...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
+        "objectivity_score": 47,
+        "sentiment": "Neutral",
         "date": "2026-09-05",
         "image_url": null,
         "keywords": [
-            "hours \u2019",
-            "gilly mcarthur",
-            "onfifty-two days"
+            "robin morgan",
+            "child star",
+            "second-wave feminist"
         ]
     },
     {
@@ -2135,21 +2178,6 @@
             "captain calamity",
             "pete hegseth",
             "\u2018 inept \u2019 leadership"
-        ]
-    },
-    {
-        "title": "Trump downplays war with Iran, in which 18 US service members have been killed so far, as \u2018small potatoes\u2019 \u2013 as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
-        "summary": "This live blog is now closed.Sign up for US Breaking News emailsPresident Trump threatened in a social media post on Friday to stop trade with some countries unless the US Federal Reserve moves to cut...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Neutral",
-        "date": "2026-09-05",
-        "image_url": null,
-        "keywords": [
-            "downplays war",
-            "us service members",
-            "small potatoes \u2019 \u2013"
         ]
     }
 ]
