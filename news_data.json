@@ -737,89 +737,33 @@
         ]
     },
     {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+        "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
         "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+        "summary": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
         "source": "BBC News",
-        "objectivity_score": 41,
+        "objectivity_score": 33,
         "sentiment": "Positive",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
             "us envoys",
-            "steve witkoff",
+            "russia steve witkoff",
             "jared kushner"
         ]
     },
     {
-        "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-        "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "summary": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
         "source": "BBC News",
-        "objectivity_score": 65,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "tv presenter",
-            "drugs case",
-            "sarah khalifa"
-        ]
-    },
-    {
-        "title": "Police slow to respond to Dover protest, says council boss",
-        "link": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
-        "summary": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
-        "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "council boss"
-        ]
-    },
-    {
-        "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
-        "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "faces hotter",
-            "stormier skies \u2013"
-        ]
-    },
-    {
-        "title": "Temperatures could climb to 28C in late burst of warmth",
-        "link": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
-        "summary": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Negative",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "summer-like day",
-            "average temperatures"
-        ]
-    },
-    {
-        "title": "The next James Bond: The (00)7 questions fans want answered",
-        "link": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
-        "source": "BBC News",
-        "objectivity_score": 12,
+        "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "james bond",
-            "questions fans",
-            "daniel craig"
+            "jaguar land rover",
+            "job cuts",
+            "major cyber attack"
         ]
     },
     {
@@ -851,17 +795,58 @@
         ]
     },
     {
-        "title": "'We feel abandoned by police': A community's despair after months of crime",
-        "link": "https://www.bbc.co.uk/news/articles/crk3xnm34p4o?at_medium=RSS&at_campaign=rss",
-        "summary": "A crimewave in part of Birmingham over several months leaves residents asking who is in control.",
+        "title": "Dozens feared trapped in collapsed building in Delhi",
+        "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+        "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 26,
         "sentiment": "Neutral",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "community 's despair",
-            "months leaves residents"
+            "five-storey hostel"
+        ]
+    },
+    {
+        "title": "Police slow to respond to Dover protest, says council boss",
+        "link": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
+        "summary": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
+        "source": "BBC News",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "council boss"
+        ]
+    },
+    {
+        "title": "The next James Bond: The (00)7 questions fans want answered",
+        "link": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
+        "source": "BBC News",
+        "objectivity_score": 12,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "james bond",
+            "questions fans",
+            "daniel craig"
+        ]
+    },
+    {
+        "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+        "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "faces hotter",
+            "stormier skies \u2013"
         ]
     },
     {
@@ -909,6 +894,36 @@
         ]
     },
     {
+        "title": "Apologies after Diana fountain shut all summer by technical fault",
+        "link": "https://www.bbc.co.uk/news/articles/c8047ye4m9eo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Diana Memorial Fountain remains closed following a sequence of technical faults.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "fountain shut",
+            "technical fault",
+            "technical faults"
+        ]
+    },
+    {
+        "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+        "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+        "source": "BBC News",
+        "objectivity_score": 65,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "tv presenter",
+            "drugs case",
+            "sarah khalifa"
+        ]
+    },
+    {
         "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
         "link": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
         "summary": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
@@ -924,90 +939,59 @@
         ]
     },
     {
-        "title": "Taylor's 'dream ending to a dream career'",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Fairytale endings in boxing are a rarity, but Irish icon Katie Taylor sails off into the sunset after the most perfect of farewells at Dublin's towering Croke Park.",
+        "title": "Green Party deputy leader linked to property lets despite opposition to landlords",
+        "link": "https://www.bbc.co.uk/news/articles/clykgxp754no?at_medium=RSS&at_campaign=rss",
+        "summary": "Mothin Ali, is linked to two rental properties via his company, but does not appear to profit from them.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Negative",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "green party",
+            "deputy leader",
+            "property lets"
+        ]
+    },
+    {
+        "title": "Fifa president Infantino will stand for re-election",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "gianni infantino"
+        ]
+    },
+    {
+        "title": "Temperatures could climb to 28C in late burst of warmth",
+        "link": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
+        "summary": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Negative",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "summer-like day",
+            "average temperatures"
+        ]
+    },
+    {
+        "title": "Royal Navy aircraft carrier departs for training",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz6728veqo?at_medium=RSS&at_campaign=rss",
+        "summary": "HMS Queen Elizabeth left Portsmouth Naval Base at about 18:20 BST on Saturday.",
         "source": "BBC News",
         "objectivity_score": 50,
-        "sentiment": "Positive",
+        "sentiment": "Negative",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "'s 'dream",
-            "dream career",
-            "irish icon"
-        ]
-    },
-    {
-        "title": "Prince William to attend King Harald's funeral in Norway",
-        "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-        "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "'s funeral",
-            "harald v"
-        ]
-    },
-    {
-        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "trade retaliatory attacks",
-            "conflict flares",
-            "oil tankers"
-        ]
-    },
-    {
-        "title": "City plan change sought to protect Tower of London",
-        "link": "https://www.bbc.co.uk/news/articles/clyejyeq3pro?at_medium=RSS&at_campaign=rss",
-        "summary": "Historic England is seeking changes to the Corporation's draft City Plan on development locations.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "city plan",
-            "london historic england",
-            "corporation 's"
-        ]
-    },
-    {
-        "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-        "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-        "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "chandika shrestha"
-        ]
-    },
-    {
-        "title": "I brushed off my sore throat as a hangover, but it turned into sepsis",
-        "link": "https://www.bbc.co.uk/news/articles/cp30121n24xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Doctors told Elle Black if she had gone to hospital later the outcome could have been quite different.",
-        "source": "BBC News",
-        "objectivity_score": 28,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "sore throat",
-            "sepsis doctors",
-            "elle black"
+            "royal navy aircraft carrier departs",
+            "portsmouth naval base"
         ]
     },
     {
@@ -1082,18 +1066,17 @@
         ]
     },
     {
-        "title": "How Damaging Is Reform's Donations Row?",
-        "link": "https://www.bbc.co.uk/sounds/play/p0p85r6c?at_medium=RSS&at_campaign=rss",
-        "summary": "Nigel Farage tells Laura he 'wasn't listening' during foreign donor talks.",
+        "title": "How New Is Andy Burnham\u2019s Labour?",
+        "link": "https://www.bbc.co.uk/sounds/play/p0p64w5c?at_medium=RSS&at_campaign=rss",
+        "summary": "The new chancellor prepares a speech as the PM tries to seperate the party from the past.",
         "source": "BBC News",
-        "objectivity_score": 12,
-        "sentiment": "Negative",
+        "objectivity_score": 38,
+        "sentiment": "Neutral",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "nigel farage",
-            "'was n't",
-            "foreign donor"
+            "andy burnham",
+            "new chancellor"
         ]
     },
     {
@@ -1140,91 +1123,30 @@
         ]
     },
     {
-        "title": "Taylor's place among greats set in stone after extraordinary swansong",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Fairytale endings in boxing are a rarity, but Irish icon Katie Taylor sails off into the sunset after the most perfect of farewells at Dublin's towering Croke Park.",
+        "title": "Vardy joins Burnley on season-long contract",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
         "source": "BBC News",
-        "objectivity_score": 62,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "'s place",
-            "extraordinary swansong",
-            "irish icon"
-        ]
-    },
-    {
-        "title": "Hunt 'not afraid of anyone' after second podium in two days",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Amy Hunt says she is \"on the up\" and \"not afraid of anyone\" after finishing second in the 100m at the Diamond League final in Brussels.",
-        "source": "BBC News",
-        "objectivity_score": 55,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "amy hunt"
-        ]
-    },
-    {
-        "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "football correspondent",
-            "sami mokbel",
-            "premier league title"
-        ]
-    },
-    {
-        "title": "Zheng goes from 5-0 and match point down to victory",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c3eq55xznvyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Zheng Qinwen fights back from 5-0 down in the deciding set and stares down match point to stun American 22nd seed Madison Keys.",
-        "source": "BBC News",
-        "objectivity_score": 17,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "zheng qinwen",
-            "american 22nd seed",
-            "madison keys"
+            "season-long contract",
+            "jamie vardy"
         ]
     },
     {
-        "title": "'Not Football Manager' - De Zerbi says misfiring Spurs need time",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
-        "summary": "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
+        "title": "Fifa president Infantino will stand for re-election",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
         "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "'not football manager",
-            "de zerbi",
-            "need time"
-        ]
-    },
-    {
-        "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Manchester City gave 185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-        "source": "BBC News",
-        "objectivity_score": 55,
+        "objectivity_score": 100,
         "sentiment": "Positive",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "show signs",
-            "man city",
-            "deadline-day talent"
+            "gianni infantino"
         ]
     },
     {
@@ -1243,18 +1165,18 @@
         ]
     },
     {
-        "title": "Trump Envoys Expected to Make First Visit to Kyiv",
+        "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
         "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-        "summary": "Steve Witkoff and Jared Kushner met with President Vladimir V. Putin of Russia in Moscow on Saturday in an effort to revive peace talks.",
+        "summary": "Steve Witkoff and Jared Kushner were meeting on Sunday with Volodymyr Zelensky in Ukraine, a day after talks with Vladimir V. Putin in Moscow.",
         "source": "NYT > World News",
-        "objectivity_score": 36,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "trump envoys expected",
-            "kyiv steve witkoff",
-            "jared kushner"
+            "envoys witkoff",
+            "kushner arrive",
+            "putin steve witkoff"
         ]
     },
     {
@@ -1270,6 +1192,21 @@
             "weapons contracts",
             "secret military audits",
             "military procurement system"
+        ]
+    },
+    {
+        "title": "Live Updates: Germany\u2019s Far Right Eyes Breakthrough in Regional Election",
+        "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
+        "summary": "Victory for the Alternative for Germany party in a vote in the eastern state of Saxony-Anhalt would propel a far-right party into power for the first time since World War II.",
+        "source": "NYT > World News",
+        "objectivity_score": 59,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "live updates",
+            "far right eyes",
+            "regional election"
         ]
     },
     {
@@ -1298,6 +1235,20 @@
             "dire job market",
             "young people",
             "country embraces"
+        ]
+    },
+    {
+        "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
+        "link": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html",
+        "summary": "A deadly campaign of Russian and Ukrainian airstrikes has escalated since the last U.S.-brokered negotiations stalled in February.",
+        "source": "NYT > World News",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "talks stand",
+            "new round"
         ]
     },
     {
@@ -1403,35 +1354,6 @@
         ]
     },
     {
-        "title": "After Months at War, Brief Solace in a Party Town Far From Home",
-        "link": "https://www.nytimes.com/2026/09/05/world/asia/uss-abraham-lincoln-thailand-pattaya.html",
-        "summary": "A stopover in Thailand was welcome relief for thousands of troops aboard the U.S.S. Abraham Lincoln from a grueling deployment. But it was not a complete salve.",
-        "source": "NYT > World News",
-        "objectivity_score": 65,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "brief solace",
-            "party town",
-            "abraham lincoln"
-        ]
-    },
-    {
-        "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
-        "link": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html",
-        "summary": "A deadly campaign of Russian and Ukrainian airstrikes has escalated since the last U.S.-brokered negotiations stalled in February.",
-        "source": "NYT > World News",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "talks stand",
-            "new round"
-        ]
-    },
-    {
         "title": "Woman Rescued From Buried House 10 Days After Nepal Floods",
         "link": "https://www.nytimes.com/video/world/asia/100000011136063/nepal-floods-woman-rescue.html",
         "summary": "Chandika Shrestha was rescued on Saturday from a mostly buried house in Betrawati, Nepal.",
@@ -1534,6 +1456,21 @@
         ]
     },
     {
+        "title": "After Months at War, Brief Solace in a Party Town Far From Home",
+        "link": "https://www.nytimes.com/2026/09/05/world/asia/uss-abraham-lincoln-thailand-pattaya.html",
+        "summary": "A stopover in Thailand was welcome relief for thousands of troops aboard the U.S.S. Abraham Lincoln from a grueling deployment. But it was not a complete salve.",
+        "source": "NYT > World News",
+        "objectivity_score": 65,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "brief solace",
+            "party town",
+            "abraham lincoln"
+        ]
+    },
+    {
         "title": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
         "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
         "summary": "As the fear of a possible mobilization becomes a fixture of daily life across Russia, many men are deciding whether to flee, hide or sit tight.",
@@ -1561,21 +1498,6 @@
             "kenyans made",
             "overseas students",
             "online gig work"
-        ]
-    },
-    {
-        "title": "A Glitz-Free Place Named for Trump? Welcome to the Golan Heights.",
-        "link": "https://www.nytimes.com/2026/09/05/world/middleeast/israel-golan-trump-heights.html",
-        "summary": "The bare-bones village of prefab homes has none of the gilded Trump aesthetic, and the Israelis there are weary of being seen as a gauge of their countrys roller-coaster view of the president.",
-        "source": "NYT > World News",
-        "objectivity_score": 90,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "bare-bones village",
-            "prefab homes",
-            "countrys roller-coaster view"
         ]
     },
     {
@@ -1654,6 +1576,21 @@
         ]
     },
     {
+        "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+        "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
+        "summary": "Slaverys legacy continues to deprive our country and our people, says minister, as group prepares to appeal to Jamaicas head of stateA landmark petition is to be handed to King Charles by Jamaica over...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "hand slavery reparations petition",
+            "charles slaverys",
+            "statea landmark petition"
+        ]
+    },
+    {
         "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
         "link": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
         "summary": "Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spendingJavier Mileis threats to the Falkland Islands make it even more important that Andy Burnha...",
@@ -1714,18 +1651,18 @@
         ]
     },
     {
-        "title": "Colombia president provokes disgust by posing with bodies of \u2018terrorists\u2019",
-        "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
-        "summary": "Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep AmericasColombias hardline president, Abelardo De La Espriella, has provoked outrage ...",
+        "title": "Volcanic eruption halts flights at Jakarta and seven other Indonesian airports",
+        "link": "https://www.theguardian.com/world/2026/sep/06/volcanic-ash-cloud-halts-flights-at-indonesias-main-international-airport",
+        "summary": "Ash cloud from Anak Krakatau affects hundreds of flights and some school and  fishing activitiesIndonesia halted operations at eight airports on Sunday, including from its main international hub, affe...",
         "source": "World news | The Guardian",
-        "objectivity_score": 19,
+        "objectivity_score": 23,
         "sentiment": "Neutral",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "president provokes disgust",
-            "\u2018 terrorists \u2019",
-            "abelardo de la espriella"
+            "eruption halts flights",
+            "anak krakatau",
+            "affects hundreds"
         ]
     },
     {
@@ -1789,18 +1726,18 @@
         ]
     },
     {
-        "title": "Japan halves speed limit to 30km/h on all narrow city streets",
-        "link": "https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets",
-        "summary": "Speed limit dropped from 60km/h for around 70% of general roads in the hope of making narrow streets of crowded cities saferDrivers on residential roads in Japan have been forced to take their foot of...",
+        "title": "Shoebridge criticises Labor response after IDF officer\u2019s \u2018reprehensible\u2019 comments on deadly Zomi Frankcom strike",
+        "link": "https://www.theguardian.com/australia-news/2026/sep/07/zomi-frankcom-israel-gaza-idf-world-central-kitchen-ntwnfb",
+        "summary": "Greens defence spokesman says words are just distractions until government takes actionGuilt by association: why seven international aid workers were killed in Israeli airstrikeGet our breaking news e...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Negative",
+        "objectivity_score": 19,
+        "sentiment": "Neutral",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "halves speed limit",
-            "narrow city streets",
-            "general roads"
+            "criticises labor response",
+            "officer \u2019 s \u2018 reprehensible \u2019 comments",
+            "zomi frankcom"
         ]
     },
     {
@@ -1864,41 +1801,56 @@
         ]
     },
     {
-        "title": "Labor plans crackdown on social media algorithms as Taylor says he\u2019s \u2018deeply sceptical\u2019",
-        "link": "https://www.theguardian.com/australia-news/2026/sep/06/labor-plans-crackdown-on-social-media-algorithms-as-taylor-says-hes-deeply-sceptical",
-        "summary": "Anika Wells expected to release legislation creating a digital duty of care in parliament this week, but Coalition argues it is attempt to censor the internetFollow our Australia news live blog for la...",
+        "title": "German startup sends first commercial rocket into space from Europe",
+        "link": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
+        "summary": "Isar Aerospace plans rapid expansion amid race to capitalise on expanding satellite-launch marketA German startup has launched the first commercial rocket to reach orbit from continental Europe, a mil...",
         "source": "World news | The Guardian",
-        "objectivity_score": 34,
+        "objectivity_score": 17,
         "sentiment": "Positive",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "social media algorithms",
-            "sceptical \u2019",
-            "release legislation"
+            "german startup sends",
+            "commercial rocket",
+            "europe isar aerospace"
         ]
     },
     {
-        "title": "Witkoff and Kushner discussed \u2018next steps\u2019 with Putin to end Ukraine war, says US",
-        "link": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-        "summary": "Donald Trumps business ally and son-in-law now heading from Moscow to Kyiv to meet Ukrainian presidentSteve Witkoff and Jared Kushner are headed to Kyiv for the first time in their roles as Donald Tru...",
+        "title": "US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin",
+        "link": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+        "summary": "Arrival marks first visit to Ukraine and comes day after substantive plans on ending war discussed in MoscowThe US negotiators Jared Kushner and Steve Witkoff have arrived in Kyiv for a second day of ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 8,
+        "objectivity_score": 23,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "us envoys",
+            "putin arrival",
+            "substantive plans"
+        ]
+    },
+    {
+        "title": "Canadian skyrunner goes missing during training session for Matterhorn record attempt",
+        "link": "https://www.theguardian.com/sport/2026/sep/06/canadian-skyrunner-kalie-mccrystal-missing-matterhorn-alps",
+        "summary": "Kalie McCrystal was hoping to break record in AlpsAthlete was last seen on Tuesday afternoonCanadian athlete Kalie McCrystal has gone missing during preparations for a record attempt in the Alps.McCry...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 4,
         "sentiment": "Neutral",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "steps \u2019",
-            "donald trumps",
-            "business ally"
+            "canadian skyrunner",
+            "training session",
+            "record attempt"
         ]
     },
     {
         "title": "Far-right AfD predicted to win big in crucial German state election",
         "link": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
-        "summary": "Polling stations open in Saxony-Anhalt with anti-immigration party AfD predicted to gain 41% vote shareGerman voterswent to the polls on Sunday for a crucial regional election where the far-right, ant...",
+        "summary": "Polling stations open in Saxony-Anhalt with anti-immigration party AfD predicted to gain 41% vote sharePolls have opened in the east German state of Saxony-Anhalt, where the populist, far-right, anti-...",
         "source": "World news | The Guardian",
-        "objectivity_score": 56,
+        "objectivity_score": 33,
         "sentiment": "Positive",
         "date": "2026-09-06",
         "image_url": null,
@@ -1909,48 +1861,18 @@
         ]
     },
     {
-        "title": "Travellers to EU face renewed queues as border-check flexibility rules expire",
-        "link": "https://www.theguardian.com/business/2026/sep/06/travellers-eu-queues-border-check-flexibility-rules-expire-entry-exit-system-ees",
-        "summary": "Sources indicate some members states will not enforce EES biometric controls after 6 September deadlineWhat are the new EU border checks and how will they affect your holiday?Travellers to the EU coul...",
+        "title": "Witkoff and Kushner discussed \u2018next steps\u2019 with Putin to end Ukraine war, says US",
+        "link": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
+        "summary": "Donald Trumps business ally and son-in-law now heading from Moscow to Kyiv to meet ZelenskyySteve Witkoff and Jared Kushner are heading to Kyiv for the first time in their roles as Donald Trumps peace...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
+        "objectivity_score": 8,
         "sentiment": "Neutral",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "border-check flexibility rules",
-            "members states",
-            "border checks"
-        ]
-    },
-    {
-        "title": "\u2018Nobody will win\u2019: Zelenskyy adviser warns of mutual destruction if war with Russia continues",
-        "link": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
-        "summary": "Serhii Beskrestnov says deadlock on frontline and increasing use of deep strikes is placing civilians and infrastructure at greater riskRussia and Ukraine are locked in an escalating war of long-range...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "adviser warns",
-            "mutual destruction",
-            "serhii beskrestnov"
-        ]
-    },
-    {
-        "title": "Prince William to represent King Charles at funeral of Norway\u2019s King Harald V",
-        "link": "https://www.theguardian.com/uk-news/2026/sep/05/prince-william-to-represent-king-charles-at-funeral-of-norways-king-harald-v",
-        "summary": "Duty falls by precedent to William to attend service of late monarch, alongside Princess Royal, who is godmother to new king Haakon VIII The Prince of Wales is to represent his father at the funeral o...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s king",
-            "harald v duty",
-            "late monarch"
+            "steps \u2019",
+            "donald trumps",
+            "business ally"
         ]
     },
     {
@@ -2104,9 +2026,54 @@
         ]
     },
     {
+        "title": "Black-clad Dover vigilantes will return if police do not act, say campaigners",
+        "link": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister",
+        "summary": "Far-right linked group able to mobilise at scale due to police inaction, says founder of Hope Not HateThe group of masked, black-clad vigilantes who blockaded roads in Dover could repeat the disruptio...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 62,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "black-clad dover",
+            "police inaction",
+            "black-clad vigilantes"
+        ]
+    },
+    {
+        "title": "No bailouts for Jaguar Land Rover amid reports of thousands of job cuts, says minister",
+        "link": "https://www.theguardian.com/business/2026/sep/06/bailouts-jaguar-land-rover-redundancies-cuts-business-secretary",
+        "summary": "Carmaker, which is battling Trump tariffs and Chinese competitors, faces talks with union leaders and governmentThe government has signalled that it will not invest taxpayers money to limit job losses...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "jaguar land rover",
+            "job cuts",
+            "chinese competitors"
+        ]
+    },
+    {
+        "title": "Undercover report on donations \u2018looks bad\u2019 for Reform, admits Nigel Farage \u2013 as it happened",
+        "link": "https://www.theguardian.com/politics/live/2026/sep/06/nigel-farage-reform-uk-donations-undercover-investigation-latest-news-updates",
+        "summary": "The Reform UK leader is under pressure after senior aides appeared to plot how to bypass electoral laws on foreign donationsSagal Abdi-Wali arrived in Camden as a child refugee from Somalia. She has w...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "donations \u2018",
+            "nigel farage",
+            "reform uk"
+        ]
+    },
+    {
         "title": "Zia Yusuf\u2019s post about Camden council leader is \u2018straightforward racism\u2019, says minister",
         "link": "https://www.theguardian.com/politics/2026/sep/06/zia-yusuf-reform-uk-post-camden-council-leader-sagal-abdi-wali",
-        "summary": "Reform UKs home affairs spokesperson has faced criticism within party after post about Sagal Abdi-Wali, a former child refugeeLabour has accused Reforms Zia Yusuf of straightforward racism after he su...",
+        "summary": "Senior Reform UK figure has faced criticism within party after post about Sagal Abdi-Wali, a former child refugeeLabour has accused Reforms Zia Yusuf of straightforward racism after he suggested the p...",
         "source": "World news | The Guardian",
         "objectivity_score": 17,
         "sentiment": "Positive",
@@ -2119,63 +2086,18 @@
         ]
     },
     {
-        "title": "Undercover report on donations \u2018looks bad\u2019 for Reform, admits Nigel Farage \u2013 UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/sep/06/nigel-farage-reform-uk-donations-undercover-investigation-latest-news-updates",
-        "summary": "The Reform UK leader is under pressure after senior aides appeared to plot how to bypass electoral laws on foreign donationsJavier Mileis threats to the Falkland Islands make it even more important th...",
+        "title": "Farage says overseas donation row \u2018looks bad\u2019 but denies Reform broke law",
+        "link": "https://www.theguardian.com/politics/2026/sep/06/farage-says-overseas-donation-row-looks-bad-but-denies-reform-breached-electoral-law",
+        "summary": "Robert Jenrick says party has followed legal protocol at all times as Met police consider launching investigationUK politics live  latest updatesNigel Farage has acknowledged the overseas donation row...",
         "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Neutral",
+        "objectivity_score": 45,
+        "sentiment": "Negative",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "donations \u2018",
-            "nigel farage",
-            "reform uk"
-        ]
-    },
-    {
-        "title": "Councils in England and Wales accused of excessive fees to run outdoor classes",
-        "link": "https://www.theguardian.com/society/2026/sep/06/councils-england-wales-licence-scheme-fees-outdoor-exercise-classes",
-        "summary": "Report documents use of commercial licensing for free or donation-based exercise classes in parks and on beachesAt 6am on the beach at Westgate-on-Sea in Kent, Angela Brier-Stephenson used to meet a s...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 55,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "excessive fees",
-            "outdoor classes",
-            "beachesat 6am"
-        ]
-    },
-    {
-        "title": "England losing tennis courts as number of padel facilities rises exponentially",
-        "link": "https://www.theguardian.com/sport/2026/sep/06/england-losing-tennis-courts-as-number-of-padel-facilities-rises-exponentially",
-        "summary": "Country loses 200 tennis courts in three years, but they still outnumber padel facilities by a factor of 11 to oneEngland has lost almost 200 tennis courts in three years as padel facilities have grow...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "tennis courts",
-            "padel facilities rises",
-            "tennis courts"
-        ]
-    },
-    {
-        "title": "Online bookies accused of UK privacy breaches with use of cookie banners",
-        "link": "https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking",
-        "summary": "Most gambling websites nudge users towards accepting tracking data and harvest it before consent is given, study showsOnline bookmakers and casinos have been accused of widespread non-compliance of in...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "privacy breaches",
-            "cookie banners",
-            "websites nudge users"
+            "overseas donation row \u2018",
+            "robert jenrick",
+            "legal protocol"
         ]
     },
     {
