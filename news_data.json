@@ -737,18 +737,33 @@
         ]
     },
     {
-        "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
-        "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "summary": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+        "title": "German far-right set for big win in eastern state, projections show",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
         "source": "BBC News",
-        "objectivity_score": 33,
+        "objectivity_score": 34,
         "sentiment": "Positive",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
+            "german far-right",
+            "eastern state",
+            "historic result"
+        ]
+    },
+    {
+        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+        "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+        "summary": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
             "us envoys",
-            "russia steve witkoff",
-            "jared kushner"
+            "major breakthrough",
+            "steve witkoff"
         ]
     },
     {
@@ -767,9 +782,22 @@
         ]
     },
     {
-        "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+        "title": "Jamaica to bring slavery reparations petition to King Charles",
+        "link": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
+        "summary": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "slavery reparations petition"
+        ]
+    },
+    {
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
         "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
         "source": "BBC News",
         "objectivity_score": 33,
         "sentiment": "Positive",
@@ -778,20 +806,6 @@
         "keywords": [
             "eruption leaves",
             "airline passengers"
-        ]
-    },
-    {
-        "title": "Why more women carry the 'mental load' - and how couples can share it",
-        "link": "https://www.bbc.co.uk/news/articles/c24j1r45r49o?at_medium=RSS&at_campaign=rss",
-        "summary": "Planning, organising and remembering household tasks often fall disproportionately to mothers - here are some tips to help.",
-        "source": "BBC News",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "'mental load",
-            "household tasks"
         ]
     },
     {
@@ -808,31 +822,16 @@
         ]
     },
     {
-        "title": "Police slow to respond to Dover protest, says council boss",
-        "link": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
-        "summary": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
+        "title": "140 migrants in single dinghy rescued in English Channel",
+        "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+        "summary": "They were transferred onto two lifeboats and taken to shore in the UK.",
         "source": "BBC News",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "council boss"
-        ]
-    },
-    {
-        "title": "The next James Bond: The (00)7 questions fans want answered",
-        "link": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
-        "source": "BBC News",
-        "objectivity_score": 12,
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "james bond",
-            "questions fans",
-            "daniel craig"
+            "news"
         ]
     },
     {
@@ -847,6 +846,48 @@
         "keywords": [
             "faces hotter",
             "stormier skies \u2013"
+        ]
+    },
+    {
+        "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+        "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+        "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
+        "source": "BBC News",
+        "objectivity_score": 70,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "painful response",
+            "us attacks",
+            "oil tankers"
+        ]
+    },
+    {
+        "title": "Fifa president Infantino will stand for re-election",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "gianni infantino"
+        ]
+    },
+    {
+        "title": "Why more women carry the 'mental load' - and how couples can share it",
+        "link": "https://www.bbc.co.uk/news/articles/c24j1r45r49o?at_medium=RSS&at_campaign=rss",
+        "summary": "Planning, organising and remembering household tasks often fall disproportionately to mothers - here are some tips to help.",
+        "source": "BBC News",
+        "objectivity_score": 35,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "'mental load",
+            "household tasks"
         ]
     },
     {
@@ -880,6 +921,21 @@
         ]
     },
     {
+        "title": "The next James Bond: The (00)7 questions fans want answered",
+        "link": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
+        "source": "BBC News",
+        "objectivity_score": 12,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "james bond",
+            "questions fans",
+            "daniel craig"
+        ]
+    },
+    {
         "title": "Why Munya Chawawa is 'jumping ship' from socials to Shakespeare",
         "link": "https://www.bbc.co.uk/news/articles/ce3r02z3dxno?at_medium=RSS&at_campaign=rss",
         "summary": "The comedian is making his stage acting debut and says he wants to move away from social content.",
@@ -891,6 +947,19 @@
         "keywords": [
             "munya chawawa",
             "social content"
+        ]
+    },
+    {
+        "title": "Two killed as car hits group of cyclists",
+        "link": "https://www.bbc.co.uk/news/articles/c62k8r60lw3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Three people have been arrested in connection to the incident near Gravesend.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "car hits group"
         ]
     },
     {
@@ -909,21 +978,6 @@
         ]
     },
     {
-        "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-        "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-        "source": "BBC News",
-        "objectivity_score": 65,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "tv presenter",
-            "drugs case",
-            "sarah khalifa"
-        ]
-    },
-    {
         "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
         "link": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
         "summary": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
@@ -939,116 +993,31 @@
         ]
     },
     {
-        "title": "Green Party deputy leader linked to property lets despite opposition to landlords",
-        "link": "https://www.bbc.co.uk/news/articles/clykgxp754no?at_medium=RSS&at_campaign=rss",
-        "summary": "Mothin Ali, is linked to two rental properties via his company, but does not appear to profit from them.",
+        "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+        "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
         "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Negative",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "green party",
-            "deputy leader",
-            "property lets"
-        ]
-    },
-    {
-        "title": "Fifa president Infantino will stand for re-election",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
-        "source": "BBC News",
-        "objectivity_score": 100,
+        "objectivity_score": 65,
         "sentiment": "Positive",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "gianni infantino"
+            "tv presenter",
+            "drugs case",
+            "sarah khalifa"
         ]
     },
     {
-        "title": "Temperatures could climb to 28C in late burst of warmth",
-        "link": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
-        "summary": "A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.",
+        "title": "Police slow to respond to Dover protest, says council boss",
+        "link": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
+        "summary": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
         "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Negative",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "summer-like day",
-            "average temperatures"
-        ]
-    },
-    {
-        "title": "Royal Navy aircraft carrier departs for training",
-        "link": "https://www.bbc.co.uk/news/articles/cwyz6728veqo?at_medium=RSS&at_campaign=rss",
-        "summary": "HMS Queen Elizabeth left Portsmouth Naval Base at about 18:20 BST on Saturday.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "royal navy aircraft carrier departs",
-            "portsmouth naval base"
-        ]
-    },
-    {
-        "title": "Why 'sleepmaxxing' could be making your sleep worse",
-        "link": "https://www.bbc.co.uk/news/articles/c99drr70m2eo?at_medium=RSS&at_campaign=rss",
-        "summary": "The things you're doing to make your sleep better could actually be making your sleep worse.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "news"
-        ]
-    },
-    {
-        "title": "'Not only did I survive, I thrived' - Meera Syal after assaults",
-        "link": "https://www.bbc.co.uk/news/articles/cy5zr356l66o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Wolverhampton-born comedian and actress shares her experiences in her new memoir.",
-        "source": "BBC News",
-        "objectivity_score": 72,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "meera syal",
-            "actress shares",
-            "new memoir"
-        ]
-    },
-    {
-        "title": "'I didn't want a wedding car, I wanted a dragon boat'",
-        "link": "https://www.bbc.co.uk/news/articles/cj06zjdpg46o?at_medium=RSS&at_campaign=rss",
-        "summary": "A newly married couple take an unusual method of transport to their wedding reception.",
-        "source": "BBC News",
-        "objectivity_score": 62,
+        "objectivity_score": 46,
         "sentiment": "Positive",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "wedding car",
-            "dragon boat",
-            "unusual method"
-        ]
-    },
-    {
-        "title": "Dog 'grounded' after rescue from roof of house",
-        "link": "https://www.bbc.co.uk/news/articles/cvgyprjlmvgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sweetie was on the roof of a two-storey house after climbing through a first-floor bedroom window.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "two-storey house",
-            "first-floor bedroom window"
+            "council boss"
         ]
     },
     {
@@ -1123,30 +1092,130 @@
         ]
     },
     {
-        "title": "Vardy joins Burnley on season-long contract",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
+        "title": "Two right-backs in midfield - are Chelsea short despite \u00a3349m spent?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&at_campaign=rss",
+        "summary": "Chelsea ended Sunday's 2-1 defeat by champions Arsenal with two right-backs alongside each other in midfield - how did they get here?",
+        "source": "BBC News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "news"
+        ]
+    },
+    {
+        "title": "Champions Arsenal come from behind to beat Chelsea",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
+        "source": "BBC News",
+        "objectivity_score": 70,
+        "sentiment": "Negative",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "champions arsenal",
+            "chelsea reigning"
+        ]
+    },
+    {
+        "title": "Antonelli takes stunning Monza win from 19th on grid",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/clyl3l325g6o?at_medium=RSS&at_campaign=rss",
+        "summary": "Mercedes' Kimi Antonelli takes a breathtaking victory in an incident-packed Italian Grand Prix from 19th place on the grid.",
+        "source": "BBC News",
+        "objectivity_score": 68,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "kimi antonelli"
+        ]
+    },
+    {
+        "title": "Man Utd cannot ignore more dropped points despite positives",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "michael carrick"
+        ]
+    },
+    {
+        "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier L...",
+        "source": "BBC News",
+        "objectivity_score": 57,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "last-gasp maitland-niles",
+            "stunner rescues",
+            "everton ainsley maitland-niles"
+        ]
+    },
+    {
+        "title": "Dunkley century helps England sweep Ireland 3-0",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/cqxve1xderro?at_medium=RSS&at_campaign=rss",
+        "summary": "Sophia Dunkley hits 119 as England end their international summer with a 114-run thrashing of Ireland at Worcester.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "season-long contract",
-            "jamie vardy"
+            "sophia dunkley",
+            "international summer"
         ]
     },
     {
-        "title": "Fifa president Infantino will stand for re-election",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
-        "source": "BBC News",
-        "objectivity_score": 100,
+        "title": "Live Updates: Germany\u2019s Far Right Has Big Lead in Key Election, Exit Polls Show",
+        "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
+        "summary": "The Alternative for Germany party was projected to finish first in the eastern state of Saxony-Anhalt. But it was not clear whether it would win a majority  which would propel a far-right party into p...",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "gianni infantino"
+            "live updates",
+            "far right",
+            "eastern state"
+        ]
+    },
+    {
+        "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
+        "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
+        "summary": "Steve Witkoff and Jared Kushner met on Sunday with Volodymyr Zelensky in Kyiv, a day after talks with Vladimir V. Putin in Moscow.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "envoys witkoff",
+            "kushner arrive",
+            "putin steve witkoff"
+        ]
+    },
+    {
+        "title": "Haitians Deported From U.S. Are Left Broke and Stranded",
+        "link": "https://www.nytimes.com/2026/09/06/world/americas/haiti-deportees.html",
+        "summary": "Hundreds have been deported to Haiti in recent weeks, and some say they have been left with no money, no protection from gangs and no place to go.",
+        "source": "NYT > World News",
+        "objectivity_score": 8,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "haitians deported",
+            "left broke",
+            "stranded hundreds"
         ]
     },
     {
@@ -1165,21 +1234,6 @@
         ]
     },
     {
-        "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
-        "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-        "summary": "Steve Witkoff and Jared Kushner were meeting on Sunday with Volodymyr Zelensky in Ukraine, a day after talks with Vladimir V. Putin in Moscow.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "envoys witkoff",
-            "kushner arrive",
-            "putin steve witkoff"
-        ]
-    },
-    {
         "title": "In Ukraine, Fraud and Waste Are Rewarded With More Weapons Contracts",
         "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html",
         "summary": "Secret military audits reveal a military procurement system riddled with mismanagement. In 2024 alone, Ukraine lost $1.2 billion to fraud and waste.",
@@ -1195,23 +1249,8 @@
         ]
     },
     {
-        "title": "Live Updates: Germany\u2019s Far Right Eyes Breakthrough in Regional Election",
-        "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
-        "summary": "Victory for the Alternative for Germany party in a vote in the eastern state of Saxony-Anhalt would propel a far-right party into power for the first time since World War II.",
-        "source": "NYT > World News",
-        "objectivity_score": 59,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "live updates",
-            "far right eyes",
-            "regional election"
-        ]
-    },
-    {
         "title": "A Bad Year for Bees Gets Worse as Trump\u2019s Tariffs Hit Canada\u2019s Honey Belt",
-        "link": "https://www.nytimes.com/2026/09/06/world/canada/a-bad-year-for-bees-gets-worse-as-trumps-tariffs-hit-canadas-honey-belt.html",
+        "link": "https://www.nytimes.com/2026/09/06/world/canada/trump-tariffs-canada-bees-honey.html",
         "summary": "Alberta produces 40 percent of Canadas honey. This year, rain and President Trumps trade war have combined to threaten the industry.",
         "source": "NYT > World News",
         "objectivity_score": 63,
@@ -1339,18 +1378,16 @@
         ]
     },
     {
-        "title": "The Fall of James Orr, the Man Called Farage\u2019s Brain",
-        "link": "https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html",
-        "summary": "James Orr, who has ties to Peter Thiel and JD Vance, was suspended from Reform U.K. after he was filmed apparently arranging contributions from a man posing as a foreign donor.",
+        "title": "Here\u2019s the latest.",
+        "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election/polls-are-set-to-close-in-crucial-election",
+        "summary": "",
         "source": "NYT > World News",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "james orr",
-            "\u2019 s brain",
-            "james orr"
+            "here\u2019s"
         ]
     },
     {
@@ -1456,6 +1493,21 @@
         ]
     },
     {
+        "title": "The Fall of James Orr, the Man Called Farage\u2019s Brain",
+        "link": "https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html",
+        "summary": "James Orr, who has ties to Peter Thiel and JD Vance, was suspended from Reform U.K. after he was filmed apparently arranging contributions from a man posing as a foreign donor.",
+        "source": "NYT > World News",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "james orr",
+            "\u2019 s brain",
+            "james orr"
+        ]
+    },
+    {
         "title": "After Months at War, Brief Solace in a Party Town Far From Home",
         "link": "https://www.nytimes.com/2026/09/05/world/asia/uss-abraham-lincoln-thailand-pattaya.html",
         "summary": "A stopover in Thailand was welcome relief for thousands of troops aboard the U.S.S. Abraham Lincoln from a grueling deployment. But it was not a complete salve.",
@@ -1468,36 +1520,6 @@
             "brief solace",
             "party town",
             "abraham lincoln"
-        ]
-    },
-    {
-        "title": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
-        "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
-        "summary": "As the fear of a possible mobilization becomes a fixture of daily life across Russia, many men are deciding whether to flee, hide or sit tight.",
-        "source": "NYT > World News",
-        "objectivity_score": 35,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "putin denies",
-            "possible mobilization",
-            "daily life"
-        ]
-    },
-    {
-        "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
-        "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
-        "summary": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
-        "source": "NYT > World News",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "kenyans made",
-            "overseas students",
-            "online gig work"
         ]
     },
     {
@@ -1651,12 +1673,42 @@
         ]
     },
     {
+        "title": "The US now has access to more than half Australia\u2019s military bases \u2013 could it drag the country unwillingly into war?",
+        "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
+        "summary": "Exclusive: US-controlled weapons corporations and forces have control or access to more than 100 facilities across the continent, which some analysts describe as a colonisation of Australias military....",
+        "source": "World news | The Guardian",
+        "objectivity_score": 23,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "military bases \u2013",
+            "weapons corporations",
+            "analysts describe"
+        ]
+    },
+    {
+        "title": "China prepares \u00a340bn stimulus for financial sector amid fears over sluggish growth",
+        "link": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+        "summary": "Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reservesChina will inject $54bn (40bn) into its financial sector as Beijing attempts to shore up ba...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 11,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "\u00a340bn stimulus",
+            "financial sector",
+            "sluggish growth"
+        ]
+    },
+    {
         "title": "Volcanic eruption halts flights at Jakarta and seven other Indonesian airports",
         "link": "https://www.theguardian.com/world/2026/sep/06/volcanic-ash-cloud-halts-flights-at-indonesias-main-international-airport",
         "summary": "Ash cloud from Anak Krakatau affects hundreds of flights and some school and  fishing activitiesIndonesia halted operations at eight airports on Sunday, including from its main international hub, affe...",
         "source": "World news | The Guardian",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
@@ -1696,33 +1748,18 @@
         ]
     },
     {
-        "title": "Yen soars as Bank of Japan tipped to raise interest rates",
-        "link": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
-        "summary": "Jump lifts currency to highest level against dollar in a month, while global markets remain jitteryBusiness live  latest updatesThe Japanese yen has soared by more than 2% against the dollar amid spec...",
+        "title": "Woman laid to rest in coffin made from mushrooms in Australian first",
+        "link": "https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains",
+        "summary": "The casket, grown from mycelium and hemp fibres, takes just 45 days to break down, enriching the soil in the processGet our breaking news email, free app or daily news podcastA woman has been buried i...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "interest rates jump lifts currency",
-            "global markets",
-            "japanese yen"
-        ]
-    },
-    {
-        "title": "China\u2019s falling emissions amid Iran war spark hope of decarbonisation watershed",
-        "link": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
-        "summary": "Oil consumption plummets and EV sales soar as analysts say demand may not fully return even if crude price fallsChinas carbon dioxide emissions fell by 1% after the outbreak of the US-Israeli war on I...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 53,
+        "objectivity_score": 30,
         "sentiment": "Neutral",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "oil consumption plummets",
-            "sales soar",
-            "crude price fallschinas carbon dioxide emissions"
+            "hemp fibres",
+            "news email",
+            "free app"
         ]
     },
     {
@@ -1786,18 +1823,48 @@
         ]
     },
     {
-        "title": "Up to 6,000 tradies to get free qualifications under Labor scheme \u2013 as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
-        "summary": "This blog is now closed.Get our breaking news email, free app or daily news podcastDuniam targets frivolous asylum seeker claimsThe opposition is very close to having a full migration package, Duniam ...",
+        "title": "US envoys Kushner and Witkoff visit Kyiv for first time after Putin talks",
+        "link": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+        "summary": "Witkoff says he hopes trilateral talks involving the US, Ukraine and Europe will be announced in short orderThe US negotiators Jared Kushner and Steve Witkoff travelled to Ukraine for the first time o...",
         "source": "World news | The Guardian",
-        "objectivity_score": 49,
+        "objectivity_score": 24,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "us envoys",
+            "short orderthe us negotiators",
+            "jared kushner"
+        ]
+    },
+    {
+        "title": "Far-right AfD wins key German state election but may fail to secure majority",
+        "link": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
+        "summary": "Exit poll shows Alternative fr Deutschland on 44.4% of vote in Saxony-Anhalt after huge turnout, with votes still being countedThe populist, far-right, anti-immigration Alternative fr Deutschland (AfD...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 42,
         "sentiment": "Positive",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "free qualifications",
-            "labor scheme \u2013",
-            "news email"
+            "far-right afd",
+            "german state election",
+            "poll shows"
+        ]
+    },
+    {
+        "title": "EU faces 300,000 factory job cuts as China \u2018colonises\u2019 supply chains, industry warns",
+        "link": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
+        "summary": "Protest using 10 coffins to symbolise struggling manufacturing industry to take place in BrusselsJob losses in EU manufacturing will rapidly increase unless Brussels stops the colonisation of industry...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "factory job cuts",
+            "\u2018 colonises \u2019",
+            "industry warns"
         ]
     },
     {
@@ -1816,21 +1883,6 @@
         ]
     },
     {
-        "title": "US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin",
-        "link": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
-        "summary": "Arrival marks first visit to Ukraine and comes day after substantive plans on ending war discussed in MoscowThe US negotiators Jared Kushner and Steve Witkoff have arrived in Kyiv for a second day of ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 23,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "us envoys",
-            "putin arrival",
-            "substantive plans"
-        ]
-    },
-    {
         "title": "Canadian skyrunner goes missing during training session for Matterhorn record attempt",
         "link": "https://www.theguardian.com/sport/2026/sep/06/canadian-skyrunner-kalie-mccrystal-missing-matterhorn-alps",
         "summary": "Kalie McCrystal was hoping to break record in AlpsAthlete was last seen on Tuesday afternoonCanadian athlete Kalie McCrystal has gone missing during preparations for a record attempt in the Alps.McCry...",
@@ -1846,33 +1898,18 @@
         ]
     },
     {
-        "title": "Far-right AfD predicted to win big in crucial German state election",
-        "link": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
-        "summary": "Polling stations open in Saxony-Anhalt with anti-immigration party AfD predicted to gain 41% vote sharePolls have opened in the east German state of Saxony-Anhalt, where the populist, far-right, anti-...",
+        "title": "Energy secretary says US might not reach nuclear agreement with Iran",
+        "link": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
+        "summary": "Chris Wright tells ABC there may not be an agreement that would prevent Iran from having nuclear weaponsUS energy secretary Chris Wright said on Sunday morning that the US may not be able to reach a n...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
+        "objectivity_score": 56,
         "sentiment": "Positive",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "far-right afd",
-            "state election",
-            "anti-immigration party"
-        ]
-    },
-    {
-        "title": "Witkoff and Kushner discussed \u2018next steps\u2019 with Putin to end Ukraine war, says US",
-        "link": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-        "summary": "Donald Trumps business ally and son-in-law now heading from Moscow to Kyiv to meet ZelenskyySteve Witkoff and Jared Kushner are heading to Kyiv for the first time in their roles as Donald Trumps peace...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 8,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "steps \u2019",
-            "donald trumps",
-            "business ally"
+            "nuclear agreement",
+            "iran chris wright",
+            "nuclear weaponsus energy secretary"
         ]
     },
     {
@@ -1933,21 +1970,6 @@
             "association \u2019",
             "international aid workers",
             "investigation reveals"
-        ]
-    },
-    {
-        "title": "Gaza refugee says sister-in-law \u2018would be alive\u2019 if Home Office had let her come to UK",
-        "link": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
-        "summary": "Anwar, who lives in Glasgow, says Home Office refused visa application despite Maryam having cancerA man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would stil...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "sister-in-law \u2018",
-            "alive \u2019",
-            "home office"
         ]
     },
     {
@@ -2026,6 +2048,21 @@
         ]
     },
     {
+        "title": "Pupils with Send plans in England likely to double to one in 10 in rush for support",
+        "link": "https://www.theguardian.com/education/2026/sep/06/schools-england-report-surge-send-applications",
+        "summary": "Schools and councils express financial concerns as EHCP applications surge before potential change in provisionPowerful example: minister looks to Essex school for blueprint to transform Send provisio...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "support schools",
+            "councils express",
+            "applications surge"
+        ]
+    },
+    {
         "title": "Black-clad Dover vigilantes will return if police do not act, say campaigners",
         "link": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister",
         "summary": "Far-right linked group able to mobilise at scale due to police inaction, says founder of Hope Not HateThe group of masked, black-clad vigilantes who blockaded roads in Dover could repeat the disruptio...",
@@ -2086,18 +2123,48 @@
         ]
     },
     {
-        "title": "Farage says overseas donation row \u2018looks bad\u2019 but denies Reform broke law",
-        "link": "https://www.theguardian.com/politics/2026/sep/06/farage-says-overseas-donation-row-looks-bad-but-denies-reform-breached-electoral-law",
-        "summary": "Robert Jenrick says party has followed legal protocol at all times as Met police consider launching investigationUK politics live  latest updatesNigel Farage has acknowledged the overseas donation row...",
+        "title": "Amazon cargo plane crashes at Miami airport after it overshoots runway",
+        "link": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
+        "summary": "FAA confirms crash as videos show heavy plumes of smoke surrounding aircraft that flew in from Puerto RicoAn Amazon cargo plane crashed at Miami international airport in Florida on Sunday afternoon wh...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
+        "objectivity_score": 35,
         "sentiment": "Negative",
         "date": "2026-09-06",
         "image_url": null,
         "keywords": [
-            "overseas donation row \u2018",
-            "robert jenrick",
-            "legal protocol"
+            "cargo plane crashes",
+            "overshoots runway",
+            "confirms crash"
+        ]
+    },
+    {
+        "title": "Hawaii declares state of emergency as Hurricane Lowell approaches islands",
+        "link": "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
+        "summary": "Storm, which may make impact as soon as Monday, is third system in weeks to threaten state during hurricane seasonHawaii has declared a state of emergency as powerful Hurricane Lowell makes its way to...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "hurricane lowell",
+            "approaches islands",
+            "hurricane seasonhawaii"
+        ]
+    },
+    {
+        "title": "Trump again asks supreme court to restrict mail-in voting as midterms loom",
+        "link": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
+        "summary": "Legal fight continues as states begin sending out ballots for voters to vote by mail in Novembers midterm electionsThe Trump administration renewed its appeal to the US supreme court on Sunday to allo...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 51,
+        "sentiment": "Positive",
+        "date": "2026-09-06",
+        "image_url": null,
+        "keywords": [
+            "supreme court",
+            "midterms loom",
+            "midterm electionsthe"
         ]
     },
     {
@@ -2128,51 +2195,6 @@
             "mire debate",
             "whole thing needs",
             "grand foyer"
-        ]
-    },
-    {
-        "title": "More voters identifying as Democrats and not calling themselves Republican",
-        "link": "https://www.theguardian.com/us-news/2026/sep/05/us-voters-democrats-republicans",
-        "summary": "Latest data from Gallup, showing 49% leaning Democrat and 39% Republican, marks sharp reversal from 2024More voters are identifying as Democrats and shying away from calling themselves Republican, acc...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 65,
-        "sentiment": "Positive",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "republican latest",
-            "sharp reversal",
-            "2024more voters"
-        ]
-    },
-    {
-        "title": "Robin Morgan, child star who became feminist, poet and editor, dies aged 85",
-        "link": "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85",
-        "summary": "Leading second-wave feminist co-founded Womens Media Center with Jane Fonda and Gloria SteinemRobin Morgan, a child star of the 1940s and 50s who grew up to become an all-American radical as a poet, e...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "robin morgan",
-            "child star",
-            "second-wave feminist"
-        ]
-    },
-    {
-        "title": "Cut the cameras: Flock surveillance cameras spur rare bipartisan backlash",
-        "link": "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash",
-        "summary": "Politicians on the right and left are pushing back against Flock as more Americans voice opposition to the techGrowing factions from both sides of the political aisle in the US are pushing back agains...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Neutral",
-        "date": "2026-09-06",
-        "image_url": null,
-        "keywords": [
-            "flock surveillance cameras spur",
-            "rare bipartisan backlash",
-            "voice opposition"
         ]
     }
 ]
