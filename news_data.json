@@ -737,6 +737,21 @@
         ]
     },
     {
+        "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+        "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+        "summary": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Positive",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "announces scheme",
+            "first-time buyers",
+            "prime minister"
+        ]
+    },
+    {
         "title": "Heathrow Airport warns third runway could be delayed by four years",
         "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
         "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
@@ -752,18 +767,16 @@
         ]
     },
     {
-        "title": "Man City chairman confident club will prove innocence",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
         "source": "BBC News",
-        "objectivity_score": 45,
+        "objectivity_score": 100,
         "sentiment": "Neutral",
         "date": "2026-09-26",
         "image_url": null,
         "keywords": [
-            "man city chairman",
-            "confident club",
-            "'s comments"
+            "us president"
         ]
     },
     {
@@ -782,39 +795,11 @@
         ]
     },
     {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "gas explosion"
-        ]
-    },
-    {
-        "title": "Met to re-examine CCTV from Jill Dando murder case",
-        "link": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "jill dando",
-            "murder case",
-            "putney bridge"
-        ]
-    },
-    {
         "title": "Republic of Ireland to wear black armbands for Israel game",
         "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for Sunday's Nations League game against Israel in Hungary, after confirming they wi...",
+        "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
         "source": "BBC News",
-        "objectivity_score": 41,
+        "objectivity_score": 42,
         "sentiment": "Negative",
         "date": "2026-09-26",
         "image_url": null,
@@ -911,72 +896,75 @@
         ]
     },
     {
-        "title": "Huge crowds greet Pope in Paris for open-air Mass",
-        "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-        "summary": "More than half a million people are expected to attend the event in the heart of the French capital.",
+        "title": "Man City chairman confident club will prove innocence",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Khaldoon Al Mubarak's comments came after the club was found guilty of breaking Premier League financial rules.",
         "source": "BBC News",
-        "objectivity_score": 39,
-        "sentiment": "Positive",
+        "objectivity_score": 61,
+        "sentiment": "Neutral",
         "date": "2026-09-26",
         "image_url": null,
         "keywords": [
-            "french capital"
+            "man city chairman",
+            "confident club",
+            "khaldoon al mubarak"
         ]
     },
     {
-        "title": "No Premier League appetite to strip Man City of titles - but threat remains",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
-        "summary": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
-        "source": "BBC News",
-        "objectivity_score": 60,
-        "sentiment": "Negative",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "premier league appetite",
-            "strip man city",
-            "premier league"
-        ]
-    },
-    {
-        "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-        "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+        "title": "Met to re-examine CCTV from Jill Dando murder case",
+        "link": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-09-26",
         "image_url": null,
         "keywords": [
-            "constructive discussions"
+            "jill dando",
+            "murder case",
+            "putney bridge"
         ]
     },
     {
-        "title": "Watch: Bangkok declared flood disaster zone",
-        "link": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Heavy rain over the last two days has overwhelmed Bangkok's water systems, with more rain forecast on Sunday.",
+        "title": "Watch: Thousands turn out to see Pope during Lourdes and Paris visit",
+        "link": "https://www.bbc.co.uk/news/videos/cmj6440w47zko?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC's religion editor Aleem Maqbool explains what Pope Leo's visit means for France.",
         "source": "BBC News",
-        "objectivity_score": 35,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-09-26",
         "image_url": null,
         "keywords": [
-            "flood disaster zone"
+            "'s religion editor",
+            "aleem maqbool",
+            "pope leo"
         ]
     },
     {
-        "title": "Legal challenge to Drumcree Orange Order parade decision under way",
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+        "source": "BBC News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "gas explosion"
+        ]
+    },
+    {
+        "title": "Orange Order to appeal High Court injunction stopping Drumcree parade",
         "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-        "summary": "Residents have applied to the High Court in Belfast to overturn the decision to allow a planned Orange Order parade on the mainly-nationalist Garvaghy Road in Portadown.",
+        "summary": "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road",
         "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
+        "objectivity_score": 33,
+        "sentiment": "Negative",
         "date": "2026-09-26",
         "image_url": null,
         "keywords": [
-            "drumcree orange",
-            "order parade decision",
-            "high court"
+            "high court injunction",
+            "patricia smyth"
         ]
     },
     {
@@ -1109,48 +1097,33 @@
         ]
     },
     {
-        "title": "Man City chairman confident club will prove innocence",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Manchester City chairman Khaldoon Al Mubarak says he is still confident of proving the club's innocence after they were found guilty of breaking Premier League financial rules.",
+        "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
+        "summary": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
         "source": "BBC News",
-        "objectivity_score": 66,
+        "objectivity_score": 65,
         "sentiment": "Positive",
         "date": "2026-09-26",
         "image_url": null,
         "keywords": [
-            "man city chairman",
-            "confident club",
-            "city chairman"
-        ]
-    },
-    {
-        "title": "Russell wins despite late Verstappen challenge",
-        "link": "https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss",
-        "summary": "Mercedes' George Russell holds off a late challenge from Red Bull's Max Verstappen to win an Azerbaijan Grand Prix enlivened by two late safety car periods.",
-        "source": "BBC News",
-        "objectivity_score": 48,
-        "sentiment": "Neutral",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
+            "real tough period",
             "george russell",
-            "late challenge",
-            "max verstappen"
+            "dominant weekend"
         ]
     },
     {
-        "title": "Republic of Ireland to wear black armbands for Israel game",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for Sunday's Nations League game against Israel in Hungary, after confirming they wi...",
+        "title": "Wakefield shock Wigan to reach first Grand Final",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
+        "summary": "Wakefield Trinity produce a sensational upset to reach their first ever Super League Grand Final and end Wigan Warriors' hopes of a treble in 2026.",
         "source": "BBC News",
-        "objectivity_score": 41,
-        "sentiment": "Negative",
+        "objectivity_score": 75,
+        "sentiment": "Positive",
         "date": "2026-09-26",
         "image_url": null,
         "keywords": [
-            "black armbands",
-            "game republic",
-            "black armbands"
+            "final wakefield trinity",
+            "sensational upset",
+            "wigan warriors"
         ]
     },
     {
@@ -1166,6 +1139,35 @@
             "premier league appetite",
             "strip man city",
             "premier league"
+        ]
+    },
+    {
+        "title": "England embrace growing competitiveness of women's game",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
+        "summary": "England edge past New Zealand with a last-gasp try by Zoe Harrison as they embrace the growing competitiveness of women's rugby.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Negative",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "women 's game",
+            "edge past",
+            "zoe harrison"
+        ]
+    },
+    {
+        "title": "England secure win over New Zealand with last-gasp try",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
+        "summary": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
+        "source": "BBC News",
+        "objectivity_score": 38,
+        "sentiment": "Positive",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "unbeaten run",
+            "zoe harrison"
         ]
     },
     {
@@ -1276,7 +1278,7 @@
     {
         "title": "87-Year-Old Evicted From Her Home Tells Spaniards to \u2018Fight\u2019 to Avoid Same Fate",
         "link": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
-        "summary": "Mara del Carmen Abascal, whose case has become a symbol of Spains housing crisis, appeared in a video from her hospital bed after police officers removed her from her apartment.",
+        "summary": "Mara del Carmen Abascal, whose case has become a symbol of Spains housing crisis, appeared in a video from a hospital bed after being removed from her apartment.",
         "source": "NYT > World News",
         "objectivity_score": 12,
         "sentiment": "Neutral",
@@ -1374,6 +1376,21 @@
         "keywords": [
             "mary jane veloso receives pardon",
             "philippines mary jane veloso"
+        ]
+    },
+    {
+        "title": "Trump Rejects Iran\u2019s Cease-Fire Proposal to Reopen Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
+        "summary": "The president said the deal was not acceptable and demurred on whether he would restart military strikes after the midterm elections.",
+        "source": "NYT > World News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "trump rejects iran",
+            "cease-fire proposal",
+            "reopen strait"
         ]
     },
     {
@@ -1511,21 +1528,6 @@
         ]
     },
     {
-        "title": "Colombia Sends Troops to Coastal City Gripped by Violence",
-        "link": "https://www.nytimes.com/video/world/americas/100000011172035/colombia-army-santa-marta-violence-cartels.html",
-        "summary": "President Abelardo De La Espriella of Colombia deployed the military to Santa Marta after a gang stormed the area in retaliation after security forces killed one of its leaders.",
-        "source": "NYT > World News",
-        "objectivity_score": 5,
-        "sentiment": "Negative",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "colombia sends troops",
-            "abelardo de la espriella",
-            "santa marta"
-        ]
-    },
-    {
         "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
         "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
         "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed governmentThere are growing fears of a return to civil war in Ethiopia after an offensive by fighters from ...",
@@ -1601,6 +1603,21 @@
         ]
     },
     {
+        "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
+        "link": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
+        "summary": "Attorney says fishers losing their livelihoods, but Marco Rubio maintains US still willing to blow up ships if need beWhile the US secretary of state, Marco Rubio, was being decorated in Quito by Ecua...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 38,
+        "sentiment": "Positive",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "us strikes",
+            "marco rubio",
+            "need bewhile"
+        ]
+    },
+    {
         "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
         "link": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
         "summary": "Presidents hard, drastic and necessary measure, likely to attract widespread public support, polls suggestThe Brazilian president, Luiz Incio Lula da Silva, has signed an order banning fixed-odds spor...",
@@ -1658,21 +1675,6 @@
             "polo barrels",
             "baja california",
             "mexico areas"
-        ]
-    },
-    {
-        "title": "Lula says Trump wants to \u2018colonise\u2019 and capture Brazil\u2019s resources by meddling in election",
-        "link": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
-        "summary": "A TV spot claims the US president is trying to sway Octobers presidential vote in favour of Lulas far-right opponentsLuiz Incio Lula da Silvas presidential campaign has accused Donald Trump of wanting...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 13,
-        "sentiment": "Neutral",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "\u2018 colonise \u2019",
-            "\u2019 s resources",
-            "tv spot claims"
         ]
     },
     {
@@ -1751,6 +1753,36 @@
         ]
     },
     {
+        "title": "Private colleges around Australia offering last-minute discounts for diploma allegedly \u2018misused by shonks\u2019",
+        "link": "https://www.theguardian.com/australia-news/2026/sep/27/australia-private-colleges-discount-deregistered-management-diploma-visa-crackdown-immigration-ntwnfb",
+        "summary": "Federal government to deregister graduate diploma of management in October over fears it was being used by non-genuine students to remain in countryGet our breaking news email, free app or daily news ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "private colleges",
+            "offering last-minute discounts",
+            "shonks \u2019"
+        ]
+    },
+    {
+        "title": "Palestinian careers adviser who was allegedly told to stop wearing keffiyeh at Sydney school sues for racial discrimination",
+        "link": "https://www.theguardian.com/australia-news/2026/sep/27/palestinian-careers-adviser-who-was-allegedly-told-to-stop-wearing-keffiyeh-at-sydney-school-sues-for-racial-discrimination-ntwnfb",
+        "summary": "Wasim El-Haj alleges NSW government school ordered him to stop wearing symbolic garment as it may cause discordGet our breaking news email, free app or daily news podcastA Palestinian careers adviser ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 24,
+        "sentiment": "Neutral",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "careers adviser",
+            "school sues",
+            "racial discrimination"
+        ]
+    },
+    {
         "title": "Free the Strip! Melburnians fight back against outlawing of much-loved picnic spot",
         "link": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot",
         "summary": "A council ban on drinking on the median strip in Canning Street, Carlton, sparks a peaceful protest featuring punch bowls, chips and laughterGet our breaking news email, free app or daily news podcast...",
@@ -1796,33 +1828,33 @@
         ]
     },
     {
-        "title": "NSW crackdown on \u2018AI-doctored\u2019 real estate listings hits mural-covered wall",
-        "link": "https://www.theguardian.com/australia-news/2026/sep/26/nsw-crackdown-on-ai-doctored-real-estate-listings-hits-mural-covered-wall",
-        "summary": "Apartment with strange view singled out in governments fight against deceptive ads  but real estate agent says photo is no fakeGet our new political email, free app or daily news podcastThe New South ...",
+        "title": "Greek authorities seek answers after six killed in Athens apartment block explosion",
+        "link": "https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion",
+        "summary": "Emergency teams discovered victims after two-storey building in historic Plaka district collapsed in secondsGreek authorities say they are trying to discover what caused a two-storey apartment block i...",
         "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Positive",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "real estate",
-            "wall apartment",
-            "strange view"
-        ]
-    },
-    {
-        "title": "Pocock calls for AI safety act after Medicare breach \u2013 as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
-        "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastAI hack of Medicare exposes Australias vulnerabilitiesTechnology experts have warned revelations an artificial intelli...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 42,
+        "objectivity_score": 11,
         "sentiment": "Neutral",
         "date": "2026-09-26",
         "image_url": null,
         "keywords": [
-            "safety act",
-            "breach \u2013",
-            "news email"
+            "greek authorities",
+            "apartment block explosion",
+            "two-storey building"
+        ]
+    },
+    {
+        "title": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
+        "link": "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+        "summary": "Crowds line Place de la Concorde on second day of pontiffs first official papal visit to France in 18 yearsHundreds of thousands of people lined the Avenue des Champs-lyses in Paris on Saturday to att...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 16,
+        "sentiment": "Positive",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "pope leo",
+            "open-air mass",
+            "paris crowds"
         ]
     },
     {
@@ -1868,36 +1900,6 @@
             "prize list",
             "thlyson orlien",
             "top literary prize"
-        ]
-    },
-    {
-        "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-        "link": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
-        "summary": "Pontiff says artificial intelligence must remain at service of people in first official papal visit to country in 18 yearsPope Leo has warned against losing humanity in a paradise of machines as he ad...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Neutral",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "pope leo",
-            "artificial intelligence",
-            "official papal visit"
-        ]
-    },
-    {
-        "title": "Pope Leo warns against AI and says technology \u2018must remain at service of humans\u2019 during first visit to France \u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-        "summary": "The pope gives landmark speech on AI development and Europes future Later today, Pope Leo will go to the lyse Palace for (another) formal welcome and a meeting with authorities, civil society and the ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "pope leo",
-            "technology \u2018",
-            "humans \u2019"
         ]
     },
     {
@@ -2051,6 +2053,66 @@
         ]
     },
     {
+        "title": "Belfast court injuncts decision to allow Orange Order march down Garvaghy Road",
+        "link": "https://www.theguardian.com/politics/2026/sep/26/belfast-court-decision-orange-order-march-garvaghy-road",
+        "summary": "Andy Burnham calls for calm as fears of unrest grow after request for countermarch in mainly nationalist area A controversial loyalist parade down a nationalist street in Portadown has been temporaril...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "court injuncts decision",
+            "order march",
+            "andy burnham"
+        ]
+    },
+    {
+        "title": "\u2018I can deliver\u2019: Burnham pledges radical change on eve of Labour conference",
+        "link": "https://www.theguardian.com/politics/2026/sep/26/burnham-pledges-radical-change-labour-conference-exclusive",
+        "summary": "Exclusive: UK prime minister says delivering fiscal stability would be crucial to be able to fix bigger problemsAndy Burnham has said he can deliver on his promise of radical change for the country de...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 59,
+        "sentiment": "Positive",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "prime minister",
+            "fiscal stability",
+            "severe economic headwinds"
+        ]
+    },
+    {
+        "title": "Andy Burnham announces new homes scheme for first-time buyers",
+        "link": "https://www.theguardian.com/politics/2026/sep/26/andy-burnham-announces-new-scheme-for-first-time-home-buyers-england",
+        "summary": "Exclusive: Policy initiative for England will help more young people on to property ladder, prime minister tells GuardianA new help-to-buy scheme aimed at giving first-time buyers who cannot rely on t...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "andy burnham",
+            "new homes scheme",
+            "first-time buyers"
+        ]
+    },
+    {
+        "title": "Ranulph Fiennes\u2019 stepson appeals for funds to \u2018locate and safeguard\u2019 the explorer",
+        "link": "https://www.theguardian.com/uk-news/2026/sep/26/ranulph-fiennes-explorer-stepson-launches-crowdfunder",
+        "summary": "Alexander Millington-Cotes is concerned for welfare of the 82-year-old, who hasnt been seen in public for two yearsThe stepson of Sir Ranulph Fiennes has launched a crowdfunder to pay for specialist l...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 20,
+        "sentiment": "Positive",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "ranulph fiennes",
+            "\u2019 stepson appeals",
+            "safeguard \u2019"
+        ]
+    },
+    {
         "title": "Jill Dando murder: technological advances allow police to review CCTV 27 years later",
         "link": "https://www.theguardian.com/uk-news/2026/sep/26/jill-dando-murder-technological-advances-police-cctv",
         "summary": "BBC broadcaster was shot in 1999 in case detectives have previously said may never be solvedTechnological advances are allowing police to review old CCTV footage in the unsolved murder of the BBC broa...",
@@ -2066,63 +2128,63 @@
         ]
     },
     {
-        "title": "Angela Rayner stands by attack on care worker visa reforms ahead of Labour conference",
-        "link": "https://www.theguardian.com/politics/2026/sep/26/angela-rayner-care-worker-visa-reforms-labour-conference",
-        "summary": "Housing secretary says Home Office moved goalposts with disruptive change to permanent residence rulesAngela Rayner has stood by her criticism of Home Office reforms that would make it harder for fore...",
+        "title": "Major storm in US north-east knocks out power for 100,000 and floods roads",
+        "link": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
+        "summary": "Residents across New Jersey, Massachusetts, Delaware and New York without electricity as storm hitsA slow-moving, powerful storm known as a noreaster crept along the coast of the US north-east on Satu...",
         "source": "World news | The Guardian",
-        "objectivity_score": 14,
+        "objectivity_score": 54,
         "sentiment": "Neutral",
         "date": "2026-09-26",
         "image_url": null,
         "keywords": [
-            "angela rayner",
-            "care worker visa reforms",
-            "conference housing secretary"
+            "major storm",
+            "us north-east knocks",
+            "floods roads"
         ]
     },
     {
-        "title": "Green shoots? Burnham cultivates rural links in attempt to \u2018build back trust\u2019 with farmers",
-        "link": "https://www.theguardian.com/politics/2026/sep/26/andy-burnham-farmers-build-back-trust",
-        "summary": "Ministers have been speaking to farming activists to try to build bridges after tax changes introduced under Starmer soured relationsAs an arable farmer, Olly Harrisons WhatsApp messages are normally ...",
+        "title": "\u2018Miracle on the Hudson\u2019 pilot Chesly Sullenberger inducted into US Aviation Hall of Fame",
+        "link": "https://www.theguardian.com/us-news/2026/sep/26/chesley-sullenberger-national-aviation-hall-of-fame",
+        "summary": "Sullenberger landed a disabled passenger plane safely in the Hudson River in 2009 without any loss of lifeCapt Chesley Sully Sullenberger III  the pilot known for safely landing a US Airways flight in...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 37,
+        "sentiment": "Positive",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "\u2019 pilot",
+            "chesly sullenberger",
+            "fame sullenberger"
+        ]
+    },
+    {
+        "title": "Third person arrested in death of Tasia Fortune, as police say hanging was staged",
+        "link": "https://www.theguardian.com/us-news/2026/sep/26/mississippi-tasia-fortune-arrest-hanging-staged",
+        "summary": "Eric Clark, 45, charged with murder as autopsy concludes Fortune was dead days before body discovered in treeA third person has been arrested in the death of 29-year-old Tasia Fortune in Mississippis ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 13,
+        "sentiment": "Neutral",
+        "date": "2026-09-26",
+        "image_url": null,
+        "keywords": [
+            "tasia fortune",
+            "eric clark",
+            "autopsy concludes"
+        ]
+    },
+    {
+        "title": "Wisconsin police investigating fraternity for hazing after men found in basement",
+        "link": "https://www.theguardian.com/us-news/2026/sep/26/university-of-wisconsin-fraternity-hazing",
+        "summary": "Pledges found covered in food in heated basement of fraternity house near University of Wisconsin-MadisonPolice are investigating suspected illegal hazing after about 30 partially clothed young men co...",
         "source": "World news | The Guardian",
         "objectivity_score": 34,
         "sentiment": "Neutral",
         "date": "2026-09-26",
         "image_url": null,
         "keywords": [
-            "green shoots",
-            "rural links",
-            "trust \u2019"
-        ]
-    },
-    {
-        "title": "Work intensifying on UK laws to stamp out concert ticket touts, say sources",
-        "link": "https://www.theguardian.com/business/2026/sep/26/work-intensifying-uk-laws-stamp-out-concert-ticket-touts",
-        "summary": "Artists including Tinie Tempah and the Smiths drummer Mike Joyce ramp up pressure on government to keep its pledge to outlaw for-profit resalesThe government has stepped up work on new laws to stop ti...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "concert ticket touts",
-            "tinie tempah",
-            "mike joyce"
-        ]
-    },
-    {
-        "title": "Severely disabled young people should get fast-track access to benefits, Milburn says",
-        "link": "https://www.theguardian.com/society/2026/sep/26/severely-disabled-young-people-fast-track-benefits-milburn",
-        "summary": "Alan Milburn said 16- to 24-year-olds with most complex needs should not have to keep proving they cannot workYoung people whose complex disabilities mean they have little prospect of getting a paid j...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Neutral",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "young people",
-            "fast-track access",
-            "alan milburn"
+            "fraternity house",
+            "young men",
+            "fraternity house"
         ]
     },
     {
@@ -2138,66 +2200,6 @@
             "ex-wife \u2013",
             "homes crawlspace",
             "jill maiorca"
-        ]
-    },
-    {
-        "title": "Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday",
-        "link": "https://www.theguardian.com/us-news/2026/sep/26/pennsylvania-measles-outbreak-spreads",
-        "summary": "173 people hospitalized and four deaths in state so far, with less than 1% of those infected having been vaccinatedThe Pennsylvania department of health (DOH) announced on Friday that 55 new measles c...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 66,
-        "sentiment": "Positive",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "measles outbreak",
-            "new cases",
-            "new measles cases"
-        ]
-    },
-    {
-        "title": "Power outages and flooded roads as major storm bears down on US north-east",
-        "link": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
-        "summary": "Thousands already without without power as New Jersey, Massachusetts, Delaware and New York brace for noreasterMore than 70,000 customers were without electricity in the north-eastern US on Saturday, ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Neutral",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "major storm bears",
-            "us north-east thousands",
-            "north-eastern us"
-        ]
-    },
-    {
-        "title": "New research finds 485 chemicals in US pesticide products linked to breast cancer",
-        "link": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
-        "summary": "Paper raises questions about safety of food and other products as early onset breast cancer rates surge worldwideNew research has identified at least 485 chemicals used in US pesticide products that a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "new research",
-            "us pesticide products",
-            "breast cancer"
-        ]
-    },
-    {
-        "title": "White House blocks CNN from Air Force One in latest escalation with news media",
-        "link": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
-        "summary": "Outlet had been scheduled to fly with Donald Trump to Tennessee for a college football game, network said FridayThe White House has blocked CNN from traveling aboard Air Force One on Saturday, impedin...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 54,
-        "sentiment": "Positive",
-        "date": "2026-09-26",
-        "image_url": null,
-        "keywords": [
-            "white house blocks",
-            "air force",
-            "news media"
         ]
     }
 ]
