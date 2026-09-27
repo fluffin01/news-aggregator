@@ -737,18 +737,33 @@
         ]
     },
     {
-        "title": "Watch: At the scene of counter-terrorism operation near RAF Fairford",
-        "link": "https://www.bbc.co.uk/news/videos/cxp84gq34n9zo?at_medium=RSS&at_campaign=rss",
-        "summary": "Five men have been arrested as counter-terrorism police lead investigation into major incident near RAF Fairford.",
+        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+        "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+        "summary": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
         "source": "BBC News",
-        "objectivity_score": 43,
+        "objectivity_score": 63,
+        "sentiment": "Negative",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "counter-terror police",
+            "major incident",
+            "raf fairford"
+        ]
+    },
+    {
+        "title": "What we know about RAF Fairford counter-terror probe",
+        "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+        "source": "BBC News",
+        "objectivity_score": 45,
         "sentiment": "Neutral",
         "date": "2026-09-27",
         "image_url": null,
         "keywords": [
-            "counter-terrorism operation",
             "raf fairford",
-            "counter-terrorism police lead investigation"
+            "counter-terror police lead",
+            "major incident"
         ]
     },
     {
@@ -794,6 +809,34 @@
             "ten nhs",
             "noah woods",
             "data breach"
+        ]
+    },
+    {
+        "title": "No handshakes between Republic of Ireland and Israel",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+        "source": "BBC News",
+        "objectivity_score": 57,
+        "sentiment": "Neutral",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "league game"
+        ]
+    },
+    {
+        "title": "England win series as Banton delivers on potential",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
+        "source": "BBC News",
+        "objectivity_score": 59,
+        "sentiment": "Positive",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "tom banton",
+            "international century",
+            "sri lanka"
         ]
     },
     {
@@ -856,21 +899,6 @@
         ]
     },
     {
-        "title": "Venezuela releases dozens of political prisoners as election calls grow",
-        "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-        "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "releases dozens",
-            "political prisoners",
-            "election calls"
-        ]
-    },
-    {
         "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
         "link": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
         "summary": "The reality TV game show returns on Thursday, with 21 stars vying to win 100,000 for their chosen charity.",
@@ -886,7 +914,7 @@
         ]
     },
     {
-        "title": "Killer Christa Pike is to be executed within days, but her defence say she's a victim too",
+        "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
         "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
         "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
         "source": "BBC News",
@@ -944,20 +972,49 @@
         ]
     },
     {
-        "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-        "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+        "title": "Switzerland rejects stricter interpretation of its neutrality",
+        "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+        "summary": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-09-27",
         "image_url": null,
         "keywords": [
-            "lourdes pope leo"
+            "rejects stricter interpretation"
         ]
     },
     {
-        "title": "Thousands without water and roads closed after burst pipe",
+        "title": "Watch: At the scene of counter-terrorism operation near RAF Fairford",
+        "link": "https://www.bbc.co.uk/news/videos/cxp84gq34n9zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Five men have been arrested as counter-terrorism police lead investigation into major incident near RAF Fairford.",
+        "source": "BBC News",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "counter-terrorism operation",
+            "raf fairford",
+            "counter-terrorism police lead investigation"
+        ]
+    },
+    {
+        "title": "Two bodies found after avalanche hits Himalayan climbing group",
+        "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+        "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "avalanche hits",
+            "himlung himal"
+        ]
+    },
+    {
+        "title": "Thousands affected and roads closed after burst pipe",
         "link": "https://www.bbc.co.uk/news/articles/cm0e33ej13r5o?at_medium=RSS&at_campaign=rss",
         "summary": "Southern Water says it is investigating the burst pipe which happened on Sunday morning.",
         "source": "BBC News",
@@ -967,21 +1024,6 @@
         "image_url": null,
         "keywords": [
             "southern water"
-        ]
-    },
-    {
-        "title": "Ten climbers missing after avalanche hits Himalayan base camp",
-        "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
-        "source": "BBC News",
-        "objectivity_score": 35,
-        "sentiment": "Negative",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "avalanche hits",
-            "base camp",
-            "overseas climbers"
         ]
     },
     {
@@ -1010,6 +1052,19 @@
         "image_url": null,
         "keywords": [
             "jewish community"
+        ]
+    },
+    {
+        "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+        "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "lourdes pope leo"
         ]
     },
     {
@@ -1057,6 +1112,60 @@
         ]
     },
     {
+        "title": "Republic of Ireland defeat Israel in Debrecen",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqlyk0141lelo?at_medium=RSS&at_campaign=rss",
+        "summary": "Republic of Ireland claim the first win of their Nations League B3 campaign with an impressive showing in a 3-0 victory against Israel in Debrecen.",
+        "source": "BBC News",
+        "objectivity_score": 57,
+        "sentiment": "Positive",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "republic"
+        ]
+    },
+    {
+        "title": "No handshakes between Republic of Ireland and Israel",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+        "source": "BBC News",
+        "objectivity_score": 57,
+        "sentiment": "Neutral",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "league game"
+        ]
+    },
+    {
+        "title": "England win series as Banton delivers on potential",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
+        "source": "BBC News",
+        "objectivity_score": 59,
+        "sentiment": "Positive",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "tom banton",
+            "international century",
+            "sri lanka"
+        ]
+    },
+    {
+        "title": "Bellamy 'hurting' as Denmark outclass Wales",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Craig Bellamy says he is \"hurting\" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "wales craig bellamy"
+        ]
+    },
+    {
         "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
         "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
         "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
@@ -1071,31 +1180,33 @@
         ]
     },
     {
-        "title": "Horner a distraction for Ferrari says Vasseur",
-        "link": "https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss",
-        "summary": "Christian Horner is proving a distraction for Ferrari by \"looking for a job\", team principal Frederic Vasseur says.",
+        "title": "Chelsea restore resilience - are they title contenders again?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
+        "summary": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "team principal",
-            "frederic vasseur"
-        ]
-    },
-    {
-        "title": "Four men down - but Australia still beat South Africa",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cx05r4gg209ro?at_medium=RSS&at_campaign=rss",
-        "summary": "Australia are reduced to 11 men but dig in for a remarkable win against a much-changed South Africa side as they beat the world champions 42-38 in Perth.",
-        "source": "BBC News",
-        "objectivity_score": 47,
+        "objectivity_score": 34,
         "sentiment": "Positive",
         "date": "2026-09-27",
         "image_url": null,
         "keywords": [
-            "africa australia",
-            "world champions"
+            "restore resilience",
+            "title contenders",
+            "league crown"
+        ]
+    },
+    {
+        "title": "McNulty first US world road race winner in 33 years",
+        "link": "https://www.bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no?at_medium=RSS&at_campaign=rss",
+        "summary": "Brandon McNulty becomes the first American winner of the men's road race world title in 33 years with a stunning victory in Montreal.",
+        "source": "BBC News",
+        "objectivity_score": 41,
+        "sentiment": "Positive",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "us world road race winner",
+            "brandon mcnulty",
+            "american winner"
         ]
     },
     {
@@ -1114,18 +1225,33 @@
         ]
     },
     {
-        "title": "5 Men Arrested on Suspicion of Terrorism Offenses Near RAF Fairford, Air Base Used by U.S.",
+        "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
         "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-        "summary": "British counterterrorism police said the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
+        "summary": "The British counterterrorism police say the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
         "source": "NYT > World News",
         "objectivity_score": 42,
         "sentiment": "Negative",
         "date": "2026-09-27",
         "image_url": null,
         "keywords": [
-            "men arrested",
-            "near raf fairford",
-            "base used"
+            "terrorism near raf fairford",
+            "british counterterrorism police",
+            "suspicious vehicles"
+        ]
+    },
+    {
+        "title": "Iran Still Awaits \u2018Official\u2019 U.S. Response Despite Trump\u2019s Rebuff of Cease-Fire Offer",
+        "link": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
+        "summary": "Abbas Araghchi, Irans foreign minister, said a history of contradictory messaging meant that President Trumps rejection might not be a final position.",
+        "source": "NYT > World News",
+        "objectivity_score": 56,
+        "sentiment": "Neutral",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "official \u2019",
+            "cease-fire offer abbas araghchi",
+            "foreign minister"
         ]
     },
     {
@@ -1292,33 +1418,78 @@
         ]
     },
     {
-        "title": "Evicted 87-Year-Old Woman Urges Spaniards to \u2018Fight\u2019 to Avoid Same Fate",
-        "link": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
-        "summary": "Mara del Carmen Abascal, whose case has become a symbol of Spains housing crisis, appeared in a video from a hospital bed after being removed from her apartment.",
+        "title": "A Growing North Korea Problem",
+        "link": "https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html",
+        "summary": "In an interview with The New York Times, South Koreas president dropped a bold proposal for how to curb North Koreas nuclear program.",
         "source": "NYT > World News",
-        "objectivity_score": 12,
-        "sentiment": "Neutral",
+        "objectivity_score": 56,
+        "sentiment": "Positive",
         "date": "2026-09-27",
         "image_url": null,
         "keywords": [
-            "woman urges spaniards",
-            "fate mara",
-            "carmen abascal"
+            "korea problem",
+            "bold proposal",
+            "nuclear program"
         ]
     },
     {
-        "title": "Iran Seeks U.S. Clarification After Trump Rejects Cease-Fire Proposal",
-        "link": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
-        "summary": "Abbas Araghchi, Irans foreign minister, said a history of contradictory messaging meant that President Trumps rebuff might not be a final position.",
+        "title": "Five Men Arrested on Suspicion of Terrorism Near U.K. Military Base",
+        "link": "https://www.nytimes.com/video/world/europe/100000011178306/raf-fairford-airbase-arrests.html",
+        "summary": "The U.K. police arrested five men near a military base on Sunday on suspicion of preparing acts of terrorism. The R.A.F. Fairford base is used primarily by the U.S. Air Force to deploy some of its lar...",
         "source": "NYT > World News",
         "objectivity_score": 56,
+        "sentiment": "Negative",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "men arrested",
+            "terrorism near u.k.",
+            "military base"
+        ]
+    },
+    {
+        "title": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
+        "link": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+        "summary": "New York Times journalists pressed the Canadian prime minister about a range of topics in an hourlong interview last week. Heres a transcript of their conversation.",
+        "source": "NYT > World News",
+        "objectivity_score": 26,
         "sentiment": "Neutral",
         "date": "2026-09-27",
         "image_url": null,
         "keywords": [
-            "u.s. clarification",
-            "trump rejects cease-fire proposal abbas araghchi",
-            "foreign minister"
+            "mark carney",
+            "canadian prime minister",
+            "hourlong interview"
+        ]
+    },
+    {
+        "title": "Standoff Rocks a Northern Irish Town Over Contentious Sectarian March",
+        "link": "https://www.nytimes.com/2026/09/27/world/europe/northern-ireland-protestant-parade-catholic.html",
+        "summary": "A court ruled that a parade by a Protestant group could pass through a largely Catholic area for the first time in three decades. Protesters blocked the route.",
+        "source": "NYT > World News",
+        "objectivity_score": 16,
+        "sentiment": "Neutral",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "standoff rocks",
+            "northern irish town",
+            "contentious sectarian march"
+        ]
+    },
+    {
+        "title": "Giant Pandas, Icons of China\u2019s Soft Diplomacy, Arrive in Atlanta",
+        "link": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+        "summary": "A male named Ping Ping and a female named Fu Shuang landed on Sunday, days after Chinas leader said he would dispatch envoys of friendship to the United States.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "giant pandas",
+            "soft diplomacy",
+            "a male"
         ]
     },
     {
@@ -1392,66 +1563,6 @@
             "book prize",
             "someone ran",
             "was either"
-        ]
-    },
-    {
-        "title": "Catherine Ringer, French Pop Icon of Eclectic Style, Dies at 68",
-        "link": "https://www.nytimes.com/2026/09/25/world/europe/catherine-ringer-dead.html",
-        "summary": "With her guitarist-partner, Fred Chichin, she formed Les Rita Mitsouko as a band that embraced a more multicultural France.",
-        "source": "NYT > World News",
-        "objectivity_score": 25,
-        "sentiment": "Positive",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "catherine ringer",
-            "pop icon",
-            "eclectic style"
-        ]
-    },
-    {
-        "title": "African Presidents Call for Permanent African Seats on U.N. Security Council",
-        "link": "https://www.nytimes.com/2026/09/25/world/africa/africa-security-council-representation.html",
-        "summary": "A host of African leaders including the presidents of Ghana, Liberia, Kenya and Namibia demanded the change while the U.N. Secretary General said the lack of a permanent African seat was indefensible.",
-        "source": "NYT > World News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "permanent african",
-            "security council",
-            "african leaders"
-        ]
-    },
-    {
-        "title": "Pope Leo to Press: \u2018You Are All Welcome\u2019",
-        "link": "https://www.nytimes.com/video/world/europe/100000011175000/pope-leo-trump-white-house-media-ban.html",
-        "summary": "Speaking on a flight to Paris before his state visit to France, Pope Leo XIV said all journalists were welcome to cover him after the Trump administration tried to restrict White House access to certa...",
-        "source": "NYT > World News",
-        "objectivity_score": 59,
-        "sentiment": "Positive",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "pope leo",
-            "state visit",
-            "pope leo xiv"
-        ]
-    },
-    {
-        "title": "You Get an Eagle, and You Get an Eagle: Xi Takes Home Trump\u2019s Go-To Gift",
-        "link": "https://www.nytimes.com/2026/09/25/world/americas/trump-bald-eagle-gift-xi.html",
-        "summary": "The president has often reached for statues of the national bird on diplomatic occasions in his second term. (Ronald Reagan favored them, too.)",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "xi takes",
-            "national bird",
-            "diplomatic occasions"
         ]
     },
     {
@@ -1605,18 +1716,18 @@
         ]
     },
     {
-        "title": "Two giant pandas set off to Atlanta zoo from China after Xi-Trump summit",
+        "title": "Two giant pandas arrive in Atlanta from China after Xi-Trump summit",
         "link": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
-        "summary": "Pandas departed Chengdu for their new homes in Georgia as part of agreement between Chinese and US governmentsTwo giant pandas departed Chengdu in south-western China early on Sunday for their new hom...",
+        "summary": "Ping Ping and Fu Shuang to live at Atlanta zoo in Georgia as part of loan deal between Chinese and US governmentsTwo giant pandas from China arrived in Atlanta, Georgia, on Sunday morning as part of a...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-09-27",
         "image_url": null,
         "keywords": [
             "giant pandas",
-            "new homes",
-            "us governmentstwo"
+            "ping ping",
+            "fu shuang"
         ]
     },
     {
@@ -1680,6 +1791,21 @@
         ]
     },
     {
+        "title": "Shannon felt a \u2018sense of doom\u2019 as she sought justice for sexual assault. A new NSW program hopes to alleviate that",
+        "link": "https://www.theguardian.com/australia-news/2026/sep/28/sexual-assault-service-nsw-victim-survivor-opening-ntwnfb",
+        "summary": "Exclusive: Dedicated service to support sexual assault victim-survivors as they navigate legal system to open in NSWGet our breaking news email, free app or daily news podcastIt took Shannon Stokes tw...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 42,
+        "sentiment": "Positive",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "\u2018 sense",
+            "doom \u2019",
+            "sexual assault"
+        ]
+    },
+    {
         "title": "One Nation boss called David Farley an \u2018asshole\u2019 in lead-up to Farrer byelection, text messages reveal",
         "link": "https://www.theguardian.com/australia-news/2026/sep/28/one-nation-kelvin-morton-david-farley-asshole-farrer-byelection-text-messages-ntwnfb",
         "summary": "Exclusive: Documents seen by Guardian Australia show that Kelvin Morton has also clashed with party HQ staff and Brisbane volunteersGet our new political email, free app or daily news podcastOne Natio...",
@@ -1740,18 +1866,18 @@
         ]
     },
     {
-        "title": "\u2018Cash grab\u2019: One Nation demands up to $630,000 from Victorian election candidates",
-        "link": "https://www.theguardian.com/australia-news/2026/sep/27/one-nation-to-demand-thousands-from-victorian-election-candidates-ntwnfb",
-        "summary": "Exclusive: Many applicants left feeling used, lied to, misled and gaslit, complaint letter seen by Guardian Australia saysListen to the Guardian podcast The Populist hereGet our new political email, f...",
+        "title": "Serbia\u2019s populist president Aleksandar Vu\u010di\u0107 resigns to run for prime minister",
+        "link": "https://www.theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister",
+        "summary": "Vui not allowed to seek third presidential term and election will test his grip on rule after widespread protestsSerbias populist president, Aleksandar Vui, has resigned to pursue an attempt to become...",
         "source": "World news | The Guardian",
-        "objectivity_score": 28,
+        "objectivity_score": 15,
         "sentiment": "Neutral",
         "date": "2026-09-27",
         "image_url": null,
         "keywords": [
-            "election candidates",
-            "complaint letter",
-            "guardian australia"
+            "\u2019 s populist president",
+            "aleksandar vu\u010di\u0107",
+            "prime minister"
         ]
     },
     {
@@ -1815,18 +1941,18 @@
         ]
     },
     {
-        "title": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
-        "link": "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
-        "summary": "Crowds line Place de la Concorde on second day of pontiffs first official papal visit to France in 18 yearsHundreds of thousands of people lined the Avenue des Champs-lyses in Paris on Saturday to att...",
+        "title": "UN ambassador Waltz says Iran was not negotiating \u2018in good faith\u2019 to end war",
+        "link": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
+        "summary": "Waltz says Trump rejected Irans proposal to end war because they were asking for everything up frontThe Trump administrations ambassador to the United Nations said the US rejected Irans proposal to en...",
         "source": "World news | The Guardian",
-        "objectivity_score": 16,
+        "objectivity_score": 40,
         "sentiment": "Positive",
         "date": "2026-09-27",
         "image_url": null,
         "keywords": [
-            "pope leo",
-            "open-air mass",
-            "paris crowds"
+            "un ambassador",
+            "good faith \u2019",
+            "administrations ambassador"
         ]
     },
     {
@@ -1887,21 +2013,6 @@
             "inflammatory un speech",
             "large protests",
             "prime minister"
-        ]
-    },
-    {
-        "title": "Trump faces tough choices as Iran dangles deal to reopen Hormuz before US midterms",
-        "link": "https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections",
-        "summary": "Irans seven-day timetable would restart nuclear talks, but will the US be willing to deliver on terms that include reining in Israel in Lebanon?Irans seven-day timetable to reopen the strait of Hormuz...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "tough choices",
-            "us midterms",
-            "seven-day timetable"
         ]
     },
     {
@@ -1980,78 +2091,123 @@
         ]
     },
     {
-        "title": "Most of UK\u2019s essential food supply grown in drought-risk areas, report warns",
-        "link": "https://www.theguardian.com/business/2026/sep/27/most-of-uks-essential-food-supply-grown-in-drought-risk-areas-report-warns",
-        "summary": "Keys crops such as cereals, potatoes, sugar and oils grown in areas with moderate to very high riskThe vast majority of the UKs essential foods, including cereals, potatoes, sugar and oil, are grown i...",
+        "title": "Andy Burnham to fight next election with plan for NHS-style care service",
+        "link": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-election-nhs-style-care-service-labour-conference",
+        "summary": "PM says he is willing to expend political capital to bring in universal service for England funded by everybodyAnalysis: can Labour hang on to Burnham bounce?Andy Burnham will fight the next election ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 60,
-        "sentiment": "Positive",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "essential food",
-            "drought-risk areas",
-            "report warns"
-        ]
-    },
-    {
-        "title": "UK politics live: Burnham says he wants to fight next election on plan for new taxes to pay for free social care in England",
-        "link": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
-        "summary": "PM appears to be anticipating criticism of reforms that he will set out on Tuesday at the Labour party conferenceI can deliver: Burnham pledges radical change on eve of Labour conferenceKuenssberg put...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Positive",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "new taxes",
-            "free social care",
-            "england pm"
-        ]
-    },
-    {
-        "title": "Burnham dodges questions on Heathrow third runway as project faces four-year delay",
-        "link": "https://www.theguardian.com/environment/2026/sep/27/burham-dodges-questions-heathrow-third-runway-delay",
-        "summary": "Airport chiefs say 2035 operations deadline unachievable as critics say new delay makes case for project even more dubiousPlans for a third runway at Heathrow are once again up in the air after the pr...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "dodges questions",
-            "four-year delay airport chiefs",
-            "operations deadline"
-        ]
-    },
-    {
-        "title": "Tense standoff over loyalist march in Portadown as protesters block route",
-        "link": "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route",
-        "summary": "Sinn Fin leaders join those on streets opposing decision to allow Garvaghy Road parade for first time since 1998Portadown march: latest updatesHundreds of protesters spent the day blocking the route o...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 33,
         "sentiment": "Neutral",
         "date": "2026-09-27",
         "image_url": null,
         "keywords": [
-            "loyalist march",
-            "protesters block route",
-            "sinn fin"
+            "andy burnham",
+            "care service",
+            "political capital"
         ]
     },
     {
-        "title": "Burnham refreshes the parts others can\u2019t reach on the Andy and Laura show | John Crace",
-        "link": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-laura-kuenssberg-show-social-care",
-        "summary": "The PM oozes confidence and easy-going charm as he tells Laura Kuenssberg the hill hell die on is fixing social careUK politics live  latest updatesIn recent weeks there has been much speculation in s...",
+        "title": "Five arrested on terrorism charges after explosives found near RAF base used by US",
+        "link": "https://www.theguardian.com/uk-news/2026/sep/27/arrests-suspected-terrorism-charges-explosives-found-near-raf-base-us",
+        "summary": "Counter-terrorism police investigate whether Iran is behind suspected bomb plot after member of public calls 999 over suspicious vehiclesCounter-terrorism police are investigating whether Iran is behi...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 51,
+        "sentiment": "Negative",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "terrorism charges",
+            "bomb plot",
+            "public calls"
+        ]
+    },
+    {
+        "title": "\u2018Don\u2019t squander it\u2019: Can Labour hang on to the Burnham bounce?",
+        "link": "https://www.theguardian.com/politics/2026/sep/27/burnham-bounce-gives-labour-a-second-chance-but-budget-realities-are-looming",
+        "summary": "Conference delegates grateful ousting Starmer has paid off, but relief tempered by fiscal headwinds aheadUK politics live  latest updatesEven Andy Burnhams closest allies accept that deposing Keir Sta...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 58,
         "sentiment": "Positive",
         "date": "2026-09-27",
         "image_url": null,
         "keywords": [
-            "parts others",
-            "show |",
-            "john crace"
+            "\u2019 t squander",
+            "conference delegates",
+            "fiscal headwinds aheaduk politics"
+        ]
+    },
+    {
+        "title": "UK to open new refugee resettlement routes for Afghan women and Palestinians",
+        "link": "https://www.theguardian.com/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians",
+        "summary": "Exclusive: Move by Shabana Mahmood comes after closure of Afghan scheme last year but experts say numbers too small to deter Channel crossingsUK politics live  latest updatesShabana Mahmood will annou...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "new refugee resettlement routes",
+            "palestinians exclusive",
+            "shabana mahmood"
+        ]
+    },
+    {
+        "title": "Late-night drive and a 999 call: chance encounter that led to terrorism arrests at RAF base",
+        "link": "https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation",
+        "summary": "Local people say members of WhatsApp group noticed suspicious activity around vans in Whelford overnightIn the early hours of Sunday morning, a resident of the village of Whelford was driving home whe...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "chance encounter",
+            "terrorism arrests",
+            "local people"
+        ]
+    },
+    {
+        "title": "Blanche defends Trump\u2019s White House media ban: \u2018It\u2019s a privilege \u2026 not a right\u2019",
+        "link": "https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media",
+        "summary": "US attorney general argues that president is sick and tired of inaccurate reporting by CNN, MS Now and PoliticoDonald Trumps attorney general Todd Blanche argued on Sunday that the administration bann...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 43,
+        "sentiment": "Negative",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "white house media ban",
+            "privilege \u2026",
+            "right \u2019 us attorney general argues"
+        ]
+    },
+    {
+        "title": "Republican senator criticizes White House for taxpayer-funded Trump ads",
+        "link": "https://www.theguardian.com/us-news/2026/sep/27/john-kennedy-white-house-trump-ad-tax-money",
+        "summary": "John Kennedy pushes back against such spending as pro-Trump public service announcements air before midtermsAs the White House expands a taxpayer-funded advertising campaign to promote Donald Trumps p...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 16,
+        "sentiment": "Neutral",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "senator criticizes",
+            "white house",
+            "john kennedy"
+        ]
+    },
+    {
+        "title": "Republican says Trump\u2019s support of Ken Paxton in Texas primary was \u2018colossal mistake\u2019",
+        "link": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
+        "summary": "Thom Tillis says Trumps decision to back Paxton over John Cornyn has put the Senate seat at risk for RepublicansUS senator Thom Tillis on Sunday criticized Donald Trump, his fellow Republican, for the...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 48,
+        "sentiment": "Positive",
+        "date": "2026-09-27",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s support",
+            "ken paxton",
+            "\u2018 colossal mistake \u2019"
         ]
     },
     {
@@ -2082,51 +2238,6 @@
             "key us pollution rules",
             "environmental groups warndatacenter developers",
             "air pollution"
-        ]
-    },
-    {
-        "title": "\u2018I wanted to help another family\u2019: four surrogates on how they feel about the surrogacy discourse",
-        "link": "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey",
-        "summary": "The Guardian spoke with surrogates across the US about what they think of the controversy surrounding the practiceSurrogacy has been thrust into the national spotlight in recent weeks, with both the a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 9,
-        "sentiment": "Neutral",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "family \u2019",
-            "surrogacy discourse",
-            "national spotlight"
-        ]
-    },
-    {
-        "title": "Only 3% of US sickle cell patients receive red blood cell exchange for disease, researchers find",
-        "link": "https://www.theguardian.com/society/2026/sep/27/sickle-cell-patients-red-blood-cell-exchange",
-        "summary": "Various factors block sufferers of disease from receiving treatment that is effective and has widespread availabilitySickle cell patients are missing out on an effective treatment despite widespread U...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Positive",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "us sickle cell patients",
-            "red blood cell exchange",
-            "various factors block sufferers"
-        ]
-    },
-    {
-        "title": "Bad language: profane Trump brings presidential swearing out into open",
-        "link": "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language",
-        "summary": "President has let rip with swearwords in recent months, redefining norms about acceptable language in public officeWith a lifetime of political memories stretching back to John F Kennedys assassinatio...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-09-27",
-        "image_url": null,
-        "keywords": [
-            "presidential swearing",
-            "open president",
-            "recent months"
         ]
     }
 ]
