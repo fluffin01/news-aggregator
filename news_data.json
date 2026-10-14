@@ -737,6 +737,34 @@
         ]
     },
     {
+        "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+        "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+        "source": "BBC News",
+        "objectivity_score": 34,
+        "sentiment": "Negative",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "speed limits"
+        ]
+    },
+    {
+        "title": "We are behind you and that will not change, PM tells Zelensky",
+        "link": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+        "summary": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
+        "source": "BBC News",
+        "objectivity_score": 26,
+        "sentiment": "Negative",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "bolster support",
+            "european allies",
+            "donald trump"
+        ]
+    },
+    {
         "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
         "link": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
         "summary": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
@@ -749,36 +777,6 @@
             "russell brand",
             "'sexual predator",
             "prosecution alleges"
-        ]
-    },
-    {
-        "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-        "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-        "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-        "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "political situation",
-            "elon musk",
-            "'s system"
-        ]
-    },
-    {
-        "title": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
-        "summary": "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "prime minister",
-            "volodymyr zelensky",
-            "rocky week"
         ]
     },
     {
@@ -797,18 +795,17 @@
         ]
     },
     {
-        "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-        "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
-        "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+        "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+        "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+        "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
         "source": "BBC News",
-        "objectivity_score": 43,
+        "objectivity_score": 60,
         "sentiment": "Positive",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "tiger attack",
-            "william chapman",
-            "yorkshire wildlife"
+            "sharp increase",
+            "ensure travel"
         ]
     },
     {
@@ -827,18 +824,18 @@
         ]
     },
     {
-        "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-        "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-        "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+        "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+        "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+        "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 43,
+        "sentiment": "Positive",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "'s first-ever",
-            "state government",
-            "incognito inspectors"
+            "tiger attack",
+            "william chapman",
+            "yorkshire wildlife"
         ]
     },
     {
@@ -872,6 +869,49 @@
         ]
     },
     {
+        "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+        "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+        "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+        "source": "BBC News",
+        "objectivity_score": 87,
+        "sentiment": "Neutral",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "steepest cuts",
+            "cuts equate",
+            "giant 's total workforce worldwide"
+        ]
+    },
+    {
+        "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+        "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+        "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "'s first-ever",
+            "state government",
+            "incognito inspectors"
+        ]
+    },
+    {
+        "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+        "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+        "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "military communications"
+        ]
+    },
+    {
         "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
         "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
         "summary": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
@@ -884,36 +924,6 @@
             "police battle",
             "vehicle thieves",
             "sophisticated criminals"
-        ]
-    },
-    {
-        "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-        "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-        "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Negative",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "hospitality dinners",
-            "man city chairman",
-            "prime minister"
-        ]
-    },
-    {
-        "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-        "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-        "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "civil servant",
-            "court hears",
-            "kashim chowdhury"
         ]
     },
     {
@@ -932,31 +942,18 @@
         ]
     },
     {
-        "title": "Pope's cancer diagnosis leaves Catholics questioning what comes next",
-        "link": "https://www.bbc.co.uk/news/articles/c678p0ld7z8lo?at_medium=RSS&at_campaign=rss",
-        "summary": "With few details so far, it is unclear what might need to change for a Pope who has been focused on stability.",
+        "title": "What if you could turn off your algorithm? Australia is about to try",
+        "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+        "summary": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
         "source": "BBC News",
-        "objectivity_score": 36,
+        "objectivity_score": 27,
         "sentiment": "Neutral",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "'s cancer diagnosis leaves"
-        ]
-    },
-    {
-        "title": "Why the lonely in China are hiring 'temporary children'",
-        "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-        "summary": "A new industry being dubbed the loneliness economy has emerged in China, with people hiring themselves out as companions to help the elderly.",
-        "source": "BBC News",
-        "objectivity_score": 57,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "'temporary children",
-            "new industry",
-            "loneliness economy"
+            "new legislation",
+            "'s parliament",
+            "big tech"
         ]
     },
     {
@@ -975,6 +972,19 @@
         ]
     },
     {
+        "title": "Pope's cancer diagnosis leaves Catholics questioning what comes next",
+        "link": "https://www.bbc.co.uk/news/articles/c678p0ld7z8lo?at_medium=RSS&at_campaign=rss",
+        "summary": "With few details so far, it is unclear what might need to change for a Pope who has been focused on stability.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "'s cancer diagnosis leaves"
+        ]
+    },
+    {
         "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
         "link": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
         "summary": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
@@ -987,35 +997,6 @@
             "wildlife photographer",
             "urban coyote",
             "dead calf"
-        ]
-    },
-    {
-        "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-        "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-        "summary": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
-        "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "faisal islam",
-            "surprise praise",
-            "annual levels"
-        ]
-    },
-    {
-        "title": "More tea? How Scotland's crops of the future could be set to change",
-        "link": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
-        "source": "BBC News",
-        "objectivity_score": 31,
-        "sentiment": "Positive",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "'s crops",
-            "'s farmers"
         ]
     },
     {
@@ -1060,7 +1041,66 @@
         ]
     },
     {
-        "title": "Kenya confirms second Ebola case as relative of country's first victim",
+        "title": "Swimmer Archie Goodburn thanks prime minister as brain cancer review announced",
+        "link": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Scottish athlete, who has inoperable brain tumours, previously made a tearful plea for more investment in brain cancer research on BBC Breakfast.",
+        "source": "BBC News",
+        "objectivity_score": 28,
+        "sentiment": "Positive",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "swimmer archie goodburn",
+            "prime minister",
+            "brain cancer review"
+        ]
+    },
+    {
+        "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+        "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "civil servant",
+            "court hears",
+            "kashim chowdhury"
+        ]
+    },
+    {
+        "title": "Burnham rules out coalition with Greens after 'Zionism is racism' motion",
+        "link": "https://www.bbc.co.uk/news/articles/cr3el59j9y17o?at_medium=RSS&at_campaign=rss",
+        "summary": "Andy Burnham condemns the motion approved by Green Party members and says his party would \"have nothing to do with it\".",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Negative",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "andy burnham",
+            "green party members"
+        ]
+    },
+    {
+        "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+        "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+        "source": "BBC News",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "hospitality dinners",
+            "man city chairman",
+            "prime minister"
+        ]
+    },
+    {
+        "title": "Kenya confirms second Ebola case - a relative of the first victim",
         "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
         "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
         "source": "BBC News",
@@ -1069,67 +1109,7 @@
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "country 's",
             "dr congo"
-        ]
-    },
-    {
-        "title": "Davina McCall says memory loss after brain surgery was like 'advanced Alzheimer's'",
-        "link": "https://www.bbc.co.uk/news/articles/cky93v98x7jjo?at_medium=RSS&at_campaign=rss",
-        "summary": "The TV presenter says she suffered memory loss following her operation to remove a benign tumour.",
-        "source": "BBC News",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "davina mccall",
-            "memory loss",
-            "brain surgery"
-        ]
-    },
-    {
-        "title": "Footballer Semenyo 'froze' after alleged racist abuse, court told",
-        "link": "https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o?at_medium=RSS&at_campaign=rss",
-        "summary": "A Liverpool fan denies racially aggravated behaviour during a match against Bournemouth in 2025.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "footballer semenyo",
-            "racist abuse",
-            "fan denies"
-        ]
-    },
-    {
-        "title": "Driving test waits fall to two-year low - but still average 20 weeks",
-        "link": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
-        "summary": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
-        "source": "BBC News",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "test waits fall",
-            "practical test"
-        ]
-    },
-    {
-        "title": "Wayfair among firms fined millions for misleading sales tactics",
-        "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-        "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym 6m in total.",
-        "source": "BBC News",
-        "objectivity_score": 57,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "sales tactics",
-            "appliances direct",
-            "gold 's"
         ]
     },
     {
@@ -1162,93 +1142,33 @@
         ]
     },
     {
-        "title": "Wilcox the target again in another damaging Man Utd fallout",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
+        "title": "On night of mayhem for Liverpool, Barcola arrives in style",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK. The French forward's Champions League hat-trick was the perfect answer.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "lisandro martinez",
-            "explosive comments",
-            "league defeat"
-        ]
-    },
-    {
-        "title": "Fifa to offer extra \u00a32.6bn for football development",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.",
-        "source": "BBC News",
-        "objectivity_score": 10,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "extra \u00a32.6bn",
-            "football development",
-            "$ 3.4bn increase"
-        ]
-    },
-    {
-        "title": "Struijk red card shown after VAR intervention is overturned",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-        "source": "BBC News",
-        "objectivity_score": 31,
+        "objectivity_score": 44,
         "sentiment": "Positive",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "red card",
-            "red card",
-            "pascal struijk"
+            "bradley barcola",
+            "'s form",
+            "pre-match questions"
         ]
     },
     {
-        "title": "Quiz: Do you remember the big names who took aim at football club chiefs?",
-        "link": "https://www.bbc.co.uk/sport/articles/cqvgr7530085o?at_medium=RSS&at_campaign=rss",
-        "summary": "As Lisandro Martinez launches a blistering attack on the Manchester United hierarchy, do you remember these famous past examples of well-known football figure calling out leadership figures?",
+        "title": "Barcola shines as Liverpool score six to beat LASK",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c68jzlwpk01zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League.",
         "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
+        "objectivity_score": 20,
+        "sentiment": "Positive",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "big names",
-            "football club chiefs",
-            "lisandro martinez"
-        ]
-    },
-    {
-        "title": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
-        "summary": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
-        "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "big scorelines",
-            "one-sided games",
-            "'s world cup play-offs"
-        ]
-    },
-    {
-        "title": "Star-studded Saudi exhibition postponed after deadly attacks",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c59vzgnj9p2wo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Six Kings Slam exhibition event - featuring Carlos Alcaraz and Novak Djokovic - is postponed following a series of deadly attacks on Saudi Arabia.",
-        "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Negative",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "star-studded saudi",
-            "exhibition event",
-            "carlos alcaraz"
+            "lask bradley barcola",
+            "league phase",
+            "season 's"
         ]
     },
     {
@@ -1267,7 +1187,7 @@
         ]
     },
     {
-        "title": "Ukraine\u2019s Vulnerability Grows as Starlink Is Restricted and Russia Escalates",
+        "title": "Ukraine\u2019s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
         "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
         "summary": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
         "source": "NYT > World News",
@@ -1276,7 +1196,7 @@
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "vulnerability grows",
+            "exposure grows",
             "russia escalates",
             "huge attack"
         ]
@@ -1284,7 +1204,7 @@
     {
         "title": "Turkey Raids Pro-Opposition TV Station",
         "link": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
-        "summary": "The government appointed an overseer to the last big news channel critical of President Recep Tayyip Erdogan. The authorities have now replaced leadership at five major news outlets.",
+        "summary": "The government appointed an overseer to the last big news channel critical of President Recep Tayyip Erdogan. The authorities have now replaced the leadership at five major news outlets.",
         "source": "NYT > World News",
         "objectivity_score": 36,
         "sentiment": "Neutral",
@@ -1342,18 +1262,18 @@
         ]
     },
     {
-        "title": "Zelensky Visits U.K. as Ukraine Presses Allies on Intelligence Sharing",
+        "title": "Burnham Pledges to Back Zelensky as Trump\u2019s Ukraine Support Wavers",
         "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html",
-        "summary": "President Volodymyr Zelensky said Ukraine had received no early warning from our partners about Russian attacks. President Trump has said Washington is still sharing intel.",
+        "summary": "President Volodymyr Zelensky, who met with Britains prime minister, has said Ukraine received no warning of Russian attacks, but President Trump has said Washington is still sharing intel.",
         "source": "NYT > World News",
-        "objectivity_score": 15,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "zelensky visits u.k.",
-            "ukraine presses",
-            "intelligence sharing"
+            "burnham pledges",
+            "ukraine support wavers",
+            "volodymyr zelensky"
         ]
     },
     {
@@ -1460,6 +1380,66 @@
         ]
     },
     {
+        "title": "Angry Youth in Aging Europe",
+        "link": "https://www.nytimes.com/2026/10/14/world/youth-aging-europe-pension-ukraine-starshield.html",
+        "summary": "A bitter generational battle over resources is boiling over as economic growth on the continent stalls.",
+        "source": "NYT > World News",
+        "objectivity_score": 56,
+        "sentiment": "Negative",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "aging europe",
+            "bitter generational battle",
+            "economic growth"
+        ]
+    },
+    {
+        "title": "Brazil\u2019s President Lula Accuses Meta of Helping His Right-Wing Opponent",
+        "link": "https://www.nytimes.com/2026/10/14/world/americas/brazil-president-lula-meta-bolsonaro.html",
+        "summary": "With a narrow presidential election looming, President Luiz Incio Lula da Silva and his allies claim Meta is trying to give his right-wing rival an advantage.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s president",
+            "lula accuses meta",
+            "right-wing opponent"
+        ]
+    },
+    {
+        "title": "Sally Rooney\u2019s Books Pulled in U.K. Over Her Support of Pro-Palestinian Group",
+        "link": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html",
+        "summary": "Ms. Rooney and her publisher said that she could no longer receive royalties from British sales because she pledged to donate book revenues to Palestine Action, which is banned in the U.K.",
+        "source": "NYT > World News",
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "sally rooney",
+            "\u2019 s books",
+            "ms. rooney"
+        ]
+    },
+    {
+        "title": "Why Trump Made a Diesel Deal With Putin",
+        "link": "https://www.nytimes.com/video/world/europe/100000011205967/00vid-rv-trump-putin-deal.html",
+        "summary": "Our national security and White House correspondent David E. Sanger breaks down why President Donald Trump struck a deal with President Vladimir V. Putin to import Russian diesel fuel in the coming mo...",
+        "source": "NYT > World News",
+        "objectivity_score": 13,
+        "sentiment": "Neutral",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "trump made",
+            "diesel deal",
+            "national security"
+        ]
+    },
+    {
         "title": "Russia Fires Ballistic Missile Barrage at Ukraine",
         "link": "https://www.nytimes.com/video/world/europe/100000011212931/ukraine-russia-war-missile-attack.html",
         "summary": "Russia launched dozens of ballistic missiles at Ukraine early Wednesday in one of the largest salvos of the war. Some 600,000 people were left without power in the capital, according to Ukraines presi...",
@@ -1475,18 +1455,18 @@
         ]
     },
     {
-        "title": "Pope Leo\u2019s Cancer Diagnosis: What Happens Next",
+        "title": "Pope Leo Is in \u2018Good Mood\u2019 After Cancer Surgery, Vatican Says: What to Know",
         "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
         "summary": "Pope Leo XIV was diagnosed with a common form of lung cancer. The Vatican said that he was walking and receiving therapy after an operation to remove a cancerous nodule.",
         "source": "NYT > World News",
-        "objectivity_score": 25,
-        "sentiment": "Negative",
+        "objectivity_score": 55,
+        "sentiment": "Positive",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
             "pope leo",
-            "\u2019 s cancer",
-            "pope leo xiv"
+            "vatican says",
+            "know pope leo xiv"
         ]
     },
     {
@@ -1550,63 +1530,18 @@
         ]
     },
     {
-        "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
-        "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
-        "summary": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russias exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
+        "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+        "link": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+        "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writersThe Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 22,
         "sentiment": "Neutral",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "urge trump",
-            "reverse diesel deal",
-            "bipartisan group"
-        ]
-    },
-    {
-        "title": "Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.",
-        "link": "https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html",
-        "summary": "Critical infrastructure has been targeted in a wave of cyberattacks, which experts say are rising because of artificial intelligence.",
-        "source": "NYT > World News",
-        "objectivity_score": 90,
-        "sentiment": "Negative",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "have swept japan",
-            "may be making them",
-            "artificial intelligence"
-        ]
-    },
-    {
-        "title": "Trump Squeezes Ukraine, Again",
-        "link": "https://www.nytimes.com/2026/10/13/world/trump-russia-ukraine-deal-pope-leo.html",
-        "summary": "The presidents proposed fuel deal with Russia and a one-sided cease-fire plan are putting Kyiv in a tough spot as winter approaches.",
-        "source": "NYT > World News",
-        "objectivity_score": 83,
-        "sentiment": "Negative",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "trump squeezes ukraine",
-            "one-sided cease-fire plan",
-            "tough spot"
-        ]
-    },
-    {
-        "title": "Kimberly Guilfoyle\u2019s Rise and Fall as Trump\u2019s Ambassador to Greece",
-        "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html",
-        "summary": "President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.",
-        "source": "NYT > World News",
-        "objectivity_score": 63,
-        "sentiment": "Positive",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "kimberly guilfoyle",
-            "\u2019 s ambassador",
-            "news reports"
+            "simbarashe kundizeza",
+            "atlantic claims",
+            "african writersthe"
         ]
     },
     {
@@ -1667,21 +1602,6 @@
             "northern gulf coast",
             "flash floods",
             "river floodingisaias"
-        ]
-    },
-    {
-        "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
-        "link": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-        "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim BrotherhoodEgyptian journalists are planning a new protest in Cairo this weekend after six coll...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 34,
-        "sentiment": "Negative",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "journalists plan weekend",
-            "staff allege torture",
-            "muslim brotherhoodegyptian"
         ]
     },
     {
@@ -1760,6 +1680,21 @@
         ]
     },
     {
+        "title": "UK\u2019s \u2018incoherent\u2019 approach to China plagued by lack of expertise, report says",
+        "link": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
+        "summary": "International alliance of China-sceptic legislators warns of risks inherent in misjudging bilateral relationshipThe UKs approach to China is beset by incoherence and plagued by a lack of senior expert...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 10,
+        "sentiment": "Negative",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s \u2018 incoherent \u2019 approach",
+            "international alliance",
+            "legislators warns"
+        ]
+    },
+    {
         "title": "Russia arrests Japanese journalist on allegations of spying",
         "link": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
         "summary": "FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russias defencesRussia has arrested a Japanese journalist on the far east island of S...",
@@ -1820,18 +1755,18 @@
         ]
     },
     {
-        "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
-        "link": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
-        "summary": "Oliver Blume says Made in Europe rules to counter rapid rise of lower-price Chinese brands must reward real value creationThe boss of Volkswagen has backed EU proposals to boost its domestic industry,...",
+        "title": "Australian politics live: Canavan denies he walked out on EU trade meeting; AEC warns about \u2018emerging\u2019 risk of AI in voting",
+        "link": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
+        "summary": "Follow the days news live.Get our breaking news email, free app or daily news podcastPrivate health insurance changes recalibrating precious taxpayer dollars, says WellsThe health minister, Mark Butle...",
         "source": "World news | The Guardian",
-        "objectivity_score": 15,
-        "sentiment": "Neutral",
+        "objectivity_score": 52,
+        "sentiment": "Positive",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "boss backs",
-            "domestic european industry",
-            "oliver blume"
+            "trade meeting",
+            "\u2019 risk",
+            "days news live.get"
         ]
     },
     {
@@ -1895,26 +1830,41 @@
         ]
     },
     {
-        "title": "Australian industry reliant on gas for \u2018foreseeable future\u2019, resources minister tells press club",
-        "link": "https://www.theguardian.com/australia-news/2026/oct/14/australia-reliant-on-gas-for-foreseeable-future-madeleine-king-press-club",
-        "summary": "Madeleine King says national gas reservation scheme, expected to come into effect from 2028, will reduce power pricesFollow our Australian politics live blog for latest updatesGet our new political em...",
+        "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
+        "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
+        "summary": "Throttling of mobile internet system will affect Kyivs air defences more than its strikes on oil refineries. Now Zelenskyy must be hoping that US intel holdsIn Ukraine the situation was already jitter...",
         "source": "World news | The Guardian",
-        "objectivity_score": 21,
+        "objectivity_score": 38,
         "sentiment": "Neutral",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "industry reliant",
-            "foreseeable future \u2019",
-            "resources minister"
+            "civilian casualties",
+            "death toll",
+            "mobile internet system"
+        ]
+    },
+    {
+        "title": "Student protests in Albania turn violent as demonstrators clash with police",
+        "link": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+        "summary": "Government building and two banks set on fire as tens of thousands take to streets over education costs and corruptionTens of thousands of students have taken to the streets of Tirana, the Albanian ca...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
+        "sentiment": "Negative",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "student protests",
+            "demonstrators clash",
+            "police government building"
         ]
     },
     {
         "title": "Ukrainian military\u2019s access to Starlink satellite internet suddenly restricted",
         "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
-        "summary": "Launch of Russian ballistic missiles on Ukraine, with no US warning, coincides with outage of Starlink managed by Musks SpaceXEurope live  latest updatesUkraines military has suddenly had its access t...",
+        "summary": "Launch of Russian ballistic missiles on Ukraine, with no US warning, coincides with outage of Starlink managed by Musks SpaceXUkraines military has suddenly had its access to Starlink satellite intern...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 31,
         "sentiment": "Neutral",
         "date": "2026-10-14",
         "image_url": null,
@@ -1942,7 +1892,7 @@
     {
         "title": "Mont Blanc, the \u2018roof of Europe\u2019, loses more than a metre of height in a year",
         "link": "https://www.theguardian.com/environment/2026/oct/14/mont-blanc-loses-metre-height",
-        "summary": "Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climateEuropes highest mountain shrank by more than a metre last year. The peak of Mont Blanc in Fran...",
+        "summary": "Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climateWestern Europes highest mountain shrank by more than a metre last year. The peak of Mont Blanc...",
         "source": "World news | The Guardian",
         "objectivity_score": 29,
         "sentiment": "Positive",
@@ -1955,48 +1905,33 @@
         ]
     },
     {
-        "title": "EU says \u2018no indication\u2019 intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power \u2013 as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
-        "summary": "European Commission declined to comment on reported disruption to Starlinks services in UkraineUkrainian soldiers have access to Starlink satellite internet restrictedRutte gets asked is Russia foolis...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "indication \u2019 intelligence",
-            "russian attacks",
-            "power \u2013"
-        ]
-    },
-    {
-        "title": "France\u2019s students are angry about more than crumbling classrooms and missing teachers",
-        "link": "https://www.theguardian.com/world/2026/oct/14/french-students-are-not-just-protesting-for-better-schools-but-for-their-future",
-        "summary": "Beneath a wave of school protests in France lies a more existential worry: the future prospects of an entire generation Dont get This Is Europe delivered to your inbox? Sign up hereSay what you will a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 39,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s students",
-            "school protests",
-            "future prospects"
-        ]
-    },
-    {
-        "title": "Container ship sinks near strait of Hormuz amid surge in Iranian attacks",
+        "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
         "link": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
-        "summary": "Second vessel also reportedly sinking as rise in strikes suggests Iran trying to close waterway before US electionsA container ship has sunk near the strait of Hormuz and a second cargo vessel was rep...",
+        "summary": "Vessels were hit by missiles as rise in strikes suggests Iran is trying to close waterway before US midterm electionsTwo container ships near the strait of Hormuz have sunk after being struck by missi...",
         "source": "World news | The Guardian",
-        "objectivity_score": 18,
+        "objectivity_score": 36,
         "sentiment": "Neutral",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "ship sinks",
+            "container ships",
             "strikes suggests",
-            "us electionsa container ship"
+            "us midterm electionstwo container ships"
+        ]
+    },
+    {
+        "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
+        "link": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
+        "summary": "Global human rights commitments adopted by government extend reach to enablers of unlawful activityThe UK is expanding its sanctions powers to freeze assets and target entities enabling illegal Israel...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 29,
+        "sentiment": "Neutral",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "sanctions powers",
+            "enable action",
+            "human rights commitments"
         ]
     },
     {
@@ -2045,18 +1980,18 @@
         ]
     },
     {
-        "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-        "link": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
-        "summary": "Energy minister says fear has no place in the Saudi lexicon as paramilitary group again breaches stretched defencesWhy are the Houthis attacking Saudi airports and how are the missiles getting through...",
+        "title": "India\u2019s cockroach protesters defy Modi\u2019s crackdown \u2013 The Latest",
+        "link": "https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest",
+        "summary": "A fresh wave of protests by Indias youth-led Cockroach movement has been met with a brutal crackdown by Narendra Modis government and the closure of a historic protest site in Delhi. Two of the moveme...",
         "source": "World news | The Guardian",
-        "objectivity_score": 26,
+        "objectivity_score": 48,
         "sentiment": "Neutral",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "saudi arabia",
-            "suspends flights",
-            "paramilitary group"
+            "\u2019 s cockroach protesters defy",
+            "\u2019 s crackdown \u2013",
+            "fresh wave"
         ]
     },
     {
@@ -2120,168 +2055,153 @@
         ]
     },
     {
-        "title": "Pakistan detains hundreds of politicians from Imran Khan\u2019s PTI party",
-        "link": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
-        "summary": "President Zardari suspends provincial government in escalation of tensions as Khan supporters march to IslamabadPoliticians from the party of the former Pakistani prime minister Imran Khan have been d...",
+        "title": "Reform UK councillors and candidates filmed making racist and extreme comments",
+        "link": "https://www.theguardian.com/politics/2026/oct/14/reform-uk-councillors-and-candidates-filmed-making-racist-and-extreme-comments",
+        "summary": "Party faces fresh crisis as three councillors quit after ITV undercover filming exposed violence, misogyny and racist viewsReform UK has been rocked by a fresh crisis after councillors and election ca...",
         "source": "World news | The Guardian",
-        "objectivity_score": 0,
+        "objectivity_score": 59,
         "sentiment": "Neutral",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "detains hundreds",
-            "imran khan",
-            "party president"
+            "reform uk",
+            "extreme comments party faces",
+            "fresh crisis"
         ]
     },
     {
-        "title": "Burnham tells Zelenskyy\u2019s UK\u2019s support for Ukraine \u2018will not change\u2019 \u2013 UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
-        "summary": "Burnham said Zelenskyy was prepared to sit down and discuss the energy ceasefire proposed by TrumpPMQs is about to start.Here is the list of MPs down to ask a question.After @genevieve_holl reported t...",
+        "title": "Volodymyr Zelenskyy feels \u2018betrayed\u2019 by Donald Trump over Starlink access",
+        "link": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access",
+        "summary": "Ukrainian president accused US president of picking the other side over four years of warVolodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraines milita...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 32,
+        "sentiment": "Neutral",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "volodymyr zelenskyy",
+            "donald trump",
+            "us president"
+        ]
+    },
+    {
+        "title": "OpenAI\u2019s London staff receive average of \u00a32.3m per person annually",
+        "link": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
+        "summary": "Accounts for the Westminster-based company behind ChatGPT show that 110 staff shared 87m in salaries and 168m in shares last yearOpenAIs London staff each received 2,318,181 on average last year, as t...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "premier league football salaries",
+            "openai uk ltd",
+            "cross area"
+        ]
+    },
+    {
+        "title": "Russell Brand was ruthless, calculated and manipulative sexual predator, court told",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/14/russell-brand-was-ruthless-calculated-and-manipulative-sexual-predator-court-told",
+        "summary": "Comedian faces three charges of rape, three of sexual assault and one of indecent assault against six womenRussell Brand was a ruthless, calculated and manipulative sexual predator who boasted about w...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 90,
+        "sentiment": "Neutral",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "russell brand",
+            "manipulative sexual predator",
+            "comedian faces"
+        ]
+    },
+    {
+        "title": "The Archers cast \u2018angry\u2019 at BBC decision to scrap new Birmingham studio",
+        "link": "https://www.theguardian.com/media/2026/oct/14/the-archers-cast-radio-bbc-decision-new-studio-birmingham",
+        "summary": "Ben Norris says cost-cutting measure that means show will be recorded outside its home city risks extraordinary burden for crewA cast member of The Archers has said its actors have been angered by the...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 63,
+        "sentiment": "Neutral",
+        "date": "2026-10-14",
+        "image_url": null,
+        "keywords": [
+            "cast \u2018",
+            "angry \u2019",
+            "ben norris"
+        ]
+    },
+    {
+        "title": "Trump tries to rally support for Republican candidates as top Super Pac for Senate Democrats pours millions into key races \u2013 live",
+        "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+        "summary": "Trump will rally in Arizona and Montana this afternoon; The Senate Majority Pac puts millions of dollars toward competitive races in Michigan and Maine Sign up for the Breaking News US emailDonald Tru...",
         "source": "World news | The Guardian",
         "objectivity_score": 53,
-        "sentiment": "Negative",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s support",
-            "energy ceasefire",
-            "question.after @ genevieve_holl"
-        ]
-    },
-    {
-        "title": "UK\u2019s \u2018incoherent\u2019 approach to China plagued by a lack of expertise, report says",
-        "link": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
-        "summary": "International grouping of China-sceptic legislators warns of risks inherent in misjudging bilateral relationshipThe UKs approach to China is beset by incoherence and plagued by a lack of senior expert...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 10,
-        "sentiment": "Negative",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s \u2018 incoherent \u2019 approach",
-            "legislators warns",
-            "bilateral relationshipthe"
-        ]
-    },
-    {
-        "title": "Sally Rooney says she can no longer sell books in UK due to Palestine Action support",
-        "link": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
-        "summary": "Irish writer of Normal People says she can no longer receive royalties from British sales and she cancelled UK trip due to fear of arrestSally Rooney has said she is being forced to withdraw her books...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 24,
         "sentiment": "Neutral",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "sally rooney",
-            "action support",
-            "irish writer"
+            "rally support",
+            "pours millions",
+            "majority pac"
         ]
     },
     {
-        "title": "Palantir and Sadiq Khan drop legal battle over Met contract",
-        "link": "https://www.theguardian.com/technology/2026/oct/14/palantir-and-sadiq-khan-drop-legal-battle-over-met-contract",
-        "summary": "Dispute related to claims London mayor blocked US tech firm from 50m police deal because of concerns over its valuesPalantir and the London mayor, Sadiq Khan, have called off their legal fight over cl...",
+        "title": "Ex-fiance of Nancy Mace and two others charged with sex crimes she detailed in House speech",
+        "link": "https://www.theguardian.com/us-news/2026/oct/14/ex-fiance-nancy-mace-sex-crimes-speech",
+        "summary": "Republican representative described the assault in a nearly hourlong speech in February 2025 that named the menNancy Maces former fiance and two of his business associates were charged with sex crimes...",
         "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "sadiq khan",
-            "legal battle",
-            "us tech firm"
-        ]
-    },
-    {
-        "title": "Done family took \u00a330m dividend from Betfred before warning of job cuts",
-        "link": "https://www.theguardian.com/society/2026/oct/14/done-family-dividend-betfred-job-cuts",
-        "summary": "Money was withdrawn from gambling firm before founder warned chancellor against doubling machine games dutyThe billionaire Done family took a 30m dividend from their Betfred gambling empire, before wa...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 15,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "\u00a330m dividend",
-            "job cuts money",
-            "machine games dutythe billionaire"
-        ]
-    },
-    {
-        "title": "Cornell president acknowledges he knew about fraternity sexual assault but didn\u2019t follow up",
-        "link": "https://www.theguardian.com/us-news/2026/oct/14/cornell-president-fraternity-sexual-assault-interview",
-        "summary": "Michael Kotlikoff addressed his administrations handling of the 2024 allegations as the faces calls for his resignationMichael Kotlikoff, the president of Cornell University, spoke to the New York Tim...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 30,
         "sentiment": "Positive",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "president acknowledges",
-            "fraternity sexual assault",
-            "didn \u2019 t"
+            "nancy mace",
+            "sex crimes",
+            "house speech"
         ]
     },
     {
-        "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska \u2013 US politics live",
-        "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
-        "summary": "Trump has taken to campaigning in conservative-leaning parts of competitive states, rather than in more politically diverse areasSign up for the Breaking News US emailDonald Trump has yet to weigh in ...",
+        "title": "Israel blocks construction of key Gaza base created by Trump peace board",
+        "link": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
+        "summary": "Exclusive: Israel has not permitted US-led project to house 150 international troops to move forwardIsrael is refusing to allow a key military outpost project for Donald Trumps Board of Peace to proce...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 31,
         "sentiment": "Neutral",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "campaign stop-off",
-            "\u2013 us politics",
-            "competitive states"
+            "blocks construction",
+            "peace board",
+            "international troops"
         ]
     },
     {
-        "title": "Trump administration promises social security recipients 3.6% increase in 2027",
-        "link": "https://www.theguardian.com/us-news/2026/oct/14/social-security-increase-cost-of-living",
-        "summary": "Seniors have spent years watching their expenses outpacing their benefits advocate saysSocial security recipients will see a 3.6% cost-of-living adjustment (Cola) in 2027, increasing retirement benefi...",
+        "title": "SpaceX rocket launch causes stunning \u2018jellyfish cloud\u2019 visible off US east coast",
+        "link": "https://www.theguardian.com/us-news/2026/oct/14/jellyfish-cloud-spacex-rocket-launch",
+        "summary": "Expanding plume of fuel exhaust crystalized in the sky and reflected sunlight off frozen particles after Florida launchA SpaceX rocket provided a stunning pre-dawn display over Florida as a egiant, lu...",
         "source": "World news | The Guardian",
-        "objectivity_score": 23,
-        "sentiment": "Neutral",
-        "date": "2026-10-14",
-        "image_url": null,
-        "keywords": [
-            "social security recipients",
-            "% increase",
-            "benefits advocate sayssocial security recipients"
-        ]
-    },
-    {
-        "title": "US inflation rose to 3.7% in September in blow to Republicans before midterms",
-        "link": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
-        "summary": "Final inflation report before voters go to polls comes amid widespread anger over cost of living under TrumpSend us your questions on how the US economy is shaping the midterm electionsRepublicans are...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 80,
+        "objectivity_score": 57,
         "sentiment": "Positive",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "us inflation",
-            "inflation report",
-            "widespread anger"
+            "rocket launch causes",
+            "\u2018 jellyfish cloud \u2019",
+            "fuel exhaust"
         ]
     },
     {
-        "title": "New York City moves to ban horse-drawn carriages",
-        "link": "https://www.theguardian.com/us-news/2026/oct/14/new-york-city-horse-drawn-carriages-ban",
-        "summary": "Mamdani and city council leader agree on ban that would make it illegal to operate horse-drawn carriages in the cityMayor Zohran Mamdani and the leader of the New York City council have agreed to ban ...",
+        "title": "Southern California beach closes after sighting of great white shark \u2018exhibiting aggressive behavior\u2019",
+        "link": "https://www.theguardian.com/us-news/2026/oct/14/great-white-shark-huntington-beach",
+        "summary": "Two-mile stretch of Huntington Beach closed after sighting at location popular with surfers and swimmersA popular southern California beach was closed after a great white shark was reportedly spotted ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
+        "objectivity_score": 38,
+        "sentiment": "Positive",
         "date": "2026-10-14",
         "image_url": null,
         "keywords": [
-            "city moves",
-            "ban horse-drawn carriages",
-            "city council leader"
+            "beach closes",
+            "great white shark \u2018",
+            "aggressive behavior \u2019"
         ]
     }
 ]
