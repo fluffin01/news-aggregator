@@ -737,21 +737,6 @@
         ]
     },
     {
-        "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-        "link": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
-        "summary": "The BBC is on the ground at the Place de la Rpublique, where protesters and police clash after weeks of students demonstrations.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Positive",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "protesters clash",
-            "police clash",
-            "students demonstrations"
-        ]
-    },
-    {
         "title": "More NHS staff sacked over attacks victims' records",
         "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
         "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
@@ -764,6 +749,21 @@
             "attacks victims",
             "hospitals nhs",
             "new system"
+        ]
+    },
+    {
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "source": "BBC News",
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "european diplomats",
+            "west bank",
+            "military condemns"
         ]
     },
     {
@@ -782,6 +782,21 @@
         ]
     },
     {
+        "title": "Swinney's emotional explanation for his commitment to independence",
+        "link": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
+        "source": "BBC News",
+        "objectivity_score": 37,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "'s emotional explanation",
+            "bbc scotland",
+            "political editor"
+        ]
+    },
+    {
         "title": "Pope discharged from hospital days after lung cancer surgery",
         "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
         "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
@@ -797,16 +812,33 @@
         ]
     },
     {
-        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-        "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
+        "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
         "source": "BBC News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
+        "objectivity_score": 47,
+        "sentiment": "Positive",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "social media users"
+            "'precautionary tests",
+            "goalkeeper emiliano martinez",
+            "clean sheet"
+        ]
+    },
+    {
+        "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
+        "link": "https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&at_campaign=rss",
+        "summary": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.",
+        "source": "BBC News",
+        "objectivity_score": 73,
+        "sentiment": "Positive",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "freaky nikki",
+            "dolly parton",
+            "whimsical costumes"
         ]
     },
     {
@@ -823,18 +855,16 @@
         ]
     },
     {
-        "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
-        "link": "https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&at_campaign=rss",
-        "summary": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.",
+        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+        "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
         "source": "BBC News",
-        "objectivity_score": 73,
-        "sentiment": "Positive",
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "freaky nikki",
-            "dolly parton",
-            "whimsical costumes"
+            "social media users"
         ]
     },
     {
@@ -955,18 +985,16 @@
         ]
     },
     {
-        "title": "Recovery driver sentenced after runaway car crush",
-        "link": "https://www.bbc.co.uk/news/articles/c9ly08pm8jz7o?at_medium=RSS&at_campaign=rss",
-        "summary": "CCTV footage captured the vehicle rolling down the road, dragging driver Sean Baker along.",
+        "title": "Alligator kills 71-year-old man fishing in Florida",
+        "link": "https://www.bbc.co.uk/news/articles/c84g1d1xd029o?at_medium=RSS&at_campaign=rss",
+        "summary": "The 3.7m (12ft) alligator reportedly dragged the man into the water where he was fishing near Orlando.",
         "source": "BBC News",
-        "objectivity_score": 28,
-        "sentiment": "Negative",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "recovery driver",
-            "runaway car crush",
-            "sean baker"
+            "kills 71-year-old man"
         ]
     },
     {
@@ -1065,18 +1093,137 @@
         ]
     },
     {
-        "title": "McDermott seeks fix as England fight to save their World Cup",
-        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/crwyqgjg5y8wo?at_medium=RSS&at_campaign=rss",
-        "summary": "Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?",
+        "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+        "source": "BBC News",
+        "objectivity_score": 47,
+        "sentiment": "Positive",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "'precautionary tests",
+            "goalkeeper emiliano martinez",
+            "clean sheet"
+        ]
+    },
+    {
+        "title": "Boos and bananas on day of defiance at Man City",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+        "source": "BBC News",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "man city",
+            "city fans boo",
+            "premier league anthem"
+        ]
+    },
+    {
+        "title": "Liverpool come from behind to beat nine-man Brentford",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
+        "summary": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and  Vitaly Janelt.",
+        "source": "BBC News",
+        "objectivity_score": 46,
+        "sentiment": "Negative",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "brentford liverpool",
+            "community stadium",
+            "hosts finish"
+        ]
+    },
+    {
+        "title": "Haaland nets double as Man City go six points clear at the top",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "nets double",
+            "man city",
+            "premier league"
+        ]
+    },
+    {
+        "title": "Manzambi heads Villa to victory at Newcastle",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+        "summary": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "newcastle johan manzambi",
+            "aston villa",
+            "unai emery"
+        ]
+    },
+    {
+        "title": "Neto scores twice as Chelsea win at Everton",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
+        "summary": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
         "source": "BBC News",
         "objectivity_score": 60,
         "sentiment": "Negative",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "world cup",
-            "brian mcdermott",
-            "league world cup defeat"
+            "everton pedro neto",
+            "nasty head injury",
+            "emiliano martinez"
+        ]
+    },
+    {
+        "title": "Iwobi delivers Fulham's first win of season",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "alex iwobi",
+            "premier league"
+        ]
+    },
+    {
+        "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+        "link": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+        "summary": "Extremists assaulted residents and broke a European diplomatic vehicles window, witnesses said, as settler violence surges in the territory during the olive harvest.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "israeli settlers attack palestinians",
+            "european officials",
+            "west bank"
+        ]
+    },
+    {
+        "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+        "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+        "summary": "Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions.",
+        "source": "NYT > World News",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "unrest mars",
+            "movement turns",
+            "french cities"
         ]
     },
     {
@@ -1095,6 +1242,66 @@
         ]
     },
     {
+        "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
+        "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+        "summary": "Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "pope leo leaves",
+            "surgery leo xiv",
+            "lung cancer"
+        ]
+    },
+    {
+        "title": "What to Know About the Violent Protests in Albania",
+        "link": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+        "summary": "Student demonstrations over education converged with broader protests against rising living costs and a luxury development linked to Jared Kushner, President Trumps son-in-law.",
+        "source": "NYT > World News",
+        "objectivity_score": 100,
+        "sentiment": "Negative",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "violent protests",
+            "student demonstrations",
+            "broader protests"
+        ]
+    },
+    {
+        "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
+        "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
+        "summary": "New clashes were reported as the Houthis put more pressure on Taiz, a city connecting the government-held south of the country and the Red Sea.",
+        "source": "NYT > World News",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "yemen fighting rages",
+            "new clashes",
+            "red sea"
+        ]
+    },
+    {
+        "title": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
+        "link": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
+        "summary": "Abhijeet Dipke, the founder of the Cockroach Janta Party, was detained on his way to a protest called to demand the resignation of Indias top election official.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Positive",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "gen z protest",
+            "arrest abhijeet dipke",
+            "cockroach janta"
+        ]
+    },
+    {
         "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France\u2019s Youth Protests",
         "link": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
         "summary": "Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation.",
@@ -1110,18 +1317,33 @@
         ]
     },
     {
-        "title": "\u2018I Am Much Better, Thank You\u2019: Pope Leo Leaves Hospital, Days After Lung Surgery",
-        "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
-        "summary": "Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.",
+        "title": "Egypt\u2019s President Says He Will Leave Office in 2030",
+        "link": "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html",
+        "summary": "President Abdel Fattah el-Sisi, who has so far ruled for over a dozen years, pledged to respect constitutional limits while also seeking parliamentary approval to help defend Saudi Arabia.",
         "source": "NYT > World News",
-        "objectivity_score": 50,
+        "objectivity_score": 100,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s president",
+            "abdel fattah",
+            "dozen years"
+        ]
+    },
+    {
+        "title": "Trump Signs Order Waiving New Russia Sanctions",
+        "link": "https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html",
+        "summary": "The sanctions were part of a measure that was named after Senator Lindsey Graham, the South Carolina Republican who died in July.",
+        "source": "NYT > World News",
+        "objectivity_score": 45,
         "sentiment": "Positive",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "pope leo leaves",
-            "lung surgery leo xiv",
-            "lung cancer"
+            "trump signs",
+            "russia sanctions",
+            "lindsey graham"
         ]
     },
     {
@@ -1183,123 +1405,74 @@
         ]
     },
     {
-        "title": "The Arab Kingmaker in Israel\u2019s Election Who Wants a Partnership With Jews",
-        "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
-        "summary": "Mansour Abbas, a dentist-turned-lawmaker, helped oust Benjamin Netanyahu once before. Now, he and a Jewish ex-police commander have teamed up to try to do it again.",
-        "source": "NYT > World News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "arab kingmaker",
-            "\u2019 s election",
-            "who wants"
-        ]
-    },
-    {
-        "title": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
-        "link": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
-        "summary": "Where the two presidents war of words will end is anybodys guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Neutral",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "rupturing trump-zelensky relationship stands",
-            "presidents war",
-            "anybodys guess"
-        ]
-    },
-    {
-        "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
-        "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
-        "summary": "In the latest surge of violence, settlers targeted Palestinians during the olive harvest, a cultural touchstone and economic lifeline in the Israeli-occupied area.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "israeli settlers attack palestinians",
-            "washington post journalist",
-            "west bank"
-        ]
-    },
-    {
-        "title": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
-        "link": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
-        "summary": "Recovering from lung cancer surgery, Pope Leo XIV spoke with Vladimir V. Putin to make a plea for Oleshky, where mines and drones have trapped some 2,000 people who are at risk of starvation.",
+        "title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
+        "link": "https://www.nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html",
+        "summary": "The men were charged in the murders of two Australians and an American who were on a camping and surf vacation in Mexico.",
         "source": "NYT > World News",
         "objectivity_score": 0,
-        "sentiment": "Negative",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "siege recovering",
-            "lung cancer surgery",
-            "pope leo xiv"
-        ]
-    },
-    {
-        "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
-        "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
-        "summary": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region.",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Negative",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "roof collapse",
-            "pakistan raises",
-            "roof collapse"
-        ]
-    },
-    {
-        "title": "Houthi Attacks on Saudi Arabia Put In Doubt Kingdom\u2019s Sports and Business Events",
-        "link": "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
-        "summary": "The Iran-backed groups attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile.",
-        "source": "NYT > World News",
-        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "saudi arabia",
-            "doubt kingdom",
-            "groups attacks"
+            "mexican judge",
+            "surfer killings",
+            "surf vacation"
         ]
     },
     {
-        "title": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
-        "link": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
-        "summary": "Crime plunged after police raids killed thousands. Venezuela is now withdrawing from the International Criminal Court as it investigates this blood-soaked campaign.",
+        "title": "Kenya Confirms Four New Ebola Cases",
+        "link": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
+        "summary": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus.",
         "source": "NYT > World News",
-        "objectivity_score": 24,
-        "sentiment": "Neutral",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "eerily safe",
-            "venezuela killed",
-            "thousands crime"
-        ]
-    },
-    {
-        "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
-        "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
-        "summary": "New clashes were reported as the Houthis put more pressure on Taiz, a strategically located city connecting the government-held south of the country and the Red Sea.",
-        "source": "NYT > World News",
-        "objectivity_score": 31,
+        "objectivity_score": 61,
         "sentiment": "Positive",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "yemen fighting rages",
-            "new clashes",
-            "red sea"
+            "kenya confirms",
+            "ebola cases"
+        ]
+    },
+    {
+        "title": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
+        "link": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
+        "summary": "The Trump administration is pitching the idea as part of a peace deal with Ukraine, but Europe is wary and critics say Russia would be strengthened.",
+        "source": "NYT > World News",
+        "objectivity_score": 60,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "floats lifeline"
+        ]
+    },
+    {
+        "title": "Dispute Between Trump Allies Centers on Payment From Congo",
+        "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
+        "summary": "The White House inquiry is focused on diverging accounts from Richard Grenell and Alina Habba Mildon about a $17 million transfer from a government account in the African country to a Texas defense fi...",
+        "source": "NYT > World News",
+        "objectivity_score": 13,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "white house inquiry",
+            "richard grenell",
+            "alina habba mildon"
+        ]
+    },
+    {
+        "title": "Pope Discharged From Hospital After Lung Surgery",
+        "link": "https://www.nytimes.com/video/world/europe/100000011220460/pope-leo-discharged-hospital.html",
+        "summary": "Pope Leo XIV was discharged on Saturday from a hospital in Rome after surgery, roughly three days earlier than the Vatican had initially suggested he would leave.",
+        "source": "NYT > World News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "pope discharged",
+            "lung surgery pope leo xiv"
         ]
     },
     {
@@ -1375,66 +1548,6 @@
             "world \u2019 s",
             "oldest shipwreck",
             "black residue"
-        ]
-    },
-    {
-        "title": "Zelensky\u2019s Silent Answer To Trump Scapegoat Question",
-        "link": "https://www.nytimes.com/video/world/europe/100000011218459/zelensky-trump-scapegoat-question.html",
-        "summary": "Ukraines President, Volodymyr Zelensky, was asked on Friday if President Trump was using him as a scapegoat for various domestic and foreign issues Trump faces. He answered with a silent smile.",
-        "source": "NYT > World News",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "trump scapegoat",
-            "volodymyr zelensky",
-            "foreign issues"
-        ]
-    },
-    {
-        "title": "Israeli Settlers Attack Palestinians and Washington Post Photographer",
-        "link": "https://www.nytimes.com/video/world/middleeast/100000011218215/settlers-attack-journalist-west-bank-israel.html",
-        "summary": "Masked Israeli settlers attacked Palestinians and beat the American journalist Heidi Levine as they stormed an olive grove during the annual harvest in the Israeli-occupied West Bank",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "israeli settlers attack palestinians",
-            "washington post photographer masked israeli",
-            "american journalist"
-        ]
-    },
-    {
-        "title": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
-        "link": "https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html",
-        "summary": "The agency said a major rescue operation was underway near the coast of Baja California after it received reports of 27 people in the water.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "pacific ocean",
-            "off mexico",
-            "coast guard"
-        ]
-    },
-    {
-        "title": "Japan Mistakenly Issues Warning for Strongest Ever Earthquake",
-        "link": "https://www.nytimes.com/2026/10/16/world/asia/japan-earthquake-warning-false-alarm.html",
-        "summary": "Officials on Friday withdrew an alert sent when they believed a 9.9-magnitude earthquake had taken place. In the end, the tremor was hardly felt.",
-        "source": "NYT > World News",
-        "objectivity_score": 54,
-        "sentiment": "Negative",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "japan mistakenly issues warning",
-            "strongest ever earthquake",
-            "9.9-magnitude earthquake"
         ]
     },
     {
@@ -1663,6 +1776,36 @@
         ]
     },
     {
+        "title": "Plover, not a fighter: masked lapwing nesting on Tasmanian cricket ground indifferent as play continues",
+        "link": "https://www.theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues",
+        "summary": "While masked lapwings have a reputation for swooping during nesting season, Windsor Park ovals resident plover just wants a good inningsAt Windsor Park in Riverside, just outside Launceston in norther...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 18,
+        "sentiment": "Positive",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "cricket ground indifferent",
+            "park ovals resident plover",
+            "good inningsat"
+        ]
+    },
+    {
+        "title": "Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation",
+        "link": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone",
+        "summary": "Exclusive: Research confirms official advice about high-risk properties and warns worsening conditions will make more homes unsafeSign up for climate and environment editor Adam Mortons free Clear Air...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
+        "sentiment": "Positive",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "black summer bushfires",
+            "flammable vegetation",
+            "research confirms"
+        ]
+    },
+    {
         "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
         "link": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
         "summary": "Former minister and OECD head urges Australia not to adopt migration caps, with research showing migrants boost employmentGet our breaking news email, free app or daily news podcastAustralias mainstre...",
@@ -1708,33 +1851,33 @@
         ]
     },
     {
-        "title": "Greens leader denies knowledge of \u2018secret dossier\u2019 on how to handle Jordon Steele-John misconduct allegations",
-        "link": "https://www.theguardian.com/australia-news/2026/oct/16/david-shoebridge-denies-secret-dossier-jordon-steel-john-misconduct-allegations-ntwnfb",
-        "summary": "David Shoebridge says 47-page document not made by, used by, or seen by his office as matter referred to parliamentary standards commissionGet our new political email, free app or daily news podcastGr...",
+        "title": "More than 400 arrested as police clash with protesters across France",
+        "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+        "summary": "Police fire teargas in Paris and protesters storm town hall in Marseille  with officials blaming violence on ultra-leftMore than 400 people were arrested in France on Saturday after protesters support...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
+        "objectivity_score": 46,
         "sentiment": "Neutral",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "leader denies knowledge",
-            "secret dossier \u2019",
-            "jordon steele-john"
+            "police clash",
+            "fire teargas",
+            "protesters storm town hall"
         ]
     },
     {
-        "title": "Elizabeth Struhs\u2019 child protection case not \u2018prioritised\u2019 due to high workload, inquest hears",
-        "link": "https://www.theguardian.com/australia-news/2026/oct/16/elizabeth-struhs-child-protection-case-not-prioritised-because-of-high-workloads-inquest-hears-ntwnfb",
-        "summary": "Eight-year-old Queensland girl died in 2022 after being denied insulin by her religious parentsGet our breaking news email, free app or daily news podcastElizabeth Struhs child protection case was not...",
+        "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
+        "link": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
+        "summary": "French government launches investigation into why cars funded by UK to prevent asylum seekers crossing Channel were used in school protestsFrench police have used 4x4 vehicles paid for by British taxp...",
         "source": "World news | The Guardian",
-        "objectivity_score": 35,
-        "sentiment": "Positive",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "elizabeth struhs",
-            "\u2019 child protection case",
-            "high workload"
+            "french police",
+            "charge student protesters",
+            "french government launches investigation"
         ]
     },
     {
@@ -1783,33 +1926,33 @@
         ]
     },
     {
-        "title": "Bank of England governor walks out of IMF summit in protest against Russia",
-        "link": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
-        "summary": "Andrew Bailey among finance leaders to leave session in Bangkok when Russian finance minister addressed groupThe Bank of England governor, Andrew Bailey, has taken part in a walkout of finance leaders...",
+        "title": "Israeli settlers attack European diplomats in West Bank",
+        "link": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+        "summary": "French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of...",
         "source": "World news | The Guardian",
-        "objectivity_score": 0,
+        "objectivity_score": 36,
         "sentiment": "Neutral",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "russia andrew bailey",
-            "groupthe bank",
-            "andrew bailey"
+            "settlers attack",
+            "european diplomats",
+            "west bank"
         ]
     },
     {
-        "title": "Briton threatened with deportation from Sweden over Brexit rules goes into hiding",
-        "link": "https://www.theguardian.com/uk-news/2026/oct/17/we-are-in-hiding-briton-severe-health-issues-fears-deportation-sweden",
-        "summary": "Mark Smith, who has severe health issues, says he was told three times he needed to do nothing in order to remain after BrexitA seriously ill British man living in Sweden has been forced into hiding a...",
+        "title": "Masked settlers attack European diplomats in occupied West Bank",
+        "link": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
+        "summary": "Belgian foreign minister urges further EU sanctions and links attack to Israels illegal settlement policyMasked settlers attacked a group of European diplomats during a visit to the occupied West Bank...",
         "source": "World news | The Guardian",
-        "objectivity_score": 58,
-        "sentiment": "Negative",
+        "objectivity_score": 33,
+        "sentiment": "Neutral",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "mark smith",
-            "severe health issues",
-            "british man"
+            "settlers attack",
+            "european diplomats",
+            "west bank"
         ]
     },
     {
@@ -1855,36 +1998,6 @@
             "settlers attack olive farmers",
             "washington post",
             "west bank"
-        ]
-    },
-    {
-        "title": "\u2018Tough to watch, impossible to ignore\u2019: reviewers on NAZA documentary",
-        "link": "https://www.theguardian.com/film/2026/oct/16/tough-to-watch-impossible-to-ignore-what-the-reviewers-say-about-naza-documentary",
-        "summary": "Film interviewing military insiders about mass killing of civilians in Gaza wins widespread praise around the worldCritics around the world have hailed the award-winning documentary NAZA as a brillian...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Neutral",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "ignore \u2019",
-            "military insiders",
-            "widespread praise"
-        ]
-    },
-    {
-        "title": "Saudi Arabia to execute man for being at protests and funerals when he was 15",
-        "link": "https://www.theguardian.com/global-development/2026/oct/16/saudi-arabia-to-execute-man-for-being-at-protests-and-funerals-when-he-was-15",
-        "summary": "Use of death penalty against people for crimes committed when they were children a new low, say rights groupsA young man faces imminent execution in Saudi Arabia for attending protests and funerals wh...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "saudi arabia",
-            "death penalty",
-            "rights groupsa"
         ]
     },
     {
@@ -1963,6 +2076,66 @@
         ]
     },
     {
+        "title": "No action to be taken against wife of PM\u2019s aide over Palestine Action post",
+        "link": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
+        "summary": "Tweet by Sarah Helm, wife of national security adviser Jonathan Powell, does not meet criminal thresholdNo further action will be taken against Sarah Helm, the wife of the prime ministers national sec...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 24,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s aide",
+            "action post",
+            "sarah helm"
+        ]
+    },
+    {
+        "title": "Reform candidate filmed saying asylum seekers should be put in \u2018concentration camps\u2019",
+        "link": "https://www.theguardian.com/politics/2026/oct/17/reform-candidate-filmed-saying-asylum-seekers-should-be-put-in-concentration-camps",
+        "summary": "Would-be MP recorded telling undercover reporter in ITV investigation that Muslims could not be British\n \n A would-be Reform UK MP told an undercover reporter that Muslims could not be British and asy...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
+        "sentiment": "Negative",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "asylum seekers",
+            "\u2018 concentration camps \u2019",
+            "would-be mp"
+        ]
+    },
+    {
+        "title": "Plaque telling story of African-Caribbean prisoners in Britain stolen within days",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/17/plaque-honouring-african-caribbean-prisoners-in-britain-stolen-portchester-castle",
+        "summary": "Descendants say theft from Portchester Castle reflects racism that has haunted generation after generationThe theft of a plaque in Hampshire that told the little-known story of African-Caribbean priso...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "portchester castle",
+            "reflects racism",
+            "generationthe theft"
+        ]
+    },
+    {
+        "title": "SNP says campaign for next referendum on independence \u2018has already begun\u2019",
+        "link": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
+        "summary": "John Swinney tells party conference SNP will use six-figure war chest to renew argument for leaving UKJohn Swinney has said that the second referendum campaign for Scottish independence has already be...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "independence \u2018",
+            "john swinney",
+            "party conference"
+        ]
+    },
+    {
         "title": "\u2018We\u2019re not playing games\u2019: Parents launch playground protests to fight school field sell-off",
         "link": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
         "summary": "School looking to sell piece of open land beloved by people in Devon town to fund refurbishmentsOn Saturdays throughout autumn, residents of Totnes have met at a field on the banks of the River Dart t...",
@@ -1978,63 +2151,63 @@
         ]
     },
     {
-        "title": "From little acorns \u2026 to his 1,000th article for the Guardian country diary",
-        "link": "https://www.theguardian.com/environment/2026/oct/17/1000-articles-for-the-guardian-country-diary-mark-cocker",
-        "summary": "As Mark Cocker approaches a landmark for the worlds oldest column in an English-language newspaper, he is still inspired by powerful encounters with natureIn the autumn of 1987, Mark Cocker sat in a f...",
+        "title": "ICE agent who crashed into man in Texas was targeting suspect who died years ago, family says",
+        "link": "https://www.theguardian.com/us-news/2026/oct/17/ice-crash-houston",
+        "summary": "Federal officer slammed vehicle into a construction worker while pursuing a man who died in similar circumstancesA federal officer slammed a vehicle into a Houston construction worker and broke his le...",
         "source": "World news | The Guardian",
-        "objectivity_score": 45,
+        "objectivity_score": 29,
         "sentiment": "Neutral",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "acorns \u2026",
-            "1,000th article",
-            "country diary"
+            "federal officer",
+            "construction worker",
+            "similar circumstancesa"
         ]
     },
     {
-        "title": "Plaque telling story of African-Caribbean prisoners in Britain stolen within days",
-        "link": "https://www.theguardian.com/uk-news/2026/oct/17/plaque-honouring-african-caribbean-prisoners-in-britain-stolen-portchester-castle",
-        "summary": "Descendants say theft from Portchester Castle reflects spirit of racism that has haunted generation after generationThe theft of a plaque in Hampshire that told the little-known story of African-Carib...",
+        "title": "Six homes burned and two firefighters injured in fast-moving California wildfire",
+        "link": "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires",
+        "summary": "About 6,000 homes under evacuation, affecting 16,000 residents in San Clemente and San Juan CapistranoAt least six homes burned and two firefighters were injured after a fast-moving wildfire blazed th...",
         "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
+        "objectivity_score": 20,
+        "sentiment": "Negative",
         "date": "2026-10-17",
         "image_url": null,
         "keywords": [
-            "portchester castle",
-            "reflects spirit",
-            "generationthe theft"
+            "san clemente",
+            "san juan capistranoat",
+            "reading ..."
         ]
     },
     {
-        "title": "Two people killed in light aircraft crash near Loch Lomond",
-        "link": "https://www.theguardian.com/uk-news/2026/oct/17/two-people-killed-light-aircraft-crash-near-loch-lomond-scotland",
-        "summary": "Police Scotland says boy, 16, and 80-year-old man died in incident north-east of village of Drymen in StirlingA 16-year-old boy and an 80-year-old man have been killed in a light aircraft crash near L...",
+        "title": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
+        "link": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge",
+        "summary": "Prosecution did not act in fair and impartial way in grand jury proceedings, judge rules, after West Wing actor charged with groping young boy on TV setA state court judge in New Mexico has dismissed ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "light aircraft crash",
-            "loch lomond",
-            "80-year-old man"
-        ]
-    },
-    {
-        "title": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
-        "link": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
-        "summary": "Peter Ricketts calls for more resilience in protecting banking, energy and water systems from cyber-assaultsMinisters need to be honest with the British public about the immediate threat posed by Russ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 33,
+        "objectivity_score": 74,
         "sentiment": "Positive",
         "date": "2026-10-17",
-        "image_url": "https://i.guim.co.uk/img/media/8580aa29134c097092b2760c87b5d620add039e7/111_0_455_364/master/455.jpg?width=140&quality=85&auto=format&fit=max&s=ac134d44b6412db0e5ff6bd87c77c7f6",
+        "image_url": null,
         "keywords": [
-            "foreign office head",
-            "peter ricketts",
-            "water systems"
+            "sex abuse charges",
+            "timothy busfield",
+            "impartial way"
+        ]
+    },
+    {
+        "title": "Florida fisher dragged into water and killed by 12ft alligator",
+        "link": "https://www.theguardian.com/us-news/2026/oct/17/alligator-attack-florida-fisher-killed",
+        "summary": "Steve Hamilton was fishing in Winter Garden when he was attacked by gator, which was later killedA man fishing at a pond in Florida was killed on Friday by an alligator that was almost 12ft long in a ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 31,
+        "sentiment": "Neutral",
+        "date": "2026-10-17",
+        "image_url": null,
+        "keywords": [
+            "12ft alligator",
+            "steve hamilton",
+            "killeda man"
         ]
     },
     {
@@ -2050,66 +2223,6 @@
             "elon musk",
             "election lottery",
             "random signatories"
-        ]
-    },
-    {
-        "title": "Ilhan Omar\u2019s attorneys say federal search of her home was \u2018neither justified nor lawful\u2019",
-        "link": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items",
-        "summary": "Minnesota lawmakers attorneys asked for return of seized items and the preservation of any recordings of searchIlhan Omars attorneys have asked the US Department of Justice to return property that fed...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 46,
-        "sentiment": "Positive",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "ilhan omar",
-            "\u2019 s attorneys",
-            "federal search"
-        ]
-    },
-    {
-        "title": "Selma Blair \u2018did not intend to harm anyone\u2019 during airplane incident, representatives say",
-        "link": "https://www.theguardian.com/film/2026/oct/17/selma-blair-airplane-incident",
-        "summary": "Actor experienced a medical emergency on flight during which she allegedly injured crew members, statement saysActor Selma Blair did not mean to hurt anyone during the recent flight which led to her a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 24,
-        "sentiment": "Neutral",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "selma blair",
-            "airplane incident",
-            "medical emergency"
-        ]
-    },
-    {
-        "title": "Inside the long, bitter fight over one man\u2019s quest to build the biggest AI datacenter in California",
-        "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
-        "summary": "A modern-day prospector promised rural Imperial thousands of jobs and millions in tax revenue  but his plan has set off a firestorm of resistanceSebastian Rucci zoomed in on a map in late 2024, lookin...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 51,
-        "sentiment": "Neutral",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "bitter fight",
-            "man \u2019 s quest",
-            "a modern-day prospector"
-        ]
-    },
-    {
-        "title": "CDC to send \u2018disease detective\u2019 to help tackle Pennsylvania measles outbreak",
-        "link": "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
-        "summary": "State has confirmed six measles-related deaths and county at center of outbreak lacks its own health departmentThe county at the center of Pennsylvanias measles outbreak is at a clear disadvantage bec...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 61,
-        "sentiment": "Positive",
-        "date": "2026-10-17",
-        "image_url": null,
-        "keywords": [
-            "\u2018 disease detective \u2019",
-            "measles outbreak state",
-            "outbreak lacks"
         ]
     }
 ]
