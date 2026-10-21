@@ -737,33 +737,161 @@
         ]
     },
     {
-        "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
-        "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-        "summary": "The former teacher has been released without any \"swap\" required, according to the president.",
+        "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+        "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "us citizen",
-            "stephen hubbard",
-            "way home"
+            "overturn ban",
+            "new oil",
+            "gas licences"
         ]
     },
     {
-        "title": "Australian MP loses both legs after alleged car attack, husband says",
-        "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
+        "title": "Google staff resign in backlash over its AI contracts with military",
+        "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
         "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 12,
         "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "australian mp",
-            "car attack",
-            "brendan nugent"
+            "staff resign",
+            "google deepmind"
+        ]
+    },
+    {
+        "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+        "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
+        "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+        "source": "BBC News",
+        "objectivity_score": 3,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "jeffrey donaldson",
+            "63-year-old man"
+        ]
+    },
+    {
+        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+        "source": "BBC News",
+        "objectivity_score": 35,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "vladimir putin",
+            "us president",
+            "donald trump"
+        ]
+    },
+    {
+        "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
+        "link": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
+        "summary": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "disaster 'most tragic",
+            "60th anniversary",
+            "colliery spoil tip"
+        ]
+    },
+    {
+        "title": "'I was only 8 but I realised my friend was dead' - Aberfan survivor recalls moment of disaster",
+        "link": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss",
+        "summary": "Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago.",
+        "source": "BBC News",
+        "objectivity_score": 46,
+        "sentiment": "Negative",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "disaster recall",
+            "coal waste tip"
+        ]
+    },
+    {
+        "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "stop believin",
+            "high school",
+            "ryan murphy"
+        ]
+    },
+    {
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+        "source": "BBC News",
+        "objectivity_score": 57,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "critical cyber-security update"
+        ]
+    },
+    {
+        "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
+        "link": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust.",
+        "source": "BBC News",
+        "objectivity_score": 72,
+        "sentiment": "Negative",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "school lessons",
+            "antisemitism review education secretary",
+            "lucy powell"
+        ]
+    },
+    {
+        "title": "Teenage boy guilty of trying to murder girl, 15, in school",
+        "link": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss",
+        "summary": "The school went into lockdown and parents gathered at the gates as they waited for news about their children.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "murder girl"
+        ]
+    },
+    {
+        "title": "Glastonbury coach tickets oversold in admin error",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ynqkgwr69o?at_medium=RSS&at_campaign=rss",
+        "summary": "Bookings will automatically be converted into a general admission ticket and coach fare refunded.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "coach tickets oversold",
+            "admin error",
+            "general admission ticket"
         ]
     },
     {
@@ -777,6 +905,19 @@
         "image_url": null,
         "keywords": [
             "lawyer"
+        ]
+    },
+    {
+        "title": "The Aberfan disaster through the eyes of those who survived, 60 years on",
+        "link": "https://www.bbc.co.uk/news/articles/cr9dzpx2xl0lo?at_medium=RSS&at_campaign=rss",
+        "summary": "It was one of Wales' darkest days that changed a mining community forever.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "darkest days"
         ]
     },
     {
@@ -795,104 +936,18 @@
         ]
     },
     {
-        "title": "Student who murdered uni housemate jailed for life",
-        "link": "https://www.bbc.co.uk/news/articles/c6pvglvpln91o?at_medium=RSS&at_campaign=rss",
-        "summary": "Jamie Collins, 21, was ambushed and killed in the garden of the home he shared with his killer.",
+        "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
+        "link": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Negative",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "uni housemate",
-            "jamie collins"
-        ]
-    },
-    {
-        "title": "Hackers steal children's data after company used 'Password1' to protect old account",
-        "link": "https://www.bbc.co.uk/news/articles/c6r7y03e9m3ro?at_medium=RSS&at_campaign=rss",
-        "summary": "The data watchdog reprimanded Ogi Networks Limited and Data Cymru after the 2024 ransomware attack.",
-        "source": "BBC News",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "children 's data",
-            "old account",
-            "data watchdog"
-        ]
-    },
-    {
-        "title": "Huge crowds watch attempt to save shark stranded in South Korean canal",
-        "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-        "summary": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
-        "source": "BBC News",
-        "objectivity_score": 35,
+        "objectivity_score": 20,
         "sentiment": "Positive",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "9ft 10in",
-            "open sea"
-        ]
-    },
-    {
-        "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
-        "link": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
-        "summary": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt.",
-        "source": "BBC News",
-        "objectivity_score": 43,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "storm austen",
-            "heavy rain",
-            "deep area"
-        ]
-    },
-    {
-        "title": "Crystal Palace urged to retire bald eagle mascot",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a \"bright stadium filled with boisterous fans is no place for animals\".",
-        "source": "BBC News",
-        "objectivity_score": 85,
-        "sentiment": "Positive",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "crystal palace",
-            "bald eagle mascot",
-            "rights group"
-        ]
-    },
-    {
-        "title": "The Aberfan disaster through the eyes of those who survived, 60 years on",
-        "link": "https://www.bbc.co.uk/news/articles/cr9dzpx2xl0lo?at_medium=RSS&at_campaign=rss",
-        "summary": "It was one of Wales' darkest days that changed a mining community forever.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "darkest days"
-        ]
-    },
-    {
-        "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
-        "link": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Negative",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "chris mason",
-            "tricky energy trade-offs",
-            "case studies"
+            "energy bills",
+            "bbc verify",
+            "energy security"
         ]
     },
     {
@@ -941,32 +996,18 @@
         ]
     },
     {
-        "title": "Why Elon Musk is considering a mega-merger of SpaceX and Tesla",
-        "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-        "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+        "title": "Trump's deportation drive is reshaping the town where he claimed migrants were eating pets",
+        "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+        "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "elon musk",
-            "tesla musk"
-        ]
-    },
-    {
-        "title": "Sex, lies and police spies: The disputed story of the 'creepy' undercover officer",
-        "link": "https://www.bbc.co.uk/news/articles/c4gm2dlrxlgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Andrew Coles denies claims he deceived a young woman into sex while infiltrating an activist group.",
-        "source": "BBC News",
-        "objectivity_score": 70,
+        "objectivity_score": 30,
         "sentiment": "Negative",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "police spies",
-            "undercover officer",
-            "andrew coles"
+            "'s deportation drive",
+            "president thrust",
+            "immigration debate"
         ]
     },
     {
@@ -983,102 +1024,92 @@
         ]
     },
     {
-        "title": "Masked teenager found guilty of trying to murder 15-year-old schoolgirl",
-        "link": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss",
-        "summary": "The school went into lockdown and parents gathered at the gates as they waited for news about their children.",
+        "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
+        "link": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss",
+        "summary": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
         "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Negative",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "15-year-old schoolgirl"
-        ]
-    },
-    {
-        "title": "Woman given cancer diagnosis by hospital employee who accessed her records",
-        "link": "https://www.bbc.co.uk/news/articles/cjn5vq6n7r54o?at_medium=RSS&at_campaign=rss",
-        "summary": "Pippa Boardman says she lost \"dignity and privacy\" after she was told by an acquaintance she had cancer.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "cancer diagnosis",
-            "hospital employee",
-            "pippa boardman"
-        ]
-    },
-    {
-        "title": "Actor Noel Clarke pleads not guilty to sexual offence charges",
-        "link": "https://www.bbc.co.uk/news/articles/cm9wzvj0v4q9o?at_medium=RSS&at_campaign=rss",
-        "summary": "The former Doctor Who and Kidulthood star appeared at Westminster Magistrates Court on Wednesday.",
-        "source": "BBC News",
-        "objectivity_score": 61,
+        "objectivity_score": 83,
         "sentiment": "Positive",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "actor noel clarke",
-            "sexual offence charges",
-            "westminster magistrates"
+            "russell brand",
+            "court hears",
+            "sexual assault"
         ]
     },
     {
-        "title": "Missing German WW2 U-boat found 82 years on",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg0vjj5e2vo?at_medium=RSS&at_campaign=rss",
-        "summary": "The U-672 sub was identified 20 miles (32km) off Salcombe after divers discovered it in August.",
+        "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
+        "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
+        "summary": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
         "source": "BBC News",
-        "objectivity_score": 2,
+        "objectivity_score": 35,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "9ft 10in",
+            "open sea"
+        ]
+    },
+    {
+        "title": "Australian MP loses both legs after alleged car attack, husband says",
+        "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
+        "source": "BBC News",
+        "objectivity_score": 10,
         "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "ww2 u-boat"
+            "australian mp",
+            "car attack",
+            "brendan nugent"
         ]
     },
     {
-        "title": "Author Helen Fielding launches award to find the next Bridget Jones's Diary",
-        "link": "https://www.bbc.co.uk/news/articles/c6wyd53yg9n1o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Bridget Jones Prize will go to the author of the funniest 1,000-word diary-style piece of writing.",
+        "title": "Hackers steal children's data after company used 'Password1' to protect old account",
+        "link": "https://www.bbc.co.uk/news/articles/c6r7y03e9m3ro?at_medium=RSS&at_campaign=rss",
+        "summary": "The data watchdog reprimanded Ogi Networks Limited and Data Cymru after the 2024 ransomware attack.",
         "source": "BBC News",
-        "objectivity_score": 0,
+        "objectivity_score": 17,
         "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "author helen fielding",
-            "bridget jones",
-            "bridget jones"
+            "children 's data",
+            "old account",
+            "data watchdog"
         ]
     },
     {
-        "title": "Download now",
-        "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
-        "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+        "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+        "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+        "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
         "source": "BBC News",
         "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "news topics"
+            "civil servant admits",
+            "'made mistakes",
+            "government jobs"
         ]
     },
     {
-        "title": "PSG's Kvaratskhelia to have surgery on ruptured ACL",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss",
-        "summary": "Paris St-Germain winger Khvicha Kvaratskhelia will undergo surgery after suffering a knee injury during his side's 4-2 win over Barcelona on Tuesday.",
+        "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
+        "link": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
+        "summary": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt.",
         "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
+        "objectivity_score": 43,
+        "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "acl paris st-germain",
-            "khvicha kvaratskhelia",
-            "knee injury"
+            "storm austen",
+            "heavy rain",
+            "deep area"
         ]
     },
     {
@@ -1097,6 +1128,92 @@
         ]
     },
     {
+        "title": "Download now",
+        "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+        "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "news topics"
+        ]
+    },
+    {
+        "title": "Anderson, 44, not offered new Lancashire contract",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
+        "summary": "James Andersons legendary career could be over after Lancashire opt against offering Englands all-time leading wicket-taker a new deal.",
+        "source": "BBC News",
+        "objectivity_score": 63,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "james andersons",
+            "legendary career"
+        ]
+    },
+    {
+        "title": "Andrews died of tear in artery around heart - autopsy",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Former Sale player Hyron Andrews - who was found dead at his new team's hotel base before a Champions Cup match - died of natural causes, an autopsy finds.",
+        "source": "BBC News",
+        "objectivity_score": 45,
+        "sentiment": "Negative",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "hyron andrews",
+            "new team 's hotel base",
+            "natural causes"
+        ]
+    },
+    {
+        "title": "F1 races to return to standard distance in 2028",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/c69wzvr14xlxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Formula 1 grands prix will return to their standard distance in 2028 after the maximum length was shortened for next season.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "standard distance",
+            "grands prix",
+            "standard distance"
+        ]
+    },
+    {
+        "title": "Why do Man City fans boo pre-match anthems?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvx28yk1j6z0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The cacophony of boos that greet the Premier League and Champions League anthems before kick-off have now become a fixture at Etihad Stadium.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "man city fans boo pre-match anthems",
+            "premier league",
+            "league anthems"
+        ]
+    },
+    {
+        "title": "Kildunne drops to bench as England ring changes",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3ewe42q4jqzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Star full-back Ellie Kildunne is dropped to the bench as England shake up selection in response to a first defeat in four years.",
+        "source": "BBC News",
+        "objectivity_score": 33,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "ring changes star full-back",
+            "ellie kildunne"
+        ]
+    },
+    {
         "title": "Allen reveals mental health clinic stay before return",
         "link": "https://www.bbc.co.uk/sport/snooker/articles/c3ewe41dd0g5o?at_medium=RSS&at_campaign=rss",
         "summary": "Mark Allen says he is working to \"turn things around\" and reveals he spent time in a mental health clinic before returning to snooker.",
@@ -1109,48 +1226,6 @@
             "mental health clinic stay",
             "mark allen",
             "mental health clinic"
-        ]
-    },
-    {
-        "title": "Why Eze is struggling to find his form at Arsenal",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqgm0ze7vepmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Eberechi Eze has been struggling for form this season for Arsenal, but there could be hope that the forward turns it around.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "arsenal eberechi eze"
-        ]
-    },
-    {
-        "title": "Fabregas and Como prepare for historic Man Utd tie",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmpwg17ev9xxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Serie A success story Como have gone from Serie A to the Champions League - now they are ready for a historic night against Manchester United.",
-        "source": "BBC News",
-        "objectivity_score": 12,
-        "sentiment": "Positive",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "historic man",
-            "success story",
-            "historic night"
-        ]
-    },
-    {
-        "title": "Boulter wins in under an hour to reach quarters",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cx4g17l00qmjo?at_medium=RSS&at_campaign=rss",
-        "summary": "Katie Boulter moves into the quarter-finals of the Japan Open after she beat Viktorija Golubic in less than an hour.",
-        "source": "BBC News",
-        "objectivity_score": 25,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "katie boulter",
-            "viktorija golubic"
         ]
     },
     {
@@ -1169,6 +1244,21 @@
         ]
     },
     {
+        "title": "What We Saw at Fast-Track Trials of Riot Suspects in France",
+        "link": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
+        "summary": "At the Tribunal de Paris, judges have supervised a carousel of expedited and often chaotic hearings for those detained during recent unrest.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "fast-track trials",
+            "riot suspects",
+            "chaotic hearings"
+        ]
+    },
+    {
         "title": "UK to Headphone Dodgers on Trains: Shush",
         "link": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
         "summary": "Prime Minister Andy Burnham announced a campaign against listening to music or videos without headphones on public transportation. We asked London commuters to weigh in.",
@@ -1181,6 +1271,50 @@
             "shush prime",
             "andy burnham",
             "public transportation"
+        ]
+    },
+    {
+        "title": "Drone Strike Kills More Than 150 in Abyei in Sudan\u2019s Civil War",
+        "link": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
+        "summary": "Struggling against each other on the battlefield, the sides in Sudans civil war are relying on drones to strike across vast distances, inflicting huge tolls on civilians in the process.",
+        "source": "NYT > World News",
+        "objectivity_score": 69,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "drone strike kills",
+            "civil war",
+            "civil war"
+        ]
+    },
+    {
+        "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
+        "link": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html",
+        "summary": "Speaking in Qatar, President Emmanuel Macron railed against foreign leaders who he said had made false claims about unrest in France for their own political ends.",
+        "source": "NYT > World News",
+        "objectivity_score": 45,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "macron says trump does",
+            "emmanuel macron",
+            "foreign leaders"
+        ]
+    },
+    {
+        "title": "Delhi\u2019s Winter Season of Polluted Air Begins",
+        "link": "https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html",
+        "summary": "As air quality plummeted in Indias largest city, the government said it would act to curtail the haze that blankets the capital every winter.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "winter season",
+            "air quality"
         ]
     },
     {
@@ -1199,6 +1333,21 @@
         ]
     },
     {
+        "title": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
+        "link": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html",
+        "summary": "Mr. Hubbard, a 74-year-old teacher, was held for more than four years on what the State Department called fabricated charges.",
+        "source": "NYT > World News",
+        "objectivity_score": 25,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "stephen james hubbard",
+            "mr. hubbard",
+            "74-year-old teacher"
+        ]
+    },
+    {
         "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
         "link": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
         "summary": "Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.",
@@ -1211,6 +1360,21 @@
             "flooding brazil",
             "artificial intelligence",
             "election authorities"
+        ]
+    },
+    {
+        "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
+        "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
+        "summary": "Ukraine says it still doesnt know why the military satellite internet service, a sister to Starlink, was abruptly throttled, leaving troops vulnerable to Russian attacks.",
+        "source": "NYT > World News",
+        "objectivity_score": 40,
+        "sentiment": "Negative",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "starshield cut",
+            "ukrainian drones fell",
+            "skies ukraine"
         ]
     },
     {
@@ -1229,6 +1393,21 @@
         ]
     },
     {
+        "title": "Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal",
+        "link": "https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html",
+        "summary": "The 10-foot-long dusky shark, nicknamed Bukangi, was successfully guided back to the open ocean after a third rescue attempt.",
+        "source": "NYT > World News",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "shark returns",
+            "month stuck",
+            "port canal"
+        ]
+    },
+    {
         "title": "Modi Seeks to Calm Allies by Shackling Gen Z Protests",
         "link": "https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html",
         "summary": "Leaders of Indias governing coalition are trying to frame the demonstrations as a power grab by traditional political parties rather than a grass-roots youth movement.",
@@ -1244,123 +1423,63 @@
         ]
     },
     {
-        "title": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models",
+        "title": "China\u2019s Free A.I. Models Are Thrown Into Uncertainty",
         "link": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
         "summary": "Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.",
         "source": "NYT > World News",
-        "objectivity_score": 75,
+        "objectivity_score": 90,
         "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "china moves",
-            "top a.i",
+            "free a.i",
+            "uncertainty draft",
             "artificial intelligence technology show"
         ]
     },
     {
-        "title": "France Protests Show Europe\u2019s Shift Away From Centrist Politics",
-        "link": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html",
-        "summary": "Europes centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.",
+        "title": "More Than 150 Killed After Drone Strikes Disputed Sudanese Town",
+        "link": "https://www.nytimes.com/video/world/africa/100000011227229/sudan-drone-attack-abyei.html",
+        "summary": "A drone strike on a market in Abyei, a disputed region between Sudan and South Sudan, killed at least 153 people on Monday, a local official said. Officials blamed South Sudans government forces for t...",
         "source": "NYT > World News",
-        "objectivity_score": 40,
+        "objectivity_score": 18,
         "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "france protests",
-            "shift away",
-            "centrist politics europes"
+            "drone strikes disputed sudanese",
+            "drone strike",
+            "government forces"
         ]
     },
     {
-        "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
-        "link": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
-        "summary": "Bismillah, cest les tnbres has appeared on signs at recent demonstrations. It doesnt make much sense (it means, In the name of God, its the darkness) but is seen as shorthand for a generational divide...",
+        "title": "Goods Looted During Riots in France Hit Resale Sites",
+        "link": "https://www.nytimes.com/video/world/europe/100000011227211/france-riots-looting-resale-sites.html",
+        "summary": "France is trying to crack down on the resale of goods believed to have been stolen over the weekend when antigovernment protests descended into riots across the country.",
         "source": "NYT > World News",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
+        "objectivity_score": 28,
+        "sentiment": "Negative",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "france have",
-            "cest les tnbres",
-            "recent demonstrations"
+            "goods looted",
+            "resale sites france",
+            "antigovernment protests"
         ]
     },
     {
-        "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
-        "link": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
-        "summary": "Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.",
+        "title": "Witkoff Calls Putin a \u2018Humanitarian\u2019 After Russia Releases an Imprisoned American",
+        "link": "https://www.nytimes.com/video/world/europe/100000011227169/russia-prisoner-release-putin-witkoff.html",
+        "summary": "President Trumps special envoy, Steve Witkoff, praised President Vladimir V. Putin of Russia as a humanitarian for releasing an imprisoned 74-year-old American who had been living in Ukraine when Russ...",
         "source": "NYT > World News",
-        "objectivity_score": 36,
+        "objectivity_score": 19,
         "sentiment": "Positive",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "nigeria announces",
-            "current outbreak",
-            "health officials"
-        ]
-    },
-    {
-        "title": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
-        "link": "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
-        "summary": "The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemens largest cities, besieging it. Officials there warn of an impending humanitarian disaster.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "taiz running",
-            "houthis close",
-            "iranian-backed houthi"
-        ]
-    },
-    {
-        "title": "178 Years After Banning Slavery, France Scraps \u2018Code Noir\u2019 Rules That Governed It",
-        "link": "https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html",
-        "summary": "In a symbolic move, the French Senate approved the repeal of regulations that had remained on the books long after slaverys abolition.",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "banning slavery",
-            "france scraps",
-            "code noir"
-        ]
-    },
-    {
-        "title": "Why Zelensky Took the Gloves Off This Time With Trump",
-        "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
-        "summary": "Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes further than ever in prioritizing Russias interests.",
-        "source": "NYT > World News",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "zelensky took",
-            "gloves off",
-            "trump staying"
-        ]
-    },
-    {
-        "title": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
-        "link": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
-        "summary": "R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "fighter jets",
-            "defend saudi arabia",
-            "fighter jets"
+            "russia releases",
+            "american president",
+            "special envoy"
         ]
     },
     {
@@ -1422,6 +1541,21 @@
         ]
     },
     {
+        "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
+        "link": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
+        "summary": "Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.",
+        "source": "NYT > World News",
+        "objectivity_score": 36,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "nigeria announces",
+            "current outbreak",
+            "health officials"
+        ]
+    },
+    {
         "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
         "link": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
         "summary": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
@@ -1452,60 +1586,18 @@
         ]
     },
     {
-        "title": "The British Police Rearrest Two in Connection With Alleged Terror Plot",
-        "link": "https://www.nytimes.com/2026/10/20/world/europe/raf-fairfield-arrests-iran.html",
-        "summary": "The counterterrorism police investigating a threat against an English air base used by U.S. bombers said the two men were working on behalf of Iran.",
-        "source": "NYT > World News",
-        "objectivity_score": 27,
-        "sentiment": "Negative",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "counterterrorism police",
-            "air base"
-        ]
-    },
-    {
-        "title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
-        "link": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
-        "summary": "The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life.",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
+        "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+        "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+        "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailSend us your questions about immigration and the midtermsRelatives of gravely ill detai...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
         "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "robert kabera"
-        ]
-    },
-    {
-        "title": "How Venezuela\u2019s Public Housing Towers Were Built to Fail",
-        "link": "https://www.nytimes.com/interactive/2026/10/20/world/americas/venezuela-public-housing-flawed-construction-earthquakes.html",
-        "summary": "Venezuelas government wanted housing built for its supporters  and fast. The design and construction flaws that followed proved deadly when earthquakes hit, a Times investigation found.",
-        "source": "NYT > World News",
-        "objectivity_score": 34,
-        "sentiment": "Negative",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "public housing",
-            "towers were built",
-            "fail venezuelas"
-        ]
-    },
-    {
-        "title": "France\u2019s Student Protests Have a New Slogan",
-        "link": "https://www.nytimes.com/video/world/europe/100000011224321/france-student-protests-bismillah.html",
-        "summary": "Student protesters in France are rallying around a new slogan: Bismillah, cest les tnbres. The phrase is a mash-up of in the name of God and its the darkness.",
-        "source": "NYT > World News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s student",
-            "protests have",
-            "student protesters"
+            "imminent deportation",
+            "relatives detailsend",
+            "immigration jails"
         ]
     },
     {
@@ -1566,21 +1658,6 @@
             "starvation cult leader",
             "paul mackenzie",
             "starvation cult leader"
-        ]
-    },
-    {
-        "title": "Drone attack near market kills 80 in Sudan",
-        "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-        "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of warA drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commute...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "market kills",
-            "sudan witness",
-            "transport hub"
         ]
     },
     {
@@ -1659,6 +1736,36 @@
         ]
     },
     {
+        "title": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes",
+        "link": "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes",
+        "summary": "Person named K from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors sayTaiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of th...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 41,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "xi jinping",
+            "jokes person",
+            "huang yi-hao"
+        ]
+    },
+    {
+        "title": "Shark trapped for a month in South Korean canal is finally freed",
+        "link": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i",
+        "summary": "Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubersIn South Korea, they call them jagyeongdan, a word whose meaning sits somewhere between vig...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 55,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "1.6m visitors",
+            "meaning sits",
+            "vigilante group"
+        ]
+    },
+    {
         "title": "China\u2019s economy grows faster than forecast after AI boom boosts exports",
         "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
         "summary": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandRoaring exports lifted Chinas economic growth in the third quarter of this year, with factory o...",
@@ -1704,33 +1811,33 @@
         ]
     },
     {
-        "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-        "link": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
-        "summary": "Beijing warns against discriminatory step after France drops opposition to British role in Made in Europe packageNo 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as p...",
+        "title": "Australian politicians say they are paying thousands for their own security upgrades amid rising threats",
+        "link": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
+        "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen HainesGet our new political email, free app or dail...",
         "source": "World news | The Guardian",
-        "objectivity_score": 31,
+        "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "leaves option",
-            "discriminatory step",
-            "drops opposition"
+            "own security upgrades",
+            "threats home",
+            "office safety"
         ]
     },
     {
-        "title": "Museum releases historical photos of island where Amelia Earhart may have crashed",
-        "link": "https://www.theguardian.com/us-news/2026/oct/16/amelia-earhart-new-zeland-museum-aerial-survey-photos-nikumaroro-island",
-        "summary": "Images from New Zealand aerial survey of Nikumaroro in 1938 offer new clues over aviators disappearanceA New Zealand museum has released nearly 50 photos from a 1938 aerial survey of the island where ...",
+        "title": "Majority of Australians who report penicillin allergy not truly allergic",
+        "link": "https://www.theguardian.com/australia-news/2026/oct/22/penicillin-allergy-australia-doctors-antibiotic-guidelines",
+        "summary": "Peak body for immunologists changes guidelines as evidence shows up to 90% of those reporting allergy dont have oneGet our breaking news email, free app or daily news podcastThe majority of Australian...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
+        "objectivity_score": 45,
+        "sentiment": "Positive",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "museum releases",
-            "historical photos",
-            "amelia earhart"
+            "report penicillin allergy",
+            "immunologists changes guidelines",
+            "evidence shows"
         ]
     },
     {
@@ -1779,108 +1886,108 @@
         ]
     },
     {
-        "title": "Helen Haines has lost both legs after alleged attack but \u2018her heart and mind are in good shape\u2019, husband says",
-        "link": "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb",
-        "summary": "Haines is in stable condition. Surgeons tried to save her right leg but both have now been amputated due to injuriesGet our new political email, free app or daily news podcastThe independent MP Helen ...",
+        "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+        "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+        "summary": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a humanitarianEurope live  latest updatesUS politics live  latest updatesVladimir Put...",
         "source": "World news | The Guardian",
-        "objectivity_score": 37,
+        "objectivity_score": 33,
         "sentiment": "Positive",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "helen haines",
-            "good shape \u2019",
-            "stable condition"
+            "orders release",
+            "stephen hubbard",
+            "us request"
         ]
     },
     {
-        "title": "Beau Lamarre-Condon allegedly played Taylor Swift\u2019s No Body, No Crime during body disposal, court told",
-        "link": "https://www.theguardian.com/australia-news/2026/oct/21/beau-lamarre-condon-murder-trial-taylor-swift-song-ntwnfb",
-        "summary": "Friend of accused double murderer tells supreme court that van had lemony smell and blue tarp in back before Bunnings stopGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 16,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "beau lamarre-condon",
-            "taylor swift",
-            "body disposal"
-        ]
-    },
-    {
-        "title": "Reader Q&A: What\u2019s next for France after a weekend of riots? Ask our Europe columnists",
-        "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-        "summary": "At 3pm BST / 4pm CEST Friday 23 Oct, Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your ques...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "reader q",
-            "guardian europe",
-            "rokhaya diallo"
-        ]
-    },
-    {
-        "title": "Macron blasts \u2018unacceptable\u2019 and \u2018stupid\u2019 commentary on protests from other leaders \u2013 Europe live",
+        "title": "Thousands march in Greece over public education failures as Macron blasts \u2018stupid\u2019 commentary on French protests \u2013 as it happened",
         "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-        "summary": "Macron says he is frustrated by the visible manipulation of information about the events in FranceMeanwhile, French president Emmanuel Macron blasted unacceptable and stupid comments on the protests a...",
+        "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other citiesMeanwhile, back to Witkoffs meeting with Putin in St Petersburg, the US presiden...",
         "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Negative",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "blasts \u2018",
-            "unacceptable \u2019",
-            "\u2018 stupid \u2019 commentary"
-        ]
-    },
-    {
-        "title": "\u2018A powerful warning\u2019: will Europe\u2019s angry protests lead to real political change?",
-        "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change",
-        "summary": "Hamstrung governments seem to have no answer to the publics furious demands, making further discontent likelyEurope live  latest updatesIn France, it was the piles of wheelie bins stacked up against s...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 56,
+        "objectivity_score": 35,
         "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "powerful warning \u2019",
-            "angry protests lead",
-            "publics furious demands"
+            "thousands march",
+            "public education failures",
+            "blasts \u2018 stupid \u2019 commentary"
         ]
     },
     {
-        "title": "A student protest movement has gripped Serbia for two years. This weekend it will try to take power",
-        "link": "https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power",
-        "summary": "Unorthodox campaign is challenging the ruling partys 14-year reign with a bold democratic experimentOn a cool autumn evening, a team of Serbian student volunteers went canvassing in the housing estate...",
+        "title": "Poland\u2019s parliament votes to ease abortion ban but faces likely veto from president",
+        "link": "https://www.theguardian.com/world/2026/oct/21/poland-parliament-votes-ease-abortion-ban-likely-veto-president",
+        "summary": "Measures would remove some penalties for those helping women access abortion but are small-scale step, say campaignersPolands lower house of parliament has approved two bills aimed at loosening a near...",
         "source": "World news | The Guardian",
-        "objectivity_score": 68,
-        "sentiment": "Positive",
+        "objectivity_score": 75,
+        "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "ruling partys 14-year reign",
-            "democratic experimenton",
-            "cool autumn evening"
+            "\u2019 s parliament votes",
+            "abortion ban",
+            "likely veto"
         ]
     },
     {
-        "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-        "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-        "summary": "Government planning tougher security measures as France also says military forces will be deployedWhy are people protesting across Europe?Italys government is sending 500 soldiers to Milan and vowed a...",
+        "title": "Booking.com under investigation by EU regulators over fake listings and scams",
+        "link": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
+        "summary": "European Commission calls accommodation websites approach to fraudulent listings and phishing scams as absolutely substandardEU regulators have opened an investigation into Booking.com, alleging that ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
+        "objectivity_score": 47,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "european commission calls accommodation websites approach",
+            "substandardeu regulators",
+            "accommodation website"
+        ]
+    },
+    {
+        "title": "Macron accuses Trump and other foreign leaders of \u2018stupid comments\u2019 about France unrest",
+        "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+        "summary": "Leaders criticised for spreading misleading information as France prepares for further protests this weekendEmmanuel Macron has accused Donald Trump and other foreign leaders of making stupid comments...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
         "sentiment": "Negative",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "security measures",
-            "military forces",
-            "firm response"
+            "foreign leaders",
+            "\u2018 stupid comments \u2019",
+            "donald trump"
+        ]
+    },
+    {
+        "title": "Besieged Yemeni city on verge of \u2018unmanageable\u2019 crisis, aid workers warn",
+        "link": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
+        "summary": "Water and fresh food running out in Taiz as fighting intensifies and Houthi advance cuts off most supply routesThe humanitarian crisis in the besieged Yemeni city of Taiz is becoming unmanageable as t...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 51,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "besieged yemeni",
+            "unmanageable \u2019 crisis",
+            "aid workers"
+        ]
+    },
+    {
+        "title": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
+        "link": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
+        "summary": "About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to police stationThe Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 18,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "military detain us",
+            "west bank",
+            "brad lander"
         ]
     },
     {
@@ -1929,33 +2036,18 @@
         ]
     },
     {
-        "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
-        "link": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
-        "summary": "Move comes after US photojournalist and group of European diplomats and Palestinians were assaulted in separate attacksIsraeli police have detained 10 people in a rare raid against settlers, after a w...",
+        "title": "Indian court orders release of two leaders of Cockroach movement",
+        "link": "https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown",
+        "summary": "Saurav Das and Ashutosh Ranka spent a week in jail after defying restrictions on protests in Delhi amid government crackdownAn Indian court has ordered the release of two leaders of Indias Cockroach m...",
         "source": "World news | The Guardian",
-        "objectivity_score": 51,
+        "objectivity_score": 5,
         "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "police detain",
-            "rare raid",
-            "west bank settlers"
-        ]
-    },
-    {
-        "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-        "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-        "summary": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "attack kills",
-            "civil war",
-            "young people"
+            "indian court orders release",
+            "saurav das",
+            "ashutosh ranka"
         ]
     },
     {
@@ -2019,168 +2111,153 @@
         ]
     },
     {
-        "title": "Flash floods destroy villages in central Nepal",
-        "link": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal",
-        "summary": "Landslide blocks river and triggers downstream flooding, while summer temperatures persist in PortugalFlash floods have swept through Nepals central Gorkha district after a pre-dawn landslide on 11 Oc...",
+        "title": "Reform UK fined for failing to declare it was publisher of campaigns material",
+        "link": "https://www.theguardian.com/politics/2026/oct/21/reform-uk-fined-failing-to-pay-fine-elections-rule-breach",
+        "summary": "Party given additional penalty by Electoral Commission for not paying original fine on timeReform UK has been fined more than 2,000 for failing to declare it was the publisher of campaign material see...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
+        "objectivity_score": 45,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "reform uk",
+            "campaigns material party",
+            "additional penalty"
+        ]
+    },
+    {
+        "title": "Jeffrey Donaldson investigated over alleged rape in UK parliament",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/21/jeffrey-donaldson-investigated-alleged-rape-parliament",
+        "summary": "Met police investigating after referral from PSNI about allegation former DUP leader raped woman in 2016The Metropolitan police are investigating an allegation that the former DUP leader Jeffrey Donal...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
         "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "nepal landslide",
-            "blocks river",
-            "summer temperatures persist"
+            "jeffrey donaldson",
+            "metropolitan police",
+            "jeffrey donaldson"
         ]
     },
     {
-        "title": "Burnham faces Badenoch at PMQs after Jackdaw gasfield approved \u2013 UK politics live",
+        "title": "Reform UK claims racism expos\u00e9 has left some members \u2018psychologically damaged\u2019 as it reports ITV to police \u2013 UK politics live",
         "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
-        "summary": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government saidHere is an explainer by Jill Ambrose about the Jackdaw decision.But environmental group...",
+        "summary": "Zia Yusuf claims undercover investigation broke the law as broadcaster stands by its journalismHere is an explainer by Jill Ambrose about the Jackdaw decision.But environmental groups have condemned t...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 35,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "reform uk",
+            "claims racism expos\u00e9",
+            "members \u2018"
+        ]
+    },
+    {
+        "title": "Woman told Russell Brand he treated her \u2018like an animal\u2019, court hears",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/21/woman-told-russell-brand-he-treated-her-like-an-animal-court-hears",
+        "summary": "Brand, 51, faces three charges of rape, three of sexual assault and one of indecent assault against six womenA woman said Russell Brand degraded her and treated her like a piece of meat when he raped ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 31,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "russell brand",
+            "animal \u2019",
+            "court hears"
+        ]
+    },
+    {
+        "title": "Home Office lifts deportation order for man, 62, who has lived in UK for 50 years",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/21/home-office-lifts-deportation-order-tony-hall-62-lived-uk-50-years",
+        "summary": "Department drops efforts to return Tony Hall to Barbados, a country he left at 12 and where he has no living relatives The Home Office has lifted a deportation order handed to a 62-year-old man who ha...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 16,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "office lifts deportation order",
+            "years department drops efforts",
+            "tony hall"
+        ]
+    },
+    {
+        "title": "Democrats have 11-point lead among likely voters as Trump\u2019s approval rating craters \u2013 live",
+        "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+        "summary": "New poll finds likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points; Trump campaigns in South CarolinaSign up for Breaking News US emailSend us your q...",
         "source": "World news | The Guardian",
         "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "government saidhere",
-            "jill ambrose",
-            "decision.but environmental groups"
+            "11-point lead",
+            "likely voters",
+            "\u2019 s approval"
         ]
     },
     {
-        "title": "Stratford International finally to have international trains in budget boost",
-        "link": "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
-        "summary": "Sadiq Khan says upgrade will unlock stations true potential and allow it to live up to its nameBusiness live  latest updatesStratford International train station in east London will receive funding in...",
+        "title": "Husband and wife charged in shooting death of teen driving to St Louis Halloween party",
+        "link": "https://www.theguardian.com/us-news/2026/oct/21/alyssa-wilson-shooting-st-louis-charges",
+        "summary": "Alyssa Wilson, 17, was driving to a party at city zoo when prosecutors say Willie Herndon fired a gun at her carA Texas husband and wife are facing criminal charges following the fatal shooting of a 1...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
-        "sentiment": "Positive",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "international trains",
-            "budget boost",
-            "sadiq khan"
-        ]
-    },
-    {
-        "title": "Giant tunnel proposed to tackle Windermere sewage discharges",
-        "link": "https://www.theguardian.com/environment/2026/oct/21/giant-tunnel-proposed-to-tackle-widermere-sewage-discharges",
-        "summary": "United Utilities, Environment Agency and local campaigners say 12-mile tunnel could take sewage away from Englands largest lakePlans are under way for a new giant tunnel to transport sewage away from ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "sewage discharges",
-            "local campaigners",
-            "12-mile tunnel"
-        ]
-    },
-    {
-        "title": "Cabinet split widens as minister refuses to back Shabana Mahmood\u2019s immigration plans",
-        "link": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
-        "summary": "Miatta Fahnbulleh avoids explicitly expressing support for 15-year path to permanent residency for foreign workersUK politics live  latest updatesA cabinet split over Shabana Mahmoods immigration poli...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 32,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "minister refuses",
-            "shabana mahmood",
-            "\u2019 s immigration plans"
-        ]
-    },
-    {
-        "title": "\u2018Jackdaw means we pay our mortgages\u2019: relief in Aberdeen over gasfield approval",
-        "link": "https://www.theguardian.com/uk-news/2026/oct/21/aberdeen-workers-relief-jackdaw-gasfield-approval",
-        "summary": "Few believe decision will bring back citys boom years, but workers hope it will keep as many North Sea jobs for nowUK approves Jackdaw gasfield in North SeaWhat does the UKs approval of the Jackdaw ga...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "mortgages \u2019",
-            "gasfield approval",
-            "citys boom years"
-        ]
-    },
-    {
-        "title": "Trump hails Russia\u2019s release of US teacher amid Witkoff\u2019s visit \u2013 politics live",
-        "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-        "summary": "US was not required to give anything in return for Stephen Hubbards release out of respect for President Trump, he claimsSign up for Breaking News US emailThe US president has just posted on Hubbards ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
-        "sentiment": "Positive",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "\u2019 s release",
-            "us teacher",
-            "\u2019 s visit \u2013 politics"
-        ]
-    },
-    {
-        "title": "Race for crucial midterms attracting vast sums of money on both sides | First Thing",
-        "link": "https://www.theguardian.com/us-news/2026/oct/21/first-thing-midterms-spending-money-donations-michael-bloomberg",
-        "summary": "Billionaire Michael Bloomberg is spending $80m to help Democratic candidates, while Trump has promised Republicans $400m. Plus a vital investigation into justice in LouisianaGood morning. Vast sums of...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 53,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "crucial midterms",
-            "vast sums",
-            "sides |"
-        ]
-    },
-    {
-        "title": "\u2018What are you implying?\u2019: El-Sayed confronts critics head-on as attacks ramp up",
-        "link": "https://www.theguardian.com/us-news/2026/oct/21/abdul-el-sayed-michigan-senate-democrats",
-        "summary": "Against a backdrop of rising Islamophobia, Michigan Senate hopeful has challenged premise of repeated questions on Muslim Brotherhood, Israel and faith As a candidate positioned at the center of what ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 48,
+        "objectivity_score": 26,
         "sentiment": "Negative",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "attacks ramp",
-            "muslim brotherhood",
-            "abdul el-sayed"
+            "st louis halloween",
+            "alyssa wilson",
+            "city zoo"
         ]
     },
     {
-        "title": "US extreme weather survivors are a growing group \u2013 now they want to be a political force",
-        "link": "https://www.theguardian.com/us-news/2026/oct/21/extreme-weather-survivors-climate-crisis",
-        "summary": "At a gathering in Texas, near where floods killed 136 people last year, survivors are united on the need for urgent actionIt may be a club none of its members actually want to be in, but the growing n...",
+        "title": "Bush\u2019s brother crosses party lines to vote for James Talarico for Senate",
+        "link": "https://www.theguardian.com/us-news/2026/oct/21/neil-bush-votes-james-talarico",
+        "summary": "Republican Neil Bush says he was deeply troubled by Ken Paxtons conduct and enormously impressed with TalaricoUS politics live  latest updatesNeil Bush, a son of former president George HW Bush and a ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 34,
-        "sentiment": "Neutral",
-        "date": "2026-10-21",
-        "image_url": null,
-        "keywords": [
-            "us extreme weather survivors",
-            "group \u2013",
-            "political force"
-        ]
-    },
-    {
-        "title": "University of Arizona sorority member alleges sexual assault at fraternity house",
-        "link": "https://www.theguardian.com/us-news/2026/oct/20/university-of-arizona-sexual-assault-fraternity",
-        "summary": "Student told the universitys police department that assault by two men occurred in August during a night of drinkingA sorority member at the University of Arizona has alleged she was sexually assaulte...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 59,
+        "objectivity_score": 65,
         "sentiment": "Positive",
         "date": "2026-10-21",
         "image_url": null,
         "keywords": [
-            "sorority member alleges sexual assault",
-            "fraternity house student",
-            "universitys police department"
+            "\u2019 s brother crosses party lines",
+            "james talarico",
+            "republican neil bush"
+        ]
+    },
+    {
+        "title": "Trump\u2019s approval rating drops to 36% two weeks before midterms, poll finds",
+        "link": "https://www.theguardian.com/us-news/2026/oct/21/trump-approval-rating-midterms-poll",
+        "summary": "Voters disapprove of Trumps handling of economy and cost of living, says poll in new low recorded by NY Times/SienaDonald Trumps approval rating sank to 36% just two weeks before the midterm elections...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 55,
+        "sentiment": "Neutral",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s approval",
+            "ny times/sienadonald trumps",
+            "midterm elections"
+        ]
+    },
+    {
+        "title": "Kagan says supreme court conservatives have made US political system \u2018a nightmare\u2019",
+        "link": "https://www.theguardian.com/law/2026/oct/21/kagan-supreme-court-conservatives-politics-nightmare",
+        "summary": "Liberal justice says recent decisions on redistricting and campaign finance have undermined democracy and polarized US even moreUS politics live  latest updatesElena Kagan criticized rulings made by t...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 34,
+        "sentiment": "Positive",
+        "date": "2026-10-21",
+        "image_url": null,
+        "keywords": [
+            "supreme court conservatives",
+            "political system \u2018",
+            "nightmare \u2019"
         ]
     }
 ]
