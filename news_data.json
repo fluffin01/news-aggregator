@@ -751,46 +751,73 @@
         ]
     },
     {
-        "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
-        "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
+        "title": "Watch: Moment part of Brighton's historic West Pier collapses",
+        "link": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.",
         "source": "BBC News",
-        "objectivity_score": 64,
+        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "presenter battles",
-            "storm hits",
-            "newquay bbc"
+            "storm austen",
+            "famous landmark",
+            "large waves"
         ]
     },
     {
-        "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-        "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-        "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
+        "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+        "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+        "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
         "source": "BBC News",
-        "objectivity_score": 25,
+        "objectivity_score": 26,
+        "sentiment": "Negative",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "deadly"
+        ]
+    },
+    {
+        "title": "Burnham suggests stocking up on tinned food and bottled water",
+        "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
+        "summary": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.",
+        "source": "BBC News",
+        "objectivity_score": 75,
+        "sentiment": "Positive",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "prime ministers",
+            "unexpected events"
+        ]
+    },
+    {
+        "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+        "source": "BBC News",
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "west bank",
-            "general election"
+            "white house",
+            "melania trump",
+            "brokers truce"
         ]
     },
     {
-        "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-        "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
-        "summary": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
+        "title": "Glasgow museums remove mummified remains from public view over ethical concerns",
+        "link": "https://www.bbc.co.uk/news/articles/c862yv953x04o?at_medium=RSS&at_campaign=rss",
+        "summary": "Kelvingrove Museum and The Hunterian say they have removed human remains from display because of ethical concerns.",
         "source": "BBC News",
-        "objectivity_score": 27,
+        "objectivity_score": 34,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "financial affairs",
-            "professional advisers"
+            "public view"
         ]
     },
     {
@@ -809,91 +836,71 @@
         ]
     },
     {
-        "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
-        "link": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.",
+        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+        "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+        "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
         "source": "BBC News",
-        "objectivity_score": 22,
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "church funeral"
+        ]
+    },
+    {
+        "title": "Watch: CCTV footage appears to show gunmen at site of Jordan shooting",
+        "link": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Dozens of people had been inside the church for a funeral when the shooting began, local media report.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "local media report"
+        ]
+    },
+    {
+        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+        "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+        "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+        "source": "BBC News",
+        "objectivity_score": 15,
         "sentiment": "Negative",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "det con linda williams",
-            "serial abuser",
-            "david carrick"
+            "soldiers shot",
+            "bank city"
         ]
     },
     {
-        "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-        "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+        "title": "Oil spill washes up on UAE beaches after tanker strike",
+        "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
         "source": "BBC News",
-        "objectivity_score": 10,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "deliberate slowdown"
+            "oil spill washes",
+            "tanker strike",
+            "local marine wildlife"
         ]
     },
     {
-        "title": "Personalised skin cancer vaccine cuts risk of disease returning in major trial",
-        "link": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&at_campaign=rss",
-        "summary": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.",
+        "title": "Why should I stockpile and what will I need?",
+        "link": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
+        "summary": "The UK government has warned households to have three days of essential supplies on hand.",
         "source": "BBC News",
-        "objectivity_score": 50,
+        "objectivity_score": 30,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "skin cancer vaccine cuts risk",
-            "major trial",
-            "turning point"
-        ]
-    },
-    {
-        "title": "Final James Bond screen tests to take place this weekend, reports say",
-        "link": "https://www.bbc.co.uk/news/articles/c50mep10dek7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Callum Turner and Jack Lowden \"appear to be in the mix\" of actors doing screen tests for the role.",
-        "source": "BBC News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "final james bond",
-            "screen tests",
-            "callum turner"
-        ]
-    },
-    {
-        "title": "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
-        "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
-        "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "first-time buyers loan scheme",
-            "home scheme",
-            "buying new-builds"
-        ]
-    },
-    {
-        "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-        "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-        "summary": "The UN human rights chief Volker Trk says the multiple attacks may amount to war crimes.",
-        "source": "BBC News",
-        "objectivity_score": 5,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "un human rights",
-            "volker trk",
-            "multiple attacks"
+            "essential supplies"
         ]
     },
     {
@@ -907,6 +914,34 @@
         "image_url": null,
         "keywords": [
             "challenging headwinds"
+        ]
+    },
+    {
+        "title": "'It's been relentless': IT workers scramble to fix PHP flaw described as worst crisis in years",
+        "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
+        "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Negative",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "'it 's",
+            "cyber experts"
+        ]
+    },
+    {
+        "title": "Why a student protest movement is challenging 12 years of Vu\u010di\u0107 rule in Serbia",
+        "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+        "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
+        "source": "BBC News",
+        "objectivity_score": 64,
+        "sentiment": "Positive",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "student protests",
+            "ruling party"
         ]
     },
     {
@@ -925,33 +960,18 @@
         ]
     },
     {
-        "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-        "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+        "title": "A Ballon d'Or campaign as fierce off the pitch as on it",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years.",
         "source": "BBC News",
-        "objectivity_score": 44,
-        "sentiment": "Negative",
+        "objectivity_score": 51,
+        "sentiment": "Positive",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "'constant paranoia",
-            "western diplomats",
-            "full-scale invasion"
-        ]
-    },
-    {
-        "title": "Have Manchester United become the unmanageable club?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6y0ek284pdgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The cycle of doom that has engulfed every Manchester United manager since Sir Alex Ferguson now has Michael Carrick in its unforgiving grip, writes Phil McNulty.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "have manchester",
-            "unmanageable club",
-            "sir alex ferguson"
+            "d'or campaign",
+            "football 's",
+            "individual accolade"
         ]
     },
     {
@@ -969,36 +989,6 @@
         ]
     },
     {
-        "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-        "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-        "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
-        "source": "BBC News",
-        "objectivity_score": 3,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "tiktok grandma droniak",
-            "nonna gracie",
-            "viv truran"
-        ]
-    },
-    {
-        "title": "Call of Duty hit a low point last year - can Modern Warfare 4 win fans back?",
-        "link": "https://www.bbc.co.uk/news/articles/cm369kkg92x6o?at_medium=RSS&at_campaign=rss",
-        "summary": "Modern Warfare 4 faces an uphill battle after last year's Call of Duty missed the mark with fans.",
-        "source": "BBC News",
-        "objectivity_score": 20,
-        "sentiment": "Positive",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "low point",
-            "uphill battle",
-            "year 's"
-        ]
-    },
-    {
         "title": "Sign up now",
         "link": "https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&at_campaign=rss",
         "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
@@ -1012,104 +1002,105 @@
         ]
     },
     {
-        "title": "Prince William makes surprise appearance on Graham Norton Show",
-        "link": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
+        "title": "Woman at centre of Cornell University rape inquiry in 'constant fear', lawyer says",
+        "link": "https://www.bbc.co.uk/news/articles/c6x295kp2pr1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The woman, known anonymously as Jane Doe, alleged she was drugged and raped by several men on Cornell's campus.",
+        "source": "BBC News",
+        "objectivity_score": 14,
+        "sentiment": "Neutral",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "university rape inquiry",
+            "jane doe",
+            "'s campus"
+        ]
+    },
+    {
+        "title": "Andrew can be called to give evidence in High Court fraud trial",
+        "link": "https://www.bbc.co.uk/news/articles/cq0ld94pl8z5o?at_medium=RSS&at_campaign=rss",
+        "summary": "The High Court trial involves allegations of fraud made by a wealthy Turkish woman against her former adviser.",
+        "source": "BBC News",
+        "objectivity_score": 52,
+        "sentiment": "Positive",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "high court fraud trial",
+            "high court trial involves allegations",
+            "wealthy turkish woman"
+        ]
+    },
+    {
+        "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+        "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+        "summary": "The UN human rights chief Volker Trk says the multiple attacks may amount to war crimes.",
+        "source": "BBC News",
+        "objectivity_score": 5,
+        "sentiment": "Neutral",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "un human rights",
+            "volker trk",
+            "multiple attacks"
+        ]
+    },
+    {
+        "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
+        "link": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "campaign chief",
+            "election bets",
+            "anthony lee"
+        ]
+    },
+    {
+        "title": "PM defends Gogglebox appearance after Badenoch criticism",
+        "link": "https://www.bbc.co.uk/news/articles/cm4g140585ngo?at_medium=RSS&at_campaign=rss",
+        "summary": "Burnham says he \"makes no apology\" for the move as Kemi Badenoch says she is \"amazed\" he has time.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "surprise appearance",
-            "graham norton",
-            "'s guests"
+            "kemi badenoch"
         ]
     },
     {
-        "title": "Big firms buying up care homes risk to national care plan, regulator says",
-        "link": "https://www.bbc.co.uk/news/articles/cke8r6543gplo?at_medium=RSS&at_campaign=rss",
-        "summary": "Concerns raised as big private firms buy up care homes and home help fragmenting in England.",
+        "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+        "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+        "summary": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
         "source": "BBC News",
-        "objectivity_score": 19,
+        "objectivity_score": 27,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "big firms buying",
-            "care homes risk",
-            "national care plan"
+            "financial affairs",
+            "professional advisers"
         ]
     },
     {
-        "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
-        "link": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
-        "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
+        "title": "Man Utd manager Carrick refuses to rule out dropping Fernandes in emotional address",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.",
         "source": "BBC News",
-        "objectivity_score": 28,
+        "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "chain disruption",
-            "climate emergencies",
-            "defence secretary"
-        ]
-    },
-    {
-        "title": "Give more people weight-loss jabs on the NHS, say MPs",
-        "link": "https://www.bbc.co.uk/news/articles/cm4g1pkwxdqwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Current plans for 6% of eligible patients to get Mounjaro by 2028 unambitious, say MPs.",
-        "source": "BBC News",
-        "objectivity_score": 45,
-        "sentiment": "Positive",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "people weight-loss jabs",
-            "mps current",
-            "eligible patients"
-        ]
-    },
-    {
-        "title": "Lights will stay on this winter, grid operator says after concerns",
-        "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-        "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-        "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "grid operator"
-        ]
-    },
-    {
-        "title": "Chancellor says he will cut 'pointless paperwork' to save businesses up to \u00a3800m",
-        "link": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Ministers say the changes in regulations will reduce unnecessary bureaucracy.",
-        "source": "BBC News",
-        "objectivity_score": 70,
-        "sentiment": "Negative",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "'pointless paperwork",
-            "unnecessary bureaucracy"
-        ]
-    },
-    {
-        "title": "Infantino re-election hopes boosted by Asia support after u-turn",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c3x2wpyg18j7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Gianni Infantino's hopes of being re-elected Fifa president are enhanced by an endorsement from the Asian Football Confederation.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "gianni infantino",
-            "asian football"
+            "emotional address",
+            "michael carrick",
+            "bruno fernandes"
         ]
     },
     {
@@ -1126,97 +1117,124 @@
         ]
     },
     {
-        "title": "Have Man Utd become the unmanageable club?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6y0ek284pdgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The cycle of doom that has engulfed every Manchester United manager since Sir Alex Ferguson now has Michael Carrick in its unforgiving grip, writes Phil McNulty.",
+        "title": "Coming soon: Sir David Attenborough's next great ocean journey",
+        "link": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC",
+        "summary": "Every wave has a story. Experience the wonder waiting beneath the surface",
         "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "unmanageable club",
-            "sir alex ferguson",
-            "michael carrick"
-        ]
-    },
-    {
-        "title": "Infantino re-election hopes boosted by Asia support after u-turn",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c3x2wpyg18j7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Gianni Infantino's hopes of being re-elected Fifa president are enhanced by an endorsement from the Asian Football Confederation.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "gianni infantino",
-            "asian football"
-        ]
-    },
-    {
-        "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
-        "source": "BBC News",
-        "objectivity_score": 32,
+        "objectivity_score": 37,
         "sentiment": "Positive",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "premier league power",
-            "ac milan",
-            "premier league sides"
+            "sir david attenborough",
+            "great ocean journey"
         ]
     },
     {
-        "title": "The World Treadmill Championship - pitching elite runners against amateurs",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cmgel5vd5gqno?at_medium=RSS&at_campaign=rss",
-        "summary": "Everyday runners are being given the chance to compete alongside elite athletes in the first World Treadmill Championship, a new global 5km competition.",
+        "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.",
         "source": "BBC News",
-        "objectivity_score": 34,
+        "objectivity_score": 32,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "treadmill championship",
-            "elite runners",
-            "elite athletes"
+            "emotional address",
+            "michael carrick",
+            "bruno fernandes"
         ]
     },
     {
-        "title": "Boulter into Japan semi-finals and back as British No 1",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c6ly35rzdgxyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Katie Boulter reclaims the British number one ranking after fighting back to beat Antonia Ruzic in three sets in the quarter-finals of the Japan Open.",
+        "title": "Arsenal fear Saka could be out for two months",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o?at_medium=RSS&at_campaign=rss",
+        "summary": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "bukayo saka",
+            "quadriceps injury",
+            "bayern munich"
+        ]
+    },
+    {
+        "title": "Poulter leaves LIV as exodus of big names continues",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ian Poulter wants to help his sons become professional golfers and develop his YouTube channel as he announces his exit from LIV Golf.",
         "source": "BBC News",
         "objectivity_score": 10,
-        "sentiment": "Neutral",
+        "sentiment": "Positive",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "katie boulter",
-            "british number",
-            "antonia ruzic"
+            "big names",
+            "ian poulter",
+            "professional golfers"
         ]
     },
     {
-        "title": "What happens in Vegas, stays in Vegas for England",
-        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cv1j3zn9yjn2o?at_medium=RSS&at_campaign=rss",
-        "summary": "England face Australia at the Women's Rugby League World Cup on Saturday determined to show they have moved on from the nightmare of their last meeting in Las Vegas 19 months ago.",
+        "title": "Conte plays down 'unfounded' Man Utd speculation",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United.",
         "source": "BBC News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "england england",
-            "league world cup",
-            "las vegas"
+            "antonio conte"
+        ]
+    },
+    {
+        "title": "Smith partnership & Saracens spice - Furbank on life at Quins",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckzd6gy3q1z2o?at_medium=RSS&at_campaign=rss",
+        "summary": "George Furbank traded champions Northampton for struggling Harlequins - and the early signs of synergy with Marcus Smith are promising.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Positive",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "quins george furbank",
+            "early signs",
+            "marcus smith"
+        ]
+    },
+    {
+        "title": "World champion Jepchirchir fails drugs test",
+        "link": "https://www.bbc.co.uk/sport/olympics/articles/cwz0vn1yk235o?at_medium=RSS&at_campaign=rss",
+        "summary": "Reigning world women's marathon champion Peres Jepchirchir is provisionally suspended by the Athletics Integrity Unit after a sample tests positive for EPO.",
+        "source": "BBC News",
+        "objectivity_score": 42,
+        "sentiment": "Negative",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "world champion",
+            "drugs test",
+            "world women 's marathon champion"
+        ]
+    },
+    {
+        "title": "PSG v Lyon moved as Paris prepares for more protests",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+        "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
+        "source": "BBC News",
+        "objectivity_score": 16,
+        "sentiment": "Positive",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "paris st-germain",
+            "french capital"
         ]
     },
     {
         "title": "The Bukeleization of Latin America Has Arrived",
-        "link": "https://www.nytimes.com/2026/10/23/world/americas/the-bukeleization-of-latin-america-has-arrived.html",
+        "link": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
         "summary": "Nayib Bukeles notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.",
         "source": "NYT > World News",
         "objectivity_score": 80,
@@ -1232,16 +1250,90 @@
     {
         "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
         "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-        "summary": "Five people were wounded in the attack, days before national elections, health workers said. The Israeli military said its soldiers had killed two assailants.",
+        "summary": "The Israeli military said two soldiers had been killed, and Prime Minister Benjamin Netanyahu threatened to launch a major offensive in the Israeli-occupied territory.",
         "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Negative",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
             "palestinian gunmen",
             "open fire",
-            "national elections"
+            "benjamin netanyahu"
+        ]
+    },
+    {
+        "title": "France Plans to Bolster Police Presence, Expecting New Protests",
+        "link": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
+        "summary": "Government officials are trying to avoid a repeat of last weekends unrest across the country, which injured police officers and damaged stores.",
+        "source": "NYT > World News",
+        "objectivity_score": 26,
+        "sentiment": "Neutral",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "france plans",
+            "government officials",
+            "weekends unrest"
+        ]
+    },
+    {
+        "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+        "link": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
+        "summary": "The shooting took place during a funeral in the southern province of Karak, home to a longstanding Christian community, according to Jordans police chief.",
+        "source": "NYT > World News",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "open fire",
+            "southern province",
+            "longstanding christian community"
+        ]
+    },
+    {
+        "title": "How a U.K. Official\u2019s Wife Set Off a Debate Over Free Speech and Palestinians",
+        "link": "https://www.nytimes.com/2026/10/23/world/europe/uk-powell-sarah-helm-palestine.html",
+        "summary": "Sarah Helm, who is married to Britains national security adviser, posted of her support for the author Sally Rooney and a banned pro-Palestinian activist group. A furor ensued.",
+        "source": "NYT > World News",
+        "objectivity_score": 52,
+        "sentiment": "Positive",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "official \u2019 s",
+            "wife set off",
+            "free speech"
+        ]
+    },
+    {
+        "title": "Ambush of Salvadoran Soldiers Escalates Haiti\u2019s Anti-Gang Mission",
+        "link": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
+        "summary": "With four soldiers missing, Haitis new Gang Suppression Force, already off to a rocky start, is facing its first crisis.",
+        "source": "NYT > World News",
+        "objectivity_score": 27,
+        "sentiment": "Neutral",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "salvadoran soldiers escalates haiti",
+            "gang suppression"
+        ]
+    },
+    {
+        "title": "Finland\u2019s Puppy Livestream Provides Comfort in Troubled Times",
+        "link": "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html",
+        "summary": "Puppy Live, a round-the-clock livestream of a litter, has become a national phenomenon. Nothing bad happens in the puppy box, one fan explained.",
+        "source": "NYT > World News",
+        "objectivity_score": 72,
+        "sentiment": "Negative",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "puppy livestream provides comfort",
+            "puppy live",
+            "round-the-clock livestream"
         ]
     },
     {
@@ -1256,6 +1348,21 @@
         "keywords": [
             "told us",
             "common refrain"
+        ]
+    },
+    {
+        "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
+        "link": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
+        "summary": "The shooter was arrested after firing from a car in several locations southwest of the capital. Antiterrorism prosecutors said they were exploring a racial or religious motive.",
+        "source": "NYT > World News",
+        "objectivity_score": 23,
+        "sentiment": "Negative",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "killed near paris",
+            "gunman fires",
+            "religious motive"
         ]
     },
     {
@@ -1319,21 +1426,6 @@
         ]
     },
     {
-        "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
-        "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
-        "summary": "The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
-        "sentiment": "Negative",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "epstein files produce",
-            "unlikely weapon",
-            "houthi messaging wars"
-        ]
-    },
-    {
         "title": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
         "link": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
         "summary": "A rare escalation this month exposed the increasingly lethal arsenals the two Koreas are building up across the worlds most heavily fortified border.",
@@ -1348,77 +1440,62 @@
         ]
     },
     {
-        "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-        "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-        "summary": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemens Iran-backed Houthi militia has been attacking the kingdoms aviation and energy sectors.",
+        "title": "Israel to Hold First Election Since Oct. 7 Attack",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000011214812/israel-election-netanyahu-eisenkot.html",
+        "summary": "Israelis are heading to the polls on Tuesday for the first time since the Oct. 7, 2023 Hamas-led attack, and the following wars in Gaza, Lebanon and Iran. Many Israelis view the vote as the most momen...",
         "source": "NYT > World News",
-        "objectivity_score": 70,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "houthi strike",
-            "u.s. tells",
-            "saudi aramco"
-        ]
-    },
-    {
-        "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
-        "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-        "summary": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
-        "source": "NYT > World News",
-        "objectivity_score": 100,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "putin nears",
-            "restoring ties",
-            "potential business deals"
-        ]
-    },
-    {
-        "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
-        "link": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
-        "summary": "President Emmanuel Macron said the move was necessary so that calm prevails.",
-        "source": "NYT > World News",
-        "objectivity_score": 58,
+        "objectivity_score": 35,
         "sentiment": "Positive",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "authorities ban",
-            "emmanuel macron"
+            "attack israelis",
+            "countrys establishment"
         ]
     },
     {
-        "title": "International Criminal Court Wins E.U.\u2019s Top Human Rights Prize",
-        "link": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
-        "summary": "The win is a show of support for the International Criminal Court as the Trump administration moves to thwart its work.",
+        "title": "Palestinian Gunmen Kill Two Israeli Soldiers in the West Bank",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000011232239/israeli-soldiers-killed-west-bank-shooting-hebron.html",
+        "summary": "Two Israeli soldiers were killed after Palestinian gunmen opened fire in the West Bank on Friday. The Israeli military said they killed two assailants and Prime Minister Benjamin Netanyahu warned of a...",
         "source": "NYT > World News",
-        "objectivity_score": 28,
+        "objectivity_score": 15,
+        "sentiment": "Negative",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "palestinian gunmen kill",
+            "israeli soldiers",
+            "benjamin netanyahu"
+        ]
+    },
+    {
+        "title": "Finland\u2019s Puppy Livestream Is an Internet Hit",
+        "link": "https://www.nytimes.com/video/world/europe/100000011229847/finland-puppies-livestream.html",
+        "summary": "More than a million people have watched a 24/7 livestream of six newborn puppies in Finland. The cameras will roll until the pups go to their permanent homes in December.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Positive",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "puppy livestream",
+            "newborn puppies",
+            "permanent homes"
+        ]
+    },
+    {
+        "title": "Meghan Says She Is \u2018Distressed\u2019 by Claim Her Father Kept Child Abuse Images",
+        "link": "https://www.nytimes.com/2026/10/23/world/europe/meghan-markle-father-thomas-child-sexual-abuse.html",
+        "summary": "The Duchess of Sussex said a 2018 letter to royal protection officers informed her decision to keep her children away from Thomas Markle.",
+        "source": "NYT > World News",
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "international criminal court",
-            "wins e.u.",
-            "international criminal court"
-        ]
-    },
-    {
-        "title": "Serbian Election Underscores the Region\u2019s Long Political Limbo",
-        "link": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
-        "summary": "Aleksandar Vucic, Serbias dominant political figure since 2012, may extend his grip, using the Balkans unresolved nationalist resentments.",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "limbo aleksandar vucic",
-            "political figure",
-            "nationalist resentments"
+            "meghan says",
+            "father kept child abuse images",
+            "royal protection officers"
         ]
     },
     {
@@ -1434,6 +1511,21 @@
             "small towns",
             "big agricultural businesses",
             "christian movement"
+        ]
+    },
+    {
+        "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+        "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+        "summary": "The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "epstein files produce",
+            "unlikely weapon",
+            "houthi messaging wars"
         ]
     },
     {
@@ -1495,77 +1587,18 @@
         ]
     },
     {
-        "title": "French Officials Ban Some Protests Amid Nationwide Riots",
-        "link": "https://www.nytimes.com/video/world/europe/100000011230075/france-protests-ban-riots.html",
-        "summary": "French officials banned gatherings in some cities on Thursday and over the coming days. President Macron of France said the bans were necessary to avoid a repeat of the riots last weekend.",
-        "source": "NYT > World News",
-        "objectivity_score": 26,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "protests amid nationwide riots",
-            "french officials"
-        ]
-    },
-    {
-        "title": "He Was Reporting on Floods in Australia. Then He Jumped to the Rescue.",
-        "link": "https://www.nytimes.com/2026/10/22/world/australia/brisbane-flooding-car-rescue-abc-reporter.html",
-        "summary": "Will Murray of Australias public broadcaster spotted a man in a sinking truck, then jumped in the water with a bystander. (Just dont call him Clark Kent.)",
-        "source": "NYT > World News",
-        "objectivity_score": 6,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "was reporting",
-            "will murray",
-            "public broadcaster"
-        ]
-    },
-    {
-        "title": "Italy Experiences Food and Fuel Shortages After Truckers on Strike Block Roads",
-        "link": "https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html",
-        "summary": "Truckers protesting high gas prices have prevented deliveries to parts of southern Italy, leading to empty shelves and dry pumps.",
-        "source": "NYT > World News",
-        "objectivity_score": 41,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "italy experiences",
-            "fuel shortages",
-            "strike block"
-        ]
-    },
-    {
-        "title": "Ebola Outbreak in Africa Reaches Widest Expansion Ever",
-        "link": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html",
-        "summary": "Health officials are urgently seeking answers about the origins of a case newly identified in Nigeria, the first in that West African nation.",
-        "source": "NYT > World News",
-        "objectivity_score": 26,
+        "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+        "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+        "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigerias first Ebola patie...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 25,
         "sentiment": "Positive",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "ebola outbreak",
-            "africa reaches widest expansion ever",
-            "health officials"
-        ]
-    },
-    {
-        "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-        "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
-        "summary": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
-        "source": "NYT > World News",
-        "objectivity_score": 37,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "websites going offline",
-            "critical security flaw",
-            "global rush"
+            "swiss diplomat",
+            "swiss foreign ministry",
+            "swiss diplomat"
         ]
     },
     {
@@ -1626,21 +1659,6 @@
             "africa case",
             "populous country",
             "health ministry said.the woman"
-        ]
-    },
-    {
-        "title": "RFK Jr\u2019s \u2018deities of vaccine research\u2019 raided by police in Guinea-Bissau",
-        "link": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
-        "summary": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newbornsControversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Depar...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 19,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "rfk jr",
-            "\u2019 s \u2018 deities",
-            "vaccine research \u2019"
         ]
     },
     {
@@ -1721,7 +1739,7 @@
     {
         "title": "Duchess of Sussex \u2018deeply distressed\u2019 over child sexual abuse image claims against father",
         "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
-        "summary": "Meghan also reveals she was made aware of disturbing allegations against him in 2018 by Met policeThe Duchess of Sussex has said she is deeply distressed over accusations involving child sexual abuse ...",
+        "summary": "Meghan reveals she was made aware of disturbing allegations against him in 2018 by Met policeThe Duchess of Sussex has said she is deeply distressed over accusations involving child sexual abuse image...",
         "source": "World news | The Guardian",
         "objectivity_score": 46,
         "sentiment": "Neutral",
@@ -1869,78 +1887,108 @@
         ]
     },
     {
-        "title": "Starlink access for Ukraine limited after Trump\u2019s claims satellite service restored, officials say \u2013 Europe live",
+        "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House \u2013 Europe live",
         "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-        "summary": "The satellite service was still operating at a cap of 161km/hr, crippling key air defencesThe French prime minister Sbastien Lecornu has just issued a statement on a shooting in a town west of Paris t...",
+        "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resourcesThe French prime minister Sbastien Lecornu has just issued a statement o...",
         "source": "World news | The Guardian",
-        "objectivity_score": 27,
+        "objectivity_score": 17,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "\u2019 s claims satellite service",
-            "satellite service",
-            "key air defencesthe"
+            "melania trump",
+            "broker ceasefire",
+            "russian-occupied ukrainian"
         ]
     },
     {
-        "title": "Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs",
-        "link": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
-        "summary": "Worlds second largest brewer says use of drugs such as Wegovy can reduce desire to drink alcohol Business live  latest updatesHeineken has warned British bars and pubs that the boom in popularity of w...",
+        "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+        "link": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+        "summary": "People in Russian-occupied city facing severe shortages of food, water and electricity, with some reportedly surviving on weedsThe White House has said that Russia and Ukraine have agreed to a ceasefi...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 2,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "weight-loss drugs",
-            "beer sales",
-            "drink alcohol business"
+            "local ceasefire",
+            "humanitarian crisis people",
+            "severe shortages"
         ]
     },
     {
-        "title": "Puppy love: Finnish 24-hour newborn pup livestream is TV smash hit",
-        "link": "https://www.theguardian.com/world/2026/oct/23/finnish-24-hour-puppy-dog-newborn-livestream-tv-smash-hit",
-        "summary": "Show features live chat sessions with breeders, a podcast and updates on dogs progress from birth to weigh-insA 24-hour Finnish TV show dedicated entirely to the live progress of a dog and her six new...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 52,
-        "sentiment": "Positive",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "24-hour newborn pup livestream",
-            "tv smash",
-            "dogs progress"
-        ]
-    },
-    {
-        "title": "Reader Q&A: what\u2019s next for France? Ask our Europe columnists",
+        "title": "\u2018How can France stop Marine Le Pen\u2019? Our Europe columnists answered your questions on protests and politics in France",
         "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-        "summary": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from readers about the riots and protests in France at 3pm BST / 4pm CEST today. Send your questions by emai...",
+        "summary": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst answered your questions about the recent protests in France, the role of the French police, foreign influence and the upcoming presidentia...",
         "source": "World news | The Guardian",
-        "objectivity_score": 40,
+        "objectivity_score": 43,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "reader q",
-            "guardian europe",
-            "rokhaya diallo"
+            "france guardian europe",
+            "rokhaya diallo",
+            "alexander hurst"
         ]
     },
     {
-        "title": "Briton facing forced separation from baby son after Sweden orders his deportation",
-        "link": "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
-        "summary": "Exclusive: Photographer Simon Montgomery told states interest in regulated immigration outweighs his family concernsUK politics live  latest updatesEurope live  latest updatesA British photographer is...",
+        "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
+        "link": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
+        "summary": "Security forces to include elite units usually used for counter-terrorism after worst street violence in yearsEurope live  latest updatesFrance will deploy about 70,000 police around the country on Sa...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "civil unrest security forces",
+            "elite units",
+            "street violence"
+        ]
+    },
+    {
+        "title": "\u2018An orchestra being gassed should be an alarm signal\u2019: the musical activists targeted in Paris",
+        "link": "https://www.theguardian.com/world/2026/oct/23/france-protests-new-world-orchestra-gassed-paris-police",
+        "summary": "New World Orchestras musicians are shocked at French police targeting peaceful gathering with teargasEurope live  latest updatesAs riot police encircled Place de la Rpublique last week, lobbing tearga...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 39,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "baby son",
-            "photographer simon montgomery",
-            "states interest"
+            "alarm signal \u2019",
+            "musical activists",
+            "new world"
+        ]
+    },
+    {
+        "title": "Netanyahu orders \u2018very extensive\u2019 operation in West Bank after two Israeli soldiers killed",
+        "link": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+        "summary": "Two soldiers and two Palestinians killed in exchange of fire outside Hebron, where Israeli military says it thwarted terror attackBenjamin Netanyahu has ordered the army to prepare for a very extensiv...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 17,
+        "sentiment": "Neutral",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "orders \u2018",
+            "extensive \u2019 operation",
+            "west bank"
+        ]
+    },
+    {
+        "title": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
+        "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+        "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentresBusiness live  latest updatesOil has hit its highest level in more than five months as fears of fr...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "oil price rises",
+            "fears us",
+            "iran brent"
         ]
     },
     {
@@ -1986,36 +2034,6 @@
             "oil prices",
             "irans irgc",
             "northern gulf"
-        ]
-    },
-    {
-        "title": "Heidi Levine recounts how Palestinian youths helped save her in settler attack",
-        "link": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
-        "summary": "US photojournalist describes protective shield, vows to return to work in West Bank and criticises Netanyahu comments on incidentThe Washington Post photojournalist who was attacked and seriously inju...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Negative",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "heidi levine",
-            "settler attack us photojournalist",
-            "protective shield"
-        ]
-    },
-    {
-        "title": "Besieged Yemeni city on verge of \u2018unmanageable\u2019 crisis, aid workers warn",
-        "link": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
-        "summary": "Water and fresh food running out in Taiz as fighting intensifies and Houthi advance cuts off most supply routesThe humanitarian crisis in the besieged Yemeni city of Taiz is becoming unmanageable as t...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 51,
-        "sentiment": "Positive",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "besieged yemeni",
-            "unmanageable \u2019 crisis",
-            "aid workers"
         ]
     },
     {
@@ -2094,11 +2112,71 @@
         ]
     },
     {
-        "title": "Andy Burnham warns of \u2018winter of greater flooding\u2019 \u2013 UK politics live",
+        "title": "Which is really England\u2019s oldest pub? Tree-ring dating helps settle debate",
+        "link": "https://www.theguardian.com/culture/2026/oct/23/oldest-pubs-inns-historic-england-archaeologist",
+        "summary": "Historic England archaeologist says some inns claims to date back 1,000 years are inaccurate and oldest is from 1430With their low ceilings, timber beams and roaring fires, many of Englands inns lay c...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Positive",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "historic england",
+            "inns claims",
+            "low ceilings"
+        ]
+    },
+    {
+        "title": "Allegations against Thomas Markle Sr challenge media\u2019s Meghan narrative",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative",
+        "summary": "Duchess of Sussexs decision to cut ties with elderly father cast in new light as he faces sexual abuse image claimsMeghan deeply distressed by allegations against fatherThe depiction of the Duchess of...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 51,
+        "sentiment": "Positive",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "thomas markle sr",
+            "challenge media \u2019 s",
+            "elderly father cast"
+        ]
+    },
+    {
+        "title": "Free Speech Union hit by internal allegations of racism and sexually inappropriate remarks",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/23/free-speech-union-allegations-racism-sexually-inappropriate-remarks",
+        "summary": "Exclusive: Key figure in campaign group accused of saying she would never hire a black person, and second figure discussed Sydney Sweeneys assetsThe Free Speech Union (FSU) is reeling from internal gr...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 47,
+        "sentiment": "Neutral",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "free speech",
+            "internal allegations",
+            "inappropriate remarks"
+        ]
+    },
+    {
+        "title": "Prince William makes surprise appearance on Graham Norton show",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/23/prince-william-graham-norton-show",
+        "summary": "Cate Blanchett and Hannah Waddingham join William on sofa for special edition to celebrate princes Earthshot prizeThe Prince of Wales has braved the chatshow sofa, making a surprise appearance on The ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Positive",
+        "date": "2026-10-23",
+        "image_url": null,
+        "keywords": [
+            "surprise appearance",
+            "graham norton",
+            "cate blanchett"
+        ]
+    },
+    {
+        "title": "UK politics: Andy Burnham warns of \u2018winter of greater flooding\u2019 \u2013 as it happened",
         "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
         "summary": "The prime minister said the government is having conversation about emergency preparednessA DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main deci...",
         "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 42,
         "sentiment": "Positive",
         "date": "2026-10-23",
         "image_url": null,
@@ -2109,138 +2187,78 @@
         ]
     },
     {
-        "title": "Retail sales in Great Britain fall as struggling households cut back",
-        "link": "https://www.theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back",
-        "summary": "Latest negative economic update comes as John Healey prepares to announce budget next weekBusiness live  latest updatesRetail sales in Great Britain fell more steeply than expected last month, the lat...",
+        "title": "Two ex-FBI officials charged with lying about investigation into Hunter Biden\u2019s laptop",
+        "link": "https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop",
+        "summary": "Contents of laptop of Joe Bidens son were part of a bizarre saga in the final weeks of 2020 presidential electionTwo former FBI intelligence officials who specialized in foreign election interference ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
-        "sentiment": "Positive",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "retail sales",
-            "negative economic update",
-            "john healey"
-        ]
-    },
-    {
-        "title": "Detective raped by fellow officer David Carrick calls on Met chief to resign",
-        "link": "https://www.theguardian.com/uk-news/2026/oct/23/detective-raped-by-fellow-officer-david-carrick-calls-on-met-chief-to-resign",
-        "summary": "Linda Williams, who was attacked in 2004, says forces handling of her case was like being raped all over againA detective who was raped by the former Scotland Yard officer David Carrick has called for...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 24,
-        "sentiment": "Positive",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "fellow officer",
-            "david carrick",
-            "linda williams"
-        ]
-    },
-    {
-        "title": "UK consumer confidence falls at fastest rate since Brexit vote as cost of living bites",
-        "link": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
-        "summary": "Economic fallout from war in Middle East adds to pressures on consumers and on chancellor before budgetConsumer confidence in the UK has fallen at the fastest rate outside the Covid pandemic since the...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 21,
-        "sentiment": "Positive",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "consumer confidence",
-            "economic fallout",
-            "budgetconsumer confidence"
-        ]
-    },
-    {
-        "title": "\u2018We\u2019ve lost a basic sense of politeness\u2019: UK readers reveal daily reality of public transport",
-        "link": "https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign",
-        "summary": "Regular users detail their frustrations  and question whether Andy Burnhams crackdown on antisocial behaviour will actually work Andy Burnham has announced a campaign against nuisance behaviour on pub...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 21,
+        "objectivity_score": 40,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "basic sense",
-            "politeness \u2019",
-            "public transport"
+            "ex-fbi officials",
+            "hunter biden",
+            "\u2019 s laptop"
         ]
     },
     {
-        "title": "First Thing: Former DHS aide Lewandowski investigated over claims he profited from government role",
-        "link": "https://www.theguardian.com/us-news/2026/oct/23/first-thing-corey-lewandowski-under-investigation-homeland-security",
-        "summary": "Investigation marks a rare move by the DoJ against an ally of the US president. Plus, why the worlds coral reefs are facing a dire futureGood morning. Corey Lewandowski, a former political adviser to ...",
+        "title": "Trump\u2019s justice department sues to block Senate race certification in Alaska if Republican loses \u2013 live",
+        "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+        "summary": "Preliminary lawsuit claims there could be voter confusion about the two Dan Sullivans on the ballot, which could influence the races outcome in favor of the Democratic nominee, Mary PeltolaSign up for...",
         "source": "World news | The Guardian",
-        "objectivity_score": 41,
+        "objectivity_score": 55,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "government role investigation marks",
-            "us president",
-            "worlds coral reefs"
+            "\u2019 s justice department sues",
+            "senate race certification",
+            "lawsuit claims"
         ]
     },
     {
-        "title": "Is a job guarantee the solution to mass AI unemployment?",
-        "link": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
-        "summary": "An old idea springs anew as a chorus of influential voices predicts that AI may trigger crises of vast magnitudeIn a preface to his book Capitalism and Freedom, the American economist Milton Friedman ...",
+        "title": "US supreme court sides with Republicans on rejecting student IDs in New Hampshire midterms",
+        "link": "https://www.theguardian.com/us-news/2026/oct/23/supreme-court-student-ids-new-hampshire-midterms",
+        "summary": "Voting rights advocates say directive would disenfranchise young and low-income voters, but Republicans say its needed to combat voter fraudUS politics live  latest updatesThe US supreme court has cle...",
         "source": "World news | The Guardian",
-        "objectivity_score": 42,
+        "objectivity_score": 50,
         "sentiment": "Positive",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "old idea springs anew",
-            "influential voices predicts",
-            "trigger crises"
+            "supreme court sides",
+            "rights advocates",
+            "low-income voters"
         ]
     },
     {
-        "title": "What will Trump do if he loses in November? Your questions answered \u2013 podcast",
-        "link": "https://www.theguardian.com/politics/audio/2026/oct/23/us-midterm-elections-donald-trump-your-questions-answered-podcast",
-        "summary": "Will Donald Trump accept a blue wave if it happens? Have young people turned away from centrist politics for ever? Will the US ever recover its image on the world stage? Jonathan Freedland is joined b...",
+        "title": "Nobody Wants This creator says she disagrees with Adam Brody\u2019s \u2018free Palestine\u2019 comments",
+        "link": "https://www.theguardian.com/tv-and-radio/2026/oct/23/nobody-wants-this-adam-brody-palestine-comments",
+        "summary": "After Brody called out the death and misery in Palestine, the Netflix hits Jewish creator said they dont see eye to eyeThe creator of the hit Netflix comedy Nobody Wants This has responded to star Ada...",
         "source": "World news | The Guardian",
-        "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-10-23",
-        "image_url": null,
-        "keywords": [
-            "\u2013 podcast",
-            "will donald trump",
-            "blue wave"
-        ]
-    },
-    {
-        "title": "Trump tells Iowa rally crowd he encouraged Ramaswamy to keep running widely criticized campaign ad \u2013 as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-        "summary": "This live blog is now closed.Sign up for the Breaking News US emailTrump attacks Ohio governor over call for Ramaswamy to drop deeply troubling adReporting from Anchorage, AlaskaMary Peltolas campaign...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 49,
+        "objectivity_score": 37,
         "sentiment": "Positive",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "rally crowd",
-            "news us emailtrump attacks",
-            "alaskamary peltolas"
+            "adam brody",
+            "\u2019 comments",
+            "jewish creator"
         ]
     },
     {
-        "title": "Flu cases rise on west coast earlier than usual as US health experts encourage vaccine",
-        "link": "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc",
-        "summary": "California flu test rate at 9.65%, higher than normal 1% rate for early October, amid mutation of H1N1 influenza A strainFlu cases on the west coast are on the rise months earlier than normal, prompti...",
+        "title": "Trump\u2019s top border official defends Big Bend border wall plan despite mounting opposition",
+        "link": "https://www.theguardian.com/us-news/2026/oct/23/trump-border-official-big-bend-border-wall",
+        "summary": "CBP commissioner Rodney Scott says $46bn Texas project is justified amid court-ordered pause on walls constructionThe Trump administrations top border official defended plans to build a wall and other...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
+        "objectivity_score": 38,
         "sentiment": "Neutral",
         "date": "2026-10-23",
         "image_url": null,
         "keywords": [
-            "cases rise",
-            "us health experts",
-            "flu test rate"
+            "top border",
+            "big bend border wall plan",
+            "rodney scott"
         ]
     }
 ]
