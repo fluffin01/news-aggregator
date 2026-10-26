@@ -737,26 +737,54 @@
         ]
     },
     {
-        "title": "Watch: How Lula turned it around to beat former president's son",
-        "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flvio Bolsonaro in a knife-edge vote.",
+        "title": "Independent review announced into murder of student Henry Nowak",
+        "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+        "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
         "source": "BBC News",
-        "objectivity_score": 13,
+        "objectivity_score": 56,
+        "sentiment": "Negative",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "independent review",
+            "henry nowak",
+            "awful night"
+        ]
+    },
+    {
+        "title": "Israel and the US are both going to the polls - the consequences will be global",
+        "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+        "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+        "source": "BBC News",
+        "objectivity_score": 15,
         "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "president 's son",
-            "flvio bolsonaro",
-            "knife-edge vote"
+            "different continents",
+            "shape geopolitics",
+            "global economy"
         ]
     },
     {
-        "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
-        "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
+        "title": "Drivers who killed mum and girl while racing jailed",
+        "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
         "source": "BBC News",
-        "objectivity_score": 59,
+        "objectivity_score": 0,
+        "sentiment": "Negative",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "justyna hulboj"
+        ]
+    },
+    {
+        "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+        "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
+        "source": "BBC News",
+        "objectivity_score": 47,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
@@ -764,6 +792,232 @@
             "storm boelo",
             "office issues",
             "new wind warning"
+        ]
+    },
+    {
+        "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+        "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "'lula 's army",
+            "'lula 's army",
+            "transform online enthusiasm"
+        ]
+    },
+    {
+        "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+        "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+        "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+        "source": "BBC News",
+        "objectivity_score": 51,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "'catastrophic risk",
+            "blockbuster share",
+            "true artificial intelligence company"
+        ]
+    },
+    {
+        "title": "Busted's James Bourne says 'hero' brother saved his life with kidney donation",
+        "link": "https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo?at_medium=RSS&at_campaign=rss",
+        "summary": "The guitarist says doctors had given him \"a few years left to live\", but is now recovering well.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "james bourne",
+            "kidney donation"
+        ]
+    },
+    {
+        "title": "What is walking down the newly pedestrianised Oxford Street like?",
+        "link": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss",
+        "summary": "The first phase of the overhaul is expected to be finished by spring 2027.",
+        "source": "BBC News",
+        "objectivity_score": 36,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "what"
+        ]
+    },
+    {
+        "title": "No 10 appears to backtrack on PM's freedom of movement referendum suggestion",
+        "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
+        "summary": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "'s freedom",
+            "movement referendum suggestion",
+            "potential options"
+        ]
+    },
+    {
+        "title": "Oscar-winning producer says BBC gave her \u00a3400,000 payout after she raised antisemitism concerns",
+        "link": "https://www.bbc.co.uk/news/articles/crwydxw0we8yo?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC says it did not uphold any of the allegations of antisemitism but accepted there were \"shortcomings\" in how it treated Lucie Kon.",
+        "source": "BBC News",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "\u00a3400,000 payout",
+            "lucie kon"
+        ]
+    },
+    {
+        "title": "Macklemore begins Free Palestine tour after Ed Sheeran fallout",
+        "link": "https://www.bbc.co.uk/news/articles/cqkgl82nm43po?at_medium=RSS&at_campaign=rss",
+        "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+        "source": "BBC News",
+        "objectivity_score": 35,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "free palestine",
+            "ed sheeran",
+            "fallout proceeds"
+        ]
+    },
+    {
+        "title": "Will the public change its mind about Meghan?",
+        "link": "https://www.bbc.co.uk/news/articles/c6qjn29lg2vzo?at_medium=RSS&at_campaign=rss",
+        "summary": "This complicated - and developing - story could prove to be a turning point for Meghan.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Negative",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "turning point"
+        ]
+    },
+    {
+        "title": "Surprising things we have learnt from Anthropic's blockbuster share listing",
+        "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+        "summary": "Anthropics IPO prospectus is 355 pages and full of never before disclosed company information.",
+        "source": "BBC News",
+        "objectivity_score": 52,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "'s blockbuster share",
+            "anthropics ipo",
+            "company information"
+        ]
+    },
+    {
+        "title": "Faisal Islam: Healey's Budget needs to sustain the stronger economy through gathering clouds",
+        "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+        "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+        "source": "BBC News",
+        "objectivity_score": 37,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "faisal islam",
+            "gathering clouds"
+        ]
+    },
+    {
+        "title": "Five ways Trump has changed immigration in the US",
+        "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+        "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "signature policy",
+            "mass deportations"
+        ]
+    },
+    {
+        "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+        "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+        "summary": "The airport wont have direct public transportation for a year. How do locals feel about getting there?",
+        "source": "BBC News",
+        "objectivity_score": 37,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "new $ 5bn airport",
+            "big problem",
+            "airport wont"
+        ]
+    },
+    {
+        "title": "The movement of students that brought down Serbia's Vu\u010di\u0107",
+        "link": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&at_campaign=rss",
+        "summary": "In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vui.",
+        "source": "BBC News",
+        "objectivity_score": 19,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "political dominance",
+            "aleksandar vui"
+        ]
+    },
+    {
+        "title": "Stunning photos capture October's Hunter's Moon around the world",
+        "link": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
+        "summary": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
+        "source": "BBC News",
+        "objectivity_score": 77,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "night sky"
+        ]
+    },
+    {
+        "title": "Sign up now",
+        "link": "https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&at_campaign=rss",
+        "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
+        "source": "BBC News",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "sign"
+        ]
+    },
+    {
+        "title": "Tributes paid to man killed by falling tree in Storm Boelo",
+        "link": "https://www.bbc.co.uk/news/articles/cqkgl8rlmvn2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Richard Baines was the long-serving curator of Logan Botanic Garden near Stranraer.",
+        "source": "BBC News",
+        "objectivity_score": 20,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "storm boelo richard baines",
+            "logan botanic"
         ]
     },
     {
@@ -797,302 +1051,61 @@
         ]
     },
     {
-        "title": "What is walking down the newly-pedestrianised Oxford Street like?",
-        "link": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss",
-        "summary": "The first phase of the overhaul is expected to be finished by spring 2027.",
+        "title": "Trump faces backlash after invoking 9/11 in verbal assault on Michigan's Senate candidate",
+        "link": "https://www.bbc.co.uk/news/articles/c3rryxlkq5qro?at_medium=RSS&at_campaign=rss",
+        "summary": "The Democrat himself has hit back, as has Senator Bernie Sanders and a key Trump supporter from 2024.",
+        "source": "BBC News",
+        "objectivity_score": 50,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "faces backlash",
+            "verbal assault",
+            "'s senate candidate"
+        ]
+    },
+    {
+        "title": "'Maxxing' selected as Dictionary.com word of the year",
+        "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+        "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
+        "source": "BBC News",
+        "objectivity_score": 40,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "'maxxing'"
+        ]
+    },
+    {
+        "title": "Russell Brand asked assistant for female fan phone numbers, court hears",
+        "link": "https://www.bbc.co.uk/news/articles/cwly02l45ny3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Helen Berger said she left her job working for Brand after she became \"sick of him.\"",
         "source": "BBC News",
         "objectivity_score": 34,
-        "sentiment": "Neutral",
+        "sentiment": "Negative",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "what"
+            "russell brand",
+            "female fan phone numbers",
+            "court hears"
         ]
     },
     {
-        "title": "Consultant doctors in England to strike next month",
-        "link": "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Senior doctors to stage 48-hour walkout, beginning on 25 November, in dispute over pay and pensions.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "stage 48-hour walkout"
-        ]
-    },
-    {
-        "title": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
-        "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-        "source": "BBC News",
-        "objectivity_score": 15,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "veteran ruler",
-            "country 's future"
-        ]
-    },
-    {
-        "title": "Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William",
-        "link": "https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss",
-        "summary": "The rugby league star is \"gold dust\" and \"should have been Sir Kevin years ago,\" says the Prince of Wales.",
-        "source": "BBC News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "knighting sinfield",
-            "'easiest decision",
-            "rugby league star"
-        ]
-    },
-    {
-        "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
-        "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
-        "summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+        "title": "Star Trek actor Walter Koenig, who played Pavel Chekov, dies aged 90",
+        "link": "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo?at_medium=RSS&at_campaign=rss",
+        "summary": "He played the eager Russian crewman in the original Star Trek series and later appeared in Babylon 5.",
         "source": "BBC News",
         "objectivity_score": 28,
         "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "rough sleepers",
-            "christmas burnham"
-        ]
-    },
-    {
-        "title": "Crowds welcome Venezuela's Mar\u00eda Machado after months in exile",
-        "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "mar\u00eda machado",
-            "opposition leader"
-        ]
-    },
-    {
-        "title": "Israelis prepare to vote in one of the most pivotal elections in the country's history",
-        "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
-        "source": "BBC News",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "pivotal elections",
-            "country 's history security",
-            "central issues"
-        ]
-    },
-    {
-        "title": "Faisal Islam: Healey's Budget needs to sustain the stronger economy through gathering clouds",
-        "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-        "summary": "The economic is positive now but come January things could become trickier for the Labour government",
-        "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "faisal islam",
-            "gathering clouds"
-        ]
-    },
-    {
-        "title": "Kane, Yamal or Kvaratskhelia? BBC Sport pundits on who should win the men's Ballon d'Or",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "bbc sport",
-            "men 's",
-            "d'or winner"
-        ]
-    },
-    {
-        "title": "How a movement of students brought down Serbia's Vu\u010di\u0107",
-        "link": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&at_campaign=rss",
-        "summary": "In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vui.",
-        "source": "BBC News",
-        "objectivity_score": 19,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "political dominance",
-            "aleksandar vui"
-        ]
-    },
-    {
-        "title": "Is 'ferritin face' a real thing - and can you really spot low iron from looks?",
-        "link": "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Videos in which people claim to spot the signs of low iron have attracted millions of views online.",
-        "source": "BBC News",
-        "objectivity_score": 27,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "real thing",
-            "views online"
-        ]
-    },
-    {
-        "title": "Lula faces hostile congress and divided country after Brazil election win",
-        "link": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
-        "summary": "The incumbent president has pulled off a surprise win, but he will face a hostile Congress and a polarised country.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "faces hostile congress",
-            "incumbent president"
-        ]
-    },
-    {
-        "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-        "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-        "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-        "source": "BBC News",
-        "objectivity_score": 16,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "data centre backlash",
-            "digital world",
-            "environmental impact"
-        ]
-    },
-    {
-        "title": "Sign up now",
-        "link": "https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&at_campaign=rss",
-        "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
-        "source": "BBC News",
-        "objectivity_score": 30,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "sign"
-        ]
-    },
-    {
-        "title": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
-        "link": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss",
-        "summary": "The single is the second posthumous release from Parton - who was of Welsh descent.",
-        "source": "BBC News",
-        "objectivity_score": 7,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "uploads lyrics",
-            "dolly parton",
-            "welsh version"
-        ]
-    },
-    {
-        "title": "Australian murderer loses bid to eat Vegemite in prison",
-        "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
-        "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
-        "source": "BBC News",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "andre mckechnie",
-            "property developer"
-        ]
-    },
-    {
-        "title": "Jordan arrests three men suspected of deadly church attack after shootout",
-        "link": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss",
-        "summary": "No group has yet said it was behind Friday's shooting attack in the village of Hmoud, which left nine Christians dead.",
-        "source": "BBC News",
-        "objectivity_score": 37,
-        "sentiment": "Negative",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "church attack"
-        ]
-    },
-    {
-        "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
-        "link": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss",
-        "summary": "The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him.",
-        "source": "BBC News",
-        "objectivity_score": 7,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "sharon osbourne",
-            "tv presenter",
-            "'s burial site"
-        ]
-    },
-    {
-        "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-        "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
-        "source": "BBC News",
-        "objectivity_score": 40,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "eric bauza",
-            "bugs bunny",
-            "daffy duck"
-        ]
-    },
-    {
-        "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
-        "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-        "summary": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country.",
-        "source": "BBC News",
-        "objectivity_score": 50,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "21-day quarantine",
-            "dr congo uganda",
-            "dr congo"
-        ]
-    },
-    {
-        "title": "China's big political meeting could see Xi 'tighten discipline' in party",
-        "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
-        "summary": "The highly secretive four-day Plenum starts Monday in Beijing.",
-        "source": "BBC News",
-        "objectivity_score": 24,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "big political meeting",
-            "'tighten discipline",
-            "secretive four-day"
+            "walter koenig",
+            "pavel chekov",
+            "eager russian crewman"
         ]
     },
     {
@@ -1123,107 +1136,92 @@
         ]
     },
     {
-        "title": "Coming soon: Sir David Attenborough's next great ocean journey",
-        "link": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC",
-        "summary": "Every wave has a story. Experience the wonder waiting beneath the surface",
+        "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Harry Kane's dream of winning the Ballon d'Or seemed as if it had come true on Monday when the organisers released an article claiming he had won the award.",
         "source": "BBC News",
-        "objectivity_score": 37,
+        "objectivity_score": 80,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "sir david attenborough",
-            "great ocean journey"
+            "d'or winner",
+            "harry kane",
+            "'s dream"
         ]
     },
     {
-        "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
+        "title": "Ballon d'Or winner? Kane's best Bundesliga goals",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o?at_medium=RSS&at_campaign=rss",
+        "summary": "With the 2026 Ballon d'Or just around the corner, BBC Sport looks back at some of Harry Kane's best goals in a Bayern Munich shirt.",
         "source": "BBC News",
-        "objectivity_score": 19,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "'s fans",
-            "michael carrick",
-            "home defeat"
-        ]
-    },
-    {
-        "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
-        "source": "BBC News",
-        "objectivity_score": 30,
+        "objectivity_score": 20,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "midas touch",
-            "kylian mbappe",
-            "jose mourinho"
+            "d'or winner",
+            "bbc sport",
+            "harry kane"
         ]
     },
     {
-        "title": "Borthwick's autumn questions as World Cup looms",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck20wj7znqy8o?at_medium=RSS&at_campaign=rss",
-        "summary": "The upcoming Nations Championship matches present a selection dilemma for Steve Borthwick's England with just nine matches to go until the World Cup.",
+        "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Sport looks at who could replace Michael Carrick at Manchester United if the head coach is sacked.",
+        "source": "BBC News",
+        "objectivity_score": 53,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "'s list",
+            "bbc sport",
+            "michael carrick"
+        ]
+    },
+    {
+        "title": "Player in Stokes and Atkinson altercation joins Bristol after Saracens sacking",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c95yn672rx64o?at_medium=RSS&at_campaign=rss",
+        "summary": "Bristol Bears have signed 21-year-old Samoan forward Totoa Auvaa, two weeks after he was sacked by Saracens.",
         "source": "BBC News",
         "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "'s autumn questions",
-            "world cup looms",
-            "selection dilemma"
+            "altercation joins",
+            "totoa auvaa"
         ]
     },
     {
-        "title": "Late Mbappe goal earns Real win at Barca in dramatic Clasico",
-        "link": "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
-        "summary": "Kylian Mbappe scores twice for Real Madrid as they beat Barcelona 2-1 at the  Camp Nou in the first El Clasico of the season.",
+        "title": "McDowell becomes latest major champion to exit LIV",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/ck78px63l923o?at_medium=RSS&at_campaign=rss",
+        "summary": "Northern Ireland's Graeme McDowell becomes the latest major champion to exit LIV Golf.",
         "source": "BBC News",
-        "objectivity_score": 48,
+        "objectivity_score": 70,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "late mbappe",
-            "clasico kylian mbappe",
-            "real madrid"
+            "major champion",
+            "graeme mcdowell",
+            "major champion"
         ]
     },
     {
-        "title": "Ex-Liverpool winger Pennant has more than 50 stitches after dog attack",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8e81xjy7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Former Premier League footballer Jermaine Pennant says he needed more than 50 stitches after being mauled by a dog.",
+        "title": "England-Republic of Ireland U15 World Cup game ends over alleged racism",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cmn8wzldd7q0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Under-15 World Cup Group C match between England and Republic of Ireland is abandoned after England allege an opposition player made a racist comment.",
         "source": "BBC News",
-        "objectivity_score": 33,
-        "sentiment": "Positive",
+        "objectivity_score": 25,
+        "sentiment": "Negative",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "dog attack",
-            "premier league footballer",
-            "jermaine pennant"
-        ]
-    },
-    {
-        "title": "Nix's 62-yard touchdown & 'vintage Rodgers' - NFL best plays",
-        "link": "https://www.bbc.co.uk/sport/american-football/videos/crp3g25vv4qyo?at_medium=RSS&at_campaign=rss",
-        "summary": "\"Vintage\" Aaron Rodgers and Bo Nix's 62-yard touchdown feature in the best action from week seven of the NFL.",
-        "source": "BBC News",
-        "objectivity_score": 23,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "'s 62-yard touchdown",
-            "aaron rodgers",
-            "bo nix"
+            "ireland u15",
+            "world cup game ends",
+            "world cup group"
         ]
     },
     {
@@ -1239,6 +1237,34 @@
             "ukrainians suppress feelings",
             "russian prisoners",
             "emotional struggle"
+        ]
+    },
+    {
+        "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
+        "link": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
+        "summary": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "egypt oks",
+            "defensive purposes",
+            "kingdom exchanges"
+        ]
+    },
+    {
+        "title": "Serbia\u2019s Election Shows New Vulnerability for Nationalist Populists",
+        "link": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
+        "summary": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed.",
+        "source": "NYT > World News",
+        "objectivity_score": 39,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s election"
         ]
     },
     {
@@ -1284,6 +1310,36 @@
             "lula came",
             "progressive president",
             "dramatic reversal"
+        ]
+    },
+    {
+        "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+        "link": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+        "summary": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran.",
+        "source": "NYT > World News",
+        "objectivity_score": 90,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "iran amid",
+            "israeli plans",
+            "saudi arabia"
+        ]
+    },
+    {
+        "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+        "link": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+        "summary": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration.",
+        "source": "NYT > World News",
+        "objectivity_score": 33,
+        "sentiment": "Negative",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "norway pushes",
+            "trump disparages",
+            "decision norwegian"
         ]
     },
     {
@@ -1375,61 +1431,137 @@
         ]
     },
     {
-        "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
-        "link": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
-        "summary": "While the police kept a lid on vandalism, the huge number of protesters and Frances fraught politics suggest unrest could grow.",
+        "title": "How Lula\u2019s Social Media Campaign Helped Him Win Brazil\u2019s Election",
+        "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
+        "summary": "President Luiz Incio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
         "source": "NYT > World News",
-        "objectivity_score": 90,
+        "objectivity_score": 17,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "anxiety mix",
-            "huge number",
-            "fraught politics"
+            "media campaign helped him win brazil",
+            "\u2019 s election president",
+            "luiz incio lula"
         ]
     },
     {
-        "title": "Elon Musk Says Ukraine Violated Starlink\u2019s Rules",
-        "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-        "summary": "The comments came after the disruption in the countrys satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+        "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+        "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+        "summary": "Israels military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
         "source": "NYT > World News",
-        "objectivity_score": 38,
+        "objectivity_score": 18,
         "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "elon musk says ukraine violated starlink",
-            "countrys satellite service",
-            "normal speeds"
+            "netanyahu pushed",
+            "iran ahead",
+            "say israels"
         ]
     },
     {
-        "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
-        "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
-        "summary": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
+        "title": "Mexico\u2019s Top Election Official Resigns Amid Corruption Scandal",
+        "link": "https://www.nytimes.com/2026/10/26/world/americas/mexico-election-official-resigns.html",
+        "summary": "Guadalupe Taddei Zavala, the head of the electoral watchdog, stepped down after facing accusations of corruption and influence peddling.",
         "source": "NYT > World News",
-        "objectivity_score": 100,
-        "sentiment": "Negative",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "iranians face anxious wait",
-            "attack looms",
-            "war-weary residents"
-        ]
-    },
-    {
-        "title": "Far, Far Away",
-        "link": "https://www.nytimes.com/2026/10/25/world/africa/tristan-da-cunha-island.html",
-        "summary": "Making a home on the worlds most remote inhabited island.",
-        "source": "NYT > World News",
-        "objectivity_score": 67,
+        "objectivity_score": 39,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "far away making"
+            "resigns amid",
+            "scandal guadalupe taddei zavala",
+            "electoral watchdog"
+        ]
+    },
+    {
+        "title": "Election Surprises",
+        "link": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
+        "summary": "Serbia and Brazil are very different countries. But their unexpected election results tell us a lot.",
+        "source": "NYT > World News",
+        "objectivity_score": 89,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "surprises serbia",
+            "different countries",
+            "unexpected election results"
+        ]
+    },
+    {
+        "title": "Brazilians React to Lula\u2019s Election Victory Over Bolsonaro",
+        "link": "https://www.nytimes.com/video/world/americas/100000011236847/brazil-election-lula-bolsonaro-reaction.html",
+        "summary": "Supporters of President Luiz Incio Lula da Silva celebrated his re-election in Brazil. His opponent, Flvio Bolsonaro, called for the election to be annulled.",
+        "source": "NYT > World News",
+        "objectivity_score": 75,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "brazilians react",
+            "\u2019 s election",
+            "bolsonaro supporters"
+        ]
+    },
+    {
+        "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
+        "link": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
+        "summary": "The panel also accuses Israel of committing crimes against humanity in the West Bank. Israel condemned the report.",
+        "source": "NYT > World News",
+        "objectivity_score": 10,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "committed genocidal acts",
+            "panel says"
+        ]
+    },
+    {
+        "title": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
+        "link": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
+        "summary": "The assaults on infrastructure, which cut off heat and power on bitterly cold winter days, amounted to a crime against humanity, investigators said.",
+        "source": "NYT > World News",
+        "objectivity_score": 50,
+        "sentiment": "Negative",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "civilian suffering was goal",
+            "russian strikes",
+            "u.n. panel says"
+        ]
+    },
+    {
+        "title": "Convicted Australian Murderer Loses Bid to Eat Vegemite in Prison",
+        "link": "https://www.nytimes.com/2026/10/26/world/australia/australia-prison-vegemite-ban-lawsuit.html",
+        "summary": "A judge agreed that denying the staple restricted the prisoners cultural rights but ruled that keeping drug dogs focused and cells free of illicit home brew was more important.",
+        "source": "NYT > World News",
+        "objectivity_score": 41,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "convicted australian murderer loses bid",
+            "eat vegemite",
+            "cultural rights"
+        ]
+    },
+    {
+        "title": "Chris Brown Gets Suspended Prison Sentence Over Nightclub Assault",
+        "link": "https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html",
+        "summary": "The singer, 37, had pleaded guilty after hitting a music producer repeatedly in the head with a bottle in London in 2023. He is unlikely to serve any prison time.",
+        "source": "NYT > World News",
+        "objectivity_score": 75,
+        "sentiment": "Negative",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "chris brown",
+            "suspended prison sentence",
+            "nightclub assault"
         ]
     },
     {
@@ -1448,131 +1580,18 @@
         ]
     },
     {
-        "title": "Crowds Celebrate After Serbia\u2019s Nationalist Leader Concedes Defeat",
-        "link": "https://www.nytimes.com/video/world/europe/100000011236309/serbia-election-results-vucic.html",
-        "summary": "Celebrations erupted in Belgrade after Aleksandar Vucic, Serbias longtime strongman, conceded defeat in the countrys general election.",
-        "source": "NYT > World News",
-        "objectivity_score": 50,
+        "title": "UK sanctions Sudanese military leaders implicated in El Fasher \u2018campaign of rape\u2019",
+        "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+        "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freezeSenior Sudanese commanders implica...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 33,
         "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "crowds celebrate",
-            "nationalist leader",
-            "concedes defeat celebrations"
-        ]
-    },
-    {
-        "title": "Lula Wins Brazil\u2019s Presidency as Bolsonaro Rejects Results",
-        "link": "https://www.nytimes.com/video/world/americas/100000011236196/brazil-election-results-lula-bolsonaro.html",
-        "summary": "Luiz Incio Lula da Silva was re-elected as the president of Brazil on Sunday, defeating Flvio Bolsonaro, who rejected the results.",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "lula wins brazil",
-            "bolsonaro rejects",
-            "luiz incio lula"
-        ]
-    },
-    {
-        "title": "Who Is Netanyahu\u2019s Main Opponent in Israel\u2019s Elections?",
-        "link": "https://www.nytimes.com/video/world/asia/100000011222464/who-is-netanyahus-main-opponent-in-israels-elections.html",
-        "summary": "Gadi Eisenkot has emerged as Benjamin Netanyahus main opponent in the upcoming elections. The New York Times Jerusalem bureau chief, David Halbfinger, describes why Mr. Eisenkot is resonating with Isr...",
-        "source": "NYT > World News",
-        "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "gadi eisenkot",
-            "benjamin netanyahus",
-            "main opponent"
-        ]
-    },
-    {
-        "title": "Is the Venice Soccer Team Ever Going to Be as Good as It Looks?",
-        "link": "https://www.nytimes.com/2026/10/26/world/europe/venice-soceer.html",
-        "summary": "Venezia FC, a historically modest club, has become a fashion sensation. But its performance has struggled to match the off-field hype.",
-        "source": "NYT > World News",
-        "objectivity_score": 75,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "venice soccer team ever going",
-            "venezia fc",
-            "modest club"
-        ]
-    },
-    {
-        "title": "The presidential election in Brazil is a test of Trump\u2019s power as a kingmaker.",
-        "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-presidential-election-in-brazil-is-a-test-of-trumps-power-as-a-kingmaker",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "presidential election",
-            "\u2019 s power"
-        ]
-    },
-    {
-        "title": "The future of the Amazon rainforest could depend on who wins.",
-        "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 16,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "news"
-        ]
-    },
-    {
-        "title": "Lula has accused Meta of helping his opponent.",
-        "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/lula-has-accused-meta-of-helping-his-opponent",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "lula"
-        ]
-    },
-    {
-        "title": "A.I. videos flooded the internet in the run-up to the election.",
-        "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/ai-videos-flooded-the-internet-in-the-run-up-to-the-election",
-        "summary": "",
-        "source": "NYT > World News",
-        "objectivity_score": 0,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "a.i."
-        ]
-    },
-    {
-        "title": "Who Is Mar\u00eda Corina Machado?",
-        "link": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html",
-        "summary": "The Venezuelan opposition leader returned home from exile to a country firmly under American control. How are her relations with Washington?",
-        "source": "NYT > World News",
-        "objectivity_score": 20,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "mar\u00eda corina machado",
-            "opposition leader",
-            "american control"
+            "military leaders",
+            "el fasher",
+            "\u2018 campaign"
         ]
     },
     {
@@ -1636,26 +1655,56 @@
         ]
     },
     {
-        "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-        "link": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-        "summary": "41-year-old set on dream to be able to race in AfricaRwanda to host despite criticism of human rights recordLewis Hamilton has said he hopes to remain racing in Formula One until he can take part in t...",
+        "title": "Brazil: defeated Fl\u00e1vio Bolsonaro ordered to surrender passports",
+        "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+        "summary": "Far-right senator banned from leaving country as supreme court judges ruling makes reference to money-laundering caseThe far-right senator Flvio Bolsonaro was banned from leaving Brazil and ordered to...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 33,
+        "sentiment": "Negative",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "fl\u00e1vio bolsonaro",
+            "surrender passports",
+            "supreme court judges ruling"
+        ]
+    },
+    {
+        "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
+        "link": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+        "summary": "A viral WhatsApp channel and student-led protests played a key role in the veteran Brazilian leftists election victoryAfter the first round of the Brazilian presidential election three weeks ago, the ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 34,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "lewis hamilton",
-            "career till",
-            "human rights recordlewis"
+            "social media",
+            "historic comeback",
+            "key role"
         ]
     },
     {
-        "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+        "title": "How Lula beat far-right Bolsonaro in Brazil \u2013 The Latest",
+        "link": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
+        "summary": "Brazils Luiz Incio Lula da Silva has won a historic fourth term as president, defeating the far-right candidate Flvio Bolsonaro in a dramatic comeback.Lula is the first candidate to win a runoff elect...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 30,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "latest brazils luiz incio lula",
+            "far-right candidate",
+            "flvio bolsonaro"
+        ]
+    },
+    {
+        "title": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
         "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
         "summary": "Leftist president Luiz Incio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive termFull report: Lula wins fourth term as Brazils president o...",
         "source": "World news | The Guardian",
-        "objectivity_score": 21,
+        "objectivity_score": 19,
         "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
@@ -1666,63 +1715,33 @@
         ]
     },
     {
-        "title": "Brazil keeps left: what Lula\u2019s victory means for his country and beyond",
-        "link": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-        "summary": "In todays newsletter: As Luiz Incio Lula da Silva secured victory in the presidential race, we look the implications for democracy, the environment and international relationsGood morning. Chances are...",
+        "title": "\u2018Democracy always\u2019: Lula vows no return to dictatorship in Brazil after election win",
+        "link": "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win",
+        "summary": "Leaders and governments worldwide congratulate Lula on dramatic comeback seen as an important signal to rest of Latin AmericaLula supporters celebrate election victory  in picturesLuiz Incio Lula da S...",
         "source": "World news | The Guardian",
-        "objectivity_score": 30,
+        "objectivity_score": 41,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "\u2019 s victory",
-            "todays newsletter",
-            "luiz incio lula"
+            "governments worldwide congratulate",
+            "dramatic comeback",
+            "important signal"
         ]
     },
     {
-        "title": "Exiled opposition leader Mar\u00eda Corina Machado returns to rapturous reception in Venezuela",
-        "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-        "summary": "Nobel peace prize winners return after almost a year in exile is unlikely to please interim president Delcy RodrguezThe Venezuelan opposition leader, Mara Corina Machado, has announced she has returne...",
+        "title": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
+        "link": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
+        "summary": "Devin Jacob Ballard, 20, denies charges that he fatally strangled Anna Yagi, 39, in a hotel on the island of OkinawaProsecutors in Japan have filed formal charges against a US marine suspected of murd...",
         "source": "World news | The Guardian",
-        "objectivity_score": 25,
-        "sentiment": "Negative",
+        "objectivity_score": 2,
+        "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "opposition leader",
-            "mar\u00eda corina machado",
-            "rapturous reception"
-        ]
-    },
-    {
-        "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Fl\u00e1vio Bolsonaro",
-        "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-        "summary": "Leftist incumbent Lula says unprecedented comeback was a defeat for denialism as Bolsonaro refuses to accept election resultLula wins election in stunning comeback  live updatesLuiz Incio Lula da Silv...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "fl\u00e1vio bolsonaro leftist",
-            "unprecedented comeback",
-            "election resultlula"
-        ]
-    },
-    {
-        "title": "Brazil election 2026: Full second round results as Lula wins comeback against Fl\u00e1vio Bolsonaro",
-        "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
-        "summary": "After a shock defeat in the first round, the incumbent Brazilian president, Luiz Incio Lula da Silva, has turned the election around to win the runoff.Live blog: latest analysis and reactionBrazils pr...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 48,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "round results",
-            "fl\u00e1vio bolsonaro",
-            "shock defeat"
+            "japanese prosecutors charge us marine",
+            "devin jacob ballard",
+            "denies charges"
         ]
     },
     {
@@ -1786,101 +1805,131 @@
         ]
     },
     {
-        "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-        "link": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
-        "summary": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelledTyphoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, a...",
+        "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; security crackdown for nine MPs after alleged Haines attack",
+        "link": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+        "summary": "Follow the days news liveGet our breaking news email, free app or daily news podcastPolitical debate should be robust but respectful: RustonA day after MPs addressed the House of Representatives payin...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 44,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "security crackdown",
+            "days news liveget",
+            "news email"
+        ]
+    },
+    {
+        "title": "Man found dead in Queensland floods named as former councillor and One Nation candidate",
+        "link": "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge",
+        "summary": "Fraser coast mayor described James Hansen as always ready to help others, contribute to the community and advocate stronglyGet our breaking news email, free app or daily news podcastJames Hansen, a fo...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "coast mayor",
+            "james hansen",
+            "advocate stronglyget"
+        ]
+    },
+    {
+        "title": "iPhone Duo owners report cracks in Apple\u2019s first foldable handset",
+        "link": "https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
+        "summary": "Company says small number of devices affected by display glitch after posts appear on Reddit and social mediaOwners of the new foldable iPhone are reporting cracks in the devices screen, as Apple conf...",
         "source": "World news | The Guardian",
         "objectivity_score": 37,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "typhoon champi",
-            "large parts",
-            "flights cancelledtyphoon"
-        ]
-    },
-    {
-        "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
-        "link": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
-        "summary": "Australian Signals Directorate chief says advanced AI tools are needed to defend against AI-enabled attackersGet our daily political email, free app or daily news podcastAustralians should prepare for...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 47,
         "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "online services",
-            "threats rise",
-            "cyber agency warns"
+            "foldable handset company",
+            "small number",
+            "display glitch"
         ]
     },
     {
-        "title": "Man found dead in Queensland flood waters as state hit by multiple storms and days-long deluge",
-        "link": "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge",
-        "summary": "Many rivers and roads left flooded after torrential downpours across QueenslandGet our breaking news email, free app or daily news podcastA mans body has been found in flood waters following an unusua...",
+        "title": "Endangered turtles and \u2018exceptional\u2019 coral at risk from Woodside\u2019s gas drilling in WA, watchdog says",
+        "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
+        "summary": "Exclusive: EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whalesFollow our Australian politics live blog for latest updatesSign up for climate and environment editor Adam Mor...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 52,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "\u2018 exceptional \u2019 coral",
+            "\u2019 s gas",
+            "flags oil spill risk"
+        ]
+    },
+    {
+        "title": "The chaos in France is a \u2018warning signal\u2019 for Australia\u2019s public spending and rising costs",
+        "link": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+        "summary": "Australias public debt may be well below that of France but there are lessons to be taken from its economic woesGet our daily political email, free app or daily news podcastThe explosion of discontent...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 26,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "\u2018 warning signal \u2019",
+            "public debt",
+            "economic woesget"
+        ]
+    },
+    {
+        "title": "Protest leaders urge French pupils to keep barricading their schools",
+        "link": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
+        "summary": "Activists say struggle must go on until their maximum demands are met over teacher shortages and building repairsFrench children should continue to barricade their schools and take part in street prot...",
         "source": "World news | The Guardian",
         "objectivity_score": 31,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "flood waters",
-            "multiple storms",
-            "days-long deluge"
-        ]
-    },
-    {
-        "title": "Steggall and Ryan accuse Taylor of not \u2019reading the room\u2019 with \u2019tone deaf\u2019 Haines tribute speech \u2013 as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-        "summary": "This blog is now closedGet our daily political email, free app or daily news podcastSteggall calls for civility and respectIndependent MP Zali Steggall has called for more respect in times of disagree...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 51,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "\u2019 reading",
-            "room \u2019",
-            "\u2019 tone"
+            "leaders urge",
+            "french pupils",
+            "maximum demands"
         ]
     },
     {
-        "title": "Angus Taylor criticised for \u2018tone deaf\u2019 response to alleged attack on Helen Haines",
-        "link": "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb",
-        "summary": "Zali Steggall and Monique Ryan say Coalition leader was wrong to deny link between parliamentary debate and political violenceAngus Taylor has been criticised for his response to the alleged attack on...",
+        "title": "No 10 clarifies Andy Burnham\u2019s stance on freedom of movement",
+        "link": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+        "summary": "Clarification comes after PM fuelled speculation about EU-UK relationship in series of interviews at weekendDowning Street has been forced to clarify Andy Burnhams stance on whether the UK would retur...",
         "source": "World news | The Guardian",
-        "objectivity_score": 22,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "angus taylor",
-            "\u2018 tone",
-            "deaf \u2019 response"
-        ]
-    },
-    {
-        "title": "Former RAAF pilot who allegedly murdered wife was \u2018love rat\u2019 and \u2018master manipulator\u2019, jury hears",
-        "link": "https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb",
-        "summary": "Robert John Crawford on trial after wife found near ride-on lawnmower on their Toowoomba propertyGet our breaking news email, free app or daily news podcastA former RAAF pilot was a love rat and maste...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 35,
+        "objectivity_score": 55,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "\u2018 master manipulator \u2019",
-            "jury hears",
-            "robert john crawford"
+            "andy burnham",
+            "\u2019 s stance",
+            "andy burnhams"
         ]
     },
     {
-        "title": "Serbia wakes up to new reality after student-led movement ousts Vu\u010di\u0107 \u2013 Europe live",
+        "title": "Serbia\u2019s Student List preparing for talks on forming government despite no clear leader",
+        "link": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader",
+        "summary": "Non-hierarchical movement is seeking to rebuild society in Balkan country after years of authoritarian ruleSerbias triumphant but untested Student List movement is preparing to start talks on forming ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 19,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "\u2019 s student",
+            "clear leader",
+            "authoritarian ruleserbias triumphant"
+        ]
+    },
+    {
+        "title": "Serbia wakes up to new reality after student-led movement ousts Vu\u010di\u0107 \u2013 as it hapepned",
         "link": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
         "summary": "Hopes raised for a reset in relations with EU and other partners following the defeat of authoritarian presidentSerbian leader ousted by student movement in seismic electionBack to Serbia, we are expe...",
         "source": "World news | The Guardian",
-        "objectivity_score": 29,
+        "objectivity_score": 27,
         "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
@@ -1891,63 +1940,78 @@
         ]
     },
     {
-        "title": "European gas prices soar to four-year high over winter supply fears",
-        "link": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
-        "summary": "Jump fuelled by fears of further Middle East supply disruptions amid reports of US-Israeli plans to strike Iran  European gas prices have jumped to levels not seen since 2022 as fears continue to grow...",
+        "title": "Audi boss under fire in Germany for Trump rally appearance",
+        "link": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
+        "summary": "Gernot Dllner criticised for in-person announcement of major investment in US days before midterm electionsThe head of the luxury carmaker Audi is under fire in Germany for appearing at a rally with D...",
         "source": "World news | The Guardian",
-        "objectivity_score": 17,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "european gas prices soar",
-            "fears jump",
-            "european gas prices"
-        ]
-    },
-    {
-        "title": "Brexit deal is not good enough for British public, says Andy Burnham",
-        "link": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
-        "summary": "EU exit has damaged economy and failed to bring promised benefits, says PM, but he rules out big pre-election changesUK politics live  latest updatesEurope live  latest updatesBrexit has not played ou...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 38,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "british public",
-            "andy burnham eu",
-            "big pre-election changesuk politics"
-        ]
-    },
-    {
-        "title": "Serbian leader Aleksandar Vu\u010di\u0107 ousted by student movement in seismic election",
-        "link": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-        "summary": "Vuis 12-year reign looks to have been ended by record turnout of voters in election provoked by student-led protestsThe long-serving leader of Serbia, Aleksandar Vui, has conceded defeat, ushering in ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "aleksandar vu\u010di\u0107",
-            "student movement",
-            "seismic election"
-        ]
-    },
-    {
-        "title": "\u2018Door to EU is open\u2019 new Serbian government told after Vu\u010di\u0107 concedes election \u2013 Europe live as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-        "summary": "Student List movement projected to have 141 seats in the new parliament, well clear of the 126 required for majoritySerbian leader Aleksandar Vui concedes defeat in fiercely contested parliamentary el...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 44,
+        "objectivity_score": 52,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "open \u2019",
-            "concedes election \u2013",
-            "new parliament"
+            "rally appearance",
+            "gernot dllner",
+            "in-person announcement"
+        ]
+    },
+    {
+        "title": "Jordan attacks militants in Syria in retaliation for last week\u2019s church attack",
+        "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+        "summary": "Jordanian air force says it carried out strikes against terrorist groups tied to killing of nine in KarakJordan has carried out airstrikes against armed groups in Syria in retaliation for Fridays atta...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 28,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "attacks militants",
+            "week \u2019 s church attack",
+            "air force"
+        ]
+    },
+    {
+        "title": "British politicians among international delegates barred from entering West Bank",
+        "link": "https://www.theguardian.com/world/2026/oct/26/british-politicians-among-international-delegates-barred-from-entering-west-bank",
+        "summary": "Group was on visit to meet Palestinian children, farmers and civil leaders facing escalating violence from Israeli forcesAn international delegation including British politicians has been barred from ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 0,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "british politicians",
+            "international delegates",
+            "west bank group"
+        ]
+    },
+    {
+        "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
+        "link": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+        "summary": "Israeli prime minister increases alarmist rhetoric as his far-right coalition narrowly trails in pollsBenjamin Netanyahu has resorted to increasingly alarmist rhetoric and reportedly put pressure on I...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 18,
+        "sentiment": "Negative",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "prime minister increases alarmist rhetoric",
+            "far-right coalition",
+            "alarmist rhetoric"
+        ]
+    },
+    {
+        "title": "Middle East peace held back by US insistence that Iran is a threat, Oman\u2019s foreign minister says",
+        "link": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+        "summary": "Badr Albusaidi calls for security pact involving Gulf states, Iraq and Iran with US no longer primary provider of security The Middle Easts ability to solve its problems has been held back by Americas...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 22,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "us insistence",
+            "foreign minister",
+            "badr albusaidi"
         ]
     },
     {
@@ -1963,66 +2027,6 @@
             "collective punishment \u2019",
             "security credentials",
             "benjamin netanyahus"
-        ]
-    },
-    {
-        "title": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
-        "link": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
-        "summary": "Lana Nusseibeh has Palestines endorsement but faces criticism over UAEs record on human rights and SudanAn Emirati diplomat who as UAE ambassador to the UN helped secure the delivery of humanitarian a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 43,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "enters un secretary general race",
-            "lana nusseibeh",
-            "faces criticism"
-        ]
-    },
-    {
-        "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-        "link": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-        "summary": "PM Benjamin Netanyahu vows to destroy this place in retaliation for militant attack on army checkpointIsraeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in collec...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 21,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "soldiers raze neighbourhood",
-            "pm benjamin netanyahu",
-            "militant attack"
-        ]
-    },
-    {
-        "title": "\u2018That\u2019s the way the city works\u2019: how the UAE changed the face of Andy Burnham\u2019s Manchester",
-        "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
-        "summary": "The story of the emirates presence in Manchester winds from the Arab spring to some of the most deprived places in England  with complicated resultsEmirati-linked firms ownership of Manchester land up...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 45,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "andy burnham",
-            "emirates presence",
-            "firms ownership"
-        ]
-    },
-    {
-        "title": "\u2018Gaza\u2019s suffering has become campaign fodder\u2019: Palestinians fear the worst from Israel election",
-        "link": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
-        "summary": "Humanitarian catastrophe largely ignored as rivals Gadi Eisenkot and Benjamin Netanyahu vow to end Hamas ruleAs Israel prepares to go to the polls, Palestinians in Gaza are bracing for an outcome that...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 36,
-        "sentiment": "Neutral",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "campaign fodder \u2019",
-            "gadi eisenkot",
-            "benjamin netanyahu"
         ]
     },
     {
@@ -2101,153 +2105,153 @@
         ]
     },
     {
-        "title": "I would like to rejoin EU, says Burnham, but \u2018British public are the bosses\u2019 \u2013 UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
-        "summary": "PM says talking about changing the relationship with the bloc would not be divisive but can start to bring people togetherSpeaking at his rough sleeping summit in Downing Street this morning, Andy Bur...",
+        "title": "Russell Brand had \u2018insane sexual appetite\u2019 and his bad behaviour was normalised, trial told",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/26/russell-brand-trial-personal-assistant-evidence",
+        "summary": "Brand, charged with rape and sexual assault, was sleeping with people day and night, former assistant alleges Russell Brand had an insane sexual appetite and his bad behaviour was normalised and dismi...",
         "source": "World news | The Guardian",
-        "objectivity_score": 33,
-        "sentiment": "Neutral",
+        "objectivity_score": 57,
+        "sentiment": "Negative",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "british public",
-            "bosses \u2019 \u2013",
-            "andy burnham"
+            "russell brand",
+            "\u2018 insane sexual appetite \u2019",
+            "bad behaviour"
         ]
     },
     {
-        "title": "About 90,000 properties still without power after two storms strike Britain",
+        "title": "Major clean-up under way after two storms cause havoc in Britain",
         "link": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk",
-        "summary": "More strong winds are forecast after Storms Boelo and Austen cause travel disruption, flooding and kill two peopleTell us: have you been affected by Storm Boelo and Storm AustenAbout 90,000 properties...",
+        "summary": "More strong winds forecast after Austen and Boelo kill two people and bring travel disruption and floodingTell us: have you been affected by Storm Boelo and Storm AustenA major clean-up operation was ...",
         "source": "World news | The Guardian",
         "objectivity_score": 49,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "storms strike",
-            "storms boelo",
-            "travel disruption"
+            "major clean-up",
+            "travel disruption",
+            "storm boelo"
         ]
     },
     {
-        "title": "NHS consultants to go on two-day strike in England in November, says BMA",
+        "title": "NHS consultants to go on two-day strike in England in November",
         "link": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
-        "summary": "Industrial action by senior doctors to begin on 25 November, with only emergency cover provided, union saysSenior doctors in England plan to go on strike for two days in November, the British Medical ...",
+        "summary": "Industrial action by senior doctors to begin on 25 November with only emergency cover provided, BMA saysEnglands most senior hospital doctors will strike next month in a dispute over their pay and hou...",
         "source": "World news | The Guardian",
-        "objectivity_score": 36,
+        "objectivity_score": 35,
         "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
             "two-day strike",
             "industrial action",
-            "union sayssenior"
+            "senior hospital"
         ]
     },
     {
-        "title": "Drive reindustrialisation from No 10 North or risk failure, MPs tell Burnham",
-        "link": "https://www.theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham",
-        "summary": "Ninety-plus Labour MPs warn civil service lacks skills to drive growth where it is needed and plan should be steered by Louise Haigh from ManchesterBusiness live  latest updatesAndy Burnhams pledge to...",
+        "title": "Jury selected for trial of four accused of sexually assaulting man\u2019s drugged ex-wife",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
+        "summary": "Mr Justice Saini tells the eight men and six women at Winchester crown court the case is likely to be upsettingJurors being selected for the trial of four men accused of sexually assaulting the ex-wif...",
         "source": "World news | The Guardian",
-        "objectivity_score": 47,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "drive reindustrialisation",
-            "risk failure",
-            "burnham ninety-plus labour mps"
-        ]
-    },
-    {
-        "title": "Goldsmiths fine art students call for compensation over record tutor strike",
-        "link": "https://www.theguardian.com/education/2026/oct/26/goldsmiths-university-fine-arts-students-call-for-compensation-strikes",
-        "summary": "With industrial action over job cuts heading into its 21st week, students at famed London college are unhappyStudents arriving at Goldsmiths, University of London this autumn found a campus embroiled ...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 43,
+        "objectivity_score": 54,
         "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "fine art students",
-            "record tutor strike",
-            "industrial action"
+            "man \u2019 s",
+            "crown court",
+            "multiple charges"
         ]
     },
     {
-        "title": "Peta releases video showing experiments on infant monkeys at University of Washington",
-        "link": "https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video",
-        "summary": "Animal-rights group released video footage that shows distressed baby macaques undergoing lab experimentsFootage released by the animal-rights group Peta reveals, for the first time, filmed experiment...",
+        "title": "Shabana Mahmood launches review into murder of student Henry Nowak",
+        "link": "https://www.theguardian.com/politics/2026/oct/26/shabana-mahmood-launches-review-into-of-student-henry-nowak",
+        "summary": "Move comes after claims that killer had history of using threatening behaviour and an obsession with weaponsShabana Mahmood, the home secretary, has launched a review to examine whether opportunities ...",
         "source": "World news | The Guardian",
-        "objectivity_score": 21,
+        "objectivity_score": 0,
         "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "releases video",
-            "infant monkeys",
-            "washington animal-rights"
+            "shabana mahmood",
+            "launches review",
+            "henry nowak move"
         ]
     },
     {
-        "title": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally \u2013 US politics live",
+        "title": "Republican and Democratic ex-governors issue rare joint endorsement for South Carolina Senate candidate \u2013 US politics live",
         "link": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-        "summary": "The US president was condemned for remarks that questioned the senate candidates loyalty to the countryWhat are the US midterm elections and why do they matter?Sign up for Breaking News US emailAnthro...",
+        "summary": "Republican David Beasley and Democrat Jim Hodges back Democrat Annie Andrews to flip seat held by Lindsey Grahams Trump-backed sister Darline What are the US midterm elections and why do they matter?S...",
         "source": "World news | The Guardian",
-        "objectivity_score": 69,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "intensifies anti-muslim rhetoric",
-            "abdul el-sayed",
-            "rally \u2013 us politics"
-        ]
-    },
-    {
-        "title": "Anthropic\u2019s Claude AI model accessed Georgia voter data in US",
-        "link": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
-        "summary": "Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics project Business live  latest updatesAnthropic sued for allegedly using 274 Elvis songs to...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 67,
-        "sentiment": "Positive",
-        "date": "2026-10-26",
-        "image_url": null,
-        "keywords": [
-            "claude ai",
-            "voter data",
-            "behaviour shows"
-        ]
-    },
-    {
-        "title": "\u2018It\u2019s a mess right now\u2019: RFK\u2019s sweeping changes place new vaccines in limbo",
-        "link": "https://www.theguardian.com/us-news/2026/oct/26/vaccines-rfk-jr",
-        "summary": "Health secretarys effort to alter makeup of ACIP panel means no new recommendations coming  even as new vaccines are approvedUS vaccine recommendations are in limbo, access to vaccines is suffering, a...",
-        "source": "World news | The Guardian",
-        "objectivity_score": 42,
+        "objectivity_score": 33,
         "sentiment": "Neutral",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "changes place",
-            "new vaccines",
-            "limbo health secretarys effort"
+            "democratic ex-governors issue",
+            "rare joint endorsement",
+            "senate candidate \u2013 us politics"
         ]
     },
     {
-        "title": "Trump rallies for Mike Rogers \u2013 and Nicki Minaj\u2019s derriere \u2013 in Michigan",
-        "link": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
-        "summary": "Trump again congratulated Ohio senators rear end before his cheeky comment about rapper being hard to missDonald Trump reiterated his apparent love for buxom bums during a rally in Michigan on Sunday ...",
+        "title": "Ex-South Carolina governors endorse Democrat Annie Andrews in Senate race",
+        "link": "https://www.theguardian.com/us-news/2026/oct/26/south-carolina-governors-annie-andrews-senate",
+        "summary": "Republican and Democrat come together for a rare joint endorsement of candidate in unexpected competitive raceTwo South Carolina former governors, David Beasley and Jim Hodges, a Republican and Democr...",
         "source": "World news | The Guardian",
-        "objectivity_score": 39,
+        "objectivity_score": 51,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "ex-south carolina",
+            "democrat annie andrews",
+            "senate race"
+        ]
+    },
+    {
+        "title": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
+        "link": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
+        "summary": "The actor appeared in the cult 1960s show as well as many of the films but also worked as a writerWalter Koenig, the actor known for playing Pavel Chekov throughout the Star Trek franchise, has died, ...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 46,
         "sentiment": "Positive",
         "date": "2026-10-26",
         "image_url": null,
         "keywords": [
-            "mike rogers",
-            "nicki minaj",
-            "\u2019 s derriere \u2013"
+            "walter koenig",
+            "cult 1960s",
+            "pavel chekov"
+        ]
+    },
+    {
+        "title": "Southern California prepares for flooding amid forecast of \u2018record-breaking tides\u2019",
+        "link": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
+        "summary": "Residents of coastal towns told to avoid beaches during high tides and keep further away from the ocean than usualSouthern California coastal communities are preparing for days of flooding amid potent...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 54,
+        "sentiment": "Neutral",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "tides \u2019",
+            "coastal towns",
+            "high tides"
+        ]
+    },
+    {
+        "title": "Fifteen-year-old arrested in shooting near Florida university that injured 12",
+        "link": "https://www.theguardian.com/us-news/2026/oct/26/florida-famu-shooting-arrest",
+        "summary": "All but one of the victims sustained gunshot wounds as boy faces 11 charges of attempted second-degree murderA 15-year-old boy was remanded into secure detention in Florida on Monday charged with 11 c...",
+        "source": "World news | The Guardian",
+        "objectivity_score": 37,
+        "sentiment": "Positive",
+        "date": "2026-10-26",
+        "image_url": null,
+        "keywords": [
+            "gunshot wounds",
+            "second-degree murdera",
+            "15-year-old boy"
         ]
     }
 ]
